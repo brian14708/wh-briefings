@@ -5,6 +5,8 @@ from datetime import datetime, timedelta
 import urllib
 from typing import List, Optional, Tuple
 import aiohttp
+import os
+import sys
 import asyncio
 from bs4 import BeautifulSoup
 import feedendum
@@ -72,8 +74,7 @@ async def fetch_index_worker(session: aiohttp.ClientSession, queue: asyncio.Queu
     fetched_articles = []
     while True:
         async with session.get(next_url) as response:
-            print('Status:', response.status)
-            print('Content-type:', response.headers['content-type'])
+            print('Fetching', next_url)
             html = await response.text()
             articles, next_url = parse_index(html)
             fetch_next = next_url is not None
@@ -110,7 +111,7 @@ async def fetch_article_worker(session: aiohttp.ClientSession, queue: asyncio.Qu
                     }
                     if a.modified_time:
                         front_matter['modified_time'] = a.modified_time
-                    await f.write(f'---\n{yaml.dump(front_matter)}...\n \n')
+                    await f.write(f'---\n{yaml.dump(front_matter)}---\n \n')
                     await f.write(markdown)
 
         except asyncio.CancelledError:
@@ -187,4 +188,5 @@ async def main():
             await f.write(feedendum.to_rss_string(feed))
 
 if __name__ == '__main__':
+    os.chdir(sys.argv[1])
     asyncio.new_event_loop().run_until_complete(main())

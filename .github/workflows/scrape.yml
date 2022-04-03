@@ -1,0 +1,41 @@
+name: Scrape White House Briefing Room
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron:  '28 */6 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: r-lib/actions/setup-pandoc@v1
+      with:
+        pandoc-version: '2.17.1.1'
+    - name: Install pipenv
+      run: |
+        pipx install pipenv
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        cache: 'pipenv'
+    - name: Install dependencies
+      run: |
+        cd _scraper
+        pipenv install
+    - name: Scrape
+      run: |
+        cd _scraper
+        pipenv run python __main__.py ..
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Update at ${timestamp}" || exit 0
+        git pull --rebase
+        git push
