@@ -1,6 +1,6 @@
 ---
 date: '2022-04-04'
-modified_time: 2022-04-03 21:46:55-04:00
+modified_time: 2022-04-04 14:01:59-04:00
 published_time: 2022-04-04 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/
 tags: statements-releases
@@ -120,7 +120,7 @@ processing in January and February 2022 compared to January and February
 Recruited, Trained, and Retained**  
 The Departments of Labor and Transportation launched the [90 Day
 Trucking Apprenticeship
-Challenge](/www.apprenticeship.gov/90-day-trucking-apprenticeship-challenge&data=04%7C01%7Cbenjamin.halle@dot.gov%7C86cf7ddd4b6a4ffb94a808d9d5eecc30%7Cc4cd245b44f04395a1aa3848d258f78b%7C0%7C0%7C637776043870402562%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%7C3000&sdata=ytX8ojo+2PmP1cmtIIw/y0H+mR/nGLZ96AJwdDE4j2s=&reserved=0%3c) to
+Challenge](https://www.apprenticeship.gov/90-day-trucking-apprenticeship-challenge) to
 jumpstart this proven workforce strategy in trucking.
 
 -   Over 100 employers across trucking, food and grocery, and the oil
