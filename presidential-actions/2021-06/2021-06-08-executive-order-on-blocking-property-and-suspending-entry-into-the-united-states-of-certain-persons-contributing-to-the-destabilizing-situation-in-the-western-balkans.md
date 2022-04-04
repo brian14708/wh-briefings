@@ -4,8 +4,9 @@ date: '2021-06-08'
 modified_time: 2021-06-08 15:56:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/08/executive-order-on-blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the-destabilizing-situation-in-the-western-balkans/
 published_time: 2021-06-08 15:56:13-04:00
-title: Executive Order on Blocking Property And Suspending Entry Into The United States
-  Of Certain Persons Contributing To The Destabilizing Situation In The Western Balkans
+title: "Executive Order on Blocking Property And Suspending Entry Into The United\_\
+  States Of Certain Persons Contributing To The Destabilizing Situation In The Western\_\
+  Balkans"
 ---
  
 By the authority vested in me as President by the Constitution and the

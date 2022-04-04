@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2022-02-18'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/18/day-of-remembrance-of-japanese-american-incarceration-during-world-war-ii/
 published_time: 2022-02-18 11:24:22-05:00
-title: Day Of Remembrance Of Japanese American Incarceration During World War II
+title: "Day Of Remembrance Of Japanese American Incarceration During World War\_II"
 ---
  
 Eighty years ago, on February 19, 1942, President Franklin D. Roosevelt

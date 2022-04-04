@@ -4,7 +4,7 @@ date: '2021-07-07'
 modified_time: 2021-07-07 07:59:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/07/readout-of-white-house-meeting-with-youth-voting-groups/
 published_time: 2021-07-07 07:59:26-04:00
-title: Readout of White House Meeting with Youth Voting Groups
+title: "Readout of White\_House Meeting with Youth Voting\_Groups"
 ---
  
 Yesterday, Domestic Policy Advisor Susan Rice and White House Public

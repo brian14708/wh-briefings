@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 12:08:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-by-president-joe-biden-on-texas-law-sb8/
 published_time: 2021-09-01 12:08:28-04:00
-title: Statement by President Joe Biden on Texas Law SB8
+title: "Statement by President Joe\_Biden on Texas Law\_SB8"
 ---
  
 Today, Texas law SB8 went into effect. This extreme Texas law blatantly

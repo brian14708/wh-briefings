@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-01-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/23/readout-of-president-joe-biden-call-with-president-andres-manuel-lopez-obrador-of-mexico/
 published_time: 2021-01-23 11:50:59-05:00
-title: "Readout of President Joe Biden Call with President Andr\xE9s Manuel L\xF3\
-  pez Obrador of Mexico"
+title: "Readout of President Joe\_Biden Call with President Andr\xE9s Manuel L\xF3\
+  pez Obrador of\_Mexico"
 ---
  
 President Biden spoke with Mexican President Andrés Manuel López Obrador

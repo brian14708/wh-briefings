@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-06-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/
 published_time: 2021-06-24 11:12:45-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces Initiatives to Promote\
-  \ Housing Stability By Supporting Vulnerable Tenants and Preventing Foreclosures"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces Initiatives to Promote\
+  \ Housing Stability By Supporting Vulnerable Tenants and Preventing\_Foreclosures"
 ---
  
 Across America, a strong economic recovery is taking hold. Since

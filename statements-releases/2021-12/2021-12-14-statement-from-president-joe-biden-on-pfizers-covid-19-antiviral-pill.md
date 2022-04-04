@@ -4,8 +4,8 @@ date: '2021-12-14'
 modified_time: 2021-12-14 15:24:34-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/statement-from-president-joe-biden-on-pfizers-covid-19-antiviral-pill/
 published_time: 2021-12-14 15:24:33-05:00
-title: "Statement from President Joe Biden on Pfizer\u2019s COVID- \u2060 19 Antiviral\
-  \ Pill"
+title: "Statement from President Joe\_Biden on Pfizer\u2019s COVID-\u206019 Antiviral\_\
+  Pill"
 ---
  
 I am encouraged by the promising data released by Pfizer today, showing

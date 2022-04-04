@@ -4,8 +4,8 @@ date: '2022-03-02'
 modified_time: 2022-03-02 13:08:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/02/fact-sheet-the-united-states-continues-to-impose-costs-on-russia-and-belarus-for-putins-war-of-choice/
 published_time: 2022-03-02 13:06:48-05:00
-title: "FACT SHEET: The United States Continues to Impose Costs on Russia and Belarus\
-  \ for Putin\u2019s War of Choice"
+title: "FACT SHEET: The United\_States Continues to Impose Costs on Russia and Belarus\
+  \ for Putin\u2019s War of\_Choice"
 ---
  
 Today, the United States, in coordination with Allies and partners, is

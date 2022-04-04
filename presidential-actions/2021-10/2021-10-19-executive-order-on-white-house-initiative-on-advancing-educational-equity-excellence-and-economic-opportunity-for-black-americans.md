@@ -4,8 +4,8 @@ date: '2021-10-19'
 modified_time: 2021-10-19 12:14:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/19/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black-americans/
 published_time: 2021-10-19 12:14:17-04:00
-title: Executive Order on White House Initiative on Advancing Educational Equity,
-  Excellence, and Economic Opportunity for Black Americans
+title: "Executive Order on White\_House Initiative on Advancing Educational Equity,\
+  \ Excellence, and Economic Opportunity for Black\_Americans"
 ---
  
 By the authority vested in me as President by the Constitution and the

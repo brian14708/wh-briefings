@@ -4,8 +4,8 @@ date: '2021-12-22'
 modified_time: 2021-12-22 13:42:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/22/remarks-by-president-biden-in-meeting-with-the-supply-chain-disruptions-task-force/
 published_time: 2021-12-22 13:42:34-05:00
-title: Remarks by President Biden in Meeting with the Supply Chain Disruptions Task
-  Force
+title: "Remarks by President\_Biden in Meeting with the Supply Chain Disruptions Task\_\
+  Force"
 ---
  
 South Court Auditorium   

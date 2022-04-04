@@ -4,7 +4,7 @@ date: '2021-07-26'
 modified_time: 2021-07-26 10:25:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/26/a-proclamation-on-national-korean-war-veterans-armistice-day-2021/
 published_time: 2021-07-26 10:25:12-04:00
-title: A Proclamation on National Korean War Veterans Armistice Day, 2021
+title: "A Proclamation on National Korean War Veterans Armistice Day,\_2021"
 ---
  
 The United States and the Republic of Korea are allies with a long

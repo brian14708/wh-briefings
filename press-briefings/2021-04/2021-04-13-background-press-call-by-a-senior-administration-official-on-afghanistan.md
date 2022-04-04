@@ -4,7 +4,7 @@ date: '2021-04-13'
 modified_time: 2021-04-13 15:25:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/13/background-press-call-by-a-senior-administration-official-on-afghanistan/
 published_time: 2021-04-13 15:25:43-04:00
-title: Background Press Call by a Senior Administration Official on Afghanistan
+title: "Background Press Call by a Senior Administration Official on\_Afghanistan"
 ---
  
 12:04 P.M. EDT  

@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-08'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/president-joseph-r-biden-jr-approves-new-york-disaster-declaration-2/
 published_time: 2021-10-08 14:24:58-04:00
-title: President Joseph R. Biden, Jr. Approves New York Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves New York Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

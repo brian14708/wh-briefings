@@ -4,9 +4,9 @@ date: '2021-05-13'
 modified_time: 2021-05-13 08:34:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/13/fact-sheet-biden-harris-administration-to-invest-7-billion-from-american-rescue-plan-to-hire-and-train-public-health-workers-in-response-to-covid-19/
 published_time: 2021-05-13 10:30:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration to Invest $7 Billion from\
-  \ American Rescue Plan to Hire and Train Public Health Workers in Response to COVID-\
-  \ \u2060 19"
+title: "FACT SHEET: Biden-\u2060Harris Administration to Invest $7 Billion from American\
+  \ Rescue Plan to Hire and Train Public Health Workers in Response to\_COVID-\u2060\
+  19"
 ---
  
 *Funding Will Create Tens of Thousands of Jobs to Respond to COVID-19,

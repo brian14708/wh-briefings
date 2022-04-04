@@ -4,8 +4,8 @@ date: '2021-08-13'
 modified_time: 2021-08-13 16:49:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-officials-travel-to-tunisia/
 published_time: 2021-08-13 16:48:51-04:00
-title: Readout from NSC Spokesperson Emily Horne on Senior Administration Officials
-  Travel to Tunisia
+title: "Readout from NSC Spokesperson Emily Horne on Senior Administration Officials\
+  \ Travel to\_Tunisia"
 ---
  
 Principal Deputy National Security Advisor Jon Finer, joined by Acting

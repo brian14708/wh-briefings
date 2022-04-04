@@ -4,7 +4,7 @@ date: '2021-06-22'
 modified_time: 2021-06-22 19:53:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/22/statement-by-vice-president-kamala-harris-on-the-for-the-people-act/
 published_time: 2021-06-22 19:53:40-04:00
-title: Statement by Vice President Kamala Harris on the For the People Act
+title: "Statement by Vice President Kamala\_Harris on the For the People\_Act"
 ---
  
 When we cast a ballot, we not only decide our leaders. We determine our

@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/
 published_time: 2021-05-27 17:52:31-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Minister of External Affairs Subrahmanyam Jaishankar\
-  \ of India"
+  \ of\_India"
 ---
  
 National Security Advisor Jake Sullivan met today with Minister of

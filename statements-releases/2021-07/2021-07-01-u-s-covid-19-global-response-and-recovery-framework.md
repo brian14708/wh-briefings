@@ -4,7 +4,7 @@ date: '2021-07-01'
 modified_time: 2021-07-02 09:25:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/
 published_time: 2021-07-01 19:26:09-04:00
-title: "U.S. COVID- \u2060 19 Global Response and Recovery Framework"
+title: "U.S. COVID-\u206019 Global Response and Recovery\_Framework"
 ---
  
 More than 600,000 of our fellow Americans, and nearly 4 million people

@@ -5,7 +5,7 @@ modified_time: 2021-08-02 12:36:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-upcoming-visit-to-singapore-and-vietnam/
 published_time: 2021-07-30 12:35:00-04:00
 title: "Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Upcoming Visit to Singapore and Vietnam"
+  \ President Kamala\_Harris\u2019s Upcoming Visit to Singapore and\_Vietnam"
 ---
  
 Vice President Kamala Harris will travel to Singapore and Vietnam next

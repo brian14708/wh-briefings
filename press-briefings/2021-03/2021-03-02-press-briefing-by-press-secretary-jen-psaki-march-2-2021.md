@@ -4,7 +4,7 @@ date: '2021-03-02'
 modified_time: 2021-03-03 12:06:40-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/02/press-briefing-by-press-secretary-jen-psaki-march-2-2021/
 published_time: 2021-03-02 17:00:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki, March 2, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, March 2,\_2021"
 ---
  
 12:39 P.M. EST

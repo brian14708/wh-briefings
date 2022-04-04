@@ -4,7 +4,7 @@ date: '2021-02-23'
 modified_time: 2021-02-23 21:21:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/roadmap-for-a-renewed-u-s-canada-partnership/
 published_time: 2021-02-23 21:21:42-05:00
-title: Roadmap for a Renewed U.S.-Canada Partnership
+title: "Roadmap for a Renewed U.S.-Canada\_Partnership"
 ---
  
 **Roadmap for a Renewed U.S.-Canada Partnership**  

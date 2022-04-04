@@ -4,7 +4,7 @@ date: '2021-11-18'
 modified_time: 2021-11-18 21:52:31-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-key-deliverables-for-the-2021-north-american-leaders-summit/
 published_time: 2021-11-18 21:52:30-05:00
-title: "FACT SHEET: Key Deliverables for the 2021 North American Leaders\u2019 Summit"
+title: "FACT SHEET: Key Deliverables for the 2021 North American Leaders\u2019\_Summit"
 ---
  
 Today President Biden met with Prime Minister Justin Trudeau of Canada

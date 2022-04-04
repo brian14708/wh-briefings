@@ -4,8 +4,8 @@ date: '2021-07-09'
 modified_time: 2021-07-09 17:45:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-president-biden-at-signing-of-an-executive-order-promoting-competition-in-the-american-economy/
 published_time: 2021-07-09 17:45:02-04:00
-title: Remarks by President Biden At Signing of An Executive Order Promoting Competition
-  in the American Economy
+title: "Remarks by President\_Biden At Signing of An Executive Order Promoting Competition\
+  \ in the American\_Economy"
 ---
  
 State Dining Room 

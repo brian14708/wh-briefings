@@ -4,8 +4,8 @@ date: '2021-02-19'
 modified_time: 2021-02-19 22:17:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/statement-by-president-joseph-r-biden-jr-on-the-day-of-remembrance-of-japanese-american-internment/
 published_time: 2021-02-19 22:17:32-05:00
-title: Statement by President Joseph R. Biden, Jr. on the Day of Remembrance of Japanese
-  American Internment
+title: "Statement by President Joseph R. Biden, Jr. on the Day of Remembrance of Japanese\
+  \ American\_Internment"
 ---
  
 Seventy-nine years ago today, President Roosevelt signed Executive Order

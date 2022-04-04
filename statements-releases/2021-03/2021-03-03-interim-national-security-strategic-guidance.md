@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-03-03'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/interim-national-security-strategic-guidance/
 published_time: 2021-03-03 15:34:41-05:00
-title: Interim National Security Strategic Guidance
+title: "Interim National Security Strategic\_Guidance"
 ---
  
 Today, the Administration released the Interim National Security

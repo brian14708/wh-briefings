@@ -4,7 +4,7 @@ date: '2021-11-24'
 modified_time: 2021-11-24 10:23:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/24/a-proclamation-on-thanksgiving-day-2021/
 published_time: 2021-11-24 10:23:32-05:00
-title: 'A Proclamation on: Thanksgiving Day, 2021'
+title: "A Proclamation on: Thanksgiving Day,\_2021"
 ---
  
 Thanksgiving provides us with a time to reflect on our many blessings —

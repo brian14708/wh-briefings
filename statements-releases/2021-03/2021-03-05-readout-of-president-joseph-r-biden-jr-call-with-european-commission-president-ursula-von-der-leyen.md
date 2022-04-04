@@ -4,8 +4,8 @@ date: '2021-03-05'
 modified_time: 2021-03-05 12:43:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/05/readout-of-president-joseph-r-biden-jr-call-with-european-commission-president-ursula-von-der-leyen/
 published_time: 2021-03-05 12:43:28-05:00
-title: Readout of President Joseph R. Biden, Jr. Call with European Commission President
-  Ursula von der Leyen
+title: "Readout of President Joseph R. Biden, Jr. Call with European Commission President\
+  \ Ursula von der\_Leyen"
 ---
  
 President Joseph R. Biden spoke today with European Commission President

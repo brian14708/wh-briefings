@@ -4,7 +4,7 @@ date: '2022-02-16'
 modified_time: 2022-02-16 17:10:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/readout-of-president-bidens-call-with-chancellor-olaf-scholz-of-germany-2/
 published_time: 2022-02-16 17:10:44-05:00
-title: "Readout of President Biden\u2019s Call with Chancellor Olaf Scholz of Germany"
+title: "Readout of President\_Biden\u2019s Call with Chancellor Olaf Scholz of\_Germany"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Chancellor Olaf Scholz

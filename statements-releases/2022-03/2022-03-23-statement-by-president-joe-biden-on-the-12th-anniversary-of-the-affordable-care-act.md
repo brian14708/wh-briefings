@@ -4,8 +4,8 @@ date: '2022-03-23'
 modified_time: 2022-03-22 14:25:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/statement-by-president-joe-biden-on-the-12th-anniversary-of-the-affordable-care-act/
 published_time: 2022-03-23 09:00:00-04:00
-title: Statement by President Joe Biden on the 12th Anniversary of the Affordable
-  Care Act
+title: "Statement by President Joe\_Biden on the 12th Anniversary of the Affordable\
+  \ Care\_Act"
 ---
  
 Twelve years ago, I proudly stood beside President Barack Obama as he

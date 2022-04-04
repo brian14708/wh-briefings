@@ -4,8 +4,8 @@ date: '2021-09-03'
 modified_time: 2021-09-03 16:42:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/statement-by-president-joe-biden-on-the-executive-order-directing-declassification-review-of-documents-related-to-the-september-11-2001-terrorist-attacks/
 published_time: 2021-09-03 16:10:00-04:00
-title: Statement by President Joe Biden  on the Executive Order Directing Declassification
-  Review of Documents Related to the September 11, 2001 Terrorist Attacks
+title: "Statement by President Joe\_Biden  on the Executive Order Directing Declassification\
+  \ Review of Documents Related to the September 11, 2001 Terrorist\_Attacks"
 ---
  
 When I ran for president, I made a commitment to ensuring transparency

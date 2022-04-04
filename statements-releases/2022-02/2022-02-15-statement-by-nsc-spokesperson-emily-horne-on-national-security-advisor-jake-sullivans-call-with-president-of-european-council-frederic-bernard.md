@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/
 published_time: 2022-02-15 19:07:02-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Head of Cabinet of the President of the European Council\
-  \ Fr\xE9d\xE9ric Bernard"
+  \ Fr\xE9d\xE9ric\_Bernard"
 ---
  
 National Security Advisor Jake Sullivan spoke with Frédéric Bernard,

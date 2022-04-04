@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-04-29'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/nominations-sent-to-the-senate-15/
 published_time: 2021-04-29 11:47:59-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

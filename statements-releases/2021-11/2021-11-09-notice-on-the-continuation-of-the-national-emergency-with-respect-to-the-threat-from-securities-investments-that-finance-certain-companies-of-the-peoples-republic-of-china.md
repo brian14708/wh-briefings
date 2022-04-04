@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/
 published_time: 2021-11-09 12:06:46-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to the Threat\
   \ from Securities Investments that Finance Certain Companies of the People\u2019\
-  s Republic of China"
+  s Republic of\_China"
 ---
  
 On November 12, 2020, by Executive Order 13959, the President declared a

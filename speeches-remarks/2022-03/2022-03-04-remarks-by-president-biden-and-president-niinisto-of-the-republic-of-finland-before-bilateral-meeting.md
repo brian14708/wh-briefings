@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-03-04'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/04/remarks-by-president-biden-and-president-niinisto-of-the-republic-of-finland-before-bilateral-meeting/
 published_time: 2022-03-04 16:19:58-05:00
-title: "Remarks by President Biden and President Niinist\xF6 of the Republic of Finland\
-  \ Before Bilateral Meeting"
+title: "Remarks by President\_Biden and President Niinist\xF6 of the Republic of Finland\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office

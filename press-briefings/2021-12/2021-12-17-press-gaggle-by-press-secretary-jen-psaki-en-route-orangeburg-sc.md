@@ -4,7 +4,7 @@ date: '2021-12-17'
 modified_time: 2021-12-17 11:06:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/17/press-gaggle-by-press-secretary-jen-psaki-en-route-orangeburg-sc/
 published_time: 2021-12-17 11:06:28-05:00
-title: Press Gaggle by Press Secretary Jen Psaki En Route Orangeburg, SC
+title: "Press Gaggle by Press Secretary Jen\_Psaki En Route Orangeburg,\_SC"
 ---
  
 Aboard Air Force One  

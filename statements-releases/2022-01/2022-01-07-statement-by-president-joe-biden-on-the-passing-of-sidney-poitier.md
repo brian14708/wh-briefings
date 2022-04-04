@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-01-07'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/statement-by-president-joe-biden-on-the-passing-of-sidney-poitier/
 published_time: 2022-01-07 17:06:18-05:00
-title: Statement by President Joe Biden on the Passing of Sidney Poitier
+title: "Statement by President Joe\_Biden on the Passing of Sidney\_Poitier"
 ---
  
 Jill and I were saddened to learn of the passing of Sidney Poitier, the

@@ -5,7 +5,7 @@ modified_time: 2022-02-10 10:44:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/readout-of-the-presidents-meeting-with-utility-ceos-who-support-the-climate-and-clean-energy-investments-in-build-back-better/
 published_time: 2022-02-09 19:30:00-05:00
 title: "Readout of the President\u2019s Meeting With Utility CEOs Who Support the\
-  \ Climate and Clean Energy Investments in Build Back Better"
+  \ Climate and Clean Energy Investments in Build Back\_Better"
 ---
  
 This afternoon, the President hosted 10 electric utility executives at

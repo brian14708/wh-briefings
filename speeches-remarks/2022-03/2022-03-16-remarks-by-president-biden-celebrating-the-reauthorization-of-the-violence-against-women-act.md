@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-03-16'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/16/remarks-by-president-biden-celebrating-the-reauthorization-of-the-violence-against-women-act/
 published_time: 2022-03-16 17:26:29-04:00
-title: Remarks by President Biden Celebrating the Reauthorization of the Violence
-  Against Women Act
+title: "Remarks by President\_Biden Celebrating the Reauthorization of the Violence\
+  \ Against Women\_Act"
 ---
  
 East Room

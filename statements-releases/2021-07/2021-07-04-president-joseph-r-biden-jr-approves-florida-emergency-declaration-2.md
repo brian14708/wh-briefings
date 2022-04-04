@@ -4,7 +4,7 @@ date: '2021-07-04'
 modified_time: 2021-07-04 22:20:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/04/president-joseph-r-biden-jr-approves-florida-emergency-declaration-2/
 published_time: 2021-07-04 22:20:47-04:00
-title: President Joseph R. Biden, Jr. Approves Florida Emergency Declaration
+title: "President Joseph R. Biden, Jr. Approves Florida Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

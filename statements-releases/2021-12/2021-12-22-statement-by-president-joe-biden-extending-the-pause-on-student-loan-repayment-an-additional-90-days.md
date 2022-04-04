@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-12-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-president-joe-biden-extending-the-pause-on-student-loan-repayment-an-additional-90-days/
 published_time: 2021-12-22 12:24:39-05:00
-title: Statement by President Joe Biden Extending the Pause on Student Loan Repayment
-  an Additional 90 Days
+title: "Statement by President Joe\_Biden Extending the Pause on Student Loan Repayment\
+  \ an Additional 90\_Days"
 ---
  
 When I came into office, we were facing a number of unprecedented

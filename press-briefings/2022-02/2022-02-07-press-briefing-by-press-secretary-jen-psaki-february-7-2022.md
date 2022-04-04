@@ -4,7 +4,7 @@ date: '2022-02-07'
 modified_time: 2022-02-07 17:09:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/07/press-briefing-by-press-secretary-jen-psaki-february-7-2022/
 published_time: 2022-02-07 17:30:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki, February 7, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki, February 7,\_2022"
 ---
  
 James S. Brady Press Briefing Room

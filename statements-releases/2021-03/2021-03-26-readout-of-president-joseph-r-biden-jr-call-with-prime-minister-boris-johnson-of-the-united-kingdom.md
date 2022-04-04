@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-03-26'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-boris-johnson-of-the-united-kingdom/
 published_time: 2021-03-26 16:49:56-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Boris Johnson
-  of the United Kingdom
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Boris Johnson\
+  \ of the United\_Kingdom"
 ---
  
 President Joe Biden spoke today with British Prime Minister Boris

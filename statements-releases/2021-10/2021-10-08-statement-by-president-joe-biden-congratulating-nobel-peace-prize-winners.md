@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-08'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joe-biden-congratulating-nobel-peace-prize-winners/
 published_time: 2021-10-08 18:20:13-04:00
-title: Statement by President Joe Biden Congratulating Nobel Peace Prize Winners
+title: "Statement by President Joe\_Biden Congratulating Nobel Peace Prize\_Winners"
 ---
  
 I congratulate Maria Ressa of the Philippines and Dmitry Muratov of

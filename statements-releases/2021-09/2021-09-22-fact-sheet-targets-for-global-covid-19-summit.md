@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-09-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-targets-for-global-covid-19-summit/
 published_time: 2021-09-22 13:03:32-04:00
-title: "FACT SHEET: Targets for Global COVID- \u2060 19 Summit"
+title: "FACT SHEET: Targets for Global COVID-\u206019\_Summit"
 ---
  
 **We invite all Global COVID-19 Summit participants to join us in

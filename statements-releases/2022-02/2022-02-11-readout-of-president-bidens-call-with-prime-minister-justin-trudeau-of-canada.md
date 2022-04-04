@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-02-11'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/readout-of-president-bidens-call-with-prime-minister-justin-trudeau-of-canada/
 published_time: 2022-02-11 15:04:31-05:00
-title: "Readout of President Biden\u2019s Call With Prime Minister Justin Trudeau\
-  \ of Canada"
+title: "Readout of President\_Biden\u2019s Call With Prime Minister Justin Trudeau\
+  \ of\_Canada"
 ---
  
 Today President Biden spoke with Prime Minister Justin Trudeau of Canada

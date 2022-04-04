@@ -4,8 +4,8 @@ date: '2021-07-01'
 modified_time: 2021-07-01 12:45:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/01/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-miami-fl/
 published_time: 2021-07-01 12:45:14-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route
-  Miami, FL
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
+  \ Miami,\_FL"
 ---
  
 Aboard Air Force One  

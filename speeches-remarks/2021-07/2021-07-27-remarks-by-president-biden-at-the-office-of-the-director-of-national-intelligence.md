@@ -4,7 +4,7 @@ date: '2021-07-27'
 modified_time: 2021-07-27 19:09:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/27/remarks-by-president-biden-at-the-office-of-the-director-of-national-intelligence/
 published_time: 2021-07-27 19:09:18-04:00
-title: Remarks by President Biden at the Office of the Director of National Intelligence
+title: "Remarks by President\_Biden at the Office of the Director of National\_Intelligence"
 ---
  
 National Counterterrorism Center  

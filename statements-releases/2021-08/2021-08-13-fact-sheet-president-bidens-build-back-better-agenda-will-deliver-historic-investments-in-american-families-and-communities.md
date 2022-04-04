@@ -4,8 +4,8 @@ date: '2021-08-13'
 modified_time: 2021-08-13 11:14:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-president-bidens-build-back-better-agenda-will-deliver-historic-investments-in-american-families-and-communities/
 published_time: 2021-08-13 11:14:52-04:00
-title: "FACT SHEET: President Biden\u2019s Build Back Better Agenda Will Deliver Historic\
-  \ Investments in American Families and Communities"
+title: "FACT SHEET: President\_Biden\u2019s Build Back Better Agenda Will Deliver\
+  \ Historic Investments in American Families and\_Communities"
 ---
  
 One year ago, with the country at a crossroads, President Biden unveiled

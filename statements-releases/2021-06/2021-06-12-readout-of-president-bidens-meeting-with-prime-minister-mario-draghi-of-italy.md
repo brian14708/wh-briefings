@@ -4,8 +4,8 @@ date: '2021-06-12'
 modified_time: 2021-06-12 16:20:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-president-bidens-meeting-with-prime-minister-mario-draghi-of-italy/
 published_time: 2021-06-12 16:20:03-04:00
-title: "Readout of President Biden\u2019s Meeting with Prime Minister Mario Draghi\
-  \ of Italy"
+title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Mario Draghi\
+  \ of\_Italy"
 ---
  
 President Joseph R. Biden, Jr. met today with Prime Minister Draghi of

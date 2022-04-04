@@ -4,8 +4,8 @@ date: '2021-10-07'
 modified_time: 2021-10-07 23:16:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/statement-by-press-secretary-jen-psaki-on-the-senates-vote-on-the-debt-limit/
 published_time: 2021-10-07 23:16:03-04:00
-title: "Statement by Press Secretary Jen Psaki on the Senate\u2019s Vote on the Debt\
-  \ Limit"
+title: "Statement by Press Secretary Jen\_Psaki on the Senate\u2019s Vote on the Debt\_\
+  Limit"
 ---
  
 Tonight’s votes are welcome steps forward in averting a default that

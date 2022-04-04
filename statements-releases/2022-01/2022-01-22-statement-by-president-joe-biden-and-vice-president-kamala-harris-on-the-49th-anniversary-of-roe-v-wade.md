@@ -4,8 +4,8 @@ date: '2022-01-22'
 modified_time: 2022-01-21 20:19:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/22/statement-by-president-joe-biden-and-vice-president-kamala-harris-on-the-49th-anniversary-of-roe-v-wade/
 published_time: 2022-01-22 05:00:00-05:00
-title: Statement by President Joe Biden and Vice President Kamala Harris on the 49th
-  Anniversary of Roe v. Wade
+title: "Statement by President Joe\_Biden and Vice President Kamala\_Harris on the\
+  \ 49th Anniversary of Roe v.\_Wade"
 ---
  
 The constitutional right established in *Roe v. Wade* nearly 50 years

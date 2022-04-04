@@ -4,7 +4,7 @@ date: '2022-01-13'
 modified_time: 2022-01-12 17:01:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/president-biden-announces-key-regional-appointments-for-usda-and-hud/
 published_time: 2022-01-13 16:00:00-05:00
-title: President Biden Announces Key Regional Appointments for USDA and HUD
+title: "President\_Biden Announces Key Regional Appointments for USDA and\_HUD"
 ---
  
 WASHINGTON – Today, President Joe Biden appointed the following

@@ -4,7 +4,7 @@ date: '2021-09-14'
 modified_time: 2021-09-14 13:02:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/14/remarks-by-president-biden-at-a-get-out-the-vote-event-with-governor-newsom/
 published_time: 2021-09-14 12:51:30-04:00
-title: Remarks by President Biden at a Get Out the Vote Event with Governor Newsom
+title: "Remarks by President\_Biden at a Get Out the Vote Event with Governor\_Newsom"
 ---
  
 Long Beach City College  

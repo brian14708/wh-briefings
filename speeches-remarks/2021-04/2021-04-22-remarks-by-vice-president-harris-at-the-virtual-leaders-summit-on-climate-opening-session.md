@@ -4,8 +4,8 @@ date: '2021-04-22'
 modified_time: 2021-04-22 11:58:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/22/remarks-by-vice-president-harris-at-the-virtual-leaders-summit-on-climate-opening-session/
 published_time: 2021-04-22 11:56:25-04:00
-title: Remarks by Vice President Harris at the Virtual Leaders Summit on Climate Opening
-  Session
+title: "Remarks by Vice President Harris at the Virtual Leaders Summit on Climate\
+  \ Opening\_Session"
 ---
  
 *East Room*

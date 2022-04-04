@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/19/
 published_time: 2021-02-19 22:36:00-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Jean-Charles Ellermann-Kingombe, Permanent Under-Secretary\
-  \ of State at the Danish Prime Minister\u2019s Office"
+  \ of State at the Danish Prime Minister\u2019s\_Office"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone yesterday with

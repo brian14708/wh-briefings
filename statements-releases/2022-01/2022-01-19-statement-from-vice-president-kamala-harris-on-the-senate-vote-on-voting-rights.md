@@ -4,7 +4,8 @@ date: '2022-01-19'
 modified_time: 2022-01-19 23:12:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/statement-from-vice-president-kamala-harris-on-the-senate-vote-on-voting-rights/
 published_time: 2022-01-19 22:54:12-05:00
-title: Statement from Vice President Kamala Harris on the Senate Vote on Voting Rights
+title: "Statement from Vice President Kamala\_Harris on the Senate Vote on Voting\_\
+  Rights"
 ---
  
 Every member of the United States Senate—Democrats, Republicans, and

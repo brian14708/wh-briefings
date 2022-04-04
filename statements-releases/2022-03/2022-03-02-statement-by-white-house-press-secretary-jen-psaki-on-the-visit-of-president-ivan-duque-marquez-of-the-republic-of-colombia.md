@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-02'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/02/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-president-ivan-duque-marquez-of-the-republic-of-colombia/
 published_time: 2022-03-02 12:48:43-05:00
-title: "Statement by White House Press Secretary Jen Psaki on the Visit of President\
-  \ Iv\xE1n Duque M\xE1rquez of the Republic of Colombia"
+title: "Statement by White\_House Press Secretary Jen\_Psaki on the Visit of President\
+  \ Iv\xE1n Duque M\xE1rquez of the Republic of\_Colombia"
 ---
  
 President Biden looks forward to welcoming President Iván Duque Márquez

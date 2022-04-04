@@ -4,8 +4,8 @@ date: '2021-07-09'
 modified_time: 2021-07-09 15:11:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/president-biden-announces-his-intent-to-nominate-four-individuals-to-serve-as-ambassadors/
 published_time: 2021-07-09 15:11:48-04:00
-title: President Biden Announces His Intent to Nominate Four Individuals to Serve
-  as Ambassadors
+title: "President\_Biden Announces His Intent to Nominate Four Individuals to Serve\
+  \ as\_Ambassadors"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

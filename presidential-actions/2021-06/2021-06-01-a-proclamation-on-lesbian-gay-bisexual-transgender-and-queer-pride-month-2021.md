@@ -4,8 +4,8 @@ date: '2021-06-01'
 modified_time: 2021-06-01 08:09:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-lesbian-gay-bisexual-transgender-and-queer-pride-month-2021/
 published_time: 2021-06-01 08:09:55-04:00
-title: A Proclamation on Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month,
-  2021
+title: "A Proclamation on Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month,\_\
+  2021"
 ---
  
 The uprising at the Stonewall Inn in June, 1969, sparked a liberation

@@ -4,8 +4,8 @@ date: '2021-01-26'
 modified_time: 2021-01-27 09:37:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/fact-sheet-president-biden-to-take-action-to-advance-racial-equity-and-support-underserved-communities/
 published_time: 2021-01-26 12:30:00-05:00
-title: 'FACT SHEET: President Biden to Take Action to Advance Racial Equity and Support
-  Underserved Communities'
+title: "FACT SHEET: President\_Biden to Take Action to Advance Racial Equity and Support\
+  \ Underserved\_Communities"
 ---
  
 ***Administration to Purchase Additional 200 Million Doses to Be

@@ -4,8 +4,8 @@ date: '2022-03-16'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nikolay-patrushev-secretary-of-the-russian-security-council-3/
 published_time: 2022-03-16 10:08:08-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Nikolay Patrushev, Secretary of the Russian Security\
-  \ Council"
+  \ Sullivan\u2019s Call with Nikolay Patrushev, Secretary of the Russian Security\_\
+  Council"
 ---
  
 National Security Advisor Jake Sullivan spoke today with General Nikolay

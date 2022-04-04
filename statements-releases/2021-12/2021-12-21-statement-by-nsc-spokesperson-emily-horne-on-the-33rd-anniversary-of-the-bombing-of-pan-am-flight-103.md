@@ -4,8 +4,8 @@ date: '2021-12-21'
 modified_time: 2021-12-21 12:20:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/21/statement-by-nsc-spokesperson-emily-horne-on-the-33rd-anniversary-of-the-bombing-of-pan-am-flight-103/
 published_time: 2021-12-21 12:30:00-05:00
-title: Statement by NSC Spokesperson Emily Horne on the 33rd Anniversary of the Bombing
-  of Pan Am Flight 103
+title: "Statement by NSC Spokesperson Emily Horne on the 33rd Anniversary of the Bombing\
+  \ of Pan Am Flight\_103"
 ---
  
 Today, the United States remembers the 270 innocent lives, including 190

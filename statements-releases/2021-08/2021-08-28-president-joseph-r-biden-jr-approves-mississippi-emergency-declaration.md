@@ -4,7 +4,7 @@ date: '2021-08-28'
 modified_time: 2021-08-28 20:17:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/president-joseph-r-biden-jr-approves-mississippi-emergency-declaration/
 published_time: 2021-08-28 20:17:38-04:00
-title: President Joseph R. Biden, Jr. Approves Mississippi Emergency Declaration
+title: "President Joseph R. Biden, Jr. Approves Mississippi Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

@@ -4,8 +4,8 @@ date: '2021-06-29'
 modified_time: 2021-06-29 19:54:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/29/statement-by-national-security-advisor-jake-sullivan-on-finalizing-preparations-for-libyan-elections/
 published_time: 2021-06-29 19:54:17-04:00
-title: Statement by National Security Advisor Jake Sullivan on Finalizing Preparations
-  for Libyan Elections
+title: "Statement by National Security Advisor Jake Sullivan on Finalizing Preparations\
+  \ for Libyan\_Elections"
 ---
  
 I commend the work of the Libyan Political Dialogue Forum (LPDF) as its

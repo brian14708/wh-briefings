@@ -4,8 +4,8 @@ date: '2022-03-15'
 modified_time: 2022-03-15 17:51:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/what-they-are-saying-state-local-and-tribal-leaders-celebrate-the-first-anniversary-of-the-american-rescue-plan/
 published_time: 2022-03-15 17:51:43-04:00
-title: 'WHAT THEY ARE SAYING: State, Local, and Tribal Leaders Celebrate the First
-  Anniversary of the American Rescue Plan'
+title: "WHAT THEY ARE SAYING: State, Local, and Tribal Leaders Celebrate the First\
+  \ Anniversary of the American Rescue\_Plan"
 ---
  
 Last Friday marked one year since President Biden signed the American

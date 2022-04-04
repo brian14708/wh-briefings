@@ -4,7 +4,7 @@ date: '2021-11-29'
 modified_time: 2021-11-29 17:45:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/29/remarks-by-president-biden-providing-an-update-on-the-omicron-variant/
 published_time: 2021-11-29 17:45:44-05:00
-title: Remarks by President Biden Providing an Update on the Omicron Variant
+title: "Remarks by President\_Biden Providing an Update on the Omicron\_Variant"
 ---
  
 Roosevelt Room

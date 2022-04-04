@@ -4,9 +4,9 @@ date: '2021-03-26'
 modified_time: 2021-03-26 09:31:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-labor-department-of-transportation-equal-employment-opportunity-commission-department-of-veterans-affairs-and-app/
 published_time: 2021-03-26 09:31:50-04:00
-title: President Biden Announces his Intent to Nominate Key Members for the Department
-  of Labor, Department of Transportation, Equal Employment Opportunity Commission,
-  Department of Veterans Affairs, and Appalachian Regional Commission
+title: "President\_Biden Announces his Intent to Nominate Key Members for the Department\
+  \ of Labor, Department of Transportation, Equal Employment Opportunity Commission,\
+  \ Department of Veterans Affairs, and Appalachian Regional\_Commission"
 ---
  
 Today, President Joe Biden announced his intent to nominate Seema Nanda

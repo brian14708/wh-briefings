@@ -5,7 +5,7 @@ modified_time: 2021-03-30 21:43:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/12/background-press-call-by-senior-administration-officials-on-the-administrations-response-to-the-microsoft-and-solarwinds-intrusions/
 published_time: 2021-03-12 19:30:40-05:00
 title: "Background Press Call by Senior Administration Officials on the Administration\u2019\
-  s Response to the Microsoft and SolarWinds Intrusions"
+  s Response to the Microsoft and SolarWinds\_Intrusions"
 ---
  
 SENIOR ADMINISTRATION OFFICIAL:  Thank you, everyone, for joining us

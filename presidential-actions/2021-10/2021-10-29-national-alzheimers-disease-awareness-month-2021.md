@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 14:42:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/national-alzheimers-disease-awareness-month-2021/
 published_time: 2021-10-29 14:14:00-04:00
-title: "A Proclamation on National Alzheimer\u2019s Disease Awareness Month, 2021"
+title: "A Proclamation on National Alzheimer\u2019s Disease Awareness Month,\_2021"
 ---
  
 For more than 6 million Americans and the family members and friends who

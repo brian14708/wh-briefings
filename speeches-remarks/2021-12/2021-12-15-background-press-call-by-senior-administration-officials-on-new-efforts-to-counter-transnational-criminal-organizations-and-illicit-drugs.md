@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-16 08:47:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/background-press-call-by-senior-administration-officials-on-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
 published_time: 2021-12-15 14:00:00-05:00
-title: Background Press Call by Senior Administration Officials on New Efforts to
-  Counter Transnational Criminal Organizations and Illicit Drugs
+title: "Background Press Call by Senior Administration Officials on New Efforts to\
+  \ Counter Transnational Criminal Organizations and Illicit\_Drugs"
 ---
  
 Via Teleconference

@@ -4,7 +4,7 @@ date: '2021-10-05'
 modified_time: 2021-10-05 19:52:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/05/remarks-by-president-biden-before-air-force-one-departure-7/
 published_time: 2021-10-05 20:15:00-04:00
-title: Remarks by President Biden Before Air Force One Departure
+title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
 Capital Region International Airport  

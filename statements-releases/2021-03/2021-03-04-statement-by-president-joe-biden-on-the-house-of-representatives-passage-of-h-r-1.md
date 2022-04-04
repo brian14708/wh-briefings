@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-03-04'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/statement-by-president-joe-biden-on-the-house-of-representatives-passage-of-h-r-1/
 published_time: 2021-03-04 07:59:13-05:00
-title: Statement by President Joe Biden on the House of Representatives Passage of
-  H.R. 1
+title: "Statement by President Joe\_Biden on the House of Representatives Passage\
+  \ of H.R.\_1"
 ---
  
 In the wake of an unprecedented assault on our democracy; a coordinated

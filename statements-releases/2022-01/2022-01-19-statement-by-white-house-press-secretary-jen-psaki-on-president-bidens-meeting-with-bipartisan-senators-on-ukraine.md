@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-01-19'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/statement-by-white-house-press-secretary-jen-psaki-on-president-bidens-meeting-with-bipartisan-senators-on-ukraine/
 published_time: 2022-01-19 13:31:54-05:00
-title: "Statement by White House Press Secretary Jen Psaki on President Biden\u2019\
-  s Meeting with Bipartisan Senators on Ukraine"
+title: "Statement by White\_House Press Secretary Jen\_Psaki on President\_Biden\u2019\
+  s Meeting with Bipartisan Senators on\_Ukraine"
 ---
  
 This morning President Biden met virtually with a bipartisan group of

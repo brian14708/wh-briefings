@@ -5,7 +5,7 @@ modified_time: 2021-05-11 17:05:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/statement-by-president-joseph-r-biden-jr-in-support-of-washington-states-overtime-bill-for-farm-workers/
 published_time: 2021-05-11 17:05:22-04:00
 title: "Statement\_by President Joseph R. Biden, Jr.\_in Support of Washington State\u2019\
-  s Overtime Bill for Farm Workers"
+  s Overtime Bill for Farm\_Workers"
 ---
  
 I congratulate the Washington State legislature and Governor Jay Inslee

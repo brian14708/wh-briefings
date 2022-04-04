@@ -5,7 +5,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/
 published_time: 2022-02-11 18:07:40-05:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s Meeting with Karin Wallensteen, State Secretary\
-  \ for Foreign Affairs to the Prime Minister of Sweden"
+  \ for Foreign Affairs to the Prime Minister of\_Sweden"
 ---
  
 National Security Advisor Jake Sullivan met today with Karin

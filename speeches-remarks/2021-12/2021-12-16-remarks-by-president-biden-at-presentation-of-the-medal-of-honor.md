@@ -4,7 +4,7 @@ date: '2021-12-16'
 modified_time: 2021-12-16 18:03:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-president-biden-at-presentation-of-the-medal-of-honor/
 published_time: 2021-12-16 18:30:00-05:00
-title: Remarks by President Biden at Presentation of the Medal of Honor
+title: "Remarks by President\_Biden at Presentation of the Medal of\_Honor"
 ---
  
 2:09 P.M. EST  

@@ -4,8 +4,8 @@ date: '2021-07-30'
 modified_time: 2021-07-30 13:45:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-by-president-joe-biden-on-the-passing-of-former-united-states-senator-of-michigan-carl-levin/
 published_time: 2021-07-30 13:45:46-04:00
-title: Statement by President Joe Biden on the Passing of Former United States Senator
-  of Michigan Carl Levin
+title: "Statement by President Joe\_Biden on the Passing of Former United\_States\
+  \ Senator of Michigan Carl\_Levin"
 ---
  
 For thirty years, Carl Levin and I served together in the United States

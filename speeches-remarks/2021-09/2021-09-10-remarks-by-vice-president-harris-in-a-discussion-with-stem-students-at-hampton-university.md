@@ -4,8 +4,8 @@ date: '2021-09-10'
 modified_time: 2021-09-10 16:54:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/10/remarks-by-vice-president-harris-in-a-discussion-with-stem-students-at-hampton-university/
 published_time: 2021-09-10 15:30:00-04:00
-title: Remarks by Vice President Harris in a Discussion with STEM Students at Hampton
-  University
+title: "Remarks by Vice President Harris in a Discussion with STEM Students at Hampton\_\
+  University"
 ---
  
 Hampton University  

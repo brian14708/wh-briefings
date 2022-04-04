@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-04-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/statement-by-national-security-advisor-jake-sullivan-on-the-appointment-of-ambassador-jeff-feltman-as-u-s-special-envoy-for-the-horn-of-africa/
 published_time: 2021-04-23 15:25:28-04:00
-title: Statement by National Security Advisor Jake Sullivan on the appointment of
-  Ambassador Jeff Feltman as U.S. Special Envoy for the Horn of Africa
+title: "Statement by National Security Advisor Jake Sullivan on the appointment of\
+  \ Ambassador Jeff Feltman as U.S. Special Envoy for the Horn of\_Africa"
 ---
  
 Today, the State Department announced the appointment of Ambassador Jeff

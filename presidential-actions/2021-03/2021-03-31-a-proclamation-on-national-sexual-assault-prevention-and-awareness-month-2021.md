@@ -3,7 +3,8 @@ category: presidential-actions
 date: '2021-03-31'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-national-sexual-assault-prevention-and-awareness-month-2021/
 published_time: 2021-03-31 16:45:52-04:00
-title: A Proclamation on National Sexual Assault Prevention And Awareness Month, 2021
+title: "A Proclamation on National Sexual Assault Prevention And Awareness Month,\_\
+  2021"
 ---
  
 Sexual assault, at its core, is a devastating abuse of power — one that

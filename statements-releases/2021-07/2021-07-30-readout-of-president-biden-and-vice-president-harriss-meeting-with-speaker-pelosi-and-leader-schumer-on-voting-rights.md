@@ -4,8 +4,8 @@ date: '2021-07-30'
 modified_time: 2021-07-30 18:16:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/readout-of-president-biden-and-vice-president-harriss-meeting-with-speaker-pelosi-and-leader-schumer-on-voting-rights/
 published_time: 2021-07-30 17:30:00-04:00
-title: "Readout of President Biden and Vice President Harris\u2019s Meeting with Speaker\
-  \ Pelosi and Leader Schumer on Voting Rights"
+title: "Readout of President\_Biden and Vice President Harris\u2019s Meeting with\
+  \ Speaker Pelosi and Leader Schumer on Voting\_Rights"
 ---
  
 President Biden, Vice President Harris, Speaker Pelosi, and Leader

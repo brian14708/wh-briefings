@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-03-12 12:13:12-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/fact-sheet-quad-summit/
 published_time: 2021-03-12 12:13:11-05:00
-title: 'Fact Sheet: Quad Summit'
+title: "Fact Sheet: Quad\_Summit"
 ---
  
 **The Quad Vaccine Partnership**  

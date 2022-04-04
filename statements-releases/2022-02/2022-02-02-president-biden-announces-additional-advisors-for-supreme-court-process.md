@@ -4,7 +4,7 @@ date: '2022-02-02'
 modified_time: 2022-02-02 17:19:11-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/president-biden-announces-additional-advisors-for-supreme-court-process/
 published_time: 2022-02-02 17:25:00-05:00
-title: President Biden Announces Additional Advisors for Supreme Court Process
+title: "President\_Biden Announces Additional Advisors for Supreme Court\_Process"
 ---
  
 As President Biden considers a range of deeply qualified potential

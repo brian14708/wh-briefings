@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 23:38:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/president-joseph-r-biden-jr-approves-california-emergency-declaration/
 published_time: 2021-09-01 23:38:10-04:00
-title: President Joseph R. Biden, Jr. Approves California Emergency Declaration
+title: "President Joseph R. Biden, Jr. Approves California Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

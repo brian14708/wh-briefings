@@ -4,7 +4,7 @@ date: '2021-10-07'
 modified_time: 2021-10-07 10:39:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/readout-of-white-house-community-violence-intervention-collaborative-meeting/
 published_time: 2021-10-07 10:39:36-04:00
-title: Readout of White House Community Violence Intervention Collaborative Meeting
+title: "Readout of White\_House Community Violence Intervention Collaborative\_Meeting"
 ---
  
 Yesterday, Domestic Policy Advisor Susan Rice and White House

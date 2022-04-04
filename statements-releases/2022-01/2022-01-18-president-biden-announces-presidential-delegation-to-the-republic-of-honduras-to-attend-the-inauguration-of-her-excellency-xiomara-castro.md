@@ -4,8 +4,8 @@ date: '2022-01-18'
 modified_time: 2022-01-18 15:58:31-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/president-biden-announces-presidential-delegation-to-the-republic-of-honduras-to-attend-the-inauguration-of-her-excellency-xiomara-castro/
 published_time: 2022-01-18 16:30:00-05:00
-title: President Biden Announces Presidential Delegation to the Republic of Honduras
-  to Attend the Inauguration of Her Excellency Xiomara Castro
+title: "President\_Biden Announces Presidential Delegation to the Republic of Honduras\
+  \ to Attend the Inauguration of Her Excellency Xiomara\_Castro"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

@@ -4,9 +4,9 @@ date: '2022-02-14'
 modified_time: 2022-02-14 00:32:20-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-announces-10-million-households-enroll-in-broadband-affordability-program-thanks-to-bipartisan-infrastructure-law/
 published_time: 2022-02-14 09:00:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces 10 Million Households\
-  \ Enroll in Broadband Affordability Program, Thanks to Bipartisan Infrastructure\
-  \ Law"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces 10 Million Households\
+  \ Enroll in Broadband Affordability Program, Thanks to Bipartisan Infrastructure\_\
+  Law"
 ---
  
 *Announcement made during White House event with Vice President Kamala

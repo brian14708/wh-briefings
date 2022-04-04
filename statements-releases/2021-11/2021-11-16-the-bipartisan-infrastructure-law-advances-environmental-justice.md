@@ -4,7 +4,7 @@ date: '2021-11-16'
 modified_time: 2021-11-15 18:37:55-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/
 published_time: 2021-11-16 07:00:00-05:00
-title: The Bipartisan Infrastructure Law Advances Environmental Justice
+title: "The Bipartisan Infrastructure Law Advances Environmental\_Justice"
 ---
  
 For far too long, too many communities across America have faced

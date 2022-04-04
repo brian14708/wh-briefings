@@ -4,7 +4,7 @@ date: '2021-09-15'
 modified_time: 2021-09-20 11:22:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/president-biden-appoints-members-to-national-cancer-advisory-board/
 published_time: 2021-09-15 18:45:00-04:00
-title: President Biden Appoints Members to National Cancer Advisory Board
+title: "President\_Biden Appoints Members to National Cancer Advisory\_Board"
 ---
  
 WASHINGTON – Today, President Biden announced the appointment of seven

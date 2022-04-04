@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-04-13'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/president-biden-announces-his-intent-to-nominate-robert-santos-for-director-of-the-u-s-census-bureau/
 published_time: 2021-04-13 15:16:57-04:00
-title: President Biden Announces His Intent to Nominate Robert Santos for Director
-  of the U.S. Census Bureau
+title: "President\_Biden Announces His Intent to Nominate Robert Santos for Director\
+  \ of the U.S. Census\_Bureau"
 ---
  
 **President Biden Announces His Intent to Nominate Robert Santos for

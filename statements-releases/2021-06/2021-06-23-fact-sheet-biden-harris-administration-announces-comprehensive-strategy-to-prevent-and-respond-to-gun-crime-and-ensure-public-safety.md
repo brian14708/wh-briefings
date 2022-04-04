@@ -4,8 +4,8 @@ date: '2021-06-23'
 modified_time: 2021-06-22 20:17:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/
 published_time: 2021-06-23 05:00:00-04:00
-title: "Fact Sheet: Biden- \u2060 Harris Administration Announces Comprehensive Strategy\
-  \ to Prevent and Respond to Gun Crime and Ensure Public Safety"
+title: "Fact Sheet: Biden-\u2060Harris Administration Announces Comprehensive Strategy\
+  \ to Prevent and Respond to Gun Crime and Ensure Public\_Safety"
 ---
  
 President Biden believes that the surge in gun violence that has

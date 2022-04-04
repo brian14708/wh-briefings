@@ -4,7 +4,7 @@ date: '2022-01-18'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/statement-from-deputy-press-secretary-sabrina-singh-on-the-vice-presidents-travel-to-honduras/
 published_time: 2022-01-18 16:40:35-05:00
 title: "Statement From Deputy Press Secretary Sabrina Singh on the Vice President\u2019\
-  s Travel to Honduras"
+  s Travel to\_Honduras"
 ---
  
 Vice President Kamala Harris will lead the Presidential Delegation to

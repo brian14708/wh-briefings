@@ -4,8 +4,9 @@ date: '2021-08-02'
 modified_time: 2021-08-02 19:11:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/02/press-briefing-by-press-secretary-jen-psaki-and-white-house-american-rescue-plan-coordinator-and-senior-advisor-to-the-president-gene-sperling-august-2-2021/
 published_time: 2021-08-02 19:11:36-04:00
-title: Press Briefing by Press Secretary Jen Psaki and White House American Rescue
-  Plan Coordinator and Senior Advisor to the President Gene Sperling, August 2, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and White\_House American Rescue\
+  \ Plan Coordinator and Senior Advisor to the President Gene Sperling, August 2,\_\
+  2021"
 ---
  
 James S. Brady Press Briefing Room

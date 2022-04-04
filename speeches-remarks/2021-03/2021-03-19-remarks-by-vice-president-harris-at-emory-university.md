@@ -4,7 +4,7 @@ date: '2021-03-19'
 modified_time: 2021-04-14 10:09:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/19/remarks-by-vice-president-harris-at-emory-university/
 published_time: 2021-03-19 10:05:00-04:00
-title: Remarks by Vice President Harris at Emory University
+title: "Remarks by Vice President Harris at Emory\_University"
 ---
  
 Emory University  

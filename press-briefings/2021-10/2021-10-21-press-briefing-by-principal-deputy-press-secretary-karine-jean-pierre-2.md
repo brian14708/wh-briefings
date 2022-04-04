@@ -4,7 +4,7 @@ date: '2021-10-21'
 modified_time: 2021-10-21 22:29:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/21/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-2/
 published_time: 2021-10-21 22:29:21-04:00
-title: Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre
+title: "Press Briefing by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---
  
 James S. Brady Press Briefing Room

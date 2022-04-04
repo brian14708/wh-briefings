@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-06-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/22/readout-of-president-bidens-meeting-with-fema-and-emergency-preparedness-team-on-extreme-weather-preparation-and-response-efforts/
 published_time: 2021-06-22 18:04:24-04:00
-title: "Readout of President Biden\u2019s Meeting with FEMA and Emergency Preparedness\
-  \ Team on Extreme Weather Preparation and Response Efforts"
+title: "Readout of President\_Biden\u2019s Meeting with FEMA and Emergency Preparedness\
+  \ Team on Extreme Weather Preparation and Response\_Efforts"
 ---
  
 President Biden met today with FEMA Administrator Deanne Criswell,

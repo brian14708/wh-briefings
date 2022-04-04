@@ -4,7 +4,8 @@ date: '2021-04-13'
 modified_time: 2021-04-13 18:04:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/readout-of-oval-office-meeting-with-congressional-black-caucus-executive-leadership/
 published_time: 2021-04-13 18:04:47-04:00
-title: Readout of Oval Office Meeting with Congressional Black Caucus Executive Leadership
+title: "Readout of Oval Office Meeting with Congressional Black Caucus Executive\_\
+  Leadership"
 ---
  
 Today, President Joe Biden and Vice President Kamala Harris hosted the

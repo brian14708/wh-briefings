@@ -5,7 +5,7 @@ modified_time: 2021-07-14 11:47:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-foreign-minister-jean-yves-le-drian-of-france/
 published_time: 2021-07-14 11:47:32-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with Foreign Minister Jean-Yves Le Drian of France"
+  \ Sullivan\u2019s Meeting with Foreign Minister Jean-Yves Le Drian of\_France"
 ---
  
 National Security Advisor Jake Sullivan met today with Foreign Minister

@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-11-17'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/readout-of-interagency-task-force-meeting-on-property-appraisal-and-valuation-equity-pave/
 published_time: 2021-11-17 18:17:42-05:00
-title: Readout of Interagency Task Force Meeting on Property Appraisal and Valuation
-  Equity (PAVE)
+title: "Readout of Interagency Task Force Meeting on Property Appraisal and Valuation\
+  \ Equity\_(PAVE)"
 ---
  
 Today, U.S. Department of Housing and Urban Development Secretary Marcia

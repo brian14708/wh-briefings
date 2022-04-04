@@ -4,8 +4,8 @@ date: '2022-03-28'
 modified_time: 2022-03-28 16:52:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/sequestration-order-for-fiscal-year-2023-pursuant-to-section-251a-of-the-balanced-budget-and-emergency-deficit-control-act-as-amended/
 published_time: 2022-03-28 16:51:55-04:00
-title: Sequestration Order for Fiscal Year 2023 Pursuant to Section 251A of the Balanced
-  Budget And Emergency Deficit Control Act, as Amended
+title: "Sequestration Order for Fiscal Year 2023 Pursuant to Section 251A of the Balanced\
+  \ Budget And Emergency Deficit Control Act, as\_Amended"
 ---
  
 By the authority vested in me as President by the laws of the United

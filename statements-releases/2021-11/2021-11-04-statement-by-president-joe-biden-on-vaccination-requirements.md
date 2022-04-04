@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-11-04'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/statement-by-president-joe-biden-on-vaccination-requirements/
 published_time: 2021-11-04 10:46:26-04:00
-title: Statement by President Joe Biden on Vaccination Requirements
+title: "Statement by President Joe\_Biden on Vaccination\_Requirements"
 ---
  
 For our country, the choice is simple: get more people vaccinated, or

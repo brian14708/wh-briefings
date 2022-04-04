@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-10-14'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/
 published_time: 2021-10-14 13:13:45-04:00
-title: Joint Statement of the Ministers and Representatives from the Counter Ransomware
-  Initiative Meeting October 2021
+title: "Joint Statement of the Ministers and Representatives from the Counter Ransomware\
+  \ Initiative Meeting October\_2021"
 ---
  
 Having gathered virtually on October 13 and 14 to discuss the escalating

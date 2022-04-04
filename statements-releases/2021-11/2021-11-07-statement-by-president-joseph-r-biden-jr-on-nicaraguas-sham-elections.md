@@ -4,7 +4,7 @@ date: '2021-11-07'
 modified_time: 2021-11-07 19:05:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/07/statement-by-president-joseph-r-biden-jr-on-nicaraguas-sham-elections/
 published_time: 2021-11-07 19:05:24-05:00
-title: "Statement by President Joseph R. Biden, Jr. on Nicaragua\u2019s Sham Elections"
+title: "Statement by President Joseph R. Biden, Jr. on Nicaragua\u2019s Sham\_Elections"
 ---
  
 What Nicaraguan President Daniel Ortega and his wife, Vice President

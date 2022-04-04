@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 18:29:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/08/press-briefing-by-press-secretary-jen-psaki-october-8-2021/
 published_time: 2021-10-08 18:45:00-04:00
-title: Press Briefing by Press Secretary Jen Psaki, October 8, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, October 8,\_2021"
 ---
  
 James S. Brady Press Briefing Room

@@ -4,7 +4,7 @@ date: '2021-12-14'
 modified_time: 2021-12-14 20:12:36-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/statement-by-president-joe-biden-on-800000-american-deaths-from-covid-%e2%81%a019/
 published_time: 2021-12-14 20:12:35-05:00
-title: "Statement by President Joe Biden on 800,000 American Deaths from COVID-\u2060\
+title: "Statement by President Joe\_Biden on 800,000 American Deaths from\_COVID-\u2060\
   19"
 ---
  

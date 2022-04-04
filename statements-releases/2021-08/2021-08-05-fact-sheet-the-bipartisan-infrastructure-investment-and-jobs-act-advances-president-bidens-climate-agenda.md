@@ -5,7 +5,7 @@ modified_time: 2021-08-05 14:31:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-the-bipartisan-infrastructure-investment-and-jobs-act-advances-president-bidens-climate-agenda/
 published_time: 2021-08-05 14:18:35-04:00
 title: "FACT SHEET: The Bipartisan Infrastructure Investment and Jobs Act Advances\
-  \ President Biden\u2019s Climate Agenda"
+  \ President\_Biden\u2019s Climate\_Agenda"
 ---
  
 Last month, the President stood with Democrats and Republicans to

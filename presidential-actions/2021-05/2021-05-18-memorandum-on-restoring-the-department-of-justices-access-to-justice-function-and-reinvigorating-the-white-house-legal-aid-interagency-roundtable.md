@@ -5,7 +5,7 @@ modified_time: 2021-05-18 14:53:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/18/memorandum-on-restoring-the-department-of-justices-access-to-justice-function-and-reinvigorating-the-white-house-legal-aid-interagency-roundtable/
 published_time: 2021-05-18 14:52:48-04:00
 title: "Memorandum on Restoring the Department of Justice\u2019s Access-to-Justice\
-  \ Function and Reinvigorating the White House Legal Aid Interagency Roundtable"
+  \ Function and Reinvigorating the White\_House Legal Aid Interagency\_Roundtable"
 ---
  
 By the authority vested in me as President by the Constitution and the

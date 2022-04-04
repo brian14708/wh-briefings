@@ -4,7 +4,7 @@ date: '2022-02-23'
 modified_time: 2022-02-23 20:23:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/23/press-briefing-by-press-secretary-jen-psaki-february-23-2022/
 published_time: 2022-02-23 20:23:13-05:00
-title: Press Briefing by Press Secretary Jen Psaki, February 23, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki, February 23,\_2022"
 ---
  
 James S. Brady Press Briefing Room

@@ -4,7 +4,7 @@ date: '2021-05-17'
 modified_time: 2021-05-16 18:10:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/statement-from-president-joseph-r-biden-jr-on-the-child-tax-credit/
 published_time: 2021-05-17 07:01:00-04:00
-title: Statement from President Joseph R. Biden, Jr. on the Child Tax Credit
+title: "Statement from President Joseph R. Biden, Jr. on the Child Tax\_Credit"
 ---
  
 The American Rescue Plan is delivering critical tax relief to middle

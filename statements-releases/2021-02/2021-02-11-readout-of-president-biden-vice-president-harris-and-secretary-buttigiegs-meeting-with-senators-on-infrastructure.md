@@ -4,8 +4,8 @@ date: '2021-02-11'
 modified_time: 2021-02-11 12:09:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/readout-of-president-biden-vice-president-harris-and-secretary-buttigiegs-meeting-with-senators-on-infrastructure/
 published_time: 2021-02-11 12:00:00-05:00
-title: "Readout of President Biden, Vice President Harris, and Secretary Buttigieg\u2019\
-  s Meeting with Senators on Infrastructure"
+title: "Readout of President\_Biden, Vice President Harris, and Secretary Buttigieg\u2019\
+  s Meeting with Senators on\_Infrastructure"
 ---
  
 Today, President Biden and Vice President Harris met in the Oval Office

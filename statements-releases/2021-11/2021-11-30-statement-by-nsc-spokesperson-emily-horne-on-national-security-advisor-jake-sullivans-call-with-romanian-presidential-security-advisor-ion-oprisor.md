@@ -5,7 +5,7 @@ modified_time: 2021-11-30 13:58:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/30/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-romanian-presidential-security-advisor-ion-oprisor/
 published_time: 2021-11-30 13:58:53-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Romanian Presidential Security Advisor Ion Oprisor"
+  \ Sullivan\u2019s Call with Romanian Presidential Security Advisor Ion\_Oprisor"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

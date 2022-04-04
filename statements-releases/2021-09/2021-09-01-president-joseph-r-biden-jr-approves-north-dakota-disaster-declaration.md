@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 17:51:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/president-joseph-r-biden-jr-approves-north-dakota-disaster-declaration/
 published_time: 2021-09-01 17:51:29-04:00
-title: President Joseph R. Biden, Jr. Approves North Dakota Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves North Dakota Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

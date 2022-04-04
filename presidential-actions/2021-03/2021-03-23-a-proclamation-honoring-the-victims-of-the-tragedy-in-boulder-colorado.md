@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-03-23'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/23/a-proclamation-honoring-the-victims-of-the-tragedy-in-boulder-colorado/
 published_time: 2021-03-23 12:42:42-04:00
-title: A Proclamation Honoring the Victims of the Tragedy in Boulder, Colorado
+title: "A Proclamation Honoring the Victims of the Tragedy in Boulder,\_Colorado"
 ---
  
 As a mark of respect for the victims of the senseless acts of violence

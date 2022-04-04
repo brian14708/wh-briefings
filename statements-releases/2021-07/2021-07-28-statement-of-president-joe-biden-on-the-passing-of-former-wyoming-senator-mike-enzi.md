@@ -4,8 +4,8 @@ date: '2021-07-28'
 modified_time: 2021-07-28 10:25:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/statement-of-president-joe-biden-on-the-passing-of-former-wyoming-senator-mike-enzi/
 published_time: 2021-07-28 10:25:33-04:00
-title: Statement of President Joe Biden on the Passing of Former Wyoming Senator Mike
-  Enzi
+title: "Statement of President Joe\_Biden on the Passing of Former Wyoming Senator\
+  \ Mike\_Enzi"
 ---
  
 For twelve years, I had the privilege of serving with Mike Enzi in the

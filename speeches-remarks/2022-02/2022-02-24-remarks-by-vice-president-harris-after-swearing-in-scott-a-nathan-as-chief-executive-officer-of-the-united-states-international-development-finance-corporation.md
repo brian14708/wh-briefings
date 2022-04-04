@@ -4,8 +4,8 @@ date: '2022-02-24'
 modified_time: 2022-02-24 16:31:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/24/remarks-by-vice-president-harris-after-swearing-in-scott-a-nathan-as-chief-executive-officer-of-the-united-states-international-development-finance-corporation/
 published_time: 2022-02-24 16:31:26-05:00
-title: Remarks by Vice President Harris After Swearing In Scott A. Nathan as Chief
-  Executive Officer of the United States International Development Finance Corporation
+title: "Remarks by Vice President Harris After Swearing In Scott A. Nathan as Chief\
+  \ Executive Officer of the United\_States International Development Finance\_Corporation"
 ---
  
 *Vice President’s Ceremonial Office  

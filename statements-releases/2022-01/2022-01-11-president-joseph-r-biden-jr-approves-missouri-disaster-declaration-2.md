@@ -4,7 +4,7 @@ date: '2022-01-11'
 modified_time: 2022-01-11 10:27:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/11/president-joseph-r-biden-jr-approves-missouri-disaster-declaration-2/
 published_time: 2022-01-11 10:30:00-05:00
-title: President Joseph R. Biden, Jr. Approves Missouri Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Missouri Disaster\_Declaration"
 ---
  
 Yesterday, President Joseph R. Biden, Jr. declared that a major disaster

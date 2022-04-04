@@ -4,7 +4,7 @@ date: '2021-03-26'
 modified_time: 2021-03-26 15:42:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-invites-40-world-leaders-to-leaders-summit-on-climate/
 published_time: 2021-03-26 15:42:43-04:00
-title: President Biden Invites 40 World Leaders to Leaders Summit on Climate
+title: "President\_Biden Invites 40 World Leaders to Leaders Summit on\_Climate"
 ---
  
 Today, President Biden invited 40 world leaders to the Leaders Summit on

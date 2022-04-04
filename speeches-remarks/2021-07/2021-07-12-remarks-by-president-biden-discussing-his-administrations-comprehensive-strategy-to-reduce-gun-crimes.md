@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-07-12'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-president-biden-discussing-his-administrations-comprehensive-strategy-to-reduce-gun-crimes/
 published_time: 2021-07-12 17:43:02-04:00
-title: "Remarks by President Biden Discussing His Administration\u2019s Comprehensive\
-  \ Strategy to Reduce Gun Crimes"
+title: "Remarks by President\_Biden Discussing His Administration\u2019s Comprehensive\
+  \ Strategy to Reduce Gun\_Crimes"
 ---
  
 Roosevelt Room

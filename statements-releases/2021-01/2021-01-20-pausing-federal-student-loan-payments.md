@@ -4,7 +4,7 @@ date: '2021-01-20'
 modified_time: 2021-01-20 22:30:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/pausing-federal-student-loan-payments/
 published_time: 2021-01-20 22:30:04-05:00
-title: Pausing Federal Student Loan Payments
+title: "Pausing Federal Student Loan\_Payments"
 ---
  
 At the request of President Biden, the Acting Secretary of Education

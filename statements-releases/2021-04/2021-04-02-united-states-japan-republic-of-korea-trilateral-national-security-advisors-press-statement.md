@@ -4,8 +4,8 @@ date: '2021-04-02'
 modified_time: 2021-04-02 17:22:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/united-states-japan-republic-of-korea-trilateral-national-security-advisors-press-statement/
 published_time: 2021-04-02 17:22:57-04:00
-title: "United States-Japan-Republic of Korea Trilateral National Security Advisors\u2019\
-  \ Press Statement"
+title: "United\_States-Japan-Republic of Korea Trilateral National Security Advisors\u2019\
+  \ Press\_Statement"
 ---
  
 National Security Advisor Jake Sullivan of the United States, National

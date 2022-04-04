@@ -4,8 +4,8 @@ date: '2022-03-01'
 modified_time: 2022-03-01 16:53:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery/
 published_time: 2022-03-01 17:30:00-05:00
-title: "Excerpts from President Biden\u2019s State of the Union Address as Prepared\
-  \ for Delivery"
+title: "Excerpts from President\_Biden\u2019s State of the Union Address as Prepared\
+  \ for\_Delivery"
 ---
  
 Throughout our history we’ve learned this lesson – when dictators do not

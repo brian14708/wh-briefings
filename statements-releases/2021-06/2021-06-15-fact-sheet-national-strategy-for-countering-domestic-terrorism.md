@@ -4,7 +4,7 @@ date: '2021-06-15'
 modified_time: 2021-06-15 09:04:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/
 published_time: 2021-06-15 06:00:00-04:00
-title: 'FACT SHEET: National Strategy for Countering Domestic Terrorism'
+title: "FACT SHEET: National Strategy for Countering Domestic\_Terrorism"
 ---
  
 On his first full day in office, President Biden directed his national

@@ -4,7 +4,7 @@ date: '2021-07-26'
 modified_time: 2022-03-15 11:30:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/07/26/bill-signed-h-r-26/
 published_time: 2021-07-26 13:01:46-04:00
-title: 'Bill Signed: H.R. 26'
+title: "Bill Signed: H.R.\_26"
 ---
  
 On Monday, July 26, 2021, the President signed into law:  

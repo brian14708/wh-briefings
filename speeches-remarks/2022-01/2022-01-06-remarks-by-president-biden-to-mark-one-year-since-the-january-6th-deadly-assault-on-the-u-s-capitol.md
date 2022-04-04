@@ -4,8 +4,8 @@ date: '2022-01-06'
 modified_time: 2022-01-06 12:08:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/06/remarks-by-president-biden-to-mark-one-year-since-the-january-6th-deadly-assault-on-the-u-s-capitol/
 published_time: 2022-01-06 12:08:42-05:00
-title: "Remarks By President Biden To Mark One Year Since\_The January 6th Deadly\
-  \ Assault On The U.S. Capitol"
+title: "Remarks By President\_Biden To Mark One Year Since\_The January 6th Deadly\
+  \ Assault On The U.S.\_Capitol"
 ---
  
 South Court Auditorium  

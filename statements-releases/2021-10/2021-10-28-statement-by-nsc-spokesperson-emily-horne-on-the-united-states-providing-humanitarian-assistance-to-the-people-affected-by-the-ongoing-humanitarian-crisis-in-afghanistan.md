@@ -4,8 +4,9 @@ date: '2021-10-28'
 modified_time: 2021-10-28 13:40:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/28/statement-by-nsc-spokesperson-emily-horne-on-the-united-states-providing-humanitarian-assistance-to-the-people-affected-by-the-ongoing-humanitarian-crisis-in-afghanistan/
 published_time: 2021-10-28 13:40:57-04:00
-title: Statement by NSC Spokesperson Emily Horne on the United States Providing Humanitarian
-  Assistance to the People Affected by the Ongoing Humanitarian Crisis in Afghanistan
+title: "Statement by NSC Spokesperson Emily Horne on the United\_States Providing\
+  \ Humanitarian Assistance to the People Affected by the Ongoing Humanitarian Crisis\
+  \ in\_Afghanistan"
 ---
  
 The United States is providing nearly $144 million in new humanitarian

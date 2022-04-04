@@ -4,7 +4,7 @@ date: '2021-07-28'
 modified_time: 2021-07-28 16:02:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/statement-by-president-joe-biden-on-the-bipartisan-infrastructure-deal/
 published_time: 2021-07-28 16:02:34-04:00
-title: Statement by President Joe Biden on the Bipartisan Infrastructure Deal
+title: "Statement by President Joe\_Biden on the Bipartisan Infrastructure\_Deal"
 ---
  
 I am pleased to join a bipartisan group of United States Senators and

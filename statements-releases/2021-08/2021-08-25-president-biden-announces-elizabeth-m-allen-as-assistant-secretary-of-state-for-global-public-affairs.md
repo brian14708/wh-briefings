@@ -4,8 +4,8 @@ date: '2021-08-25'
 modified_time: 2021-08-25 17:39:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/president-biden-announces-elizabeth-m-allen-as-assistant-secretary-of-state-for-global-public-affairs/
 published_time: 2021-08-25 17:39:50-04:00
-title: President Biden Announces Elizabeth M. Allen as Assistant Secretary of State
-  for Global Public Affairs
+title: "President\_Biden Announces Elizabeth M. Allen as Assistant Secretary of State\
+  \ for Global Public\_Affairs"
 ---
  
 WASHINGTON – Today, President Joe Biden announced he has appointed

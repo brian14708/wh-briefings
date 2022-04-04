@@ -4,7 +4,7 @@ date: '2021-06-01'
 modified_time: 2021-06-01 14:16:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-great-outdoors-month-2021/
 published_time: 2021-06-01 14:16:55-04:00
-title: A Proclamation on Great Outdoors Month, 2021
+title: "A Proclamation on Great Outdoors Month,\_2021"
 ---
  
 America’s great outdoors, diverse landscapes, and pristine waterways are

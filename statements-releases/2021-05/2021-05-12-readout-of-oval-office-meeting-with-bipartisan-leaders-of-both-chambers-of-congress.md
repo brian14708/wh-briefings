@@ -4,8 +4,8 @@ date: '2021-05-12'
 modified_time: 2021-05-12 13:27:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/readout-of-oval-office-meeting-with-bipartisan-leaders-of-both-chambers-of-congress/
 published_time: 2021-05-12 13:27:08-04:00
-title: Readout of Oval Office Meeting with Bipartisan Leaders of Both Chambers of
-  Congress
+title: "Readout of Oval Office Meeting with Bipartisan Leaders of Both Chambers of\_\
+  Congress"
 ---
  
 Today, President Biden hosted the bipartisan, bicameral Congressional

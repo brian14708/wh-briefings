@@ -4,8 +4,8 @@ date: '2021-12-23'
 modified_time: 2021-12-24 09:23:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/23/remarks-by-president-biden-at-signing-of-h-r-3537-the-accelerating-access-to-critical-therapies-for-als-act/
 published_time: 2021-12-23 18:15:00-05:00
-title: "Remarks by President Biden at Signing of H.R. 3537, the \u201CAccelerating\
-  \ Access to Critical Therapies for ALS Act\u201D"
+title: "Remarks by President\_Biden at Signing of H.R. 3537, the \u201CAccelerating\
+  \ Access to Critical Therapies for ALS\_Act\u201D"
 ---
  
 South Court Auditorium  

@@ -4,8 +4,8 @@ date: '2021-12-09'
 modified_time: 2021-12-09 18:30:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/09/press-briefing-by-press-secretary-jen-psaki-and-national-economic-council-director-brian-deese-december-9-2021/
 published_time: 2021-12-09 18:45:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki and National Economic Council Director
-  Brian Deese, December 9, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and National Economic Council\
+  \ Director Brian Deese, December 9,\_2021"
 ---
  
 James S. Brady Press Briefing Room

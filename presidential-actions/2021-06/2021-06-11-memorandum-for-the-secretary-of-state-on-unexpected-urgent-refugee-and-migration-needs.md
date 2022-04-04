@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2021-06-11'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/11/memorandum-for-the-secretary-of-state-on-unexpected-urgent-refugee-and-migration-needs/
 published_time: 2021-06-11 17:40:44-04:00
-title: Memorandum for the Secretary of State on Unexpected Urgent Refugee and Migration
-  Needs
+title: "Memorandum for the Secretary of State on Unexpected Urgent Refugee and Migration\_\
+  Needs"
 ---
  
 By the authority vested in me as President by the Constitution and the

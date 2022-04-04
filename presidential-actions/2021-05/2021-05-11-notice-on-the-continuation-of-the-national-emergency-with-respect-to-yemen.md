@@ -4,7 +4,7 @@ date: '2021-05-11'
 modified_time: 2021-05-11 15:07:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-yemen/
 published_time: 2021-05-11 15:07:16-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Yemen
+title: "Notice on the Continuation of the National Emergency with Respect to\_Yemen"
 ---
  
 On May 16, 2012, by Executive Order 13611, the President declared a

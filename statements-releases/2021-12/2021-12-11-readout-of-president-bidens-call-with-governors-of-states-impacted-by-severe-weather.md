@@ -4,8 +4,8 @@ date: '2021-12-11'
 modified_time: 2021-12-11 14:45:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-bidens-call-with-governors-of-states-impacted-by-severe-weather/
 published_time: 2021-12-11 14:45:55-05:00
-title: "Readout of President Biden\u2019s Call with Governors of States Impacted by\
-  \ Severe Weather"
+title: "Readout of President\_Biden\u2019s Call with Governors of States Impacted\
+  \ by Severe\_Weather"
 ---
  
 President Biden spoke with Arkansas Governor Asa Hutchinson, Illinois

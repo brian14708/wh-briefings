@@ -4,8 +4,8 @@ date: '2021-11-28'
 modified_time: 2021-11-28 17:26:23-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/28/readout-of-president-bidens-meeting-with-covid-19-response-team-on-the-omicron-variant/
 published_time: 2021-11-28 17:26:22-05:00
-title: "Readout of President Biden\u2019s Meeting with COVID- \u2060 19 Response Team\
-  \ on the Omicron Variant"
+title: "Readout of President\_Biden\u2019s Meeting with COVID-\u206019 Response Team\
+  \ on the Omicron\_Variant"
 ---
  
 Following up on the regular briefings he had on COVID while traveling,

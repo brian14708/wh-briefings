@@ -4,8 +4,8 @@ date: '2022-01-26'
 modified_time: 2022-01-27 09:02:41-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/president-biden-announces-appointees-for-the-united-states-holocaust-memorial-council/
 published_time: 2022-01-26 16:15:00-05:00
-title: President Biden Announces Appointees for the United States Holocaust Memorial
-  Council
+title: "President\_Biden Announces Appointees for the United\_States Holocaust Memorial\_\
+  Council"
 ---
  
 WASHINGTON – Today, President Biden announces his intent to appoint the

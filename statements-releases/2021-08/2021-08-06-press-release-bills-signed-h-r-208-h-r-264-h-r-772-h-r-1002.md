@@ -4,7 +4,7 @@ date: '2021-08-06'
 modified_time: 2021-08-06 12:37:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/press-release-bills-signed-h-r-208-h-r-264-h-r-772-h-r-1002/
 published_time: 2021-08-06 12:37:38-04:00
-title: 'Press Release: Bills Signed: H.R. 208, H.R. 264, H.R. 772, H.R. 1002'
+title: "Press Release: Bills Signed: H.R. 208, H.R. 264, H.R. 772, H.R.\_1002"
 ---
  
 On Friday, August 6, 2021, the President signed into law:  

@@ -4,8 +4,8 @@ date: '2021-12-30'
 modified_time: 2021-12-30 18:02:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/30/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-elect-gabriel-boric-of-chile/
 published_time: 2021-12-30 18:02:07-05:00
-title: "Statement by Press Secretary Jen Psaki on President Biden\u2019s Call with\
-  \ President-elect Gabriel Boric of Chile"
+title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Call with\
+  \ President-elect Gabriel Boric of\_Chile"
 ---
  
 President Joseph R. Biden, Jr. called President-elect Gabriel Boric of

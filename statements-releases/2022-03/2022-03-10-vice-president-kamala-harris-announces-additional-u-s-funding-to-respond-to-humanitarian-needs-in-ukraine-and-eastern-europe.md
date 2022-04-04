@@ -4,8 +4,8 @@ date: '2022-03-10'
 modified_time: 2022-03-10 08:15:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/vice-president-kamala-harris-announces-additional-u-s-funding-to-respond-to-humanitarian-needs-in-ukraine-and-eastern-europe/
 published_time: 2022-03-10 08:15:48-05:00
-title: Vice President Kamala Harris Announces Additional U.S. Funding to Respond to
-  Humanitarian Needs in Ukraine and Eastern Europe
+title: "Vice President Kamala\_Harris Announces Additional U.S. Funding to Respond\
+  \ to Humanitarian Needs in Ukraine and Eastern\_Europe"
 ---
  
 During her trip to Warsaw, Poland, today, U.S. Vice President Kamala

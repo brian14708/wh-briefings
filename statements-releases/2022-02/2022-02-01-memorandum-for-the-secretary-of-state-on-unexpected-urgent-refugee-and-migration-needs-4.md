@@ -4,8 +4,8 @@ date: '2022-02-01'
 modified_time: 2022-02-01 14:13:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/memorandum-for-the-secretary-of-state-on-unexpected-urgent-refugee-and-migration-needs-4/
 published_time: 2022-02-01 14:13:26-05:00
-title: Memorandum for the Secretary of State on Unexpected Urgent Refugee and Migration
-  Needs
+title: "Memorandum for the Secretary of State on Unexpected Urgent Refugee and Migration\_\
+  Needs"
 ---
  
 By the authority vested in me as President by the Constitution and the

@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-11-15'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/background-press-call-by-senior-administration-officials-on-president-bidens-virtual-meeting-with-president-xi-of-the-peoples-republic-of-china/
 published_time: 2021-11-15 19:04:27-05:00
-title: "Background Press Call by Senior Administration Officials on President Biden\u2019\
-  s Virtual Meeting with President Xi of the People\u2019s Republic of China"
+title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
+  s Virtual Meeting with President Xi of the People\u2019s Republic of\_China"
 ---
  
 Via Teleconference

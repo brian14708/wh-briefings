@@ -4,7 +4,7 @@ date: '2021-04-15'
 modified_time: 2021-04-14 21:18:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-the-american-jobs-plan-supports-veterans/
 published_time: 2021-04-15 16:30:00-04:00
-title: 'FACT SHEET: The American Jobs Plan Supports Veterans'
+title: "FACT SHEET: The American Jobs Plan Supports\_Veterans"
 ---
  
 President Biden believes that as Americans, we have a sacred obligation

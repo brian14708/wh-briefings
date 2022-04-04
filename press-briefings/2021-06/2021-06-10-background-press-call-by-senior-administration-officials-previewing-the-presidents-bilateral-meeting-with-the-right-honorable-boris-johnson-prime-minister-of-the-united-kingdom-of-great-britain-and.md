@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/10/b
 published_time: 2021-06-10 12:53:47-04:00
 title: "Background Press Call by Senior Administration Officials Previewing the President\u2019\
   s Bilateral Meeting with the Right Honorable Boris Johnson, Prime Minister of the\
-  \ United Kingdom of Great Britain and Northern Ireland"
+  \ United Kingdom of Great Britain and Northern\_Ireland"
 ---
  
 12:32 P.M. BST

@@ -4,7 +4,7 @@ date: '2021-01-26'
 modified_time: 2021-01-26 18:16:18-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/26/remarks-by-president-biden-at-signing-of-an-executive-order-on-racial-equity/
 published_time: 2021-01-26 18:16:17-05:00
-title: Remarks by President Biden at Signing of an Executive Order on Racial Equity
+title: "Remarks by President\_Biden at Signing of an Executive Order on Racial\_Equity"
 ---
  
 State Dining Room

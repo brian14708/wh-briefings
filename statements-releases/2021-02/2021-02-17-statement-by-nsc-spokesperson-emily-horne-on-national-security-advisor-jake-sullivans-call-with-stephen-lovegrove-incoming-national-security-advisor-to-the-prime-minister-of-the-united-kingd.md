@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/
 published_time: 2021-02-17 20:55:50-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Stephen Lovegrove, Incoming National Security Advisor\
-  \ to the Prime Minister of the United Kingdom"
+  \ to the Prime Minister of the United\_Kingdom"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

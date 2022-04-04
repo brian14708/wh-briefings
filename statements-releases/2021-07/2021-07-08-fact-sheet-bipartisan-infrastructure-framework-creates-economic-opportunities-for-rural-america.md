@@ -4,8 +4,8 @@ date: '2021-07-08'
 modified_time: 2021-07-08 16:43:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/fact-sheet-bipartisan-infrastructure-framework-creates-economic-opportunities-for-rural-america/
 published_time: 2021-07-08 16:43:55-04:00
-title: 'FACT SHEET: Bipartisan Infrastructure Framework Creates Economic Opportunities
-  for Rural America'
+title: "FACT SHEET: Bipartisan Infrastructure Framework Creates Economic Opportunities\
+  \ for Rural\_America"
 ---
  
 Today, despite the fact that rural and Tribal communities across the

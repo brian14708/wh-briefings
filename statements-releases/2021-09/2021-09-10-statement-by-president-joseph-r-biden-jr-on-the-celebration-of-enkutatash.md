@@ -4,7 +4,7 @@ date: '2021-09-10'
 modified_time: 2021-09-10 13:24:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/statement-by-president-joseph-r-biden-jr-on-the-celebration-of-enkutatash/
 published_time: 2021-09-10 13:24:19-04:00
-title: Statement by President Joseph R. Biden, Jr. on the Celebration of Enkutatash
+title: "Statement by President Joseph R. Biden, Jr. on the Celebration of\_Enkutatash"
 ---
  
 Jill and I send our best wishes for a happy new year to all the people

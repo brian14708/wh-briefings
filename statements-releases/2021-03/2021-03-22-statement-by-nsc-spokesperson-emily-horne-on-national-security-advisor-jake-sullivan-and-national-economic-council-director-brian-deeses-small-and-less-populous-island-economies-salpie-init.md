@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/
 published_time: 2021-03-22 15:44:44-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan and National Economic Council Director Brian Deese\u2019s Small and Less\
-  \ Populous Island Economies (SALPIE) Initiative Launch Event"
+  \ Populous Island Economies (SALPIE) Initiative Launch\_Event"
 ---
  
 National Security Advisor Jake Sullivan and National Economic Council

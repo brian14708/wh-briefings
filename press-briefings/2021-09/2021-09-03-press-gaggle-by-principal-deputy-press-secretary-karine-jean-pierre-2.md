@@ -4,7 +4,7 @@ date: '2021-09-03'
 modified_time: 2021-09-03 22:37:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/03/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-2/
 published_time: 2021-09-03 22:45:00-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre
+title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---
  
 Aboard Air Force One  

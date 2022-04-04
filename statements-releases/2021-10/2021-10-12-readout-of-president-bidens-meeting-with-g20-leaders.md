@@ -4,7 +4,7 @@ date: '2021-10-12'
 modified_time: 2021-10-12 10:06:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/readout-of-president-bidens-meeting-with-g20-leaders/
 published_time: 2021-10-12 10:06:33-04:00
-title: "Readout of President Biden\u2019s Meeting with G20 Leaders"
+title: "Readout of President\_Biden\u2019s Meeting with G20\_Leaders"
 ---
  
 President Biden met virtually with G20 Leaders today to discuss

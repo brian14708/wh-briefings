@@ -4,7 +4,7 @@ date: '2021-08-09'
 modified_time: 2021-08-09 12:23:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/nominations-sent-to-the-senate-32/
 published_time: 2021-08-09 12:23:22-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
      Mark Brzezinski, of Virginia, to be Ambassador Extraordinary and

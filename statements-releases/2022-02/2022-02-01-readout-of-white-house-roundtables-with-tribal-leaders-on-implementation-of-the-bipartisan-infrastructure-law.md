@@ -4,8 +4,8 @@ date: '2022-02-01'
 modified_time: 2022-02-01 18:42:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/readout-of-white-house-roundtables-with-tribal-leaders-on-implementation-of-the-bipartisan-infrastructure-law/
 published_time: 2022-02-01 18:42:04-05:00
-title: Readout of White House Roundtables with Tribal Leaders on Implementation of
-  the Bipartisan Infrastructure Law
+title: "Readout of White\_House Roundtables with Tribal Leaders on Implementation\
+  \ of the Bipartisan Infrastructure\_Law"
 ---
  
 Last week, White House Infrastructure Implementation Coordinator Mitch

@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-04-16'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/16/remarks-by-vice-president-harris-and-prime-minister-suga-of-japan-before-bilateral-meeting/
 published_time: 2021-04-16 14:53:50-04:00
-title: Remarks by Vice President Harris and Prime Minister Suga of Japan Before Bilateral
-  Meeting
+title: "Remarks by Vice President Harris and Prime Minister Suga of Japan Before Bilateral\_\
+  Meeting"
 ---
  
 *Vice President’s Ceremonial Office  *

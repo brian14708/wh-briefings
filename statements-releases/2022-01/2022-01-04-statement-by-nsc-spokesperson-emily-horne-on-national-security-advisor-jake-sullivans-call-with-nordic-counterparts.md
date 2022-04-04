@@ -5,7 +5,7 @@ modified_time: 2022-01-04 18:04:20-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nordic-counterparts/
 published_time: 2022-01-04 18:04:19-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Nordic Counterparts"
+  \ Sullivan\u2019s Call with Nordic\_Counterparts"
 ---
  
 National Security Advisor Jake Sullivan spoke today with his

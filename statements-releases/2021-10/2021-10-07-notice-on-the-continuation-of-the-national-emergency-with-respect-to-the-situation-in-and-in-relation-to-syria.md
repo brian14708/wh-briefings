@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-10-07'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
 published_time: 2021-10-07 16:25:12-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Situation
-  in and in Relation to Syria
+title: "Notice on the Continuation of the National Emergency with Respect to the Situation\
+  \ in and in Relation to\_Syria"
 ---
  
 On October 14, 2019, by Executive Order 13894, the President declared a

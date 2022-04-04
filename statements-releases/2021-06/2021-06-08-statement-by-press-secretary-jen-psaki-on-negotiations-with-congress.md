@@ -4,7 +4,7 @@ date: '2021-06-08'
 modified_time: 2021-06-08 17:08:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-press-secretary-jen-psaki-on-negotiations-with-congress/
 published_time: 2021-06-08 17:05:54-04:00
-title: Statement by Press Secretary Jen Psaki on Negotiations with Congress
+title: "Statement by Press Secretary Jen\_Psaki on Negotiations with\_Congress"
 ---
  
 The President has spoken to a number of members of the House and Senate

@@ -4,8 +4,8 @@ date: '2022-03-29'
 modified_time: 2022-03-29 19:12:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/fact-sheet-biden-harris-administration-announces-additional-infrastructure-funding-for-ports-and-waterways/
 published_time: 2022-03-29 19:30:00-04:00
-title: "FACT SHEET:\_ Biden- \u2060 Harris Administration Announces Additional Infrastructure\
-  \ Funding for Ports and Waterways"
+title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces Additional Infrastructure\
+  \ Funding for Ports and\_Waterways"
 ---
  
 *U.S. Army Corps of Engineers Invests $2.7 Billion from President’s

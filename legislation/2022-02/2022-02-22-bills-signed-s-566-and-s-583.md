@@ -4,7 +4,7 @@ date: '2022-02-22'
 modified_time: 2022-03-15 10:05:23-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/02/22/bills-signed-s-566-and-s-583/
 published_time: 2022-02-22 19:49:08-05:00
-title: 'Bills Signed: S. 566 and S. 583'
+title: "Bills Signed: S. 566 and S.\_583"
 ---
  
 On Tuesday, February 22, 2022, the President signed into law:  

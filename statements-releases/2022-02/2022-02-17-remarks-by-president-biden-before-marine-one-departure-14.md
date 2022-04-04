@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-17'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/remarks-by-president-biden-before-marine-one-departure-14/
 published_time: 2022-02-17 10:50:39-05:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 South Lawn

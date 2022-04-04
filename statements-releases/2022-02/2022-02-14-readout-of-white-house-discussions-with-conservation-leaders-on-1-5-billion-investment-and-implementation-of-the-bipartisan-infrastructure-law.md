@@ -4,8 +4,8 @@ date: '2022-02-14'
 modified_time: 2022-02-15 09:50:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/readout-of-white-house-discussions-with-conservation-leaders-on-1-5-billion-investment-and-implementation-of-the-bipartisan-infrastructure-law/
 published_time: 2022-02-14 17:41:23-05:00
-title: Readout of White House Discussions with Conservation Leaders on $1.5 billion
-  Investment and Implementation of the Bipartisan Infrastructure Law
+title: "Readout of White\_House Discussions with Conservation Leaders on $1.5 billion\
+  \ Investment and Implementation of the Bipartisan Infrastructure\_Law"
 ---
  
 Today, Senior Advisor and White House Infrastructure Implementation

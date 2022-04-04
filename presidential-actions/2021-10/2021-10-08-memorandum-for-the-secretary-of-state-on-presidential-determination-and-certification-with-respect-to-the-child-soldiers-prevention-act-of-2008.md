@@ -4,8 +4,8 @@ date: '2021-10-08'
 modified_time: 2021-10-08 10:17:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/memorandum-for-the-secretary-of-state-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008/
 published_time: 2021-10-08 10:17:08-04:00
-title: Memorandum for the Secretary of State on Presidential Determination and Certification
-  with Respect to the Child Soldiers Prevention Act of 2008
+title: "Memorandum for the Secretary of State on Presidential Determination and Certification\
+  \ with Respect to the Child Soldiers Prevention Act of\_2008"
 ---
  
 Pursuant to section 404 of the Child Soldiers Prevention Act of 2008

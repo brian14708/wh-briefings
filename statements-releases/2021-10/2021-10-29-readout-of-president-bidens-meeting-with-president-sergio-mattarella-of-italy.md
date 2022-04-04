@@ -4,8 +4,8 @@ date: '2021-10-29'
 modified_time: 2021-10-29 11:55:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-meeting-with-president-sergio-mattarella-of-italy/
 published_time: 2021-10-29 11:55:39-04:00
-title: "Readout of President Biden\u2019s Meeting with President Sergio Mattarella\
-  \ of Italy"
+title: "Readout of President\_Biden\u2019s Meeting with President Sergio Mattarella\
+  \ of\_Italy"
 ---
  
 President Joseph R. Biden, Jr. met today with President Sergio

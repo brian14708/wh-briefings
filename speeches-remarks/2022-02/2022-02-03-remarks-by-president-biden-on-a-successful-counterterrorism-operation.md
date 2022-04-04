@@ -4,7 +4,7 @@ date: '2022-02-03'
 modified_time: 2022-02-03 13:07:18-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-president-biden-on-a-successful-counterterrorism-operation/
 published_time: 2022-02-03 13:07:17-05:00
-title: Remarks by President Biden on a Successful Counterterrorism Operation
+title: "Remarks by President\_Biden on a Successful Counterterrorism\_Operation"
 ---
  
 Roosevelt Room

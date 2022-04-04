@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-09-30'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-clean-energy-action-month-2021/
 published_time: 2021-09-30 11:16:08-04:00
-title: A Proclamation on National Clean Energy Action Month, 2021
+title: "A Proclamation on National Clean Energy Action Month,\_2021"
 ---
  
 In the months leading up to this year’s National Clean Energy Action

@@ -4,8 +4,8 @@ date: '2021-04-16'
 modified_time: 2021-04-16 16:37:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/statement-by-press-secretary-jen-psaki-on-the-emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2021/
 published_time: 2021-04-16 16:37:54-04:00
-title: "Statement by\_Press Secretary Jen Psaki on the Emergency Presidential Determination\
-  \ on Refugee Admissions for Fiscal Year 2021"
+title: "Statement by\_Press Secretary Jen\_Psaki on the Emergency Presidential Determination\
+  \ on Refugee Admissions for Fiscal Year\_2021"
 ---
  
 The President’s directive today has been the subject of some confusion. 

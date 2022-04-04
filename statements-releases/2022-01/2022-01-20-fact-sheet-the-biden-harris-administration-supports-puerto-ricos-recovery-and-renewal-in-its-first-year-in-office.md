@@ -4,8 +4,8 @@ date: '2022-01-20'
 modified_time: 2022-01-20 20:20:22-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/
 published_time: 2022-01-20 14:35:49-05:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration Supports Puerto Rico\u2019\
-  s Recovery and Renewal in its First Year in Office"
+title: "FACT SHEET: The Biden-\u2060Harris Administration Supports Puerto Rico\u2019\
+  s Recovery and Renewal in its First Year in\_Office"
 ---
  
 From the first day in office and every day since, the Biden-Harris

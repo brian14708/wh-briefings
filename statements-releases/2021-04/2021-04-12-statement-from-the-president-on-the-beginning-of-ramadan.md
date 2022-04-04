@@ -4,7 +4,7 @@ date: '2021-04-12'
 modified_time: 2021-04-12 19:39:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/statement-from-the-president-on-the-beginning-of-ramadan/
 published_time: 2021-04-12 19:39:26-04:00
-title: Statement from the President on the Beginning of Ramadan
+title: "Statement from the President on the Beginning of\_Ramadan"
 ---
  
 Jill and I send our warmest greetings and best wishes to Muslim

@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-03-25'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/25/remarks-by-president-biden-and-president-andrzej-duda-of-poland-in-briefing-on-the-humanitarian-efforts-for-ukraine/
 published_time: 2022-03-25 14:12:53-04:00
-title: Remarks by President Biden and President Andrzej Duda of Poland in Briefing
-  on the Humanitarian Efforts for Ukraine
+title: "Remarks by President\_Biden and President Andrzej Duda of Poland in Briefing\
+  \ on the Humanitarian Efforts for\_Ukraine"
 ---
  
 Rzeszów-Jasionka Airport  

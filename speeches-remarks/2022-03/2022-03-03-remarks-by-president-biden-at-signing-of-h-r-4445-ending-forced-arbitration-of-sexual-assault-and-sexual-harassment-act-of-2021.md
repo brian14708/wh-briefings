@@ -4,8 +4,8 @@ date: '2022-03-03'
 modified_time: 2022-03-04 16:17:01-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/03/remarks-by-president-biden-at-signing-of-h-r-4445-ending-forced-arbitration-of-sexual-assault-and-sexual-harassment-act-of-2021/
 published_time: 2022-03-03 16:10:00-05:00
-title: "Remarks by President Biden at Signing of H.R. 4445, \u201CEnding Forced Arbitration\
-  \ of Sexual Assault and Sexual Harassment Act of 2021\u201D"
+title: "Remarks by President\_Biden at Signing of H.R. 4445, \u201CEnding Forced Arbitration\
+  \ of Sexual Assault and Sexual Harassment Act of\_2021\u201D"
 ---
  
 5:49 P.M. EST 

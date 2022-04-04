@@ -4,8 +4,8 @@ date: '2021-12-02'
 modified_time: 2021-12-02 08:33:40-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/02/background-press-call-by-senior-administration-officials-on-new-actions-to-protect-americans-against-the-delta-and-omicron-variants-this-winter/
 published_time: 2021-12-02 09:00:00-05:00
-title: Background Press Call by Senior Administration Officials on New Actions to
-  Protect Americans Against the Delta and Omicron Variants This Winter
+title: "Background Press Call by Senior Administration Officials on New Actions to\
+  \ Protect Americans Against the Delta and Omicron Variants This\_Winter"
 ---
  
 Via Teleconference

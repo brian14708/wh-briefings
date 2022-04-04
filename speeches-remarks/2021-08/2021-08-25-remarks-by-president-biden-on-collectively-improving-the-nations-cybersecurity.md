@@ -4,7 +4,8 @@ date: '2021-08-25'
 modified_time: 2021-08-25 16:42:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/25/remarks-by-president-biden-on-collectively-improving-the-nations-cybersecurity/
 published_time: 2021-08-25 16:42:04-04:00
-title: "Remarks by President Biden on Collectively Improving the Nation\u2019s Cybersecurity"
+title: "Remarks by President\_Biden on Collectively Improving the Nation\u2019s\_\
+  Cybersecurity"
 ---
  
 East Room

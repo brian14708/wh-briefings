@@ -4,7 +4,7 @@ date: '2021-04-21'
 modified_time: 2021-04-21 13:17:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/statement-from-press-secretary-jen-psaki/
 published_time: 2021-04-21 13:17:24-04:00
-title: Statement from Press Secretary Jen Psaki
+title: "Statement from Press Secretary Jen\_Psaki"
 ---
  
 We welcome the bipartisan introduction of the Endless Frontier Act – one

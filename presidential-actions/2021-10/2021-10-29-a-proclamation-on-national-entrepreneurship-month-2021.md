@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 14:17:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-entrepreneurship-month-2021/
 published_time: 2021-10-29 14:17:31-04:00
-title: A Proclamation on National Entrepreneurship Month, 2021
+title: "A Proclamation on National Entrepreneurship Month,\_2021"
 ---
  
 Every day, American entrepreneurs combine passion, resilience, and

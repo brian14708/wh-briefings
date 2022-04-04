@@ -4,8 +4,8 @@ date: '2021-08-02'
 modified_time: 2021-08-02 22:42:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/02/remarks-by-president-biden-at-a-virtual-fundraising-reception-for-the-democratic-national-committee/
 published_time: 2021-08-02 22:15:00-04:00
-title: Remarks by President Biden at a Virtual Fundraising Reception for the Democratic
-  National Committee
+title: "Remarks by President\_Biden at a Virtual Fundraising Reception for the Democratic\
+  \ National\_Committee"
 ---
  
 Via Teleconference

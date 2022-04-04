@@ -4,8 +4,8 @@ date: '2022-02-15'
 modified_time: 2022-02-14 21:15:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/15/fact-sheet-department-of-defense-releases-new-report-on-safeguarding-our-national-security-by-promoting-competition-in-the-defense-industrial-base/
 published_time: 2022-02-15 05:15:00-05:00
-title: 'Fact Sheet: Department of Defense Releases New Report on Safeguarding our
-  National Security by Promoting Competition in the Defense Industrial Base'
+title: "Fact Sheet: Department of Defense Releases New Report on Safeguarding our\
+  \ National Security by Promoting Competition in the Defense Industrial\_Base"
 ---
  
 As part of President Biden’s whole-of-government approach to promoting

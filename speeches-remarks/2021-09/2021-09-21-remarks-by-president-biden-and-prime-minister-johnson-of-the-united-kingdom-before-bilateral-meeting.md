@@ -4,8 +4,8 @@ date: '2021-09-21'
 modified_time: 2021-09-21 19:26:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/21/remarks-by-president-biden-and-prime-minister-johnson-of-the-united-kingdom-before-bilateral-meeting/
 published_time: 2021-09-21 19:30:00-04:00
-title: Remarks by President Biden and Prime Minister Johnson of the United Kingdom
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Johnson of the United Kingdom\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office

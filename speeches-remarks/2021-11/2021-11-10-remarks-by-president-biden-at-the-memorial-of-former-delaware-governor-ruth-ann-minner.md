@@ -4,8 +4,8 @@ date: '2021-11-10'
 modified_time: 2021-11-10 17:21:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/10/remarks-by-president-biden-at-the-memorial-of-former-delaware-governor-ruth-ann-minner/
 published_time: 2021-11-10 17:21:18-05:00
-title: Remarks by President Biden at the Memorial of Former Delaware Governor Ruth
-  Ann Minner
+title: "Remarks by President\_Biden at the Memorial of Former Delaware Governor Ruth\
+  \ Ann\_Minner"
 ---
  
 Milford Church of the Nazarene  

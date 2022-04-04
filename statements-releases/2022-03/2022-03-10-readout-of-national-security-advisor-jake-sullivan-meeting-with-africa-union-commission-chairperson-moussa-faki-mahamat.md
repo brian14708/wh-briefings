@@ -4,8 +4,8 @@ date: '2022-03-10'
 modified_time: 2022-03-11 05:46:12-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/readout-of-national-security-advisor-jake-sullivan-meeting-with-africa-union-commission-chairperson-moussa-faki-mahamat/
 published_time: 2022-03-10 19:03:34-05:00
-title: Readout of National Security Advisor Jake Sullivan Meeting with African Union
-  Commission Chairperson Moussa Faki Mahamat
+title: "Readout of National Security Advisor Jake Sullivan Meeting with African Union\
+  \ Commission Chairperson Moussa Faki\_Mahamat"
 ---
  
 National Security Advisor Jake Sullivan met with African Union

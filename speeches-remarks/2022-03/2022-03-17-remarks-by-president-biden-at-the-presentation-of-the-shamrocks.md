@@ -4,7 +4,7 @@ date: '2022-03-17'
 modified_time: 2022-03-17 23:03:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/17/remarks-by-president-biden-at-the-presentation-of-the-shamrocks/
 published_time: 2022-03-17 23:15:00-04:00
-title: Remarks by President Biden at the Presentation of the Shamrocks
+title: "Remarks by President\_Biden at the Presentation of the\_Shamrocks"
 ---
  
 East Room

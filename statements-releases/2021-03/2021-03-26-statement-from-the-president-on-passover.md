@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-03-26'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/statement-from-the-president-on-passover/
 published_time: 2021-03-26 14:49:50-04:00
-title: Statement from the President on Passover
+title: "Statement from the President on\_Passover"
 ---
  
 Jill and I send our best wishes to everyone celebrating Passover in the

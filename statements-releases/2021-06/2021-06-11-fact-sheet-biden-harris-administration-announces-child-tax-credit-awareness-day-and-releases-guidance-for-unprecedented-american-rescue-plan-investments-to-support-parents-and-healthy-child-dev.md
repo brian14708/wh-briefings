@@ -4,9 +4,9 @@ date: '2021-06-11'
 modified_time: 2021-06-11 08:55:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-biden-harris-administration-announces-child-tax-credit-awareness-day-and-releases-guidance-for-unprecedented-american-rescue-plan-investments-to-support-parents-and-healthy-child-dev/
 published_time: 2021-06-11 08:53:13-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces Child Tax Credit\
-  \ Awareness Day and\_Releases Guidance for Unprecedented American Rescue Plan  Investments\
-  \ to Support Parents and Healthy Child Development"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces Child Tax Credit Awareness\
+  \ Day and\_Releases Guidance for Unprecedented American Rescue Plan  Investments\
+  \ to Support Parents and Healthy Child\_Development"
 ---
  
 President Biden’s American Rescue Plan included historic investments to

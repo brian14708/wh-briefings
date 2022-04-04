@@ -5,7 +5,7 @@ modified_time: 2022-03-18 07:20:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/readout-of-vice-president-harriss-call-with-taoiseach-micheal-martin-of-ireland/
 published_time: 2022-03-16 06:19:00-04:00
 title: "Readout of Vice President Harris\u2019s Call with Taoiseach Miche\xE1l Martin\
-  \ of Ireland"
+  \ of\_Ireland"
 ---
  
 Vice President Kamala Harris spoke today with Taoiseach Micheál Martin

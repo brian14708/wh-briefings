@@ -4,7 +4,8 @@ date: '2021-09-09'
 modified_time: 2021-09-09 17:42:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-ensuring-adequate-covid-safety-protocols-for-federal-contractors/
 published_time: 2021-09-09 17:42:06-04:00
-title: Executive Order on Ensuring Adequate COVID Safety Protocols for Federal Contractors
+title: "Executive Order on Ensuring Adequate COVID Safety Protocols for Federal\_\
+  Contractors"
 ---
  
 By the authority vested in me as President by the Constitution and the

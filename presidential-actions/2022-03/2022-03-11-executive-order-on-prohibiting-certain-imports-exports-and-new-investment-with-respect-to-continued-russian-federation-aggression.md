@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2022-03-11'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/11/executive-order-on-prohibiting-certain-imports-exports-and-new-investment-with-respect-to-continued-russian-federation-aggression/
 published_time: 2022-03-11 11:18:13-05:00
-title: Executive Order on Prohibiting Certain Imports, Exports, and New Investment
-  with Respect to Continued Russian Federation Aggression
+title: "Executive Order on Prohibiting Certain Imports, Exports, and New Investment\
+  \ with Respect to Continued Russian Federation\_Aggression"
 ---
  
 By the authority vested in me as President by the Constitution and the

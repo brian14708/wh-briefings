@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/
 published_time: 2021-04-05 10:00:00-04:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s Call with Prime Minister Andrej Plenkovic\
-  \ of Croatia"
+  \ of\_Croatia"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

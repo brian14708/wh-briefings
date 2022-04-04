@@ -4,8 +4,8 @@ date: '2022-03-15'
 modified_time: 2022-03-15 10:01:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-consequences-of-lack-of-funding-for-efforts-to-combat-covid-19-if-congress-does-not-act/
 published_time: 2022-03-15 11:30:00-04:00
-title: "FACT SHEET: Consequences of Lack of Funding for Efforts to Combat COVID- \u2060\
-  \ 19 if Congress Does Not Act"
+title: "FACT SHEET: Consequences of Lack of Funding for Efforts to Combat COVID-\u2060\
+  19 if Congress Does Not\_Act"
 ---
  
 The U.S. has made tremendous progress in our fight against COVID-19.

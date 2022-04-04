@@ -4,7 +4,7 @@ date: '2022-01-19'
 modified_time: 2022-01-19 13:11:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/nominations-sent-to-the-senate-59/
 published_time: 2022-01-19 13:11:55-05:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

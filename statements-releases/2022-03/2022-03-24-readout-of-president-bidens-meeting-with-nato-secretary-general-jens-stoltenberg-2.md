@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/readout-of-president-bidens-meeting-with-nato-secretary-general-jens-stoltenberg-2/
 published_time: 2022-03-24 07:40:19-04:00
-title: "Readout of President Biden\u2019s Meeting with NATO Secretary General Jens\
-  \ Stoltenberg"
+title: "Readout of President\_Biden\u2019s Meeting with NATO Secretary General Jens\_\
+  Stoltenberg"
 ---
  
 President Joseph R. Biden, Jr. met today with Secretary General Jens

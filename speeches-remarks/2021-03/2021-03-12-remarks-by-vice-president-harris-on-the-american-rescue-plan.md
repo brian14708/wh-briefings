@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-04-14 09:11:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/12/remarks-by-vice-president-harris-on-the-american-rescue-plan/
 published_time: 2021-03-12 10:10:00-05:00
-title: Remarks by Vice President Harris on the American Rescue Plan
+title: "Remarks by Vice President Harris on the American Rescue\_Plan"
 ---
  
 Rose Garden

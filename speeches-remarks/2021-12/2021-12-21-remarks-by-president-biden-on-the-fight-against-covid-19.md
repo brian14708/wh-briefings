@@ -4,7 +4,7 @@ date: '2021-12-21'
 modified_time: 2021-12-24 16:52:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/21/remarks-by-president-biden-on-the-fight-against-covid-19/
 published_time: 2021-12-21 17:45:00-05:00
-title: "Remarks by President Biden on the Fight Against COVID- \u2060 19"
+title: "Remarks by President\_Biden on the Fight Against\_COVID-\u206019"
 ---
  
 State Dining Room

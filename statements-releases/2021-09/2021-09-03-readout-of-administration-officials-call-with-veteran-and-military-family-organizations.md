@@ -4,7 +4,8 @@ date: '2021-09-03'
 modified_time: 2021-09-04 09:27:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/readout-of-administration-officials-call-with-veteran-and-military-family-organizations/
 published_time: 2021-09-03 22:09:22-04:00
-title: Readout of Administration Officials Call with Veteran and Military Family Organizations
+title: "Readout of Administration Officials Call with Veteran and Military Family\_\
+  Organizations"
 ---
  
 Today, Secretary of State Antony Blinken, Secretary of Veterans Affairs

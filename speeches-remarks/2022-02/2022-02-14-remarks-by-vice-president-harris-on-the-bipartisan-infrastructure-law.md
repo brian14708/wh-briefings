@@ -4,7 +4,7 @@ date: '2022-02-14'
 modified_time: 2022-02-17 11:33:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/14/remarks-by-vice-president-harris-on-the-bipartisan-infrastructure-law/
 published_time: 2022-02-14 18:21:16-05:00
-title: Remarks by Vice President Harris on the Bipartisan Infrastructure Law
+title: "Remarks by Vice President Harris on the Bipartisan Infrastructure\_Law"
 ---
  
 *South Court Auditorium  

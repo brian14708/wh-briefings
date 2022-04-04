@@ -4,8 +4,8 @@ date: '2022-03-23'
 modified_time: 2022-03-30 14:17:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/statement-by-vice-president-kamala-harris-on-the-passing-of-secretary-madeleine-albright/
 published_time: 2022-03-23 06:16:00-04:00
-title: Statement By Vice President Kamala Harris On The Passing Of Secretary Madeleine
-  Albright
+title: "Statement By Vice President Kamala\_Harris On The Passing Of Secretary Madeleine\_\
+  Albright"
 ---
  
 Madeleine Albright gave so much of her life to public service – always

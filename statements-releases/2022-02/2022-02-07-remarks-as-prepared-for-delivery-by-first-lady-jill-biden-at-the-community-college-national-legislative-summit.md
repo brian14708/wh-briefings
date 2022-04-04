@@ -4,8 +4,8 @@ date: '2022-02-07'
 modified_time: 2022-02-07 11:36:18-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-community-college-national-legislative-summit/
 published_time: 2022-02-07 11:36:17-05:00
-title: Remarks as Prepared for Delivery by First Lady Jill Biden at the Community
-  College National Legislative Summit
+title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Community\
+  \ College National Legislative\_Summit"
 ---
  
 Washington, D.C. 

@@ -4,7 +4,7 @@ date: '2022-02-04'
 modified_time: 2022-02-04 16:22:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/disclosures/2022/02/04/october-2021-visitor-log-records-posted/
 published_time: 2022-02-04 17:00:00-05:00
-title: October 2021 Visitor Log Records Posted
+title: "October 2021 Visitor Log Records\_Posted"
 ---
  
 Today the White House released visitor log records generated in October

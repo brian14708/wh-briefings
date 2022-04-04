@@ -4,7 +4,7 @@ date: '2022-03-29'
 modified_time: 2022-03-29 11:51:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-biden-announces-key-nominees-8/
 published_time: 2022-03-29 12:00:00-04:00
-title: President Biden Announces Key Nominees
+title: "President\_Biden Announces Key\_Nominees"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

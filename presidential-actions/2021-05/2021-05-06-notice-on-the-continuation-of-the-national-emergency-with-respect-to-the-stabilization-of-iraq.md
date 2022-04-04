@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2021-05-06'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq/
 published_time: 2021-05-06 17:58:53-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Stabilization
-  of Iraq
+title: "Notice on the Continuation of the National Emergency with Respect to the Stabilization\
+  \ of\_Iraq"
 ---
  
 On May 22, 2003, by Executive Order 13303, the President declared a

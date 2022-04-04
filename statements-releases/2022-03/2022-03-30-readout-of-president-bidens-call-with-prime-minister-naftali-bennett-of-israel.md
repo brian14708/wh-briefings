@@ -4,8 +4,8 @@ date: '2022-03-30'
 modified_time: 2022-03-30 18:38:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/readout-of-president-bidens-call-with-prime-minister-naftali-bennett-of-israel/
 published_time: 2022-03-30 18:38:38-04:00
-title: "Readout of President Biden\u2019s Call with Prime Minister Naftali Bennett\
-  \ of Israel"
+title: "Readout of President\_Biden\u2019s Call with Prime Minister Naftali Bennett\
+  \ of\_Israel"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Prime Minister Naftali

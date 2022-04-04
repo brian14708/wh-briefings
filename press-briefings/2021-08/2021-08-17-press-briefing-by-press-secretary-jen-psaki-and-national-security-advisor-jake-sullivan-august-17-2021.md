@@ -4,8 +4,8 @@ date: '2021-08-17'
 modified_time: 2021-08-18 14:13:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/17/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-august-17-2021/
 published_time: 2021-08-17 18:52:18-04:00
-title: Press Briefing by Press Secretary Jen Psaki and National Security Advisor Jake
-  Sullivan, August 17, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
+  \ Jake Sullivan, August 17,\_2021"
 ---
  
 James S. Brady Press Briefing Room

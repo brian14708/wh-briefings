@@ -4,7 +4,8 @@ date: '2022-02-01'
 modified_time: 2022-02-01 20:30:11-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/statement-by-president-joe-biden-and-first-lady-jill-biden-on-lunar-new-year/
 published_time: 2022-02-01 20:30:10-05:00
-title: Statement by President Joe Biden and First Lady Jill Biden on Lunar New Year
+title: "Statement by President Joe\_Biden and First Lady Jill\_Biden on Lunar New\_\
+  Year"
 ---
  
 We send our warmest greetings to everyone celebrating the Lunar New

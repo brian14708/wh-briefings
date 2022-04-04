@@ -5,7 +5,7 @@ modified_time: 2021-04-27 23:41:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/27/background-press-call-by-senior-administration-officials-on-national-security-and-foreign-policy-in-president-bidens-first-100-days/
 published_time: 2021-04-27 19:37:12-04:00
 title: "Background Press Call by Senior Administration Officials on National Security\
-  \ and Foreign Policy in President Biden\u2019s First 100 Days"
+  \ and Foreign Policy in President\_Biden\u2019s First 100\_Days"
 ---
  
 Via Teleconference

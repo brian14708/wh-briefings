@@ -4,8 +4,8 @@ date: '2021-05-06'
 modified_time: 2021-05-06 17:50:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-central-african-republic/
 published_time: 2021-05-06 17:50:27-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Central
-  African Republic
+title: "Notice on the Continuation of the National Emergency with Respect to the Central\
+  \ African\_Republic"
 ---
  
 On May 12, 2014, by Executive Order 13667, the President declared a

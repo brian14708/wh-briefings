@@ -4,7 +4,7 @@ date: '2021-04-28'
 modified_time: 2021-04-28 11:39:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/president-joseph-r-biden-jr-approves-new-jersey-disaster-declaration/
 published_time: 2021-04-28 11:39:49-04:00
-title: President Joseph R. Biden, Jr. Approves New Jersey Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves New Jersey Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

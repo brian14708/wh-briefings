@@ -4,7 +4,7 @@ date: '2021-01-20'
 modified_time: 2021-01-20 22:56:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/20/remarks-by-vice-president-kamala-harris-at-the-celebration-of-america/
 published_time: 2021-01-20 22:56:24-05:00
-title: Remarks by Vice President Kamala Harris at the Celebration of America
+title: "Remarks by Vice President Kamala\_Harris at the Celebration of\_America"
 ---
  
 **VICE PRESIDENT HARRIS:** Good evening. It is my honor to be here.

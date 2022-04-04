@@ -4,8 +4,8 @@ date: '2022-02-17'
 modified_time: 2022-02-17 14:31:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/17/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-environmental-protection-agency-administrator-michael-regan/
 published_time: 2022-02-17 14:31:49-05:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and Environmental
-  Protection Agency Administrator Michael Regan
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and Environmental\
+  \ Protection Agency Administrator Michael\_Regan"
 ---
  
 Aboard Air Force One  

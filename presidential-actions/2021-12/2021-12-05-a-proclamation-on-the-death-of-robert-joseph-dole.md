@@ -4,7 +4,7 @@ date: '2021-12-05'
 modified_time: 2021-12-05 16:50:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/05/a-proclamation-on-the-death-of-robert-joseph-dole/
 published_time: 2021-12-05 16:50:04-05:00
-title: A Proclamation on the Death of Robert Joseph Dole
+title: "A Proclamation on the Death of Robert Joseph\_Dole"
 ---
  
 As a mark of respect for Robert Joseph Dole, a statesman like few in our

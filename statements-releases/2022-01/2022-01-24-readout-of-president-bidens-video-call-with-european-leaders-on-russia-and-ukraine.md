@@ -4,8 +4,8 @@ date: '2022-01-24'
 modified_time: 2022-01-24 17:45:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-president-bidens-video-call-with-european-leaders-on-russia-and-ukraine/
 published_time: 2022-01-24 17:45:43-05:00
-title: "Readout of President Biden\u2019s Video Call with European Leaders on Russia\
-  \ and Ukraine"
+title: "Readout of President\_Biden\u2019s Video Call with European Leaders on Russia\
+  \ and\_Ukraine"
 ---
  
 President Biden held a secure video call with European leaders today.

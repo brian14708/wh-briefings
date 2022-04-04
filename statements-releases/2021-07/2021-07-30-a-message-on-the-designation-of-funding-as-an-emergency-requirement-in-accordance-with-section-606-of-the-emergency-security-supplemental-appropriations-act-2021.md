@@ -4,8 +4,9 @@ date: '2021-07-30'
 modified_time: 2021-07-30 17:34:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/a-message-on-the-designation-of-funding-as-an-emergency-requirement-in-accordance-with-section-606-of-the-emergency-security-supplemental-appropriations-act-2021/
 published_time: 2021-07-30 17:34:22-04:00
-title: A Message on the Designation of Funding as an Emergency Requirement in Accordance
-  with Section 606 of the Emergency Security Supplemental Appropriations Act, 2021
+title: "A Message on the Designation of Funding as an Emergency Requirement in Accordance\
+  \ with Section 606 of the Emergency Security Supplemental Appropriations Act,\_\
+  2021"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:  

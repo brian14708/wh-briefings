@@ -5,7 +5,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/
 published_time: 2021-02-16 16:50:58-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Geoffrey van Leeuwen, Foreign Affairs and Defense Advisor\
-  \ to the Prime Minister of the Netherlands"
+  \ to the Prime Minister of the\_Netherlands"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

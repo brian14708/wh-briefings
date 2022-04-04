@@ -4,8 +4,8 @@ date: '2021-03-01'
 modified_time: 2021-03-01 18:19:32-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/01/remarks-by-president-biden-and-president-lopez-obrador-of-mexico-before-virtual-bilateral-meeting/
 published_time: 2021-03-01 18:45:00-05:00
-title: "Remarks by President Biden and President L\xF3pez Obrador of Mexico Before\
-  \ Virtual Bilateral Meeting"
+title: "Remarks by President\_Biden and President L\xF3pez Obrador of Mexico Before\
+  \ Virtual Bilateral\_Meeting"
 ---
  
 4:57 P.M. EST

@@ -4,7 +4,7 @@ date: '2021-09-06'
 modified_time: 2021-09-06 10:48:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/06/president-joseph-r-biden-jr-approves-new-york-disaster-declaration/
 published_time: 2021-09-06 10:48:04-04:00
-title: President Joseph R. Biden, Jr. Approves New York Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves New York Disaster\_Declaration"
 ---
  
 Yesterday, September 5, 2021, President Joseph R. Biden, Jr. declared

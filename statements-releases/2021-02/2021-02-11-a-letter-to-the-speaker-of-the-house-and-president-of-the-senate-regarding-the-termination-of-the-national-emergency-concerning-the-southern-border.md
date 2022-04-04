@@ -4,8 +4,8 @@ date: '2021-02-11'
 modified_time: 2021-02-11 10:18:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/a-letter-to-the-speaker-of-the-house-and-president-of-the-senate-regarding-the-termination-of-the-national-emergency-concerning-the-southern-border/
 published_time: 2021-02-11 10:18:37-05:00
-title: A Letter to the Speaker Of The House And President Of The Senate Regarding
-  the Termination of the National Emergency Concerning the Southern Border
+title: "A Letter to the Speaker Of The House And President Of The Senate Regarding\
+  \ the Termination of the National Emergency Concerning the Southern\_Border"
 ---
  
 February 10, 2021

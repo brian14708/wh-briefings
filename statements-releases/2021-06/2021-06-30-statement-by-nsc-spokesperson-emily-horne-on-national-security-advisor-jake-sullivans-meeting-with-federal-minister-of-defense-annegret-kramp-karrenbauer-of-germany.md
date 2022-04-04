@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/
 published_time: 2021-06-30 21:31:44-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Federal Minister of Defense Annegret Kramp-Karrenbauer\
-  \ of Germany"
+  \ of\_Germany"
 ---
  
 National Security Advisor Jake Sullivan met today with Federal Minister

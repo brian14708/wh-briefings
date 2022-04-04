@@ -4,7 +4,7 @@ date: '2021-12-08'
 modified_time: 2021-12-08 20:50:32-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/readout-of-the-december-national-climate-task-force-meeting/
 published_time: 2021-12-08 20:50:31-05:00
-title: Readout of the December National Climate Task Force Meeting
+title: "Readout of the December National Climate Task Force\_Meeting"
 ---
  
 *Following COP26 and the President’s signing of the Bipartisan

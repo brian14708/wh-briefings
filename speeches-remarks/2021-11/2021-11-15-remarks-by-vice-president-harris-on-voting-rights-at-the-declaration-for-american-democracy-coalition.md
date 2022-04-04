@@ -4,8 +4,8 @@ date: '2021-11-15'
 modified_time: 2021-12-20 11:14:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-vice-president-harris-on-voting-rights-at-the-declaration-for-american-democracy-coalition/
 published_time: 2021-11-15 17:00:00-05:00
-title: Remarks By Vice President Harris On Voting Rights At The Declaration For American
-  Democracy Coalition
+title: "Remarks By Vice President Harris On Voting Rights At The Declaration For American\
+  \ Democracy\_Coalition"
 ---
  
 *Via Teleconference*

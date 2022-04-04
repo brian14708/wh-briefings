@@ -4,7 +4,7 @@ date: '2021-04-11'
 modified_time: 2021-04-11 05:35:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/11/statement-by-president-joe-biden-on-the-electric-battery-dispute-settlement/
 published_time: 2021-04-11 07:30:00-04:00
-title: Statement by President Joe Biden on the Electric Battery Dispute Settlement
+title: "Statement by President Joe\_Biden on the Electric Battery Dispute\_Settlement"
 ---
  
 This settlement agreement is a win for American workers and the American

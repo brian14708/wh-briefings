@@ -4,7 +4,7 @@ date: '2021-06-14'
 modified_time: 2021-06-16 17:57:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/14/remarks-by-vice-president-harris-at-a-covid-vaccination-mobilization-event/
 published_time: 2021-06-14 17:55:00-04:00
-title: Remarks by Vice President Harris at a COVID Vaccination Mobilization Event
+title: "Remarks by Vice President Harris at a COVID Vaccination Mobilization\_Event"
 ---
  
 Phillis Wheatley Community Center  

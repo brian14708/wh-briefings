@@ -4,7 +4,7 @@ date: '2021-10-07'
 modified_time: 2021-10-07 16:48:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/nominations-sent-to-the-senate-39/
 published_time: 2021-10-07 16:48:40-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
      Elizabeth de León Bhargava, of New York, to be an Assistant

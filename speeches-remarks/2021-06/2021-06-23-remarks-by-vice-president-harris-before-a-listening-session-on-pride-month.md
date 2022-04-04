@@ -4,7 +4,7 @@ date: '2021-06-23'
 modified_time: 2021-06-28 11:51:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-vice-president-harris-before-a-listening-session-on-pride-month/
 published_time: 2021-06-23 11:50:00-04:00
-title: Remarks by Vice President Harris Before a Listening Session on Pride Month
+title: "Remarks by Vice President Harris Before a Listening Session on Pride\_Month"
 ---
  
 Via Teleconference  

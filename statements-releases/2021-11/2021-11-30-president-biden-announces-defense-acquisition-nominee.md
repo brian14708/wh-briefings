@@ -4,7 +4,7 @@ date: '2021-11-30'
 modified_time: 2021-11-30 10:51:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/30/president-biden-announces-defense-acquisition-nominee/
 published_time: 2021-11-30 10:51:46-05:00
-title: President Biden Announces Defense Acquisition Nominee
+title: "President\_Biden Announces Defense Acquisition\_Nominee"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

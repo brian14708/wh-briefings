@@ -4,8 +4,8 @@ date: '2021-08-12'
 modified_time: 2021-08-12 13:53:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/statement-of-president-joe-biden-on-the-fourth-anniversary-of-the-events-at-charlottesville-virginia/
 published_time: 2021-08-12 13:53:52-04:00
-title: Statement of President Joe Biden on the Fourth Anniversary of the Events at
-  Charlottesville, Virginia
+title: "Statement of President Joe\_Biden on the Fourth Anniversary of the Events\
+  \ at Charlottesville,\_Virginia"
 ---
  
 Four years ago today in Charlottesville, Virginia the battle for the

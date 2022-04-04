@@ -4,7 +4,7 @@ date: '2021-03-31'
 modified_time: 2021-04-01 17:31:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-month-of-the-military-child-2021/
 published_time: 2021-03-31 17:20:00-04:00
-title: A Proclamation on Month of the Military Child, 2021
+title: "A Proclamation on Month of the Military Child,\_2021"
 ---
  
 April marks the Month of the Military Child, when our Nation pays

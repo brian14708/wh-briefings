@@ -4,7 +4,7 @@ date: '2021-10-21'
 modified_time: 2021-10-21 11:25:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/21/fact-sheet-prioritizing-climate-in-foreign-policy-and-national-security/
 published_time: 2021-10-21 09:14:03-04:00
-title: 'Fact Sheet: Prioritizing Climate in Foreign Policy and National Security'
+title: "Fact Sheet: Prioritizing Climate in Foreign Policy and National\_Security"
 ---
  
 From Day One, the Biden-Harris Administration has prioritized addressing

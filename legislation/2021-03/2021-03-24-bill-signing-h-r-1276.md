@@ -3,7 +3,7 @@ category: legislation
 date: '2021-03-24'
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/03/24/bill-signing-h-r-1276/
 published_time: 2021-03-24 10:53:28-04:00
-title: 'Bill Signing: H.R. 1276'
+title: "Bill Signing: H.R.\_1276"
 ---
  
 On Wednesday, March 24, 2021, the President signed into law:

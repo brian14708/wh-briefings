@@ -3,8 +3,8 @@ category: press-briefings
 date: '2022-02-28'
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/28/background-press-call-by-senior-administration-officials-on-new-economic-restrictive-measures-on-russia/
 published_time: 2022-02-28 15:17:26-05:00
-title: Background Press Call by Senior Administration Officials on New Economic Restrictive
-  Measures on Russia
+title: "Background Press Call by Senior Administration Officials on New Economic Restrictive\
+  \ Measures on\_Russia"
 ---
  
 Via Teleconference

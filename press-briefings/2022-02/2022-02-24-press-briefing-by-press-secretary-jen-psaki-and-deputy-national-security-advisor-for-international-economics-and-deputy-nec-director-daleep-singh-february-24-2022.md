@@ -4,8 +4,9 @@ date: '2022-02-24'
 modified_time: 2022-02-24 23:32:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/24/press-briefing-by-press-secretary-jen-psaki-and-deputy-national-security-advisor-for-international-economics-and-deputy-nec-director-daleep-singh-february-24-2022/
 published_time: 2022-02-24 23:32:46-05:00
-title: Press Briefing by Press Secretary Jen Psaki and Deputy National Security Advisor
-  for International Economics and Deputy NEC Director Daleep Singh, February 24, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki and Deputy National Security\
+  \ Advisor for International Economics and Deputy NEC Director Daleep Singh, February\
+  \ 24,\_2022"
 ---
  
 James S. Brady Press Briefing Room

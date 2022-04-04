@@ -4,9 +4,9 @@ date: '2021-03-04'
 modified_time: 2021-03-04 18:50:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-the-white-houses-listening-session-with-asian-american-and-pacific-islander-leaders-on-rising-hate-crimes-and-incidents-against-asian-american-communities/
 published_time: 2021-03-04 18:50:29-05:00
-title: "Readout of the White House\u2019s Listening Session with Asian American and\
-  \ Pacific Islander Leaders on Rising Hate Crimes and Incidents Against Asian American\
-  \ Communities"
+title: "Readout of the White\_House\u2019s Listening Session with Asian American and\
+  \ Pacific Islander Leaders on Rising Hate Crimes and Incidents Against Asian American\_\
+  Communities"
 ---
  
 Today, Domestic Policy Advisor Susan Rice, White House Public Engagement

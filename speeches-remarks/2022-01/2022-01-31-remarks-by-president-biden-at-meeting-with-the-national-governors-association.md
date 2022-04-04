@@ -4,7 +4,7 @@ date: '2022-01-31'
 modified_time: 2022-01-31 13:57:15-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/31/remarks-by-president-biden-at-meeting-with-the-national-governors-association/
 published_time: 2022-01-31 13:57:14-05:00
-title: Remarks by President Biden at Meeting With the National Governors Association
+title: "Remarks by President\_Biden at Meeting With the National Governors\_Association"
 ---
  
 East Room

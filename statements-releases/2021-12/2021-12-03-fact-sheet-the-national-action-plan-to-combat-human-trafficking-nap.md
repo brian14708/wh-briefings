@@ -4,7 +4,7 @@ date: '2021-12-03'
 modified_time: 2021-12-02 19:19:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/
 published_time: 2021-12-03 09:00:00-05:00
-title: 'FACT SHEET: The National Action Plan to Combat Human Trafficking (NAP)'
+title: "FACT SHEET: The National Action Plan to Combat Human Trafficking\_(NAP)"
 ---
  
 Globally, an estimated [25 million

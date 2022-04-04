@@ -4,8 +4,8 @@ date: '2021-11-02'
 modified_time: 2021-11-02 12:51:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-accelerating-clean-technology-innovation-and-deployment-event/
 published_time: 2021-11-02 13:00:00-04:00
-title: "Remarks by President Biden at \u201CAccelerating Clean Technology Innovation\
-  \ and Deployment\u201D Event"
+title: "Remarks by President\_Biden at \u201CAccelerating Clean Technology Innovation\
+  \ and Deployment\u201D\_Event"
 ---
  
 Scottish Event Campus  

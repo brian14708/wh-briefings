@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-18'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/18/readout-of-president-bidens-call-with-transatlantic-leaders/
 published_time: 2022-02-18 16:46:33-05:00
-title: "Readout of President Biden\u2019s Call with Transatlantic Leaders"
+title: "Readout of President\_Biden\u2019s Call with Transatlantic\_Leaders"
 ---
  
 President Joseph R. Biden spoke today with Transatlantic leaders about

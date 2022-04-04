@@ -4,7 +4,7 @@ date: '2021-12-30'
 modified_time: 2021-12-30 15:50:16-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/30/a-proclamation-on-national-stalking-awareness-month-2022/
 published_time: 2021-12-30 15:50:15-05:00
-title: A Proclamation on National Stalking Awareness Month, 2022
+title: "A Proclamation on National Stalking Awareness Month,\_2022"
 ---
  
 All people deserve to feel safe and protected — whether in their home,

@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 18:01:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/statement-of-president-joe-biden-on-the-passing-of-dick-blum/
 published_time: 2022-02-28 16:56:42-05:00
-title: Statement of President Joe Biden on the Passing of Dick Blum
+title: "Statement of President Joe\_Biden on the Passing of Dick\_Blum"
 ---
  
 Jill and I were saddened to learn of the passing of Dick Blum, a

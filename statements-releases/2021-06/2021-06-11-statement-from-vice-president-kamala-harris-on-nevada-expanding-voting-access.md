@@ -4,7 +4,8 @@ date: '2021-06-11'
 modified_time: 2021-06-16 17:58:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/statement-from-vice-president-kamala-harris-on-nevada-expanding-voting-access/
 published_time: 2021-06-11 17:58:00-04:00
-title: Statement from Vice President Kamala Harris on Nevada Expanding Voting Access
+title: "Statement from Vice President Kamala\_Harris on Nevada Expanding Voting\_\
+  Access"
 ---
  
 The right to vote is fundamental to our democracy—and defending that

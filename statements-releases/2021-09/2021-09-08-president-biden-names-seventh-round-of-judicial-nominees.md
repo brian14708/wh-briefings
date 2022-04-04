@@ -4,7 +4,7 @@ date: '2021-09-08'
 modified_time: 2021-09-08 09:39:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/08/president-biden-names-seventh-round-of-judicial-nominees/
 published_time: 2021-09-08 09:39:31-04:00
-title: President Biden Names Seventh Round of Judicial Nominees
+title: "President\_Biden Names Seventh Round of Judicial\_Nominees"
 ---
  
 The President is announcing eight new candidates for the federal bench,

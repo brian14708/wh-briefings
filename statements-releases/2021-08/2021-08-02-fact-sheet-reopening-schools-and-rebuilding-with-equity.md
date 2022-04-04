@@ -4,7 +4,7 @@ date: '2021-08-02'
 modified_time: 2021-08-01 19:24:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/
 published_time: 2021-08-02 06:00:00-04:00
-title: 'FACT SHEET: Reopening Schools and Rebuilding With Equity'
+title: "FACT SHEET: Reopening Schools and Rebuilding With\_Equity"
 ---
  
 The Administration has taken decisive action to support the safe

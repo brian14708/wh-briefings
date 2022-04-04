@@ -4,9 +4,9 @@ date: '2021-11-18'
 modified_time: 2021-11-18 12:44:10-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/
 published_time: 2021-11-18 05:15:00-05:00
-title: 'FACT SHEET: Biden Administration Deploys American Rescue Plan Funds to Protect
-  Americans from Rising Home Heating Costs; Calls on Utility Companies to Prevent
-  Shut Offs This Winter'
+title: "FACT SHEET: Biden Administration Deploys American Rescue Plan Funds to Protect\
+  \ Americans from Rising Home Heating Costs; Calls on Utility Companies to Prevent\
+  \ Shut Offs This\_Winter"
 ---
  
 *Unprecedented Funding and Partnerships with State, Local and Tribal

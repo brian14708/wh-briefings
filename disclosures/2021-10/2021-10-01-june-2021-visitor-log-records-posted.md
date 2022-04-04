@@ -4,7 +4,7 @@ date: '2021-10-01'
 modified_time: 2021-10-01 16:45:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/10/01/june-2021-visitor-log-records-posted/
 published_time: 2021-10-01 17:00:00-04:00
-title: June 2021 Visitor Log Records Posted
+title: "June 2021 Visitor Log Records\_Posted"
 ---
  
 Today the White House released visitor log records generated in June

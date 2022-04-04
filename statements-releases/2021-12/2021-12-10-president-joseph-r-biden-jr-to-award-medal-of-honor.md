@@ -4,7 +4,7 @@ date: '2021-12-10'
 modified_time: 2021-12-10 14:33:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/president-joseph-r-biden-jr-to-award-medal-of-honor/
 published_time: 2021-12-10 14:33:02-05:00
-title: President Joseph R. Biden, Jr. to Award Medal of Honor
+title: "President Joseph R. Biden, Jr. to Award Medal of\_Honor"
 ---
  
 On December 16, 2021, President Joseph R. Biden, Jr., will award the

@@ -4,8 +4,8 @@ date: '2021-06-10'
 modified_time: 2021-06-09 18:29:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/10/fact-sheet-president-biden-announces-historic-vaccine-donation-half-a-billion-pfizer-vaccines-to-the-worlds-lowest-income-nations/
 published_time: 2021-06-10 02:00:00-04:00
-title: "FACT SHEET: President Biden Announces Historic Vaccine Donation: Half a Billion\
-  \ Pfizer Vaccines to the World\u2019s Lowest-Income Nations"
+title: "FACT SHEET: President\_Biden Announces Historic Vaccine Donation: Half a Billion\
+  \ Pfizer Vaccines to the World\u2019s Lowest-Income\_Nations"
 ---
  
 *500 million life-saving vaccines to be delivered by June of next year,

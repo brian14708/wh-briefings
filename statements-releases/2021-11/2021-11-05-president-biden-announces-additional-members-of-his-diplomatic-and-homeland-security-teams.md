@@ -4,8 +4,8 @@ date: '2021-11-05'
 modified_time: 2021-11-05 16:36:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/05/president-biden-announces-additional-members-of-his-diplomatic-and-homeland-security-teams/
 published_time: 2021-11-05 16:10:11-04:00
-title: President Biden Announces Additional Members of His Diplomatic and Homeland
-  Security Teams
+title: "President\_Biden Announces Additional Members of His Diplomatic and Homeland\
+  \ Security\_Teams"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

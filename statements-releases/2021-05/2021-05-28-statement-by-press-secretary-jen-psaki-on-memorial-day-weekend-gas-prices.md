@@ -4,7 +4,7 @@ date: '2021-05-28'
 modified_time: 2021-05-28 12:19:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/statement-by-press-secretary-jen-psaki-on-memorial-day-weekend-gas-prices/
 published_time: 2021-05-28 12:19:17-04:00
-title: Statement by Press Secretary Jen Psaki on Memorial Day Weekend Gas Prices
+title: "Statement by Press Secretary Jen\_Psaki on Memorial Day Weekend Gas\_Prices"
 ---
  
 Across America, the pandemic is in retreat. As we continue to make

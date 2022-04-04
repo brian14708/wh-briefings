@@ -4,7 +4,7 @@ date: '2022-02-11'
 modified_time: 2022-02-11 13:32:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/president-biden-announces-2-diplomatic-nominees/
 published_time: 2022-02-11 15:00:00-05:00
-title: President Biden Announces 2 Diplomatic Nominees
+title: "President\_Biden Announces 2 Diplomatic\_Nominees"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

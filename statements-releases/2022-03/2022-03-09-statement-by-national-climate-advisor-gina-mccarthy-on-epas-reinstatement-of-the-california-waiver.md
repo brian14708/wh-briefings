@@ -5,7 +5,7 @@ modified_time: 2022-03-09 12:00:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/statement-by-national-climate-advisor-gina-mccarthy-on-epas-reinstatement-of-the-california-waiver/
 published_time: 2022-03-09 14:05:00-05:00
 title: "Statement by National Climate Advisor Gina McCarthy on EPA\u2019s Reinstatement\
-  \ of the California Waiver"
+  \ of the California\_Waiver"
 ---
  
 For more than 30 years, the Clean Air Act has provided California with

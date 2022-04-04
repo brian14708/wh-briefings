@@ -4,7 +4,8 @@ date: '2021-03-18'
 modified_time: 2021-03-18 22:02:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/statement-by-president-biden-on-the-farm-workforce-modernization-act-of-2021/
 published_time: 2021-03-18 22:02:14-04:00
-title: Statement by President Biden on the Farm Workforce Modernization Act of 2021
+title: "Statement by President\_Biden on the Farm Workforce Modernization Act of\_\
+  2021"
 ---
  
 Farmworkers are vital to the wellbeing of our country and our economy.

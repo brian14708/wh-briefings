@@ -4,8 +4,8 @@ date: '2021-09-09'
 modified_time: 2021-09-09 13:33:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/statement-by-nsc-spokesperson-emily-horne-on-qatar-airways-charter-flight-from-kabul/
 published_time: 2021-09-09 13:33:15-04:00
-title: Statement by NSC Spokesperson Emily Horne on Qatar Airways Charter Flight from
-  Kabul
+title: "Statement by NSC Spokesperson Emily Horne on Qatar Airways Charter Flight\
+  \ from\_Kabul"
 ---
  
 Today, the United States government facilitated the departure of U.S

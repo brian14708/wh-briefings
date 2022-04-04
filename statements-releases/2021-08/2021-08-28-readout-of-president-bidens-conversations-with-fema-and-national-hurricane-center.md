@@ -4,8 +4,8 @@ date: '2021-08-28'
 modified_time: 2021-08-28 19:29:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/readout-of-president-bidens-conversations-with-fema-and-national-hurricane-center/
 published_time: 2021-08-28 19:29:15-04:00
-title: "Readout of President Biden\u2019s Conversations with FEMA and National Hurricane\
-  \ Center"
+title: "Readout of President\_Biden\u2019s Conversations with FEMA and National Hurricane\_\
+  Center"
 ---
  
 This afternoon, President Biden convened conversations with the National

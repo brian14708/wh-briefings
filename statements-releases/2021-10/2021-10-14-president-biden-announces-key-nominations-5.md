@@ -4,7 +4,7 @@ date: '2021-10-14'
 modified_time: 2021-10-14 16:55:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/president-biden-announces-key-nominations-5/
 published_time: 2021-10-14 16:31:53-04:00
-title: President Biden Announces Key Nominations
+title: "President\_Biden Announces Key\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

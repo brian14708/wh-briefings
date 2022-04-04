@@ -4,8 +4,8 @@ date: '2021-12-03'
 modified_time: 2021-12-03 16:38:16-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/03/background-press-call-by-senior-administration-officials-on-new-national-action-plan-to-combat-human-trafficking/
 published_time: 2021-12-03 16:38:15-05:00
-title: Background Press Call by Senior Administration Officials on New National Action
-  Plan to Combat Human Trafficking
+title: "Background Press Call by Senior Administration Officials on New National Action\
+  \ Plan to Combat Human\_Trafficking"
 ---
  
 Via Teleconference

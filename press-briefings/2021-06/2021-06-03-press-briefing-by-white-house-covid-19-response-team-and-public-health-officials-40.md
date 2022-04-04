@@ -4,8 +4,8 @@ date: '2021-06-03'
 modified_time: 2021-06-03 15:11:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-40/
 published_time: 2021-06-03 15:11:05-04:00
-title: "Press Briefing by White House COVID- \u2060 19 Response Team and Public Health\
-  \ Officials"
+title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
+  Officials"
 ---
  
 Via Teleconference 

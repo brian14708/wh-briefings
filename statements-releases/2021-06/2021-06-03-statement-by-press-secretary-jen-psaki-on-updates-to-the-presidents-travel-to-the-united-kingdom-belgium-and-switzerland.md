@@ -4,8 +4,8 @@ date: '2021-06-03'
 modified_time: 2021-06-03 10:24:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-press-secretary-jen-psaki-on-updates-to-the-presidents-travel-to-the-united-kingdom-belgium-and-switzerland/
 published_time: 2021-06-03 10:24:57-04:00
-title: "Statement by Press Secretary Jen Psaki on Updates to the President\u2019s\
-  \ Travel to the United Kingdom, Belgium, and Switzerland"
+title: "Statement by Press Secretary Jen\_Psaki on Updates to the President\u2019\
+  s Travel to the United Kingdom, Belgium, and\_Switzerland"
 ---
  
 President Joseph R. Biden, Jr. will travel to the United Kingdom,

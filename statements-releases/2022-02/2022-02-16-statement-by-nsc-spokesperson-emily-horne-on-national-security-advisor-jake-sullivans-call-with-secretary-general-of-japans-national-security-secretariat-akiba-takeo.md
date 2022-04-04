@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/
 published_time: 2022-02-16 17:56:40-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Secretary General of Japan\u2019s National Security\
-  \ Secretariat Akiba Takeo"
+  \ Secretariat Akiba\_Takeo"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with Akiba

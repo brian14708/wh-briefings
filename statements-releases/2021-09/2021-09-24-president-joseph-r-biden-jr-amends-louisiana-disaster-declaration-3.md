@@ -4,7 +4,7 @@ date: '2021-09-24'
 modified_time: 2021-09-24 20:16:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/president-joseph-r-biden-jr-amends-louisiana-disaster-declaration-3/
 published_time: 2021-09-24 20:16:16-04:00
-title: President Joseph R. Biden, Jr. Amends Louisiana Disaster Declaration
+title: "President Joseph R. Biden, Jr. Amends Louisiana Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. made additional disaster

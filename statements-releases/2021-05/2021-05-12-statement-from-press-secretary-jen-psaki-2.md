@@ -4,7 +4,7 @@ date: '2021-05-12'
 modified_time: 2021-05-12 07:48:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/statement-from-press-secretary-jen-psaki-2/
 published_time: 2021-05-12 07:48:40-04:00
-title: Statement from Press Secretary Jen Psaki
+title: "Statement from Press Secretary Jen\_Psaki"
 ---
  
 Last night, Homeland Security Advisor Liz Sherwood-Randall and National

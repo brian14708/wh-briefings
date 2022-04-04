@@ -4,8 +4,8 @@ date: '2022-02-07'
 modified_time: 2022-02-07 18:35:12-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/readout-of-stakeholder-call-on-the-partnerships-for-climate-smart-commodities-program/
 published_time: 2022-02-07 18:35:11-05:00
-title: Readout of Stakeholder Call on the Partnerships for Climate-Smart Commodities
-  Program
+title: "Readout of Stakeholder Call on the Partnerships for Climate-Smart Commodities\_\
+  Program"
 ---
  
 Today, White House National Climate Advisor Gina McCarthy and Department

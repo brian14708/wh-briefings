@@ -4,7 +4,7 @@ date: '2021-06-11'
 modified_time: 2021-06-11 14:53:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/president-biden-announces-seven-key-nominations/
 published_time: 2021-06-11 14:53:02-04:00
-title: President Biden Announces Seven Key Nominations
+title: "President\_Biden Announces Seven Key\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

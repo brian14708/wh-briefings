@@ -4,7 +4,7 @@ date: '2022-03-16'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/16/remarks-by-vice-president-harris-during-a-conversation-with-current-and-former-members-of-the-u-s-womens-national-soccer-team/
 published_time: 2022-03-16 03:16:25-04:00
 title: "Remarks by Vice President Harris During a Conversation with Current and Former\
-  \ Members of the U.S. Women\u2019s National Soccer Team"
+  \ Members of the U.S. Women\u2019s National Soccer\_Team"
 ---
  
 South Court Auditorium

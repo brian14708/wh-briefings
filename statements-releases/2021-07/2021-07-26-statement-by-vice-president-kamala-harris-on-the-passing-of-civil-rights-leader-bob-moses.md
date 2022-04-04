@@ -4,8 +4,8 @@ date: '2021-07-26'
 modified_time: 2021-12-23 16:47:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/statement-by-vice-president-kamala-harris-on-the-passing-of-civil-rights-leader-bob-moses/
 published_time: 2021-07-26 17:47:00-04:00
-title: Statement by Vice President Kamala Harris on the Passing of Civil Rights Leader,
-  Bob Moses
+title: "Statement by Vice President Kamala\_Harris on the Passing of Civil Rights\
+  \ Leader, Bob\_Moses"
 ---
  
 Robert Parris Moses was a soft spoken and big hearted educator and

@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 20:42:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/statement-by-vice-president-kamala-harris-on-the-passing-of-richard-blum/
 published_time: 2022-02-28 17:12:00-05:00
-title: Statement by Vice President Kamala Harris on the Passing of Richard Blum
+title: "Statement by Vice President Kamala\_Harris on the Passing of Richard\_Blum"
 ---
  
 Dick Blum believed we could build a world that respected the rights and

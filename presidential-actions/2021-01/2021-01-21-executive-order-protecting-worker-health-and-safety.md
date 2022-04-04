@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-01-21'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-protecting-worker-health-and-safety/
 published_time: 2021-01-21 16:43:05-05:00
-title: Executive Order on Protecting Worker Health and Safety
+title: "Executive Order on Protecting Worker Health and\_Safety"
 ---
  
 By the authority vested in me as President by the Constitution and the

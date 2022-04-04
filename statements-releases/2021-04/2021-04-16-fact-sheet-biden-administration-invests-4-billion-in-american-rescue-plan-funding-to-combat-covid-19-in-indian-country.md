@@ -5,7 +5,7 @@ modified_time: 2021-04-16 09:18:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-biden-administration-invests-4-billion-in-american-rescue-plan-funding-to-combat-covid-19-in-indian-country/
 published_time: 2021-04-16 10:30:00-04:00
 title: "Fact Sheet: Biden Administration Invests $4 Billion in American Rescue Plan\
-  \ Funding to Combat COVID- \u2060 19 in Indian Country"
+  \ Funding to Combat COVID-\u206019 in Indian\_Country"
 ---
  
 As part of President Biden’s continued efforts to ensure the pandemic

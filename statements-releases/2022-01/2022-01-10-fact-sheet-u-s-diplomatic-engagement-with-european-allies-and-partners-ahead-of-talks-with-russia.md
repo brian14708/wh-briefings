@@ -4,8 +4,8 @@ date: '2022-01-10'
 modified_time: 2022-01-10 18:24:12-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/fact-sheet-u-s-diplomatic-engagement-with-european-allies-and-partners-ahead-of-talks-with-russia/
 published_time: 2022-01-10 18:22:23-05:00
-title: 'FACT SHEET: U.S. Diplomatic Engagement with European Allies and Partners Ahead
-  of Talks with Russia'
+title: "FACT SHEET: U.S. Diplomatic Engagement with European Allies and Partners Ahead\
+  \ of Talks with\_Russia"
 ---
  
 *“We are absolutely committed to the principle nothing about Ukraine

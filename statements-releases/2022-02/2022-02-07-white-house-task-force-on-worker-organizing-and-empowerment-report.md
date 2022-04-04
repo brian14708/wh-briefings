@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-07'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/white-house-task-force-on-worker-organizing-and-empowerment-report/
 published_time: 2022-02-07 09:16:55-05:00
-title: White House Task Force on Worker Organizing and Empowerment Report
+title: "White\_House Task Force on Worker Organizing and Empowerment\_Report"
 ---
  
 Today, the Task Force on Worker Organizing and Empowerment – led by Vice

@@ -4,8 +4,8 @@ date: '2021-07-30'
 modified_time: 2021-07-30 14:10:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-intent-to-nominate-and-appoint-leaders-to-serve-in-key-religious-affairs-roles/
 published_time: 2021-07-30 14:10:07-04:00
-title: President Biden Announces Intent to Nominate and Appoint Leaders to Serve in
-  Key Religious Affairs Roles
+title: "President\_Biden Announces Intent to Nominate and Appoint Leaders to Serve\
+  \ in Key Religious Affairs\_Roles"
 ---
  
 WASHINGTON – Today, President Biden announced his intent to nominate and

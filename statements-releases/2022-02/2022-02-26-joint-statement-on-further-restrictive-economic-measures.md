@@ -4,7 +4,7 @@ date: '2022-02-26'
 modified_time: 2022-02-26 17:10:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/
 published_time: 2022-02-26 17:10:27-05:00
-title: Joint Statement on Further Restrictive Economic Measures
+title: "Joint Statement on Further Restrictive Economic\_Measures"
 ---
  
 We, the leaders of the European Commission, France, Germany, Italy, the

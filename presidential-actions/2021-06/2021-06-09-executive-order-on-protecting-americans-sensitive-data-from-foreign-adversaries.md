@@ -4,8 +4,8 @@ date: '2021-06-09'
 modified_time: 2021-06-09 10:24:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/09/executive-order-on-protecting-americans-sensitive-data-from-foreign-adversaries/
 published_time: 2021-06-09 10:23:36-04:00
-title: "Executive Order on Protecting Americans\u2019 Sensitive Data from Foreign\
-  \ Adversaries"
+title: "Executive Order on Protecting Americans\u2019 Sensitive Data from Foreign\_\
+  Adversaries"
 ---
  
 By the authority vested in me as President by the Constitution and the

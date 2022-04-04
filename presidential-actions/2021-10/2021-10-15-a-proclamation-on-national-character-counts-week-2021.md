@@ -4,7 +4,7 @@ date: '2021-10-15'
 modified_time: 2021-10-15 10:30:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/15/a-proclamation-on-national-character-counts-week-2021/
 published_time: 2021-10-15 10:30:38-04:00
-title: A Proclamation on National Character Counts Week, 2021
+title: "A Proclamation on National Character Counts Week,\_2021"
 ---
  
 Every day, each of us makes countless decisions that ultimately define

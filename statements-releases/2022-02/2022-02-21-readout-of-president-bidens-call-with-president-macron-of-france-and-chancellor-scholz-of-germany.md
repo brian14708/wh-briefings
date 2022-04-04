@@ -4,8 +4,8 @@ date: '2022-02-21'
 modified_time: 2022-02-21 17:05:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/21/readout-of-president-bidens-call-with-president-macron-of-france-and-chancellor-scholz-of-germany/
 published_time: 2022-02-21 17:05:46-05:00
-title: "Readout of President Biden\u2019s Call with President Macron of France and\
-  \ Chancellor Scholz of Germany"
+title: "Readout of President\_Biden\u2019s Call with President Macron of France and\
+  \ Chancellor Scholz of\_Germany"
 ---
  
 President Joseph R. Biden, Jr. spoke with President Emmanuel Macron of

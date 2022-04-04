@@ -4,8 +4,8 @@ date: '2021-12-07'
 modified_time: 2021-12-07 13:12:13-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/readout-of-president-bidens-video-call-with-president-vladimir-putin-of-russia/
 published_time: 2021-12-07 13:12:12-05:00
-title: "Readout of President Biden\u2019s Video Call with President Vladimir Putin\
-  \ of Russia"
+title: "Readout of President\_Biden\u2019s Video Call with President Vladimir Putin\
+  \ of\_Russia"
 ---
  
 President Joseph R. Biden, Jr. held a secure video call today with

@@ -4,7 +4,7 @@ date: '2021-05-29'
 modified_time: 2021-05-29 14:58:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/29/statement-by-president-joe-biden-on-texas-senate-bill-7/
 published_time: 2021-05-29 14:58:11-04:00
-title: Statement by President Joe Biden on Texas Senate Bill 7
+title: "Statement by President Joe\_Biden on Texas Senate Bill\_7"
 ---
  
 Today, Texas legislators put forth a bill that joins Georgia and Florida

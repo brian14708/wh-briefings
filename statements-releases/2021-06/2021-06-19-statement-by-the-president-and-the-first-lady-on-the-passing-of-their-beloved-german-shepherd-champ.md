@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-06-19'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/19/statement-by-the-president-and-the-first-lady-on-the-passing-of-their-beloved-german-shepherd-champ/
 published_time: 2021-06-19 11:32:32-04:00
-title: Statement by the President and the First Lady on the Passing of their Beloved
-  German Shepherd, Champ
+title: "Statement by the President and the First Lady on the Passing of their Beloved\
+  \ German Shepherd,\_Champ"
 ---
  
 Our hearts are heavy today as we let you all know that our beloved

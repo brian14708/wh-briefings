@@ -4,7 +4,7 @@ date: '2021-05-12'
 modified_time: 2021-05-12 11:05:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/president-biden-announces-third-slate-of-judicial-nominees/
 published_time: 2021-05-12 06:00:00-04:00
-title: President Biden Announces Third Slate of Judicial Nominees
+title: "President\_Biden Announces Third Slate of Judicial\_Nominees"
 ---
  
 President Biden has announced his intent to nominate three new Court of

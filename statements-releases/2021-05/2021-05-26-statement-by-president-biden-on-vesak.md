@@ -4,7 +4,7 @@ date: '2021-05-26'
 modified_time: 2021-05-26 15:20:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-biden-on-vesak/
 published_time: 2021-05-26 15:20:19-04:00
-title: Statement by President Biden on Vesak
+title: "Statement by President\_Biden on\_Vesak"
 ---
  
 Jill and I extend our warmest wishes to Buddhists in the United States

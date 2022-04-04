@@ -4,8 +4,8 @@ date: '2021-03-10'
 modified_time: 2021-03-10 14:26:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/10/statement-by-president-joe-biden-on-the-house-passage-of-the-american-rescue-plan/
 published_time: 2021-03-10 14:26:08-05:00
-title: Statement by President Joe Biden on the House Passage of the American Rescue
-  Plan
+title: "Statement by President Joe\_Biden on the House Passage of the American Rescue\_\
+  Plan"
 ---
  
 For weeks now, an overwhelming percentage of Americans – Democrats,

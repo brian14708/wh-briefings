@@ -4,7 +4,7 @@ date: '2022-03-31'
 modified_time: 2022-03-31 14:11:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/memorandum-on-finding-of-a-severe-energy-supply-interruption/
 published_time: 2022-03-31 14:11:06-04:00
-title: Memorandum on Finding of a Severe Energy Supply Interruption
+title: "Memorandum on Finding of a Severe Energy Supply\_Interruption"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF ENERGY  

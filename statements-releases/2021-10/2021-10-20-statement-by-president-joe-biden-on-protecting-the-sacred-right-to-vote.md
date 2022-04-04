@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-20'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/20/statement-by-president-joe-biden-on-protecting-the-sacred-right-to-vote/
 published_time: 2021-10-20 14:57:56-04:00
-title: Statement by President Joe Biden on Protecting the Sacred Right to Vote
+title: "Statement by President Joe\_Biden on Protecting the Sacred Right to\_Vote"
 ---
  
 The United States Senate needs to act to protect the

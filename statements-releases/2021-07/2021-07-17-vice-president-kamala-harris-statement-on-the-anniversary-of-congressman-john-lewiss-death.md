@@ -4,8 +4,8 @@ date: '2021-07-17'
 modified_time: 2021-07-23 11:37:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/vice-president-kamala-harris-statement-on-the-anniversary-of-congressman-john-lewiss-death/
 published_time: 2021-07-17 11:35:00-04:00
-title: "Vice President Kamala Harris Statement on the Anniversary of Congressman John\
-  \ Lewis\u2019s Death"
+title: "Vice President Kamala\_Harris Statement on the Anniversary of Congressman\
+  \ John Lewis\u2019s\_Death"
 ---
  
 Today marks the one-year anniversary of the passing of Congressman John

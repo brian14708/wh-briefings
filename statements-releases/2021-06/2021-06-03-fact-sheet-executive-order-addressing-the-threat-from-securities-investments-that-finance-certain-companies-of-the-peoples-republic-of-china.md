@@ -5,7 +5,7 @@ modified_time: 2021-06-03 22:01:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-executive-order-addressing-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
 published_time: 2021-06-03 13:59:44-04:00
 title: "FACT SHEET: Executive Order Addressing the Threat from Securities Investments\
-  \ that Finance Certain Companies of the People\u2019s Republic of China"
+  \ that Finance Certain Companies of the People\u2019s Republic of\_China"
 ---
  
 Today, President Biden signed an Executive Order (E.O.) to further

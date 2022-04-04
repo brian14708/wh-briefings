@@ -4,7 +4,7 @@ date: '2022-01-15'
 modified_time: 2022-01-15 14:11:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/15/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-2/
 published_time: 2022-01-15 14:10:30-05:00
-title: President Joseph R. Biden, Jr. Approves Alaska Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

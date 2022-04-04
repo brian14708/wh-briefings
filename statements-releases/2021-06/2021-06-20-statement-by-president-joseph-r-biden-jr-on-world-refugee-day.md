@@ -4,7 +4,7 @@ date: '2021-06-20'
 modified_time: 2021-06-20 09:19:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/20/statement-by-president-joseph-r-biden-jr-on-world-refugee-day/
 published_time: 2021-06-20 00:00:00-04:00
-title: Statement by President Joseph R. Biden, Jr. on World Refugee Day
+title: "Statement by President Joseph R. Biden, Jr. on World Refugee\_Day"
 ---
  
 Today, I join people around the globe in commemorating World Refugee

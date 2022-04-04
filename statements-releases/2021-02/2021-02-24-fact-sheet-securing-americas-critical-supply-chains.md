@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-02-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-securing-americas-critical-supply-chains/
 published_time: 2021-02-24 10:31:51-05:00
-title: "FACT SHEET:  Securing America\u2019s Critical Supply Chains"
+title: "FACT SHEET:  Securing America\u2019s Critical Supply\_Chains"
 ---
  
 Today President Biden will sign an Executive Order to help create more

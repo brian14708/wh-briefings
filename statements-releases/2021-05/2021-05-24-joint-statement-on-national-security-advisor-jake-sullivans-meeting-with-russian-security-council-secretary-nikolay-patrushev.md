@@ -5,7 +5,7 @@ modified_time: 2021-05-24 10:30:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/joint-statement-on-national-security-advisor-jake-sullivans-meeting-with-russian-security-council-secretary-nikolay-patrushev/
 published_time: 2021-05-24 10:30:12-04:00
 title: "Joint Statement on National Security Advisor Jake Sullivan\u2019s Meeting\
-  \ with Russian Security Council Secretary Nikolay Patrushev"
+  \ with Russian Security Council Secretary Nikolay\_Patrushev"
 ---
  
 National Security Advisor Jake Sullivan and the Secretary of the Russian

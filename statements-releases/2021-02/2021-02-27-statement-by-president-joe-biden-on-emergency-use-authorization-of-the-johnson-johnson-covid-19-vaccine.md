@@ -4,8 +4,8 @@ date: '2021-02-27'
 modified_time: 2021-02-27 18:54:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/27/statement-by-president-joe-biden-on-emergency-use-authorization-of-the-johnson-johnson-covid-19-vaccine/
 published_time: 2021-02-27 18:53:27-05:00
-title: "Statement by President Joe Biden on Emergency Use Authorization of the Johnson\
-  \ & Johnson COVID- \u2060 19 Vaccine"
+title: "Statement by President Joe\_Biden on Emergency Use Authorization of the Johnson\
+  \ & Johnson COVID-\u206019\_Vaccine"
 ---
  
 Today, after a rigorous, open, and objective scientific review process,

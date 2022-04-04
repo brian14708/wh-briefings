@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-09-28'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/vice-president-harris-statement-on-federal-agency-actions-to-promote-voter-participation/
 published_time: 2021-09-28 19:00:15-04:00
-title: Vice President Harris Statement on Federal Agency Actions to Promote Voter
-  Participation
+title: "Vice President Harris Statement on Federal Agency Actions to Promote Voter\_\
+  Participation"
 ---
  
 “Our nation and democracy are stronger when everyone participates, and

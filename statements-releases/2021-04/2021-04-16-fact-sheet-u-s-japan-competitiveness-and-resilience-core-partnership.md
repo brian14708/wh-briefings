@@ -4,7 +4,7 @@ date: '2021-04-16'
 modified_time: 2021-04-16 21:33:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-u-s-japan-competitiveness-and-resilience-core-partnership/
 published_time: 2021-04-16 21:33:47-04:00
-title: 'Fact Sheet: U.S.-Japan Competitiveness and Resilience (CoRe) Partnership'
+title: "Fact Sheet: U.S.-Japan Competitiveness and Resilience (CoRe)\_Partnership"
 ---
  
 *Read more about the U.S. Japan Climate

@@ -4,7 +4,7 @@ date: '2022-02-10'
 modified_time: 2022-02-10 11:06:57-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/statement-by-president-biden-on-january-consumer-price-index-report/
 published_time: 2022-02-10 10:19:34-05:00
-title: Statement by President Biden on January Consumer Price Index Report
+title: "Statement by President\_Biden on January Consumer Price Index\_Report"
 ---
  
 My two top economic priorities have been to create a growing economy

@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-10-08'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-general-pulaski-memorial-day-2021/
 published_time: 2021-10-08 10:44:57-04:00
-title: A Proclamation on General Pulaski Memorial Day, 2021
+title: "A Proclamation on General Pulaski Memorial Day,\_2021"
 ---
  
 On General Pulaski Memorial Day, we honor Brigadier General Casimir

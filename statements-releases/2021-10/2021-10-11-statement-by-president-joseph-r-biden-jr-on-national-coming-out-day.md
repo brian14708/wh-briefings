@@ -4,7 +4,7 @@ date: '2021-10-11'
 modified_time: 2021-10-08 17:28:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/11/statement-by-president-joseph-r-biden-jr-on-national-coming-out-day/
 published_time: 2021-10-11 09:00:00-04:00
-title: Statement by President Joseph R. Biden, Jr. on National Coming Out Day
+title: "Statement by President Joseph R. Biden, Jr. on National Coming Out\_Day"
 ---
  
 Today, we celebrate National Coming Out Day and the courage of LGBTQ+

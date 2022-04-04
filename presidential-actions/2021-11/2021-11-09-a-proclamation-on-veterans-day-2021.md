@@ -4,7 +4,7 @@ date: '2021-11-09'
 modified_time: 2021-11-09 09:10:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/09/a-proclamation-on-veterans-day-2021/
 published_time: 2021-11-09 09:10:46-05:00
-title: A Proclamation on Veterans Day, 2021
+title: "A Proclamation on Veterans Day,\_2021"
 ---
  
 For generations, millions of Americans have answered the call to serve —

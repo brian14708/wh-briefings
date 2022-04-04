@@ -4,8 +4,8 @@ date: '2021-05-24'
 modified_time: 2021-05-24 17:11:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/statement-by-president-joe-biden-and-first-lady-jill-biden-thanking-national-guard-members-at-the-end-of-their-capitol-deployment/
 published_time: 2021-05-24 17:06:20-04:00
-title: Statement by President Joe Biden and First Lady Jill Biden Thanking National
-  Guard Members at the End of Their Capitol Deployment
+title: "Statement by President Joe\_Biden and First Lady Jill\_Biden Thanking National\
+  \ Guard Members at the End of Their Capitol\_Deployment"
 ---
  
 We want to offer our deepest thanks and enduring gratitude to the women

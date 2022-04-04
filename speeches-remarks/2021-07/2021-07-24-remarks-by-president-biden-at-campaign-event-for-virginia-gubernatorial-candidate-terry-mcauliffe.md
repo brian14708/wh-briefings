@@ -4,8 +4,8 @@ date: '2021-07-24'
 modified_time: 2021-07-24 10:39:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/24/remarks-by-president-biden-at-campaign-event-for-virginia-gubernatorial-candidate-terry-mcauliffe/
 published_time: 2021-07-24 11:00:00-04:00
-title: Remarks by President Biden at Campaign Event for Virginia Gubernatorial Candidate
-  Terry McAuliffe
+title: "Remarks by President\_Biden at Campaign Event for Virginia Gubernatorial Candidate\
+  \ Terry\_McAuliffe"
 ---
  
 Lubber Run Park  

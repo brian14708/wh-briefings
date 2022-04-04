@@ -4,7 +4,7 @@ date: '2021-02-20'
 modified_time: 2021-02-20 09:49:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/20/president-joseph-r-biden-jr-approves-texas-disaster-declaration/
 published_time: 2021-02-20 09:49:51-05:00
-title: President Joseph R. Biden, Jr. Approves Texas Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Texas Disaster\_Declaration"
 ---
  
 Yesterday, President Joseph R. Biden, Jr. declared that a major disaster

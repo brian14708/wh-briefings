@@ -4,8 +4,8 @@ date: '2021-08-06'
 modified_time: 2021-08-06 16:03:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
 published_time: 2021-08-06 16:03:23-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Export
-  Control Regulations
+title: "Notice on the Continuation of the National Emergency with Respect to Export\
+  \ Control\_Regulations"
 ---
  
 On August 17, 2001, the President issued Executive Order 13222 pursuant

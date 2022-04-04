@@ -4,8 +4,8 @@ date: '2021-09-15'
 modified_time: 2021-09-15 22:06:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/readout-of-senior-white-house-meeting-with-faith-leaders-on-efforts-to-relocate-afghan-allies/
 published_time: 2021-09-15 22:06:18-04:00
-title: Readout of Senior White House Meeting with Faith Leaders on Efforts to Relocate
-  Afghan Allies
+title: "Readout of Senior White\_House Meeting with Faith Leaders on Efforts to Relocate\
+  \ Afghan\_Allies"
 ---
  
 Today, Domestic Policy Advisor Susan Rice, Department of Homeland

@@ -4,8 +4,8 @@ date: '2021-09-11'
 modified_time: 2021-09-13 08:20:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/11/remarks-by-vice-president-harris-on-the-20th-anniversary-of-the-september-11th-attacks/
 published_time: 2021-09-11 13:07:00-04:00
-title: Remarks by Vice President Harris on the 20th Anniversary of the September 11th
-  Attacks
+title: "Remarks by Vice President Harris on the 20th Anniversary of the September\
+  \ 11th\_Attacks"
 ---
  
 *Flight 93 National Memorial  

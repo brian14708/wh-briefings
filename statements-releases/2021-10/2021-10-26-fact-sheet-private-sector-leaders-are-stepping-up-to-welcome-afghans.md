@@ -4,7 +4,7 @@ date: '2021-10-26'
 modified_time: 2021-10-26 16:48:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/fact-sheet-private-sector-leaders-are-stepping-up-to-welcome-afghans/
 published_time: 2021-10-26 16:48:29-04:00
-title: 'Fact Sheet: Private Sector Leaders Are Stepping Up to Welcome Afghans'
+title: "Fact Sheet: Private Sector Leaders Are Stepping Up to Welcome\_Afghans"
 ---
  
 *Through Operation Allies Welcome, the Biden Administration is

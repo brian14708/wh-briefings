@@ -4,8 +4,8 @@ date: '2021-05-20'
 modified_time: 2021-05-20 16:44:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/readout-of-president-joseph-r-biden-jr-call-with-president-abdel-fattah-al-sisi-of-egypt/
 published_time: 2021-05-20 14:14:50-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with President Abdel Fattah
-  Al Sisi of Egypt
+title: "Readout of President Joseph R. Biden, Jr. Call with President Abdel Fattah\
+  \ Al Sisi of\_Egypt"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Abdel Fattah

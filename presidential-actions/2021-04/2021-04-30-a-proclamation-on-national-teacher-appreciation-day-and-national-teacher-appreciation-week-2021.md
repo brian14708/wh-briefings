@@ -4,8 +4,8 @@ date: '2021-04-30'
 modified_time: 2021-04-30 16:43:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-teacher-appreciation-day-and-national-teacher-appreciation-week-2021/
 published_time: 2021-04-30 16:43:21-04:00
-title: A Proclamation on National Teacher Appreciation Day and National Teacher Appreciation
-  Week, 2021
+title: "A Proclamation on National Teacher Appreciation Day and National Teacher Appreciation\
+  \ Week,\_2021"
 ---
  
 As the proud husband of an educator who continues, as First Lady, to

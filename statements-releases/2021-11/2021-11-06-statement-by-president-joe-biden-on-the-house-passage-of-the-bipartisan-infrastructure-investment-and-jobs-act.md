@@ -4,8 +4,8 @@ date: '2021-11-06'
 modified_time: 2021-11-06 00:36:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/statement-by-president-joe-biden-on-the-house-passage-of-the-bipartisan-infrastructure-investment-and-jobs-act/
 published_time: 2021-11-06 00:36:04-04:00
-title: Statement by President Joe Biden on the House Passage of the Bipartisan Infrastructure
-  Investment and Jobs Act
+title: "Statement by President Joe\_Biden on the House Passage of the Bipartisan Infrastructure\
+  \ Investment and Jobs\_Act"
 ---
  
 Tonight, we took a monumental step forward as a nation.  

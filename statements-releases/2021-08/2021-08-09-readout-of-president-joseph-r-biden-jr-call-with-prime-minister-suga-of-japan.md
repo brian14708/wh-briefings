@@ -4,8 +4,8 @@ date: '2021-08-09'
 modified_time: 2021-08-09 20:29:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-suga-of-japan/
 published_time: 2021-08-09 20:29:55-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Suga of
-  Japan
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Suga of\_\
+  Japan"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Prime Minister Yoshihide

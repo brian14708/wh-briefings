@@ -4,7 +4,7 @@ date: '2021-05-20'
 modified_time: 2021-05-27 11:16:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/readout-of-vice-president-harris-call-with-king-abdullah-ii-of-jordan/
 published_time: 2021-05-20 11:15:00-04:00
-title: Readout of Vice President Harris Call with King Abdullah II of Jordan
+title: "Readout of Vice President Harris Call with King Abdullah II of\_Jordan"
 ---
  
 Vice President Kamala Harris spoke today with King Abdullah II of Jordan

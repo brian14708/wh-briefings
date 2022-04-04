@@ -5,7 +5,7 @@ modified_time: 2021-02-01 09:41:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/28/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-head-of-cabinet-bjoern-seibert-of-the-european-commission/
 published_time: 2021-01-28 14:45:00-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Head of Cabinet Bjoern Seibert of the European Commission"
+  \ Sullivan\u2019s Call with Head of Cabinet Bjoern Seibert of the European\_Commission"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

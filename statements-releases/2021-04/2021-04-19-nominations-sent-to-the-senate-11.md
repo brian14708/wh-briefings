@@ -4,7 +4,7 @@ date: '2021-04-19'
 modified_time: 2021-04-19 16:43:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/nominations-sent-to-the-senate-11/
 published_time: 2021-04-19 16:42:59-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
      Faisal Amin, of Maryland, to be Chief Financial Officer,

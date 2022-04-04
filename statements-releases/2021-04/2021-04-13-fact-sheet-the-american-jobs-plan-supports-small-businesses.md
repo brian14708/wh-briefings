@@ -4,7 +4,7 @@ date: '2021-04-13'
 modified_time: 2021-04-13 09:42:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-the-american-jobs-plan-supports-small-businesses/
 published_time: 2021-04-13 11:30:00-04:00
-title: 'FACT SHEET: The American Jobs Plan Supports Small Businesses'
+title: "FACT SHEET: The American Jobs Plan Supports Small\_Businesses"
 ---
  
 Even before the COVID-19 pandemic, many small businesses struggled to

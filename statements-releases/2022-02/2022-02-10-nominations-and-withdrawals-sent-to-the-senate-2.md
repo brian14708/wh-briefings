@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-10'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/nominations-and-withdrawals-sent-to-the-senate-2/
 published_time: 2022-02-10 15:49:36-05:00
-title: Nominations and Withdrawals Sent to the Senate
+title: "Nominations and Withdrawals Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

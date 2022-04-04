@@ -4,8 +4,8 @@ date: '2021-07-13'
 modified_time: 2021-07-13 17:52:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/13/remarks-by-president-biden-on-protecting-the-sacred-constitutional-right-to-vote/
 published_time: 2021-07-13 17:52:51-04:00
-title: Remarks by President Biden on Protecting the Sacred, Constitutional Right to
-  Vote
+title: "Remarks by President\_Biden on Protecting the Sacred, Constitutional Right\
+  \ to\_Vote"
 ---
  
 National Constitution Center  

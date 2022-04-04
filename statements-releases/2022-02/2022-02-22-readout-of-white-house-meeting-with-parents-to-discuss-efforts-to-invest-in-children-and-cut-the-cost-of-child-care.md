@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-02-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/readout-of-white-house-meeting-with-parents-to-discuss-efforts-to-invest-in-children-and-cut-the-cost-of-child-care/
 published_time: 2022-02-22 17:01:45-05:00
-title: Readout of White House Meeting with Parents to Discuss Efforts to Invest in
-  Children and Cut the Cost of Child Care
+title: "Readout of White\_House Meeting with Parents to Discuss Efforts to Invest\
+  \ in Children and Cut the Cost of Child\_Care"
 ---
  
 Today, U.S. Department of Health and Human Services (HHS) Secretary

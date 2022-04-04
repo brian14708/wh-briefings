@@ -4,7 +4,7 @@ date: '2022-02-18'
 modified_time: 2022-02-18 12:11:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/18/readout-of-vice-president-kamala-harriss-meeting-with-baltic-leaders/
 published_time: 2022-02-18 12:11:28-05:00
-title: "Readout of Vice President Kamala Harris\u2019s Meeting with Baltic Leaders"
+title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Baltic\_Leaders"
 ---
  
 Vice President Kamala Harris met today with President Egils Levits of

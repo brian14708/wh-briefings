@@ -4,8 +4,8 @@ date: '2021-06-10'
 modified_time: 2021-06-10 12:12:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/10/remarks-by-president-biden-and-prime-minister-boris-johnson-of-the-united-kingdom-before-bilateral-meeting/
 published_time: 2021-06-10 12:12:03-04:00
-title: Remarks by President Biden and Prime Minister Boris Johnson of the United Kingdom
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Boris Johnson of the United\
+  \ Kingdom Before Bilateral\_Meeting"
 ---
  
 Carbis Bay Hotel  

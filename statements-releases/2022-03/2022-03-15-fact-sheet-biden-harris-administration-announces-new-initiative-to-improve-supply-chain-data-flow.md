@@ -4,8 +4,8 @@ date: '2022-03-15'
 modified_time: 2022-03-15 20:30:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-new-initiative-to-improve-supply-chain-data-flow/
 published_time: 2022-03-15 05:30:00-04:00
-title: "Fact Sheet: Biden- \u2060 Harris Administration Announces New Initiative to\
-  \ Improve Supply Chain Data Flow"
+title: "Fact Sheet: Biden-\u2060Harris Administration Announces New Initiative to\
+  \ Improve Supply Chain Data\_Flow"
 ---
  
 *Freight Logistics Optimization Works (FLOW) Will Speed Up Delivery

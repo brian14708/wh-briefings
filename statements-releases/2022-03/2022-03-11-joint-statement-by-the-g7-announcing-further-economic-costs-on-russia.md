@@ -4,7 +4,7 @@ date: '2022-03-11'
 modified_time: 2022-03-11 11:30:00-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/joint-statement-by-the-g7-announcing-further-economic-costs-on-russia/
 published_time: 2022-03-11 11:28:34-05:00
-title: Joint Statement by the G7 Announcing Further Economic Costs on Russia
+title: "Joint Statement by the G7 Announcing Further Economic Costs on\_Russia"
 ---
  
 We the Leaders of the Group of Seven (G7) remain resolved to stand with

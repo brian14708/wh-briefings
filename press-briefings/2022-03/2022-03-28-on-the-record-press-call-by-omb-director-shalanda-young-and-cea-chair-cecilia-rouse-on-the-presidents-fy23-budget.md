@@ -4,7 +4,7 @@ date: '2022-03-28'
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/28/on-the-record-press-call-by-omb-director-shalanda-young-and-cea-chair-cecilia-rouse-on-the-presidents-fy23-budget/
 published_time: 2022-03-28 11:32:11-04:00
 title: "On-the-Record Press Call by OMB Director Shalanda Young and CEA Chair Cecilia\
-  \ Rouse on the President\u2019s FY23 Budget"
+  \ Rouse on the President\u2019s FY23\_Budget"
 ---
  
 8:37 A.M. EDT  

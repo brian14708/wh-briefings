@@ -4,8 +4,8 @@ date: '2021-02-23'
 modified_time: 2021-02-23 17:56:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/23/remarks-by-president-biden-in-roundtable-with-black-essential-workers-moderated-by-domestic-policy-advisor-susan-rice/
 published_time: 2021-02-23 17:56:27-05:00
-title: Remarks by President Biden in Roundtable with Black Essential Workers Moderated
-  by Domestic Policy Advisor Susan Rice
+title: "Remarks by President\_Biden in Roundtable with Black Essential Workers Moderated\
+  \ by Domestic Policy Advisor Susan\_Rice"
 ---
  
 South Court Auditorium  

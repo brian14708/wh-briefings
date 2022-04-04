@@ -4,8 +4,8 @@ date: '2021-11-02'
 modified_time: 2021-11-02 19:09:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/president-biden-announces-prescription-drug-pricing-plan-in-build-back-better-framework/
 published_time: 2021-11-02 19:09:06-04:00
-title: President Biden Announces Prescription Drug Pricing Plan in Build Back Better
-  Framework
+title: "President\_Biden Announces Prescription Drug Pricing Plan in Build Back Better\_\
+  Framework"
 ---
  
 Nearly [1 in

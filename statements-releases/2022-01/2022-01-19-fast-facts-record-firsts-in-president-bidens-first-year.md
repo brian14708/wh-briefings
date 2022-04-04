@@ -4,7 +4,7 @@ date: '2022-01-19'
 modified_time: 2022-01-19 14:54:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fast-facts-record-firsts-in-president-bidens-first-year/
 published_time: 2022-01-19 15:00:00-05:00
-title: "Fast Facts: Record Firsts in President Biden\u2019s First Year"
+title: "Fast Facts: Record Firsts in President\_Biden\u2019s First\_Year"
 ---
  
 President Biden and Vice President Harris delivered results for the

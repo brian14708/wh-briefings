@@ -4,7 +4,7 @@ date: '2021-03-31'
 modified_time: 2021-05-04 19:32:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/
 published_time: 2021-03-31 05:00:00-04:00
-title: 'FACT SHEET: The American Jobs Plan'
+title: "FACT SHEET: The American Jobs\_Plan"
 ---
  
 While the American Rescue Plan is changing the course of the pandemic

@@ -4,8 +4,8 @@ date: '2022-01-27'
 modified_time: 2022-01-26 19:27:39-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-by-president-biden-on-14-5-million-americans-signing-up-for-health-insurance/
 published_time: 2022-01-27 07:00:00-05:00
-title: Statement by President Biden on 14.5 Million Americans Signing up for Health
-  Insurance
+title: "Statement by President\_Biden on 14.5 Million Americans Signing up for Health\_\
+  Insurance"
 ---
  
 Health care should be a right, not a privilege, for all Americans. And

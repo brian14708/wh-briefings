@@ -4,8 +4,8 @@ date: '2021-11-02'
 modified_time: 2021-11-01 19:22:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/02/background-press-call-by-senior-administration-officials-previewing-day-two-of-cop26/
 published_time: 2021-11-02 01:00:00-04:00
-title: Background Press Call by Senior Administration Officials Previewing Day Two
-  of COP26
+title: "Background Press Call by Senior Administration Officials Previewing Day Two\
+  \ of\_COP26"
 ---
  
 6:28 P.M. GMT

@@ -4,7 +4,7 @@ date: '2021-08-06'
 modified_time: 2021-08-06 18:23:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/06/press-briefing-by-press-secretary-jen-psaki-august-6-2021/
 published_time: 2021-08-06 18:23:55-04:00
-title: Press Briefing by Press Secretary Jen Psaki, August 6, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, August 6,\_2021"
 ---
  
 James S. Brady Press Briefing Room

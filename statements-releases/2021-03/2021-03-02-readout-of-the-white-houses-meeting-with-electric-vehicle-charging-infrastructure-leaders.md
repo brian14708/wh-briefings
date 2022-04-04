@@ -4,8 +4,8 @@ date: '2021-03-02'
 modified_time: 2021-03-02 18:52:22-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/readout-of-the-white-houses-meeting-with-electric-vehicle-charging-infrastructure-leaders/
 published_time: 2021-03-02 19:15:00-05:00
-title: "Readout of the White House\u2019s Meeting with Electric Vehicle Charging Infrastructure\
-  \ Leaders"
+title: "Readout of the White\_House\u2019s Meeting with Electric Vehicle Charging\
+  \ Infrastructure\_Leaders"
 ---
  
 Today, National Climate Advisor Gina McCarthy, alongside senior staff

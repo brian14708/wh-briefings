@@ -4,7 +4,7 @@ date: '2021-07-17'
 modified_time: 2021-12-23 17:06:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders/
 published_time: 2021-07-17 18:08:00-04:00
-title: Statement From Senior Advisor And Chief Spokesperson Symone Sanders
+title: "Statement From Senior Advisor And Chief Spokesperson Symone\_Sanders"
 ---
  
 On Tuesday, July 13th, Vice President Harris met with members of the

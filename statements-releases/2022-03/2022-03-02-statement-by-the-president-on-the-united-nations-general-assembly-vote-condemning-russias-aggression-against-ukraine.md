@@ -5,7 +5,7 @@ modified_time: 2022-03-02 18:44:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/02/statement-by-the-president-on-the-united-nations-general-assembly-vote-condemning-russias-aggression-against-ukraine/
 published_time: 2022-03-02 18:44:05-05:00
 title: "Statement by the President on the United Nations General Assembly Vote Condemning\
-  \ Russia\u2019s Aggression Against Ukraine"
+  \ Russia\u2019s Aggression Against\_Ukraine"
 ---
  
 Today, for the first time in 40 years, the United Nations Security

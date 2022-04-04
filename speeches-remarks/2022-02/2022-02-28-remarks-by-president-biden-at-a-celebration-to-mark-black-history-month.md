@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 19:13:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/28/remarks-by-president-biden-at-a-celebration-to-mark-black-history-month/
 published_time: 2022-02-28 19:13:24-05:00
-title: Remarks by President Biden at a Celebration to Mark Black History Month
+title: "Remarks by President\_Biden at a Celebration to Mark Black History\_Month"
 ---
  
 *East Room*

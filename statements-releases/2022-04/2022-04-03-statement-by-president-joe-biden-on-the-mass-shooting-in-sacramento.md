@@ -4,7 +4,7 @@ date: '2022-04-03'
 modified_time: 2022-04-03 21:57:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/03/statement-by-president-joe-biden-on-the-mass-shooting-in-sacramento/
 published_time: 2022-04-03 21:57:53-04:00
-title: Statement by President Joe Biden on the Mass Shooting in Sacramento
+title: "Statement by President Joe\_Biden on the Mass Shooting in\_Sacramento"
 ---
  
 Today, America once again mourns for another community devastated by gun

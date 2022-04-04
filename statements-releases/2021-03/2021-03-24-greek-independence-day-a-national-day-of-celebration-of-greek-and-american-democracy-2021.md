@@ -4,8 +4,8 @@ date: '2021-03-24'
 modified_time: 2021-03-24 18:14:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/24/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2021/
 published_time: 2021-03-24 18:13:27-04:00
-title: 'A Proclamation on Greek Independence Day: A National Day of Celebration of
-  Greek and American Democracy, 2021'
+title: "A Proclamation on Greek Independence Day: A National Day of Celebration of\
+  \ Greek and American Democracy,\_2021"
 ---
  
 Exactly 200 years ago, inspired by the same ideals of liberty,

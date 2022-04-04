@@ -4,8 +4,8 @@ date: '2021-10-12'
 modified_time: 2021-10-13 07:55:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/readout-of-vice-president-kamala-harriss-meeting-with-israeli-foreign-minister-and-alternate-prime-minister-yair-lapid/
 published_time: 2021-10-12 07:55:00-04:00
-title: "Readout of Vice President Kamala Harris\u2019s Meeting With Israeli Foreign\
-  \ Minister and Alternate Prime Minister Yair Lapid"
+title: "Readout of Vice President Kamala\_Harris\u2019s Meeting With Israeli Foreign\
+  \ Minister and Alternate Prime Minister Yair\_Lapid"
 ---
  
 Vice President Kamala Harris met today with Israeli Foreign Minister and

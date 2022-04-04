@@ -4,8 +4,8 @@ date: '2021-09-10'
 modified_time: 2021-09-10 14:07:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/statement-by-nsc-spokesperson-emily-horne-on-further-u-s-citizen-departures-from-afghanistan/
 published_time: 2021-09-10 14:07:56-04:00
-title: Statement by NSC Spokesperson Emily Horne on Further U.S. Citizen Departures
-  from Afghanistan
+title: "Statement by NSC Spokesperson Emily Horne on Further U.S. Citizen Departures\
+  \ from\_Afghanistan"
 ---
  
 Today the United States government facilitated the additional departures

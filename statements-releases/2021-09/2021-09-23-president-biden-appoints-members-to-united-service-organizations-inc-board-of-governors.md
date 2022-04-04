@@ -4,8 +4,8 @@ date: '2021-09-23'
 modified_time: 2021-09-23 18:45:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/president-biden-appoints-members-to-united-service-organizations-inc-board-of-governors/
 published_time: 2021-09-23 18:45:02-04:00
-title: President Biden Appoints Members to United Service Organizations Inc. Board
-  of Governors
+title: "President\_Biden Appoints Members to United Service Organizations Inc. Board\
+  \ of\_Governors"
 ---
  
 WASHINGTON – Today, President Joe Biden appointed the following members

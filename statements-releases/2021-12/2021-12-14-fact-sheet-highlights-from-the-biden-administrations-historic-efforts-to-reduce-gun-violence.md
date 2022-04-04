@@ -5,7 +5,7 @@ modified_time: 2021-12-14 13:44:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/fact-sheet-highlights-from-the-biden-administrations-historic-efforts-to-reduce-gun-violence/
 published_time: 2021-12-14 12:26:13-05:00
 title: "FACT SHEET: Highlights From The Biden Administration\u2019s Historic Efforts\
-  \ To Reduce Gun Violence"
+  \ To Reduce Gun\_Violence"
 ---
  
 During President Biden’s first year in office, the Biden-Harris

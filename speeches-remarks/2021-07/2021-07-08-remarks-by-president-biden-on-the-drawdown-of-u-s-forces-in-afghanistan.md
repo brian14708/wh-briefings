@@ -4,7 +4,7 @@ date: '2021-07-08'
 modified_time: 2021-07-08 17:22:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/08/remarks-by-president-biden-on-the-drawdown-of-u-s-forces-in-afghanistan/
 published_time: 2021-07-08 17:30:00-04:00
-title: Remarks by President Biden on the Drawdown of U.S. Forces in Afghanistan
+title: "Remarks by President\_Biden on the Drawdown of U.S. Forces in\_Afghanistan"
 ---
  
 East Room 

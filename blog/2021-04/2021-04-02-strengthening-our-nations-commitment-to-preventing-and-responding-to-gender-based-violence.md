@@ -4,7 +4,7 @@ date: '2021-04-02'
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/04/02/strengthening-our-nations-commitment-to-preventing-and-responding-to-gender-based-violence/
 published_time: 2021-04-02 08:21:20-04:00
 title: "Strengthening our Nation\u2019s Commitment to Preventing and Responding to\
-  \ Gender-Based Violence"
+  \ Gender-Based\_Violence"
 ---
  
 By Rosie Hidalgo and Libby Washburn

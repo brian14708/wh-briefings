@@ -4,7 +4,7 @@ date: '2021-09-24'
 modified_time: 2021-09-24 21:55:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/joint-statement-from-quad-leaders/
 published_time: 2021-09-24 21:55:23-04:00
-title: Joint Statement from Quad Leaders
+title: "Joint Statement from Quad\_Leaders"
 ---
  
 We, the leaders of Australia, India, Japan, and the United States,

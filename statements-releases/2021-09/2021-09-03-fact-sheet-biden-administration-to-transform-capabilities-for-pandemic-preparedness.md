@@ -4,7 +4,8 @@ date: '2021-09-03'
 modified_time: 2021-09-03 14:41:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/fact-sheet-biden-administration-to-transform-capabilities-for-pandemic-preparedness/
 published_time: 2021-09-03 15:00:00-04:00
-title: 'FACT SHEET: Biden Administration to Transform Capabilities for Pandemic Preparedness'
+title: "FACT SHEET: Biden Administration to Transform Capabilities for Pandemic\_\
+  Preparedness"
 ---
  
 President Biden is committed to combatting the ongoing COVID-19 pandemic

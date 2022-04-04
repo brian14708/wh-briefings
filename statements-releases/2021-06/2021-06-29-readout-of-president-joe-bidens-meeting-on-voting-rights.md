@@ -4,7 +4,7 @@ date: '2021-06-29'
 modified_time: 2021-06-29 08:33:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/29/readout-of-president-joe-bidens-meeting-on-voting-rights/
 published_time: 2021-06-29 08:33:00-04:00
-title: "Readout of President Joe Biden\u2019s Meeting on Voting Rights"
+title: "Readout of President Joe\_Biden\u2019s Meeting on Voting\_Rights"
 ---
  
 President Biden met yesterday with White House Senior Advisors and

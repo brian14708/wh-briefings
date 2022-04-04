@@ -4,8 +4,8 @@ date: '2021-08-27'
 modified_time: 2021-08-27 15:12:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-alternative-plan-for-pay-adjustments-for-civilian-federal-employees/
 published_time: 2021-08-27 15:12:57-04:00
-title: Letter to the Speaker of the House and the President of the Senate on the Alternative
-  Plan for Pay Adjustments for Civilian Federal Employees
+title: "Letter to the Speaker of the House and the President of the Senate on the\
+  \ Alternative Plan for Pay Adjustments for Civilian Federal\_Employees"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

@@ -4,7 +4,7 @@ date: '2021-08-26'
 modified_time: 2021-08-26 22:17:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/26/statement-by-press-secretary-jen-psaki-on-eviction-moratorium-3/
 published_time: 2021-08-26 22:17:39-04:00
-title: Statement by Press Secretary Jen Psaki on Eviction Moratorium
+title: "Statement by Press Secretary Jen\_Psaki on Eviction\_Moratorium"
 ---
  
 The eviction moratoriums issued by the Centers for Disease Control and

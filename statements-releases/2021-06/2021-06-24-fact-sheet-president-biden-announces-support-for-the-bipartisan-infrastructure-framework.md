@@ -4,8 +4,8 @@ date: '2021-06-24'
 modified_time: 2021-06-24 17:12:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-president-biden-announces-support-for-the-bipartisan-infrastructure-framework/
 published_time: 2021-06-24 13:56:15-04:00
-title: 'FACT SHEET: President Biden Announces Support for the Bipartisan Infrastructure
-  Framework'
+title: "FACT SHEET: President\_Biden Announces Support for the Bipartisan Infrastructure\_\
+  Framework"
 ---
  
 Today, President Biden and Vice President Harris announced their support

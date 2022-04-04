@@ -4,8 +4,8 @@ date: '2021-10-31'
 modified_time: 2021-10-31 12:24:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-summit-on-global-supply-chain-resilience-to-address-near-term-bottlenecks-and-tackle-long-term-challenges/
 published_time: 2021-10-31 12:24:26-04:00
-title: 'FACT SHEET: Summit on Global Supply Chain Resilience to Address Near-Term
-  Bottlenecks and Tackle Long-Term Challenges'
+title: "FACT SHEET: Summit on Global Supply Chain Resilience to Address Near-Term\
+  \ Bottlenecks and Tackle Long-Term\_Challenges"
 ---
  
 ***President Biden announces new domestic steps to continue building

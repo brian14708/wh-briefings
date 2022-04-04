@@ -4,7 +4,7 @@ date: '2022-02-03'
 modified_time: 2022-02-03 16:42:32-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-president-biden-at-a-gun-violence-prevention-task-force-meeting/
 published_time: 2022-02-03 16:42:31-05:00
-title: Remarks by President Biden at a Gun Violence Prevention Task Force Meeting
+title: "Remarks by President\_Biden at a Gun Violence Prevention Task Force\_Meeting"
 ---
  
 One Police Plaza  

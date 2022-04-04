@@ -4,7 +4,7 @@ date: '2021-06-18'
 modified_time: 2021-06-18 17:59:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/18/statement-by-press-secretary-jen-psaki-on-ukraine-security-assistance/
 published_time: 2021-06-18 17:59:13-04:00
-title: Statement by Press Secretary Jen Psaki on Ukraine Security Assistance
+title: "Statement by Press Secretary Jen\_Psaki on Ukraine Security\_Assistance"
 ---
  
 The idea that we have held back security assistance to Ukraine is

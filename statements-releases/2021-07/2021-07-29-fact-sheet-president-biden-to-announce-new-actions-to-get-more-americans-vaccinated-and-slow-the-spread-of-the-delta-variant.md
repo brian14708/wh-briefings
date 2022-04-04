@@ -4,8 +4,8 @@ date: '2021-07-29'
 modified_time: 2021-07-29 14:28:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-president-biden-to-announce-new-actions-to-get-more-americans-vaccinated-and-slow-the-spread-of-the-delta-variant/
 published_time: 2021-07-29 16:00:00-04:00
-title: 'FACT SHEET: President Biden to Announce New Actions to Get More Americans
-  Vaccinated and Slow the Spread of the Delta Variant'
+title: "FACT SHEET: President\_Biden to Announce New Actions to Get More Americans\
+  \ Vaccinated and Slow the Spread of the Delta\_Variant"
 ---
  
 Six months into the Biden Administration’s vaccination effort, 164

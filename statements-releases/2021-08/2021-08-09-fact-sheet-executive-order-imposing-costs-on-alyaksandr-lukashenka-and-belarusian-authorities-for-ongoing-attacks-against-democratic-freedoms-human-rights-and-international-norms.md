@@ -4,9 +4,9 @@ date: '2021-08-09'
 modified_time: 2021-08-09 10:57:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-executive-order-imposing-costs-on-alyaksandr-lukashenka-and-belarusian-authorities-for-ongoing-attacks-against-democratic-freedoms-human-rights-and-international-norms/
 published_time: 2021-08-09 10:57:16-04:00
-title: 'FACT SHEET: Executive Order Imposing Costs on Alyaksandr Lukashenka and Belarusian
-  Authorities for Ongoing Attacks Against Democratic Freedoms, Human Rights, and International
-  Norms'
+title: "FACT SHEET: Executive Order Imposing Costs on Alyaksandr Lukashenka and Belarusian\
+  \ Authorities for Ongoing Attacks Against Democratic Freedoms, Human Rights, and\
+  \ International\_Norms"
 ---
  
 Today, on the anniversary of the fraudulent Belarusian election of

@@ -4,7 +4,7 @@ date: '2021-02-26'
 modified_time: 2021-02-27 11:29:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/26/remarks-by-president-biden-at-a-fema-covid-19-vaccination-facility/
 published_time: 2021-02-26 08:29:00-05:00
-title: "Remarks by President Biden at a FEMA COVID- \u2060 19 Vaccination Facility"
+title: "Remarks by President\_Biden at a FEMA COVID-\u206019 Vaccination\_Facility"
 ---
  
 NRG Stadium

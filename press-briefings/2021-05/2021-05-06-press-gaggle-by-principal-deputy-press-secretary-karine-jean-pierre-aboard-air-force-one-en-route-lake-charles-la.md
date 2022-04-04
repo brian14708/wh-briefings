@@ -4,8 +4,8 @@ date: '2021-05-06'
 modified_time: 2021-05-06 16:12:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/06/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-lake-charles-la/
 published_time: 2021-05-06 16:12:37-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard
-  Air Force One En Route Lake Charles, LA
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard\
+  \ Air Force One En Route Lake Charles,\_LA"
 ---
  
 11:40 A.M. EDT  

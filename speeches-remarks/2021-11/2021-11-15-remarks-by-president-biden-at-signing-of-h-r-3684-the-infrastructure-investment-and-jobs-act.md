@@ -4,8 +4,8 @@ date: '2021-11-15'
 modified_time: 2021-11-15 19:28:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-president-biden-at-signing-of-h-r-3684-the-infrastructure-investment-and-jobs-act/
 published_time: 2021-11-15 19:30:00-05:00
-title: Remarks by President Biden at Signing of H.R. 3684, The Infrastructure Investment
-  and Jobs Act
+title: "Remarks by President\_Biden at Signing of H.R. 3684, The Infrastructure Investment\
+  \ and Jobs\_Act"
 ---
  
 South Lawn

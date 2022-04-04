@@ -4,7 +4,8 @@ date: '2021-07-23'
 modified_time: 2021-07-22 21:20:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/
 published_time: 2021-07-23 06:00:00-04:00
-title: 'Fact Sheet: Biden Administration Announces Additional Actions to Prevent Foreclosures'
+title: "Fact Sheet: Biden Administration Announces Additional Actions to Prevent\_\
+  Foreclosures"
 ---
  
 Across America, a strong economic recovery is taking hold. Since

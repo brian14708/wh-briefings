@@ -4,8 +4,8 @@ date: '2021-03-23'
 modified_time: 2021-03-23 23:05:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/03/23/covid-19-has-exacerbated-the-economic-inequality-and-caregiving-crisis-facing-women-of-color-heres-how-the-american-rescue-plan-helps/
 published_time: 2021-03-23 23:05:20-04:00
-title: "COVID- \u2060 19 has exacerbated the economic inequality and caregiving crisis\
-  \ facing women of color. Here\u2019s how the American Rescue Plan helps."
+title: "COVID-\u206019 has exacerbated the economic inequality and caregiving crisis\
+  \ facing women of color. Here\u2019s how the American Rescue Plan\_helps."
 ---
  
 By Joelle Gamble and Shilpa Phadke

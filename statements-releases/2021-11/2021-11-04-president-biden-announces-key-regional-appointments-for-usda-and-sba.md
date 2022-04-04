@@ -4,7 +4,7 @@ date: '2021-11-04'
 modified_time: 2021-11-04 16:25:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/president-biden-announces-key-regional-appointments-for-usda-and-sba/
 published_time: 2021-11-04 16:25:54-04:00
-title: President Biden Announces Key Regional Appointments for USDA and SBA
+title: "President\_Biden Announces Key Regional Appointments for USDA and\_SBA"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to appoint

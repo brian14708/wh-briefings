@@ -4,8 +4,8 @@ date: '2021-09-23'
 modified_time: 2021-09-23 16:13:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/president-biden-announces-key-nominations-for-financial-regulation-and-investor-protection/
 published_time: 2021-09-23 16:13:56-04:00
-title: President Biden Announces Key Nominations for Financial Regulation and Investor
-  Protection
+title: "President\_Biden Announces Key Nominations for Financial Regulation and Investor\_\
+  Protection"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

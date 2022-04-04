@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2022-03-16'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/16/memorandum-on-the-delegation-of-authority-under-section-552c2-of-the-foreign-assistance-act-of-1961/
 published_time: 2022-03-16 13:34:41-04:00
-title: Memorandum on the Delegation of Authority Under Section 552(c)(2) of the Foreign
-  Assistance Act of 1961
+title: "Memorandum on the Delegation of Authority Under Section 552(c)(2) of the Foreign\
+  \ Assistance Act of\_1961"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF STATE

@@ -41,7 +41,7 @@ def parse_index(html: str) -> Tuple[List[Article], Optional[str]]:
             link
         ).path.rstrip('/').split('/')
         articles.append(Article(
-            title=' '.join(title.stripped_strings),
+            title=''.join(title.strings).strip(),
             link=link,
             slug=slug,
             published_time=datetime.fromisoformat(a.find('time')['datetime']),
@@ -135,7 +135,7 @@ async def main():
 
     prev_date = max((i.update for i in prev_items),
                     default=datetime.fromisoformat("2020-01-01T00:00:00+00:00"))
-    prev_date -= timedelta(days=2)
+    prev_date -= timedelta(days=7)
 
     async with aiohttp.ClientSession() as session:
         queue = asyncio.Queue(16)

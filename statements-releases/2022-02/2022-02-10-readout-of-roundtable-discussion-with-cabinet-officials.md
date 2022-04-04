@@ -4,7 +4,7 @@ date: '2022-02-10'
 modified_time: 2022-02-10 16:09:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-roundtable-discussion-with-cabinet-officials/
 published_time: 2022-02-10 16:09:48-05:00
-title: Readout of Roundtable Discussion with Cabinet Officials
+title: "Readout of Roundtable Discussion with Cabinet\_Officials"
 ---
  
 Today, the White House hosted a historic convening of Black Cabinet

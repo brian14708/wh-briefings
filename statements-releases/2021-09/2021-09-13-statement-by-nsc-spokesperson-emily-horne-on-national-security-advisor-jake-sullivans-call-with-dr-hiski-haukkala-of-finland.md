@@ -4,7 +4,7 @@ date: '2021-09-13'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-dr-hiski-haukkala-of-finland/
 published_time: 2021-09-13 18:21:13-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Dr. Hiski Haukkala of Finland"
+  \ Sullivan\u2019s Call with Dr. Hiski Haukkala of\_Finland"
 ---
  
 National Security Advisor Jake Sullivan spoke today with Dr. Hiski

@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2022-02-28'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/28/a-proclamation-on-irish-american-heritage-month-2022/
 published_time: 2022-02-28 13:04:20-05:00
-title: A Proclamation on Irish-American Heritage Month, 2022
+title: "A Proclamation on Irish-American Heritage Month,\_2022"
 ---
  
 For centuries, Irish Americans have played a crucial role in helping

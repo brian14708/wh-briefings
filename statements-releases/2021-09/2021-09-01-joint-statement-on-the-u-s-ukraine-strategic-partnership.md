@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 16:25:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/joint-statement-on-the-u-s-ukraine-strategic-partnership/
 published_time: 2021-09-01 16:25:05-04:00
-title: Joint Statement on the U.S.-Ukraine Strategic Partnership
+title: "Joint Statement on the U.S.-Ukraine Strategic\_Partnership"
 ---
  
 Thirty years after the restoration of Ukraine’s independence, the bonds

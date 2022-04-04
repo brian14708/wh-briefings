@@ -4,8 +4,8 @@ date: '2022-03-09'
 modified_time: 2022-03-08 21:11:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/statement-by-nec-director-brian-deese-and-national-security-advisor-jake-sullivan-on-new-digital-assets-executive-order/
 published_time: 2022-03-09 06:00:00-05:00
-title: Statement by NEC Director Brian Deese and National Security Advisor Jake Sullivan
-  on New Digital Assets Executive Order
+title: "Statement by NEC Director Brian Deese and National Security Advisor Jake Sullivan\
+  \ on New Digital Assets Executive\_Order"
 ---
  
 Today President Biden signed an Executive Order (E.O.) to establish the

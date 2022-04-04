@@ -4,7 +4,7 @@ date: '2021-12-06'
 modified_time: 2021-12-06 17:51:21-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/06/remarks-by-president-biden-on-prescription-drug-costs/
 published_time: 2021-12-06 18:00:00-05:00
-title: Remarks by President Biden on Prescription Drug Costs
+title: "Remarks by President\_Biden on Prescription Drug\_Costs"
 ---
  
 East Room

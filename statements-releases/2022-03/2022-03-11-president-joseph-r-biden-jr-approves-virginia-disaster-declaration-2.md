@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-11'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/president-joseph-r-biden-jr-approves-virginia-disaster-declaration-2/
 published_time: 2022-03-11 17:16:27-05:00
-title: President Joseph R. Biden, Jr. Approves Virginia Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Virginia Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

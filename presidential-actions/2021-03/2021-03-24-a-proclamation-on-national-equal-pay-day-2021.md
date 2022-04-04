@@ -4,7 +4,7 @@ date: '2021-03-24'
 modified_time: 2021-03-24 17:37:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/24/a-proclamation-on-national-equal-pay-day-2021/
 published_time: 2021-03-24 17:37:57-04:00
-title: A Proclamation on National Equal Pay Day, 2021
+title: "A Proclamation on National Equal Pay Day,\_2021"
 ---
  
 Equal Pay Day is a reminder of the work that still remains to advance

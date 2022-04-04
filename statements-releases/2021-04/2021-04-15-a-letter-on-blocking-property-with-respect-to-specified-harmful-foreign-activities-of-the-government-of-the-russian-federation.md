@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-04-15'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/a-letter-on-blocking-property-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
 published_time: 2021-04-15 08:23:25-04:00
-title: A Letter on Blocking Property with Respect to Specified Harmful Foreign Activities
-  of the Government of the Russian Federation
+title: "A Letter on Blocking Property with Respect to Specified Harmful Foreign Activities\
+  \ of the Government of the Russian\_Federation"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:  

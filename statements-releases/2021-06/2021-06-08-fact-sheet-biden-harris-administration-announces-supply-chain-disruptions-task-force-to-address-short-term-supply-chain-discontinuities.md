@@ -4,8 +4,8 @@ date: '2021-06-08'
 modified_time: 2021-06-07 21:05:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
 published_time: 2021-06-08 05:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces Supply Chain Disruptions\
-  \ Task Force to Address Short-Term Supply Chain Discontinuities"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces Supply Chain Disruptions\
+  \ Task Force to Address Short-Term Supply Chain\_Discontinuities"
 ---
  
 **100-Day Review Outlines Steps to Strengthen Critical Supply Chains  

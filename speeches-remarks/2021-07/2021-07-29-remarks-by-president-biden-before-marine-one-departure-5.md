@@ -4,7 +4,7 @@ date: '2021-07-29'
 modified_time: 2021-07-29 21:38:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/29/remarks-by-president-biden-before-marine-one-departure-5/
 published_time: 2021-07-29 22:00:00-04:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 THE PRESIDENT:  I’m going to be late to a very important date.  If I

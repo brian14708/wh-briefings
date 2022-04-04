@@ -4,8 +4,8 @@ date: '2021-07-26'
 modified_time: 2021-07-26 20:53:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/readout-of-president-joseph-r-biden-jr-meeting-with-prime-minister-al-kadhimi-of-iraq/
 published_time: 2021-07-26 20:53:55-04:00
-title: Readout of President Joseph R. Biden, Jr. Meeting with Prime Minister Al-Kadhimi
-  of Iraq
+title: "Readout of President Joseph R. Biden, Jr. Meeting with Prime Minister Al-Kadhimi\
+  \ of\_Iraq"
 ---
  
 President Joseph R. Biden, Jr. met today with Prime Minister Al-Kadhimi

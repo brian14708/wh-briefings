@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/
 published_time: 2021-06-23 20:17:15-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Lieutenant General Aviv Kohavi, Chief of the General\
-  \ Staff of the Israel Defense Forces"
+  \ Staff of the Israel Defense\_Forces"
 ---
  
 National Security Advisor Jake Sullivan met today in Washington with

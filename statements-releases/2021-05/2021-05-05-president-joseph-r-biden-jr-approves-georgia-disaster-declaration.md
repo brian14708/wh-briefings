@@ -4,7 +4,7 @@ date: '2021-05-05'
 modified_time: 2021-05-05 19:54:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/05/president-joseph-r-biden-jr-approves-georgia-disaster-declaration/
 published_time: 2021-05-05 19:54:58-04:00
-title: President Joseph R. Biden, Jr. Approves Georgia Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Georgia Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

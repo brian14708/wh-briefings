@@ -4,8 +4,8 @@ date: '2021-08-19'
 modified_time: 2021-08-19 10:48:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/19/fact-sheet-the-build-back-better-agenda-will-provide-greater-tax-fairness-for-small-businesses/
 published_time: 2021-08-19 10:15:00-04:00
-title: 'FACT SHEET: The Build Back Better Agenda Will Provide Greater Tax Fairness
-  for Small Businesses'
+title: "FACT SHEET: The Build Back Better Agenda Will Provide Greater Tax Fairness\
+  \ for Small\_Businesses"
 ---
  
 Since day one in office, President Biden has focused on providing

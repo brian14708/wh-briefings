@@ -4,8 +4,8 @@ date: '2022-01-07'
 modified_time: 2022-01-07 10:31:04-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/president-biden-announces-nominee-for-deputy-administrator-for-resilience-at-the-federal-emergency-management-agency/
 published_time: 2022-01-07 15:00:00-05:00
-title: President Biden Announces Nominee for Deputy Administrator for Resilience at
-  the Federal Emergency Management Agency
+title: "President\_Biden Announces Nominee for Deputy Administrator for Resilience\
+  \ at the Federal Emergency Management\_Agency"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

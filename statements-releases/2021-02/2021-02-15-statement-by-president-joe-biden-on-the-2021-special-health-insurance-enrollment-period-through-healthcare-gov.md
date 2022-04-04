@@ -4,8 +4,8 @@ date: '2021-02-15'
 modified_time: 2021-02-15 14:05:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/15/statement-by-president-joe-biden-on-the-2021-special-health-insurance-enrollment-period-through-healthcare-gov/
 published_time: 2021-02-15 07:37:15-05:00
-title: Statement by President Joe Biden on the 2021 Special Health Insurance Enrollment
-  Period Through HealthCare.gov
+title: "Statement by President Joe\_Biden on the 2021 Special Health Insurance Enrollment\
+  \ Period Through\_HealthCare.gov"
 ---
  
 Health care is a right, not a privilege. No one should have to lay awake

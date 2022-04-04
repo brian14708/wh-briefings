@@ -4,7 +4,7 @@ date: '2021-07-20'
 modified_time: 2021-07-20 15:27:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/notice-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/
 published_time: 2021-07-20 15:27:47-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Lebanon
+title: "Notice on the Continuation of the National Emergency with Respect to\_Lebanon"
 ---
  
 On August 1, 2007, by Executive Order 13441, the President declared a

@@ -4,9 +4,9 @@ date: '2021-05-06'
 modified_time: 2021-05-06 17:42:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/06/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria/
 published_time: 2021-05-06 17:42:39-04:00
-title: Letter to the Speaker of the House of Representatives and the President of
-  the Senate on the Continuation of the National Emergency with Respect to the Actions
-  of the Government of Syria
+title: "Letter to the Speaker of the House of Representatives and the President of\
+  \ the Senate on the Continuation of the National Emergency with Respect to the Actions\
+  \ of the Government of\_Syria"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)

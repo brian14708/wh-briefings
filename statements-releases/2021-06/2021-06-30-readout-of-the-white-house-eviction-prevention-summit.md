@@ -4,7 +4,7 @@ date: '2021-06-30'
 modified_time: 2021-06-30 16:18:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/
 published_time: 2021-06-30 17:00:00-04:00
-title: Readout of the White House Eviction Prevention Summit
+title: "Readout of the White\_House Eviction Prevention\_Summit"
 ---
  
 Today the White House hosted a first of its kind virtual Eviction

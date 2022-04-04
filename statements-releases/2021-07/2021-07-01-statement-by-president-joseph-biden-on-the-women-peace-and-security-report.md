@@ -4,7 +4,7 @@ date: '2021-07-01'
 modified_time: 2021-07-19 12:49:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-president-joseph-biden-on-the-women-peace-and-security-report/
 published_time: 2021-07-01 09:25:07-04:00
-title: Statement by President Joseph Biden on the Women, Peace, and Security Report
+title: "Statement by President Joseph Biden on the Women, Peace, and Security\_Report"
 ---
  
 June 29, 2021

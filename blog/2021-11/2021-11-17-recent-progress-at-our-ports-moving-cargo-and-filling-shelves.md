@@ -4,7 +4,7 @@ date: '2021-11-17'
 modified_time: 2021-12-15 16:28:41-05:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/11/17/recent-progress-at-our-ports-moving-cargo-and-filling-shelves/
 published_time: 2021-11-17 16:12:41-05:00
-title: 'Recent Progress at Our Ports: Moving Cargo and Filling Shelves'
+title: "Recent Progress at Our Ports: Moving Cargo and Filling\_Shelves"
 ---
  
 Earlier this month, [we

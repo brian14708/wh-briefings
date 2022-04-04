@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-03-12 11:58:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/quad-leaders-joint-statement-the-spirit-of-the-quad/
 published_time: 2021-03-12 11:58:08-05:00
-title: "Quad Leaders\u2019 Joint Statement: \u201CThe Spirit of the Quad\u201D"
+title: "Quad Leaders\u2019 Joint Statement: \u201CThe Spirit of the\_Quad\u201D"
 ---
  
 1. We have convened to reaffirm our commitment to quadrilateral

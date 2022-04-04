@@ -4,8 +4,8 @@ date: '2021-12-21'
 modified_time: 2021-12-21 18:21:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/21/memorandum-on-the-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons/
 published_time: 2021-12-21 18:21:53-05:00
-title: Memorandum on the Presidential Determination with Respect to the Efforts of
-  Foreign Governments Regarding Trafficking in Persons
+title: "Memorandum on the Presidential Determination with Respect to the Efforts of\
+  \ Foreign Governments Regarding Trafficking in\_Persons"
 ---
  
 Presidential Determination  

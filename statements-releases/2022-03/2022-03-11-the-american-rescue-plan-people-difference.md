@@ -4,7 +4,7 @@ date: '2022-03-11'
 modified_time: 2022-03-10 23:20:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/the-american-rescue-plan-people-difference/
 published_time: 2022-03-11 05:00:00-05:00
-title: The American Rescue Plan People Difference
+title: "The American Rescue Plan People\_Difference"
 ---
  
 *ARP powered historic jobs recovery – with the largest calendar increase

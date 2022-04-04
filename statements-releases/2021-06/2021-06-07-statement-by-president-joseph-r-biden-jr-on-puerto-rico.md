@@ -4,7 +4,7 @@ date: '2021-06-07'
 modified_time: 2021-06-07 10:15:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/07/statement-by-president-joseph-r-biden-jr-on-puerto-rico/
 published_time: 2021-06-07 12:00:00-04:00
-title: Statement by President Joseph R. Biden, Jr. on Puerto Rico
+title: "Statement by President Joseph R. Biden, Jr. on Puerto\_Rico"
 ---
  
 Today, the Department of Justice will file a brief in the Supreme Court

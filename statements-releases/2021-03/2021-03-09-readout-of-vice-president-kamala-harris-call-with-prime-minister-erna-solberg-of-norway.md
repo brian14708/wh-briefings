@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-03-09'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/readout-of-vice-president-kamala-harris-call-with-prime-minister-erna-solberg-of-norway/
 published_time: 2021-03-09 16:11:19-05:00
-title: Readout of Vice President Kamala Harris Call with Prime Minister Erna Solberg
-  of Norway
+title: "Readout of Vice President Kamala\_Harris Call with Prime Minister Erna Solberg\
+  \ of\_Norway"
 ---
  
    

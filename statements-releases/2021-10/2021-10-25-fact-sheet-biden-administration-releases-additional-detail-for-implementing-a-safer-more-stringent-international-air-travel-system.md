@@ -4,8 +4,8 @@ date: '2021-10-25'
 modified_time: 2021-10-25 18:21:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/25/fact-sheet-biden-administration-releases-additional-detail-for-implementing-a-safer-more-stringent-international-air-travel-system/
 published_time: 2021-10-25 18:21:08-04:00
-title: 'Fact Sheet: Biden Administration Releases Additional Detail for Implementing
-  a Safer, More Stringent International Air Travel System'
+title: "Fact Sheet: Biden Administration Releases Additional Detail for Implementing\
+  \ a Safer, More Stringent International Air Travel\_System"
 ---
  
 As we continue to work to protect people from COVID-19, today, the Biden

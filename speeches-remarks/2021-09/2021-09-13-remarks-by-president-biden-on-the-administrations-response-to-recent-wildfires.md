@@ -4,8 +4,8 @@ date: '2021-09-13'
 modified_time: 2021-09-13 21:41:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/13/remarks-by-president-biden-on-the-administrations-response-to-recent-wildfires/
 published_time: 2021-09-13 22:15:00-04:00
-title: "Remarks by President Biden on the Administration\u2019s Response to Recent\
-  \ Wildfires"
+title: "Remarks by President\_Biden on the Administration\u2019s Response to Recent\_\
+  Wildfires"
 ---
  
 Sacramento County Maintenance Service Hangar  

@@ -4,7 +4,7 @@ date: '2021-08-31'
 modified_time: 2021-08-31 20:25:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/31/press-briefing-by-press-secretary-jen-psaki-august-31-2021/
 published_time: 2021-08-31 20:45:00-04:00
-title: Press Briefing by Press Secretary Jen Psaki, August 31, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, August 31,\_2021"
 ---
  
 James S. Brady Press Briefing Room

@@ -4,7 +4,7 @@ date: '2021-04-15'
 modified_time: 2021-04-15 19:49:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/15/remarks-by-president-biden-on-russia/
 published_time: 2021-04-15 20:15:00-04:00
-title: Remarks by President Biden on Russia
+title: "Remarks by President\_Biden on\_Russia"
 ---
  
 4:56 P.M. EDT

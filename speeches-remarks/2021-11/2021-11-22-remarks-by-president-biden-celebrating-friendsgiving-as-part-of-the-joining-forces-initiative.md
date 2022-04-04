@@ -4,8 +4,8 @@ date: '2021-11-22'
 modified_time: 2021-11-22 22:07:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/22/remarks-by-president-biden-celebrating-friendsgiving-as-part-of-the-joining-forces-initiative/
 published_time: 2021-11-22 22:30:00-05:00
-title: Remarks by President Biden Celebrating Friendsgiving as Part of the Joining
-  Forces Initiative
+title: "Remarks by President\_Biden Celebrating Friendsgiving as Part of the Joining\
+  \ Forces\_Initiative"
 ---
  
 West Bay, Hangar 741  

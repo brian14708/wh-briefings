@@ -4,7 +4,8 @@ date: '2021-05-03'
 modified_time: 2021-05-02 20:39:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/03/statement-by-president-joe-biden-on-the-occasion-of-world-press-freedom-day/
 published_time: 2021-05-03 06:00:00-04:00
-title: Statement by President Joe Biden on the Occasion of World Press Freedom Day
+title: "Statement by President Joe\_Biden on the Occasion of World Press Freedom\_\
+  Day"
 ---
  
 Thirty years ago today, in the face of constant pressure and violence,

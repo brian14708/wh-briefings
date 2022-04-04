@@ -4,8 +4,8 @@ date: '2021-08-05'
 modified_time: 2021-08-05 09:07:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statement-by-white-house-press-secretary-jen-psaki-on-deferred-enforced-departure-for-certain-hong-kong-residents/
 published_time: 2021-08-05 09:07:20-04:00
-title: Statement by White House Press Secretary Jen Psaki on Deferred Enforced Departure
-  for Certain Hong Kong Residents
+title: "Statement by White\_House Press Secretary Jen\_Psaki on Deferred Enforced\
+  \ Departure for Certain Hong Kong\_Residents"
 ---
  
 Today, President Joseph R. Biden, Jr. signed a memorandum directing the

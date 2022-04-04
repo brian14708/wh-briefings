@@ -4,8 +4,8 @@ date: '2021-06-12'
 modified_time: 2021-06-12 11:57:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/statement-by-president-joe-biden-on-the-5th-anniversary-of-the-pulse-nightclub-shooting/
 published_time: 2021-06-12 11:57:37-04:00
-title: Statement by President Joe Biden on the 5th Anniversary of the Pulse Nightclub
-  Shooting
+title: "Statement by President Joe\_Biden on the 5th Anniversary of the Pulse Nightclub\_\
+  Shooting"
 ---
  
 Five years ago today in Orlando in the middle of Pride Month, our nation

@@ -4,8 +4,8 @@ date: '2021-10-18'
 modified_time: 2021-12-23 15:18:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/statement-by-vice-president-kamala-harris-on-the-passing-of-secretary-colin-powell/
 published_time: 2021-10-18 01:45:00-04:00
-title: Statement by Vice President Kamala Harris on the Passing of Secretary Colin
-  Powell
+title: "Statement by Vice President Kamala\_Harris on the Passing of Secretary Colin\_\
+  Powell"
 ---
  
 Secretary Colin Powell dedicated his life to defending our nation. As

@@ -4,7 +4,7 @@ date: '2021-08-19'
 modified_time: 2021-08-19 21:23:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/19/readout-of-president-joe-biden-call-with-president-emmanuel-macron-of-france/
 published_time: 2021-08-19 21:23:17-04:00
-title: Readout of President Joe Biden Call with President Emmanuel Macron of France
+title: "Readout of President Joe\_Biden Call with President Emmanuel Macron of\_France"
 ---
  
 President Joe Biden and President Emmanuel Macron of France spoke today

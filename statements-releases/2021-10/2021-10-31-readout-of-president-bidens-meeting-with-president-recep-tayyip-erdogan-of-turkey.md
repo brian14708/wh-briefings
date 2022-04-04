@@ -4,8 +4,8 @@ date: '2021-10-31'
 modified_time: 2021-10-31 06:43:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/readout-of-president-bidens-meeting-with-president-recep-tayyip-erdogan-of-turkey/
 published_time: 2021-10-31 06:41:32-04:00
-title: "Readout of President Biden\u2019s Meeting with President Recep Tayyip Erdogan\
-  \ of Turkey"
+title: "Readout of President\_Biden\u2019s Meeting with President Recep Tayyip Erdogan\
+  \ of\_Turkey"
 ---
  
 President Joseph R. Biden, Jr. met today with President Recep Tayyip

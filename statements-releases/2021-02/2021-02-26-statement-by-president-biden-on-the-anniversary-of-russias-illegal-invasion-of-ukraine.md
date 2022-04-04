@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-02-26'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/statement-by-president-biden-on-the-anniversary-of-russias-illegal-invasion-of-ukraine/
 published_time: 2021-02-26 08:32:15-05:00
-title: "Statement by President Biden on the Anniversary of Russia\u2019s Illegal Invasion\
-  \ of Ukraine"
+title: "Statement by President\_Biden on the Anniversary of Russia\u2019s Illegal\
+  \ Invasion of\_Ukraine"
 ---
  
 Seven years ago today, Russia violated international law, the norms by

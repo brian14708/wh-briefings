@@ -4,7 +4,7 @@ date: '2021-11-06'
 modified_time: 2021-11-06 00:39:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/
 published_time: 2021-11-06 00:39:57-04:00
-title: 'Fact Sheet: The Bipartisan Infrastructure Deal'
+title: "Fact Sheet: The Bipartisan Infrastructure\_Deal"
 ---
  
 Today, Congress passed the Bipartisan Infrastructure Deal

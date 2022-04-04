@@ -4,7 +4,7 @@ date: '2021-12-22'
 modified_time: 2021-12-22 10:51:11-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/joint-statement-on-meeting-of-the-u-s-israel-strategic-consultative-group/
 published_time: 2021-12-22 10:51:10-05:00
-title: Joint Statement on Meeting of the U.S.-Israel Strategic Consultative Group
+title: "Joint Statement on Meeting of the U.S.-Israel Strategic Consultative\_Group"
 ---
  
 U.S. National Security Advisor Jake Sullivan and Israeli National

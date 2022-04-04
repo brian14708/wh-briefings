@@ -4,7 +4,7 @@ date: '2021-07-09'
 modified_time: 2021-07-09 17:22:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/09/press-briefing-by-press-secretary-jen-psaki-july-9-2021/
 published_time: 2021-07-09 17:21:15-04:00
-title: Press Briefing by Press Secretary Jen Psaki, July 9, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, July 9,\_2021"
 ---
  
 James S. Brady Press Briefing Room

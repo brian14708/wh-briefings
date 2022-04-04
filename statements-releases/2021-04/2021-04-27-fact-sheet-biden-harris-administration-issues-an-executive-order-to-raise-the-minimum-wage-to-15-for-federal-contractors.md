@@ -4,8 +4,8 @@ date: '2021-04-27'
 modified_time: 2021-04-26 16:10:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/
 published_time: 2021-04-27 06:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Issues an Executive Order\
-  \ to Raise the Minimum Wage to $15 for Federal Contractors"
+title: "FACT SHEET: Biden-\u2060Harris Administration Issues an Executive Order to\
+  \ Raise the Minimum Wage to $15 for Federal\_Contractors"
 ---
  
 Today, President Biden is issuing an executive order requiring federal

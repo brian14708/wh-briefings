@@ -4,9 +4,9 @@ date: '2021-07-28'
 modified_time: 2021-07-27 23:12:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-harris-administration-issues-proposed-buy-american-rule-advancing-the-presidents-commitment-to-ensuring-the-future-of-america-is-made-in-america-by-all-of-americas/
 published_time: 2021-07-28 05:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Issues Proposed Buy American\
+title: "FACT SHEET: Biden-\u2060Harris Administration Issues Proposed Buy American\
   \ Rule, Advancing the President\u2019s Commitment to Ensuring the Future of America\
-  \ is Made in America by All of America\u2019s Workers"
+  \ is Made in America by All of America\u2019s\_Workers"
 ---
  
 *Biden-Harris Administration will increase American-made content in

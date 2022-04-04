@@ -4,7 +4,7 @@ date: '2022-03-28'
 modified_time: 2022-03-30 20:06:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/statement-by-president-joe-biden-on-the-fy-2023-budget/
 published_time: 2022-03-28 11:00:00-04:00
-title: Statement by President Joe Biden on the FY 2023 Budget
+title: "Statement by President Joe\_Biden on the FY 2023\_Budget"
 ---
  
 Budgets are statements of values, and the budget I am releasing today

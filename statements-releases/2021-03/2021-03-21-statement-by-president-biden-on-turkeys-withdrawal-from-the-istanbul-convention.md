@@ -4,8 +4,8 @@ date: '2021-03-21'
 modified_time: 2021-03-21 10:31:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/statement-by-president-biden-on-turkeys-withdrawal-from-the-istanbul-convention/
 published_time: 2021-03-21 10:31:12-04:00
-title: "Statement by President Biden on Turkey\u2019s Withdrawal from the Istanbul\
-  \ Convention"
+title: "Statement by President\_Biden on Turkey\u2019s Withdrawal from the Istanbul\_\
+  Convention"
 ---
  
 Turkey’s sudden and unwarranted withdrawal from the Council of Europe

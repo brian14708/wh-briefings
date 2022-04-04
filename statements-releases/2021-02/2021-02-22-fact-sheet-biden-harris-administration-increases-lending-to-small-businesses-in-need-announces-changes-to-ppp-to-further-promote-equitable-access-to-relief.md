@@ -4,9 +4,8 @@ date: '2021-02-22'
 modified_time: 2021-02-22 06:59:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/22/fact-sheet-biden-harris-administration-increases-lending-to-small-businesses-in-need-announces-changes-to-ppp-to-further-promote-equitable-access-to-relief/
 published_time: 2021-02-22 06:59:20-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Increases Lending to Small\
-  \ Businesses in Need, Announces Changes to PPP to Further Promote Equitable Access\
-  \ to Relief"
+title: "FACT SHEET: Biden-\u2060Harris Administration Increases Lending to Small Businesses\
+  \ in Need, Announces Changes to PPP to Further Promote Equitable Access to\_Relief"
 ---
  
 Small businesses account for [44

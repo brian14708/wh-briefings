@@ -4,7 +4,7 @@ date: '2022-01-13'
 modified_time: 2022-01-13 13:17:21-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/president-biden-announces-key-nominee/
 published_time: 2022-01-13 16:00:00-05:00
-title: President Biden Announces Key Nominee
+title: "President\_Biden Announces Key\_Nominee"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

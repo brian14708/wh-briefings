@@ -4,7 +4,7 @@ date: '2021-04-22'
 modified_time: 2021-04-22 07:56:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/22/a-proclamation-on-earth-day-2021/
 published_time: 2021-04-22 07:56:40-04:00
-title: A Proclamation on Earth Day, 2021
+title: "A Proclamation on Earth Day,\_2021"
 ---
  
      On April 22, 1970, millions of Americans rallied together to

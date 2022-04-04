@@ -4,8 +4,8 @@ date: '2021-09-02'
 modified_time: 2021-09-02 22:48:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/02/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-54/
 published_time: 2021-09-02 22:48:47-04:00
-title: "Press Briefing by White House COVID- \u2060 19 Response Team and Public Health\
-  \ Officials"
+title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
+  Officials"
 ---
  
 Via Teleconference 

@@ -4,8 +4,8 @@ date: '2021-11-03'
 modified_time: 2021-11-03 08:26:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/03/statement-by-nsc-spokesperson-emily-horne-on-continued-international-counter-ransomware-efforts/
 published_time: 2021-11-03 08:26:55-04:00
-title: Statement by NSC Spokesperson Emily Horne on Continued International Counter
-  Ransomware Efforts
+title: "Statement by NSC Spokesperson Emily Horne on Continued International Counter\
+  \ Ransomware\_Efforts"
 ---
  
 Deputy National Security Advisor for Cyber and Emerging Technology Anne

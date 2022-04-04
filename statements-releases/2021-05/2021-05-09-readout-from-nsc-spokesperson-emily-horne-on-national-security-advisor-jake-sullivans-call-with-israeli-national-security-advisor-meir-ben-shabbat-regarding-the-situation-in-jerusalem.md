@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/
 published_time: 2021-05-09 18:52:32-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Israeli National Security Advisor Meir Ben-Shabbat Regarding\
-  \ the Situation in Jerusalem"
+  \ the Situation in\_Jerusalem"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

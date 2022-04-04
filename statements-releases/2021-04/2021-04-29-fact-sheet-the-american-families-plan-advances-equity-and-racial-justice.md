@@ -4,7 +4,7 @@ date: '2021-04-29'
 modified_time: 2021-04-29 15:13:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-the-american-families-plan-advances-equity-and-racial-justice/
 published_time: 2021-04-29 15:13:15-04:00
-title: 'FACT SHEET: The American Families Plan Advances Equity and Racial Justice'
+title: "FACT SHEET: The American Families Plan Advances Equity and Racial\_Justice"
 ---
  
 On his first day in office, President Biden signed an Executive Order

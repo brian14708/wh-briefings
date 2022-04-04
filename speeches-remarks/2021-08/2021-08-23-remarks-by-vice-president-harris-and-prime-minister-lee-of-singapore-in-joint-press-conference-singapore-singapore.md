@@ -4,8 +4,8 @@ date: '2021-08-23'
 modified_time: 2021-09-07 13:06:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/23/remarks-by-vice-president-harris-and-prime-minister-lee-of-singapore-in-joint-press-conference-singapore-singapore/
 published_time: 2021-08-23 03:56:00-04:00
-title: Remarks by Vice President Harris and Prime Minister Lee of Singapore in Joint
-  Press Conference | Singapore, Singapore
+title: "Remarks by Vice President Harris and Prime Minister Lee of Singapore in Joint\
+  \ Press Conference | Singapore,\_Singapore"
 ---
  
 The Istana  

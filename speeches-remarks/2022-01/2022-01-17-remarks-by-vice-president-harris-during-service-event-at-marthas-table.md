@@ -4,7 +4,7 @@ date: '2022-01-17'
 modified_time: 2022-01-17 14:48:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/17/remarks-by-vice-president-harris-during-service-event-at-marthas-table/
 published_time: 2022-01-17 14:48:55-05:00
-title: "Remarks by Vice President Harris During Service Event at Martha\u2019s Table"
+title: "Remarks by Vice President Harris During Service Event at Martha\u2019s\_Table"
 ---
  
 *Martha’s Table  

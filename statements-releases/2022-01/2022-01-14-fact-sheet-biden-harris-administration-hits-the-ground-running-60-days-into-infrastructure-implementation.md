@@ -4,8 +4,8 @@ date: '2022-01-14'
 modified_time: 2022-01-14 14:54:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/
 published_time: 2022-01-14 05:00:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Hits the Ground Running 60\
-  \ Days into Infrastructure Implementation"
+title: "FACT SHEET: Biden-\u2060Harris Administration Hits the Ground Running 60 Days\
+  \ into Infrastructure\_Implementation"
 ---
  
 Since President Biden signed the Bipartisan Infrastructure Law 60 days

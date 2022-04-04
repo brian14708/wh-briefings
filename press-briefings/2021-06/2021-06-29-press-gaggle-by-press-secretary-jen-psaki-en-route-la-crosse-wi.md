@@ -4,7 +4,7 @@ date: '2021-06-29'
 modified_time: 2021-06-29 14:33:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/29/press-gaggle-by-press-secretary-jen-psaki-en-route-la-crosse-wi/
 published_time: 2021-06-29 14:33:33-04:00
-title: Press Gaggle by Press Secretary Jen Psaki En Route La Crosse, WI
+title: "Press Gaggle by Press Secretary Jen\_Psaki En Route La Crosse,\_WI"
 ---
  
 11:27 A.M. EDT  

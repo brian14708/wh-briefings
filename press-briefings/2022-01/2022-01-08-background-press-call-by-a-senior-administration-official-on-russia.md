@@ -4,7 +4,7 @@ date: '2022-01-08'
 modified_time: 2022-01-08 17:14:18-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/08/background-press-call-by-a-senior-administration-official-on-russia/
 published_time: 2022-01-08 17:14:17-05:00
-title: Background Press Call by a Senior Administration Official on Russia
+title: "Background Press Call by a Senior Administration Official on\_Russia"
 ---
  
 Via Teleconference

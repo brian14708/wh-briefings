@@ -4,7 +4,7 @@ date: '2021-06-30'
 modified_time: 2021-06-29 21:27:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/president-biden-names-fifth-round-of-judicial-nominees/
 published_time: 2021-06-30 06:15:00-04:00
-title: President Biden Names Fifth Round of Judicial Nominees
+title: "President\_Biden Names Fifth Round of Judicial\_Nominees"
 ---
  
 As he continues to move at an historic pace with respect to judicial

@@ -3,9 +3,9 @@ category: statements-releases
 date: '2022-03-08'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/message-to-the-congress-on-prohibiting-certain-imports-and-new-investments-with-respect-to-continued-russian-federation-efforts-to-undermine-the-sovereignty-and-territorial-integrity-of-ukraine/
 published_time: 2022-03-08 12:34:57-05:00
-title: Message to the Congress on Prohibiting Certain Imports and New Investments
-  With Respect to Continued Russian Federation Efforts to Undermine the Sovereignty
-  and Territorial Integrity of Ukraine.
+title: "Message to the Congress on Prohibiting Certain Imports and New Investments\
+  \ With Respect to Continued Russian Federation Efforts to Undermine the Sovereignty\
+  \ and Territorial Integrity of\_Ukraine."
 ---
  
 Pursuant to the International Emergency Economic Powers Act (50 U.S.C.

@@ -4,7 +4,7 @@ date: '2021-11-10'
 modified_time: 2021-11-10 16:20:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-vice-president-harris-announces-initiatives-on-space-and-cybersecurity/
 published_time: 2021-11-10 16:20:53-05:00
-title: 'FACT SHEET: Vice President Harris Announces Initiatives on Space and Cybersecurity'
+title: "FACT SHEET: Vice President Harris Announces Initiatives on Space and\_Cybersecurity"
 ---
  
 Following her meeting with President Emmanuel Macron of France, Vice

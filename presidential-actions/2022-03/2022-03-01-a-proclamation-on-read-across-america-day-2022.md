@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2022-03-01'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/01/a-proclamation-on-read-across-america-day-2022/
 published_time: 2022-03-01 11:55:56-05:00
-title: A Proclamation on Read Across America Day, 2022
+title: "A Proclamation on Read Across America Day,\_2022"
 ---
  
 Reading ignites imagination, insight, and inspiration.  It nourishes a

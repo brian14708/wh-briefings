@@ -4,7 +4,7 @@ date: '2021-11-15'
 modified_time: 2021-11-15 16:25:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/nominations-sent-to-the-senate-45/
 published_time: 2021-11-15 16:25:08-05:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

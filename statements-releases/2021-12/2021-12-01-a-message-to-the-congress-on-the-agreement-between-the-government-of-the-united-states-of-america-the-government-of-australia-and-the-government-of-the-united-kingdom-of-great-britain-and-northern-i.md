@@ -3,9 +3,9 @@ category: statements-releases
 date: '2021-12-01'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/a-message-to-the-congress-on-the-agreement-between-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-kingdom-of-great-britain-and-northern-i/
 published_time: 2021-12-01 18:31:29-05:00
-title: A Message to the Congress on the Agreement between the Government of the United
-  States of America, the Government of Australia, and the Government of the United
-  Kingdom of Great Britain and Northern Ireland
+title: "A Message to the Congress on the Agreement between the Government of the United\_\
+  States of America, the Government of Australia, and the Government of the United\
+  \ Kingdom of Great Britain and Northern\_Ireland"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:

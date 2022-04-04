@@ -4,7 +4,7 @@ date: '2021-10-13'
 modified_time: 2021-10-12 20:35:42-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/13/background-press-call-on-the-virtual-counter-ransomware-initiative-meeting/
 published_time: 2021-10-13 05:00:00-04:00
-title: Background Press Call on the Virtual Counter-Ransomware Initiative Meeting
+title: "Background Press Call on the Virtual Counter-Ransomware Initiative\_Meeting"
 ---
  
 Via Teleconference

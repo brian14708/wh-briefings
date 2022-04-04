@@ -5,7 +5,7 @@ modified_time: 2021-08-27 15:36:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/statement-by-nsc-spokesperson-emily-horne-on-nsa-sullivans-call-with-foreign-minister-hussein-of-iraq/
 published_time: 2021-08-27 15:36:30-04:00
 title: "Statement by NSC Spokesperson Emily Horne on NSA Sullivan\u2019s Call with\
-  \ Foreign Minister Hussein of Iraq"
+  \ Foreign Minister Hussein of\_Iraq"
 ---
  
 National Security Advisor Jake Sullivan spoke today with Foreign

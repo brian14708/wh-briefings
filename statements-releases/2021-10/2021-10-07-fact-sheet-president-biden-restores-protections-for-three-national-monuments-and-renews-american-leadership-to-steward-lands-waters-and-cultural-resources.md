@@ -4,8 +4,8 @@ date: '2021-10-07'
 modified_time: 2021-10-07 20:23:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/
 published_time: 2021-10-07 20:22:00-04:00
-title: 'FACT SHEET: President Biden Restores Protections for Three National Monuments
-  and Renews American Leadership to Steward Lands, Waters, and Cultural Resources'
+title: "FACT SHEET: President\_Biden Restores Protections for Three National Monuments\
+  \ and Renews American Leadership to Steward Lands, Waters, and Cultural\_Resources"
 ---
  
 As part of the Biden-Harris Administration’s effort to better protect,

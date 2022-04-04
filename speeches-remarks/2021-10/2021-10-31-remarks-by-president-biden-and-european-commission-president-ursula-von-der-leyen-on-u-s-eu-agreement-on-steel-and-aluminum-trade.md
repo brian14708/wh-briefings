@@ -4,8 +4,8 @@ date: '2021-10-31'
 modified_time: 2021-10-31 10:18:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/31/remarks-by-president-biden-and-european-commission-president-ursula-von-der-leyen-on-u-s-eu-agreement-on-steel-and-aluminum-trade/
 published_time: 2021-10-31 10:18:14-04:00
-title: Remarks by President Biden and European Commission President Ursula von der
-  Leyen on U.S.-EU Agreement on Steel and Aluminum Trade
+title: "Remarks by President\_Biden and European Commission President Ursula von der\
+  \ Leyen on U.S.-EU Agreement on Steel and Aluminum\_Trade"
 ---
  
 1:17 P.M. CET  

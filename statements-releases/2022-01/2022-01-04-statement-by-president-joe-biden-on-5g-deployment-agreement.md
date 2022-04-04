@@ -4,7 +4,7 @@ date: '2022-01-04'
 modified_time: 2022-01-04 10:29:55-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/04/statement-by-president-joe-biden-on-5g-deployment-agreement/
 published_time: 2022-01-04 10:29:54-05:00
-title: Statement by President Joe Biden on 5G Deployment Agreement
+title: "Statement by President Joe\_Biden on 5G Deployment\_Agreement"
 ---
  
 My Administration is committed to rapid 5G deployment, while minimizing

@@ -4,7 +4,7 @@ date: '2021-10-21'
 modified_time: 2021-10-21 15:54:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/21/remarks-by-president-biden-before-air-force-one-departure-9/
 published_time: 2021-10-21 15:54:55-04:00
-title: Remarks by President Biden Before Air Force One Departure
+title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
 Joint Base Andrews  

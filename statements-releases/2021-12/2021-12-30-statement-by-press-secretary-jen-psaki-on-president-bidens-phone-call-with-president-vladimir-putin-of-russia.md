@@ -4,8 +4,8 @@ date: '2021-12-30'
 modified_time: 2021-12-30 17:43:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/30/statement-by-press-secretary-jen-psaki-on-president-bidens-phone-call-with-president-vladimir-putin-of-russia/
 published_time: 2021-12-30 17:43:24-05:00
-title: "Statement by Press Secretary Jen Psaki on President Biden\u2019s Phone Call\
-  \ with President Vladimir Putin of Russia"
+title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Phone Call\
+  \ with President Vladimir Putin of\_Russia"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Vladimir Putin

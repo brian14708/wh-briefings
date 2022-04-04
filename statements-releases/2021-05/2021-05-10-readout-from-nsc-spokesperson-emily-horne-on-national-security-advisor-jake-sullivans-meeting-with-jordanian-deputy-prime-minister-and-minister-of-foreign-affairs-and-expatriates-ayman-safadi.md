@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/
 published_time: 2021-05-10 19:43:37-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Jordanian Deputy Prime Minister and Minister of Foreign\
-  \ Affairs and Expatriates Ayman Safadi"
+  \ Affairs and Expatriates Ayman\_Safadi"
 ---
  
 Today, National Security Advisor Jake Sullivan met in Washington with

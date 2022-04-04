@@ -4,7 +4,7 @@ date: '2021-11-12'
 modified_time: 2021-11-12 13:23:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/president-biden-announces-additional-nominees/
 published_time: 2021-11-12 16:00:00-05:00
-title: President Biden Announces Additional Nominees
+title: "President\_Biden Announces Additional\_Nominees"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

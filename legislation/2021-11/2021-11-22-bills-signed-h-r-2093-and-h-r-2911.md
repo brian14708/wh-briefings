@@ -4,7 +4,7 @@ date: '2021-11-22'
 modified_time: 2022-03-15 10:06:22-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/11/22/bills-signed-h-r-2093-and-h-r-2911/
 published_time: 2021-11-22 10:45:00-05:00
-title: 'Bills Signed: H.R. 2093 and H.R. 2911'
+title: "Bills Signed: H.R. 2093 and H.R.\_2911"
 ---
  
 Bills Signed: H.R. 2093 and H.R. 2911

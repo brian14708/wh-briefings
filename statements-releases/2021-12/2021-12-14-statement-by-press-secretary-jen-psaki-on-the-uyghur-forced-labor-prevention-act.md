@@ -4,8 +4,8 @@ date: '2021-12-14'
 modified_time: 2021-12-14 20:08:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/statement-by-press-secretary-jen-psaki-on-the-uyghur-forced-labor-prevention-act/
 published_time: 2021-12-14 20:08:01-05:00
-title: Statement by Press Secretary Jen Psaki on the Uyghur Forced Labor Prevention
-  Act
+title: "Statement by Press Secretary Jen\_Psaki on the Uyghur Forced Labor Prevention\_\
+  Act"
 ---
  
 The President welcomes the agreement by Congress on the bipartisan

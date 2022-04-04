@@ -4,7 +4,7 @@ date: '2021-12-15'
 modified_time: 2021-12-15 14:33:06-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/president-biden-announces-key-diplomatic-and-agency-nominees/
 published_time: 2021-12-15 16:15:00-05:00
-title: President Biden Announces Key Diplomatic and Agency Nominees
+title: "President\_Biden Announces Key Diplomatic and Agency\_Nominees"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

@@ -4,8 +4,8 @@ date: '2021-08-09'
 modified_time: 2021-08-09 17:22:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/09/on-the-record-press-call-by-national-security-council-senior-director-for-the-western-hemisphere-juan-gonzalez-on-official-travel-to-brazil-and-argentina/
 published_time: 2021-08-09 17:22:18-04:00
-title: On-the-Record Press Call by National Security Council Senior Director for the
-  Western Hemisphere Juan Gonzalez on Official Travel to Brazil and Argentina
+title: "On-the-Record Press Call by National Security Council Senior Director for\
+  \ the Western Hemisphere Juan Gonzalez on Official Travel to Brazil and\_Argentina"
 ---
  
 2:32 P.M. EDT

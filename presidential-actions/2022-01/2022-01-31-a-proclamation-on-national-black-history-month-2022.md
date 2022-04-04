@@ -4,7 +4,7 @@ date: '2022-01-31'
 modified_time: 2022-01-31 11:39:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/31/a-proclamation-on-national-black-history-month-2022/
 published_time: 2022-01-31 11:39:58-05:00
-title: A Proclamation on National Black History Month, 2022
+title: "A Proclamation on National Black History Month,\_2022"
 ---
  
 Each February, National Black History Month serves as both a celebration

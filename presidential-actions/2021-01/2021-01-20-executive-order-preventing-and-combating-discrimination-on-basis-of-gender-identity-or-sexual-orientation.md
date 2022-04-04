@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2021-01-20'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/
 published_time: 2021-01-20 21:38:48-05:00
-title: Executive Order on Preventing and Combating Discrimination on the Basis of
-  Gender Identity or Sexual Orientation
+title: "Executive Order on Preventing and Combating Discrimination on the Basis of\
+  \ Gender Identity or Sexual\_Orientation"
 ---
  
 By the authority vested in me as President by the Constitution and the

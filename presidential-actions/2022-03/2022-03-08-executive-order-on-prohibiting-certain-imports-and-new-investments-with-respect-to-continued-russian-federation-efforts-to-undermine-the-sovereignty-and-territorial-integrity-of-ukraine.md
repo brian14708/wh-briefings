@@ -4,9 +4,9 @@ date: '2022-03-08'
 modified_time: 2022-03-08 14:47:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/08/executive-order-on-prohibiting-certain-imports-and-new-investments-with-respect-to-continued-russian-federation-efforts-to-undermine-the-sovereignty-and-territorial-integrity-of-ukraine/
 published_time: 2022-03-08 12:29:51-05:00
-title: Executive Order on Prohibiting Certain Imports and New Investments With Respect
-  to Continued Russian Federation Efforts to Undermine the Sovereignty and Territorial
-  Integrity of Ukraine
+title: "Executive Order on Prohibiting Certain Imports and New Investments With Respect\
+  \ to Continued Russian Federation Efforts to Undermine the Sovereignty and Territorial\
+  \ Integrity of\_Ukraine"
 ---
  
 By the authority vested in me as President by the Constitution and the

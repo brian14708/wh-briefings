@@ -4,7 +4,7 @@ date: '2022-03-01'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-the-biden-administrations-historic-investments-to-create-opportunity-and-build-wealth-in-rural-america/
 published_time: 2022-03-01 15:15:48-05:00
 title: "FACT SHEET:   The Biden Administration\u2019s Historic Investments To Create\
-  \ Opportunity and Build Wealth in Rural America"
+  \ Opportunity and Build Wealth in Rural\_America"
 ---
  
 President Biden is committed to ensuring that rural Americans have the

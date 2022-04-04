@@ -4,7 +4,8 @@ date: '2021-04-27'
 modified_time: 2021-04-27 16:46:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/readout-of-jake-sullivans-bilateral-meeting-with-israeli-nsa-meir-ben-shabbat/
 published_time: 2021-04-27 16:46:45-04:00
-title: "Readout of Jake Sullivan\u2019s Bilateral Meeting with Israeli NSA Meir Ben-Shabbat"
+title: "Readout of Jake Sullivan\u2019s Bilateral Meeting with Israeli NSA Meir\_\
+  Ben-Shabbat"
 ---
  
 Today, National Security Advisor Jake Sullivan met in Washington with

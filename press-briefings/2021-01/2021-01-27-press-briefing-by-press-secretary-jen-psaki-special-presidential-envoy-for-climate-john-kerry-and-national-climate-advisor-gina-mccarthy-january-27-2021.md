@@ -4,8 +4,9 @@ date: '2021-01-27'
 modified_time: 2021-01-27 17:31:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/27/press-briefing-by-press-secretary-jen-psaki-special-presidential-envoy-for-climate-john-kerry-and-national-climate-advisor-gina-mccarthy-january-27-2021/
 published_time: 2021-01-27 17:31:57-05:00
-title: Press Briefing by Press Secretary Jen Psaki, Special Presidential Envoy for
-  Climate John Kerry, and National Climate Advisor Gina McCarthy, January 27, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, Special Presidential Envoy for\
+  \ Climate John Kerry, and National Climate Advisor Gina McCarthy, January 27,\_\
+  2021"
 ---
  
 James S. Brady Press Briefing Room

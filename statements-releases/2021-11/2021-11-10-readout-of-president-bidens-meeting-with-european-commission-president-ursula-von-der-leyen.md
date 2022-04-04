@@ -4,8 +4,8 @@ date: '2021-11-10'
 modified_time: 2021-11-10 15:01:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/readout-of-president-bidens-meeting-with-european-commission-president-ursula-von-der-leyen/
 published_time: 2021-11-10 15:01:48-05:00
-title: "Readout of President Biden\u2019s Meeting with European Commission President\
-  \ Ursula von der Leyen"
+title: "Readout of President\_Biden\u2019s Meeting with European Commission President\
+  \ Ursula von der\_Leyen"
 ---
  
 President Joseph R. Biden, Jr. met today with European Commission

@@ -4,9 +4,9 @@ date: '2021-12-07'
 modified_time: 2021-12-07 17:36:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/readout-of-president-joe-bidens-call-with-european-allies-2/
 published_time: 2021-12-07 16:06:38-05:00
-title: "Readout of President Joe Biden\u2019s Call with President Macron of France,\
+title: "Readout of President Joe\_Biden\u2019s Call with President Macron of France,\
   \ Chancellor Merkel of Germany, Prime Minister Draghi of Italy, Prime Minister Johnson\
-  \ of the United Kingdom"
+  \ of the United\_Kingdom"
 ---
  
 President Biden briefed leaders on his call with President Putin, in

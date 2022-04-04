@@ -4,8 +4,8 @@ date: '2021-02-10'
 modified_time: 2021-02-11 10:05:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/10/remarks-by-president-biden-on-the-administrations-response-to-the-coup-in-burma/
 published_time: 2021-02-10 16:46:28-05:00
-title: "Remarks by President Biden on the Administration\u2019s Response to the Coup\
-  \ in Burma"
+title: "Remarks by President\_Biden on the Administration\u2019s Response to the Coup\
+  \ in\_Burma"
 ---
  
 South Court Auditorium  

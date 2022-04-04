@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-10'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/fact-sheet-biden-harris-administration-applauds-house-passage-of-bipartisan-government-funding-bill/
 published_time: 2022-03-10 10:59:41-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Applauds House Passage of\
-  \ Bipartisan Government Funding Bill"
+title: "FACT SHEET: Biden-\u2060Harris Administration Applauds House Passage of Bipartisan\
+  \ Government Funding\_Bill"
 ---
  
 Today, the Biden-Harris Administration applauded House passage of the

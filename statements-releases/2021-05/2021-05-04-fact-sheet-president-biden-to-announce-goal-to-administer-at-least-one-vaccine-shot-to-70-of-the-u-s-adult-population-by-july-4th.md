@@ -4,8 +4,8 @@ date: '2021-05-04'
 modified_time: 2021-05-04 14:22:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/04/fact-sheet-president-biden-to-announce-goal-to-administer-at-least-one-vaccine-shot-to-70-of-the-u-s-adult-population-by-july-4th/
 published_time: 2021-05-04 14:22:07-04:00
-title: 'FACT SHEET: President Biden to Announce Goal to Administer at Least One Vaccine
-  Shot to 70% of the U.S. Adult Population by July 4th'
+title: "FACT SHEET: President\_Biden to Announce Goal to Administer at Least One Vaccine\
+  \ Shot to 70% of the U.S. Adult Population by July\_4th"
 ---
  
 *New Efforts Will Increase Walk-In Appointments, Pop-Up Clinics, and

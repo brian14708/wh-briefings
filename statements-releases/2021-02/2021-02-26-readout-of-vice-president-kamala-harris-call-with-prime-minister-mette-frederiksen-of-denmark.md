@@ -4,8 +4,8 @@ date: '2021-02-26'
 modified_time: 2021-02-26 15:33:53-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/readout-of-vice-president-kamala-harris-call-with-prime-minister-mette-frederiksen-of-denmark/
 published_time: 2021-02-26 15:33:52-05:00
-title: Readout of Vice President Kamala Harris Call with Prime Minister Mette Frederiksen
-  of Denmark
+title: "Readout of Vice President Kamala\_Harris Call with Prime Minister Mette Frederiksen\
+  \ of\_Denmark"
 ---
  
 Vice President Kamala Harris spoke today with Prime Minister Mette

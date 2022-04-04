@@ -4,8 +4,8 @@ date: '2021-06-08'
 modified_time: 2021-06-08 19:46:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-president-joe-biden-on-the-united-states-commitment-to-open-investment/
 published_time: 2021-06-08 19:46:53-04:00
-title: "Statement by President Joe Biden on the United States\u2019 Commitment to\
-  \ Open Investment"
+title: "Statement by President Joe\_Biden on the United\_States\u2019 Commitment to\
+  \ Open\_Investment"
 ---
  
 The Open Investment Policy of the United States is a pledge to treat all

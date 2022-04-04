@@ -4,8 +4,8 @@ date: '2022-03-21'
 modified_time: 2022-03-30 14:18:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/21/remarks-by-vice-president-harris-on-funding-to-provide-affordable-accessible-high-speed-internet-to-communities-across-the-country/
 published_time: 2022-03-21 14:18:00-04:00
-title: Remarks by Vice President Harris on Funding to Provide Affordable, Accessible
-  High-Speed Internet to Communities Across the Country
+title: "Remarks by Vice President Harris on Funding to Provide Affordable, Accessible\
+  \ High-Speed Internet to Communities Across the\_Country"
 ---
  
 12:34 P.M. CDT  

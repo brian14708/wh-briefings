@@ -4,8 +4,8 @@ date: '2021-06-12'
 modified_time: 2021-06-12 13:04:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-president-bidens-meeting-with-president-emmanuel-macron-of-france/
 published_time: 2021-06-12 13:04:20-04:00
-title: "Readout of President Biden\u2019s Meeting with President Emmanuel Macron of\
-  \ France"
+title: "Readout of President\_Biden\u2019s Meeting with President Emmanuel Macron\
+  \ of\_France"
 ---
  
 President Joseph R. Biden, Jr. met today with President Emmanuel Macron

@@ -4,7 +4,7 @@ date: '2021-12-15'
 modified_time: 2021-12-15 14:55:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/president-biden-names-eleventh-round-of-judicial-nominees/
 published_time: 2021-12-15 08:39:54-05:00
-title: President Biden Names Eleventh Round of Judicial Nominees
+title: "President\_Biden Names Eleventh Round of Judicial\_Nominees"
 ---
  
 The President is announcing 9 new federal judicial nominees, all of whom

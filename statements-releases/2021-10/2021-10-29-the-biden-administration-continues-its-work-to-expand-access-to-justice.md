@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 13:37:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/
 published_time: 2021-10-29 13:37:47-04:00
-title: The Biden Administration Continues Its Work to Expand Access to Justice
+title: "The Biden Administration Continues Its Work to Expand Access to\_Justice"
 ---
  
 President Biden knows that timely and affordable access to the legal

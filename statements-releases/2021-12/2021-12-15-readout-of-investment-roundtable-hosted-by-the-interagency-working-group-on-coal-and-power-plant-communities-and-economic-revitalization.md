@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-15 13:38:00-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/readout-of-investment-roundtable-hosted-by-the-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/
 published_time: 2021-12-15 13:37:59-05:00
-title: Readout of Investment Roundtable Hosted by the Interagency Working Group on
-  Coal and Power Plant Communities and Economic Revitalization
+title: "Readout of Investment Roundtable Hosted by the Interagency Working Group on\
+  \ Coal and Power Plant Communities and Economic\_Revitalization"
 ---
  
 *Interagency Working Group Co-Chairs Convene Cross-Sector Leaders Who

@@ -5,8 +5,8 @@ modified_time: 2022-01-04 15:59:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-virtual-bilateral-meeting-with-president-alejandro-giammattei-of-guatemala/
 published_time: 2021-04-26 20:01:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Virtual Bilateral Meeting with President Alejandro\
-  \ Giammattei of Guatemala"
+  \ President Kamala\_Harris\u2019s Virtual Bilateral Meeting with President Alejandro\
+  \ Giammattei of\_Guatemala"
 ---
  
 Today, Vice President Kamala Harris hosted Guatemalan President

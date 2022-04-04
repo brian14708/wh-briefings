@@ -4,7 +4,7 @@ date: '2021-09-30'
 modified_time: 2021-09-30 20:09:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/30/statement-by-president-joe-biden-on-the-continuing-resolution/
 published_time: 2021-09-30 20:09:40-04:00
-title: Statement by President Joe Biden on the Continuing Resolution
+title: "Statement by President Joe\_Biden on the Continuing\_Resolution"
 ---
  
 Tonight, I signed into law the continuing resolution to fund the

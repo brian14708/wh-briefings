@@ -4,8 +4,8 @@ date: '2021-04-14'
 modified_time: 2021-04-14 19:37:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/president-biden-announces-erika-l-moritsugu-as-deputy-assistant-to-the-president-and-asian-american-and-pacific-islander-senior-liaison/
 published_time: 2021-04-14 19:37:56-04:00
-title: President Biden Announces Erika L. Moritsugu as Deputy Assistant to the President
-  and Asian American and Pacific Islander Senior Liaison
+title: "President\_Biden Announces Erika L. Moritsugu as Deputy Assistant to the President\
+  \ and Asian American and Pacific Islander Senior\_Liaison"
 ---
  
 WASHINGTON – Today, President Joe Biden announced Erika L. Moritsugu as

@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2022-03-04'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/04/national-consumer-protection-week-2022/
 published_time: 2022-03-04 14:51:13-05:00
-title: National Consumer Protection Week, 2022
+title: "National Consumer Protection Week,\_2022"
 ---
  
 As our Nation recovers and our economy continues its historic growth

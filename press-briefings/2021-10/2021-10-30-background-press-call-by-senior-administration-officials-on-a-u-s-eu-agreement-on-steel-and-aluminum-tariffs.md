@@ -4,8 +4,8 @@ date: '2021-10-30'
 modified_time: 2021-11-01 16:17:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/30/background-press-call-by-senior-administration-officials-on-a-u-s-eu-agreement-on-steel-and-aluminum-tariffs/
 published_time: 2021-10-30 19:03:52-04:00
-title: Background Press Call by Senior Administration Officials on a U.S.-EU Agreement
-  on Steel and Aluminum Tariffs
+title: "Background Press Call by Senior Administration Officials on a U.S.-EU Agreement\
+  \ on Steel and Aluminum\_Tariffs"
 ---
  
 Via Teleconference

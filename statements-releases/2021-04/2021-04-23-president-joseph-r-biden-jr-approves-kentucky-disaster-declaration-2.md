@@ -4,7 +4,7 @@ date: '2021-04-23'
 modified_time: 2021-04-23 18:00:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-2/
 published_time: 2021-04-23 18:00:28-04:00
-title: President Joseph R. Biden, Jr. Approves Kentucky Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Kentucky Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

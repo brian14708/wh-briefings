@@ -4,8 +4,8 @@ date: '2021-05-18'
 modified_time: 2021-05-18 14:19:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/18/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-detroit-mi/
 published_time: 2021-05-18 14:19:48-04:00
-title: Press Gaggle by Press Secretary Jen Psaki Aboard Air Force One En Route Detroit,
-  MI
+title: "Press Gaggle by Press Secretary Jen\_Psaki Aboard Air Force One En Route Detroit,\_\
+  MI"
 ---
  
 Aboard Air Force One  

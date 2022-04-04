@@ -4,8 +4,8 @@ date: '2022-01-07'
 modified_time: 2022-01-07 21:56:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/07/remarks-by-president-biden-and-first-lady-jill-biden-on-the-administrations-response-to-recent-wildfires/
 published_time: 2022-01-07 21:56:45-05:00
-title: "Remarks by President Biden and First Lady Jill Biden on the Administration\u2019\
-  s Response to Recent Wildfires"
+title: "Remarks by President\_Biden and First Lady Jill\_Biden on the Administration\u2019\
+  s Response to Recent\_Wildfires"
 ---
  
 Louisville Recreation & Senior Center  

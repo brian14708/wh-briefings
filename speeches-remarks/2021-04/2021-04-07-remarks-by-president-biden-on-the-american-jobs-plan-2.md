@@ -4,7 +4,7 @@ date: '2021-04-07'
 modified_time: 2021-04-07 18:03:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/07/remarks-by-president-biden-on-the-american-jobs-plan-2/
 published_time: 2021-04-07 18:03:08-04:00
-title: Remarks by President Biden on the American Jobs Plan
+title: "Remarks by President\_Biden on the American Jobs\_Plan"
 ---
  
 South Court Auditorium

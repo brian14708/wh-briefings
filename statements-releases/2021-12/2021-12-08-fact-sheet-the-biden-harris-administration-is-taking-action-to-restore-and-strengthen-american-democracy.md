@@ -4,8 +4,8 @@ date: '2021-12-08'
 modified_time: 2021-12-09 08:59:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/
 published_time: 2021-12-08 13:26:43-05:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration is Taking Action to Restore\
-  \ and Strengthen American Democracy"
+title: "FACT SHEET: The Biden-\u2060Harris Administration is Taking Action to Restore\
+  \ and Strengthen American\_Democracy"
 ---
  
 From the first day in office and every day since, the Biden-Harris

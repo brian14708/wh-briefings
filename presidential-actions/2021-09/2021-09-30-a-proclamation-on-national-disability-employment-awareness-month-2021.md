@@ -4,7 +4,7 @@ date: '2021-09-30'
 modified_time: 2021-09-30 11:21:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-disability-employment-awareness-month-2021/
 published_time: 2021-09-30 11:21:36-04:00
-title: A Proclamation on National Disability Employment Awareness Month, 2021
+title: "A Proclamation on National Disability Employment Awareness Month,\_2021"
 ---
  
 When we passed the Americans with Disabilities Act (ADA) 31 years ago,

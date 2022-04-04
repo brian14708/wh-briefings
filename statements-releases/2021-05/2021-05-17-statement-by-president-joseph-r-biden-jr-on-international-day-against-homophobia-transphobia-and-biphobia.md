@@ -4,8 +4,8 @@ date: '2021-05-17'
 modified_time: 2021-05-17 09:51:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/statement-by-president-joseph-r-biden-jr-on-international-day-against-homophobia-transphobia-and-biphobia/
 published_time: 2021-05-17 11:15:00-04:00
-title: Statement by President Joseph R. Biden, Jr. on International Day Against Homophobia,
-  Transphobia and Biphobia
+title: "Statement by President Joseph R. Biden, Jr. on International Day Against Homophobia,\
+  \ Transphobia and\_Biphobia"
 ---
  
 Jill and I are proud to recognize the International Day Against

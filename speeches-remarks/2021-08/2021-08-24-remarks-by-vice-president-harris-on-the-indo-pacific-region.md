@@ -4,7 +4,7 @@ date: '2021-08-24'
 modified_time: 2021-08-24 07:48:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/remarks-by-vice-president-harris-on-the-indo-pacific-region/
 published_time: 2021-08-24 07:48:39-04:00
-title: Remarks by Vice President Harris on the Indo-Pacific Region
+title: "Remarks by Vice President Harris on the Indo-Pacific\_Region"
 ---
  
 Gardens by the Bay  

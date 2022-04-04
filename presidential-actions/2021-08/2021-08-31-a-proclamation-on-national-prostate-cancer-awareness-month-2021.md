@@ -4,7 +4,7 @@ date: '2021-08-31'
 modified_time: 2021-08-31 10:10:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-prostate-cancer-awareness-month-2021/
 published_time: 2021-08-31 10:10:48-04:00
-title: A Proclamation on National Prostate Cancer Awareness Month, 2021
+title: "A Proclamation on National Prostate Cancer Awareness Month,\_2021"
 ---
  
 In 2021, over 248,500 Americans have been diagnosed with prostate

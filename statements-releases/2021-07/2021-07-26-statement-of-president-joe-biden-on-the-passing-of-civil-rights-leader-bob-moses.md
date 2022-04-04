@@ -4,8 +4,8 @@ date: '2021-07-26'
 modified_time: 2021-07-26 16:47:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/statement-of-president-joe-biden-on-the-passing-of-civil-rights-leader-bob-moses/
 published_time: 2021-07-26 16:47:43-04:00
-title: Statement of President Joe Biden on the Passing of Civil Rights Leader, Bob
-  Moses
+title: "Statement of President Joe\_Biden on the Passing of Civil Rights Leader, Bob\_\
+  Moses"
 ---
  
 Speaking in the spring of 1964 about his plans for Freedom Summer, Bob

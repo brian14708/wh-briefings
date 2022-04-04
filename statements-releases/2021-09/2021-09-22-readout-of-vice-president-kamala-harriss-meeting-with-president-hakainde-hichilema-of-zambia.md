@@ -4,8 +4,8 @@ date: '2021-09-22'
 modified_time: 2021-09-24 08:22:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-vice-president-kamala-harriss-meeting-with-president-hakainde-hichilema-of-zambia/
 published_time: 2021-09-22 22:36:00-04:00
-title: "Readout of Vice President Kamala Harris\u2019s Meeting with President Hakainde\
-  \ Hichilema of Zambia"
+title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with President Hakainde\
+  \ Hichilema of\_Zambia"
 ---
  
 Vice President Kamala Harris met with President Hichilema today to

@@ -4,8 +4,8 @@ date: '2021-11-02'
 modified_time: 2021-11-02 10:06:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/
 published_time: 2021-11-02 10:30:00-04:00
-title: 'Fact Sheet: Biden Administration Takes Steps to Prevent Suicide, Including
-  by Promoting Safe Storage of Firearms'
+title: "Fact Sheet: Biden Administration Takes Steps to Prevent Suicide, Including\
+  \ by Promoting Safe Storage of\_Firearms"
 ---
  
 Firearms are the most common method of suicide in the United States,

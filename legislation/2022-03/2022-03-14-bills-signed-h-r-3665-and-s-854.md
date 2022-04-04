@@ -4,7 +4,7 @@ date: '2022-03-14'
 modified_time: 2022-03-15 11:04:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/03/14/bills-signed-h-r-3665-and-s-854/
 published_time: 2022-03-14 17:19:10-04:00
-title: 'Bills Signed: H.R. 3665 and S. 854'
+title: "Bills Signed: H.R. 3665 and S.\_854"
 ---
  
 On Monday, March 14, 2022, the President signed into law:

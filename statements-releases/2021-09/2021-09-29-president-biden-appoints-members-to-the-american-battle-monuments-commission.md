@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-09-29'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/president-biden-appoints-members-to-the-american-battle-monuments-commission/
 published_time: 2021-09-29 16:43:47-04:00
-title: President Biden Appoints Members to the American Battle Monuments Commission
+title: "President\_Biden Appoints Members to the American Battle Monuments\_Commission"
 ---
  
 WASHINGTON – Today, President Biden appointed 11 members to the American

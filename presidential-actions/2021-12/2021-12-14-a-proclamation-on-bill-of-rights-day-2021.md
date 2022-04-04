@@ -4,7 +4,7 @@ date: '2021-12-14'
 modified_time: 2021-12-14 11:23:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/14/a-proclamation-on-bill-of-rights-day-2021/
 published_time: 2021-12-14 11:23:16-05:00
-title: A Proclamation on Bill of Rights Day, 2021
+title: "A Proclamation on Bill of Rights Day,\_2021"
 ---
  
 More than two centuries ago, our Founders drafted the Constitution in

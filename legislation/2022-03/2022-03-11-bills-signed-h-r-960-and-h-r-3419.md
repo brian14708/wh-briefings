@@ -4,7 +4,7 @@ date: '2022-03-11'
 modified_time: 2022-03-15 10:04:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/03/11/bills-signed-h-r-960-and-h-r-3419/
 published_time: 2022-03-11 11:53:29-05:00
-title: 'Bills Signed: H.R. 960 and H.R. 3419'
+title: "Bills Signed: H.R. 960 and H.R.\_3419"
 ---
  
 H.R. 960, which designates the facility of the United States Postal

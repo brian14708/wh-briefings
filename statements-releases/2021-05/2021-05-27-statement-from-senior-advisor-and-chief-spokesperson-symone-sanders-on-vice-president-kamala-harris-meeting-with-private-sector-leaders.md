@@ -4,8 +4,8 @@ date: '2021-05-27'
 modified_time: 2022-01-04 16:25:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harris-meeting-with-private-sector-leaders/
 published_time: 2021-05-27 18:37:00-04:00
-title: Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice
-  President Kamala Harris Meeting With Private Sector Leaders
+title: "Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
+  \ President Kamala\_Harris Meeting With Private Sector\_Leaders"
 ---
  
 Today, Vice President Kamala Harris met with the leaders of a dozen

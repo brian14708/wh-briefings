@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-09-30'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-arts-and-humanities-month-2021/
 published_time: 2021-09-30 11:26:15-04:00
-title: A Proclamation on National Arts and Humanities Month, 2021
+title: "A Proclamation on National Arts and Humanities Month,\_2021"
 ---
  
 As our Nation continues to grapple with consequential crises — from

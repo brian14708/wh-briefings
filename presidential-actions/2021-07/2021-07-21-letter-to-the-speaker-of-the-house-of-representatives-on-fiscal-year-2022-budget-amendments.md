@@ -4,8 +4,8 @@ date: '2021-07-21'
 modified_time: 2021-07-21 13:57:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/21/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2022-budget-amendments/
 published_time: 2021-07-21 13:57:13-04:00
-title: Letter to the Speaker of the House of Representatives on Fiscal Year 2022 Budget
-  Amendments
+title: "Letter to the Speaker of the House of Representatives on Fiscal Year 2022\
+  \ Budget\_Amendments"
 ---
  
 Dear Madam Speaker:

@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 11:05:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
 published_time: 2021-10-29 11:05:08-04:00
-title: Notice on the Continuation of the National Emergency With Respect to Sudan
+title: "Notice on the Continuation of the National Emergency With Respect to\_Sudan"
 ---
  
 On November 3, 1997, by Executive Order 13067, the President declared a

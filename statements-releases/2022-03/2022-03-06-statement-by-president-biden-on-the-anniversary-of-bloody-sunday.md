@@ -4,7 +4,7 @@ date: '2022-03-06'
 modified_time: 2022-03-06 09:18:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/06/statement-by-president-biden-on-the-anniversary-of-bloody-sunday/
 published_time: 2022-03-06 10:00:00-05:00
-title: Statement by President Biden on the Anniversary of Bloody Sunday
+title: "Statement by President\_Biden on the Anniversary of Bloody\_Sunday"
 ---
  
 On Sunday, March 7, 1965, time stopped and blood spilled as brave and

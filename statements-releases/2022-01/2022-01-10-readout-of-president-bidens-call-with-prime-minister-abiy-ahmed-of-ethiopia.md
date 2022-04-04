@@ -3,7 +3,8 @@ category: statements-releases
 date: '2022-01-10'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/readout-of-president-bidens-call-with-prime-minister-abiy-ahmed-of-ethiopia/
 published_time: 2022-01-10 12:16:10-05:00
-title: "Readout of President Biden\u2019s Call with Prime Minister Abiy Ahmed of Ethiopia"
+title: "Readout of President\_Biden\u2019s Call with Prime Minister Abiy Ahmed of\_\
+  Ethiopia"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Prime Minister Abiy

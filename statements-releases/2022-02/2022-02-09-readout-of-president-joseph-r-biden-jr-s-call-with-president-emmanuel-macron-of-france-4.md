@@ -4,7 +4,7 @@ date: '2022-02-09'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/readout-of-president-joseph-r-biden-jr-s-call-with-president-emmanuel-macron-of-france-4/
 published_time: 2022-02-09 15:16:28-05:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with President Emmanuel\
-  \ Macron of France"
+  \ Macron of\_France"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Emmanuel

@@ -4,7 +4,7 @@ date: '2021-01-20'
 modified_time: 2021-01-20 22:45:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/regulatory-freeze-pending-review/
 published_time: 2021-01-20 18:01:00-05:00
-title: Regulatory Freeze Pending Review
+title: "Regulatory Freeze Pending\_Review"
 ---
  
 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES

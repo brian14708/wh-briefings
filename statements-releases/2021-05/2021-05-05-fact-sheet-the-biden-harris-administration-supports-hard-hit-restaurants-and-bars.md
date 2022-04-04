@@ -4,8 +4,8 @@ date: '2021-05-05'
 modified_time: 2021-05-05 10:46:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/05/fact-sheet-the-biden-harris-administration-supports-hard-hit-restaurants-and-bars/
 published_time: 2021-05-05 11:15:00-04:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration Supports Hard-hit Restaurants\
-  \ and Bars"
+title: "FACT SHEET: The Biden-\u2060Harris Administration Supports Hard-hit Restaurants\
+  \ and\_Bars"
 ---
  
 Restaurants, bars, and other small businesses offering on-site food and

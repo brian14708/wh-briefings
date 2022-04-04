@@ -4,8 +4,8 @@ date: '2021-11-08'
 modified_time: 2021-11-07 20:01:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/fact-sheet-the-bipartisan-infrastructure-deal-boosts-clean-energy-jobs-strengthens-resilience-and-advances-environmental-justice/
 published_time: 2021-11-08 09:30:00-05:00
-title: 'FACT SHEET: The Bipartisan Infrastructure Deal Boosts Clean Energy Jobs, Strengthens
-  Resilience, and Advances Environmental Justice'
+title: "FACT SHEET: The Bipartisan Infrastructure Deal Boosts Clean Energy Jobs, Strengthens\
+  \ Resilience, and Advances Environmental\_Justice"
 ---
  
 President Biden has made combatting the climate crisis a central

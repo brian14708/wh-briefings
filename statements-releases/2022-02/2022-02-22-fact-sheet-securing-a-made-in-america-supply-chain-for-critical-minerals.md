@@ -4,7 +4,7 @@ date: '2022-02-22'
 modified_time: 2022-02-22 12:09:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/
 published_time: 2022-02-22 05:00:00-05:00
-title: 'FACT SHEET: Securing a Made in America Supply Chain for Critical Minerals'
+title: "FACT SHEET: Securing a Made in America Supply Chain for Critical\_Minerals"
 ---
  
 *Biden-Harris Administration, Companies Announce Major Investments to

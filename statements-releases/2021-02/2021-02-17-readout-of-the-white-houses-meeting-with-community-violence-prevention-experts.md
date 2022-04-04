@@ -4,8 +4,8 @@ date: '2021-02-17'
 modified_time: 2021-02-17 22:38:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/readout-of-the-white-houses-meeting-with-community-violence-prevention-experts/
 published_time: 2021-02-17 22:10:06-05:00
-title: "Readout of the White House\u2019s Meeting with Community Violence Prevention\
-  \ Experts"
+title: "Readout of the White\_House\u2019s Meeting with Community Violence Prevention\_\
+  Experts"
 ---
  
 Today, Domestic Policy Advisor Susan Rice and White House Deputy Public

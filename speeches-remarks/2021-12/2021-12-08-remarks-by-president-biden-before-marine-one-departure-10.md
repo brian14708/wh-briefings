@@ -4,7 +4,7 @@ date: '2021-12-08'
 modified_time: 2021-12-08 13:36:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/08/remarks-by-president-biden-before-marine-one-departure-10/
 published_time: 2021-12-08 13:36:29-05:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
  South Lawn

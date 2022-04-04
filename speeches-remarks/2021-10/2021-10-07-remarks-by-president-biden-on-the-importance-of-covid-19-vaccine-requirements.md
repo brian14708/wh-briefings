@@ -4,7 +4,8 @@ date: '2021-10-07'
 modified_time: 2021-10-07 19:44:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/07/remarks-by-president-biden-on-the-importance-of-covid-19-vaccine-requirements/
 published_time: 2021-10-07 19:44:17-04:00
-title: "Remarks by President Biden on the Importance of COVID- \u2060 19 Vaccine Requirements"
+title: "Remarks by President\_Biden on the Importance of COVID-\u206019 Vaccine\_\
+  Requirements"
 ---
  
 Data Center, Clayco Construction Site  

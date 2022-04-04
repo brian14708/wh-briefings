@@ -4,7 +4,7 @@ date: '2021-05-26'
 modified_time: 2021-05-26 13:09:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-passing-of-senator-john-warner/
 published_time: 2021-05-26 13:09:16-04:00
-title: "Statement by\_President Joe Biden on the Passing of Senator John Warner"
+title: "Statement by\_President Joe\_Biden on the Passing of Senator John\_Warner"
 ---
  
 From his enlistment in the Navy at age 17, to his service with the

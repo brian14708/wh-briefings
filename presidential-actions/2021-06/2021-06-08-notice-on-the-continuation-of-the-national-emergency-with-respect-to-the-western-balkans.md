@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2021-06-08'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-western-balkans/
 published_time: 2021-06-08 15:53:24-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Western
-  Balkans
+title: "Notice on the Continuation of the National Emergency with Respect to the Western\_\
+  Balkans"
 ---
  
 On June 26, 2001, by Executive Order 13219, the President declared a

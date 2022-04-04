@@ -5,7 +5,7 @@ modified_time: 2022-03-03 19:19:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-vice-president-harris-highlighting-the-administrations-historic-investments-in-our-workers/
 published_time: 2022-03-02 19:18:00-05:00
 title: "Remarks By Vice President Harris Highlighting The Administration\u2019s Historic\
-  \ Investments In Our Workers"
+  \ Investments In Our\_Workers"
 ---
  
 *Durham Technical Community College  

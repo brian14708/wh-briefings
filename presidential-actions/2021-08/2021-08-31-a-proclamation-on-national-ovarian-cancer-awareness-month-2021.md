@@ -4,7 +4,7 @@ date: '2021-08-31'
 modified_time: 2021-08-31 10:53:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-ovarian-cancer-awareness-month-2021/
 published_time: 2021-08-31 10:53:22-04:00
-title: A Proclamation on National Ovarian Cancer Awareness Month, 2021
+title: "A Proclamation on National Ovarian Cancer Awareness Month,\_2021"
 ---
  
 Every year, thousands of women in the United States are diagnosed with

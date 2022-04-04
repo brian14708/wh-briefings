@@ -4,8 +4,8 @@ date: '2021-09-15'
 modified_time: 2021-09-15 13:11:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/fact-sheet-biden-harris-administration-whole-of-government-effort-to-ensure-child-tax-credit-reaches-all-eligible-families/
 published_time: 2021-09-15 13:11:18-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Whole-of-Government Effort\
-  \ to Ensure Child Tax Credit Reaches All Eligible Families"
+title: "FACT SHEET: Biden-\u2060Harris Administration Whole-of-Government Effort to\
+  \ Ensure Child Tax Credit Reaches All Eligible\_Families"
 ---
  
 The Child Tax Credit (CTC) is one of the most important tax cuts for

@@ -4,8 +4,8 @@ date: '2021-08-05'
 modified_time: 2021-08-05 18:02:42-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/readout-of-the-first-interagency-task-force-meeting-on-property-appraisal-and-valuation-equity-pave/
 published_time: 2021-08-05 18:02:41-04:00
-title: Readout of the First Interagency Task Force Meeting on Property Appraisal and
-  Valuation Equity (PAVE)
+title: "Readout of the First Interagency Task Force Meeting on Property Appraisal\
+  \ and Valuation Equity\_(PAVE)"
 ---
  
 *Biden-Harris Administration Launches first-of-its-kind interagency

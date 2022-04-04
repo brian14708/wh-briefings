@@ -5,7 +5,7 @@ modified_time: 2021-05-09 10:36:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/05/09/how-the-american-rescue-plan-the-american-jobs-plan-and-the-american-families-plan-meet-the-moment-for-moms-this-mothers-day/
 published_time: 2021-05-09 10:30:00-04:00
 title: "How the American Rescue Plan, the American Jobs Plan, and the American Families\
-  \ Plan Meet the Moment for Moms this Mother\u2019s Day"
+  \ Plan Meet the Moment for Moms this Mother\u2019s\_Day"
 ---
  
 *By: The White House Gender Policy Council*

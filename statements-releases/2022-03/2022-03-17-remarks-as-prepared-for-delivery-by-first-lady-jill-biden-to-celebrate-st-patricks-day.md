@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-17'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-celebrate-st-patricks-day/
 published_time: 2022-03-17 19:13:54-04:00
-title: "Remarks as Prepared for Delivery by First Lady Jill Biden to Celebrate St.\
-  \ Patrick\u2019s Day"
+title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden to Celebrate St.\
+  \ Patrick\u2019s\_Day"
 ---
  
 The White House

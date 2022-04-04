@@ -4,7 +4,7 @@ date: '2021-11-17'
 modified_time: 2021-11-17 19:44:34-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/17/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-2/
 published_time: 2021-11-17 20:15:00-05:00
-title: Remarks by President Biden on the Bipartisan Infrastructure Law
+title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Law"
 ---
  
 General Motors’ Factory ZERO  

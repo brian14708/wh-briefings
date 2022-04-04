@@ -4,8 +4,8 @@ date: '2021-04-12'
 modified_time: 2021-04-12 16:41:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/12/remarks-by-president-biden-at-a-virtual-ceo-summit-on-semiconductor-and-supply-chain-resilience/
 published_time: 2021-04-12 17:00:00-04:00
-title: Remarks by President Biden at a Virtual CEO Summit on Semiconductor and Supply
-  Chain Resilience
+title: "Remarks by President\_Biden at a Virtual CEO Summit on Semiconductor and Supply\
+  \ Chain\_Resilience"
 ---
  
 Roosevelt Room

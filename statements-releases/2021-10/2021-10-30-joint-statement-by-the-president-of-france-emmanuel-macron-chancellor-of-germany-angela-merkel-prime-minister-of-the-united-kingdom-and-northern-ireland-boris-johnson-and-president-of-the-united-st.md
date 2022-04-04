@@ -4,9 +4,9 @@ date: '2021-10-30'
 modified_time: 2021-10-30 11:23:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/joint-statement-by-the-president-of-france-emmanuel-macron-chancellor-of-germany-angela-merkel-prime-minister-of-the-united-kingdom-and-northern-ireland-boris-johnson-and-president-of-the-united-st/
 published_time: 2021-10-30 11:23:30-04:00
-title: Joint Statement by the President of France Emmanuel Macron, Chancellor of Germany
-  Angela Merkel, Prime Minister of the United Kingdom and Northern Ireland Boris Johnson,
-  and President of the United States Joseph R. Biden, Jr. on Iran
+title: "Joint Statement by the President of France Emmanuel Macron, Chancellor of\
+  \ Germany Angela Merkel, Prime Minister of the United Kingdom and Northern Ireland\
+  \ Boris Johnson, and President of the United\_States Joseph R. Biden, Jr. on\_Iran"
 ---
  
 We, the President of France, Chancellor of Germany, Prime Minister of

@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-04'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/statement-by-president-biden-congratulating-prime-minister-kishida-of-japan/
 published_time: 2021-10-04 08:04:49-04:00
-title: Statement by President Biden Congratulating Prime Minister Kishida of Japan
+title: "Statement by President\_Biden Congratulating Prime Minister Kishida of\_Japan"
 ---
  
 I send my congratulations to Kishida Fumio on his election by the Diet

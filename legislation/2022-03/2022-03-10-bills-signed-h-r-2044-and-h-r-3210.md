@@ -4,7 +4,7 @@ date: '2022-03-10'
 modified_time: 2022-03-15 10:05:04-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/03/10/bills-signed-h-r-2044-and-h-r-3210/
 published_time: 2022-03-10 12:13:42-05:00
-title: 'Bills Signed: H.R. 2044 and H.R. 3210'
+title: "Bills Signed: H.R. 2044 and H.R.\_3210"
 ---
  
 H.R. 2044, which designates the facility of the United States Postal

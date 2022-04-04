@@ -4,8 +4,8 @@ date: '2021-02-05'
 modified_time: 2021-02-05 15:12:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/05/remarks-by-president-biden-on-the-state-of-the-economy-and-the-need-for-the-american-rescue-plan/
 published_time: 2021-02-05 15:35:00-05:00
-title: Remarks by President Biden on the State of the Economy and the Need for the
-  American Rescue Plan
+title: "Remarks by President\_Biden on the State of the Economy and the Need for the\
+  \ American Rescue\_Plan"
 ---
  
 State Dining Room

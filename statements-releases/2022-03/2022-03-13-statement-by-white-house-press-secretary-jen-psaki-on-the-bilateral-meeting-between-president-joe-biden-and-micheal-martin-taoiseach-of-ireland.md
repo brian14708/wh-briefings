@@ -4,8 +4,8 @@ date: '2022-03-13'
 modified_time: 2022-03-13 18:13:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joe-biden-and-micheal-martin-taoiseach-of-ireland/
 published_time: 2022-03-13 18:30:00-04:00
-title: "Statement by White House Press Secretary Jen Psaki on the Bilateral Meeting\
-  \ between President Joe Biden and Miche\xE1l Martin, Taoiseach of Ireland"
+title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Meeting\
+  \ between President Joe\_Biden and Miche\xE1l Martin, Taoiseach of\_Ireland"
 ---
  
 On March 17, President Joe Biden will host Micheál Martin, Taoiseach of

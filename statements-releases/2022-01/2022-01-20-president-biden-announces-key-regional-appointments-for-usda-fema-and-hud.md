@@ -4,7 +4,8 @@ date: '2022-01-20'
 modified_time: 2022-01-20 09:59:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/president-biden-announces-key-regional-appointments-for-usda-fema-and-hud/
 published_time: 2022-01-20 16:00:00-05:00
-title: President Biden Announces Key Regional Appointments for USDA, FEMA, and HUD
+title: "President\_Biden Announces Key Regional Appointments for USDA, FEMA, and\_\
+  HUD"
 ---
  
 WASHINGTON – Today, President Joe Biden appointed the following

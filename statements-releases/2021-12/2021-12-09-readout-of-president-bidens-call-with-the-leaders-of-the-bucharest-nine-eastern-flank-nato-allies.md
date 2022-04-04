@@ -4,8 +4,8 @@ date: '2021-12-09'
 modified_time: 2021-12-09 18:01:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/readout-of-president-bidens-call-with-the-leaders-of-the-bucharest-nine-eastern-flank-nato-allies/
 published_time: 2021-12-09 18:01:50-05:00
-title: "Readout of President Biden\u2019s Call with the Leaders of The Bucharest Nine\
-  \ Eastern Flank NATO Allies"
+title: "Readout of President\_Biden\u2019s Call with the Leaders of The Bucharest\
+  \ Nine Eastern Flank NATO\_Allies"
 ---
  
 President Joseph R. Biden, Jr. spoke today with the Bucharest Nine (B9)

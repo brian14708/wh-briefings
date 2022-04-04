@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-11-19'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-of-president-joe-biden-on-the-anniversary-of-guru-nanak-dev-jis-birth/
 published_time: 2021-11-19 14:56:08-05:00
-title: "Statement of President Joe Biden on the Anniversary of Guru Nanak Dev Ji\u2019\
-  s Birth"
+title: "Statement of President Joe\_Biden on the Anniversary of Guru Nanak Dev Ji\u2019\
+  s\_Birth"
 ---
  
 Jill and I extend our warmest wishes to the Sikh community on the 552nd

@@ -4,7 +4,7 @@ date: '2022-01-25'
 modified_time: 2022-01-25 18:27:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-the-america-competes-act-of-2022/
 published_time: 2022-01-25 18:27:07-05:00
-title: Statement by President Biden on the America COMPETES Act of 2022
+title: "Statement by President\_Biden on the America COMPETES Act of\_2022"
 ---
  
 The House took an important step forward today in advancing legislation

@@ -4,8 +4,8 @@ date: '2021-06-01'
 modified_time: 2021-05-31 22:05:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/
 published_time: 2021-06-01 05:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces New Actions to Build\
-  \ Black Wealth and Narrow the Racial Wealth Gap"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Build\
+  \ Black Wealth and Narrow the Racial Wealth\_Gap"
 ---
  
 One hundred years ago, the thriving Black community of Greenwood in

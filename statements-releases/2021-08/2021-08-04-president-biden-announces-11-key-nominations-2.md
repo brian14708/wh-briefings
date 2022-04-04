@@ -4,7 +4,7 @@ date: '2021-08-04'
 modified_time: 2021-08-04 16:55:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/president-biden-announces-11-key-nominations-2/
 published_time: 2021-08-04 16:55:51-04:00
-title: President Biden Announces 11 Key Nominations
+title: "President\_Biden Announces 11 Key\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

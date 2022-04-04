@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-02-23'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/23/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-in-joint-press-statements/
 published_time: 2021-02-23 19:42:49-05:00
-title: Remarks by President Biden and Prime Minister Trudeau of Canada in Joint Press
-  Statements
+title: "Remarks by President\_Biden and Prime Minister Trudeau of Canada in Joint\
+  \ Press\_Statements"
 ---
  
 East Room

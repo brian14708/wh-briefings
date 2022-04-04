@@ -4,7 +4,7 @@ date: '2021-04-30'
 modified_time: 2021-04-30 16:45:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-loyalty-day-2021/
 published_time: 2021-04-30 16:45:29-04:00
-title: A Proclamation on Loyalty Day, 2021
+title: "A Proclamation on Loyalty Day,\_2021"
 ---
  
 On Loyalty Day, we celebrate our allegiance to the project of this great

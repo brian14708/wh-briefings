@@ -4,7 +4,7 @@ date: '2021-04-22'
 modified_time: 2022-02-23 17:51:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/
 published_time: 2021-04-22 15:00:00-04:00
-title: 'FACT SHEET: Biden Administration Advances Electric Vehicle Charging Infrastructure'
+title: "FACT SHEET: Biden Administration Advances Electric Vehicle Charging\_Infrastructure"
 ---
  
 *Department of Transportation, Department of Energy, and General

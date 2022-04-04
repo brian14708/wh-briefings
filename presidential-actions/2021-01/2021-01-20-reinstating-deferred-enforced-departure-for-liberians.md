@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-01-20'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/reinstating-deferred-enforced-departure-for-liberians/
 published_time: 2021-01-20 22:42:15-05:00
-title: Reinstating Deferred Enforced Departure for Liberians
+title: "Reinstating Deferred Enforced Departure for\_Liberians"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF HOMELAND SECURITY

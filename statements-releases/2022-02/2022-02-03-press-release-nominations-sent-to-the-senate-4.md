@@ -4,7 +4,7 @@ date: '2022-02-03'
 modified_time: 2022-02-03 14:06:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/press-release-nominations-sent-to-the-senate-4/
 published_time: 2022-02-03 14:05:39-05:00
-title: 'Press Release: Nominations Sent to the Senate'
+title: "Press Release: Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

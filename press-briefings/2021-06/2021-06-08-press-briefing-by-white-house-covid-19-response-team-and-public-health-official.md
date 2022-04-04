@@ -4,8 +4,8 @@ date: '2021-06-08'
 modified_time: 2021-06-08 12:59:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/08/press-briefing-by-white-house-covid-19-response-team-and-public-health-official/
 published_time: 2021-06-08 12:59:25-04:00
-title: "Press Briefing by White House COVID- \u2060 19 Response Team and Public Health\
-  \ Official"
+title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
+  Official"
 ---
  
 Via Teleconference 

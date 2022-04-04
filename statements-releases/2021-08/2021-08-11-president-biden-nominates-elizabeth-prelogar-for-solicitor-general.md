@@ -4,7 +4,7 @@ date: '2021-08-11'
 modified_time: 2021-08-10 22:26:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/president-biden-nominates-elizabeth-prelogar-for-solicitor-general/
 published_time: 2021-08-11 06:00:00-04:00
-title: President Biden Nominates Elizabeth Prelogar for Solicitor General
+title: "President\_Biden Nominates Elizabeth Prelogar for Solicitor\_General"
 ---
  
 WASHINGTON – Today, President Joe Biden announced he has

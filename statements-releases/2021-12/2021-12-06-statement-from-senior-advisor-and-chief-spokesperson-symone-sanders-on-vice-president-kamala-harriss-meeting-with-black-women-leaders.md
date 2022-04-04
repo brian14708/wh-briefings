@@ -5,7 +5,7 @@ modified_time: 2021-12-06 19:50:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-black-women-leaders/
 published_time: 2021-12-06 19:49:54-05:00
 title: "Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Meeting With Black Women Leaders"
+  \ President Kamala\_Harris\u2019s Meeting With Black Women\_Leaders"
 ---
  
 Today, Vice President Kamala Harris convened a follow-up meeting with

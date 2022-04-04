@@ -4,7 +4,7 @@ date: '2021-08-05'
 modified_time: 2021-08-05 09:06:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/memorandum-on-the-deferred-enforced-departure-for-certain-hong-kong-residents/
 published_time: 2021-08-05 09:06:35-04:00
-title: Memorandum on the Deferred Enforced Departure for Certain Hong Kong Residents
+title: "Memorandum on the Deferred Enforced Departure for Certain Hong Kong\_Residents"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF HOMELAND

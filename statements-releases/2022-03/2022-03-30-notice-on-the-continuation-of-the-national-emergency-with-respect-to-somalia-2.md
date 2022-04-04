@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-30'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/notice-on-the-continuation-of-the-national-emergency-with-respect-to-somalia-2/
 published_time: 2022-03-30 20:09:37-04:00
-title: Notice on the Continuation of the National Emergency With Respect to Somalia
+title: "Notice on the Continuation of the National Emergency With Respect to\_Somalia"
 ---
  
 On April 12, 2010, by Executive Order 13536, the President declared a

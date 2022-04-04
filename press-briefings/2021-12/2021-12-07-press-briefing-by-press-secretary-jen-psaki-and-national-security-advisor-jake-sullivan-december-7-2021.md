@@ -4,8 +4,8 @@ date: '2021-12-07'
 modified_time: 2021-12-07 18:31:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/07/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-december-7-2021/
 published_time: 2021-12-07 18:45:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki and National Security Advisor Jake
-  Sullivan, December 7, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
+  \ Jake Sullivan, December 7,\_2021"
 ---
  
 James S. Brady Press Briefing Room

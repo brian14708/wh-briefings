@@ -4,8 +4,8 @@ date: '2021-05-21'
 modified_time: 2021-05-21 18:40:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/21/remarks-by-president-biden-and-president-moon-jae-in-of-the-republic-of-korea-before-bilateral-meeting/
 published_time: 2021-05-21 19:00:00-04:00
-title: Remarks by President Biden and President Moon Jae-in of the Republic of Korea
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and President Moon Jae-in of the Republic of Korea\
+  \ Before Bilateral\_Meeting"
 ---
  
 State Dining Room

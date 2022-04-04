@@ -4,8 +4,8 @@ date: '2022-03-26'
 modified_time: 2022-03-26 15:47:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/26/readout-of-president-biden-call-with-opposition-leader-svyatlana-tsikhanouskaya-of-belarus/
 published_time: 2022-03-26 15:47:47-04:00
-title: Readout of President Biden Call with Opposition Leader Svyatlana Tsikhanouskaya
-  of Belarus
+title: "Readout of President\_Biden Call with Opposition Leader Svyatlana Tsikhanouskaya\
+  \ of\_Belarus"
 ---
  
 President Joseph R. Biden, Jr., spoke with democratic opposition leader

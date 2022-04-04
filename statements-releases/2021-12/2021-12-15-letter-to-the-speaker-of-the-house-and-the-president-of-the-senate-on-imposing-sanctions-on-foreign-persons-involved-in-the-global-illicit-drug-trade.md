@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-15 14:08:22-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/
 published_time: 2021-12-15 14:08:21-05:00
-title: Letter to the Speaker of the House and the President of the Senate on Imposing
-  Sanctions on Foreign Persons Involved in the Global Illicit Drug Trade
+title: "Letter to the Speaker of the House and the President of the Senate on Imposing\
+  \ Sanctions on Foreign Persons Involved in the Global Illicit Drug\_Trade"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

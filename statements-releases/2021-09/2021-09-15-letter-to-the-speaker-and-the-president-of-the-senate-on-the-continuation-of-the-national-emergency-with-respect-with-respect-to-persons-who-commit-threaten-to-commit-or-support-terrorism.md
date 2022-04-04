@@ -4,9 +4,9 @@ date: '2021-09-15'
 modified_time: 2021-09-15 16:18:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/letter-to-the-speaker-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism/
 published_time: 2021-09-15 16:18:34-04:00
-title: Letter to the Speaker and the President of the Senate on the Continuation of
-  the National Emergency with Respect with Respect to Persons Who Commit, Threaten
-  to Commit, or Support Terrorism
+title: "Letter to the Speaker and the President of the Senate on the Continuation\
+  \ of the National Emergency with Respect with Respect to Persons Who Commit, Threaten\
+  \ to Commit, or Support\_Terrorism"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

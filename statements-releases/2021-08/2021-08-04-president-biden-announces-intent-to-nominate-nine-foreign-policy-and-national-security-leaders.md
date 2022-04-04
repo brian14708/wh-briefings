@@ -4,8 +4,8 @@ date: '2021-08-04'
 modified_time: 2021-08-04 16:52:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/president-biden-announces-intent-to-nominate-nine-foreign-policy-and-national-security-leaders/
 published_time: 2021-08-04 16:52:03-04:00
-title: President Biden Announces Intent to Nominate Nine Foreign Policy and National
-  Security Leaders
+title: "President\_Biden Announces Intent to Nominate Nine Foreign Policy and National\
+  \ Security\_Leaders"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

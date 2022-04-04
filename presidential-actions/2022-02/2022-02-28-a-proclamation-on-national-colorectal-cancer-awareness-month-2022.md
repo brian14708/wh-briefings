@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 13:10:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/28/a-proclamation-on-national-colorectal-cancer-awareness-month-2022/
 published_time: 2022-02-28 13:08:07-05:00
-title: A Proclamation on National Colorectal Cancer Awareness Month, 2022
+title: "A Proclamation on National Colorectal Cancer Awareness Month,\_2022"
 ---
  
  Cancer is personal to nearly every family, including my own.  Each

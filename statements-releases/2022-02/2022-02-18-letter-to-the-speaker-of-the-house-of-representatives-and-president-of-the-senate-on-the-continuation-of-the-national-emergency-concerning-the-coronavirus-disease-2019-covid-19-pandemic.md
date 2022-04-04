@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/
 published_time: 2022-02-18 17:06:53-05:00
 title: "Letter to the Speaker of the House of Representatives and President of the\
   \ Senate on the Continuation of the National Emergency Concerning the Coronavirus\
-  \ Disease 2019 (COVID- \u2060 19) Pandemic"
+  \ Disease 2019 (COVID-\u206019)\_Pandemic"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

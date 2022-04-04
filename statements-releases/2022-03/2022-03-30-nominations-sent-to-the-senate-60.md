@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-30'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/nominations-sent-to-the-senate-60/
 published_time: 2022-03-30 16:50:38-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
      Candace A. Bond, of Missouri, to be Ambassador Extraordinary and

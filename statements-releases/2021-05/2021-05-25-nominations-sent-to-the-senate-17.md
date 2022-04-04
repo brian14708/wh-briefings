@@ -4,7 +4,7 @@ date: '2021-05-25'
 modified_time: 2021-05-25 16:24:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/nominations-sent-to-the-senate-17/
 published_time: 2021-05-25 16:24:09-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:  

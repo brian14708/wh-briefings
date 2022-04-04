@@ -4,7 +4,7 @@ date: '2021-11-24'
 modified_time: 2021-11-24 13:16:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-the-president-on-remembering-holodomor/
 published_time: 2021-11-24 13:16:06-05:00
-title: Statement by the President on Remembering Holodomor
+title: "Statement by the President on Remembering\_Holodomor"
 ---
  
 Each November we solemnly honor and pay tribute to the millions of

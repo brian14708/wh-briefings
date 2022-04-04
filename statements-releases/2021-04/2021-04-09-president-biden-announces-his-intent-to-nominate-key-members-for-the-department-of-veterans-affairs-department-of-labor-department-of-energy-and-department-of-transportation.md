@@ -4,9 +4,9 @@ date: '2021-04-09'
 modified_time: 2021-04-09 14:45:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-veterans-affairs-department-of-labor-department-of-energy-and-department-of-transportation/
 published_time: 2021-04-09 14:45:06-04:00
-title: President Biden Announces his Intent to Nominate Key Members for the Department
-  of Veterans Affairs, Department of Labor, Department of Energy, and Department of
-  Transportation
+title: "President\_Biden Announces his Intent to Nominate Key Members for the Department\
+  \ of Veterans Affairs, Department of Labor, Department of Energy, and Department\
+  \ of\_Transportation"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

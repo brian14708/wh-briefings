@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/
 published_time: 2021-12-20 13:04:06-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Yuriy Ushakov, Foreign Policy Advisor to the President\
-  \ of Russia"
+  \ of\_Russia"
 ---
  
 Today, Jake Sullivan spoke with Yuriy Ushakov, Foreign Policy Advisor to

@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-15 17:16:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/president-biden-announces-key-nominees-and-an-appointee-to-board-and-commission-roles/
 published_time: 2021-12-15 16:15:00-05:00
-title: President Biden Announces Key Nominees and an Appointee to Board and Commission
-  Roles
+title: "President\_Biden Announces Key Nominees and an Appointee to Board and Commission\_\
+  Roles"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

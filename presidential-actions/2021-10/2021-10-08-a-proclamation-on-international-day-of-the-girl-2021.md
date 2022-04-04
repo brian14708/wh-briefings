@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 10:40:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-international-day-of-the-girl-2021/
 published_time: 2021-10-08 10:40:56-04:00
-title: A Proclamation on International Day of the Girl, 2021
+title: "A Proclamation on International Day of the Girl,\_2021"
 ---
  
 The growth and development of the world’s economies, institutions, and

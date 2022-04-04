@@ -4,7 +4,7 @@ date: '2022-03-29'
 modified_time: 2022-03-29 12:48:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-joseph-r-biden-jr-approves-washington-disaster-declaration-4/
 published_time: 2022-03-29 12:48:08-04:00
-title: President Joseph R. Biden, Jr. Approves Washington Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Washington Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

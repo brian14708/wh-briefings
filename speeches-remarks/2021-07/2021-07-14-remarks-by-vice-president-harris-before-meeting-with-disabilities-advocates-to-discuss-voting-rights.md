@@ -4,8 +4,8 @@ date: '2021-07-14'
 modified_time: 2021-07-14 16:32:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/14/remarks-by-vice-president-harris-before-meeting-with-disabilities-advocates-to-discuss-voting-rights/
 published_time: 2021-07-14 16:32:27-04:00
-title: Remarks by Vice President Harris Before Meeting with Disabilities Advocates
-  to Discuss Voting Rights
+title: "Remarks by Vice President Harris Before Meeting with Disabilities Advocates\
+  \ to Discuss Voting\_Rights"
 ---
  
 Vice President’s Ceremonial Office

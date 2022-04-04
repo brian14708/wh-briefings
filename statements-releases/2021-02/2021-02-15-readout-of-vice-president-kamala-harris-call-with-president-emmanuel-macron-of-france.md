@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-02-15'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/15/readout-of-vice-president-kamala-harris-call-with-president-emmanuel-macron-of-france/
 published_time: 2021-02-15 19:23:31-05:00
-title: Readout of Vice President Kamala Harris Call with President Emmanuel Macron
-  of France
+title: "Readout of Vice President Kamala\_Harris Call with President Emmanuel Macron\
+  \ of\_France"
 ---
  
   

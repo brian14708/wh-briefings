@@ -4,8 +4,8 @@ date: '2021-07-26'
 modified_time: 2021-07-26 14:43:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/26/remarks-by-president-biden-celebrating-the-31st-anniversary-of-the-americans-with-disabilities-act/
 published_time: 2021-07-26 15:00:00-04:00
-title: Remarks by President Biden Celebrating the 31st Anniversary of the Americans
-  with Disabilities Act
+title: "Remarks by President\_Biden Celebrating the 31st Anniversary of the Americans\
+  \ with Disabilities\_Act"
 ---
  
 Rose Garden

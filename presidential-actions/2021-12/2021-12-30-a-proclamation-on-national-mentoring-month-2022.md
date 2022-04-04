@@ -4,7 +4,7 @@ date: '2021-12-30'
 modified_time: 2021-12-30 15:32:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/30/a-proclamation-on-national-mentoring-month-2022/
 published_time: 2021-12-30 15:32:34-05:00
-title: A Proclamation on National Mentoring Month, 2022
+title: "A Proclamation on National Mentoring Month,\_2022"
 ---
  
 I often say that America can be defined in one word — possibilities.  No

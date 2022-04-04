@@ -5,7 +5,7 @@ modified_time: 2021-09-15 17:52:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/15/remarks-by-vice-president-harris-on-the-administrations-proposed-investments-in-childcare/
 published_time: 2021-09-15 17:52:11-04:00
 title: "Remarks by Vice President Harris on the Administration\u2019s Proposed Investments\
-  \ in Childcare"
+  \ in\_Childcare"
 ---
  
 Treasury Department  

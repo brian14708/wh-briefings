@@ -5,7 +5,7 @@ modified_time: 2021-10-13 18:49:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-senior-minister-tharman-shanmugaratnam-of-singapore/
 published_time: 2021-10-13 18:49:04-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with Senior Minister Tharman Shanmugaratnam of Singapore"
+  \ Sullivan\u2019s Meeting with Senior Minister Tharman Shanmugaratnam of\_Singapore"
 ---
  
 National Security Advisor Jake Sullivan met with Senior Minister Tharman

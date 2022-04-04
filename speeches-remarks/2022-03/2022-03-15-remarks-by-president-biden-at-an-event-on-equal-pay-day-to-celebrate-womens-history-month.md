@@ -4,8 +4,8 @@ date: '2022-03-15'
 modified_time: 2022-03-15 20:48:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/15/remarks-by-president-biden-at-an-event-on-equal-pay-day-to-celebrate-womens-history-month/
 published_time: 2022-03-15 20:48:56-04:00
-title: "Remarks by President Biden at an Event on Equal Pay Day to Celebrate Women\u2019\
-  s History Month"
+title: "Remarks by President\_Biden at an Event on Equal Pay Day to Celebrate Women\u2019\
+  s History\_Month"
 ---
  
 6:01 P.M. EDT  

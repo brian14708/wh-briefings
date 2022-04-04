@@ -5,7 +5,7 @@ modified_time: 2021-08-14 15:51:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joseph-r-biden-jr-celebrating-the-republic-of-indias-independence-day/
 published_time: 2021-08-14 16:45:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. Celebrating the Republic of India\u2019\
-  s Independence Day"
+  s Independence\_Day"
 ---
  
 On this day, August 15, 1947, India achieved its long journey toward

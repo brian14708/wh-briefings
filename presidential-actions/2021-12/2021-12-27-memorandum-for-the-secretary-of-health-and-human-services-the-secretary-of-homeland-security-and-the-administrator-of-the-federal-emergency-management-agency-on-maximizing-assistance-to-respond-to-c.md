@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12
 published_time: 2021-12-27 15:22:19-05:00
 title: "Memorandum for the Secretary of Health and Human Services, the Secretary of\
   \ Homeland Security, and the Administrator of the Federal Emergency Management Agency\
-  \ on Maximizing Assistance to Respond to COVID- \u2060 19"
+  \ on Maximizing Assistance to Respond to\_COVID-\u206019"
 ---
  
 By the authority vested in me as President by the Constitution and the

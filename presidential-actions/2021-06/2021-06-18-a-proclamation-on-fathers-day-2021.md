@@ -4,7 +4,7 @@ date: '2021-06-18'
 modified_time: 2021-06-18 13:26:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/18/a-proclamation-on-fathers-day-2021/
 published_time: 2021-06-18 13:26:22-04:00
-title: "A Proclamation on Father\u2019s Day, 2021"
+title: "A Proclamation on Father\u2019s Day,\_2021"
 ---
  
 Like so many fathers, my dad was a man of decency, honor, generosity,

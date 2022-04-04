@@ -4,7 +4,7 @@ date: '2021-04-23'
 modified_time: 2021-04-23 17:08:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/23/a-proclamation-on-world-intellectual-property-day-2021/
 published_time: 2021-04-23 17:08:07-04:00
-title: A Proclamation on World Intellectual Property Day, 2021
+title: "A Proclamation on World Intellectual Property Day,\_2021"
 ---
  
      This year, on World Intellectual Property Day, we celebrate the

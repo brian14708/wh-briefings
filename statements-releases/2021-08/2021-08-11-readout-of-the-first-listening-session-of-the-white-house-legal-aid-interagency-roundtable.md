@@ -4,8 +4,8 @@ date: '2021-08-11'
 modified_time: 2021-08-13 10:18:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-first-listening-session-of-the-white-house-legal-aid-interagency-roundtable/
 published_time: 2021-08-11 16:47:58-04:00
-title: Readout of the First Listening Session of the White House Legal Aid Interagency
-  Roundtable
+title: "Readout of the First Listening Session of the White\_House Legal Aid Interagency\_\
+  Roundtable"
 ---
  
 Today, Second Gentleman Douglas Emhoff, White House Counsel Dana Remus,

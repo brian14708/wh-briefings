@@ -4,8 +4,8 @@ date: '2021-12-20'
 modified_time: 2021-12-20 08:32:40-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/fact-sheet-biden-harris-administration-celebrates-expansion-of-locally-led-conservation-efforts-in-first-year-of-america-the-beautiful-initiative/
 published_time: 2021-12-20 09:00:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Celebrates Expansion of Locally-Led\
-  \ Conservation Efforts in First Year of \u201CAmerica the Beautiful\u201D Initiative"
+title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Expansion of Locally-Led\
+  \ Conservation Efforts in First Year of \u201CAmerica the Beautiful\u201D\_Initiative"
 ---
  
 *Progress Report Highlights Land and Water Projects Underway as U.S.

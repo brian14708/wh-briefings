@@ -4,8 +4,8 @@ date: '2021-12-02'
 modified_time: 2021-12-02 20:52:36-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/statement-by-nsc-spokesperson-emily-horne-on-u-s-support-for-the-third-annual-prague-5g-security-conference/
 published_time: 2021-12-02 20:52:34-05:00
-title: Statement by NSC Spokesperson Emily Horne on U.S. Support for the Third Annual
-  Prague 5G Security Conference
+title: "Statement by NSC Spokesperson Emily Horne on U.S. Support for the Third Annual\
+  \ Prague 5G Security\_Conference"
 ---
  
 President Biden and the United States government view 5G security as a

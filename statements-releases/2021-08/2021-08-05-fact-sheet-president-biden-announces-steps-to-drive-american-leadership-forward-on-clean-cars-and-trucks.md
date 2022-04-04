@@ -4,8 +4,8 @@ date: '2021-08-05'
 modified_time: 2021-08-04 21:36:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/
 published_time: 2021-08-05 05:00:00-04:00
-title: 'FACT SHEET: President Biden Announces Steps to Drive American Leadership Forward
-  on Clean Cars and Trucks'
+title: "FACT SHEET: President\_Biden Announces Steps to Drive American Leadership\
+  \ Forward on Clean Cars and\_Trucks"
 ---
  
 *President Biden Outlines Target of 50% Electric Vehicle Sales Share in

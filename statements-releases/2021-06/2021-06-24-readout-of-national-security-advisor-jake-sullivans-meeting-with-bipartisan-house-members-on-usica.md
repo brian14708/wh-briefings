@@ -4,7 +4,7 @@ date: '2021-06-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/readout-of-national-security-advisor-jake-sullivans-meeting-with-bipartisan-house-members-on-usica/
 published_time: 2021-06-24 16:06:59-04:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Bipartisan\
-  \ House Members on USICA"
+  \ House Members on\_USICA"
 ---
  
 This morning, National Security Advisor Jake Sullivan met with a

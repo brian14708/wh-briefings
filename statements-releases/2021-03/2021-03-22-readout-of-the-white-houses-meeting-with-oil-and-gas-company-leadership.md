@@ -4,7 +4,7 @@ date: '2021-03-22'
 modified_time: 2021-03-22 17:08:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/readout-of-the-white-houses-meeting-with-oil-and-gas-company-leadership/
 published_time: 2021-03-22 17:20:00-04:00
-title: "Readout of the White House\u2019s Meeting with Oil and Gas Company Leadership"
+title: "Readout of the White\_House\u2019s Meeting with Oil and Gas Company\_Leadership"
 ---
  
 Today, National Climate Advisor Gina McCarthy convened a meeting with

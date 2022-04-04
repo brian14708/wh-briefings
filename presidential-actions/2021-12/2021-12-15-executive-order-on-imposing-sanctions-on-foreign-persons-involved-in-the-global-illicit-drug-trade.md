@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-15 14:03:40-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/
 published_time: 2021-12-15 14:03:39-05:00
-title: Executive Order on Imposing Sanctions on Foreign Persons Involved in the Global
-  Illicit Drug Trade
+title: "Executive Order on Imposing Sanctions on Foreign Persons Involved in the Global\
+  \ Illicit Drug\_Trade"
 ---
  
 By the authority vested in me as President by the Constitution and the

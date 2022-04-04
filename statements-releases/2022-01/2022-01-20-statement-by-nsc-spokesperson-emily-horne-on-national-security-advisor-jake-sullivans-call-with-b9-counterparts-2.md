@@ -5,7 +5,7 @@ modified_time: 2022-01-20 13:08:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-b9-counterparts-2/
 published_time: 2022-01-20 13:08:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with B9 Counterparts"
+  \ Sullivan\u2019s Call with B9\_Counterparts"
 ---
  
 National Security Advisor Jake Sullivan spoke today with National

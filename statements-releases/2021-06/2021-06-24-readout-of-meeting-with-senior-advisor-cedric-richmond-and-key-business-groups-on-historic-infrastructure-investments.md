@@ -4,8 +4,8 @@ date: '2021-06-24'
 modified_time: 2021-06-24 18:25:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/readout-of-meeting-with-senior-advisor-cedric-richmond-and-key-business-groups-on-historic-infrastructure-investments/
 published_time: 2021-06-24 18:12:09-04:00
-title: Readout of Meeting with Senior Advisor Cedric Richmond and Key Business Groups
-  on Historic Infrastructure Investments
+title: "Readout of Meeting with Senior Advisor Cedric Richmond and Key Business Groups\
+  \ on Historic Infrastructure\_Investments"
 ---
  
 Today, Senior Advisor and Director of the Office of Public Engagement

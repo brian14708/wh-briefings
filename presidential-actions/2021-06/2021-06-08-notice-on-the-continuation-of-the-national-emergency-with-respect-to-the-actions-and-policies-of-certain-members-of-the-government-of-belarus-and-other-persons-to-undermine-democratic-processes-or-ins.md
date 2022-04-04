@@ -4,9 +4,9 @@ date: '2021-06-08'
 modified_time: 2021-06-08 16:17:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-and-policies-of-certain-members-of-the-government-of-belarus-and-other-persons-to-undermine-democratic-processes-or-ins/
 published_time: 2021-06-08 16:17:11-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Actions
-  and Policies of Certain Members of the Government of Belarus and other Persons to
-  Undermine Democratic Processes or Institutions of Belarus
+title: "Notice on the Continuation of the National Emergency with Respect to the Actions\
+  \ and Policies of Certain Members of the Government of Belarus and other Persons\
+  \ to Undermine Democratic Processes or Institutions of\_Belarus"
 ---
  
 On June 16, 2006, by Executive Order 13405, the President declared a

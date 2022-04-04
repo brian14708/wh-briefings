@@ -4,8 +4,8 @@ date: '2021-07-14'
 modified_time: 2021-07-14 10:44:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/statement-by-press-secretary-jen-psaki-on-president-joe-bidens-participation-in-the-apec-leaders-virtual-retreat/
 published_time: 2021-07-14 10:44:50-04:00
-title: "Statement by Press Secretary Jen Psaki on President Joe Biden\u2019s Participation\
-  \ in the APEC Leaders\u2019 Virtual Retreat"
+title: "Statement by Press Secretary Jen\_Psaki on President Joe\_Biden\u2019s Participation\
+  \ in the APEC Leaders\u2019 Virtual\_Retreat"
 ---
  
 On Friday July 16, President Joseph R. Biden Jr. will participate in the

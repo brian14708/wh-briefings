@@ -4,7 +4,7 @@ date: '2021-03-17'
 modified_time: 2021-03-16 23:25:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/fact-sheet-the-united-states-ireland-partnership/
 published_time: 2021-03-17 05:00:00-04:00
-title: 'Fact Sheet: The United States-Ireland Partnership'
+title: "Fact Sheet: The United\_States-Ireland\_Partnership"
 ---
  
 *“On St. Patrick’s Day, the United States and Ireland celebrate the

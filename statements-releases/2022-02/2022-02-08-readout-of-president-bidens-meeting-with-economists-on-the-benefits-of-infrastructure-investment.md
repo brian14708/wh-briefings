@@ -4,8 +4,8 @@ date: '2022-02-08'
 modified_time: 2022-02-08 18:33:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/readout-of-president-bidens-meeting-with-economists-on-the-benefits-of-infrastructure-investment/
 published_time: 2022-02-08 18:30:00-05:00
-title: "Readout of President Biden\u2019s Meeting with Economists on the Benefits\
-  \ of Infrastructure Investment"
+title: "Readout of President\_Biden\u2019s Meeting with Economists on the Benefits\
+  \ of Infrastructure\_Investment"
 ---
  
 The President and members of his economic team today met with Dr. Edward

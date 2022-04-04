@@ -5,7 +5,7 @@ modified_time: 2021-05-24 09:32:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-moeed-yusuf-of-pakistan/
 published_time: 2021-05-24 09:32:21-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with National Security Advisor Moeed Yusuf of Pakistan"
+  \ Sullivan\u2019s Meeting with National Security Advisor Moeed Yusuf of\_Pakistan"
 ---
  
 The National Security Advisors of the United States and Pakistan met in

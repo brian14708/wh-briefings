@@ -4,7 +4,7 @@ date: '2022-03-30'
 modified_time: 2022-03-30 15:29:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/30/a-proclamation-on-cesar-chavez-day-2022/
 published_time: 2022-03-30 15:29:07-04:00
-title: "A Proclamation on C\xE9sar Ch\xE1vez Day, 2022"
+title: "A Proclamation on C\xE9sar Ch\xE1vez Day,\_2022"
 ---
  
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA

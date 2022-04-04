@@ -4,8 +4,8 @@ date: '2021-07-01'
 modified_time: 2021-12-23 17:27:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-vice-president-kamala-harris-on-the-supreme-courts-voting-rights-decision-in-brnovich-v-democratic-national-committee/
 published_time: 2021-07-01 16:23:00-04:00
-title: "Statement by Vice President Kamala Harris on the Supreme Court\u2019s Voting\
-  \ Rights Decision in Brnovich v. Democratic National Committee"
+title: "Statement by Vice President Kamala\_Harris on the Supreme Court\u2019s Voting\
+  \ Rights Decision in Brnovich v. Democratic National\_Committee"
 ---
  
 Today, the U.S. Supreme Court handed down a decision that will

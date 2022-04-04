@@ -4,7 +4,7 @@ date: '2021-11-24'
 modified_time: 2021-11-24 15:30:01-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-from-vice-president-kamala-harris/
 published_time: 2021-11-24 15:30:00-05:00
-title: Statement from Vice President Kamala Harris
+title: "Statement from Vice President Kamala\_Harris"
 ---
  
 Today, the jury rendered its verdicts and the three defendants were

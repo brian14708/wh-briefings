@@ -4,9 +4,9 @@ date: '2021-08-03'
 modified_time: 2021-08-03 07:01:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-president-biden-announces-major-milestone-in-administrations-global-vaccination-efforts-more-than-100-million-u-s-covid-19-vaccine-doses-donated-and-shipped-abroad/
 published_time: 2021-08-03 07:01:34-04:00
-title: "FACT SHEET: President Biden\_Announces Major Milestone in Administration\u2019\
-  s Global Vaccination Efforts: More Than 100 Million U.S. COVID- \u2060 19 Vaccine\
-  \ Doses Donated and Shipped Abroad"
+title: "FACT SHEET: President\_Biden\_Announces Major Milestone in Administration\u2019\
+  s Global Vaccination Efforts: More Than 100 Million U.S. COVID-\u206019 Vaccine\
+  \ Doses Donated and Shipped\_Abroad"
 ---
  
 Building off of last week’s announcement of [additional

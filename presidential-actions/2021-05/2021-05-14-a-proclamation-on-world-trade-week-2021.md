@@ -4,7 +4,7 @@ date: '2021-05-14'
 modified_time: 2021-05-14 17:07:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-world-trade-week-2021/
 published_time: 2021-05-14 17:07:30-04:00
-title: A Proclamation on World Trade Week, 2021
+title: "A Proclamation on World Trade Week,\_2021"
 ---
  
 When the COVID-19 pandemic struck, it not only inflicted an enormous

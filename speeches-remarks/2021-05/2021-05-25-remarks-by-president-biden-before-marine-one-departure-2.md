@@ -4,7 +4,7 @@ date: '2021-05-25'
 modified_time: 2021-05-26 09:06:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/25/remarks-by-president-biden-before-marine-one-departure-2/
 published_time: 2021-05-25 09:03:00-04:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 5:16 P.M. EDT  

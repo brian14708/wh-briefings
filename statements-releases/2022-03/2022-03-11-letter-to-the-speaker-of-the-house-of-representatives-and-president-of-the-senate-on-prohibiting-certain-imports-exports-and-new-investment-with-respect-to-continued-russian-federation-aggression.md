@@ -4,9 +4,9 @@ date: '2022-03-11'
 modified_time: 2022-03-11 11:10:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-prohibiting-certain-imports-exports-and-new-investment-with-respect-to-continued-russian-federation-aggression/
 published_time: 2022-03-11 11:10:07-05:00
-title: Letter to the Speaker of the House of Representatives and President of the
-  Senate on Prohibiting Certain Imports, Exports, and New Investment with Respect
-  to Continued Russian Federation Aggression
+title: "Letter to the Speaker of the House of Representatives and President of the\
+  \ Senate on Prohibiting Certain Imports, Exports, and New Investment with Respect\
+  \ to Continued Russian Federation\_Aggression"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)

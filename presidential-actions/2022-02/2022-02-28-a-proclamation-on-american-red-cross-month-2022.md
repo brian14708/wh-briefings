@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 13:17:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/28/a-proclamation-on-american-red-cross-month-2022/
 published_time: 2022-02-28 13:17:32-05:00
-title: A Proclamation on American Red Cross Month, 2022
+title: "A Proclamation on American Red Cross Month,\_2022"
 ---
  
 Throughout our history, Americans have always stepped up for each other

@@ -4,8 +4,8 @@ date: '2022-02-28'
 modified_time: 2022-02-28 14:58:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-background-on-president-bidens-remarks-on-the-economy-during-his-first-state-of-the-union-address/
 published_time: 2022-02-28 15:00:00-05:00
-title: "FACT SHEET: Background on President Biden\u2019s Remarks on the Economy During\
-  \ His First State of The Union Address"
+title: "FACT SHEET: Background on President\_Biden\u2019s Remarks on the Economy During\
+  \ His First State of The Union\_Address"
 ---
  
 President Biden ran for office with a new economic vision: to grow the

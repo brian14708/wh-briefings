@@ -4,7 +4,7 @@ date: '2022-02-03'
 modified_time: 2022-02-03 07:49:01-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/statement-by-president-joe-biden-3/
 published_time: 2022-02-03 07:46:54-05:00
-title: Statement by President Joe Biden
+title: "Statement by President Joe\_Biden"
 ---
  
 Last night at my direction, U.S. military forces in the northwest Syria

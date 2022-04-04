@@ -4,7 +4,7 @@ date: '2022-04-01'
 modified_time: 2022-04-01 14:43:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/president-biden-announces-key-nominees-9/
 published_time: 2022-04-01 15:00:00-04:00
-title: President Biden Announces Key Nominees
+title: "President\_Biden Announces Key\_Nominees"
 ---
  
 WASHINGTON – Today, President Biden announced his intent to nominate the

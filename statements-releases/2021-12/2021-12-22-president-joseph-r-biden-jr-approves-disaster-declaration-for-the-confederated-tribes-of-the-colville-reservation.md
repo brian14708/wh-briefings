@@ -4,8 +4,8 @@ date: '2021-12-22'
 modified_time: 2021-12-22 06:53:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-confederated-tribes-of-the-colville-reservation/
 published_time: 2021-12-22 06:53:25-05:00
-title: President Joseph R. Biden, Jr. Approves Disaster Declaration for the Confederated
-  Tribes of the Colville Reservation
+title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Confederated\
+  \ Tribes of the Colville\_Reservation"
 ---
  
 Yesterday, President Joseph R. Biden, Jr. declared that a major disaster

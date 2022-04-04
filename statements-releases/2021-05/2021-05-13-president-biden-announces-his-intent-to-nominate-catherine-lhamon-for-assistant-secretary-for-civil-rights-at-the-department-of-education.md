@@ -4,8 +4,8 @@ date: '2021-05-13'
 modified_time: 2021-05-13 09:32:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/13/president-biden-announces-his-intent-to-nominate-catherine-lhamon-for-assistant-secretary-for-civil-rights-at-the-department-of-education/
 published_time: 2021-05-13 09:32:20-04:00
-title: President Biden Announces His Intent to Nominate Catherine Lhamon for Assistant
-  Secretary for Civil Rights at the Department of Education
+title: "President\_Biden Announces His Intent to Nominate Catherine Lhamon for Assistant\
+  \ Secretary for Civil Rights at the Department of\_Education"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

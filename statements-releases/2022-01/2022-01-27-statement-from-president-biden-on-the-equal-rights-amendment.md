@@ -4,7 +4,7 @@ date: '2022-01-27'
 modified_time: 2022-01-26 22:51:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-from-president-biden-on-the-equal-rights-amendment/
 published_time: 2022-01-27 08:30:00-05:00
-title: Statement from President Biden on the Equal Rights Amendment
+title: "Statement from President\_Biden on the Equal Rights\_Amendment"
 ---
  
 Today, as the House announces a resolution on the Equal Rights

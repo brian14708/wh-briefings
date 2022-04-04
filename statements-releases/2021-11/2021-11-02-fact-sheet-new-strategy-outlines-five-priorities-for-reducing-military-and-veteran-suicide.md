@@ -4,8 +4,8 @@ date: '2021-11-02'
 modified_time: 2021-11-02 09:58:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/
 published_time: 2021-11-02 10:30:00-04:00
-title: 'Fact Sheet: New Strategy Outlines Five Priorities for Reducing Military and
-  Veteran Suicide'
+title: "Fact Sheet: New Strategy Outlines Five Priorities for Reducing Military and\
+  \ Veteran\_Suicide"
 ---
  
 Suicide among service members, veterans, and their families is a public

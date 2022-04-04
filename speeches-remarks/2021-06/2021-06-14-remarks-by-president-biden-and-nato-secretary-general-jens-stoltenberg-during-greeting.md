@@ -4,8 +4,8 @@ date: '2021-06-14'
 modified_time: 2021-06-14 10:11:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/14/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-during-greeting/
 published_time: 2021-06-14 10:11:01-04:00
-title: Remarks by President Biden and NATO Secretary General Jens Stoltenberg During
-  Greeting
+title: "Remarks by President\_Biden and NATO Secretary General Jens Stoltenberg During\_\
+  Greeting"
 ---
  
 NATO Headquarters  

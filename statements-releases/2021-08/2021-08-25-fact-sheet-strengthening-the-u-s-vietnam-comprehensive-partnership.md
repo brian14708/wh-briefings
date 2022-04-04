@@ -4,7 +4,7 @@ date: '2021-08-25'
 modified_time: 2021-08-25 06:42:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-strengthening-the-u-s-vietnam-comprehensive-partnership/
 published_time: 2021-08-25 06:42:39-04:00
-title: 'FACT SHEET: Strengthening the U.S.-Vietnam Comprehensive Partnership'
+title: "FACT SHEET: Strengthening the U.S.-Vietnam Comprehensive\_Partnership"
 ---
  
 Last year, the United States and Vietnam celebrated our 25th anniversary

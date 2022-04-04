@@ -4,8 +4,8 @@ date: '2021-03-02'
 modified_time: 2021-03-03 16:06:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/02/remarks-by-president-biden-on-the-administrations-covid-19-vaccination-efforts/
 published_time: 2021-03-02 18:00:00-05:00
-title: "Remarks by President Biden on the Administration\u2019s COVID- \u2060 19 Vaccination\
-  \ Efforts"
+title: "Remarks by President\_Biden on the Administration\u2019s COVID-\u206019 Vaccination\_\
+  Efforts"
 ---
  
 State Dining Room

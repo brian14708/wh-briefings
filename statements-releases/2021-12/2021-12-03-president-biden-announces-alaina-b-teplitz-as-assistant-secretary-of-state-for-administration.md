@@ -4,8 +4,8 @@ date: '2021-12-03'
 modified_time: 2021-12-03 16:10:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/president-biden-announces-alaina-b-teplitz-as-assistant-secretary-of-state-for-administration/
 published_time: 2021-12-03 16:00:00-05:00
-title: President Biden Announces Alaina B. Teplitz as Assistant Secretary of State
-  for Administration
+title: "President\_Biden Announces Alaina B. Teplitz as Assistant Secretary of State\
+  \ for\_Administration"
 ---
  
 WASHINGTON – Today, President Joe Biden announced he has appointed

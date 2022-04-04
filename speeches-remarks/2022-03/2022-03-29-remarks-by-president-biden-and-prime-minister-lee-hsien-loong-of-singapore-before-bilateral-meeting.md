@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-03-29'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-president-biden-and-prime-minister-lee-hsien-loong-of-singapore-before-bilateral-meeting/
 published_time: 2022-03-29 19:41:45-04:00
-title: Remarks by President Biden and Prime Minister Lee Hsien Loong of Singapore
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Lee Hsien Loong of Singapore\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office

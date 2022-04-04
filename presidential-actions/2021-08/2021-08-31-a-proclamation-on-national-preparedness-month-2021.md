@@ -4,7 +4,7 @@ date: '2021-08-31'
 modified_time: 2021-08-31 10:19:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-preparedness-month-2021/
 published_time: 2021-08-31 10:18:59-04:00
-title: A Proclamation on National Preparedness Month, 2021
+title: "A Proclamation on National Preparedness Month,\_2021"
 ---
  
 In the past year, our Nation has faced both unpredictable and

@@ -4,7 +4,7 @@ date: '2022-02-02'
 modified_time: 2022-02-02 20:35:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/02/remarks-by-president-biden-at-an-event-to-reignite-the-cancer-moonshot/
 published_time: 2022-02-02 21:00:00-05:00
-title: Remarks by President Biden at an Event to Reignite the Cancer Moonshot
+title: "Remarks by President\_Biden at an Event to Reignite the Cancer\_Moonshot"
 ---
  
 East Room

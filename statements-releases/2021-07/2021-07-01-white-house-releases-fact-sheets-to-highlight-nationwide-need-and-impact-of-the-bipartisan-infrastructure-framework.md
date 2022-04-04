@@ -4,8 +4,8 @@ date: '2021-07-01'
 modified_time: 2021-07-01 10:55:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/white-house-releases-fact-sheets-to-highlight-nationwide-need-and-impact-of-the-bipartisan-infrastructure-framework/
 published_time: 2021-07-01 05:00:00-04:00
-title: White House Releases Fact Sheets to Highlight Nationwide Need and Impact of
-  the Bipartisan Infrastructure Framework
+title: "White\_House Releases Fact Sheets to Highlight Nationwide Need and Impact\
+  \ of the Bipartisan Infrastructure\_Framework"
 ---
  
 Today, the White House released state fact sheets that highlight the

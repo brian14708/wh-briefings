@@ -4,8 +4,8 @@ date: '2021-03-22'
 modified_time: 2021-03-22 11:29:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-mexico-and-guatemala/
 published_time: 2021-03-22 11:29:22-04:00
-title: Statement by NSC Spokesperson Emily Horne on Senior Administration Official
-  Travel to Mexico and Guatemala
+title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
+  \ Travel to Mexico and\_Guatemala"
 ---
  
 Special Assistant to the President and Coordinator for the Southwest

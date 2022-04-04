@@ -4,7 +4,7 @@ date: '2021-07-12'
 modified_time: 2021-07-12 10:02:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/12/statement-by-president-joseph-r-biden-jr-on-protests-in-cuba/
 published_time: 2021-07-12 10:02:07-04:00
-title: Statement by President Joseph R. Biden, Jr. on Protests in Cuba
+title: "Statement by President Joseph R. Biden, Jr. on Protests in\_Cuba"
 ---
  
 We stand with the Cuban people and their clarion call for freedom and

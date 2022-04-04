@@ -4,7 +4,7 @@ date: '2021-09-15'
 modified_time: 2021-09-15 10:07:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-biden-on-yom-kippur/
 published_time: 2021-09-15 10:07:48-04:00
-title: Statement by President Biden on Yom Kippur
+title: "Statement by President\_Biden on Yom\_Kippur"
 ---
  
 For millennia, Jewish communities have marked Yom Kippur as an occasion

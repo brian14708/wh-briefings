@@ -4,7 +4,7 @@ date: '2021-06-26'
 modified_time: 2021-06-26 16:23:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/26/statement-by-president-joe-biden-on-the-bipartisan-infrastructure-framework/
 published_time: 2021-06-26 16:23:03-04:00
-title: Statement by President Joe Biden on the Bipartisan Infrastructure Framework
+title: "Statement by President Joe\_Biden on the Bipartisan Infrastructure\_Framework"
 ---
  
 On Thursday, I reached a historic agreement with a bipartisan group of

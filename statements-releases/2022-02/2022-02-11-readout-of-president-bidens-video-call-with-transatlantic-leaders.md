@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-11'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/readout-of-president-bidens-video-call-with-transatlantic-leaders/
 published_time: 2022-02-11 15:22:07-05:00
-title: "Readout of President Biden\u2019s Video Call with Transatlantic Leaders"
+title: "Readout of President\_Biden\u2019s Video Call with Transatlantic\_Leaders"
 ---
  
 President Joseph R. Biden, Jr. held a secure video call with

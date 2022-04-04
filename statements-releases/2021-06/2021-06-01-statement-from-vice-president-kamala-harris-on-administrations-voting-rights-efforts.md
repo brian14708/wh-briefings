@@ -4,8 +4,8 @@ date: '2021-06-01'
 modified_time: 2021-06-01 17:26:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/statement-from-vice-president-kamala-harris-on-administrations-voting-rights-efforts/
 published_time: 2021-06-01 17:26:04-04:00
-title: "Statement from Vice President Kamala Harris on Administration\u2019s Voting\
-  \ Rights Efforts"
+title: "Statement from Vice President Kamala\_Harris on Administration\u2019s Voting\
+  \ Rights\_Efforts"
 ---
  
 Every American has a right to have their voice heard at the ballot box,

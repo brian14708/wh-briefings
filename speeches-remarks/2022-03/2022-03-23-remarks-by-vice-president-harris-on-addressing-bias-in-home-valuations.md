@@ -4,7 +4,7 @@ date: '2022-03-23'
 modified_time: 2022-03-30 14:24:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/23/remarks-by-vice-president-harris-on-addressing-bias-in-home-valuations/
 published_time: 2022-03-23 01:12:00-04:00
-title: Remarks by Vice President Harris on Addressing Bias in Home Valuations
+title: "Remarks by Vice President Harris on Addressing Bias in Home\_Valuations"
 ---
  
 *South Court Auditorium  

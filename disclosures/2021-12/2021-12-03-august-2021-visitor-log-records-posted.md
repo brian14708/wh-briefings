@@ -4,7 +4,7 @@ date: '2021-12-03'
 modified_time: 2021-12-03 17:44:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/12/03/august-2021-visitor-log-records-posted/
 published_time: 2021-12-03 17:45:00-05:00
-title: August 2021 Visitor Log Records Posted
+title: "August 2021 Visitor Log Records\_Posted"
 ---
  
 Today the White House released visitor log records generated in August

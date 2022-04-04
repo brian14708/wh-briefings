@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2022-04-01'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/01/a-proclamation-on-national-public-health-week-2022/
 published_time: 2022-04-01 12:20:13-04:00
-title: A Proclamation on National Public Health Week, 2022
+title: "A Proclamation on National Public Health Week,\_2022"
 ---
  
 Each year, National Public Health Week provides a chance for all of us

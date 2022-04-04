@@ -4,7 +4,7 @@ date: '2021-07-29'
 modified_time: 2021-07-29 17:26:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/u-s-canada-joint-statement-on-gordie-howe-international-bridge/
 published_time: 2021-07-29 17:26:43-04:00
-title: U.S.-Canada Joint Statement on Gordie Howe International Bridge
+title: "U.S.-Canada Joint Statement on Gordie Howe International\_Bridge"
 ---
  
 As the importance of infrastructure becomes clearer and clearer, our two

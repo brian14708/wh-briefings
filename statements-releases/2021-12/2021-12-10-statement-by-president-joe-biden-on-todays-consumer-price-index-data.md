@@ -4,7 +4,7 @@ date: '2021-12-10'
 modified_time: 2021-12-10 10:09:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-todays-consumer-price-index-data/
 published_time: 2021-12-10 10:09:46-05:00
-title: "Statement by President Joe Biden on Today\u2019s Consumer Price Index Data"
+title: "Statement by President Joe\_Biden on Today\u2019s Consumer Price Index\_Data"
 ---
  
 Today’s numbers reflect the pressures that economies around the world

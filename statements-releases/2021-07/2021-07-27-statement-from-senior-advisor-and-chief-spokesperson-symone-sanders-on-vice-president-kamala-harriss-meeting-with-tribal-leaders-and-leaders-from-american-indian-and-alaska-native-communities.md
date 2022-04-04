@@ -5,8 +5,8 @@ modified_time: 2021-07-27 20:32:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-tribal-leaders-and-leaders-from-american-indian-and-alaska-native-communities/
 published_time: 2021-07-27 20:32:28-04:00
 title: "Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Meeting with Tribal leaders and Leaders from American\
-  \ Indian and Alaska Native Communities about Voting Rights"
+  \ President Kamala\_Harris\u2019s Meeting with Tribal leaders and Leaders from American\
+  \ Indian and Alaska Native Communities about Voting\_Rights"
 ---
  
 Today Vice President Kamala Harris hosted a discussion in her ceremonial

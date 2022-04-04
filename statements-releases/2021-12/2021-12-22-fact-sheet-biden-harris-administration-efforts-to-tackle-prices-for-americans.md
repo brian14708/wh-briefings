@@ -4,8 +4,8 @@ date: '2021-12-22'
 modified_time: 2021-12-22 07:43:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-efforts-to-tackle-prices-for-americans/
 published_time: 2021-12-22 07:43:41-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Efforts to Tackle Prices for\
-  \ Americans"
+title: "FACT SHEET: Biden-\u2060Harris Administration Efforts to Tackle Prices for\_\
+  Americans"
 ---
  
 The American economy has delivered stronger growth in President Biden’s

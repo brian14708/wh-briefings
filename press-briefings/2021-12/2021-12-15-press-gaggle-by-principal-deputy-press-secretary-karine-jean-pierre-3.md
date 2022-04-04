@@ -4,7 +4,7 @@ date: '2021-12-15'
 modified_time: 2021-12-15 12:13:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/15/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-3/
 published_time: 2021-12-15 12:30:00-05:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre
+title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---
  
 Aboard Air Force One  

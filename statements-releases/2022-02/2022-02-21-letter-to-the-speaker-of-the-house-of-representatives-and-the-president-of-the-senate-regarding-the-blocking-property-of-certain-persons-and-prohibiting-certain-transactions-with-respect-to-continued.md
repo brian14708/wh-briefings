@@ -3,10 +3,10 @@ category: statements-releases
 date: '2022-02-21'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/21/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-regarding-the-blocking-property-of-certain-persons-and-prohibiting-certain-transactions-with-respect-to-continued/
 published_time: 2022-02-21 18:11:25-05:00
-title: Letter to the Speaker of the House of Representatives and the President of
-  the Senate regarding the Blocking Property of Certain Persons and Prohibiting Certain
-  Transactions with Respect to Continued Russian Efforts to Undermine the Sovereignty
-  and Territorial Integrity of Ukraine
+title: "Letter to the Speaker of the House of Representatives and the President of\
+  \ the Senate regarding the Blocking Property of Certain Persons and Prohibiting\
+  \ Certain Transactions with Respect to Continued Russian Efforts to Undermine the\
+  \ Sovereignty and Territorial Integrity of\_Ukraine"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)

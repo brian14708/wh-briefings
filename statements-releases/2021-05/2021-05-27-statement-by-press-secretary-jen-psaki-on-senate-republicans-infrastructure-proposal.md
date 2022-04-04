@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-05-27'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/statement-by-press-secretary-jen-psaki-on-senate-republicans-infrastructure-proposal/
 published_time: 2021-05-27 11:58:38-04:00
-title: "Statement by Press Secretary Jen Psaki on Senate Republicans\u2019 Infrastructure\
-  \ Proposal"
+title: "Statement by Press Secretary Jen\_Psaki on Senate Republicans\u2019 Infrastructure\_\
+  Proposal"
 ---
  
 We are grateful for the work of Senator Capito and her colleagues on

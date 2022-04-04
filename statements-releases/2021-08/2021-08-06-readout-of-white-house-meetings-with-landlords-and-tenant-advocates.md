@@ -4,7 +4,7 @@ date: '2021-08-06'
 modified_time: 2021-08-06 09:55:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/readout-of-white-house-meetings-with-landlords-and-tenant-advocates/
 published_time: 2021-08-06 09:55:21-04:00
-title: Readout of White House Meetings with Landlords and Tenant Advocates
+title: "Readout of White\_House Meetings with Landlords and Tenant\_Advocates"
 ---
  
 This week, White House American Rescue Plan Coordinator Gene Sperling

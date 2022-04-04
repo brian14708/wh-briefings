@@ -4,7 +4,7 @@ date: '2022-02-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/fact-sheet-biden-%e2%81%a0harris-administration-delivering-results-100-days-into-infrastructure-implementation/
 published_time: 2022-02-23 13:47:33-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Delivering Results 100 Days\
-  \ into Infrastructure Implementation"
+  \ into Infrastructure\_Implementation"
 ---
  
 Since President Biden signed the Bipartisan Infrastructure Law 100 days

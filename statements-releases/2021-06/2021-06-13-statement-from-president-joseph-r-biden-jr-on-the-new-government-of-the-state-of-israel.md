@@ -4,8 +4,8 @@ date: '2021-06-13'
 modified_time: 2021-06-13 14:17:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/statement-from-president-joseph-r-biden-jr-on-the-new-government-of-the-state-of-israel/
 published_time: 2021-06-13 14:17:37-04:00
-title: Statement by President Joseph R. Biden, Jr. on the New Government of the State
-  of Israel
+title: "Statement by President Joseph R. Biden, Jr. on the New Government of the State\
+  \ of\_Israel"
 ---
  
 On behalf of the American people, I congratulate Prime Minister Naftali

@@ -4,8 +4,8 @@ date: '2021-10-05'
 modified_time: 2021-10-05 09:51:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/05/statement-by-president-joe-biden-on-dr-francis-collins-stepping-down-as-director-of-the-national-institutes-of-health/
 published_time: 2021-10-05 09:51:24-04:00
-title: Statement by President Joe Biden on Dr. Francis Collins Stepping Down as Director
-  of the National Institutes of Health
+title: "Statement by President Joe\_Biden on Dr. Francis Collins Stepping Down as\
+  \ Director of the National Institutes of\_Health"
 ---
  
 Dr. Francis Collins is one of the most important scientists of our time.

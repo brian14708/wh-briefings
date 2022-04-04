@@ -4,8 +4,8 @@ date: '2021-07-15'
 modified_time: 2021-07-15 12:58:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/fact-sheet-biden-harris-administration-distributes-first-monthly-payments-of-the-expanded-child-tax-credit/
 published_time: 2021-07-15 12:58:20-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Distributes First Monthly\
-  \ Payments of the Expanded Child Tax Credit"
+title: "FACT SHEET: Biden-\u2060Harris Administration Distributes First Monthly Payments\
+  \ of the Expanded Child Tax\_Credit"
 ---
  
 Today, tens of millions of American families will begin to see their

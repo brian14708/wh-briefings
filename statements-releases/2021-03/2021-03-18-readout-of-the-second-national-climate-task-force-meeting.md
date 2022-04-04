@@ -4,7 +4,7 @@ date: '2021-03-18'
 modified_time: 2021-03-18 14:34:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/readout-of-the-second-national-climate-task-force-meeting/
 published_time: 2021-03-18 14:34:45-04:00
-title: Readout of the Second National Climate Task Force Meeting
+title: "Readout of the Second National Climate Task Force\_Meeting"
 ---
  
 Today, National Climate Advisor Gina McCarthy convened the second

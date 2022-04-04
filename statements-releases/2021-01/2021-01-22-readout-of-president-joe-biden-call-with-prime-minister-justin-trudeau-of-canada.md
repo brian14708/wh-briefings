@@ -4,7 +4,8 @@ date: '2021-01-22'
 modified_time: 2021-01-22 22:14:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/readout-of-president-joe-biden-call-with-prime-minister-justin-trudeau-of-canada/
 published_time: 2021-01-22 22:14:29-05:00
-title: Readout of President Joe Biden Call with Prime Minister Justin Trudeau of Canada
+title: "Readout of President Joe\_Biden Call with Prime Minister Justin Trudeau of\_\
+  Canada"
 ---
  
 President Biden spoke with Canadian Prime Minister Justin Trudeau in his

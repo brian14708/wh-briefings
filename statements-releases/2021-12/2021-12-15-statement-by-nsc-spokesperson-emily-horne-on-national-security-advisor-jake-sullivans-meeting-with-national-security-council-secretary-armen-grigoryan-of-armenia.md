@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/
 published_time: 2021-12-15 19:18:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with National Security Council Secretary Armen Grigoryan\
-  \ of Armenia"
+  \ of\_Armenia"
 ---
  
 National Security Adviser Jake Sullivan met with National Security

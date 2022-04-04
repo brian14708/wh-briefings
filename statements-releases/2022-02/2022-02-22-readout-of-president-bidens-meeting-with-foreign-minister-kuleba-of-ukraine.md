@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-02-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/readout-of-president-bidens-meeting-with-foreign-minister-kuleba-of-ukraine/
 published_time: 2022-02-22 15:10:47-05:00
-title: "Readout of President Biden\u2019s Meeting with Foreign Minister Kuleba of\
-  \ Ukraine"
+title: "Readout of President\_Biden\u2019s Meeting with Foreign Minister Kuleba of\_\
+  Ukraine"
 ---
  
 Today, President Joseph R. Biden, Jr. met with Foreign Minister Dmytro

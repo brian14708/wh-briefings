@@ -4,7 +4,7 @@ date: '2022-02-28'
 modified_time: 2022-02-28 16:08:20-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/readout-of-president-bidens-call-with-allies-and-partners/
 published_time: 2022-02-28 16:08:19-05:00
-title: "Readout of President Biden\u2019s Call with Allies and Partners"
+title: "Readout of President\_Biden\u2019s Call with Allies and\_Partners"
 ---
  
 President Joseph R. Biden hosted a secure conference call today with

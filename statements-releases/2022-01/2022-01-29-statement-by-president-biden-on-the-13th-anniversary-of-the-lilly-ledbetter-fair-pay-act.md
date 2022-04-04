@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-01-29'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/29/statement-by-president-biden-on-the-13th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
 published_time: 2022-01-29 15:35:02-05:00
-title: Statement by President Biden on the 13th Anniversary of the Lilly Ledbetter
-  Fair Pay Act
+title: "Statement by President\_Biden on the 13th Anniversary of the Lilly Ledbetter\
+  \ Fair Pay\_Act"
 ---
  
 Thirteen years ago, Lilly Ledbetter became a household name, as the bill

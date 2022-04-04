@@ -4,7 +4,7 @@ date: '2021-09-29'
 modified_time: 2021-09-29 15:47:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/u-s-eu-trade-and-technology-council-inaugural-joint-statement/
 published_time: 2021-09-29 16:00:00-04:00
-title: U.S.-EU Trade and Technology Council Inaugural Joint Statement
+title: "U.S.-EU Trade and Technology Council Inaugural Joint\_Statement"
 ---
  
 **September 29, 2021  

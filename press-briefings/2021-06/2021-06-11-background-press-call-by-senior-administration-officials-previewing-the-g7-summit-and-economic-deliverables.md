@@ -4,8 +4,8 @@ date: '2021-06-11'
 modified_time: 2021-06-10 12:56:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/11/background-press-call-by-senior-administration-officials-previewing-the-g7-summit-and-economic-deliverables/
 published_time: 2021-06-11 02:00:00-04:00
-title: Background Press Call by Senior Administration Officials Previewing the G7
-  Summit and Economic Deliverables
+title: "Background Press Call by Senior Administration Officials Previewing the G7\
+  \ Summit and Economic\_Deliverables"
 ---
  
 12:54 P.M. BST  

@@ -4,8 +4,8 @@ date: '2021-08-03'
 modified_time: 2021-08-02 22:36:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-bipartisan-infrastructure-investment-and-jobs-act-advancing-economic-and-public-health-opportunities-for-communities-of-color/
 published_time: 2021-08-03 08:00:00-04:00
-title: 'FACT SHEET: Bipartisan Infrastructure Investment and Jobs Act: Advancing Economic
-  and Public Health Opportunities for Communities of Color'
+title: "FACT SHEET: Bipartisan Infrastructure Investment and Jobs Act: Advancing Economic\
+  \ and Public Health Opportunities for Communities of\_Color"
 ---
  
 A little over a month ago, the President announced the Bipartisan

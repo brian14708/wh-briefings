@@ -4,7 +4,7 @@ date: '2021-11-30'
 modified_time: 2021-11-30 20:31:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/30/press-gaggle-by-press-secretary-jen-psaki/
 published_time: 2021-11-30 18:00:00-05:00
-title: Press Gaggle by Press Secretary Jen Psaki
+title: "Press Gaggle by Press Secretary Jen\_Psaki"
 ---
  
 Aboard Air Force One  

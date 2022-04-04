@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-06-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/22/statement-by-president-joe-biden-on-the-for-the-people-act/
 published_time: 2021-06-22 19:32:17-04:00
-title: Statement by President Joe Biden on the For the People Act
+title: "Statement by President Joe\_Biden on the For the People\_Act"
 ---
  
 Today, Democrats in Congress unanimously came together to protect the

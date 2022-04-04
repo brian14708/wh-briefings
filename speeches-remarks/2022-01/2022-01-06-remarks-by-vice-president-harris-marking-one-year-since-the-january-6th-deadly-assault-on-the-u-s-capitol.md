@@ -4,8 +4,8 @@ date: '2022-01-06'
 modified_time: 2022-01-06 10:39:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/06/remarks-by-vice-president-harris-marking-one-year-since-the-january-6th-deadly-assault-on-the-u-s-capitol/
 published_time: 2022-01-06 10:39:23-05:00
-title: Remarks by Vice President Harris Marking One Year Since the January 6th Deadly
-  Assault on the U.S. Capitol
+title: "Remarks by Vice President Harris Marking One Year Since the January 6th Deadly\
+  \ Assault on the U.S.\_Capitol"
 ---
  
 *U.S. Capitol  

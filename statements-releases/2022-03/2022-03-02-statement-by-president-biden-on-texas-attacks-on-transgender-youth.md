@@ -4,7 +4,7 @@ date: '2022-03-02'
 modified_time: 2022-03-03 09:14:23-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/02/statement-by-president-biden-on-texas-attacks-on-transgender-youth/
 published_time: 2022-03-02 20:00:00-05:00
-title: "Statement by President Biden on Texas\u2019 Attacks on Transgender Youth"
+title: "Statement by President\_Biden on Texas\u2019 Attacks on Transgender\_Youth"
 ---
  
 In recent days, elected leaders in Texas have launched a cynical and

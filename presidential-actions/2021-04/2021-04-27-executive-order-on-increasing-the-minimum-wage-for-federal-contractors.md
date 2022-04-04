@@ -4,7 +4,7 @@ date: '2021-04-27'
 modified_time: 2021-04-27 15:29:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/
 published_time: 2021-04-27 15:29:55-04:00
-title: Executive Order on Increasing the Minimum Wage for Federal Contractors
+title: "Executive Order on Increasing the Minimum Wage for Federal\_Contractors"
 ---
  
  By the authority vested in me as President by the Constitution and the

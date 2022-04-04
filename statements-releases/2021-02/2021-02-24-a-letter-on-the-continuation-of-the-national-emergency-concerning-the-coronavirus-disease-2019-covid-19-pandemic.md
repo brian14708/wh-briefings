@@ -5,7 +5,7 @@ modified_time: 2021-02-24 15:26:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic/
 published_time: 2021-02-24 15:26:55-05:00
 title: "A Letter on the Continuation of the National Emergency Concerning the Coronavirus\
-  \ Disease 2019 (COVID- \u2060 19) Pandemic"
+  \ Disease 2019 (COVID-\u206019)\_Pandemic"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:

@@ -4,7 +4,7 @@ date: '2021-08-19'
 modified_time: 2021-08-19 10:12:47-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/19/statement-by-president-joe-biden-on-initial-unemployment-insurance-claims/
 published_time: 2021-08-19 10:12:46-04:00
-title: Statement by President Joe Biden on Initial Unemployment Insurance Claims
+title: "Statement by President Joe\_Biden on Initial Unemployment Insurance\_Claims"
 ---
  
 This morning, we learned that the number of Americans filing initial

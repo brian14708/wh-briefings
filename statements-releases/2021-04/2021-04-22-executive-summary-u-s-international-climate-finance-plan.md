@@ -4,7 +4,7 @@ date: '2021-04-22'
 modified_time: 2021-04-22 11:06:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/executive-summary-u-s-international-climate-finance-plan/
 published_time: 2021-04-22 11:06:11-04:00
-title: 'EXECUTIVE SUMMARY: U.S. International Climate Finance Plan'
+title: "EXECUTIVE SUMMARY: U.S. International Climate Finance\_Plan"
 ---
  
 President Biden’s Executive Order on *Tackling the Climate Crisis at

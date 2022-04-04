@@ -4,9 +4,9 @@ date: '2022-02-10'
 modified_time: 2022-02-10 09:44:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/president-biden-announces-presidential-delegation-to-attend-the-bicentennial-celebration-of-the-arrival-of-the-first-free-black-americans-to-the-republic-of-liberia/
 published_time: 2022-02-10 13:00:00-05:00
-title: President Biden Announces Presidential Delegation to Attend the Bicentennial
-  Celebration of the Arrival of the First Free Black Americans to the Republic of
-  Liberia
+title: "President\_Biden Announces Presidential Delegation to Attend the Bicentennial\
+  \ Celebration of the Arrival of the First Free Black Americans to the Republic of\_\
+  Liberia"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

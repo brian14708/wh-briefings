@@ -5,7 +5,7 @@ modified_time: 2021-01-22 11:06:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/21/readout-of-vice-president-harriss-call-with-world-health-organization-director-general-dr-tedros-adhanom-ghebreyesus/
 published_time: 2021-01-21 17:12:47-05:00
 title: "Readout of Vice President Harris\u2019s Call with World Health Organization\
-  \ Director-General Dr. Tedros Adhanom Ghebreyesus"
+  \ Director-General Dr. Tedros Adhanom\_Ghebreyesus"
 ---
  
 Vice President Kamala Harris spoke by phone today with World Health

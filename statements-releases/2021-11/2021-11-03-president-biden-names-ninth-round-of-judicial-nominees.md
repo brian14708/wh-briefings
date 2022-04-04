@@ -4,7 +4,7 @@ date: '2021-11-03'
 modified_time: 2021-11-03 09:10:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/03/president-biden-names-ninth-round-of-judicial-nominees/
 published_time: 2021-11-03 09:10:36-04:00
-title: President Biden Names Ninth Round of Judicial Nominees
+title: "President\_Biden Names Ninth Round of Judicial\_Nominees"
 ---
  
 The President is announcing ten judicial nominees, including nine new

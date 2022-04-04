@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-18'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/statement-of-president-joe-biden-on-the-passing-of-general-colin-powell/
 published_time: 2021-10-18 12:23:51-04:00
-title: Statement of President Joe Biden on the Passing of General Colin Powell
+title: "Statement of President Joe\_Biden on the Passing of General Colin\_Powell"
 ---
  
 Jill and I are deeply saddened by the passing of our dear friend and a

@@ -5,7 +5,7 @@ modified_time: 2021-08-31 23:53:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/01/background-press-call-by-senior-administration-officials-on-the-presidents-upcoming-meeting-with-president-zelenskyy-of-ukraine/
 published_time: 2021-09-01 05:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
-  s Upcoming Meeting with President Zelenskyy of Ukraine"
+  s Upcoming Meeting with President Zelenskyy of\_Ukraine"
 ---
  
 2:34 P.M. EDT

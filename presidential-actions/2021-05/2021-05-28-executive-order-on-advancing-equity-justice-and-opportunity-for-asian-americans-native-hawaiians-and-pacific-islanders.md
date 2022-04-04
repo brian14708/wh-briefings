@@ -4,8 +4,8 @@ date: '2021-05-28'
 modified_time: 2021-05-28 14:33:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/executive-order-on-advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders/
 published_time: 2021-05-28 14:33:05-04:00
-title: Executive Order on Advancing Equity, Justice, and Opportunity for Asian Americans,
-  Native Hawaiians, and Pacific Islanders
+title: "Executive Order on Advancing Equity, Justice, and Opportunity for Asian Americans,\
+  \ Native Hawaiians, and Pacific\_Islanders"
 ---
  
 By the authority vested in me as President by the Constitution and the

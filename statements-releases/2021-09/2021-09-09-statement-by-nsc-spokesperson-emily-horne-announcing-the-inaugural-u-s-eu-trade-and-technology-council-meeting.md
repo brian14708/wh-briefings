@@ -4,8 +4,8 @@ date: '2021-09-09'
 modified_time: 2021-09-08 18:57:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/statement-by-nsc-spokesperson-emily-horne-announcing-the-inaugural-u-s-eu-trade-and-technology-council-meeting/
 published_time: 2021-09-09 05:00:00-04:00
-title: Statement by NSC Spokesperson Emily Horne Announcing the Inaugural U.S.-EU
-  Trade and Technology Council Meeting
+title: "Statement by NSC Spokesperson Emily Horne Announcing the Inaugural U.S.-EU\
+  \ Trade and Technology Council\_Meeting"
 ---
  
 At the U.S.-EU Summit, President Joe Biden, European Commission

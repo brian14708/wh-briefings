@@ -4,8 +4,8 @@ date: '2021-05-15'
 modified_time: 2021-05-15 14:32:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/15/readout-of-president-joseph-r-biden-jr-call-with-palestinian-authority-president-mahmoud-abbas/
 published_time: 2021-05-15 14:31:59-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Palestinian Authority President
-  Mahmoud Abbas
+title: "Readout of President Joseph R. Biden, Jr. Call with Palestinian Authority\
+  \ President Mahmoud\_Abbas"
 ---
  
 President Biden spoke today with Palestinian Authority President Mahmoud

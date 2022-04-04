@@ -4,7 +4,7 @@ date: '2021-11-26'
 modified_time: 2021-11-26 22:28:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/26/remarks-by-president-biden-in-press-gaggle-2/
 published_time: 2021-11-26 22:45:00-05:00
-title: Remarks by President Biden in Press Gaggle
+title: "Remarks by President\_Biden in Press\_Gaggle"
 ---
  
 3:12 P.M. EDT  

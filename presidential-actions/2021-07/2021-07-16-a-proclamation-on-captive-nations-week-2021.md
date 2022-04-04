@@ -4,7 +4,7 @@ date: '2021-07-16'
 modified_time: 2021-07-16 09:39:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/16/a-proclamation-on-captive-nations-week-2021/
 published_time: 2021-07-16 09:39:58-04:00
-title: A Proclamation on Captive Nations Week, 2021
+title: "A Proclamation on Captive Nations Week,\_2021"
 ---
  
 From the founding of our Nation to today, through the crucibles of war

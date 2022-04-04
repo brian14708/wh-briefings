@@ -4,7 +4,7 @@ date: '2022-01-07'
 modified_time: 2022-01-07 16:14:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/07/remarks-by-president-biden-on-the-december-2021-jobs-report/
 published_time: 2022-01-07 16:14:55-05:00
-title: Remarks by President Biden on the December 2021 Jobs Report
+title: "Remarks by President\_Biden on the December 2021 Jobs\_Report"
 ---
  
 State Dining Room

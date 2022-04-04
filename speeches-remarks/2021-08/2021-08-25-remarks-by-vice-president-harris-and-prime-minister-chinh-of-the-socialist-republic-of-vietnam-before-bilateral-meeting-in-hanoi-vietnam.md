@@ -5,7 +5,7 @@ modified_time: 2021-09-07 15:09:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/25/remarks-by-vice-president-harris-and-prime-minister-chinh-of-the-socialist-republic-of-vietnam-before-bilateral-meeting-in-hanoi-vietnam/
 published_time: 2021-08-25 04:37:00-04:00
 title: "Remarks by Vice President Harris and Prime Minister Ch\xEDnh of the Socialist\
-  \ Republic of Vietnam Before Bilateral Meeting in Hanoi, Vietnam"
+  \ Republic of Vietnam Before Bilateral Meeting in Hanoi,\_Vietnam"
 ---
  
 New Building, Office of Government  

@@ -4,8 +4,8 @@ date: '2022-01-07'
 modified_time: 2022-01-07 13:25:51-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/biden-administration-announces-state-by-state-funding-to-address-home-energy-costs/
 published_time: 2022-01-07 06:00:00-05:00
-title: Biden Administration Announces State-by-State Funding to Address Home Energy
-  Costs
+title: "Biden Administration Announces State-by-State Funding to Address Home Energy\_\
+  Costs"
 ---
  
 *Builds on Utility Companies’ Commitments to Prevent Shut Offs this

@@ -4,7 +4,7 @@ date: '2021-03-23'
 modified_time: 2021-03-23 14:56:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/23/remarks-by-president-biden-on-the-shooting-in-boulder-colorado/
 published_time: 2021-03-23 14:56:27-04:00
-title: Remarks by President Biden on the Shooting in Boulder, Colorado
+title: "Remarks by President\_Biden on the Shooting in Boulder,\_Colorado"
 ---
  
 12:55 P.M. EDT  

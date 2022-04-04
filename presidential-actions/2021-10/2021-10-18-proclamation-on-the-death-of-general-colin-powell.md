@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-10-18'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/18/proclamation-on-the-death-of-general-colin-powell/
 published_time: 2021-10-18 13:18:08-04:00
-title: Proclamation on the Death of General Colin Powell
+title: "Proclamation on the Death of General Colin\_Powell"
 ---
  
      General Colin Powell was a patriot of unmatched honor and dignity.

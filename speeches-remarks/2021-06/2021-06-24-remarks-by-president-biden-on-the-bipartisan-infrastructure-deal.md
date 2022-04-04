@@ -4,7 +4,7 @@ date: '2021-06-24'
 modified_time: 2021-06-24 17:38:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/24/remarks-by-president-biden-on-the-bipartisan-infrastructure-deal/
 published_time: 2021-06-24 17:45:00-04:00
-title: Remarks by President Biden on the Bipartisan Infrastructure Deal
+title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Deal"
 ---
  
 East Room

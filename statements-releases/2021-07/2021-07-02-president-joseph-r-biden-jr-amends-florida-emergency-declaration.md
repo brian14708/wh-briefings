@@ -4,7 +4,7 @@ date: '2021-07-02'
 modified_time: 2021-07-02 14:45:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/president-joseph-r-biden-jr-amends-florida-emergency-declaration/
 published_time: 2021-07-02 14:45:53-04:00
-title: President Joseph R. Biden, Jr. Amends Florida Emergency Declaration
+title: "President Joseph R. Biden, Jr. Amends Florida Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. made additional assistance

@@ -4,8 +4,8 @@ date: '2021-10-27'
 modified_time: 2021-10-27 09:00:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/statement-by-president-joe-biden-three-years-after-the-tree-of-life-synagogue-shooting/
 published_time: 2021-10-27 09:00:13-04:00
-title: Statement by President Joe Biden Three Years After the Tree of Life Synagogue
-  Shooting
+title: "Statement by President Joe\_Biden Three Years After the Tree of Life Synagogue\_\
+  Shooting"
 ---
  
 Three years ago, on a peaceful *Shabbat* morning, a lone gunman stormed

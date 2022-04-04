@@ -4,8 +4,8 @@ date: '2021-11-18'
 modified_time: 2021-11-18 21:24:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-president-biden-prime-minister-trudeau-of-canada-and-president-lopez-obrador-of-mexico-before-north-american-leaders-summit/
 published_time: 2021-11-18 21:24:16-05:00
-title: "Remarks by President Biden, Prime Minister Trudeau of Canada, and President\
-  \ L\xF3pez Obrador of Mexico Before North American Leaders\u2019 Summit"
+title: "Remarks by President\_Biden, Prime Minister Trudeau of Canada, and President\
+  \ L\xF3pez Obrador of Mexico Before North American Leaders\u2019\_Summit"
 ---
  
 East Room

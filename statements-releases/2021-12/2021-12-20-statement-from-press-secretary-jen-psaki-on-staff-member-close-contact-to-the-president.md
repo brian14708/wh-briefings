@@ -4,8 +4,8 @@ date: '2021-12-20'
 modified_time: 2021-12-20 19:02:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/statement-from-press-secretary-jen-psaki-on-staff-member-close-contact-to-the-president/
 published_time: 2021-12-20 19:00:00-05:00
-title: Statement from Press Secretary Jen Psaki on Staff Member Close Contact to the
-  President
+title: "Statement from Press Secretary Jen\_Psaki on Staff Member Close Contact to\
+  \ the\_President"
 ---
  
 As we stated last summer, we believe it is in the public’s interest to

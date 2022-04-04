@@ -4,7 +4,7 @@ date: '2021-05-04'
 modified_time: 2021-05-06 13:49:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/04/president-joseph-r-biden-jr-approves-mississippi-disaster-declaration/
 published_time: 2021-05-04 14:48:00-04:00
-title: President Joseph R. Biden, Jr. Approves Mississippi Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Mississippi Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

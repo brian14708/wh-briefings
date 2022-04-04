@@ -4,8 +4,8 @@ date: '2022-02-10'
 modified_time: 2022-02-10 09:57:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-from-nsc-spokesperson-on-national-security-advisor-jake-sullivan-meeting-with-israeli-national-security-advisor-eyal-hulata/
 published_time: 2022-02-10 04:00:00-05:00
-title: Readout from NSC Spokesperson on National Security Advisor Jake Sullivan Meeting
-  with Israeli National Security Advisor Eyal Hulata
+title: "Readout from NSC Spokesperson on National Security Advisor Jake Sullivan Meeting\
+  \ with Israeli National Security Advisor Eyal\_Hulata"
 ---
  
 National Security Advisor Jake Sullivan hosted Israeli National Security

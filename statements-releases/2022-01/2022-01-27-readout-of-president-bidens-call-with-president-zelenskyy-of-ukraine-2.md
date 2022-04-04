@@ -4,7 +4,7 @@ date: '2022-01-27'
 modified_time: 2022-01-27 17:10:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-2/
 published_time: 2022-01-27 17:10:27-05:00
-title: "Readout of President Biden\u2019s Call with President Zelenskyy of Ukraine"
+title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Volodymyr

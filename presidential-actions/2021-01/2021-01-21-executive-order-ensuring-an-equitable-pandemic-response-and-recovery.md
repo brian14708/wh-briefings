@@ -4,7 +4,7 @@ date: '2021-01-21'
 modified_time: 2021-01-21 16:34:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/
 published_time: 2021-01-21 16:34:18-05:00
-title: Executive Order on Ensuring an Equitable Pandemic Response and Recovery
+title: "Executive Order on Ensuring an Equitable Pandemic Response and\_Recovery"
 ---
  
 By the authority vested in me as President by the Constitution and the

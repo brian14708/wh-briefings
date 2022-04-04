@@ -4,8 +4,8 @@ date: '2021-03-29'
 modified_time: 2021-03-29 10:23:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/
 published_time: 2021-03-29 12:30:00-04:00
-title: 'FACT SHEET: Biden Administration Jumpstarts Offshore Wind Energy Projects
-  to Create Jobs'
+title: "FACT SHEET: Biden Administration Jumpstarts Offshore Wind Energy Projects\
+  \ to Create\_Jobs"
 ---
  
 *Interior, Energy, Commerce, and Transportation Departments Announce New

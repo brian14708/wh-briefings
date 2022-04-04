@@ -4,8 +4,8 @@ date: '2022-03-25'
 modified_time: 2022-03-25 03:33:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/fact-sheet-united-states-and-european-commission-announce-task-force-to-reduce-europes-dependence-on-russian-fossil-fuels/
 published_time: 2022-03-25 04:30:00-04:00
-title: "FACT SHEET: United States and European Commission Announce Task Force to Reduce\
-  \ Europe\u2019s Dependence on Russian Fossil Fuels"
+title: "FACT SHEET: United\_States and European Commission Announce Task Force to\
+  \ Reduce Europe\u2019s Dependence on Russian Fossil\_Fuels"
 ---
  
 Today, President Joe Biden and European Commission President Ursula von

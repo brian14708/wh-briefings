@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-03-01'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/01/fact-sheet-u-s-mexico-bilateral-cooperation/
 published_time: 2021-03-01 11:36:04-05:00
-title: "FACT SHEET: U.S. \u2013 Mexico Bilateral Cooperation"
+title: "FACT SHEET: U.S. \u2013 Mexico Bilateral\_Cooperation"
 ---
  
 *“We are friends and allies, and our relationship is based on mutual

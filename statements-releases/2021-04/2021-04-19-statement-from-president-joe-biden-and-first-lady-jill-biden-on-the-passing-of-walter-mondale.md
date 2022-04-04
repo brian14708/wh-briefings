@@ -4,8 +4,8 @@ date: '2021-04-19'
 modified_time: 2021-04-19 23:20:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-walter-mondale/
 published_time: 2021-04-19 23:20:05-04:00
-title: Statement from President Joe Biden and First Lady Jill Biden on the Passing
-  of Walter Mondale
+title: "Statement from President Joe\_Biden and First Lady Jill\_Biden on the Passing\
+  \ of Walter\_Mondale"
 ---
  
 It’s with great sadness that Jill and I learned of the passing of Vice

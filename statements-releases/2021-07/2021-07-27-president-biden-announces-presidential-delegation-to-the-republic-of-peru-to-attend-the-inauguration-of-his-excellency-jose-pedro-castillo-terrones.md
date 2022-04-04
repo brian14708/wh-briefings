@@ -4,8 +4,8 @@ date: '2021-07-27'
 modified_time: 2021-07-27 10:24:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/president-biden-announces-presidential-delegation-to-the-republic-of-peru-to-attend-the-inauguration-of-his-excellency-jose-pedro-castillo-terrones/
 published_time: 2021-07-27 10:24:20-04:00
-title: "President Biden Announces Presidential Delegation to the Republic of Peru\
-  \ to Attend the Inauguration of His Excellency Jos\xE9 Pedro Castillo Terrones"
+title: "President\_Biden Announces Presidential Delegation to the Republic of Peru\
+  \ to Attend the Inauguration of His Excellency Jos\xE9 Pedro Castillo\_Terrones"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

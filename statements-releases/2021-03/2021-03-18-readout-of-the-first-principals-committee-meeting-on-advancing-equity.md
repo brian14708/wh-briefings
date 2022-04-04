@@ -4,7 +4,7 @@ date: '2021-03-18'
 modified_time: 2021-03-18 22:31:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/readout-of-the-first-principals-committee-meeting-on-advancing-equity/
 published_time: 2021-03-18 22:31:05-04:00
-title: Readout of the First Principals Committee Meeting on Advancing Equity
+title: "Readout of the First Principals Committee Meeting on Advancing\_Equity"
 ---
  
 Today, Domestic Policy Advisor Susan Rice convened the first Principals

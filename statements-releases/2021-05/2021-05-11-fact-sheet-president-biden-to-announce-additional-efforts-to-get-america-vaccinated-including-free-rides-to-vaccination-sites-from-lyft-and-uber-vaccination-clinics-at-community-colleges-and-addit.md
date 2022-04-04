@@ -4,10 +4,10 @@ date: '2021-05-11'
 modified_time: 2021-05-11 11:10:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/fact-sheet-president-biden-to-announce-additional-efforts-to-get-america-vaccinated-including-free-rides-to-vaccination-sites-from-lyft-and-uber-vaccination-clinics-at-community-colleges-and-addit/
 published_time: 2021-05-11 11:10:50-04:00
-title: "FACT SHEET: President Biden to Announce Additional Efforts to Get America\
+title: "FACT SHEET: President\_Biden to Announce Additional Efforts to Get America\
   \ Vaccinated, Including Free Rides to Vaccination Sites from Lyft and Uber, Vaccination\
   \ Clinics at Community Colleges, and Additional Resources for States\u2019 Community\
-  \ Outreach Efforts"
+  \ Outreach\_Efforts"
 ---
  
 *President Biden to Meet with Bipartisan Governors to Discuss Innovative

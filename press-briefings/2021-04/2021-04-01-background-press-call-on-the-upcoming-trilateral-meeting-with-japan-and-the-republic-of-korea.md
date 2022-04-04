@@ -4,8 +4,8 @@ date: '2021-04-01'
 modified_time: 2021-04-01 18:54:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/01/background-press-call-on-the-upcoming-trilateral-meeting-with-japan-and-the-republic-of-korea/
 published_time: 2021-04-01 21:02:00-04:00
-title: Background Press Call on the Upcoming Trilateral Meeting with Japan and the
-  Republic of Korea
+title: "Background Press Call on the Upcoming Trilateral Meeting with Japan and the\
+  \ Republic of\_Korea"
 ---
  
 Via Teleconference

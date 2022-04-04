@@ -5,7 +5,7 @@ modified_time: 2021-05-10 13:30:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/readout-of-president-joseph-r-biden-jr-s-participation-in-the-bucharest-nine-virtual-summit/
 published_time: 2021-05-10 13:30:02-04:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Participation in the Bucharest\
-  \ Nine Virtual Summit"
+  \ Nine Virtual\_Summit"
 ---
  
 President Joseph R. Biden, Jr. spoke today with NATO’s eastern flank

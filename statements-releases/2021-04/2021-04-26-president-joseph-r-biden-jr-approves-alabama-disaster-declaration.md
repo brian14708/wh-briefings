@@ -4,7 +4,7 @@ date: '2021-04-26'
 modified_time: 2021-04-26 14:34:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/president-joseph-r-biden-jr-approves-alabama-disaster-declaration/
 published_time: 2021-04-26 14:34:12-04:00
-title: President Joseph R. Biden, Jr. Approves Alabama Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Alabama Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

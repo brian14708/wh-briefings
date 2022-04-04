@@ -4,7 +4,7 @@ date: '2021-04-12'
 modified_time: 2021-04-12 15:47:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/12/press-briefing-by-press-secretary-jen-psaki-april-12-2021/
 published_time: 2021-04-12 15:47:20-04:00
-title: Press Briefing by Press Secretary Jen Psaki, April 12, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, April 12,\_2021"
 ---
  
 James S. Brady Press Briefing Room

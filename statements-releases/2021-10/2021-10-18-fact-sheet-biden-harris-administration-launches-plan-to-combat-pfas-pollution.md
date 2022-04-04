@@ -4,8 +4,8 @@ date: '2021-10-18'
 modified_time: 2021-10-18 11:14:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/
 published_time: 2021-10-18 10:15:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Launches Plan to Combat PFAS\
-  \ Pollution"
+title: "FACT SHEET: Biden-\u2060Harris Administration Launches Plan to Combat PFAS\_\
+  Pollution"
 ---
  
 *Eight Agencies Announce Steps, including New EPA Roadmap, to Take

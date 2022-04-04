@@ -4,7 +4,7 @@ date: '2021-07-12'
 modified_time: 2021-07-14 17:44:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-vice-president-harris-during-a-voting-rights-listening-session/
 published_time: 2021-07-12 17:44:00-04:00
-title: Remarks by Vice President Harris During a Voting Rights Listening Session
+title: "Remarks by Vice President Harris During a Voting Rights Listening\_Session"
 ---
  
 TCF Center  

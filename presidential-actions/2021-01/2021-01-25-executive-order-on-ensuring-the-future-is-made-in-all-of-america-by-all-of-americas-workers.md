@@ -5,7 +5,7 @@ modified_time: 2021-01-25 17:33:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/
 published_time: 2021-01-25 17:33:02-05:00
 title: "Executive Order on Ensuring the Future Is Made in All of America by All of\
-  \ America\u2019s Workers"
+  \ America\u2019s\_Workers"
 ---
  
 By the authority vested in me as President by the Constitution and the

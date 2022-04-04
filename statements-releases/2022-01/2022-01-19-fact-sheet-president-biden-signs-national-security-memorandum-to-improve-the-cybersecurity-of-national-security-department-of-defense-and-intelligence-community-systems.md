@@ -4,9 +4,9 @@ date: '2022-01-19'
 modified_time: 2022-01-19 10:59:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-president-biden-signs-national-security-memorandum-to-improve-the-cybersecurity-of-national-security-department-of-defense-and-intelligence-community-systems/
 published_time: 2022-01-19 10:59:18-05:00
-title: 'FACT SHEET: President Biden Signs National Security Memorandum to Improve
-  the Cybersecurity of National Security, Department of Defense, and Intelligence
-  Community Systems'
+title: "FACT SHEET: President\_Biden Signs National Security Memorandum to Improve\
+  \ the Cybersecurity of National Security, Department of Defense, and Intelligence\
+  \ Community\_Systems"
 ---
  
 Today, President Biden signed a National Security Memorandum (NSM) to

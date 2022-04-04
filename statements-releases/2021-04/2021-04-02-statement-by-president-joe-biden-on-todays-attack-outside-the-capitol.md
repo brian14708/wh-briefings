@@ -4,7 +4,7 @@ date: '2021-04-02'
 modified_time: 2021-04-02 17:30:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/statement-by-president-joe-biden-on-todays-attack-outside-the-capitol/
 published_time: 2021-04-02 16:54:30-04:00
-title: "Statement by President Joe Biden on Today\u2019s Attack Outside the Capitol"
+title: "Statement by President Joe\_Biden on Today\u2019s Attack Outside the\_Capitol"
 ---
  
 Jill and I were heartbroken to learn of the violent attack at a security

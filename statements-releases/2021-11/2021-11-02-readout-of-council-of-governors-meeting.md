@@ -4,7 +4,7 @@ date: '2021-11-02'
 modified_time: 2021-11-02 15:57:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/readout-of-council-of-governors-meeting/
 published_time: 2021-11-02 15:57:42-04:00
-title: Readout of Council of Governors Meeting
+title: "Readout of Council of Governors\_Meeting"
 ---
  
 Yesterday, senior officials from the White House, Department of Defense,

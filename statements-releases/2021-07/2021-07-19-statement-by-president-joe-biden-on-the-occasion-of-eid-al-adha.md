@@ -4,7 +4,7 @@ date: '2021-07-19'
 modified_time: 2021-07-19 20:52:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/statement-by-president-joe-biden-on-the-occasion-of-eid-al-adha/
 published_time: 2021-07-19 20:52:11-04:00
-title: Statement by President Joe Biden on the Occasion of Eid al-Adha
+title: "Statement by President Joe\_Biden on the Occasion of Eid\_al-Adha"
 ---
  
 Jill and I send our warmest greetings to those celebrating Eid al-Adha

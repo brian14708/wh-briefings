@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-02-19'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/readout-of-president-joseph-r-biden-jr-call-with-acting-fema-administrator-bob-fenton/
 published_time: 2021-02-19 18:38:18-05:00
-title: Readout of President Joseph R. Biden, Jr. Call with Acting FEMA Administrator
-  Bob Fenton
+title: "Readout of President Joseph R. Biden, Jr. Call with Acting FEMA Administrator\
+  \ Bob\_Fenton"
 ---
  
 President Joseph R. Biden, Jr. spoke this afternoon with Acting FEMA

@@ -4,7 +4,7 @@ date: '2021-11-08'
 modified_time: 2021-11-08 11:08:04-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/08/a-proclamation-on-world-freedom-day-2021/
 published_time: 2021-11-08 11:08:03-05:00
-title: A Proclamation on World Freedom Day, 2021
+title: "A Proclamation on World Freedom Day,\_2021"
 ---
  
 For nearly 3 decades, the Berlin Wall stood as a physical symbol of the

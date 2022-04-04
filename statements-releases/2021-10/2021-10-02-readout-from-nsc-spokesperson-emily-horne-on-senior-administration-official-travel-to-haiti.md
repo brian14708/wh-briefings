@@ -4,8 +4,8 @@ date: '2021-10-02'
 modified_time: 2021-10-02 13:28:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/02/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-haiti/
 published_time: 2021-10-02 13:28:21-04:00
-title: Readout from NSC Spokesperson Emily Horne on Senior Administration Official
-  Travel to Haiti
+title: "Readout from NSC Spokesperson Emily Horne on Senior Administration Official\
+  \ Travel to\_Haiti"
 ---
  
 On September 30–October 1, Assistant Secretary of State for Western

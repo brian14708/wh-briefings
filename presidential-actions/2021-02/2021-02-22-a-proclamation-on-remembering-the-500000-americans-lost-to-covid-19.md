@@ -4,8 +4,8 @@ date: '2021-02-22'
 modified_time: 2021-02-22 16:33:16-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/22/a-proclamation-on-remembering-the-500000-americans-lost-to-covid-19/
 published_time: 2021-02-22 16:33:15-05:00
-title: "A Proclamation on Remembering the 500,000 Americans Lost to COVID- \u2060\
-  \ 19"
+title: "A Proclamation on Remembering the 500,000 Americans Lost to\_COVID-\u2060\
+  19"
 ---
  
 As of this week during the dark winter of the COVID-19 pandemic, more

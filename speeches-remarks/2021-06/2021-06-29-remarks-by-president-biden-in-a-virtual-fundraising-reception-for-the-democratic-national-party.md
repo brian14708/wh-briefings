@@ -4,8 +4,8 @@ date: '2021-06-29'
 modified_time: 2021-06-29 16:10:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/29/remarks-by-president-biden-in-a-virtual-fundraising-reception-for-the-democratic-national-party/
 published_time: 2021-06-29 08:39:36-04:00
-title: Remarks by President Biden in a Virtual Fundraising Reception for the Democratic
-  National Committee
+title: "Remarks by President\_Biden in a Virtual Fundraising Reception for the Democratic\
+  \ National\_Committee"
 ---
  
 Via Teleconference  

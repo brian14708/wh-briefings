@@ -5,7 +5,7 @@ modified_time: 2021-02-16 19:03:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/a-letter-to-dr-eric-s-lander-the-presidents-science-advisor-and-nominee-as-director-of-the-office-of-science-and-technology-policy/
 published_time: 2021-01-20 14:37:00-05:00
 title: "A Letter to Dr. Eric S. Lander, the President\u2019s Science Advisor and nominee\
-  \ as Director of the Office of Science and Technology Policy"
+  \ as Director of the Office of Science and Technology\_Policy"
 ---
  
 *On January 15, 2021, then-President-Elect Biden sent this following

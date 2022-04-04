@@ -4,7 +4,7 @@ date: '2021-08-09'
 modified_time: 2021-08-09 11:47:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/statement-by-president-joseph-r-biden-jr-on-belarus/
 published_time: 2021-08-09 10:57:22-04:00
-title: Statement by President Joseph R. Biden, Jr. on Belarus
+title: "Statement by President Joseph R. Biden, Jr. on\_Belarus"
 ---
  
 One year ago today, the people of Belarus sought to make their voices

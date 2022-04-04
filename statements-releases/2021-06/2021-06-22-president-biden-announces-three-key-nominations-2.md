@@ -4,7 +4,7 @@ date: '2021-06-22'
 modified_time: 2021-06-23 10:08:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/22/president-biden-announces-three-key-nominations-2/
 published_time: 2021-06-22 16:19:44-04:00
-title: President Biden Announces Three Key Nominations
+title: "President\_Biden Announces Three Key\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

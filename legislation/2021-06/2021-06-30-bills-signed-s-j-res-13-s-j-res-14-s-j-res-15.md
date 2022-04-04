@@ -4,7 +4,7 @@ date: '2021-06-30'
 modified_time: 2022-03-15 11:08:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/06/30/bills-signed-s-j-res-13-s-j-res-14-s-j-res-15/
 published_time: 2021-06-30 18:26:55-04:00
-title: 'Bills Signed: S.J.Res. 13, S.J.Res. 14, S.J.Res. 15'
+title: "Bills Signed: S.J.Res. 13, S.J.Res. 14, S.J.Res.\_15"
 ---
  
 On Wednesday, June 30, 2021, the President signed into law:

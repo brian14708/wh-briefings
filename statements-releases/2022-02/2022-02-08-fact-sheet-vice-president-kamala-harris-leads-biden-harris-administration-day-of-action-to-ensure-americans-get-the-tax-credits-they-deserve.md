@@ -4,8 +4,8 @@ date: '2022-02-08'
 modified_time: 2022-02-16 12:06:13-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-vice-president-kamala-harris-leads-biden-harris-administration-day-of-action-to-ensure-americans-get-the-tax-credits-they-deserve/
 published_time: 2022-02-08 05:00:00-05:00
-title: "FACT SHEET: Vice President Kamala Harris Leads Biden- \u2060 Harris Administration\
-  \ Day of Action to Ensure Americans Get the Tax Credits They Deserve"
+title: "FACT SHEET: Vice President Kamala\_Harris Leads Biden-\u2060Harris Administration\
+  \ Day of Action to Ensure Americans Get the Tax Credits They\_Deserve"
 ---
  
 *Vice President Harris and Secretary Yellen Headline Day of Action Event

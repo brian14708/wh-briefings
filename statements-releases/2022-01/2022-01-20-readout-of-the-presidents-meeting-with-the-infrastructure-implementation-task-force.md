@@ -5,7 +5,7 @@ modified_time: 2022-01-20 12:37:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/readout-of-the-presidents-meeting-with-the-infrastructure-implementation-task-force/
 published_time: 2022-01-20 12:37:37-05:00
 title: "Readout of the President\u2019s Meeting with the Infrastructure Implementation\
-  \ Task Force"
+  \ Task\_Force"
 ---
  
 Today, on the anniversary of their first year in office, President Biden

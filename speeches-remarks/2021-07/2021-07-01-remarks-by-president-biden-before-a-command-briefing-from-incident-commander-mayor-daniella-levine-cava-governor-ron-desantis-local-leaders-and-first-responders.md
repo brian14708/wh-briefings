@@ -4,8 +4,9 @@ date: '2021-07-01'
 modified_time: 2021-07-01 14:21:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/01/remarks-by-president-biden-before-a-command-briefing-from-incident-commander-mayor-daniella-levine-cava-governor-ron-desantis-local-leaders-and-first-responders/
 published_time: 2021-07-01 14:21:26-04:00
-title: Remarks by President Biden Before a Command Briefing from Incident Commander
-  Mayor Daniella Levine Cava, Governor Ron DeSantis, Local Leaders, and First Responders
+title: "Remarks by President\_Biden Before a Command Briefing from Incident Commander\
+  \ Mayor Daniella Levine Cava, Governor Ron DeSantis, Local Leaders, and First\_\
+  Responders"
 ---
  
 St. Regis Hotel  

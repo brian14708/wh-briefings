@@ -4,8 +4,8 @@ date: '2021-05-05'
 modified_time: 2021-05-05 19:35:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/05/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-agriculture-tom-vilsack-may-5-2021/
 published_time: 2021-05-05 19:45:00-04:00
-title: Press Briefing by Press Secretary Jen Psaki and Secretary of Agriculture Tom
-  Vilsack, May 5, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Agriculture\
+  \ Tom Vilsack, May 5,\_2021"
 ---
  
 James S. Brady Press Briefing Room

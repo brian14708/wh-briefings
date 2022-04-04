@@ -4,8 +4,8 @@ date: '2022-01-20'
 modified_time: 2022-02-23 17:12:55-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/readout-of-president-bidens-meeting-with-the-presidents-council-of-advisors-on-science-and-technology-pcast/
 published_time: 2022-01-20 21:49:49-05:00
-title: "Readout of President Biden\u2019s Meeting with the President\u2019s Council\
-  \ of Advisors on Science and Technology (PCAST)"
+title: "Readout of President\_Biden\u2019s Meeting with the President\u2019s Council\
+  \ of Advisors on Science and Technology\_(PCAST)"
 ---
  
 Today, President Joe Biden convened a meeting of the President’s Council

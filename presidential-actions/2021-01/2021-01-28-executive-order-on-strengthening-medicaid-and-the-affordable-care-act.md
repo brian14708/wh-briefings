@@ -4,7 +4,7 @@ date: '2021-01-28'
 modified_time: 2021-02-01 09:40:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/28/executive-order-on-strengthening-medicaid-and-the-affordable-care-act/
 published_time: 2021-01-28 15:15:07-05:00
-title: Executive Order on Strengthening Medicaid and the Affordable Care Act
+title: "Executive Order on Strengthening Medicaid and the Affordable Care\_Act"
 ---
  
 By the authority vested in me as President by the Constitution and the

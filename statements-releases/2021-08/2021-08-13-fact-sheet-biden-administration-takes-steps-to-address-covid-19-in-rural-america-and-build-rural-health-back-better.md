@@ -4,8 +4,8 @@ date: '2021-08-13'
 modified_time: 2021-08-16 09:45:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-biden-administration-takes-steps-to-address-covid-19-in-rural-america-and-build-rural-health-back-better/
 published_time: 2021-08-13 07:00:00-04:00
-title: "Fact Sheet: Biden Administration Takes Steps to Address COVID- \u2060 19 in\
-  \ Rural America and Build Rural Health Back Better"
+title: "Fact Sheet: Biden Administration Takes Steps to Address COVID-\u206019 in\
+  \ Rural America and Build Rural Health Back\_Better"
 ---
  
 Today, the Biden Administration is taking action to improve the health

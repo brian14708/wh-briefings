@@ -4,7 +4,7 @@ date: '2021-01-29'
 modified_time: 2021-01-29 16:25:22-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/29/statement-on-the-12th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
 published_time: 2021-01-29 16:25:21-05:00
-title: Statement on the 12th Anniversary of the Lilly Ledbetter Fair Pay Act
+title: "Statement on the 12th Anniversary of the Lilly Ledbetter Fair Pay\_Act"
 ---
  
 Twelve years ago to the day, President Obama and I were a little over a

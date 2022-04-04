@@ -4,7 +4,7 @@ date: '2021-10-13'
 modified_time: 2021-10-12 20:43:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-ongoing-public-u-s-efforts-to-counter-ransomware/
 published_time: 2021-10-13 05:00:00-04:00
-title: 'FACT SHEET: Ongoing Public U.S. Efforts to Counter Ransomware'
+title: "FACT SHEET: Ongoing Public U.S. Efforts to Counter\_Ransomware"
 ---
  
 This week the National Security Council is facilitating an international

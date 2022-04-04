@@ -4,8 +4,8 @@ date: '2021-04-07'
 modified_time: 2021-04-06 16:52:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-first-lady-jill-biden-sets-course-for-the-next-phase-of-joining-forces/
 published_time: 2021-04-07 11:30:00-04:00
-title: 'Fact Sheet: First Lady Jill Biden Sets Course for the Next Phase of Joining
-  Forces'
+title: "Fact Sheet: First Lady Jill\_Biden Sets Course for the Next Phase of Joining\_\
+  Forces"
 ---
  
 ***Joining Forces to Focus on Military Family Employment and

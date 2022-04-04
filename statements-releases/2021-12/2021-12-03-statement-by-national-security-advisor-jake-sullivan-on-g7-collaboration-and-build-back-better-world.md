@@ -4,8 +4,8 @@ date: '2021-12-03'
 modified_time: 2021-12-03 12:43:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/statement-by-national-security-advisor-jake-sullivan-on-g7-collaboration-and-build-back-better-world/
 published_time: 2021-12-03 12:43:43-05:00
-title: Statement by National Security Advisor Jake Sullivan on G7 Collaboration and
-  Build Back Better World
+title: "Statement by National Security Advisor Jake Sullivan on G7 Collaboration and\
+  \ Build Back Better\_World"
 ---
  
 In June, President Biden—alongside G7 Leaders—announced Build Back

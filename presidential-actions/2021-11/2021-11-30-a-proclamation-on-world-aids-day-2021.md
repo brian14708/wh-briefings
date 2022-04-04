@@ -4,7 +4,7 @@ date: '2021-11-30'
 modified_time: 2021-11-30 09:13:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/30/a-proclamation-on-world-aids-day-2021/
 published_time: 2021-11-30 09:13:41-05:00
-title: A Proclamation on World AIDS Day, 2021
+title: "A Proclamation on World AIDS Day,\_2021"
 ---
  
 For decades, World AIDS Day has been recognized as an opportunity for

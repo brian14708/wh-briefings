@@ -4,7 +4,7 @@ date: '2021-12-16'
 modified_time: 2022-03-15 10:05:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/12/16/bills-signed-h-r-5142-and-s-j-res-33/
 published_time: 2021-12-16 11:40:00-05:00
-title: 'Bills Signed: H.R. 5142 and S.J. Res. 33'
+title: "Bills Signed: H.R. 5142 and S.J. Res.\_33"
 ---
  
 On Thursday, December 16, 2021, the President signed into law:

@@ -4,8 +4,8 @@ date: '2022-03-16'
 modified_time: 2022-03-16 08:14:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-biden-harris-administration-announces-resources-for-historically-black-colleges-and-universities-that-have-recently-experienced-bomb-threats/
 published_time: 2022-03-16 08:14:23-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Announces Resources for Historically\
-  \ Black Colleges and Universities that Have Recently Experienced Bomb Threats"
+title: "FACT SHEET: Biden-\u2060Harris Administration Announces Resources for Historically\
+  \ Black Colleges and Universities that Have Recently Experienced Bomb\_Threats"
 ---
  
 *Vice President Harris To Make Announcement During White House

@@ -5,7 +5,7 @@ modified_time: 2021-09-09 13:34:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/statement-from-the-president-on-withdrawal-of-david-chipmans-nomination-to-lead-atf/
 published_time: 2021-09-09 13:34:22-04:00
 title: "Statement from the President on Withdrawal of David Chipman\u2019s Nomination\
-  \ to Lead ATF"
+  \ to Lead\_ATF"
 ---
  
 David Chipman spent 25 years in distinguished service to our country as

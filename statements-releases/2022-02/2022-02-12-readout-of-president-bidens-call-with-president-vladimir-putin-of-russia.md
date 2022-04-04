@@ -4,7 +4,8 @@ date: '2022-02-12'
 modified_time: 2022-02-12 12:52:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/readout-of-president-bidens-call-with-president-vladimir-putin-of-russia/
 published_time: 2022-02-12 12:52:51-05:00
-title: "Readout of President Biden\u2019s Call with President Vladimir Putin of Russia"
+title: "Readout of President\_Biden\u2019s Call with President Vladimir Putin of\_\
+  Russia"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Vladimir Putin

@@ -4,7 +4,7 @@ date: '2021-07-22'
 modified_time: 2021-07-22 09:42:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/22/remarks-by-president-biden-before-air-force-one-departure-6/
 published_time: 2021-07-22 09:42:34-04:00
-title: Remarks by President Biden Before Air Force One Departure
+title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
 Cincinnati/Northern Kentucky International Airport   

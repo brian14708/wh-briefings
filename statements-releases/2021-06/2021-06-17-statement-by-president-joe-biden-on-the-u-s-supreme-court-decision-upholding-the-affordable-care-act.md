@@ -4,8 +4,8 @@ date: '2021-06-17'
 modified_time: 2021-06-17 12:55:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/17/statement-by-president-joe-biden-on-the-u-s-supreme-court-decision-upholding-the-affordable-care-act/
 published_time: 2021-06-17 12:55:45-04:00
-title: Statement by President Joe Biden on the U.S. Supreme Court Decision Upholding
-  the Affordable Care Act
+title: "Statement by President Joe\_Biden on the U.S. Supreme Court Decision Upholding\
+  \ the Affordable Care\_Act"
 ---
  
 The Affordable Care Act remains the law of the land.   

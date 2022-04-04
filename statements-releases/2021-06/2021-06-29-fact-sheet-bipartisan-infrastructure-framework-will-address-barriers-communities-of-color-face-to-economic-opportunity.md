@@ -4,8 +4,8 @@ date: '2021-06-29'
 modified_time: 2021-06-29 20:11:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/29/fact-sheet-bipartisan-infrastructure-framework-will-address-barriers-communities-of-color-face-to-economic-opportunity/
 published_time: 2021-06-29 18:30:00-04:00
-title: 'Fact Sheet: Bipartisan Infrastructure Framework Will Address Barriers Communities
-  of Color Face to Economic Opportunity'
+title: "Fact Sheet: Bipartisan Infrastructure Framework Will Address Barriers Communities\
+  \ of Color Face to Economic\_Opportunity"
 ---
  
 The Bipartisan Infrastructure Framework addresses economic disparities

@@ -5,7 +5,7 @@ modified_time: 2021-09-07 15:06:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/remarks-by-vice-president-harris-and-president-phuc-of-the-socialist-republic-of-vietnam-in-hanoi-vietnam/
 published_time: 2021-08-24 04:35:00-04:00
 title: "Remarks by Vice President Harris and President Ph\xFAc of the Socialist Republic\
-  \ of Vietnam in Hanoi, Vietnam"
+  \ of Vietnam in Hanoi,\_Vietnam"
 ---
  
 Presidential Palace  

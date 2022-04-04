@@ -4,8 +4,8 @@ date: '2021-07-23'
 modified_time: 2021-07-23 19:22:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-of-president-joseph-r-biden-jr-call-with-president-ashraf-ghani-of-afghanistan-2/
 published_time: 2021-07-23 19:22:18-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with President Ashraf Ghani
-  of Afghanistan
+title: "Readout of President Joseph R. Biden, Jr. Call with President Ashraf Ghani\
+  \ of\_Afghanistan"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Ashraf Ghani

@@ -5,7 +5,7 @@ modified_time: 2021-06-09 10:32:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/09/fact-sheet-executive-order-protecting-americans-sensitive-data-from-foreign-adversaries/
 published_time: 2021-06-09 10:32:08-04:00
 title: "FACT SHEET: Executive Order Protecting Americans\u2019 Sensitive Data from\
-  \ Foreign Adversaries"
+  \ Foreign\_Adversaries"
 ---
  
 The Biden Administration is committed to promoting an open,

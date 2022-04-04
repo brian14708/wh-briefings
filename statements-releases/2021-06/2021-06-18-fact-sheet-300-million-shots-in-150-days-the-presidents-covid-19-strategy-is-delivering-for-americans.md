@@ -4,8 +4,8 @@ date: '2021-06-18'
 modified_time: 2021-06-18 15:53:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/18/fact-sheet-300-million-shots-in-150-days-the-presidents-covid-19-strategy-is-delivering-for-americans/
 published_time: 2021-06-18 14:00:00-04:00
-title: "FACT SHEET: 300 Million Shots in 150 Days: The President\u2019s COVID- \u2060\
-  \ 19 Strategy is Delivering for Americans"
+title: "FACT SHEET: 300 Million Shots in 150 Days: The President\u2019s COVID-\u2060\
+  19 Strategy is Delivering for\_Americans"
 ---
  
 When President Biden took office 150 days ago, more than 3,300 Americans

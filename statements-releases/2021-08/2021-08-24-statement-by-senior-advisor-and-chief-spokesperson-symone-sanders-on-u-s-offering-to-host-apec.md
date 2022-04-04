@@ -4,8 +4,8 @@ date: '2021-08-24'
 modified_time: 2021-12-23 15:33:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/24/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-u-s-offering-to-host-apec/
 published_time: 2021-08-24 00:35:00-04:00
-title: Statement by Senior Advisor and Chief Spokesperson Symone Sanders on U.S. Offering
-  to Host APEC
+title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on U.S.\
+  \ Offering to Host\_APEC"
 ---
  
 Today, Vice President Kamala Harris announced in Singapore that the

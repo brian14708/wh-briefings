@@ -5,7 +5,7 @@ modified_time: 2021-10-31 11:39:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-lee-hsien-loong-of-singapore/
 published_time: 2021-10-31 11:39:20-04:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Meeting with Prime Minister\
-  \ Lee Hsien Loong of Singapore"
+  \ Lee Hsien Loong of\_Singapore"
 ---
  
 President Joseph R. Biden, Jr. today met with Prime Minister Lee Hsien

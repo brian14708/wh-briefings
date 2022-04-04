@@ -4,7 +4,7 @@ date: '2021-12-31'
 modified_time: 2021-12-31 13:11:36-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/31/readout-of-president-bidens-call-with-colorado-governor-jared-polis/
 published_time: 2021-12-31 13:11:35-05:00
-title: "Readout of President Biden\u2019s Call with Colorado Governor Jared Polis"
+title: "Readout of President\_Biden\u2019s Call with Colorado Governor Jared\_Polis"
 ---
  
 The President spoke this morning with Governor Jared Polis to discuss

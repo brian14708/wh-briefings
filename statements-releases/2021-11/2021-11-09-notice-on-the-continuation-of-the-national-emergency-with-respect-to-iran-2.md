@@ -4,7 +4,7 @@ date: '2021-11-09'
 modified_time: 2021-11-09 11:38:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-2/
 published_time: 2021-11-09 11:38:25-05:00
-title: Notice on the Continuation of the National Emergency with Respect to Iran
+title: "Notice on the Continuation of the National Emergency with Respect to\_Iran"
 ---
  
 On November 14, 1979, by Executive Order 12170, the President declared a

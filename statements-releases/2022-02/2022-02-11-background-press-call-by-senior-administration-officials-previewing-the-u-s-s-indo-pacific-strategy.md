@@ -5,7 +5,7 @@ modified_time: 2022-02-11 15:13:17-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/background-press-call-by-senior-administration-officials-previewing-the-u-s-s-indo-pacific-strategy/
 published_time: 2022-02-11 15:13:16-05:00
 title: "Background Press Call by Senior Administration Officials Previewing the U.S.\u2019\
-  s Indo-Pacific Strategy"
+  s Indo-Pacific\_Strategy"
 ---
  
 11:07 A.M. EST

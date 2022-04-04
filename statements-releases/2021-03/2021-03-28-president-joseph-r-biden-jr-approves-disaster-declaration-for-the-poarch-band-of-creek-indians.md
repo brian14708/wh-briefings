@@ -4,8 +4,8 @@ date: '2021-03-28'
 modified_time: 2021-03-28 15:26:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/28/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-poarch-band-of-creek-indians/
 published_time: 2021-03-28 15:26:07-04:00
-title: President Joseph R. Biden, Jr. Approves Disaster Declaration for the Poarch
-  Band of Creek Indians
+title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Poarch\
+  \ Band of Creek\_Indians"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

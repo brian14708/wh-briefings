@@ -4,8 +4,8 @@ date: '2021-08-27'
 modified_time: 2021-08-27 21:51:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/readout-of-president-bidens-call-with-gulf-coast-governors-in-advance-of-hurricane-ida/
 published_time: 2021-08-27 21:33:49-04:00
-title: "Readout of President Biden\u2019s Call with Gulf Coast Governors in Advance\
-  \ of Hurricane Ida"
+title: "Readout of President\_Biden\u2019s Call with Gulf Coast Governors in Advance\
+  \ of Hurricane\_Ida"
 ---
  
 This afternoon, President Biden convened a call with the Governors of

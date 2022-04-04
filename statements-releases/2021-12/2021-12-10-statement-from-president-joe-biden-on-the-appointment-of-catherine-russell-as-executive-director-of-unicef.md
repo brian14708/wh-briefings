@@ -4,8 +4,8 @@ date: '2021-12-10'
 modified_time: 2021-12-10 12:31:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-from-president-joe-biden-on-the-appointment-of-catherine-russell-as-executive-director-of-unicef/
 published_time: 2021-12-10 12:31:53-05:00
-title: Statement from President Joe Biden on the Appointment of Catherine Russell
-  as Executive Director of UNICEF
+title: "Statement from President Joe\_Biden on the Appointment of Catherine Russell\
+  \ as Executive Director of\_UNICEF"
 ---
  
 Ambassador Cathy Russell has been a trusted and indispensable advisor to

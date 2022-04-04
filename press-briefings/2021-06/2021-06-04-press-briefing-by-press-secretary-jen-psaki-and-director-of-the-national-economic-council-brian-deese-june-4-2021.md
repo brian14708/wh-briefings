@@ -4,8 +4,8 @@ date: '2021-06-04'
 modified_time: 2021-06-07 08:12:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/04/press-briefing-by-press-secretary-jen-psaki-and-director-of-the-national-economic-council-brian-deese-june-4-2021/
 published_time: 2021-06-04 08:09:00-04:00
-title: Press Briefing by Press Secretary Jen Psaki and Director of the National Economic
-  Council Brian Deese, June 4, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and Director of the National\
+  \ Economic Council Brian Deese, June 4,\_2021"
 ---
  
 James S. Brady Press Briefing Room

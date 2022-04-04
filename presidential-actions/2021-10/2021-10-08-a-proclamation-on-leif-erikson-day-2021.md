@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 10:30:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-leif-erikson-day-2021/
 published_time: 2021-10-08 10:30:54-04:00
-title: A Proclamation on Leif Erikson Day, 2021
+title: "A Proclamation on Leif Erikson Day,\_2021"
 ---
  
 The voyage of Leif Erikson and his valiant crew — bold explorers from

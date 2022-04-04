@@ -4,8 +4,8 @@ date: '2021-06-14'
 modified_time: 2021-06-14 19:20:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/14/background-press-call-by-a-senior-administration-official-on-president-bidens-engagements-at-nato-summit/
 published_time: 2021-06-14 05:57:00-04:00
-title: "Background Press Call by a Senior Administration Official On President Biden\u2019\
-  s Engagements at NATO Summit"
+title: "Background Press Call by a Senior Administration Official On President\_Biden\u2019\
+  s Engagements at NATO\_Summit"
 ---
  
 Via Teleconference

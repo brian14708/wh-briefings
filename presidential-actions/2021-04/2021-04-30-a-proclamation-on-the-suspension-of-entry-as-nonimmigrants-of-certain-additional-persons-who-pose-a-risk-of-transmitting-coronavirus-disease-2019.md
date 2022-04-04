@@ -4,8 +4,8 @@ date: '2021-04-30'
 modified_time: 2021-04-30 17:09:42-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-the-suspension-of-entry-as-nonimmigrants-of-certain-additional-persons-who-pose-a-risk-of-transmitting-coronavirus-disease-2019/
 published_time: 2021-04-30 17:09:41-04:00
-title: A Proclamation on the Suspension of Entry as Nonimmigrants of Certain Additional
-  Persons Who Pose a Risk of Transmitting Coronavirus Disease 2019
+title: "A Proclamation on the Suspension of Entry as Nonimmigrants of Certain Additional\
+  \ Persons Who Pose a Risk of Transmitting Coronavirus Disease\_2019"
 ---
  
 The national emergency caused by the coronavirus disease 2019 (COVID-19)

@@ -4,7 +4,7 @@ date: '2022-03-23'
 modified_time: 2022-03-23 13:44:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/president-biden-announces-appointments-to-federal-salary-council/
 published_time: 2022-03-23 16:00:00-04:00
-title: President Biden Announces Appointments to Federal Salary Council
+title: "President\_Biden Announces Appointments to Federal Salary\_Council"
 ---
  
 WASHINGTON – Today, President Joe Biden announces his intent to appoint

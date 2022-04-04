@@ -4,8 +4,8 @@ date: '2021-11-23'
 modified_time: 2021-11-23 20:30:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/23/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-energy-jennifer-granholm-november-23-2021/
 published_time: 2021-11-23 20:45:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki and Secretary of Energy Jennifer
-  Granholm, November 23, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Energy Jennifer\
+  \ Granholm, November 23,\_2021"
 ---
  
 James S. Brady Press Briefing Room

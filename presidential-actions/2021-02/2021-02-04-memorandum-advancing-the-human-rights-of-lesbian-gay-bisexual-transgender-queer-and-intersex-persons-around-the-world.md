@@ -4,8 +4,8 @@ date: '2021-02-04'
 modified_time: 2021-02-05 14:09:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/
 published_time: 2021-02-04 20:36:34-05:00
-title: Memorandum on Advancing the Human Rights of Lesbian, Gay, Bisexual, Transgender,
-  Queer, and Intersex Persons Around the World
+title: "Memorandum on Advancing the Human Rights of Lesbian, Gay, Bisexual, Transgender,\
+  \ Queer, and Intersex Persons Around the\_World"
 ---
  
 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES

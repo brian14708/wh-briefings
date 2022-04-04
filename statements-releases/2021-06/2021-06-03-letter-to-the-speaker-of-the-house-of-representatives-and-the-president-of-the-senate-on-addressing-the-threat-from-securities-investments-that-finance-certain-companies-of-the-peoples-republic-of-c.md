@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/
 published_time: 2021-06-03 14:29:19-04:00
 title: "Letter to the Speaker of the House of Representatives and the President of\
   \ the Senate on Addressing the Threat from Securities Investments that Finance Certain\
-  \ Companies of the People\u2019s Republic of China"
+  \ Companies of the People\u2019s Republic of\_China"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

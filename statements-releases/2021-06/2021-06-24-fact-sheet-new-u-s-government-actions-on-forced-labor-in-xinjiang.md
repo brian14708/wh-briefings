@@ -4,7 +4,7 @@ date: '2021-06-24'
 modified_time: 2021-06-23 21:00:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-new-u-s-government-actions-on-forced-labor-in-xinjiang/
 published_time: 2021-06-24 06:00:00-04:00
-title: 'FACT SHEET: New U.S. Government Actions on Forced Labor in Xinjiang'
+title: "FACT SHEET: New U.S. Government Actions on Forced Labor in\_Xinjiang"
 ---
  
 At the recent G7 Summit in Cornwall, United Kingdom, the world’s leading

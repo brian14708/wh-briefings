@@ -4,8 +4,8 @@ date: '2022-02-02'
 modified_time: 2022-02-02 12:43:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/
 published_time: 2022-02-02 05:00:00-05:00
-title: 'Fact Sheet: President Biden Reignites Cancer Moonshot to End Cancer as We
-  Know It'
+title: "Fact Sheet: President\_Biden Reignites Cancer Moonshot to End Cancer as We\
+  \ Know\_It"
 ---
  
 *Biden-Harris Administration Sets Goal of Reducing Cancer Death Rate by

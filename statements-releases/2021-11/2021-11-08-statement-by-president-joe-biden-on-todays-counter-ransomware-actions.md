@@ -4,7 +4,7 @@ date: '2021-11-08'
 modified_time: 2021-11-08 15:19:32-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/statement-by-president-joe-biden-on-todays-counter-ransomware-actions/
 published_time: 2021-11-08 15:19:31-05:00
-title: "Statement by President Joe Biden on Today\u2019s Counter Ransomware Actions"
+title: "Statement by President Joe\_Biden on Today\u2019s Counter Ransomware\_Actions"
 ---
  
 Cyber threats are a concern for every American, every business

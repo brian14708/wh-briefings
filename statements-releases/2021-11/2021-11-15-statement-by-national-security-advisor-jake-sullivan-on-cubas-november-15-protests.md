@@ -4,7 +4,7 @@ date: '2021-11-15'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/statement-by-national-security-advisor-jake-sullivan-on-cubas-november-15-protests/
 published_time: 2021-11-15 20:23:15-05:00
 title: "Statement by National Security Advisor Jake Sullivan on Cuba\u2019s November\
-  \ 15 Protests"
+  \ 15\_Protests"
 ---
  
 This July, the world watched as Cubans bravely took to the streets in

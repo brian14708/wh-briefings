@@ -4,7 +4,7 @@ date: '2022-03-02'
 modified_time: 2022-03-02 17:22:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/02/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-6/
 published_time: 2022-03-02 17:22:25-05:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre
+title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---
  
 Aboard Air Force One  

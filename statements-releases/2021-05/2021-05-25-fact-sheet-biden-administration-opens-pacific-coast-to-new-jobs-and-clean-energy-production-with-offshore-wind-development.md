@@ -4,8 +4,8 @@ date: '2021-05-25'
 modified_time: 2021-05-25 13:56:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/fact-sheet-biden-administration-opens-pacific-coast-to-new-jobs-and-clean-energy-production-with-offshore-wind-development/
 published_time: 2021-05-25 14:00:00-04:00
-title: 'FACT SHEET: Biden Administration Opens Pacific Coast to New Jobs and Clean
-  Energy Production with Offshore Wind Development'
+title: "FACT SHEET: Biden Administration Opens Pacific Coast to New Jobs and Clean\
+  \ Energy Production with Offshore Wind\_Development"
 ---
  
 *White House Marshals Departments of the Interior, Defense, and Energy

@@ -4,7 +4,7 @@ date: '2021-09-18'
 modified_time: 2021-09-17 20:43:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/18/joint-us-eu-press-release-on-the-global-methane-pledge/
 published_time: 2021-09-18 08:00:00-04:00
-title: Joint US-EU Press Release on the Global Methane Pledge
+title: "Joint US-EU Press Release on the Global Methane\_Pledge"
 ---
  
 The United States and European Union announced today the Global Methane

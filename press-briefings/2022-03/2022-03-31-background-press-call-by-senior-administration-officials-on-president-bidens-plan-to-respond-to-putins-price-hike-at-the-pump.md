@@ -3,8 +3,8 @@ category: press-briefings
 date: '2022-03-31'
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/31/background-press-call-by-senior-administration-officials-on-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/
 published_time: 2022-03-31 14:06:30-04:00
-title: "Background Press Call by Senior Administration Officials on President Biden\u2019\
-  s Plan to Respond to Putin\u2019s Price Hike at the Pump"
+title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
+  s Plan to Respond to Putin\u2019s Price Hike at the\_Pump"
 ---
  
 Via Teleconference

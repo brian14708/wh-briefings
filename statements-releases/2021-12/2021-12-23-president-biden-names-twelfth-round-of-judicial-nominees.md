@@ -4,7 +4,7 @@ date: '2021-12-23'
 modified_time: 2021-12-23 18:42:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/23/president-biden-names-twelfth-round-of-judicial-nominees/
 published_time: 2021-12-23 14:36:20-05:00
-title: President Biden Names Twelfth Round of Judicial Nominees
+title: "President\_Biden Names Twelfth Round of Judicial\_Nominees"
 ---
  
 The President is announcing two new judicial nominees, both of whom are

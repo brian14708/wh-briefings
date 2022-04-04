@@ -4,8 +4,8 @@ date: '2021-09-23'
 modified_time: 2021-09-24 08:24:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/23/remarks-by-vice-president-harris-and-president-akufo-addo-of-the-republic-of-ghana-before-bilateral-meeting/
 published_time: 2021-09-23 12:57:00-04:00
-title: Remarks by Vice President Harris and President Akufo-Addo of the Republic of
-  Ghana Before Bilateral Meeting
+title: "Remarks by Vice President Harris and President Akufo-Addo of the Republic\
+  \ of Ghana Before Bilateral\_Meeting"
 ---
  
 *Vice President’s Ceremonial Office  

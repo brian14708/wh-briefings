@@ -4,7 +4,7 @@ date: '2021-12-23'
 modified_time: 2021-12-23 10:11:06-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/23/summit-for-democracy-summary-of-proceedings/
 published_time: 2021-12-23 10:11:05-05:00
-title: Summit for Democracy Summary of Proceedings
+title: "Summit for Democracy Summary of\_Proceedings"
 ---
  
 Calling the defense of democracy “the defining challenge of our time,”

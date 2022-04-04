@@ -4,8 +4,8 @@ date: '2021-12-22'
 modified_time: 2021-12-22 15:50:10-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-israel-and-the-west-bank/
 published_time: 2021-12-22 15:50:09-05:00
-title: Readout from NSC Spokesperson Emily Horne on Senior Administration Official
-  Travel to Israel and the West Bank
+title: "Readout from NSC Spokesperson Emily Horne on Senior Administration Official\
+  \ Travel to Israel and the West\_Bank"
 ---
  
 National Security Advisor Jake Sullivan traveled to Israel and the West

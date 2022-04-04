@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/
 published_time: 2021-02-08 20:08:25-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with\_Secretary General Natthaphon Narkphanit of the Thai\
-  \ National Security Council"
+  \ National Security\_Council"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

@@ -4,7 +4,7 @@ date: '2021-06-13'
 modified_time: 2021-06-13 09:29:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/carbis-bay-g7-summit-communique/
 published_time: 2021-06-13 09:29:05-04:00
-title: "CARBIS BAY G7 SUMMIT COMMUNIQU\xC9"
+title: "CARBIS BAY G7 SUMMIT\_COMMUNIQU\xC9"
 ---
  
 We, the leaders of the Group of Seven, met in Cornwall on 11-13 June

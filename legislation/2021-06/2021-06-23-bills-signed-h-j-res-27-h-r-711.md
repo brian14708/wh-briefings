@@ -4,7 +4,7 @@ date: '2021-06-23'
 modified_time: 2022-03-15 11:31:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/06/23/bills-signed-h-j-res-27-h-r-711/
 published_time: 2021-06-23 12:26:13-04:00
-title: 'Bills Signed: H.J.Res. 27, H.R. 711'
+title: "Bills Signed: H.J.Res. 27, H.R.\_711"
 ---
  
 On Wednesday, June 23, 2021, the President signed into law:

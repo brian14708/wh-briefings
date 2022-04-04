@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-09-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/united-stateseuropean-commission-joint-statement/
 published_time: 2021-09-22 13:14:59-04:00
-title: "United States\u2013European Commission Joint Statement"
+title: "United\_States\u2013European Commission Joint\_Statement"
 ---
  
 ***Launch of the joint COVID-19 Manufacturing and Supply Chain

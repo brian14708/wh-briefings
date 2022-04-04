@@ -4,7 +4,7 @@ date: '2021-09-30'
 modified_time: 2021-09-30 16:12:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/30/nominations-sent-to-the-senate-37/
 published_time: 2021-09-30 16:12:42-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

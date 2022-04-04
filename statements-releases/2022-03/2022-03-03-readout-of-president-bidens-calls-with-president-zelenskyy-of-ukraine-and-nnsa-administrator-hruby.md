@@ -4,8 +4,8 @@ date: '2022-03-03'
 modified_time: 2022-03-03 21:36:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/readout-of-president-bidens-calls-with-president-zelenskyy-of-ukraine-and-nnsa-administrator-hruby/
 published_time: 2022-03-03 21:21:47-05:00
-title: "Readout of President Biden\u2019s Calls with President Zelenskyy of Ukraine\
-  \ and NNSA Administrator Hruby"
+title: "Readout of President\_Biden\u2019s Calls with President Zelenskyy of Ukraine\
+  \ and NNSA Administrator\_Hruby"
 ---
  
 President Joseph R. Biden, Jr. spoke with President Volodymyr Zelenskyy

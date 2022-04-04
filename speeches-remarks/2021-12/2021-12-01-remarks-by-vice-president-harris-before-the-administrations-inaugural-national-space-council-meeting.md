@@ -5,7 +5,7 @@ modified_time: 2022-02-17 11:25:10-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/01/remarks-by-vice-president-harris-before-the-administrations-inaugural-national-space-council-meeting/
 published_time: 2021-12-01 16:45:00-05:00
 title: "Remarks by Vice President Harris Before the Administration\u2019s Inaugural\
-  \ National Space Council Meeting"
+  \ National Space Council\_Meeting"
 ---
  
 *United States Institute of Peace  

@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-25'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/statement-by-national-security-advisor-jake-sullivan-on-houthi-attack-against-saudi-arabia-3/
 published_time: 2022-03-25 17:51:20-04:00
-title: Statement by National Security Advisor Jake Sullivan on Houthi Attack Against
-  Saudi Arabia
+title: "Statement by National Security Advisor Jake Sullivan on Houthi Attack Against\
+  \ Saudi\_Arabia"
 ---
  
 We condemn the Houthi attacks launched against Saudi Arabia’s civil

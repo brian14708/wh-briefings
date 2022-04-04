@@ -4,7 +4,7 @@ date: '2021-11-26'
 modified_time: 2021-11-26 14:20:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/26/statement-by-president-joe-biden-on-the-omicron-covid-19-variant/
 published_time: 2021-11-26 14:20:57-05:00
-title: "Statement by President Joe Biden on the Omicron COVID- \u2060 19 Variant"
+title: "Statement by President Joe\_Biden on the Omicron COVID-\u206019\_Variant"
 ---
  
 This morning I was briefed by my chief medical advisor, Dr. Tony Fauci,

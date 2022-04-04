@@ -4,7 +4,7 @@ date: '2022-04-01'
 modified_time: 2022-04-01 12:40:21-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/statement-by-president-biden-marking-the-occasion-of-ramadan/
 published_time: 2022-04-01 19:30:00-04:00
-title: Statement by President Biden Marking the Occasion of Ramadan
+title: "Statement by President\_Biden Marking the Occasion of\_Ramadan"
 ---
  
 Jill and I extend our best wishes to Muslim communities here in the

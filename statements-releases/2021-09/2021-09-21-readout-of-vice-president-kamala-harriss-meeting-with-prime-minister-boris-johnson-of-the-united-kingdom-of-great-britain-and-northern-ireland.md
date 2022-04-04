@@ -4,8 +4,8 @@ date: '2021-09-21'
 modified_time: 2021-09-21 19:58:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/21/readout-of-vice-president-kamala-harriss-meeting-with-prime-minister-boris-johnson-of-the-united-kingdom-of-great-britain-and-northern-ireland/
 published_time: 2021-09-21 19:58:01-04:00
-title: "Readout of Vice President Kamala Harris\u2019s Meeting with Prime Minister\
-  \ Boris Johnson of the United Kingdom of Great Britain and Northern Ireland"
+title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Prime Minister\
+  \ Boris Johnson of the United Kingdom of Great Britain and Northern\_Ireland"
 ---
  
 Vice President Kamala Harris met with Prime Minister Boris Johnson of

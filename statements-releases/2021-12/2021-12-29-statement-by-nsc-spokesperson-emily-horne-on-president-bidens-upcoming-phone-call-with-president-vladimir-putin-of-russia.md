@@ -4,8 +4,8 @@ date: '2021-12-29'
 modified_time: 2021-12-29 12:07:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/29/statement-by-nsc-spokesperson-emily-horne-on-president-bidens-upcoming-phone-call-with-president-vladimir-putin-of-russia/
 published_time: 2021-12-29 12:07:44-05:00
-title: "Statement by NSC Spokesperson Emily Horne on President Biden\u2019s Upcoming\
-  \ Phone Call with President Vladimir Putin of Russia"
+title: "Statement by NSC Spokesperson Emily Horne on President\_Biden\u2019s Upcoming\
+  \ Phone Call with President Vladimir Putin of\_Russia"
 ---
  
 President Joseph R. Biden, Jr. will hold a phone call with President

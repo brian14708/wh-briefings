@@ -5,7 +5,7 @@ modified_time: 2021-09-01 16:44:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/readout-of-president-joseph-r-biden-jr-s-call-with-emir-nawaf-al-ahmad-al-jaber-al-sabah-of-kuwait/
 published_time: 2021-09-01 16:44:25-04:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with Emir Nawaf Al-Ahmad\
-  \ Al-Jaber Al-Sabah of Kuwait"
+  \ Al-Jaber Al-Sabah of\_Kuwait"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Emir Nawaf Al-Ahmad

@@ -4,10 +4,10 @@ date: '2021-11-19'
 modified_time: 2021-11-19 16:54:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/19/a-memorandum-on-the-presidential-determination-on-the-proposed-agreement-between-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-kingdom-o/
 published_time: 2021-11-19 16:53:38-05:00
-title: Memorandum on the Presidential Determination on the Proposed Agreement between
-  the Government of the United States of America, the Government of Australia, and
-  the Government of the United Kingdom of Great Britain and Northern Ireland for the
-  Exchange of Naval Nuclear Propulsion Information
+title: "Memorandum on the Presidential Determination on the Proposed Agreement between\
+  \ the Government of the United\_States of America, the Government of Australia,\
+  \ and the Government of the United Kingdom of Great Britain and Northern Ireland\
+  \ for the Exchange of Naval Nuclear Propulsion\_Information"
 ---
  
 Presidential Determination  

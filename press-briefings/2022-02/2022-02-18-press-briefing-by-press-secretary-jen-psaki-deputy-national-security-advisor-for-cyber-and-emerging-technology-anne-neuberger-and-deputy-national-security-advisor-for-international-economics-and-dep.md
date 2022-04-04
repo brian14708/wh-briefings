@@ -4,9 +4,10 @@ date: '2022-02-18'
 modified_time: 2022-02-18 18:57:15-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/18/press-briefing-by-press-secretary-jen-psaki-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neuberger-and-deputy-national-security-advisor-for-international-economics-and-dep/
 published_time: 2022-02-18 19:00:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki, Deputy National Security Advisor
-  for Cyber and Emerging Technology Anne Neuberger, and Deputy National Security Advisor
-  for International Economics and Deputy NEC Director Daleep Singh, February 18, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki, Deputy National Security Advisor\
+  \ for Cyber and Emerging Technology Anne Neuberger, and Deputy National Security\
+  \ Advisor for International Economics and Deputy NEC Director Daleep Singh, February\
+  \ 18,\_2022"
 ---
  
 James S. Brady Press Briefing Room

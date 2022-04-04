@@ -4,8 +4,8 @@ date: '2021-12-17'
 modified_time: 2021-12-17 13:53:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/17/remarks-by-president-biden-at-south-carolina-state-universitys-2021-fall-commencement-ceremony/
 published_time: 2021-12-17 14:00:00-05:00
-title: "Remarks by President Biden at South Carolina State University\u2019s 2021\
-  \ Fall Commencement Ceremony"
+title: "Remarks by President\_Biden at South Carolina State University\u2019s 2021\
+  \ Fall Commencement\_Ceremony"
 ---
  
 South Carolina State University  

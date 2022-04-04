@@ -5,7 +5,7 @@ modified_time: 2021-06-10 12:53:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/10/background-press-call-by-senior-administration-officials-on-the-presidents-historic-covid-19-vaccine-announcement/
 published_time: 2021-06-10 12:53:32-04:00
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
-  s Historic COVID- \u2060 19 Vaccine Announcement"
+  s Historic COVID-\u206019 Vaccine\_Announcement"
 ---
  
 12:10 P.M. BST  

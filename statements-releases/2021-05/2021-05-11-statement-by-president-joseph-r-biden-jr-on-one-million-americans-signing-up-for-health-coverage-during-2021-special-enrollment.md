@@ -4,8 +4,8 @@ date: '2021-05-11'
 modified_time: 2021-05-10 19:53:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/statement-by-president-joseph-r-biden-jr-on-one-million-americans-signing-up-for-health-coverage-during-2021-special-enrollment/
 published_time: 2021-05-11 05:00:00-04:00
-title: Statement by President Joseph R. Biden, Jr. on One Million Americans Signing
-  Up for Health Coverage During 2021 Special Enrollment
+title: "Statement by President Joseph R. Biden, Jr. on One Million Americans Signing\
+  \ Up for Health Coverage During 2021 Special\_Enrollment"
 ---
  
 Health care is a right, not a privilege — and ensuring that every single

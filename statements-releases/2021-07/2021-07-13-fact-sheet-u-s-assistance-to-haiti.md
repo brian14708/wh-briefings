@@ -4,7 +4,7 @@ date: '2021-07-13'
 modified_time: 2021-07-13 19:30:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/13/fact-sheet-u-s-assistance-to-haiti/
 published_time: 2021-07-13 19:30:44-04:00
-title: 'FACT SHEET: U.S. Assistance to Haiti'
+title: "FACT SHEET: U.S. Assistance to\_Haiti"
 ---
  
 Haiti is a partner of the United States and we have continually sought

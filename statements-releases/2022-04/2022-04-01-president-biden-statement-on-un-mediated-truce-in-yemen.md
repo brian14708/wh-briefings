@@ -4,7 +4,7 @@ date: '2022-04-01'
 modified_time: 2022-04-01 17:03:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/president-biden-statement-on-un-mediated-truce-in-yemen/
 published_time: 2022-04-01 17:03:29-04:00
-title: President Biden Statement on UN-Mediated Truce in Yemen
+title: "President\_Biden Statement on UN-Mediated Truce in\_Yemen"
 ---
  
 I welcome the announcement today of a two-month truce in the Yemen

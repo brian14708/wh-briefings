@@ -4,8 +4,8 @@ date: '2021-05-17'
 modified_time: 2021-06-03 21:16:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-the-biden-harris-administration-is-advancing-lgbtqi-human-rights-at-home-and-across-the-globe/
 published_time: 2021-05-17 11:15:00-04:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration Is Advancing LGBTQI+ Human\
-  \ Rights at Home and Across the Globe"
+title: "FACT SHEET: The Biden-\u2060Harris Administration Is Advancing LGBTQI+ Human\
+  \ Rights at Home and Across the\_Globe"
 ---
  
 * “Everyone is entitled to dignity and equality, no matter who they are,

@@ -4,8 +4,8 @@ date: '2021-05-25'
 modified_time: 2021-05-25 15:55:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/statement-by-vice-president-kamala-harris-on-meeting-with-the-family-of-george-floyd/
 published_time: 2021-05-25 15:55:55-04:00
-title: Statement by Vice President Kamala Harris on Meeting with the Family of George
-  Floyd
+title: "Statement by Vice President Kamala\_Harris on Meeting with the Family of George\_\
+  Floyd"
 ---
  
 Today the President and I met with the family of Mr. George Floyd. Mr.

@@ -4,8 +4,8 @@ date: '2021-07-08'
 modified_time: 2021-07-08 21:20:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/readout-of-president-bidens-meeting-with-leaders-from-legacy-black-civil-rights-organizations/
 published_time: 2021-07-08 21:20:28-04:00
-title: "Readout of President Biden\u2019s Meeting With Leaders from Legacy Black Civil\
-  \ Rights Organizations"
+title: "Readout of President\_Biden\u2019s Meeting With Leaders from Legacy Black\
+  \ Civil Rights\_Organizations"
 ---
  
 President Biden and Vice President Harris met today with leaders from

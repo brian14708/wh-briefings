@@ -4,8 +4,8 @@ date: '2021-03-17'
 modified_time: 2021-03-17 16:19:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/17/remarks-by-president-biden-and-prime-minister-martin-of-ireland-before-virtual-bilateral-meeting/
 published_time: 2021-03-17 16:15:00-04:00
-title: Remarks by President Biden and Prime Minister Martin of Ireland Before Virtual
-  Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Martin of Ireland Before Virtual\
+  \ Bilateral\_Meeting"
 ---
  
 Via Teleconference  

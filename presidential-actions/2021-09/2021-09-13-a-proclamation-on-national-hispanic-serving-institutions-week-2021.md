@@ -4,7 +4,7 @@ date: '2021-09-13'
 modified_time: 2021-09-13 12:21:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/13/a-proclamation-on-national-hispanic-serving-institutions-week-2021/
 published_time: 2021-09-13 12:21:42-04:00
-title: A Proclamation on National Hispanic-Serving Institutions Week, 2021
+title: "A Proclamation on National Hispanic-Serving Institutions Week,\_2021"
 ---
  
 Today, more than a quarter of American schoolchildren are Hispanic — and

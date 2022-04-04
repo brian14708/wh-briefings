@@ -4,10 +4,10 @@ date: '2021-06-10'
 modified_time: 2021-06-10 13:24:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/10/joint-statement-on-the-visit-to-the-united-kingdom-of-the-honorable-joseph-r-biden-jr-president-of-the-united-states-of-america-at-the-invitation-of-the-rt-hon-boris-johnson-m-p-the-prime-min/
 published_time: 2021-06-10 13:24:57-04:00
-title: Joint Statement on the Visit to the United Kingdom of the Honorable Joseph
-  R. Biden, Jr., President of the United States of America at the Invitation of the
-  Rt. Hon. Boris Johnson, M.P., the Prime Minister of the United Kingdom of Great
-  Britain and Northern Ireland
+title: "Joint Statement on the Visit to the United Kingdom of the Honorable Joseph\
+  \ R. Biden, Jr., President of the United\_States of America at the Invitation of\
+  \ the Rt. Hon. Boris Johnson, M.P., the Prime Minister of the United Kingdom of\
+  \ Great Britain and Northern\_Ireland"
 ---
  
 Today, President Biden visited the U.K. at the invitation of the Prime

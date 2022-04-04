@@ -4,7 +4,7 @@ date: '2021-09-24'
 modified_time: 2021-09-24 16:21:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-the-united-states-and-india-global-leadership-in-action/
 published_time: 2021-09-24 16:21:38-04:00
-title: "FACT SHEET: The United States and India \u2013 Global Leadership in Action"
+title: "FACT SHEET: The United\_States and India \u2013 Global Leadership in\_Action"
 ---
  
 President Biden hosted Prime Minister Narendra Modi today, forging

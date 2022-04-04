@@ -5,8 +5,8 @@ modified_time: 2021-06-03 17:58:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-bilateral-meeting-with-french-national-security-advisor-emmanuel-bonne/
 published_time: 2021-06-03 17:58:50-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Bilateral Meeting with French National Security Advisor Emmanuel\
-  \ Bonne"
+  \ Sullivan\u2019s Bilateral Meeting with French National Security Advisor Emmanuel\_\
+  Bonne"
 ---
  
 Today, National Security Advisor Jake Sullivan met in Washington with

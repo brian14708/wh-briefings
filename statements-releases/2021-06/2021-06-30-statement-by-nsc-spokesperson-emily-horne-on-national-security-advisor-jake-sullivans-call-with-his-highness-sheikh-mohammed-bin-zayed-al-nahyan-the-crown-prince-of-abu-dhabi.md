@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/
 published_time: 2021-06-30 18:35:29-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with His Highness Sheikh Mohammed bin Zayed Al Nahyan, The\
-  \ Crown Prince of Abu Dhabi"
+  \ Crown Prince of Abu\_Dhabi"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with Crown

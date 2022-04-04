@@ -4,7 +4,7 @@ date: '2021-03-08'
 modified_time: 2021-03-08 09:35:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/statement-by-president-biden-on-international-womens-day/
 published_time: 2021-03-08 10:00:00-05:00
-title: "Statement by President Biden on International Women\u2019s Day"
+title: "Statement by President\_Biden on International Women\u2019s\_Day"
 ---
  
 Women’s history is American history — and world history. On

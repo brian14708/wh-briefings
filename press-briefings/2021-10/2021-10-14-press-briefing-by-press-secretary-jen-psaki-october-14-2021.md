@@ -4,7 +4,7 @@ date: '2021-10-14'
 modified_time: 2021-10-14 20:07:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/14/press-briefing-by-press-secretary-jen-psaki-october-14-2021/
 published_time: 2021-10-14 20:07:29-04:00
-title: Press Briefing by Press Secretary Jen Psaki, October 14, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, October 14,\_2021"
 ---
  
 James S. Brady Press Briefing Room

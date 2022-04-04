@@ -4,8 +4,8 @@ date: '2021-10-14'
 modified_time: 2021-10-14 12:43:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country/
 published_time: 2021-10-14 12:43:14-04:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration Advances Equity and Opportunity\
-  \ for Latino Communities Across the Country"
+title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
+  \ for Latino Communities Across the\_Country"
 ---
  
 President Biden knows that America’s future prosperity and global

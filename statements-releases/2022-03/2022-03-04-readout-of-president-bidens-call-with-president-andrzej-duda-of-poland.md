@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-04'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/readout-of-president-bidens-call-with-president-andrzej-duda-of-poland/
 published_time: 2022-03-04 14:11:38-05:00
-title: "Readout of President Biden\u2019s Call With President Andrzej Duda of Poland"
+title: "Readout of President\_Biden\u2019s Call With President Andrzej Duda of\_Poland"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Andrzej Duda

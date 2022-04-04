@@ -4,7 +4,7 @@ date: '2021-04-12'
 modified_time: 2021-04-12 19:19:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/readout-of-white-house-ceo-summit-on-semiconductor-and-supply-chain-resilience/
 published_time: 2021-04-12 19:19:16-04:00
-title: Readout of White House CEO Summit on Semiconductor and Supply Chain Resilience
+title: "Readout of White\_House CEO Summit on Semiconductor and Supply Chain\_Resilience"
 ---
  
 Today, President Joseph R. Biden, Jr. briefly joined National Security

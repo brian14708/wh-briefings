@@ -4,7 +4,7 @@ date: '2022-03-31'
 modified_time: 2022-03-31 15:13:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-second-chance-month-2022/
 published_time: 2022-03-31 15:12:59-04:00
-title: A Proclamation on Second Chance Month, 2022
+title: "A Proclamation on Second Chance Month,\_2022"
 ---
  
 April marks Second Chance Month, when we reaffirm the importance of

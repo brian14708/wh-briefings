@@ -4,7 +4,8 @@ date: '2021-06-27'
 modified_time: 2021-06-27 21:25:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/27/statement-from-president-joe-biden-on-call-with-fema-administrator-deanne-criswell/
 published_time: 2021-06-27 21:25:23-04:00
-title: Statement from President Joe Biden on Call with FEMA Administrator Deanne Criswell
+title: "Statement from President Joe\_Biden on Call with FEMA Administrator Deanne\_\
+  Criswell"
 ---
  
 I spoke this afternoon with FEMA Administrator Deanne Criswell to hear

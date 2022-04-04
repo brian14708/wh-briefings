@@ -4,8 +4,8 @@ date: '2021-03-02'
 modified_time: 2021-03-02 19:04:34-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/readout-of-vice-president-kamala-harris-call-with-prime-minister-scott-morrison-of-australia/
 published_time: 2021-03-02 19:04:33-05:00
-title: Readout of Vice President Kamala Harris Call with Prime Minister Scott Morrison
-  of Australia
+title: "Readout of Vice President Kamala\_Harris Call with Prime Minister Scott Morrison\
+  \ of\_Australia"
 ---
  
 Vice President Kamala Harris spoke today with Prime Minister Scott

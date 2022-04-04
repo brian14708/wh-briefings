@@ -4,8 +4,9 @@ date: '2022-02-01'
 modified_time: 2022-02-01 16:27:05-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/01/remarks-by-president-biden-in-meeting-with-senate-judiciary-committee-chair-dick-durbin-and-ranking-member-chuck-grassley-on-the-forthcoming-supreme-court-vacancy/
 published_time: 2022-02-01 16:27:04-05:00
-title: Remarks by President Biden in Meeting with Senate Judiciary Committee Chair
-  Dick Durbin and Ranking Member Chuck Grassley on the Forthcoming Supreme Court Vacancy
+title: "Remarks by President\_Biden in Meeting with Senate Judiciary Committee Chair\
+  \ Dick Durbin and Ranking Member Chuck Grassley on the Forthcoming Supreme Court\_\
+  Vacancy"
 ---
  
 Oval Office

@@ -4,8 +4,8 @@ date: '2021-04-23'
 modified_time: 2021-04-22 21:43:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-biden-administration-outlines-key-resources-to-invest-in-coal-and-power-plant-community-economic-revitalization/
 published_time: 2021-04-23 07:00:00-04:00
-title: 'FACT SHEET: Biden Administration Outlines Key Resources to Invest in Coal
-  and Power Plant Community Economic Revitalization'
+title: "FACT SHEET: Biden Administration Outlines Key Resources to Invest in Coal\
+  \ and Power Plant Community Economic\_Revitalization"
 ---
  
 *White House Releases Initial Report Detailing Existing Resources for

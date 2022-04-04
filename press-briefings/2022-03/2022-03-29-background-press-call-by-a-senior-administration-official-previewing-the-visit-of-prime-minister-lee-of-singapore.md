@@ -4,8 +4,8 @@ date: '2022-03-29'
 modified_time: 2022-03-29 00:30:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/29/background-press-call-by-a-senior-administration-official-previewing-the-visit-of-prime-minister-lee-of-singapore/
 published_time: 2022-03-29 05:00:00-04:00
-title: Background Press Call by a Senior Administration Official Previewing the Visit
-  of Prime Minister Lee of Singapore
+title: "Background Press Call by a Senior Administration Official Previewing the Visit\
+  \ of Prime Minister Lee of\_Singapore"
 ---
  
 Via Teleconference

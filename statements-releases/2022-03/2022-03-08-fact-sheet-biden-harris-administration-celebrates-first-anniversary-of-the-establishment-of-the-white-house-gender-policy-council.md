@@ -4,8 +4,8 @@ date: '2022-03-08'
 modified_time: 2022-03-08 08:43:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-establishment-of-the-white-house-gender-policy-council/
 published_time: 2022-03-08 09:30:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Celebrates First Anniversary\
-  \ of the Establishment of the White House Gender Policy Council"
+title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversary\
+  \ of the Establishment of the White\_House Gender Policy\_Council"
 ---
  
 One year ago today, on International Women’s Day, President Biden issued

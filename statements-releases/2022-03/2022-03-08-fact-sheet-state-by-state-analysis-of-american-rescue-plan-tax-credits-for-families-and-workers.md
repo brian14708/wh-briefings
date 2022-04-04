@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-08'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-state-by-state-analysis-of-american-rescue-plan-tax-credits-for-families-and-workers/
 published_time: 2022-03-08 13:18:26-05:00
-title: 'FACT SHEET: State-by-State Analysis of American Rescue Plan Tax Credits for
-  Families and Workers'
+title: "FACT SHEET: State-by-State Analysis of American Rescue Plan Tax Credits for\
+  \ Families and\_Workers"
 ---
  
 Today, the White House released a new state-by-state analysis of the

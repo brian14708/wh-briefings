@@ -3,8 +3,8 @@ category: presidential-actions
 date: '2021-01-20'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ensuring-a-lawful-and-accurate-enumeration-and-apportionment-pursuant-to-decennial-census/
 published_time: 2021-01-20 21:21:29-05:00
-title: Executive Order on Ensuring a Lawful and Accurate Enumeration and Apportionment
-  Pursuant to the Decennial Census
+title: "Executive Order on Ensuring a Lawful and Accurate Enumeration and Apportionment\
+  \ Pursuant to the Decennial\_Census"
 ---
  
 By the authority vested in me as President by the Constitution and the

@@ -4,8 +4,8 @@ date: '2021-07-19'
 modified_time: 2021-07-19 17:32:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/19/remarks-by-president-biden-and-his-majesty-king-abdullah-ii-ibn-al-hussein-king-of-the-hashemite-kingdom-of-jordan-before-bilateral-meeting/
 published_time: 2021-07-19 17:32:48-04:00
-title: Remarks by President Biden and His Majesty King Abdullah II ibn Al Hussein,
-  King of the Hashemite Kingdom of Jordan, Before Bilateral Meeting
+title: "Remarks by President\_Biden and His Majesty King Abdullah II ibn Al Hussein,\
+  \ King of the Hashemite Kingdom of Jordan, Before Bilateral\_Meeting"
 ---
  
 Oval Office

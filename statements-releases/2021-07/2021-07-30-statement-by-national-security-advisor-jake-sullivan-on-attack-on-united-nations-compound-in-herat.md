@@ -4,8 +4,8 @@ date: '2021-07-30'
 modified_time: 2021-07-30 15:38:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-by-national-security-advisor-jake-sullivan-on-attack-on-united-nations-compound-in-herat/
 published_time: 2021-07-30 15:38:23-04:00
-title: Statement by National Security Advisor Jake Sullivan on Attack on United Nations
-  Compound in Herat
+title: "Statement by National Security Advisor Jake Sullivan on Attack on United Nations\
+  \ Compound in\_Herat"
 ---
  
 The United States strongly condemns the attack on the United Nations

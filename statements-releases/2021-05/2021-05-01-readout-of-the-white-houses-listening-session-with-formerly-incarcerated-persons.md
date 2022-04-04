@@ -4,8 +4,8 @@ date: '2021-05-01'
 modified_time: 2021-05-01 10:00:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/01/readout-of-the-white-houses-listening-session-with-formerly-incarcerated-persons/
 published_time: 2021-05-01 10:00:26-04:00
-title: "Readout of the White House\u2019s Listening Session with Formerly Incarcerated\
-  \ Persons"
+title: "Readout of the White\_House\u2019s Listening Session with Formerly Incarcerated\_\
+  Persons"
 ---
  
 Yesterday, in commemoration of Second Chance Month, Domestic Policy

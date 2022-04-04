@@ -4,8 +4,8 @@ date: '2021-12-23'
 modified_time: 2021-12-23 09:38:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/23/a-proclamation-to-modify-the-harmonized-tariff-schedule-of-the-united-states-and-for-other-purposes/
 published_time: 2021-12-23 09:38:45-05:00
-title: A Proclamation to Modify the Harmonized Tariff Schedule of the United States
-  and for Other Purposes
+title: "A Proclamation to Modify the Harmonized Tariff Schedule of the United\_States\
+  \ and for Other\_Purposes"
 ---
  
 1\.  Section 1205(a) of the Omnibus Trade and Competitiveness Act of

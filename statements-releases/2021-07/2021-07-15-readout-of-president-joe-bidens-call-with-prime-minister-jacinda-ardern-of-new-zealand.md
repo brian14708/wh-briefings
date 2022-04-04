@@ -4,8 +4,8 @@ date: '2021-07-15'
 modified_time: 2021-07-15 21:36:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/readout-of-president-joe-bidens-call-with-prime-minister-jacinda-ardern-of-new-zealand/
 published_time: 2021-07-15 21:36:51-04:00
-title: "Readout of President Joe Biden\u2019s Call with Prime Minister Jacinda Ardern\
-  \ of New Zealand"
+title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Jacinda Ardern\
+  \ of New\_Zealand"
 ---
  
 President Joseph R. Biden, Jr. today spoke by phone with Prime Minister

@@ -4,8 +4,8 @@ date: '2022-03-01'
 modified_time: 2022-03-01 11:14:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/
 published_time: 2022-03-01 12:00:00-05:00
-title: 'FACT SHEET:  Supporting Veterans Experiencing Financial Hardship and Addressing
-  the Harmful Effects of Military Environmental Exposures'
+title: "FACT SHEET:  Supporting Veterans Experiencing Financial Hardship and Addressing\
+  \ the Harmful Effects of Military Environmental\_Exposures"
 ---
  
 The President believes that our Nation has a sacred obligation– to

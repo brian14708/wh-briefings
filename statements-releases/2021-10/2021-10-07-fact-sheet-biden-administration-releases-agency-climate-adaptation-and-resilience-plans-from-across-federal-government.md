@@ -5,7 +5,7 @@ modified_time: 2021-10-13 10:10:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/
 published_time: 2021-10-07 10:15:00-04:00
 title: "FACT SHEET:\_ Biden Administration Releases Agency Climate Adaptation and\
-  \ Resilience Plans from Across Federal Government"
+  \ Resilience Plans from Across Federal\_Government"
 ---
  
 Today, the Biden-Harris Administration released plans developed by more

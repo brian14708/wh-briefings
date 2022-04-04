@@ -4,8 +4,8 @@ date: '2021-02-02'
 modified_time: 2021-02-04 12:04:01-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/
 published_time: 2021-02-02 18:48:13-05:00
-title: Executive Order on Restoring Faith in Our Legal Immigration Systems and Strengthening
-  Integration and Inclusion Efforts for New Americans
+title: "Executive Order on Restoring Faith in Our Legal Immigration Systems and Strengthening\
+  \ Integration and Inclusion Efforts for New\_Americans"
 ---
  
 By the authority vested in me as President by the Constitution and the

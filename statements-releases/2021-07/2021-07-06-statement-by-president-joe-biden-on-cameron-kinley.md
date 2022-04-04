@@ -4,7 +4,7 @@ date: '2021-07-06'
 modified_time: 2021-07-06 17:50:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/06/statement-by-president-joe-biden-on-cameron-kinley/
 published_time: 2021-07-06 17:50:32-04:00
-title: Statement by President Joe Biden on Cameron Kinley
+title: "Statement by President Joe\_Biden on Cameron\_Kinley"
 ---
  
 Today, I was pleased to learn from Secretary of Defense Austin that he

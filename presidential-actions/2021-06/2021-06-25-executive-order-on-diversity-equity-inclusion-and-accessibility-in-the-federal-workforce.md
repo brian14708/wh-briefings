@@ -4,8 +4,8 @@ date: '2021-06-25'
 modified_time: 2021-06-25 17:32:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/
 published_time: 2021-06-25 18:30:00-04:00
-title: Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal
-  Workforce
+title: "Executive Order on Diversity, Equity, Inclusion, and Accessibility in the\
+  \ Federal\_Workforce"
 ---
  
 By the authority vested in me as President by the Constitution and the

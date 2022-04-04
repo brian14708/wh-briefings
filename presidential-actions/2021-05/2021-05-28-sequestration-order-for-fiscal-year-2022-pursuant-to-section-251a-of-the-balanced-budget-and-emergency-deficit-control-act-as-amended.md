@@ -4,8 +4,8 @@ date: '2021-05-28'
 modified_time: 2021-05-28 16:26:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/sequestration-order-for-fiscal-year-2022-pursuant-to-section-251a-of-the-balanced-budget-and-emergency-deficit-control-act-as-amended/
 published_time: 2021-05-28 16:26:17-04:00
-title: Sequestration Order for Fiscal Year 2022 Pursuant to Section 251a of the Balanced
-  Budget and Emergency Deficit Control Act, as Amended
+title: "Sequestration Order for Fiscal Year 2022 Pursuant to Section 251a of the Balanced\
+  \ Budget and Emergency Deficit Control Act, as\_Amended"
 ---
  
 By the authority vested in me as President by the laws of the United

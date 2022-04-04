@@ -4,7 +4,7 @@ date: '2021-07-21'
 modified_time: 2021-08-05 14:52:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/
 published_time: 2021-07-21 19:51:43-04:00
-title: Readout of the Second White House Eviction Prevention Convening
+title: "Readout of the Second White\_House Eviction Prevention\_Convening"
 ---
  
 Today, the White House hosted a second virtual convening to help cities

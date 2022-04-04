@@ -4,8 +4,8 @@ date: '2021-08-18'
 modified_time: 2021-08-18 17:44:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/18/fact-sheet-president-biden-to-announce-new-actions-to-protect-americans-from-covid-19-and-help-state-and-local-leaders-fight-the-virus/
 published_time: 2021-08-18 16:06:01-04:00
-title: "FACT SHEET: President Biden to Announce New Actions to Protect Americans from\
-  \ COVID- \u2060 19 and Help State and Local Leaders Fight the Virus"
+title: "FACT SHEET: President\_Biden to Announce New Actions to Protect Americans\
+  \ from COVID-\u206019 and Help State and Local Leaders Fight the\_Virus"
 ---
  
 Since taking office, President Biden has mobilized a whole-of-government

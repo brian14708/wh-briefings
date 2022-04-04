@@ -4,7 +4,7 @@ date: '2021-02-24'
 modified_time: 2021-02-24 18:50:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/24/remarks-by-president-biden-at-signing-of-an-executive-order-on-supply-chains/
 published_time: 2021-02-24 18:50:34-05:00
-title: Remarks by President Biden at Signing of an Executive Order on Supply Chains
+title: "Remarks by President\_Biden at Signing of an Executive Order on Supply\_Chains"
 ---
  
 State Dining Room

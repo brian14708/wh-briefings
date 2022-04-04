@@ -4,7 +4,7 @@ date: '2021-01-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/24/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-meir-ben-shabbat-of-israel/
 published_time: 2021-01-24 08:17:06-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with National Security Advisor Meir Ben Shabbat of Israel"
+  \ Sullivan\u2019s Call with National Security Advisor Meir Ben Shabbat of\_Israel"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone yesterday with

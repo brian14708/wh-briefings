@@ -4,8 +4,8 @@ date: '2021-12-22'
 modified_time: 2021-12-22 17:55:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-staff-member-close-contact-to-the-vice-president/
 published_time: 2021-12-22 17:55:02-05:00
-title: Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Staff
-  Member Close Contact to the Vice President
+title: "Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Staff\
+  \ Member Close Contact to the Vice\_President"
 ---
  
 It is in the public’s interest to know if any of the four principals

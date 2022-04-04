@@ -4,8 +4,8 @@ date: '2021-05-07'
 modified_time: 2021-05-17 15:45:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/07/biden-harris-administration-reinstates-visitor-log-policy-will-be-first-administration-to-post-records-from-first-full-year-in-office/
 published_time: 2021-05-07 16:24:35-04:00
-title: "Biden- \u2060 Harris Administration Reinstates Visitor Log Policy, Will Be\
-  \ First Administration to Post Records from First Full Year in Office"
+title: "Biden-\u2060Harris Administration Reinstates Visitor Log Policy, Will Be First\
+  \ Administration to Post Records from First Full Year in\_Office"
 ---
  
 Today the Biden-Harris Administration posted visitor logs from January

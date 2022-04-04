@@ -4,8 +4,8 @@ date: '2022-03-01'
 modified_time: 2022-03-01 09:07:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/statement-by-press-secretary-jen-psaki-on-the-womens-health-protection-act/
 published_time: 2022-03-01 09:30:00-05:00
-title: "Statement by Press Secretary Jen Psaki on the Women\u2019s Health Protection\
-  \ Act"
+title: "Statement by Press Secretary Jen\_Psaki on the Women\u2019s Health Protection\_\
+  Act"
 ---
  
 At a time when women’s access to reproductive health care is under

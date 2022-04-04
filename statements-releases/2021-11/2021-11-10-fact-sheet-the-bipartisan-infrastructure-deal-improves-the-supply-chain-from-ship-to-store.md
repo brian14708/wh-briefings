@@ -4,8 +4,8 @@ date: '2021-11-10'
 modified_time: 2021-11-09 22:55:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-the-bipartisan-infrastructure-deal-improves-the-supply-chain-from-ship-to-store/
 published_time: 2021-11-10 06:00:00-05:00
-title: 'FACT SHEET: The Bipartisan Infrastructure Deal Improves the Supply Chain from
-  Ship to Store'
+title: "FACT SHEET: The Bipartisan Infrastructure Deal Improves the Supply Chain from\
+  \ Ship to\_Store"
 ---
  
 Decades of neglect and underinvestment in our infrastructure have left

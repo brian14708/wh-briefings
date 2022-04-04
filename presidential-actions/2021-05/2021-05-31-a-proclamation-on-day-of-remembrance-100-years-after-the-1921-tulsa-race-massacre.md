@@ -4,8 +4,8 @@ date: '2021-05-31'
 modified_time: 2021-05-31 11:54:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/31/a-proclamation-on-day-of-remembrance-100-years-after-the-1921-tulsa-race-massacre/
 published_time: 2021-05-31 11:54:37-04:00
-title: 'A Proclamation on Day Of Remembrance: 100 Years After The 1921 Tulsa Race
-  Massacre'
+title: "A Proclamation on Day Of Remembrance: 100 Years After The 1921 Tulsa Race\_\
+  Massacre"
 ---
  
 One hundred years ago, a violent white supremacist mob raided,

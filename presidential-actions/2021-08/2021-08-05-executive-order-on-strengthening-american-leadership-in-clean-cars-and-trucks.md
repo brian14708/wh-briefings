@@ -4,7 +4,7 @@ date: '2021-08-05'
 modified_time: 2021-08-05 17:30:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/05/executive-order-on-strengthening-american-leadership-in-clean-cars-and-trucks/
 published_time: 2021-08-05 05:30:00-04:00
-title: Executive Order on Strengthening American Leadership in Clean Cars and Trucks
+title: "Executive Order on Strengthening American Leadership in Clean Cars and\_Trucks"
 ---
  
     By the authority vested in me as President by the Constitution and

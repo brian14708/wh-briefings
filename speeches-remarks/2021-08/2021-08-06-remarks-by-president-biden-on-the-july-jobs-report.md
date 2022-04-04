@@ -4,7 +4,7 @@ date: '2021-08-06'
 modified_time: 2021-08-06 16:09:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/06/remarks-by-president-biden-on-the-july-jobs-report/
 published_time: 2021-08-06 16:30:00-04:00
-title: Remarks by President Biden on the July Jobs Report
+title: "Remarks by President\_Biden on the July Jobs\_Report"
 ---
  
 East Room

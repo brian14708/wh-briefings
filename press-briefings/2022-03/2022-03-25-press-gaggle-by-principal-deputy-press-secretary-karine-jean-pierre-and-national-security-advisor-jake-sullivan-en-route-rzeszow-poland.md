@@ -4,8 +4,8 @@ date: '2022-03-25'
 modified_time: 2022-03-25 13:26:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/25/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-rzeszow-poland/
 published_time: 2022-03-25 13:25:57-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and National
-  Security Advisor Jake Sullivan
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and National\
+  \ Security Advisor Jake\_Sullivan"
 ---
  
 Aboard Air Force One  

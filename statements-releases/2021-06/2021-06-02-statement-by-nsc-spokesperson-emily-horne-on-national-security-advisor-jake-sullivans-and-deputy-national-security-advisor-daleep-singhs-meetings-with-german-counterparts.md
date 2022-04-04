@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/
 published_time: 2021-06-02 18:38:53-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s and Deputy National Security Advisor Daleep Singh\u2019s Meetings\
-  \ with German Counterparts"
+  \ with German\_Counterparts"
 ---
  
 National Security Advisor Jake Sullivan met today with Dr. Jan Hecker,

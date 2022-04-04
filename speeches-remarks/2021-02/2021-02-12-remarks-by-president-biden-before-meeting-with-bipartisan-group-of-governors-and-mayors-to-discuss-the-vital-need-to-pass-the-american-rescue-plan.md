@@ -4,8 +4,8 @@ date: '2021-02-12'
 modified_time: 2021-02-12 16:26:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/12/remarks-by-president-biden-before-meeting-with-bipartisan-group-of-governors-and-mayors-to-discuss-the-vital-need-to-pass-the-american-rescue-plan/
 published_time: 2021-02-12 15:02:27-05:00
-title: Remarks by President Biden Before Meeting With Bipartisan Group of Governors
-  and Mayors to Discuss the Vital Need to Pass the American Rescue Plan
+title: "Remarks by President\_Biden Before Meeting With Bipartisan Group of Governors\
+  \ and Mayors to Discuss the Vital Need to Pass the American Rescue\_Plan"
 ---
  
 Oval Office

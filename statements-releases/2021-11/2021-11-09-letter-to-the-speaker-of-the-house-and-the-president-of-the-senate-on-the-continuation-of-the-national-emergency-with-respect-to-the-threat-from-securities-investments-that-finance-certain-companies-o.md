@@ -6,7 +6,8 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/
 published_time: 2021-11-09 12:09:54-05:00
 title: "Letter to the Speaker of the House and the President of the Senate on the\
   \ Continuation of the National Emergency with Respect to the Threat from Securities\
-  \ Investments that Finance Certain Companies of the People\u2019s Republic of China"
+  \ Investments that Finance Certain Companies of the People\u2019s Republic of\_\
+  China"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)

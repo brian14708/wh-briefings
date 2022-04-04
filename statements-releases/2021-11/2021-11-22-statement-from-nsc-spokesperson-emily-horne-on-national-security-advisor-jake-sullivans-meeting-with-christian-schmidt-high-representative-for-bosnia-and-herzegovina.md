@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/
 published_time: 2021-11-22 15:29:18-05:00
 title: "Statement from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Christian Schmidt, High Representative for Bosnia\
-  \ and Herzegovina"
+  \ and\_Herzegovina"
 ---
  
 National Security Advisor Jake Sullivan met today with High

@@ -4,8 +4,8 @@ date: '2021-02-18'
 modified_time: 2021-02-18 17:58:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/fact-sheet-president-biden-to-take-action-on-global-health-through-support-of-covax-and-calling-for-health-security-financing/
 published_time: 2021-02-18 17:58:48-05:00
-title: 'Fact Sheet: President Biden to Take Action on Global Health through Support
-  of COVAX and Calling for Health Security Financing'
+title: "Fact Sheet: President\_Biden to Take Action on Global Health through Support\
+  \ of COVAX and Calling for Health Security\_Financing"
 ---
  
 As the virus continues to spread throughout the world, and with new

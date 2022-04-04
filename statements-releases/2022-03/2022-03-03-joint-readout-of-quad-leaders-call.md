@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-03'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/joint-readout-of-quad-leaders-call/
 published_time: 2022-03-03 12:31:11-05:00
-title: Joint Readout of Quad Leaders Call
+title: "Joint Readout of Quad Leaders\_Call"
 ---
  
 Today the Quad Leaders – Prime Minister Scott Morrison of Australia,

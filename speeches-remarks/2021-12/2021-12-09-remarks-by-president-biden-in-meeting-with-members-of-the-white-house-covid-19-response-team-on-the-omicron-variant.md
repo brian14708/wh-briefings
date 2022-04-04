@@ -4,8 +4,8 @@ date: '2021-12-09'
 modified_time: 2021-12-09 18:05:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-in-meeting-with-members-of-the-white-house-covid-19-response-team-on-the-omicron-variant/
 published_time: 2021-12-09 18:30:00-05:00
-title: "Remarks by President Biden in Meeting with Members of the White House COVID-\
-  \ \u2060 19 Response Team on the Omicron Variant"
+title: "Remarks by President\_Biden in Meeting with Members of the White\_House COVID-\u2060\
+  19 Response Team on the Omicron\_Variant"
 ---
  
 State Dining Room

@@ -4,8 +4,8 @@ date: '2021-06-29'
 modified_time: 2021-06-29 14:47:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/29/letter-to-the-speaker-of-the-house-and-the-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148/
 published_time: 2021-06-29 14:47:22-04:00
-title: Letter to the Speaker of the House and the President Pro Tempore of the Senate
-  Consistent with the War Powers Resolution (Public Law 93-148)
+title: "Letter to the Speaker of the House and the President Pro Tempore of the Senate\
+  \ Consistent with the War Powers Resolution (Public Law\_93-148)"
 ---
  
 Dear Madam Speaker: (Dear Mr. President:)  

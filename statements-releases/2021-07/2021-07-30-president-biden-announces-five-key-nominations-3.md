@@ -4,7 +4,7 @@ date: '2021-07-30'
 modified_time: 2021-07-30 16:30:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-five-key-nominations-3/
 published_time: 2021-07-30 16:30:23-04:00
-title: President Biden Announces Five Key Nominations
+title: "President\_Biden Announces Five Key\_Nominations"
 ---
  
 WASHINGTON – Today, Joe Biden announced his intent to nominate the

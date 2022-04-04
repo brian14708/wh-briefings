@@ -4,7 +4,7 @@ date: '2021-07-09'
 modified_time: 2022-01-22 14:17:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/
 published_time: 2021-07-09 06:40:00-04:00
-title: 'FACT SHEET: Executive Order on Promoting Competition in the American Economy'
+title: "FACT SHEET: Executive Order on Promoting Competition in the American\_Economy"
 ---
  
 The economy is booming under President Biden’s leadership. The economy

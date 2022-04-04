@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 10:52:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-of-president-joe-biden-on-signing-havana-act-into-law/
 published_time: 2021-10-08 10:52:36-04:00
-title: Statement of President Joe Biden on Signing HAVANA Act Into Law
+title: "Statement of President Joe\_Biden on Signing HAVANA Act Into\_Law"
 ---
  
 Today, I was pleased to sign the HAVANA Act into law to ensure we are

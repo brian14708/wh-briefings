@@ -4,8 +4,8 @@ date: '2021-10-19'
 modified_time: 2021-10-18 23:41:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-improving-access-and-care-for-youth-mental-health-and-substance-use-conditions/
 published_time: 2021-10-19 07:15:00-04:00
-title: 'FACT SHEET: Improving Access and Care for Youth Mental Health and Substance
-  Use Conditions'
+title: "FACT SHEET: Improving Access and Care for Youth Mental Health and Substance\
+  \ Use\_Conditions"
 ---
  
 Even before the pandemic, demand for mental health and substance use

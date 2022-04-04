@@ -4,8 +4,8 @@ date: '2021-04-29'
 modified_time: 2021-04-29 15:39:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-the-american-families-plan-will-support-children-teachers-and-working-families-in-rural-america/
 published_time: 2021-04-29 15:39:12-04:00
-title: 'FACT SHEET: The American Families Plan Will Support Children, Teachers, and
-  Working Families in Rural America'
+title: "FACT SHEET: The American Families Plan Will Support Children, Teachers, and\
+  \ Working Families in Rural\_America"
 ---
  
 President Biden knows a strong middle-class is the backbone of America

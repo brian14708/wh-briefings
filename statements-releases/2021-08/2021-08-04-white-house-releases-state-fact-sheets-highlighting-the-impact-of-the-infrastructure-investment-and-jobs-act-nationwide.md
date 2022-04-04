@@ -4,8 +4,8 @@ date: '2021-08-04'
 modified_time: 2021-12-06 21:42:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/white-house-releases-state-fact-sheets-highlighting-the-impact-of-the-infrastructure-investment-and-jobs-act-nationwide/
 published_time: 2021-08-04 14:39:48-04:00
-title: White House Releases Updated State Fact Sheets Highlighting the Impact of the
-  Infrastructure Investment and Jobs Act Nationwide
+title: "White\_House Releases Updated State Fact Sheets Highlighting the Impact of\
+  \ the Infrastructure Investment and Jobs Act\_Nationwide"
 ---
  
 Today, the White House released updated state and territory fact sheets

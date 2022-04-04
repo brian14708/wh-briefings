@@ -4,8 +4,8 @@ date: '2021-03-30'
 modified_time: 2021-03-30 19:32:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/30/fact-sheet-president-biden-announces-additional-actions-to-respond-to-anti-asian-violence-xenophobia-and-bias/
 published_time: 2021-03-30 12:00:00-04:00
-title: 'FACT SHEET: President Biden Announces Additional Actions to Respond to Anti-Asian
-  Violence, Xenophobia and Bias'
+title: "FACT SHEET: President\_Biden Announces Additional Actions to Respond to Anti-Asian\
+  \ Violence, Xenophobia and\_Bias"
 ---
  
 * “Too many Asian Americans have been walking up and down the streets

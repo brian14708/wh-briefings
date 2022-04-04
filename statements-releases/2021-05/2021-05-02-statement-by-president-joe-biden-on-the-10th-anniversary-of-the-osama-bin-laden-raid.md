@@ -4,8 +4,8 @@ date: '2021-05-02'
 modified_time: 2021-05-02 12:19:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/02/statement-by-president-joe-biden-on-the-10th-anniversary-of-the-osama-bin-laden-raid/
 published_time: 2021-05-02 12:19:02-04:00
-title: Statement by President Joe Biden on the 10th Anniversary of the Osama bin Laden
-  Raid
+title: "Statement by President Joe\_Biden on the 10th Anniversary of the Osama bin\
+  \ Laden\_Raid"
 ---
  
 Ten years ago, I joined President Obama and members of our national

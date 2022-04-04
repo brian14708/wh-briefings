@@ -4,8 +4,8 @@ date: '2021-12-15'
 modified_time: 2021-12-15 14:25:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-by-president-biden-after-surveying-storm-damage-during-tour-of-mayfield-kentucky/
 published_time: 2021-12-15 15:00:00-05:00
-title: Remarks by President Biden After Surveying Storm Damage During Tour of Mayfield,
-  Kentucky
+title: "Remarks by President\_Biden After Surveying Storm Damage During Tour of Mayfield,\_\
+  Kentucky"
 ---
  
 Downtown Mayfield  

@@ -4,8 +4,8 @@ date: '2022-03-31'
 modified_time: 2022-03-31 17:38:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/
 published_time: 2022-03-31 06:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Advances Equality and Visibility\
-  \ for Transgender Americans"
+title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equality and Visibility\
+  \ for Transgender\_Americans"
 ---
  
 Today, the Biden-Harris Administration recognizes Transgender Day of

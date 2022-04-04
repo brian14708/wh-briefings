@@ -4,7 +4,7 @@ date: '2021-08-10'
 modified_time: 2021-08-10 18:37:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/president-biden-announces-eight-new-nominees-to-serve-as-u-s-attorneys/
 published_time: 2021-08-10 18:37:52-04:00
-title: President Biden Announces Eight New Nominees to Serve as U.S. Attorneys
+title: "President\_Biden Announces Eight New Nominees to Serve as U.S.\_Attorneys"
 ---
  
 President Biden is announcing eight new nominees to serve as U.S.

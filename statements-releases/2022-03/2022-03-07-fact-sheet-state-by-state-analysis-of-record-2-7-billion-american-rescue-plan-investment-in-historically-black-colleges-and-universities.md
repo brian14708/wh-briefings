@@ -4,8 +4,8 @@ date: '2022-03-07'
 modified_time: 2022-03-07 15:10:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-state-by-state-analysis-of-record-2-7-billion-american-rescue-plan-investment-in-historically-black-colleges-and-universities/
 published_time: 2022-03-07 13:05:14-05:00
-title: 'FACT SHEET: State-by-State Analysis of Record $2.7 Billion American Rescue
-  Plan Investment in Historically Black Colleges and Universities'
+title: "FACT SHEET: State-by-State Analysis of Record $2.7 Billion American Rescue\
+  \ Plan Investment in Historically Black Colleges and\_Universities"
 ---
  
 *During Week of Anniversary of American Rescue Plan, Administration

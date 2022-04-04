@@ -4,7 +4,7 @@ date: '2021-11-10'
 modified_time: 2021-11-10 11:02:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-president-biden-on-todays-economic-news/
 published_time: 2021-11-10 09:36:58-05:00
-title: "Statement by President Biden on Today\u2019s Economic News"
+title: "Statement by President\_Biden on Today\u2019s Economic\_News"
 ---
  
 Today, we received two pieces of economic news which underscore that our

@@ -4,8 +4,8 @@ date: '2021-06-09'
 modified_time: 2021-06-09 17:13:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/09/press-gaggle-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-en-route-suffolk-england/
 published_time: 2021-06-09 17:30:00-04:00
-title: Press Gaggle by Press Secretary Jen Psaki and National Security Advisor Jake
-  Sullivan En Route Suffolk, England
+title: "Press Gaggle by Press Secretary Jen\_Psaki and National Security Advisor Jake\
+  \ Sullivan En Route Suffolk,\_England"
 ---
  
 Aboard Air Force One  

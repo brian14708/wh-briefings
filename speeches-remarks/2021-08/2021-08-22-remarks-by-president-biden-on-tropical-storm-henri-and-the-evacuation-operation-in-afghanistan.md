@@ -4,8 +4,8 @@ date: '2021-08-22'
 modified_time: 2021-08-22 20:33:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/22/remarks-by-president-biden-on-tropical-storm-henri-and-the-evacuation-operation-in-afghanistan/
 published_time: 2021-08-22 20:33:35-04:00
-title: Remarks by President Biden on Tropical Storm Henri and the Evacuation Operation
-  in Afghanistan
+title: "Remarks by President\_Biden on Tropical Storm Henri and the Evacuation Operation\
+  \ in\_Afghanistan"
 ---
  
 Roosevelt Room

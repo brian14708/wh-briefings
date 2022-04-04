@@ -4,7 +4,7 @@ date: '2021-05-06'
 modified_time: 2021-05-06 17:31:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/a-proclamation-on-military-spouse-appreciation-day-2021/
 published_time: 2021-05-06 17:31:55-04:00
-title: A Proclamation on Military Spouse Appreciation Day, 2021
+title: "A Proclamation on Military Spouse Appreciation Day,\_2021"
 ---
  
 As the members of our Armed Forces safeguard our Nation at home and

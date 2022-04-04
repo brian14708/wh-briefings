@@ -4,8 +4,8 @@ date: '2022-03-28'
 modified_time: 2022-03-28 16:33:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/28/a-proclamation-on-the-commemoration-of-the-50th-anniversary-of-the-vietnam-war/
 published_time: 2022-03-28 16:33:55-04:00
-title: A Proclamation on the Commemoration of the 50th Anniversary of the Vietnam
-  War
+title: "A Proclamation on the Commemoration of the 50th Anniversary of the Vietnam\_\
+  War"
 ---
  
 On National Vietnam War Veterans Day, we honor all those who bravely

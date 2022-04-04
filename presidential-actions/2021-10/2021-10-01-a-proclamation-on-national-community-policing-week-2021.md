@@ -4,7 +4,7 @@ date: '2021-10-01'
 modified_time: 2021-10-01 12:38:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/01/a-proclamation-on-national-community-policing-week-2021/
 published_time: 2021-10-01 12:37:59-04:00
-title: A Proclamation on National Community Policing Week, 2021
+title: "A Proclamation on National Community Policing Week,\_2021"
 ---
  
 Community policing — the practice of law enforcement professionals

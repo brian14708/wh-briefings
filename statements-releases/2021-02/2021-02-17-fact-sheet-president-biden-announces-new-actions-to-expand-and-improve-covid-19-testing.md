@@ -4,8 +4,8 @@ date: '2021-02-17'
 modified_time: 2021-02-17 11:16:10-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/fact-sheet-president-biden-announces-new-actions-to-expand-and-improve-covid-19-testing/
 published_time: 2021-02-17 11:16:09-05:00
-title: "Fact Sheet: President Biden Announces New Actions to Expand and Improve COVID-\
-  \ \u2060 19 Testing"
+title: "Fact Sheet: President\_Biden Announces New Actions to Expand and Improve COVID-\u2060\
+  19\_Testing"
 ---
  
 As part of his National Strategy for the COVID-19 Response and Pandemic

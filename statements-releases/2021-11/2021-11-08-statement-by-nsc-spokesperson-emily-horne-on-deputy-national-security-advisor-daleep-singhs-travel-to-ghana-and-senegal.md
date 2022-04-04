@@ -5,7 +5,7 @@ modified_time: 2021-11-09 09:13:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-daleep-singhs-travel-to-ghana-and-senegal/
 published_time: 2021-11-08 18:52:59-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Deputy National Security Advisor\
-  \ Daleep Singh\u2019s Travel to Ghana and Senegal"
+  \ Daleep Singh\u2019s Travel to Ghana and\_Senegal"
 ---
  
 Deputy National Security Advisor for International Economics Daleep

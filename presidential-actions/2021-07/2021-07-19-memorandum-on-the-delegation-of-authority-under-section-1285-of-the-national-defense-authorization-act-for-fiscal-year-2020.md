@@ -4,8 +4,8 @@ date: '2021-07-19'
 modified_time: 2021-07-19 12:21:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/19/memorandum-on-the-delegation-of-authority-under-section-1285-of-the-national-defense-authorization-act-for-fiscal-year-2020/
 published_time: 2021-07-19 12:21:53-04:00
-title: Memorandum on the Delegation of Authority Under Section 1285 of the National
-  Defense Authorization Act for Fiscal Year 2020
+title: "Memorandum on the Delegation of Authority Under Section 1285 of the National\
+  \ Defense Authorization Act for Fiscal Year\_2020"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF DEFENSE

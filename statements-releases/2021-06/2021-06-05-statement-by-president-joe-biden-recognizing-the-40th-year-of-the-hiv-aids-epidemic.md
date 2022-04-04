@@ -4,8 +4,8 @@ date: '2021-06-05'
 modified_time: 2021-06-04 23:20:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/05/statement-by-president-joe-biden-recognizing-the-40th-year-of-the-hiv-aids-epidemic/
 published_time: 2021-06-05 10:30:00-04:00
-title: Statement by President Joe Biden Recognizing the 40th Year of the HIV/AIDS
-  Epidemic
+title: "Statement by President Joe\_Biden Recognizing the 40th Year of the HIV/AIDS\_\
+  Epidemic"
 ---
  
 Forty years ago today, five young men in Los Angeles were confirmed as

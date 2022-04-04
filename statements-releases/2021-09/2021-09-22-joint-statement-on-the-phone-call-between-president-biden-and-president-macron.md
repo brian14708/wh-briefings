@@ -4,7 +4,8 @@ date: '2021-09-22'
 modified_time: 2021-09-22 17:08:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/joint-statement-on-the-phone-call-between-president-biden-and-president-macron/
 published_time: 2021-09-22 12:15:00-04:00
-title: Joint Statement on the Phone Call between President Biden and President Macron
+title: "Joint Statement on the Phone Call between President\_Biden and President\_\
+  Macron"
 ---
  
 President Emmanuel Macron of the French Republic and President Joe Biden

@@ -4,8 +4,8 @@ date: '2021-04-13'
 modified_time: 2021-04-13 09:45:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/statement-from-jeff-zients-white-house-covid-19-response-coordinator-on-johnson-johnson-vaccine/
 published_time: 2021-04-13 09:45:04-04:00
-title: "Statement from Jeff Zients, White House COVID- \u2060 19 Response Coordinator\
-  \ on Johnson & Johnson Vaccine"
+title: "Statement from Jeff Zients, White\_House COVID-\u206019 Response Coordinator\
+  \ on Johnson & Johnson\_Vaccine"
 ---
  
 As FDA and CDC announced earlier today, out of an abundance of caution,

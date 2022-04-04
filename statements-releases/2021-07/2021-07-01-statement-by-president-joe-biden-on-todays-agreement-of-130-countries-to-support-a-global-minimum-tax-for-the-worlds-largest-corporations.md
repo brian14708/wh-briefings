@@ -4,8 +4,8 @@ date: '2021-07-01'
 modified_time: 2021-07-01 12:32:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-president-joe-biden-on-todays-agreement-of-130-countries-to-support-a-global-minimum-tax-for-the-worlds-largest-corporations/
 published_time: 2021-07-01 12:32:09-04:00
-title: "Statement by President Joe Biden on Today\u2019s Agreement of 130 Countries\
-  \ to Support a Global Minimum Tax for the World\u2019s Largest Corporations"
+title: "Statement by President Joe\_Biden on Today\u2019s Agreement of 130 Countries\
+  \ to Support a Global Minimum Tax for the World\u2019s Largest\_Corporations"
 ---
  
 Today marks an important step in moving the global economy forward to be

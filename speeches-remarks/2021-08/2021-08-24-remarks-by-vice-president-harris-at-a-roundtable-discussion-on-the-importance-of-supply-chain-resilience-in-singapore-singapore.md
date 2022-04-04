@@ -4,8 +4,8 @@ date: '2021-08-24'
 modified_time: 2021-09-07 13:16:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/remarks-by-vice-president-harris-at-a-roundtable-discussion-on-the-importance-of-supply-chain-resilience-in-singapore-singapore/
 published_time: 2021-08-24 02:56:00-04:00
-title: Remarks by Vice President Harris at a Roundtable Discussion on the Importance
-  of Supply Chain Resilience in Singapore, Singapore
+title: "Remarks by Vice President Harris at a Roundtable Discussion on the Importance\
+  \ of Supply Chain Resilience in Singapore,\_Singapore"
 ---
  
 Gardens by the Bay  

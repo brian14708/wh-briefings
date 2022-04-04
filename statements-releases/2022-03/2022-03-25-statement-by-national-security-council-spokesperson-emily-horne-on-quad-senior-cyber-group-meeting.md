@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-25'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/statement-by-national-security-council-spokesperson-emily-horne-on-quad-senior-cyber-group-meeting/
 published_time: 2022-03-25 11:58:30-04:00
-title: Statement by National Security Council Spokesperson Emily Horne on Quad Senior
-  Cyber Group Meeting
+title: "Statement by National Security Council Spokesperson Emily Horne on Quad Senior\
+  \ Cyber Group\_Meeting"
 ---
  
 Australia, India, Japan and the United States recognize the need for

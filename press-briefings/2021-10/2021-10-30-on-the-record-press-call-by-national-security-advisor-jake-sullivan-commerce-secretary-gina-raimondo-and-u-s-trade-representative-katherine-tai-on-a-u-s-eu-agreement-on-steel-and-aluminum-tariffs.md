@@ -4,9 +4,9 @@ date: '2021-10-30'
 modified_time: 2021-10-30 18:59:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/30/on-the-record-press-call-by-national-security-advisor-jake-sullivan-commerce-secretary-gina-raimondo-and-u-s-trade-representative-katherine-tai-on-a-u-s-eu-agreement-on-steel-and-aluminum-tariffs/
 published_time: 2021-10-30 19:00:00-04:00
-title: On-The-Record Press Call by National Security Advisor Jake Sullivan, Commerce
-  Secretary Gina Raimondo, and U.S. Trade Representative Katherine Tai on a U.S.-EU
-  Agreement on Steel and Aluminum Tariffs
+title: "On-The-Record Press Call by National Security Advisor Jake Sullivan, Commerce\
+  \ Secretary Gina Raimondo, and U.S. Trade Representative Katherine Tai on a U.S.-EU\
+  \ Agreement on Steel and Aluminum\_Tariffs"
 ---
  
 Via Teleconference

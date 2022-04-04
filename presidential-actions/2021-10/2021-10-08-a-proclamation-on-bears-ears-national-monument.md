@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 17:02:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/
 published_time: 2021-10-08 16:11:00-04:00
-title: A Proclamation on Bears Ears National Monument
+title: "A Proclamation on Bears Ears National\_Monument"
 ---
  
 President Barack Obama’s establishment of the Bears Ears National

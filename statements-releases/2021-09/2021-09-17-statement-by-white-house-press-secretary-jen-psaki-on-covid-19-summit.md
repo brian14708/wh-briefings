@@ -4,7 +4,7 @@ date: '2021-09-17'
 modified_time: 2021-09-17 16:00:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/statement-by-white-house-press-secretary-jen-psaki-on-covid-19-summit/
 published_time: 2021-09-17 16:00:57-04:00
-title: "Statement by White House Press Secretary Jen Psaki on COVID- \u2060 19 Summit"
+title: "Statement by White\_House Press Secretary Jen\_Psaki on COVID-\u206019\_Summit"
 ---
  
 On Wednesday September 22 President Biden will convene a virtual COVID

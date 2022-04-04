@@ -4,8 +4,8 @@ date: '2022-04-01'
 modified_time: 2022-04-01 19:06:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/01/press-briefing-by-press-secretary-jen-psaki-and-member-of-the-council-of-economic-advisers-jared-bernstein-april-1-2022/
 published_time: 2022-04-01 18:49:38-04:00
-title: Press Briefing by Press Secretary Jen Psaki and Member of the Council of Economic
-  Advisers Jared Bernstein, April 1, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki and Member of the Council of\
+  \ Economic Advisers Jared Bernstein, April 1,\_2022"
 ---
  
 James S. Brady Press Briefing Room

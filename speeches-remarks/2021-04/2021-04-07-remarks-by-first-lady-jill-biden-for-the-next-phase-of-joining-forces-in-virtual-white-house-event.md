@@ -4,8 +4,8 @@ date: '2021-04-07'
 modified_time: 2022-01-25 15:19:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/07/remarks-by-first-lady-jill-biden-for-the-next-phase-of-joining-forces-in-virtual-white-house-event/
 published_time: 2021-04-07 11:30:00-04:00
-title: Remarks by First Lady Jill Biden for the Next Phase of Joining Forces in Virtual
-  White House Event
+title: "Remarks by First Lady Jill\_Biden for the Next Phase of Joining Forces in\
+  \ Virtual White\_House\_Event"
 ---
  
 11:38 A.M. EDT

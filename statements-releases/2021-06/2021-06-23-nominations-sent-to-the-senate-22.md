@@ -4,7 +4,7 @@ date: '2021-06-23'
 modified_time: 2021-06-23 15:37:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/nominations-sent-to-the-senate-22/
 published_time: 2021-06-23 15:37:08-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
      Sharon L. Cromer, of New York, a Career Member of the Senior

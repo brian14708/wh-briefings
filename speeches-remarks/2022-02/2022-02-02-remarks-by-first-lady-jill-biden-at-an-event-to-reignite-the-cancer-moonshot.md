@@ -4,7 +4,7 @@ date: '2022-02-02'
 modified_time: 2022-02-02 17:22:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/02/remarks-by-first-lady-jill-biden-at-an-event-to-reignite-the-cancer-moonshot/
 published_time: 2022-02-02 17:22:02-05:00
-title: Remarks by First Lady Jill Biden at an Event to Reignite the Cancer Moonshot
+title: "Remarks by First Lady Jill\_Biden at an Event to Reignite the Cancer\_Moonshot"
 ---
  
 East Room, The White House 

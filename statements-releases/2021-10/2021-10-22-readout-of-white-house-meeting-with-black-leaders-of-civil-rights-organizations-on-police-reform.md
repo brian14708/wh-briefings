@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-10-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/readout-of-white-house-meeting-with-black-leaders-of-civil-rights-organizations-on-police-reform/
 published_time: 2021-10-22 17:37:30-04:00
-title: Readout of White House Meeting with Black Leaders of Civil Rights Organizations
-  on Police Reform
+title: "Readout of White\_House Meeting with Black Leaders of Civil Rights Organizations\
+  \ on Police\_Reform"
 ---
  
 Yesterday, senior officials from the White House and the Department of

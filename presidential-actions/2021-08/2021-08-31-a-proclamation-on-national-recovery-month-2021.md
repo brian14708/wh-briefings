@@ -4,7 +4,7 @@ date: '2021-08-31'
 modified_time: 2021-08-31 10:05:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-recovery-month-2021/
 published_time: 2021-08-31 10:05:26-04:00
-title: A Proclamation on National Recovery Month, 2021
+title: "A Proclamation on National Recovery Month,\_2021"
 ---
  
 The COVID-19 pandemic has taken an enormous toll on the lives of the

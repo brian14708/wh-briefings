@@ -5,7 +5,7 @@ modified_time: 2022-02-18 17:08:36-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/18/notice-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic-2/
 published_time: 2022-02-18 17:06:43-05:00
 title: "Notice on the Continuation of the National Emergency Concerning the Coronavirus\
-  \ Disease 2019 (COVID- \u2060 19) Pandemic"
+  \ Disease 2019 (COVID-\u206019)\_Pandemic"
 ---
  
 On March 13, 2020, by Proclamation 9994, the President declared a

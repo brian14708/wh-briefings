@@ -3,7 +3,7 @@ category: speeches-remarks
 date: '2021-10-08'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/08/remarks-by-president-biden-on-restoring-protections-for-national-monuments/
 published_time: 2021-10-08 17:30:35-04:00
-title: Remarks by President Biden on Restoring Protections for National Monuments
+title: "Remarks by President\_Biden on Restoring Protections for National\_Monuments"
 ---
  
 North Lawn

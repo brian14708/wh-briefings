@@ -4,8 +4,8 @@ date: '2021-06-24'
 modified_time: 2021-06-24 19:31:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/24/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-raleigh-north-carolina/
 published_time: 2021-06-24 19:45:00-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard
-  Air Force One En Route Raleigh, North Carolina
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard\
+  \ Air Force One En Route Raleigh, North\_Carolina"
 ---
  
 Aboard Air Force One  

@@ -4,7 +4,7 @@ date: '2021-06-15'
 modified_time: 2021-06-25 09:35:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/president-biden-announces-4th-slate-of-judicial-nominations/
 published_time: 2021-06-15 12:06:35-04:00
-title: President Biden Announces Fourth Slate of Judicial Nominations
+title: "President\_Biden Announces Fourth Slate of Judicial\_Nominations"
 ---
  
 As he continues to move at an historic pace with respect to judicial

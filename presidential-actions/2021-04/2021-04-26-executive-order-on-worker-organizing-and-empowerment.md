@@ -4,7 +4,7 @@ date: '2021-04-26'
 modified_time: 2021-04-26 15:58:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/
 published_time: 2021-04-26 15:58:12-04:00
-title: Executive Order on Worker Organizing and Empowerment
+title: "Executive Order on Worker Organizing and\_Empowerment"
 ---
  
     By the authority vested in me as President by the Constitution and

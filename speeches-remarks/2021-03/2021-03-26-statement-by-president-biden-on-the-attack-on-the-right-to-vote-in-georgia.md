@@ -4,7 +4,7 @@ date: '2021-03-26'
 modified_time: 2021-03-26 14:40:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/26/statement-by-president-biden-on-the-attack-on-the-right-to-vote-in-georgia/
 published_time: 2021-03-26 14:40:39-04:00
-title: Statement by President Biden on the Attack on the Right to Vote in Georgia
+title: "Statement by President\_Biden on the Attack on the Right to Vote in\_Georgia"
 ---
  
 More Americans voted in the 2020 elections than any election in our

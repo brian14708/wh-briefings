@@ -4,8 +4,8 @@ date: '2021-06-17'
 modified_time: 2021-06-17 20:38:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/
 published_time: 2021-06-17 20:38:57-04:00
-title: Remarks by President Biden at Signing of the Juneteenth National Independence
-  Day Act
+title: "Remarks by President\_Biden at Signing of the Juneteenth National Independence\
+  \ Day\_Act"
 ---
  
 East Room

@@ -4,8 +4,8 @@ date: '2021-10-08'
 modified_time: 2021-10-08 17:05:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/memorandum-for-the-secretary-of-state-on-presidential-determination-on-refugee-admissions-for-fiscal-year-2022/
 published_time: 2021-10-08 17:05:02-04:00
-title: Memorandum for the Secretary of State on Presidential Determination on Refugee
-  Admissions for Fiscal Year 2022
+title: "Memorandum for the Secretary of State on Presidential Determination on Refugee\
+  \ Admissions for Fiscal Year\_2022"
 ---
  
 By the authority vested in me as President by the Constitution and the

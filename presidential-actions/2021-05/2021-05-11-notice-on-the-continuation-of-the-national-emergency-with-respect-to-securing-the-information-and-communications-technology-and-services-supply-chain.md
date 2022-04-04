@@ -4,8 +4,8 @@ date: '2021-05-11'
 modified_time: 2021-05-11 15:32:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain/
 published_time: 2021-05-11 15:29:41-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Securing
-  the Information and Communications Technology and Services Supply Chain
+title: "Notice on the Continuation of the National Emergency with Respect to Securing\
+  \ the Information and Communications Technology and Services Supply\_Chain"
 ---
  
 On May 15, 2019, by Executive Order 13873, the President declared a

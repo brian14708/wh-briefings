@@ -4,7 +4,7 @@ date: '2021-12-13'
 modified_time: 2021-12-12 21:35:10-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/
 published_time: 2021-12-13 07:00:00-05:00
-title: "FACT SHEET: The Biden- \u2060 Harris Electric Vehicle Charging Action Plan"
+title: "FACT SHEET: The Biden-\u2060Harris Electric Vehicle Charging Action\_Plan"
 ---
  
 *Vice President Kamala Harris to Announce Action Plan that Fast Tracks

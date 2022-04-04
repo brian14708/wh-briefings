@@ -4,8 +4,8 @@ date: '2022-01-17'
 modified_time: 2022-01-17 13:28:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/17/remarks-by-vice-president-harris-at-martin-luther-king-jr-beloved-community-commemorative-service/
 published_time: 2022-01-17 13:28:06-05:00
-title: Remarks by Vice President Harris at Martin Luther King Jr. Beloved Community
-  Commemorative Service
+title: "Remarks by Vice President Harris at Martin Luther King Jr. Beloved Community\
+  \ Commemorative\_Service"
 ---
  
 *South Court Auditorium  

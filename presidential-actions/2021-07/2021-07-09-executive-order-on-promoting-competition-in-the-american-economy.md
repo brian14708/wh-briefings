@@ -4,7 +4,7 @@ date: '2021-07-09'
 modified_time: 2021-07-09 15:02:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/
 published_time: 2021-07-09 15:02:06-04:00
-title: Executive Order on Promoting Competition in the American Economy
+title: "Executive Order on Promoting Competition in the American\_Economy"
 ---
  
 By the authority vested in me as President by the Constitution and the

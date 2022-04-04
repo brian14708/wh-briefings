@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/
 published_time: 2021-08-09 20:55:14-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Takeo Akiba, Secretary General of Japan\u2019s National\
-  \ Security Secretariat"
+  \ Security\_Secretariat"
 ---
  
 National Security Advisor Jake Sullivan met today with the Secretary

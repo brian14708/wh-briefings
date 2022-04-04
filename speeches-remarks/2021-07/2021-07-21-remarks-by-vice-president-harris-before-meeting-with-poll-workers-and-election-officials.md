@@ -4,8 +4,8 @@ date: '2021-07-21'
 modified_time: 2021-07-23 13:25:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/21/remarks-by-vice-president-harris-before-meeting-with-poll-workers-and-election-officials/
 published_time: 2021-07-21 13:23:00-04:00
-title: Remarks by Vice President Harris Before Meeting with Poll Workers and Election
-  Officials
+title: "Remarks by Vice President Harris Before Meeting with Poll Workers and Election\_\
+  Officials"
 ---
  
 Vice President’s Ceremonial Office  

@@ -4,7 +4,7 @@ date: '2021-09-13'
 modified_time: 2021-09-13 23:59:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/president-joseph-r-biden-jr-approves-louisiana-emergency-declaration-3/
 published_time: 2021-09-13 23:59:53-04:00
-title: President Joseph R. Biden, Jr. Approves Louisiana Emergency Declaration
+title: "President Joseph R. Biden, Jr. Approves Louisiana Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

@@ -4,8 +4,8 @@ date: '2021-03-29'
 modified_time: 2021-03-29 13:42:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
 published_time: 2021-03-29 13:28:25-04:00
-title: Letter to the Speaker of the House and the President of the Senate on the Continuation
-  of the National Emergency With Respect to South Sudan
+title: "Letter to the Speaker of the House and the President of the Senate on the\
+  \ Continuation of the National Emergency With Respect to South\_Sudan"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)

@@ -4,7 +4,7 @@ date: '2021-04-20'
 modified_time: 2021-04-20 14:55:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/20/a-proclamation-on-the-death-of-walter-mondale/
 published_time: 2021-04-20 14:55:28-04:00
-title: A Proclamation on the Death of Walter Mondale
+title: "A Proclamation on the Death of Walter\_Mondale"
 ---
  
      Today, our Nation mourns the loss of one of our Nation’s most

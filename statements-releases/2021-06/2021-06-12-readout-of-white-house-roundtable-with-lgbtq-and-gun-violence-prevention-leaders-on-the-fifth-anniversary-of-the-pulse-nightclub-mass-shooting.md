@@ -4,8 +4,8 @@ date: '2021-06-12'
 modified_time: 2021-06-12 12:17:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-white-house-roundtable-with-lgbtq-and-gun-violence-prevention-leaders-on-the-fifth-anniversary-of-the-pulse-nightclub-mass-shooting/
 published_time: 2021-06-12 12:17:58-04:00
-title: Readout of White House Roundtable with LGBTQ+ and Gun Violence Prevention Leaders
-  on the Fifth Anniversary of the Pulse Nightclub Mass Shooting
+title: "Readout of White\_House Roundtable with LGBTQ+ and Gun Violence Prevention\
+  \ Leaders on the Fifth Anniversary of the Pulse Nightclub Mass\_Shooting"
 ---
  
 On Friday, Domestic Policy Advisor Susan Rice and White House Public

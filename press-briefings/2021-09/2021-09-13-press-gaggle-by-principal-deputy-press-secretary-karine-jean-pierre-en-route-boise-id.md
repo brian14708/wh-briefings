@@ -4,8 +4,8 @@ date: '2021-09-13'
 modified_time: 2021-09-13 15:16:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/13/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-boise-id/
 published_time: 2021-09-13 15:30:00-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route
-  Boise, ID
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
+  \ Boise,\_ID"
 ---
  
 12:39 P.M. EDT  

@@ -4,8 +4,9 @@ date: '2021-03-12'
 modified_time: 2021-03-12 12:55:13-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/12/remarks-by-president-biden-prime-minister-modi-of-india-prime-minister-morrison-of-australia-and-prime-minister-suga-of-japan-in-virtual-meeting-of-the-quad/
 published_time: 2021-03-12 12:01:03-05:00
-title: Remarks by President Biden, Prime Minister Modi of India, Prime Minister Morrison
-  of Australia, and Prime Minister Suga of Japan in the Virtual Quad Leaders Summit
+title: "Remarks by President\_Biden, Prime Minister Modi of India, Prime Minister\
+  \ Morrison of Australia, and Prime Minister Suga of Japan in the Virtual Quad Leaders\_\
+  Summit"
 ---
  
 State Dining Room

@@ -4,7 +4,7 @@ date: '2021-07-20'
 modified_time: 2021-07-20 15:22:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/20/notice-on-the-continuation-of-the-national-emergency-with-respect-to-mali/
 published_time: 2021-07-20 15:22:57-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Mali
+title: "Notice on the Continuation of the National Emergency with Respect to\_Mali"
 ---
  
 On July 26, 2019, by Executive Order 13882, the President declared a

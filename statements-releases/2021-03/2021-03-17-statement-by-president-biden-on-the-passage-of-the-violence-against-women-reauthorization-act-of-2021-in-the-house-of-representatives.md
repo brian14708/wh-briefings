@@ -4,8 +4,8 @@ date: '2021-03-17'
 modified_time: 2021-03-17 19:50:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statement-by-president-biden-on-the-passage-of-the-violence-against-women-reauthorization-act-of-2021-in-the-house-of-representatives/
 published_time: 2021-03-17 19:50:16-04:00
-title: Statement by President Biden on the Passage of the Violence Against Women Reauthorization
-  Act of 2021 in the House of Representatives
+title: "Statement by President\_Biden on the Passage of the Violence Against Women\
+  \ Reauthorization Act of 2021 in the House of\_Representatives"
 ---
  
 I applaud the House of Representatives for passing the Violence Against

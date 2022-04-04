@@ -4,7 +4,8 @@ date: '2021-11-10'
 modified_time: 2021-11-10 15:42:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/president-biden-to-sign-bipartisan-infrastructure-investment-and-jobs-act-monday/
 published_time: 2021-11-10 15:45:00-05:00
-title: President Biden to Sign Bipartisan Infrastructure Investment and Jobs Act Monday
+title: "President\_Biden to Sign Bipartisan Infrastructure Investment and Jobs Act\_\
+  Monday"
 ---
  
 On Monday, the President will host a bipartisan bill signing ceremony

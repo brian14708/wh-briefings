@@ -5,7 +5,7 @@ modified_time: 2021-08-19 09:27:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/18/ensuring-a-safe-return-to-in-person-school-for-the-nations-children/
 published_time: 2021-08-18 16:15:04-04:00
 title: "Memorandum on Ensuring a Safe Return to In-Person School for the Nation\u2019\
-  s Children"
+  s\_Children"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF EDUCATION

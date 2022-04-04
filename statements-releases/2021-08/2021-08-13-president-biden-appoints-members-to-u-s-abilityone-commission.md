@@ -4,7 +4,7 @@ date: '2021-08-13'
 modified_time: 2021-08-12 22:58:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/president-biden-appoints-members-to-u-s-abilityone-commission/
 published_time: 2021-08-13 08:00:00-04:00
-title: President Biden Appoints Members to U.S. AbilityOne Commission
+title: "President\_Biden Appoints Members to U.S. AbilityOne\_Commission"
 ---
  
 WASHINGTON – Today, President Biden announced that he has appointed the

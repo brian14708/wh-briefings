@@ -4,7 +4,7 @@ date: '2021-08-24'
 modified_time: 2021-08-24 00:47:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/24/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-3/
 published_time: 2021-08-24 00:47:07-04:00
-title: President Joseph R. Biden, Jr. Approves Tennessee Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Tennessee Disaster\_Declaration"
 ---
  
 Yesterday, President Joseph R. Biden, Jr. declared that a major disaster

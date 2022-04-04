@@ -4,8 +4,8 @@ date: '2021-06-03'
 modified_time: 2021-06-03 17:37:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-president-joseph-r-biden-jr-on-the-national-security-study-memorandum-on-the-fight-against-corruption/
 published_time: 2021-06-03 10:47:16-04:00
-title: Statement by President Joseph R. Biden, Jr. on the National Security Study
-  Memorandum on the Fight Against Corruption
+title: "Statement by President Joseph R. Biden, Jr. on the National Security Study\
+  \ Memorandum on the Fight Against\_Corruption"
 ---
  
 Strengthening the resilience of rights-respecting democracies is one of

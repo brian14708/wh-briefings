@@ -4,7 +4,7 @@ date: '2022-02-03'
 modified_time: 2022-02-04 10:02:11-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/03/press-gaggle-by-press-secretary-jen-psaki-2/
 published_time: 2022-02-03 14:57:00-05:00
-title: Press Gaggle by Press Secretary Jen Psaki
+title: "Press Gaggle by Press Secretary Jen\_Psaki"
 ---
  
 Aboard Air Force One  

@@ -4,8 +4,8 @@ date: '2021-02-10'
 modified_time: 2021-02-10 11:00:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/10/president-biden-announces-members-of-the-biden-harris-administration-covid-19-health-equity-task-force/
 published_time: 2021-02-10 11:15:00-05:00
-title: "President Biden Announces Members of the Biden- \u2060 Harris Administration\
-  \ COVID- \u2060 19 Health Equity Task Force"
+title: "President\_Biden Announces Members of the Biden-\u2060Harris Administration\
+  \ COVID-\u206019 Health Equity Task\_Force"
 ---
  
 *The COVID-19 Health Equity Task Force will provide recommendations for

@@ -4,7 +4,7 @@ date: '2021-04-08'
 modified_time: 2021-04-08 14:41:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/08/remarks-by-vice-president-harris-on-gun-violence-prevention/
 published_time: 2021-04-08 14:40:28-04:00
-title: Remarks by Vice President Harris on Gun Violence Prevention
+title: "Remarks by Vice President Harris on Gun Violence\_Prevention"
 ---
  
 11:55 A.M. EDT  

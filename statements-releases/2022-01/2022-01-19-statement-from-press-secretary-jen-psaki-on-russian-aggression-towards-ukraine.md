@@ -4,7 +4,8 @@ date: '2022-01-19'
 modified_time: 2022-01-19 18:38:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/statement-from-press-secretary-jen-psaki-on-russian-aggression-towards-ukraine/
 published_time: 2022-01-19 18:38:18-05:00
-title: Statement from Press Secretary Jen Psaki on Russian Aggression Towards Ukraine
+title: "Statement from Press Secretary Jen\_Psaki on Russian Aggression Towards\_\
+  Ukraine"
 ---
  
 President Biden has been clear with the Russian President: If any

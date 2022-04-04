@@ -4,8 +4,8 @@ date: '2021-08-09'
 modified_time: 2021-08-09 13:39:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/statement-by-president-joe-biden-on-covid-19-vaccines-for-service-members/
 published_time: 2021-08-09 13:39:24-04:00
-title: "Statement by President Joe Biden on COVID- \u2060 19 Vaccines for Service\
-  \ Members"
+title: "Statement by President Joe\_Biden on COVID-\u206019 Vaccines for Service\_\
+  Members"
 ---
  
 I strongly support Secretary Austin’s message to the Force today on the

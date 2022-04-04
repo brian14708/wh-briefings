@@ -4,7 +4,7 @@ date: '2022-02-13'
 modified_time: 2022-02-13 14:02:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/13/statement-by-white-house-homeland-security-advisor-dr-liz-sherwood-randall/
 published_time: 2022-02-13 13:44:01-05:00
-title: Statement by White House Homeland Security Advisor Dr. Liz Sherwood-Randall
+title: "Statement by White\_House Homeland Security Advisor Dr. Liz Sherwood-Randall"
 ---
  
 We are working closely with our Canadian counterparts to end the

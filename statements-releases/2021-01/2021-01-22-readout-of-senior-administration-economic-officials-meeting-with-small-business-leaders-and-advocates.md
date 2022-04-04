@@ -4,7 +4,7 @@ date: '2021-01-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/readout-of-senior-administration-economic-officials-meeting-with-small-business-leaders-and-advocates/
 published_time: 2021-01-22 20:14:56-05:00
 title: "Readout of Senior Administration Economic Officials\u2019 Meeting with Small\
-  \ Business Leaders and Advocates"
+  \ Business Leaders and\_Advocates"
 ---
  
 Today, Acting Small Business Administrator Tami Perriello, Director of

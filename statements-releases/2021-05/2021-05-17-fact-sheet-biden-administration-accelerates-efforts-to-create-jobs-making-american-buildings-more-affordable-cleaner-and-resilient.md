@@ -4,8 +4,8 @@ date: '2021-05-17'
 modified_time: 2021-05-18 14:39:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-administration-accelerates-efforts-to-create-jobs-making-american-buildings-more-affordable-cleaner-and-resilient/
 published_time: 2021-05-17 16:15:00-04:00
-title: 'FACT SHEET: Biden Administration Accelerates Efforts to Create Jobs Making
-  American Buildings More Affordable, Cleaner, and Resilient'
+title: "FACT SHEET: Biden Administration Accelerates Efforts to Create Jobs Making\
+  \ American Buildings More Affordable, Cleaner, and\_Resilient"
 ---
  
 *Energy, GSA, and EPA Announce New Programs to Electrify Buildings,

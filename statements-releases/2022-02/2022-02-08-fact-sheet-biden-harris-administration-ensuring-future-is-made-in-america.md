@@ -4,8 +4,8 @@ date: '2022-02-08'
 modified_time: 2022-02-08 08:47:06-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-biden-harris-administration-ensuring-future-is-made-in-america/
 published_time: 2022-02-08 05:15:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Ensuring Future is Made in\
-  \ America"
+title: "FACT SHEET: Biden-\u2060Harris Administration Ensuring Future is Made in\_\
+  America"
 ---
  
 *Tritium Announces EV Charger Manufacturing Facility in Tennessee; To

@@ -5,7 +5,7 @@ modified_time: 2021-05-18 19:11:47-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/readout-of-jake-sullivans-bilateral-meeting-with-uk-national-security-advisor-stephen-lovegrove/
 published_time: 2021-05-18 19:11:46-04:00
 title: "Readout of Jake Sullivan\u2019s Bilateral Meeting with UK National Security\
-  \ Advisor Stephen Lovegrove"
+  \ Advisor Stephen\_Lovegrove"
 ---
  
 Today, National Security Advisor Jake Sullivan met in Washington with

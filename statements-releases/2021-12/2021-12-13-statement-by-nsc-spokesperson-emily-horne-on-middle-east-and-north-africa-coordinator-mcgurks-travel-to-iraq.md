@@ -5,7 +5,7 @@ modified_time: 2021-12-13 12:08:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/statement-by-nsc-spokesperson-emily-horne-on-middle-east-and-north-africa-coordinator-mcgurks-travel-to-iraq/
 published_time: 2021-12-13 12:08:48-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Middle East and North Africa\
-  \ Coordinator McGurk\u2019s Travel to Iraq"
+  \ Coordinator McGurk\u2019s Travel to\_Iraq"
 ---
  
 Deputy Assistant to the President and Coordinator for the Middle East

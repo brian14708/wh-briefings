@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-03-12 19:13:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/12/remarks-by-president-biden-on-the-american-rescue-plan-2/
 published_time: 2021-03-12 19:13:57-05:00
-title: Remarks by President Biden on the American Rescue Plan
+title: "Remarks by President\_Biden on the American Rescue\_Plan"
 ---
  
 Rose Garden

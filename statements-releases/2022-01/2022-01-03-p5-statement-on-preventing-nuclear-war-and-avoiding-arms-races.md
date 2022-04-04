@@ -4,8 +4,8 @@ date: '2022-01-03'
 modified_time: 2022-01-03 09:13:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/p5-statement-on-preventing-nuclear-war-and-avoiding-arms-races/
 published_time: 2022-01-03 08:00:00-05:00
-title: Joint Statement of the Leaders of the Five Nuclear-Weapon States on Preventing
-  Nuclear War and Avoiding Arms Races
+title: "Joint Statement of the Leaders of the Five Nuclear-Weapon States on Preventing\
+  \ Nuclear War and Avoiding Arms\_Races"
 ---
  
 The People’s Republic of China, the French Republic, the Russian

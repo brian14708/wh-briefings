@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-03'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela-2/
 published_time: 2022-03-03 14:24:20-05:00
-title: Notice on the Continuation of the National Emergency With Respect to Venezuela
+title: "Notice on the Continuation of the National Emergency With Respect to\_Venezuela"
 ---
  
 On March 8, 2015, the President issued Executive Order 13692, declaring

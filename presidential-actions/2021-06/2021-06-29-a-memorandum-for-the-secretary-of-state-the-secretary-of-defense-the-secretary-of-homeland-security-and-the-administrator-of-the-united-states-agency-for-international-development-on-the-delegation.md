@@ -4,10 +4,10 @@ date: '2021-06-29'
 modified_time: 2021-06-29 17:10:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/29/a-memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-homeland-security-and-the-administrator-of-the-united-states-agency-for-international-development-on-the-delegation/
 published_time: 2021-06-29 17:10:55-04:00
-title: A Memorandum for the Secretary of State, the Secretary of Defense, the Secretary
-  of Homeland Security, and The Administrator of the United States Agency for International
-  Development on the Delegation of Certain Functions and Authorities Under the Women,
-  Peace, and Security Act of 2017
+title: "A Memorandum for the Secretary of State, the Secretary of Defense, the Secretary\
+  \ of Homeland Security, and The Administrator of the United\_States Agency for International\
+  \ Development on the Delegation of Certain Functions and Authorities Under the Women,\
+  \ Peace, and Security Act of\_2017"
 ---
  
 By the authority vested in me as President by the Constitution and the

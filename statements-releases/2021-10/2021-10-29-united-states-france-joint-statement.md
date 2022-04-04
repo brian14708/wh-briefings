@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 15:19:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/united-states-france-joint-statement/
 published_time: 2021-10-29 15:19:52-04:00
-title: United States-France Joint Statement
+title: "United\_States-France Joint\_Statement"
 ---
  
 Today, the President of the United States and the President of the

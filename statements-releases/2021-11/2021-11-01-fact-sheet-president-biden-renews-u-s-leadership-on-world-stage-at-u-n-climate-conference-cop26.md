@@ -4,8 +4,8 @@ date: '2021-11-01'
 modified_time: 2021-10-31 21:08:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/fact-sheet-president-biden-renews-u-s-leadership-on-world-stage-at-u-n-climate-conference-cop26/
 published_time: 2021-11-01 01:00:00-04:00
-title: 'FACT SHEET: President Biden Renews U.S. Leadership on World Stage at U.N.
-  Climate Conference (COP26)'
+title: "FACT SHEET: President\_Biden Renews U.S. Leadership on World Stage at U.N.\
+  \ Climate Conference\_(COP26)"
 ---
  
 ***President Announces New Actions to Tackle Climate Change, Tap

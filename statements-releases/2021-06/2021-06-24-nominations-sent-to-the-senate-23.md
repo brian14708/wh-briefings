@@ -4,7 +4,7 @@ date: '2021-06-24'
 modified_time: 2021-06-24 15:48:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/nominations-sent-to-the-senate-23/
 published_time: 2021-06-24 15:48:32-04:00
-title: Nominations Sent to the Senate
+title: "Nominations Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:

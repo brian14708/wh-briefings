@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/
 published_time: 2022-02-11 18:39:39-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Video Call with Bjoern Seibert, Head of Cabinet of the President\
-  \ of the European Commission"
+  \ of the European\_Commission"
 ---
  
 National Security Advisor Jake Sullivan held a secure video call with

@@ -4,8 +4,8 @@ date: '2022-03-05'
 modified_time: 2022-03-05 18:23:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/05/statement-by-nsc-spokesperson-emily-horne-on-russian-disinformation-and-efforts-to-undermine-free-press/
 published_time: 2022-03-05 18:23:41-05:00
-title: Statement by NSC Spokesperson Emily Horne on Russian Disinformation and Efforts
-  to Undermine Free Press
+title: "Statement by NSC Spokesperson Emily Horne on Russian Disinformation and Efforts\
+  \ to Undermine Free\_Press"
 ---
  
 We applaud the steps taken by governments, U.S. and global companies,

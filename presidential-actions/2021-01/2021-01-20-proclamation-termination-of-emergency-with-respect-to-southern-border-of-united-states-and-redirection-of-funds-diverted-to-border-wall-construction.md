@@ -5,8 +5,8 @@ modified_time: 2021-01-20 22:14:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-termination-of-emergency-with-respect-to-southern-border-of-united-states-and-redirection-of-funds-diverted-to-border-wall-construction/
 published_time: 2021-01-20 22:14:29-05:00
 title: "Proclamation on the Termination Of Emergency With Respect To The Southern\
-  \ Border Of The United States And Redirection Of Funds Diverted To Border Wall Construction\
-  \ \uFEFF"
+  \ Border Of The United\_States And Redirection Of Funds Diverted To Border Wall\
+  \ Construction\_\uFEFF"
 ---
  
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA

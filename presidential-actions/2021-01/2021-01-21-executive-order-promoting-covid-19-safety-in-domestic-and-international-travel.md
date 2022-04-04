@@ -4,8 +4,8 @@ date: '2021-01-21'
 modified_time: 2021-01-21 16:05:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-promoting-covid-19-safety-in-domestic-and-international-travel/
 published_time: 2021-01-21 16:05:25-05:00
-title: "Executive Order on Promoting COVID- \u2060 19 Safety in Domestic and International\
-  \ Travel"
+title: "Executive Order on Promoting COVID-\u206019 Safety in Domestic and International\_\
+  Travel"
 ---
  
 By the authority vested in me as President by the Constitution and the

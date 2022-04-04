@@ -4,7 +4,7 @@ date: '2021-09-20'
 modified_time: 2021-09-20 16:44:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/nominations-and-withdrawal-sent-to-the-senate-3/
 published_time: 2021-09-20 16:44:52-04:00
-title: Nominations and Withdrawal Sent to the Senate
+title: "Nominations and Withdrawal Sent to the\_Senate"
 ---
  
 NOMINATIONS SENT TO THE SENATE:  

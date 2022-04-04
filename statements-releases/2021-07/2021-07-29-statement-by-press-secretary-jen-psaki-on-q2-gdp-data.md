@@ -4,7 +4,7 @@ date: '2021-07-29'
 modified_time: 2021-07-29 21:07:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/statement-by-press-secretary-jen-psaki-on-q2-gdp-data/
 published_time: 2021-07-29 12:16:00-04:00
-title: Statement by Press Secretary Jen Psaki on Q2 GDP Data
+title: "Statement by Press Secretary Jen\_Psaki on Q2 GDP\_Data"
 ---
  
 Today’s GDP data are further proof of the remarkable progress we’ve made

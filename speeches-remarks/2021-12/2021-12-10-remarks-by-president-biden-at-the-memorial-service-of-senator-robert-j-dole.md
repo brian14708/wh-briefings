@@ -4,7 +4,8 @@ date: '2021-12-10'
 modified_time: 2021-12-10 15:53:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/10/remarks-by-president-biden-at-the-memorial-service-of-senator-robert-j-dole/
 published_time: 2021-12-10 16:15:00-05:00
-title: Remarks by President Biden at the Memorial Service of Senator Robert J. Dole
+title: "Remarks by President\_Biden at the Memorial Service of Senator Robert J.\_\
+  Dole"
 ---
  
 Washington National Cathedral  

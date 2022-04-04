@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/
 published_time: 2021-12-27 16:48:45-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Polish National Security Bureau Chief Pawel Soloch and\
-  \ Head of the International Policy Bureau Jakub Kumoch"
+  \ Head of the International Policy Bureau Jakub\_Kumoch"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

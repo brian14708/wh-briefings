@@ -4,8 +4,8 @@ date: '2021-01-27'
 modified_time: 2021-01-27 15:40:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/
 published_time: 2021-01-27 15:40:41-05:00
-title: Memorandum on Restoring Trust in Government Through Scientific Integrity and
-  Evidence-Based Policymaking
+title: "Memorandum on Restoring Trust in Government Through Scientific Integrity and\
+  \ Evidence-Based\_Policymaking"
 ---
  
 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES

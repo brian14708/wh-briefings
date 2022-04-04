@@ -4,7 +4,7 @@ date: '2021-11-02'
 modified_time: 2021-11-02 11:29:47-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-in-meeting-on-the-build-back-better-world-initiative/
 published_time: 2021-11-02 11:29:46-04:00
-title: Remarks by President Biden in Meeting on the Build Back Better World Initiative
+title: "Remarks by President\_Biden in Meeting on the Build Back Better World\_Initiative"
 ---
  
 Scottish Event Campus

@@ -4,9 +4,9 @@ date: '2021-04-21'
 modified_time: 2021-04-21 10:56:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/fact-sheet-president-biden-to-call-on-all-employers-to-provide-paid-time-off-for-employees-to-get-vaccinated-after-meeting-goal-of-200-million-shots-in-the-first-100-days/
 published_time: 2021-04-21 12:00:00-04:00
-title: 'FACT SHEET: President Biden to Call on All Employers to Provide Paid Time
-  Off for Employees to Get Vaccinated After Meeting Goal of 200 Million Shots in the
-  First 100 Days'
+title: "FACT SHEET: President\_Biden to Call on All Employers to Provide Paid Time\
+  \ Off for Employees to Get Vaccinated After Meeting Goal of 200 Million Shots in\
+  \ the First 100\_Days"
 ---
  
 *Will Announce New Tax Credit to Fully Offset the Cost for Small

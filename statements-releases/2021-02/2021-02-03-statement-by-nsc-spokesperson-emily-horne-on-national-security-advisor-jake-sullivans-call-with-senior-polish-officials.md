@@ -5,7 +5,7 @@ modified_time: 2021-02-03 15:47:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-senior-polish-officials/
 published_time: 2021-02-03 15:47:53-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Senior Polish Officials"
+  \ Sullivan\u2019s Call with Senior Polish\_Officials"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with Pawel

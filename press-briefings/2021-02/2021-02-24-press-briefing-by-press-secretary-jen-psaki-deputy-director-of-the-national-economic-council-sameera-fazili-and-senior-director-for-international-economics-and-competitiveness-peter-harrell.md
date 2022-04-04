@@ -4,9 +4,9 @@ date: '2021-02-24'
 modified_time: 2021-02-25 10:27:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/24/press-briefing-by-press-secretary-jen-psaki-deputy-director-of-the-national-economic-council-sameera-fazili-and-senior-director-for-international-economics-and-competitiveness-peter-harrell/
 published_time: 2021-02-24 18:14:06-05:00
-title: Press Briefing by Press Secretary Jen Psaki, Deputy Director of the National
-  Economic Council Sameera Fazili, and Senior Director for International Economics
-  and Competitiveness Peter Harrell, February 24, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, Deputy Director of the National\
+  \ Economic Council Sameera Fazili, and Senior Director for International Economics\
+  \ and Competitiveness Peter Harrell, February 24,\_2021"
 ---
  
 James S. Brady Press Briefing Room

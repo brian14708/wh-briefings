@@ -4,8 +4,8 @@ date: '2021-08-22'
 modified_time: 2021-08-22 20:19:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/22/president-joseph-r-biden-jr-approves-the-mashpee-wampanoag-tribe-emergency-declaration/
 published_time: 2021-08-22 20:19:09-04:00
-title: President Joseph R. Biden, Jr. Approves the Mashpee Wampanoag Tribe Emergency
-  Declaration
+title: "President Joseph R. Biden, Jr. Approves the Mashpee Wampanoag Tribe Emergency\_\
+  Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

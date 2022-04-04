@@ -4,7 +4,7 @@ date: '2021-11-30'
 modified_time: 2021-11-30 20:38:39-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/30/remarks-by-president-biden-before-air-force-one-departure-12/
 published_time: 2021-11-30 09:00:00-05:00
-title: Remarks by President Biden Before Air Force One Departure
+title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
 Minneapolis-Saint Paul International Airport  

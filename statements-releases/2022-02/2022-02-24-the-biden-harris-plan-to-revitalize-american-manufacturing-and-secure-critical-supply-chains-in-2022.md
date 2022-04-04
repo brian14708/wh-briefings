@@ -4,8 +4,8 @@ date: '2022-02-24'
 modified_time: 2022-02-24 14:45:25-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/
 published_time: 2022-02-24 09:03:10-05:00
-title: "The Biden- \u2060 Harris Plan to Revitalize American Manufacturing and Secure\
-  \ Critical Supply Chains in 2022"
+title: "The Biden-\u2060Harris Plan to Revitalize American Manufacturing and Secure\
+  \ Critical Supply Chains in\_2022"
 ---
  
 *Release of Historic Industrial Base Reports by Seven Federal Agencies

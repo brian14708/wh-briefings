@@ -4,7 +4,7 @@ date: '2021-08-05'
 modified_time: 2021-08-05 08:42:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/president-biden-names-sixth-round-of-judicial-nominees/
 published_time: 2021-08-05 08:45:00-04:00
-title: President Biden Names Sixth Round of Judicial Nominees
+title: "President\_Biden Names Sixth Round of Judicial\_Nominees"
 ---
  
 As he continues to move at an historic pace with respect to judicial

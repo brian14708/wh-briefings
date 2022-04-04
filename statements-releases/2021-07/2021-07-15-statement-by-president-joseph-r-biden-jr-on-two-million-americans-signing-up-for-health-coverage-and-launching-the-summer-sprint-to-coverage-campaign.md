@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/
 published_time: 2021-07-15 11:45:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on Two Million Americans Signing\
   \ Up for Health Coverage and Launching the \u201CSummer Sprint to Coverage\u201D\
-  \ Campaign"
+  \_Campaign"
 ---
  
 When I ran for President, I promised the American people that I would

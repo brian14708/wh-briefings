@@ -4,7 +4,7 @@ date: '2021-07-26'
 modified_time: 2021-07-26 16:37:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/26/press-briefing-by-press-secretary-jen-psaki-july-26-2021/
 published_time: 2021-07-26 16:37:55-04:00
-title: Press Briefing by Press Secretary Jen Psaki, July 26, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, July 26,\_2021"
 ---
  
 1:04 P.M. EDT  

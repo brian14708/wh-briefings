@@ -4,7 +4,7 @@ date: '2021-12-16'
 modified_time: 2021-12-16 18:32:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/statement-from-the-president-on-the-build-back-better-act/
 published_time: 2021-12-16 18:31:00-05:00
-title: Statement from President Biden on the Build Back Better Act
+title: "Statement from President\_Biden on the Build Back Better\_Act"
 ---
  
 I had a productive call with Speaker Pelosi and Majority Leader Schumer

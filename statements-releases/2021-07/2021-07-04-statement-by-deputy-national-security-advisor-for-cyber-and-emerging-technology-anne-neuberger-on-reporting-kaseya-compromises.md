@@ -4,8 +4,8 @@ date: '2021-07-04'
 modified_time: 2021-07-04 18:17:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/04/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neuberger-on-reporting-kaseya-compromises/
 published_time: 2021-07-04 18:17:31-04:00
-title: Statement by Deputy National Security Advisor for Cyber and Emerging Technology
-  Anne Neuberger on Reporting Kaseya Compromises
+title: "Statement by Deputy National Security Advisor for Cyber and Emerging Technology\
+  \ Anne Neuberger on Reporting Kaseya\_Compromises"
 ---
  
 Since Friday, the United States Government has been working across the

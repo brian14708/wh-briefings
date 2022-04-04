@@ -4,8 +4,8 @@ date: '2022-02-09'
 modified_time: 2022-02-09 17:34:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/statement-by-president-biden-on-the-introduction-of-the-violence-against-women-act-reauthorization-act-of-2022/
 published_time: 2022-02-09 17:34:34-05:00
-title: Statement by President Biden on the Introduction of the Violence Against Women
-  Act Reauthorization Act of 2022
+title: "Statement by President\_Biden on the Introduction of the Violence Against\
+  \ Women Act Reauthorization Act of\_2022"
 ---
  
 I applaud the bipartisan group of Senators who have joined together to

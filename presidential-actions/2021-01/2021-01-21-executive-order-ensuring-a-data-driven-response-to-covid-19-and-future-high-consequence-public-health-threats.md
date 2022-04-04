@@ -4,8 +4,8 @@ date: '2021-01-21'
 modified_time: 2021-01-21 16:19:34-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-a-data-driven-response-to-covid-19-and-future-high-consequence-public-health-threats/
 published_time: 2021-01-21 16:19:33-05:00
-title: "Executive Order on Ensuring a Data-Driven Response to COVID- \u2060 19 and\
-  \ Future High-Consequence Public Health Threats"
+title: "Executive Order on Ensuring a Data-Driven Response to COVID-\u206019 and Future\
+  \ High-Consequence Public Health\_Threats"
 ---
  
 By the authority vested in me as President by the Constitution and the

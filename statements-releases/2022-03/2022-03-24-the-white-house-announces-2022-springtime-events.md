@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/the-white-house-announces-2022-springtime-events/
 published_time: 2022-03-24 13:17:34-04:00
-title: The White House Announces 2022 Springtime Events
+title: "The White\_House Announces 2022 Springtime\_Events"
 ---
  
 Today, the President and First Lady are pleased to announce plans for

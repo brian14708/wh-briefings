@@ -4,7 +4,7 @@ date: '2021-09-09'
 modified_time: 2021-09-09 10:28:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/a-proclamation-on-world-suicide-prevention-day-2021/
 published_time: 2021-09-09 10:28:49-04:00
-title: A Proclamation on World Suicide Prevention Day, 2021
+title: "A Proclamation on World Suicide Prevention Day,\_2021"
 ---
  
 Today, the United States joins the World Health Organization, the

@@ -4,8 +4,8 @@ date: '2022-02-01'
 modified_time: 2022-02-01 17:29:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/memorandum-on-implementation-of-the-anomalous-health-incidents-provisions-in-the-national-defense-authorization-act-for-fiscal-year-2022/
 published_time: 2022-02-01 17:29:47-05:00
-title: Memorandum on Implementation of the Anomalous Health Incidents Provisions in
-  the National Defense Authorization Act for Fiscal Year 2022
+title: "Memorandum on Implementation of the Anomalous Health Incidents Provisions\
+  \ in the National Defense Authorization Act for Fiscal Year\_2022"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF STATE  

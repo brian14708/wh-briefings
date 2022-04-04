@@ -4,8 +4,8 @@ date: '2021-10-14'
 modified_time: 2021-10-14 17:00:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/14/remarks-by-president-biden-and-president-kenyatta-of-the-republic-of-kenya-before-bilateral-meeting/
 published_time: 2021-10-14 17:30:00-04:00
-title: Remarks by President Biden and President Kenyatta of the Republic of Kenya
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and President Kenyatta of the Republic of Kenya\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office

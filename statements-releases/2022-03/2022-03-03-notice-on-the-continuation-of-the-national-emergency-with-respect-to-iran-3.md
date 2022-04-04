@@ -4,7 +4,7 @@ date: '2022-03-03'
 modified_time: 2022-03-03 14:35:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-3/
 published_time: 2022-03-03 14:35:36-05:00
-title: Notice on the Continuation of the National Emergency With Respect to Iran
+title: "Notice on the Continuation of the National Emergency With Respect to\_Iran"
 ---
  
 On March 15, 1995, by Executive Order 12957, the President declared a

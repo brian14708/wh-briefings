@@ -4,8 +4,8 @@ date: '2021-07-28'
 modified_time: 2021-07-27 20:37:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/
 published_time: 2021-07-28 09:00:00-04:00
-title: 'FACT SHEET: Biden Administration Announces Further Actions to Protect U.S.
-  Critical Infrastructure'
+title: "FACT SHEET: Biden Administration Announces Further Actions to Protect U.S.\
+  \ Critical\_Infrastructure"
 ---
  
 The Biden Administration continues to take steps to safeguard U.S.

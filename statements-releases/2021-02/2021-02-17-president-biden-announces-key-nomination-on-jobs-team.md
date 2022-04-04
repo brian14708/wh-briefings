@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-02-17'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/president-biden-announces-key-nomination-on-jobs-team/
 published_time: 2021-02-17 11:55:48-05:00
-title: President Biden Announces Key Nomination on Jobs Team
+title: "President\_Biden Announces Key Nomination on Jobs\_Team"
 ---
  
 WASHINGTON – Today, President Joe Biden nominated Jennifer Abruzzo as

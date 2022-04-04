@@ -4,8 +4,8 @@ date: '2021-05-24'
 modified_time: 2021-05-24 19:22:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/statement-by-president-joe-biden-on-diversion-of-ryanair-flight-and-arrest-of-journalist-in-belarus/
 published_time: 2021-05-24 19:22:43-04:00
-title: Statement by President Joe Biden on Diversion of Ryanair Flight and Arrest
-  of Journalist in Belarus
+title: "Statement by President Joe\_Biden on Diversion of Ryanair Flight and Arrest\
+  \ of Journalist in\_Belarus"
 ---
  
 Belarus’s forced diversion of a commercial Ryanair flight, traveling

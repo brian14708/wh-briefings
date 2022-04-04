@@ -4,8 +4,8 @@ date: '2021-09-29'
 modified_time: 2021-09-29 20:42:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/readout-of-president-bidens-meeting-with-speaker-pelosi-and-leaders-schumer/
 published_time: 2021-09-29 20:00:00-04:00
-title: "Readout of President Biden\u2019s Meeting with Speaker Pelosi and Leaders\
-  \ Schumer"
+title: "Readout of President\_Biden\u2019s Meeting with Speaker Pelosi and Leaders\_\
+  Schumer"
 ---
  
 This evening, the President hosted Speaker Pelosi and Leader Schumer in

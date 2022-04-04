@@ -4,7 +4,7 @@ date: '2021-08-11'
 modified_time: 2021-08-10 20:40:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/president-biden-to-convene-leaders-summit-for-democracy/
 published_time: 2021-08-11 06:00:00-04:00
-title: "President Biden to Convene Leaders\u2019 Summit for Democracy"
+title: "President\_Biden to Convene Leaders\u2019 Summit for\_Democracy"
 ---
  
 The President has said that the challenge of our time is to demonstrate

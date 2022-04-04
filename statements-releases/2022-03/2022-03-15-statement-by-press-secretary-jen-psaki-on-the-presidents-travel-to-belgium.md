@@ -4,7 +4,8 @@ date: '2022-03-15'
 modified_time: 2022-03-15 14:05:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-belgium/
 published_time: 2022-03-15 14:05:12-04:00
-title: "Statement by Press Secretary Jen Psaki on the President\u2019s Travel to Belgium"
+title: "Statement by Press Secretary Jen\_Psaki on the President\u2019s Travel to\_\
+  Belgium"
 ---
  
 President Joseph R. Biden, Jr. will travel to Brussels, Belgium later

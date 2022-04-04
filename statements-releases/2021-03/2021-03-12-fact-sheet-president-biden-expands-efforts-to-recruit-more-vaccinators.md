@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-03-12 11:38:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/fact-sheet-president-biden-expands-efforts-to-recruit-more-vaccinators/
 published_time: 2021-03-12 11:38:51-05:00
-title: 'Fact Sheet: President Biden Expands Efforts to Recruit More Vaccinators'
+title: "Fact Sheet: President\_Biden Expands Efforts to Recruit More\_Vaccinators"
 ---
  
 The President Orders PREP Act Declaration Amendment to Expand COVID-19

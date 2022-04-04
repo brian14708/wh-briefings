@@ -4,7 +4,7 @@ date: '2022-02-26'
 modified_time: 2022-02-26 16:50:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/readout-of-white-house-virtual-celebration-of-afro-latino-heritage/
 published_time: 2022-02-26 16:50:36-05:00
-title: Readout of White House Virtual Celebration of Afro-Latino Heritage
+title: "Readout of White\_House Virtual Celebration of Afro-Latino\_Heritage"
 ---
  
 Yesterday, as part of Black History Month programming, the White House

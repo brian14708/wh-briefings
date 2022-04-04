@@ -4,7 +4,7 @@ date: '2021-12-17'
 modified_time: 2021-12-17 14:11:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/president-biden-announces-2-key-nominees/
 published_time: 2021-12-17 15:00:00-05:00
-title: President Biden Announces 2 Key Nominees
+title: "President\_Biden Announces 2 Key\_Nominees"
 ---
  
 WASHINGTON – Today, President Joe Biden announced that he has nominated

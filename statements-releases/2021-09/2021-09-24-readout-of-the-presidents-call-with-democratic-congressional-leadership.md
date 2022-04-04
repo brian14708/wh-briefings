@@ -4,7 +4,7 @@ date: '2021-09-24'
 modified_time: 2021-09-24 21:58:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/readout-of-the-presidents-call-with-democratic-congressional-leadership/
 published_time: 2021-09-24 21:58:04-04:00
-title: "Readout of the President\u2019s Call with Democratic Congressional Leadership"
+title: "Readout of the President\u2019s Call with Democratic Congressional\_Leadership"
 ---
  
 The President had a call with both Speaker Pelosi and Leader Schumer

@@ -4,8 +4,8 @@ date: '2021-04-07'
 modified_time: 2021-05-10 12:06:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/
 published_time: 2021-04-07 20:01:00-04:00
-title: "FACT SHEET: More Details on the Biden- \u2060 Harris Administration\u2019\
-  s Investments in Community Violence Interventions"
+title: "FACT SHEET: More Details on the Biden-\u2060Harris Administration\u2019s Investments\
+  \ in Community Violence\_Interventions"
 ---
  
 Cities across the country are experiencing a historic spike in

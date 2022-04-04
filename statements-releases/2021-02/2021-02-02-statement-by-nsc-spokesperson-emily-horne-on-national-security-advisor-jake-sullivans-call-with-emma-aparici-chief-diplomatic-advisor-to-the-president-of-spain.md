@@ -5,7 +5,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/
 published_time: 2021-02-02 16:23:58-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Emma Aparici, Chief Diplomatic Advisor to the President\
-  \ of Spain"
+  \ of\_Spain"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with Emma

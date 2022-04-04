@@ -4,8 +4,8 @@ date: '2021-06-24'
 modified_time: 2021-06-24 22:18:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/24/remarks-by-president-biden-after-meeting-with-a-bipartisan-group-of-senators-on-infrastructure-negotiations/
 published_time: 2021-06-24 22:45:00-04:00
-title: Remarks by President Biden After Meeting with a Bipartisan Group of Senators
-  on Infrastructure Negotiations
+title: "Remarks by President\_Biden After Meeting with a Bipartisan Group of Senators\
+  \ on Infrastructure\_Negotiations"
 ---
  
 Stakeout Location

@@ -4,8 +4,8 @@ date: '2021-07-05'
 modified_time: 2021-07-05 11:50:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/05/remarks-by-president-biden-celebrating-independence-day-and-independence-from-covid-19/
 published_time: 2021-07-05 11:50:05-04:00
-title: "Remarks by President Biden Celebrating Independence Day and Independence from\
-  \ COVID- \u2060 19"
+title: "Remarks by President\_Biden Celebrating Independence Day and Independence\
+  \ from\_COVID-\u206019"
 ---
  
 South Lawn

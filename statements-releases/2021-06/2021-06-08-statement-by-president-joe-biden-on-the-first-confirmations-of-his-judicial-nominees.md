@@ -4,8 +4,8 @@ date: '2021-06-08'
 modified_time: 2021-06-08 18:24:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-president-joe-biden-on-the-first-confirmations-of-his-judicial-nominees/
 published_time: 2021-06-08 18:24:53-04:00
-title: Statement by President Joe Biden on the First Confirmations of His Judicial
-  Nominees
+title: "Statement by President Joe\_Biden on the First Confirmations of His Judicial\_\
+  Nominees"
 ---
  
 I want to convey my sincere gratitude to the Senate for confirming

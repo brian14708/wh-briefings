@@ -5,7 +5,7 @@ modified_time: 2021-09-17 17:34:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/meeting-of-the-major-economies-on-energy-and-climate-september-17-2021-chairs-summary/
 published_time: 2021-09-17 17:34:57-04:00
 title: "Meeting of the Major Economies on Energy and Climate September 17, 2021: Chair\u2019\
-  s Summary"
+  s\_Summary"
 ---
  
 On September 17, 2021, President Biden convened the Major Economies

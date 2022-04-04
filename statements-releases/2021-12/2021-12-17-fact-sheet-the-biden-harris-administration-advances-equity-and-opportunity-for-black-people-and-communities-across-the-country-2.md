@@ -4,8 +4,8 @@ date: '2021-12-17'
 modified_time: 2021-12-17 12:20:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country-2/
 published_time: 2021-12-17 12:20:13-05:00
-title: "FACT SHEET: The Biden- \u2060 Harris Administration Advances Equity and Opportunity\
-  \ for Black People and Communities Across the Country"
+title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
+  \ for Black People and Communities Across the\_Country"
 ---
  
 From the first day in office and every day since, the Biden-Harris

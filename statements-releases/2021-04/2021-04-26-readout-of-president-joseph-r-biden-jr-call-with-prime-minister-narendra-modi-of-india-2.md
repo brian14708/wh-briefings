@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-04-26'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-narendra-modi-of-india-2/
 published_time: 2021-04-26 13:03:13-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Narendra
-  Modi of India
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Narendra\
+  \ Modi of\_India"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Prime Minister Narendra

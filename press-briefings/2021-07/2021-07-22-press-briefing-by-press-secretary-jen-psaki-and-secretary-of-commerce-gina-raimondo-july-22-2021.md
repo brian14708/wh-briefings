@@ -4,8 +4,8 @@ date: '2021-07-22'
 modified_time: 2021-07-22 17:42:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/22/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-commerce-gina-raimondo-july-22-2021/
 published_time: 2021-07-22 18:00:00-04:00
-title: Press Briefing by Press Secretary Jen Psaki and Secretary of Commerce Gina
-  Raimondo, July 22, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Commerce Gina\
+  \ Raimondo, July 22,\_2021"
 ---
  
 12:41 P.M. EDT  

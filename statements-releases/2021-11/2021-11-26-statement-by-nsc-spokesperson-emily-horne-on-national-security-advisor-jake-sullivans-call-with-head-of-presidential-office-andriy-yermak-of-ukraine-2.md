@@ -5,7 +5,7 @@ modified_time: 2021-11-26 13:46:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/26/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-head-of-presidential-office-andriy-yermak-of-ukraine-2/
 published_time: 2021-11-26 13:46:48-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Head of Presidential Office Andriy Yermak of Ukraine"
+  \ Sullivan\u2019s Call with Head of Presidential Office Andriy Yermak of\_Ukraine"
 ---
  
 National Security Advisor Jake Sullivan spoke today with Head of

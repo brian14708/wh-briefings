@@ -4,8 +4,8 @@ date: '2021-11-18'
 modified_time: 2021-11-18 16:40:04-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-president-bidens-bipartisan-infrastructure-law-advances-economic-and-public-health-opportunities-for-tribal-communities/
 published_time: 2021-11-18 16:40:03-05:00
-title: "FACT SHEET: President Biden\u2019s Bipartisan Infrastructure Law Advances\
-  \ Economic and Public Health Opportunities for Tribal Communities"
+title: "FACT SHEET: President\_Biden\u2019s Bipartisan Infrastructure Law Advances\
+  \ Economic and Public Health Opportunities for Tribal\_Communities"
 ---
  
 The Infrastructure Investment and Jobs Act (“Bipartisan Infrastructure

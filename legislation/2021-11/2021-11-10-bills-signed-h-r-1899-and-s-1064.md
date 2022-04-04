@@ -4,7 +4,7 @@ date: '2021-11-10'
 modified_time: 2022-03-15 10:07:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/11/10/bills-signed-h-r-1899-and-s-1064/
 published_time: 2021-11-10 11:59:46-05:00
-title: 'Bills Signed: H.R. 1899 and S. 1064'
+title: "Bills Signed: H.R. 1899 and S.\_1064"
 ---
  
   

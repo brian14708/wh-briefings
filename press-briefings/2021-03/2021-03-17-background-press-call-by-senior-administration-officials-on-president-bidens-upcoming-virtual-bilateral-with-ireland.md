@@ -4,8 +4,8 @@ date: '2021-03-17'
 modified_time: 2021-03-17 09:01:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/17/background-press-call-by-senior-administration-officials-on-president-bidens-upcoming-virtual-bilateral-with-ireland/
 published_time: 2021-03-17 09:01:53-04:00
-title: "Background Press Call by Senior Administration Officials on President Biden\u2019\
-  s Upcoming Virtual Bilateral with Ireland"
+title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
+  s Upcoming Virtual Bilateral with\_Ireland"
 ---
  
 Via Teleconference

@@ -4,7 +4,7 @@ date: '2022-02-25'
 modified_time: 2022-02-25 15:28:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/25/statement-of-the-president-on-the-nato-summit-and-call-with-president-zelenskyy/
 published_time: 2022-02-25 15:28:07-05:00
-title: Statement of the President on the NATO Summit and Call with President Zelenskyy
+title: "Statement of the President on the NATO Summit and Call with President\_Zelenskyy"
 ---
  
 Today I met with fellow leaders from our NATO Allies to discuss our

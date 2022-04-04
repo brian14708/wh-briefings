@@ -4,7 +4,7 @@ date: '2021-05-10'
 modified_time: 2021-05-10 22:54:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/statement-by-press-secretary-jen-psaki-on-the-colonial-pipeline-incident/
 published_time: 2021-05-10 22:54:28-04:00
-title: Statement by Press Secretary Jen Psaki on the Colonial Pipeline Incident
+title: "Statement by Press Secretary Jen\_Psaki on the Colonial Pipeline\_Incident"
 ---
  
 The President continues to be regularly briefed on the Colonial Pipeline

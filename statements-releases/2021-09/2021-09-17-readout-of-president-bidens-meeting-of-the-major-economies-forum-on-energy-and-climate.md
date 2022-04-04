@@ -4,8 +4,8 @@ date: '2021-09-17'
 modified_time: 2021-09-17 12:46:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/readout-of-president-bidens-meeting-of-the-major-economies-forum-on-energy-and-climate/
 published_time: 2021-09-17 12:10:43-04:00
-title: "Readout of President Biden\u2019s Meeting of the Major Economies Forum on\
-  \ Energy and Climate"
+title: "Readout of President\_Biden\u2019s Meeting of the Major Economies Forum on\
+  \ Energy and\_Climate"
 ---
  
 Today, President Biden convened the U.S.-led Major Economies Forum on

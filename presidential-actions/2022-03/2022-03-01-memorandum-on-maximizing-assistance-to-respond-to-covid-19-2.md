@@ -4,7 +4,7 @@ date: '2022-03-01'
 modified_time: 2022-03-01 12:09:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/01/memorandum-on-maximizing-assistance-to-respond-to-covid-19-2/
 published_time: 2022-03-01 12:15:00-05:00
-title: "Memorandum on Maximizing Assistance to Respond to COVID- \u2060 19"
+title: "Memorandum on Maximizing Assistance to Respond to\_COVID-\u206019"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF HOMELAND SECURITY

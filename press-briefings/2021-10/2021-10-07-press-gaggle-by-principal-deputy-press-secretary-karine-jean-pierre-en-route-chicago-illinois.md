@@ -4,8 +4,8 @@ date: '2021-10-07'
 modified_time: 2021-10-07 16:03:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/07/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-chicago-illinois/
 published_time: 2021-10-07 16:03:04-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route
-  Chicago, Illinois
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
+  \ Chicago,\_Illinois"
 ---
  
 Aboard Air Force One  

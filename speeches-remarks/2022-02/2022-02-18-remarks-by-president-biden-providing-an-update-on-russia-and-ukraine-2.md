@@ -3,7 +3,7 @@ category: speeches-remarks
 date: '2022-02-18'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/18/remarks-by-president-biden-providing-an-update-on-russia-and-ukraine-2/
 published_time: 2022-02-18 19:05:04-05:00
-title: Remarks by President Biden Providing an Update on Russia and Ukraine
+title: "Remarks by President\_Biden Providing an Update on Russia and\_Ukraine"
 ---
  
 Roosevelt Room

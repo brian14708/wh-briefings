@@ -4,8 +4,8 @@ date: '2021-09-22'
 modified_time: 2021-09-22 13:17:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/
 published_time: 2021-09-22 13:17:58-04:00
-title: A U.S.-EU Agenda for Beating the Global Pandemic Vaccinating the World, Saving
-  Lives Now, and Building Back Better Health Security
+title: "A U.S.-EU Agenda for Beating the Global Pandemic Vaccinating the World, Saving\
+  \ Lives Now, and Building Back Better Health\_Security"
 ---
  
 Vaccination is the most effective response to the COVID pandemic. The

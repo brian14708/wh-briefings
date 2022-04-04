@@ -4,8 +4,8 @@ date: '2022-02-04'
 modified_time: 2022-02-04 21:08:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/04/statement-by-president-joe-biden-on-900000-american-deaths-from-covid-19/
 published_time: 2022-02-04 21:08:06-05:00
-title: "Statement by President Joe Biden on 900,000 American Deaths from COVID- \u2060\
-  \ 19"
+title: "Statement by President Joe\_Biden on 900,000 American Deaths from\_COVID-\u2060\
+  19"
 ---
  
 Today, our nation marks another tragic milestone — 900,000 American

@@ -4,7 +4,7 @@ date: '2021-05-18'
 modified_time: 2021-05-17 20:35:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-will-bolster-cybersecurity/
 published_time: 2021-05-18 05:15:00-04:00
-title: 'FACT SHEET: The American Jobs Plan Will Bolster Cybersecurity'
+title: "FACT SHEET: The American Jobs Plan Will Bolster\_Cybersecurity"
 ---
  
 Cybersecurity is one of the preeminent challenges of our time, which is

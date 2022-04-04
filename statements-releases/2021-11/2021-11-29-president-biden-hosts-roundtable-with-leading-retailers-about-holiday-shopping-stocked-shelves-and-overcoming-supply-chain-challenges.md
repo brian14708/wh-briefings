@@ -4,8 +4,8 @@ date: '2021-11-29'
 modified_time: 2021-11-29 20:15:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/29/president-biden-hosts-roundtable-with-leading-retailers-about-holiday-shopping-stocked-shelves-and-overcoming-supply-chain-challenges/
 published_time: 2021-11-29 19:33:19-05:00
-title: President Biden Hosts Roundtable with Leading Retailers About Holiday Shopping,
-  Stocked Shelves and Overcoming Supply Chain Challenges
+title: "President\_Biden Hosts Roundtable with Leading Retailers About Holiday Shopping,\
+  \ Stocked Shelves and Overcoming Supply Chain\_Challenges"
 ---
  
 Today, President Biden, Director of the National Economic Council, Brian

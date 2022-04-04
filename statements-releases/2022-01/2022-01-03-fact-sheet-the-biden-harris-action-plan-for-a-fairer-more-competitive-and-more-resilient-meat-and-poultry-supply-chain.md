@@ -4,8 +4,8 @@ date: '2022-01-03'
 modified_time: 2022-01-03 18:33:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/
 published_time: 2022-01-03 05:00:00-05:00
-title: "FACT SHEET: The Biden- \u2060 Harris Action Plan for a Fairer, More Competitive,\
-  \ and More Resilient Meat and Poultry Supply Chain"
+title: "FACT SHEET: The Biden-\u2060Harris Action Plan for a Fairer, More Competitive,\
+  \ and More Resilient Meat and Poultry Supply\_Chain"
 ---
  
 In July, President Biden signed an [Executive Order on Promoting

@@ -4,8 +4,8 @@ date: '2021-10-04'
 modified_time: 2021-10-04 15:53:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-president-bidens-meeting-with-nato-secretary-general-jens-stoltenberg/
 published_time: 2021-10-04 15:53:45-04:00
-title: "Readout of President Biden\u2019s Meeting with NATO Secretary General Jens\
-  \ Stoltenberg"
+title: "Readout of President\_Biden\u2019s Meeting with NATO Secretary General Jens\_\
+  Stoltenberg"
 ---
  
 President Joseph R. Biden, Jr. met today with Secretary General Jens

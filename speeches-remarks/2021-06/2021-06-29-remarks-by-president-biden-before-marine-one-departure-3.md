@@ -4,7 +4,7 @@ date: '2021-06-29'
 modified_time: 2021-06-29 10:44:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/29/remarks-by-president-biden-before-marine-one-departure-3/
 published_time: 2021-06-29 11:00:00-04:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 The South Lawn

@@ -4,7 +4,7 @@ date: '2021-02-27'
 modified_time: 2021-02-27 11:46:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/27/remarks-by-president-biden-on-the-american-rescue-plan/
 published_time: 2021-02-27 11:46:57-05:00
-title: Remarks by President Biden on the American Rescue Plan
+title: "Remarks by President\_Biden on the American Rescue\_Plan"
 ---
  
 10:59 A.M. EST  

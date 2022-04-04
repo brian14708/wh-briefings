@@ -4,7 +4,7 @@ date: '2021-04-29'
 modified_time: 2021-04-28 22:58:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/president-biden-announces-second-slate-of-judicial-nominees/
 published_time: 2021-04-29 07:00:00-04:00
-title: President Biden Announces Second Slate of Judicial Nominees
+title: "President\_Biden Announces Second Slate of Judicial\_Nominees"
 ---
  
 WASHINGTON – President Biden is announcing his intent to nominate 3

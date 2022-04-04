@@ -4,8 +4,8 @@ date: '2021-07-22'
 modified_time: 2021-07-23 08:46:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/22/remarks-by-president-biden-at-signing-of-h-r-1642-the-voca-fix-to-sustain-the-crime-victims-fund-act-of-2021/
 published_time: 2021-07-22 18:45:00-04:00
-title: Remarks by President Biden at Signing of H.R. 1652, the VOCA Fix to Sustain
-  the Crime Victims Fund Act of 2021
+title: "Remarks by President\_Biden at Signing of H.R. 1652, the VOCA Fix to Sustain\
+  \ the Crime Victims Fund Act of\_2021"
 ---
  
 East Room 

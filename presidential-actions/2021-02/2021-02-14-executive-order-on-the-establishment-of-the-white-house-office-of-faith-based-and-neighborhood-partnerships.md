@@ -4,8 +4,8 @@ date: '2021-02-14'
 modified_time: 2021-02-14 10:21:04-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/14/executive-order-on-the-establishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 published_time: 2021-02-14 10:21:03-05:00
-title: Executive Order on the Establishment of the White House Office of Faith-Based
-  and Neighborhood Partnerships
+title: "Executive Order on the Establishment of the White\_House Office of Faith-Based\
+  \ and Neighborhood\_Partnerships"
 ---
  
 By the authority vested in me as President by the Constitution and the

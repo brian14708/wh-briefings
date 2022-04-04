@@ -4,7 +4,7 @@ date: '2021-05-04'
 modified_time: 2021-05-04 16:18:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/04/a-proclamation-on-the-60th-anniversary-of-the-freedom-rides-2021/
 published_time: 2021-05-04 16:18:03-04:00
-title: A Proclamation on the 60th Anniversary of the Freedom Rides, 2021
+title: "A Proclamation on the 60th Anniversary of the Freedom Rides,\_2021"
 ---
  
 On May 4, 1961, thirteen Americans set out on Greyhound and Trailways

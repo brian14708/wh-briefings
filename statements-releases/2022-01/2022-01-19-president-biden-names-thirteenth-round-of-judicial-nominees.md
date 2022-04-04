@@ -4,7 +4,7 @@ date: '2022-01-19'
 modified_time: 2022-01-19 09:19:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/president-biden-names-thirteenth-round-of-judicial-nominees/
 published_time: 2022-01-19 09:19:34-05:00
-title: President Biden Names Thirteenth Round of Judicial Nominees
+title: "President\_Biden Names Thirteenth Round of Judicial\_Nominees"
 ---
  
 The President is announcing eight new federal judicial nominees, all of

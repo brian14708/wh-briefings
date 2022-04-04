@@ -4,7 +4,7 @@ date: '2021-12-22'
 modified_time: 2021-12-22 16:31:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/readout-of-president-bidens-supply-chain-convening/
 published_time: 2021-12-22 16:31:07-05:00
-title: "Readout of President Biden\u2019s Supply Chain Convening"
+title: "Readout of President\_Biden\u2019s Supply Chain\_Convening"
 ---
  
 Today, President Biden held a meeting with members of his Cabinet,

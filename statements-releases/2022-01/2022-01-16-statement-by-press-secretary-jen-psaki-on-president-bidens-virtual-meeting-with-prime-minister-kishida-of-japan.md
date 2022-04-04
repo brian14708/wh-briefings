@@ -4,8 +4,8 @@ date: '2022-01-16'
 modified_time: 2022-01-16 14:36:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/16/statement-by-press-secretary-jen-psaki-on-president-bidens-virtual-meeting-with-prime-minister-kishida-of-japan/
 published_time: 2022-01-16 16:00:00-05:00
-title: "Statement by Press Secretary Jen Psaki on President Biden\u2019s Virtual Meeting\
-  \ with Prime Minister Kishida of Japan"
+title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Virtual\
+  \ Meeting with Prime Minister Kishida of\_Japan"
 ---
  
 President Joseph R. Biden, Jr. will meet virtually with Prime Minister

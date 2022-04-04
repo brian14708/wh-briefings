@@ -4,8 +4,8 @@ date: '2021-06-13'
 modified_time: 2021-06-13 16:04:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-bennett-of-israel/
 published_time: 2021-06-13 16:04:37-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Bennett
-  of Israel
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Bennett\
+  \ of\_Israel"
 ---
  
 President Biden spoke today with Prime Minister Bennett to offer his

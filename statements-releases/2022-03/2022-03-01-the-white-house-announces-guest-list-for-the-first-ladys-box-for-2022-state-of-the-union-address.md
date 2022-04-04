@@ -4,8 +4,8 @@ date: '2022-03-01'
 modified_time: 2022-03-01 14:11:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/the-white-house-announces-guest-list-for-the-first-ladys-box-for-2022-state-of-the-union-address/
 published_time: 2022-03-01 14:10:22-05:00
-title: "The White House Announces Guest List for the First Lady\u2019s Box for the\
-  \ 2022 State of the Union Address"
+title: "The White\_House Announces Guest List for the First Lady\u2019s Box for the\
+  \ 2022 State of the Union\_Address"
 ---
  
 WASHINGTON, D.C. –  First Lady Jill Biden will welcome selected guests

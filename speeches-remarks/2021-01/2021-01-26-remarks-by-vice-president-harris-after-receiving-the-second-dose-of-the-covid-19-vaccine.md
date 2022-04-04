@@ -4,8 +4,8 @@ date: '2021-01-26'
 modified_time: 2022-01-04 15:49:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/26/remarks-by-vice-president-harris-after-receiving-the-second-dose-of-the-covid-19-vaccine/
 published_time: 2021-01-26 06:29:00-05:00
-title: "REMARKS BY VICE PRESIDENT HARRIS AFTER RECEIVING THE SECOND DOSE OF THE COVID-\
-  \ \u2060 19 VACCINE"
+title: "REMARKS BY VICE PRESIDENT HARRIS AFTER RECEIVING THE SECOND DOSE OF THE COVID-\u2060\
+  19\_VACCINE"
 ---
  
 *National Institutes of Health  

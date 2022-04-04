@@ -5,7 +5,7 @@ modified_time: 2021-12-14 16:19:06-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/14/remarks-by-vice-president-harris-and-treasury-secretary-janet-yellen-in-a-moderated-conversation-at-the-freedmans-bank-forum/
 published_time: 2021-12-14 15:30:45-05:00
 title: "Remarks by Vice President Harris and Treasury Secretary Janet Yellen in a\
-  \ Moderated Conversation at the Freedman\u2019s Bank Forum"
+  \ Moderated Conversation at the Freedman\u2019s Bank\_Forum"
 ---
  
 *Treasury Department  

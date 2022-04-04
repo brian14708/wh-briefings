@@ -5,7 +5,7 @@ modified_time: 2022-01-04 16:30:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-bipartisan-meeting-on-broadband-infrastructure/
 published_time: 2021-05-26 17:38:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Bipartisan Meeting on Broadband Infrastructure"
+  \ President Kamala\_Harris\u2019s Bipartisan Meeting on Broadband\_Infrastructure"
 ---
  
 Today, Vice President Harris had a productive conversation with

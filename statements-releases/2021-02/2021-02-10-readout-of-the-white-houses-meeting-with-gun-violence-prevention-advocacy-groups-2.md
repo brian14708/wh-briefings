@@ -4,8 +4,8 @@ date: '2021-02-10'
 modified_time: 2021-02-10 18:26:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/10/readout-of-the-white-houses-meeting-with-gun-violence-prevention-advocacy-groups-2/
 published_time: 2021-02-10 18:26:17-05:00
-title: "Readout of the White House\u2019s Meeting with Gun Violence Prevention Advocacy\
-  \ Groups"
+title: "Readout of the White\_House\u2019s Meeting with Gun Violence Prevention Advocacy\_\
+  Groups"
 ---
  
 Today, Domestic Policy Advisor Susan Rice and White House Public

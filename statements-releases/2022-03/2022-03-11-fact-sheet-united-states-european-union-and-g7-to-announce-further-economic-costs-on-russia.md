@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-11'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-united-states-european-union-and-g7-to-announce-further-economic-costs-on-russia/
 published_time: 2022-03-11 10:31:55-05:00
-title: 'FACT SHEET: United States, European Union, and G7 to Announce Further Economic
-  Costs on Russia'
+title: "FACT SHEET: United\_States, European Union, and G7 to Announce Further Economic\
+  \ Costs on\_Russia"
 ---
  
 Today, President Biden and G7 Leaders from Canada, France, Germany,

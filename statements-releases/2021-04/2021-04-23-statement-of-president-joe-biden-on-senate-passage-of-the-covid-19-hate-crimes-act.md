@@ -4,8 +4,8 @@ date: '2021-04-23'
 modified_time: 2021-04-23 10:54:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/statement-of-president-joe-biden-on-senate-passage-of-the-covid-19-hate-crimes-act/
 published_time: 2021-04-23 10:54:50-04:00
-title: "Statement of President Joe Biden on Senate Passage of the COVID- \u2060 19\
-  \ Hate Crimes Act"
+title: "Statement of President Joe\_Biden on Senate Passage of the COVID-\u206019\
+  \ Hate Crimes\_Act"
 ---
  
 I applaud the United States Senate and the leadership of the

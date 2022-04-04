@@ -4,7 +4,7 @@ date: '2021-02-04'
 modified_time: 2021-02-05 11:56:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/memorandum-renewing-the-national-security-council-system/
 published_time: 2021-02-04 20:22:38-05:00
-title: Memorandum on Renewing the National Security Council System
+title: "Memorandum on Renewing the National Security Council\_System"
 ---
  
 NATIONAL SECURITY MEMORANDUM/nSM-2

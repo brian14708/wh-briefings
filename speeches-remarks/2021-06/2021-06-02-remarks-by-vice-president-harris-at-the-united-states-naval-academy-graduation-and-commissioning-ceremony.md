@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-06-02'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-vice-president-harris-at-the-united-states-naval-academy-graduation-and-commissioning-ceremony/
 published_time: 2021-06-02 13:28:22-04:00
-title: Remarks by Vice President Harris at the United States Naval Academy Graduation
-  and Commissioning Ceremony
+title: "Remarks by Vice President Harris at the United\_States Naval Academy Graduation\
+  \ and Commissioning\_Ceremony"
 ---
  
 Navy-Marine Corps Memorial Stadium   

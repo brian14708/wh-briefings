@@ -4,9 +4,9 @@ date: '2022-02-04'
 modified_time: 2022-02-04 10:01:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/a-proclamation-to-continue-facilitating-positive-adjustment-to-competition-from-imports-of-certain-crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other-produc/
 published_time: 2022-02-04 10:01:00-05:00
-title: A Proclamation to Continue Facilitating Positive Adjustment to Competition
-  From Imports of Certain Crystalline Silicon Photovoltaic Cells (Whether or Not Partially
-  or Fully Assembled Into Other Products)
+title: "A Proclamation to Continue Facilitating Positive Adjustment to Competition\
+  \ From Imports of Certain Crystalline Silicon Photovoltaic Cells (Whether or Not\
+  \ Partially or Fully Assembled Into Other\_Products)"
 ---
  
      1.  On January 23, 2018, pursuant to section 203 of the Trade Act

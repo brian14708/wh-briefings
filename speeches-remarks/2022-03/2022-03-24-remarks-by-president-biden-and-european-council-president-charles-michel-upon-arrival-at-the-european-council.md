@@ -4,8 +4,8 @@ date: '2022-03-24'
 modified_time: 2022-03-24 16:06:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/24/remarks-by-president-biden-and-european-council-president-charles-michel-upon-arrival-at-the-european-council/
 published_time: 2022-03-24 16:30:00-04:00
-title: Remarks by President Biden and European Council President Charles Michel Upon
-  Arrival at the European Council
+title: "Remarks by President\_Biden and European Council President Charles Michel\
+  \ Upon Arrival at the European\_Council"
 ---
  
 Europa Building  

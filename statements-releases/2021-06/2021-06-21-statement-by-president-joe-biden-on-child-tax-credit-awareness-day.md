@@ -4,7 +4,7 @@ date: '2021-06-21'
 modified_time: 2021-06-21 12:09:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/statement-by-president-joe-biden-on-child-tax-credit-awareness-day/
 published_time: 2021-06-21 12:09:06-04:00
-title: Statement by President Joe Biden on Child Tax Credit Awareness Day
+title: "Statement by President Joe\_Biden on Child Tax Credit Awareness\_Day"
 ---
  
 I have repeatedly said that America’s middle class deserves a tax cut,

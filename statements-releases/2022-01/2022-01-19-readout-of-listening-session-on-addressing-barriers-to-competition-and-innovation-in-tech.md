@@ -4,8 +4,8 @@ date: '2022-01-19'
 modified_time: 2022-01-19 19:10:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/readout-of-listening-session-on-addressing-barriers-to-competition-and-innovation-in-tech/
 published_time: 2022-01-19 19:10:26-05:00
-title: Readout of Listening Session on Addressing Barriers to Competition and Innovation
-  in Tech
+title: "Readout of Listening Session on Addressing Barriers to Competition and Innovation\
+  \ in\_Tech"
 ---
  
 Today, the White House convened a listening session with entrepreneurs

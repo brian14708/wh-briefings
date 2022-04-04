@@ -4,7 +4,7 @@ date: '2021-02-10'
 modified_time: 2021-02-10 17:59:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/10/press-briefing-by-press-secretary-jen-psaki-february-10-2021/
 published_time: 2021-02-10 15:44:35-05:00
-title: Press Briefing by Press Secretary Jen Psaki, February 10, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, February 10,\_2021"
 ---
  
 11:52 A.M. EST

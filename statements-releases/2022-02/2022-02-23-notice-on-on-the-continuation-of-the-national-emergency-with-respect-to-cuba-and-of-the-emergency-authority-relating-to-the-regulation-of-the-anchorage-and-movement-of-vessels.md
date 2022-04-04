@@ -3,9 +3,9 @@ category: statements-releases
 date: '2022-02-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/notice-on-on-the-continuation-of-the-national-emergency-with-respect-to-cuba-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-vessels/
 published_time: 2022-02-23 11:00:55-05:00
-title: Notice on on the Continuation of the National Emergency with Respect to Cuba
-  and of the Emergency Authority Relating to the Regulation of the Anchorage and Movement
-  of Vessels
+title: "Notice on on the Continuation of the National Emergency with Respect to Cuba\
+  \ and of the Emergency Authority Relating to the Regulation of the Anchorage and\
+  \ Movement of\_Vessels"
 ---
  
 On March 1, 1996, by Proclamation 6867, a national emergency was

@@ -4,7 +4,7 @@ date: '2022-01-11'
 modified_time: 2022-01-12 10:27:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/11/remarks-by-vice-president-harris-on-protecting-the-right-to-vote/
 published_time: 2022-01-11 10:22:00-05:00
-title: Remarks by Vice President Harris on Protecting the Right to Vote
+title: "Remarks by Vice President Harris on Protecting the Right to\_Vote"
 ---
  
 *Atlanta University Center Consortium Atlanta, Georgia*

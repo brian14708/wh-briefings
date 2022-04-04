@@ -4,9 +4,9 @@ date: '2021-10-12'
 modified_time: 2021-10-12 17:32:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colomb/
 published_time: 2021-10-12 17:32:10-04:00
-title: Letter to the Speaker of the House of Representatives and the President of
-  the Senate on the Continuation of the National Emergency with Respect to Significant
-  Narcotics Traffickers Centered in Colombia
+title: "Letter to the Speaker of the House of Representatives and the President of\
+  \ the Senate on the Continuation of the National Emergency with Respect to Significant\
+  \ Narcotics Traffickers Centered in\_Colombia"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

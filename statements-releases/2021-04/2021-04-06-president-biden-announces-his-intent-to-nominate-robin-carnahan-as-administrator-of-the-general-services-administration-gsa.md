@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-04-06'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/06/president-biden-announces-his-intent-to-nominate-robin-carnahan-as-administrator-of-the-general-services-administration-gsa/
 published_time: 2021-04-06 15:40:13-04:00
-title: President Biden Announces his Intent to Nominate Robin Carnahan as Administrator
-  of the General Services Administration (GSA)
+title: "President\_Biden Announces his Intent to Nominate Robin Carnahan as Administrator\
+  \ of the General Services Administration\_(GSA)"
 ---
  
 Today, President Joe Biden announced his intent to nominate Robin

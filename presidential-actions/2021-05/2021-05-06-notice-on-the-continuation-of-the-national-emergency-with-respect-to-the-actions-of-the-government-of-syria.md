@@ -4,8 +4,8 @@ date: '2021-05-06'
 modified_time: 2021-05-06 17:40:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria/
 published_time: 2021-05-06 17:40:02-04:00
-title: Notice on the Continuation of the National Emergency with Respect to the Actions
-  of the Government of Syria
+title: "Notice on the Continuation of the National Emergency with Respect to the Actions\
+  \ of the Government of\_Syria"
 ---
  
 NOTICE

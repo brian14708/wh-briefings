@@ -4,8 +4,8 @@ date: '2021-07-14'
 modified_time: 2021-07-14 09:00:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-uzbekistan/
 published_time: 2021-07-14 09:00:08-04:00
-title: Statement by NSC Spokesperson Emily Horne on Senior Administration Official
-  Travel to Uzbekistan
+title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
+  \ Travel to\_Uzbekistan"
 ---
  
 This week, the Assistant to the President for Homeland Security Dr.

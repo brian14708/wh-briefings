@@ -4,8 +4,8 @@ date: '2021-12-21'
 modified_time: 2021-12-20 20:48:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/21/fact-sheet-president-biden-announces-new-actions-to-protect-americans-and-help-communities-and-hospitals-battle-omicron/
 published_time: 2021-12-21 05:00:00-05:00
-title: 'FACT SHEET: President Biden Announces New Actions to Protect Americans and
-  Help Communities and Hospitals Battle Omicron'
+title: "FACT SHEET: President\_Biden Announces New Actions to Protect Americans and\
+  \ Help Communities and Hospitals Battle\_Omicron"
 ---
  
 Today, President Biden will announce new actions to protect Americans

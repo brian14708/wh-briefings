@@ -4,7 +4,7 @@ date: '2022-01-19'
 modified_time: 2022-01-19 22:41:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/statement-of-president-joe-biden-on-the-senate-vote-on-voting-rights/
 published_time: 2022-01-19 22:41:23-05:00
-title: Statement of President Joe Biden on the Senate Vote on Voting Rights
+title: "Statement of President Joe\_Biden on the Senate Vote on Voting\_Rights"
 ---
  
 At the core of our democracy is a basic principle: the right to vote,

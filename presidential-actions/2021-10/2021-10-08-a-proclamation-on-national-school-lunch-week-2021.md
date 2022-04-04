@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 10:49:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-national-school-lunch-week-2021/
 published_time: 2021-10-08 10:49:52-04:00
-title: A Proclamation on National School Lunch Week, 2021
+title: "A Proclamation on National School Lunch Week,\_2021"
 ---
  
 Since 1946, the National School Lunch Program has provided nutritionally

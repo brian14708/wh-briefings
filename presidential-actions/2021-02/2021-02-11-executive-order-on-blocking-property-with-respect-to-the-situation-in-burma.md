@@ -4,7 +4,7 @@ date: '2021-02-11'
 modified_time: 2021-02-11 10:08:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/11/executive-order-on-blocking-property-with-respect-to-the-situation-in-burma/
 published_time: 2021-02-11 09:35:03-05:00
-title: Executive Order on Blocking Property with Respect to the Situation in Burma
+title: "Executive Order on Blocking Property with Respect to the Situation in\_Burma"
 ---
  
 By the authority vested in me as President by the Constitution and the

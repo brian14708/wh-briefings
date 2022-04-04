@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-25'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/25/president-joseph-r-biden-jr-approves-delaware-disaster-declaration/
 published_time: 2021-10-25 08:47:19-04:00
-title: President Joseph R. Biden, Jr. Approves Delaware Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Delaware Disaster\_Declaration"
 ---
  
 Yesterday, President Joseph R. Biden, Jr. declared that a major disaster

@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-01-22'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/22/readout-of-white-house-roundtable-with-civil-rights-leaders-on-equitable-implementation-of-the-bipartisan-infrastructure-law/
 published_time: 2022-01-22 11:22:57-05:00
-title: Readout of White House Roundtable with Civil Rights Leaders on Equitable Implementation
-  of the Bipartisan Infrastructure Law
+title: "Readout of White\_House Roundtable with Civil Rights Leaders on Equitable\
+  \ Implementation of the Bipartisan Infrastructure\_Law"
 ---
  
 Yesterday, Domestic Policy Advisor Susan Rice, White House

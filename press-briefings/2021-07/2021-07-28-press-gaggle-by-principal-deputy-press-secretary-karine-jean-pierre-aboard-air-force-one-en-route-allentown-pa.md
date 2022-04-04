@@ -4,8 +4,8 @@ date: '2021-07-28'
 modified_time: 2021-07-28 13:30:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/28/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-allentown-pa/
 published_time: 2021-07-28 13:30:53-04:00
-title: Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard
-  Air Force One En Route Allentown, PA
+title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard\
+  \ Air Force One En Route Allentown,\_PA"
 ---
  
 Aboard Air Force One  

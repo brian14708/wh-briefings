@@ -4,8 +4,8 @@ date: '2021-08-26'
 modified_time: 2021-09-07 16:05:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-vice-president-harris-in-meeting-with-change-makers-in-vietnam-in-hanoi-vietnam/
 published_time: 2021-08-26 04:39:00-04:00
-title: Remarks by Vice President Harris in Meeting with Change Makers in Vietnam in
-  Hanoi, Vietnam
+title: "Remarks by Vice President Harris in Meeting with Change Makers in Vietnam\
+  \ in Hanoi,\_Vietnam"
 ---
  
 Chief of Mission Residence  

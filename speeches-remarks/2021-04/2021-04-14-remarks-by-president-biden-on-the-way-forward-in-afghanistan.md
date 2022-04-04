@@ -4,7 +4,7 @@ date: '2021-04-14'
 modified_time: 2021-04-14 17:29:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/14/remarks-by-president-biden-on-the-way-forward-in-afghanistan/
 published_time: 2021-04-14 17:45:00-04:00
-title: Remarks by President Biden on the Way Forward in Afghanistan
+title: "Remarks by President\_Biden on the Way Forward in\_Afghanistan"
 ---
  
 Treaty Room

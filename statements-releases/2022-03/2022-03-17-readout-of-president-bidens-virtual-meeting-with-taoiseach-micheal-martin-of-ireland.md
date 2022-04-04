@@ -4,8 +4,8 @@ date: '2022-03-17'
 modified_time: 2022-03-17 15:49:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/readout-of-president-bidens-virtual-meeting-with-taoiseach-micheal-martin-of-ireland/
 published_time: 2022-03-17 15:49:38-04:00
-title: "Readout of President Biden\u2019s Virtual Meeting with Taoiseach Miche\xE1\
-  l Martin of Ireland"
+title: "Readout of President\_Biden\u2019s Virtual Meeting with Taoiseach Miche\xE1\
+  l Martin of\_Ireland"
 ---
  
 President Joseph R. Biden, Jr. met virtually today with Taoiseach

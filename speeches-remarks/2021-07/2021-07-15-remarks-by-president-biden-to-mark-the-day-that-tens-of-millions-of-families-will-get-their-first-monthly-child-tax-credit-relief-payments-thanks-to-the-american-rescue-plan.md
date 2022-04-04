@@ -4,9 +4,9 @@ date: '2021-07-15'
 modified_time: 2021-07-15 21:12:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/15/remarks-by-president-biden-to-mark-the-day-that-tens-of-millions-of-families-will-get-their-first-monthly-child-tax-credit-relief-payments-thanks-to-the-american-rescue-plan/
 published_time: 2021-07-15 15:04:24-04:00
-title: Remarks by President Biden to Mark the Day That Tens of Millions of Families
-  Will Get Their First Monthly Child Tax Credit Relief Payments Thanks to the American
-  Rescue Plan
+title: "Remarks by President\_Biden to Mark the Day That Tens of Millions of Families\
+  \ Will Get Their First Monthly Child Tax Credit Relief Payments Thanks to the American\
+  \ Rescue\_Plan"
 ---
  
 South Court Auditorium

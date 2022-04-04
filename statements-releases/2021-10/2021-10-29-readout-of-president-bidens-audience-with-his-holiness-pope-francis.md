@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 08:53:04-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-audience-with-his-holiness-pope-francis/
 published_time: 2021-10-29 08:49:04-04:00
-title: "Readout of President Biden\u2019s Audience with His Holiness Pope Francis"
+title: "Readout of President\_Biden\u2019s Audience with His Holiness Pope\_Francis"
 ---
  
 In his audience with Pope Francis today, President Biden thanked His

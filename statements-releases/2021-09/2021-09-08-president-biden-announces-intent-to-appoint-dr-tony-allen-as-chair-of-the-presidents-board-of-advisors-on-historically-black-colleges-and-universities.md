@@ -4,8 +4,8 @@ date: '2021-09-08'
 modified_time: 2021-09-08 09:40:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/08/president-biden-announces-intent-to-appoint-dr-tony-allen-as-chair-of-the-presidents-board-of-advisors-on-historically-black-colleges-and-universities/
 published_time: 2021-09-08 09:40:26-04:00
-title: "President Biden Announces Intent to Appoint Dr. Tony Allen as Chair of the\
-  \ President\u2019s Board of Advisors on Historically Black Colleges and Universities"
+title: "President\_Biden Announces Intent to Appoint Dr. Tony Allen as Chair of the\
+  \ President\u2019s Board of Advisors on Historically Black Colleges and\_Universities"
 ---
  
 WASHINGTON — Today, President Biden announced his intent to appoint Dr.

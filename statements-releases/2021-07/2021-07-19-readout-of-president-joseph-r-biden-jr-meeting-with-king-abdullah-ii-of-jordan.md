@@ -4,8 +4,8 @@ date: '2021-07-19'
 modified_time: 2021-07-19 18:56:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/readout-of-president-joseph-r-biden-jr-meeting-with-king-abdullah-ii-of-jordan/
 published_time: 2021-07-19 18:56:16-04:00
-title: Readout of President Joseph R. Biden, Jr. Meeting with King Abdullah II of
-  Jordan
+title: "Readout of President Joseph R. Biden, Jr. Meeting with King Abdullah II of\_\
+  Jordan"
 ---
  
 President Joseph R. Biden, Jr. met today with His Majesty King Abdullah

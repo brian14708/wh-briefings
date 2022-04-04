@@ -4,7 +4,7 @@ date: '2021-01-21'
 modified_time: 2021-01-21 21:08:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/21/press-briefing-by-press-secretary-jen-psaki-january-21-2021/
 published_time: 2021-01-21 19:35:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki, January 21, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, January 21,\_2021"
 ---
  
 James S. Brady Press Briefing Room

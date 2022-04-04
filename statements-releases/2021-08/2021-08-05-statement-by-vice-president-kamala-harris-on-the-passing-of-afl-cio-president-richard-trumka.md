@@ -4,8 +4,8 @@ date: '2021-08-05'
 modified_time: 2021-12-23 16:36:17-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statement-by-vice-president-kamala-harris-on-the-passing-of-afl-cio-president-richard-trumka/
 published_time: 2021-08-05 20:55:00-04:00
-title: Statement by Vice President Kamala Harris on the Passing of AFL-CIO President
-  Richard Trumka
+title: "Statement by Vice President Kamala\_Harris on the Passing of AFL-CIO President\
+  \ Richard\_Trumka"
 ---
  
 Today, our nation lost a great leader. Richard L. Trumka was a champion

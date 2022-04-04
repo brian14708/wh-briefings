@@ -4,8 +4,8 @@ date: '2021-08-25'
 modified_time: 2021-08-25 09:09:03-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-takes-additional-steps-to-prevent-evictions-as-the-delivery-of-emergency-rental-assistance-continues-to-increase/
 published_time: 2021-08-25 09:00:00-04:00
-title: 'FACT SHEET: Biden Administration Takes Additional Steps to Prevent Evictions
-  as the Delivery of Emergency Rental Assistance Continues to Increase'
+title: "FACT SHEET: Biden Administration Takes Additional Steps to Prevent Evictions\
+  \ as the Delivery of Emergency Rental Assistance Continues to\_Increase"
 ---
  
 Today, the Biden Administration is announcing new actions to help

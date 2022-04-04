@@ -4,9 +4,9 @@ date: '2021-01-21'
 modified_time: 2021-01-31 16:16:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/
 published_time: 2021-01-21 17:07:15-05:00
-title: "National Security Memorandum on United States Global Leadership to Strengthen\
-  \ the International COVID- \u2060 19 Response and to Advance Global Health Security\
-  \ and Biological Preparedness"
+title: "National Security Memorandum on United\_States Global Leadership to Strengthen\
+  \ the International COVID-\u206019 Response and to Advance Global Health Security\
+  \ and Biological\_Preparedness"
 ---
  
 NATIONAL SECURITY MEMORANDUM – 1

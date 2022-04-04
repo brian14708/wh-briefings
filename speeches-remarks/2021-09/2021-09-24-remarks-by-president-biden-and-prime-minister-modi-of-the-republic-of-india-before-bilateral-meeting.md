@@ -4,8 +4,8 @@ date: '2021-09-24'
 modified_time: 2021-09-24 15:37:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/24/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-before-bilateral-meeting/
 published_time: 2021-09-24 15:45:00-04:00
-title: Remarks by President Biden and Prime Minister Modi of the Republic of India
-  Before Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Modi of the Republic of India\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office

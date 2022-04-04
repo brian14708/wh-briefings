@@ -4,8 +4,8 @@ date: '2021-09-23'
 modified_time: 2021-09-23 15:26:57-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-harris-administration-commit-to-end-hunger-and-malnutrition-and-build-sustainable-resilient-food-systems/
 published_time: 2021-09-23 11:00:00-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Commit to End Hunger and Malnutrition\
-  \ and Build Sustainable Resilient Food Systems"
+title: "FACT SHEET: Biden-\u2060Harris Administration Commit to End Hunger and Malnutrition\
+  \ and Build Sustainable Resilient Food\_Systems"
 ---
  
 *“At a time when nearly one in three people globally do not have access

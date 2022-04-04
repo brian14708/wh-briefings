@@ -4,8 +4,8 @@ date: '2021-09-27'
 modified_time: 2021-09-28 09:02:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/readout-of-the-interagency-working-group-on-coal-and-power-plan-communities-meeting-for-economic-growth-that-benefits-everybody/
 published_time: 2021-09-27 18:45:00-04:00
-title: Readout of the Interagency Working Group on Coal and Power Plant Communities
-  Meeting for Economic Growth That Benefits Everybody
+title: "Readout of the Interagency Working Group on Coal and Power Plant Communities\
+  \ Meeting for Economic Growth That Benefits\_Everybody"
 ---
  
 *Interagency Working Group is Leading Whole of Government Effort to

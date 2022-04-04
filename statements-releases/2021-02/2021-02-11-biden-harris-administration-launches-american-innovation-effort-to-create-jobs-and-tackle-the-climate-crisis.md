@@ -4,8 +4,8 @@ date: '2021-02-11'
 modified_time: 2021-02-11 15:11:50-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/biden-harris-administration-launches-american-innovation-effort-to-create-jobs-and-tackle-the-climate-crisis/
 published_time: 2021-02-11 15:11:48-05:00
-title: "Biden- \u2060 Harris Administration Launches American Innovation Effort to\
-  \ Create Jobs and Tackle the Climate Crisis"
+title: "Biden-\u2060Harris Administration Launches American Innovation Effort to Create\
+  \ Jobs and Tackle the Climate\_Crisis"
 ---
  
 *White House Forms Climate Innovation Working Group, Outlines Innovation

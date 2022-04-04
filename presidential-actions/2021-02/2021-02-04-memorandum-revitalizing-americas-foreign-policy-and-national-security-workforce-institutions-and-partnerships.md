@@ -5,7 +5,7 @@ modified_time: 2021-02-05 12:02:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/
 published_time: 2021-02-04 20:04:19-05:00
 title: "Memorandum on Revitalizing America\u2019s Foreign Policy and National Security\
-  \ Workforce, Institutions, and Partnerships"
+  \ Workforce, Institutions, and\_Partnerships"
 ---
  
 NATIONAL SECURITY MEMORANDUM

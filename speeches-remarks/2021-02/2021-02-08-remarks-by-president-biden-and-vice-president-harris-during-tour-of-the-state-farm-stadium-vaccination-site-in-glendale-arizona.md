@@ -4,8 +4,8 @@ date: '2021-02-08'
 modified_time: 2021-02-09 11:59:07-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/08/remarks-by-president-biden-and-vice-president-harris-during-tour-of-the-state-farm-stadium-vaccination-site-in-glendale-arizona/
 published_time: 2021-02-08 17:30:00-05:00
-title: Remarks by President Biden and Vice President Harris During Tour of the State
-  Farm Stadium Vaccination Site in Glendale, Arizona
+title: "Remarks by President\_Biden and Vice President Harris During Tour of the State\
+  \ Farm Stadium Vaccination Site in Glendale,\_Arizona"
 ---
  
 2:38 P.M. EST

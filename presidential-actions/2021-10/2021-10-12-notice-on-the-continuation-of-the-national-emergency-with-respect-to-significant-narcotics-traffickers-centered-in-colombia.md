@@ -4,8 +4,8 @@ date: '2021-10-12'
 modified_time: 2021-10-12 17:32:07-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
 published_time: 2021-10-12 17:32:06-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Significant
-  Narcotics Traffickers Centered in Colombia
+title: "Notice on the Continuation of the National Emergency with Respect to Significant\
+  \ Narcotics Traffickers Centered in\_Colombia"
 ---
  
 On October 21, 1995, by Executive Order 12978, the President declared a

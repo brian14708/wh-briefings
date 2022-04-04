@@ -4,8 +4,8 @@ date: '2021-11-12'
 modified_time: 2021-11-12 09:16:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-meeting/
 published_time: 2021-11-12 09:16:29-05:00
-title: "Readout of President Joe Biden\u2019s Participation in the APEC Virtual Leaders\u2019\
-  \ Meeting"
+title: "Readout of President Joe\_Biden\u2019s Participation in the APEC Virtual Leaders\u2019\
+  \_Meeting"
 ---
  
 Today President Joseph R. Biden Jr. participated in the Asia-Pacific

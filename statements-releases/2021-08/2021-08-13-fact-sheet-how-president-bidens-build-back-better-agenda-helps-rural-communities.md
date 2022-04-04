@@ -4,8 +4,8 @@ date: '2021-08-13'
 modified_time: 2021-08-13 11:17:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-rural-communities/
 published_time: 2021-08-13 11:16:40-04:00
-title: "FACT SHEET: How President Biden\u2019s Build Back Better Agenda Helps Rural\
-  \ Communities"
+title: "FACT SHEET: How President\_Biden\u2019s Build Back Better Agenda Helps Rural\_\
+  Communities"
 ---
  
 One year ago, with the country at a crossroads, President Biden unveiled

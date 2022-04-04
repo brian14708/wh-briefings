@@ -4,8 +4,8 @@ date: '2021-11-15'
 modified_time: 2021-11-15 12:11:55-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-president-bidens-executive-order-establishing-priorities-and-task-force-for-implementation-of-the-bipartisan-infrastructure-law/
 published_time: 2021-11-15 12:10:00-05:00
-title: "FACT SHEET:\_President Biden\u2019s Executive Order Establishing\_Priorities\
-  \ and Task Force for Implementation of the\_Bipartisan Infrastructure Law"
+title: "FACT SHEET:\_President\_Biden\u2019s Executive Order Establishing\_Priorities\
+  \ and Task Force for Implementation of the\_Bipartisan Infrastructure\_Law"
 ---
  
 Today, President Biden will sign the Bipartisan Infrastructure Deal into

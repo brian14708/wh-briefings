@@ -4,8 +4,8 @@ date: '2021-08-21'
 modified_time: 2021-08-21 19:15:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/president-biden-announces-presidential-delegation-to-the-republic-of-zambia-to-attend-the-inauguration-of-his-excellency-hakainde-hichilema/
 published_time: 2021-08-21 19:15:01-04:00
-title: President Biden Announces Presidential Delegation to the Republic of Zambia
-  to Attend the Inauguration of His Excellency Hakainde Hichilema
+title: "President\_Biden Announces Presidential Delegation to the Republic of Zambia\
+  \ to Attend the Inauguration of His Excellency Hakainde\_Hichilema"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

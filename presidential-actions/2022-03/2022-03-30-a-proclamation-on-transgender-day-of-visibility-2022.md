@@ -4,7 +4,7 @@ date: '2022-03-30'
 modified_time: 2022-03-30 15:29:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/30/a-proclamation-on-transgender-day-of-visibility-2022/
 published_time: 2022-03-30 15:29:11-04:00
-title: A Proclamation on Transgender Day Of Visibility, 2022
+title: "A Proclamation on Transgender Day Of Visibility,\_2022"
 ---
  
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA

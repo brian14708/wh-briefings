@@ -4,8 +4,8 @@ date: '2022-03-24'
 modified_time: 2022-03-24 09:17:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-united-states-and-allies-and-partners-impose-additional-costs-on-russia/
 published_time: 2022-03-24 09:15:00-04:00
-title: 'FACT SHEET: United States and Allies and Partners Impose Additional Costs
-  on Russia'
+title: "FACT SHEET: United\_States and Allies and Partners Impose Additional Costs\
+  \ on\_Russia"
 ---
  
 ***United States sanctions over 400 Russian elites, Duma members, and

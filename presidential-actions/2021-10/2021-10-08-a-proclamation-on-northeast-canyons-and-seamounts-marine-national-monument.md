@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 17:01:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-northeast-canyons-and-seamounts-marine-national-monument/
 published_time: 2021-10-08 16:10:00-04:00
-title: A Proclamation on Northeast Canyons and Seamounts Marine National Monument
+title: "A Proclamation on Northeast Canyons and Seamounts Marine National\_Monument"
 ---
  
 On September 15, 2016, President Barack Obama issued Proclamation 9496

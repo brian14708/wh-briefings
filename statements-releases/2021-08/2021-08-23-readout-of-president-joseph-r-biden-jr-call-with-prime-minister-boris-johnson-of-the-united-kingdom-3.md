@@ -4,8 +4,8 @@ date: '2021-08-23'
 modified_time: 2021-08-23 14:11:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/23/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-boris-johnson-of-the-united-kingdom-3/
 published_time: 2021-08-23 14:11:18-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Boris Johnson
-  of the United Kingdom
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Boris Johnson\
+  \ of the United\_Kingdom"
 ---
  
 President Joe Biden and Prime Minister Boris Johnson of the United

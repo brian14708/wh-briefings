@@ -4,8 +4,8 @@ date: '2021-01-22'
 modified_time: 2021-01-22 18:39:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/22/press-briefing-by-press-secretary-jen-psaki-and-national-economic-director-brian-deese/
 published_time: 2021-01-22 14:06:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki and National Economic Director
-  Brian Deese
+title: "Press Briefing by Press Secretary Jen\_Psaki and National Economic Director\
+  \ Brian\_Deese"
 ---
  
 James S. Brady Press Briefing Room

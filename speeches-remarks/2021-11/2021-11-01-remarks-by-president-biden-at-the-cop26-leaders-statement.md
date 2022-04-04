@@ -4,7 +4,7 @@ date: '2021-11-01'
 modified_time: 2021-11-01 15:55:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/01/remarks-by-president-biden-at-the-cop26-leaders-statement/
 published_time: 2021-11-01 16:00:00-04:00
-title: Remarks by President Biden at the COP26 Leaders Statement
+title: "Remarks by President\_Biden at the COP26 Leaders\_Statement"
 ---
  
 Scottish Event Campus  

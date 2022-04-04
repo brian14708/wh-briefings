@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 15:33:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-by-vice-president-harris-on-texas-law-sb8/
 published_time: 2021-09-01 15:33:00-04:00
-title: Statement by Vice President Harris on Texas Law SB8
+title: "Statement by Vice President Harris on Texas Law\_SB8"
 ---
  
 Today, a new law takes effect in Texas that directly violates the

@@ -4,8 +4,8 @@ date: '2022-01-20'
 modified_time: 2022-01-20 21:10:39-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/
 published_time: 2022-01-20 05:00:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Bringing Semiconductor Manufacturing\
-  \ Back to America"
+title: "FACT SHEET: Biden-\u2060Harris Administration Bringing Semiconductor Manufacturing\
+  \ Back to\_America"
 ---
  
 *Intel Announces $20 Billion Ohio Facility; Latest Company to Invest in

@@ -4,8 +4,8 @@ date: '2021-08-09'
 modified_time: 2021-08-09 10:40:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/09/executive-order-on-blocking-property-of-additional-persons-contributing-to-the-situation-in-belarus/
 published_time: 2021-08-09 10:40:48-04:00
-title: Executive Order on Blocking Property of Additional Persons Contributing to
-  the Situation in Belarus
+title: "Executive Order on Blocking Property of Additional Persons Contributing to\
+  \ the Situation in\_Belarus"
 ---
  
 By the authority vested in me as President by the Constitution and the

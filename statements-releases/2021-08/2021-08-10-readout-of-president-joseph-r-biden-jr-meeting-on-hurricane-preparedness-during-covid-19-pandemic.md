@@ -5,7 +5,7 @@ modified_time: 2021-08-10 19:41:42-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/readout-of-president-joseph-r-biden-jr-meeting-on-hurricane-preparedness-during-covid-19-pandemic/
 published_time: 2021-08-10 19:31:22-04:00
 title: "Readout of President Joseph R. Biden, Jr. Meeting on Hurricane Preparedness\
-  \ During COVID- \u2060 19 Pandemic"
+  \ During COVID-\u206019\_Pandemic"
 ---
  
 Today, President Biden met with FEMA Administrator Deanne Criswell,

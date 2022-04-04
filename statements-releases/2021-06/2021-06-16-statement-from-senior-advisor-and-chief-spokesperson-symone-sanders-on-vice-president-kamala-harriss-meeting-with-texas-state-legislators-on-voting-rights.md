@@ -5,8 +5,8 @@ modified_time: 2021-06-16 17:49:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/16/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-texas-state-legislators-on-voting-rights/
 published_time: 2021-06-16 17:49:14-04:00
 title: "Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Meeting with Texas State Legislators on Voting\
-  \ Rights"
+  \ President Kamala\_Harris\u2019s Meeting with Texas State Legislators on Voting\_\
+  Rights"
 ---
  
 The right to vote is fundamental to our democracy—and defending that

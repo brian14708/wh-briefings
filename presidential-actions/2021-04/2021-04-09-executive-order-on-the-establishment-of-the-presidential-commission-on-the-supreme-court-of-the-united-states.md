@@ -4,8 +4,8 @@ date: '2021-04-09'
 modified_time: 2021-04-09 12:22:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/09/executive-order-on-the-establishment-of-the-presidential-commission-on-the-supreme-court-of-the-united-states/
 published_time: 2021-04-09 12:22:16-04:00
-title: Executive Order on the Establishment of the Presidential Commission on the
-  Supreme Court of the United States
+title: "Executive Order on the Establishment of the Presidential Commission on the\
+  \ Supreme Court of the United\_States"
 ---
  
       By the authority vested in me as President by the Constitution and

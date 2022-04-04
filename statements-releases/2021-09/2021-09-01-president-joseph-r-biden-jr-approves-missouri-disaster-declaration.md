@@ -4,7 +4,7 @@ date: '2021-09-01'
 modified_time: 2021-09-01 18:06:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/president-joseph-r-biden-jr-approves-missouri-disaster-declaration/
 published_time: 2021-09-01 18:06:19-04:00
-title: President Joseph R. Biden, Jr. Approves Missouri Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Missouri Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

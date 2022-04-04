@@ -4,7 +4,7 @@ date: '2021-09-30'
 modified_time: 2021-09-30 11:10:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-manufacturing-day-2021/
 published_time: 2021-09-30 11:10:09-04:00
-title: A Proclamation on National Manufacturing Day, 2021
+title: "A Proclamation on National Manufacturing Day,\_2021"
 ---
  
 On National Manufacturing Day, we celebrate all that is made in America

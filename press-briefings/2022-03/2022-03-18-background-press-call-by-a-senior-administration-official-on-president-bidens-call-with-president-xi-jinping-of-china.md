@@ -3,8 +3,8 @@ category: press-briefings
 date: '2022-03-18'
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/18/background-press-call-by-a-senior-administration-official-on-president-bidens-call-with-president-xi-jinping-of-china/
 published_time: 2022-03-18 17:06:15-04:00
-title: "Background Press Call by a Senior Administration Official on President Biden\u2019\
-  s Call with President Xi Jinping of China"
+title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
+  s Call with President Xi Jinping of\_China"
 ---
  
 Via Teleconference

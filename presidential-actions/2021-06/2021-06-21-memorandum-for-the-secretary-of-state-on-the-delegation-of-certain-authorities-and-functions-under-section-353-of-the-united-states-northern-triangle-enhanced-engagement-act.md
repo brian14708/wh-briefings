@@ -5,8 +5,8 @@ modified_time: 2021-06-21 18:06:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/21/memorandum-for-the-secretary-of-state-on-the-delegation-of-certain-authorities-and-functions-under-section-353-of-the-united-states-northern-triangle-enhanced-engagement-act/
 published_time: 2021-06-21 18:06:38-04:00
 title: "Memorandum for the Secretary of State on the Delegation of Certain Authorities\
-  \ and Functions Under Section 353 of the United States \u2013 Northern Triangle\
-  \ Enhanced Engagement Act"
+  \ and Functions Under Section 353 of the United\_States \u2013 Northern Triangle\
+  \ Enhanced Engagement\_Act"
 ---
  
 By the authority vested in me as President by the Constitution and the

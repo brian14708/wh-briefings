@@ -4,7 +4,7 @@ date: '2021-05-14'
 modified_time: 2021-05-14 17:08:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-emergency-medical-services-week-2021/
 published_time: 2021-05-14 17:08:27-04:00
-title: A Proclamation on Emergency Medical Services Week, 2021
+title: "A Proclamation on Emergency Medical Services Week,\_2021"
 ---
  
 Every day, in communities across the country, Emergency Medical Service

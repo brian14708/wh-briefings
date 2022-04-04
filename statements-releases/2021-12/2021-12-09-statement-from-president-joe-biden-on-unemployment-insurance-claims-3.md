@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-12-09'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/statement-from-president-joe-biden-on-unemployment-insurance-claims-3/
 published_time: 2021-12-09 10:37:45-05:00
-title: Statement from President Joe Biden on Unemployment Insurance Claims
+title: "Statement from President Joe\_Biden on Unemployment Insurance\_Claims"
 ---
  
 Our economic recovery has two key components: getting America back to

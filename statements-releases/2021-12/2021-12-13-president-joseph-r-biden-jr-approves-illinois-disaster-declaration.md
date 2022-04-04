@@ -4,7 +4,7 @@ date: '2021-12-13'
 modified_time: 2021-12-13 23:11:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/president-joseph-r-biden-jr-approves-illinois-disaster-declaration/
 published_time: 2021-12-13 23:11:29-05:00
-title: President Joseph R. Biden, Jr. Approves Illinois Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Illinois Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

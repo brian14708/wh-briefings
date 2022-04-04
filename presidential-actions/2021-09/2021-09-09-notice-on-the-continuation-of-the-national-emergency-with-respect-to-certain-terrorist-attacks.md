@@ -4,8 +4,8 @@ date: '2021-09-09'
 modified_time: 2021-09-09 15:04:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/
 published_time: 2021-09-09 15:04:23-04:00
-title: Notice on the Continuation of the National Emergency with Respect to Certain
-  Terrorist Attacks
+title: "Notice on the Continuation of the National Emergency with Respect to Certain\
+  \ Terrorist\_Attacks"
 ---
  
 Consistent with section 202(d) of the National Emergencies Act, 50

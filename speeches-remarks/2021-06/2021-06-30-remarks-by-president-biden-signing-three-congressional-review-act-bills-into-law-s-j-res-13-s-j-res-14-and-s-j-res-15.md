@@ -4,8 +4,8 @@ date: '2021-06-30'
 modified_time: 2021-06-30 19:38:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/30/remarks-by-president-biden-signing-three-congressional-review-act-bills-into-law-s-j-res-13-s-j-res-14-and-s-j-res-15/
 published_time: 2021-06-30 20:00:00-04:00
-title: 'Remarks by President Biden Signing Three Congressional Review Act Bills into
-  Law: S.J.Res.13; S.J.Res.14; and S.J.Res.15'
+title: "Remarks by President\_Biden Signing Three Congressional Review Act Bills into\
+  \ Law: S.J.Res.13; S.J.Res.14; and\_S.J.Res.15"
 ---
  
 South Court Auditorium  

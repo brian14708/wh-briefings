@@ -4,8 +4,8 @@ date: '2021-11-09'
 modified_time: 2021-11-09 18:14:19-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/09/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-and-commerce-secretary-gina-raimondo/
 published_time: 2021-11-09 18:15:00-05:00
-title: Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre and Commerce
-  Secretary Gina Raimondo
+title: "Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre and\
+  \ Commerce Secretary Gina\_Raimondo"
 ---
  
 James S. Brady Press Briefing Room

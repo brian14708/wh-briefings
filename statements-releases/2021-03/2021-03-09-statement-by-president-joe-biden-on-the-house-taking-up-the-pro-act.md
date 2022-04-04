@@ -4,7 +4,7 @@ date: '2021-03-09'
 modified_time: 2021-03-09 09:33:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/statement-by-president-joe-biden-on-the-house-taking-up-the-pro-act/
 published_time: 2021-03-09 09:32:00-05:00
-title: Statement by President Joe Biden on the House Taking Up the PRO Act
+title: "Statement by President Joe\_Biden on the House Taking Up the PRO\_Act"
 ---
  
 I strongly encourage the House to pass the Protecting the Right to

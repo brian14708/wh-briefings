@@ -5,7 +5,7 @@ modified_time: 2021-09-21 15:10:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/21/readout-of-president-joseph-r-biden-jrs-call-with-prime-minister-justin-trudeau-of-canada/
 published_time: 2021-09-21 15:10:47-04:00
 title: "Readout of President Joseph R. Biden\_Jr\u2019s. Call with Prime Minister\
-  \ Justin Trudeau of Canada"
+  \ Justin Trudeau of\_Canada"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Justin Trudeau, Prime

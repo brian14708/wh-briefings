@@ -4,7 +4,7 @@ date: '2021-10-08'
 modified_time: 2021-10-08 17:02:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-grand-staircase-escalante-national-monument/
 published_time: 2021-10-08 16:12:00-04:00
-title: A Proclamation on Grand Staircase-Escalante National Monument
+title: "A Proclamation on Grand Staircase-Escalante National\_Monument"
 ---
  
 President Clinton’s designation of the Grand Staircase-Escalante

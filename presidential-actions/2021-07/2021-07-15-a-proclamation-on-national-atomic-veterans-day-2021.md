@@ -4,7 +4,7 @@ date: '2021-07-15'
 modified_time: 2021-07-15 09:08:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/15/a-proclamation-on-national-atomic-veterans-day-2021/
 published_time: 2021-07-15 09:08:15-04:00
-title: A Proclamation on National Atomic Veterans Day, 2021
+title: "A Proclamation on National Atomic Veterans Day,\_2021"
 ---
  
 On July 16, 1945, the United States detonated the world’s first nuclear

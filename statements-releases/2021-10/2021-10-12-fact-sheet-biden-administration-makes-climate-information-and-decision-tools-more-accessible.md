@@ -4,8 +4,8 @@ date: '2021-10-12'
 modified_time: 2021-10-12 10:46:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/
 published_time: 2021-10-12 10:00:00-04:00
-title: 'FACT SHEET: Biden Administration Makes Climate Information and Decision Tools
-  More Accessible'
+title: "FACT SHEET: Biden Administration Makes Climate Information and Decision Tools\
+  \ More\_Accessible"
 ---
  
 Today, the Biden Administration is launching a whole-of-government

@@ -4,8 +4,8 @@ date: '2021-11-18'
 modified_time: 2021-11-18 20:45:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/readout-of-white-house-meeting-on-american-rescue-plan-resources-addressing-home-heating-costs/
 published_time: 2021-11-18 20:45:27-05:00
-title: Readout of White House Meeting on American Rescue Plan Resources Addressing
-  Home Heating Costs
+title: "Readout of White\_House Meeting on American Rescue Plan Resources Addressing\
+  \ Home Heating\_Costs"
 ---
  
 Today the White House [hosted a meeting](https://youtu.be/iiH6Ph0au0s)

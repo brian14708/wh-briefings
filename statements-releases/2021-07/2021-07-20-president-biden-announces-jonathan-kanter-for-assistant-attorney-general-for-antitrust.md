@@ -4,8 +4,8 @@ date: '2021-07-20'
 modified_time: 2021-07-20 14:07:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/president-biden-announces-jonathan-kanter-for-assistant-attorney-general-for-antitrust/
 published_time: 2021-07-20 14:07:04-04:00
-title: President Biden Announces Jonathan Kanter for Assistant Attorney General for
-  Antitrust
+title: "President\_Biden Announces Jonathan Kanter for Assistant Attorney General\
+  \ for\_Antitrust"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

@@ -4,8 +4,8 @@ date: '2021-05-17'
 modified_time: 2021-05-17 17:19:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-benjamin-netanyahu-of-israel-4/
 published_time: 2021-05-17 17:19:01-04:00
-title: Readout of President Joseph R. Biden, Jr. Call with Prime Minister Benjamin
-  Netanyahu of Israel
+title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Benjamin\
+  \ Netanyahu of\_Israel"
 ---
  
 The President spoke today with Israeli Prime Minister Netanyahu. The

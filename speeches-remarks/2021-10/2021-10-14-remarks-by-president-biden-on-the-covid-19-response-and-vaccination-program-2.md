@@ -4,8 +4,8 @@ date: '2021-10-14'
 modified_time: 2021-10-14 17:01:51-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/14/remarks-by-president-biden-on-the-covid-19-response-and-vaccination-program-2/
 published_time: 2021-10-14 17:00:00-04:00
-title: "Remarks by President Biden on the COVID- \u2060 19 Response and Vaccination\
-  \ Program"
+title: "Remarks by President\_Biden on the COVID-\u206019 Response and Vaccination\_\
+  Program"
 ---
  
 South Court Auditorium  

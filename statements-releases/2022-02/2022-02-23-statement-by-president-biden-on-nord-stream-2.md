@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/statement-by-president-biden-on-nord-stream-2/
 published_time: 2022-02-23 13:55:03-05:00
-title: Statement by President Biden on Nord Stream 2
+title: "Statement by President\_Biden on Nord Stream\_2"
 ---
  
 Since Russia began deploying troops to the Ukrainian border, the United

@@ -4,8 +4,8 @@ date: '2021-06-30'
 modified_time: 2021-06-30 15:54:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/30/background-press-call-previewing-the-presidents-wildfire-preparedness-meeting/
 published_time: 2021-06-30 15:54:43-04:00
-title: "Background Press Call Previewing the President\u2019s Wildfire Preparedness\
-  \ Meeting"
+title: "Background Press Call Previewing the President\u2019s Wildfire Preparedness\_\
+  Meeting"
 ---
  
 Via Teleconference

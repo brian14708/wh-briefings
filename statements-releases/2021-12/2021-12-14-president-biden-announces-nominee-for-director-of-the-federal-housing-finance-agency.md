@@ -4,8 +4,8 @@ date: '2021-12-14'
 modified_time: 2021-12-14 09:14:11-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/president-biden-announces-nominee-for-director-of-the-federal-housing-finance-agency/
 published_time: 2021-12-14 10:00:00-05:00
-title: President Biden Announces Nominee for Director of the Federal Housing Finance
-  Agency
+title: "President\_Biden Announces Nominee for Director of the Federal Housing Finance\_\
+  Agency"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

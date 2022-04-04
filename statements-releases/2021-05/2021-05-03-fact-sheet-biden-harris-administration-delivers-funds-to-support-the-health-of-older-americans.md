@@ -4,8 +4,8 @@ date: '2021-05-03'
 modified_time: 2021-05-03 20:19:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/03/fact-sheet-biden-harris-administration-delivers-funds-to-support-the-health-of-older-americans/
 published_time: 2021-05-03 20:19:35-04:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Delivers Funds to Support\
-  \ the Health of Older Americans"
+title: "FACT SHEET: Biden-\u2060Harris Administration Delivers Funds to Support the\
+  \ Health of Older\_Americans"
 ---
  
 Today the U.S. Department of Health and Human Services’ Administration

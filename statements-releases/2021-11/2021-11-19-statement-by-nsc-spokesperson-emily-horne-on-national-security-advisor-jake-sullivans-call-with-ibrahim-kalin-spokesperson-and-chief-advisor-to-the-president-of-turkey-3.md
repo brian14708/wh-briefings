@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/
 published_time: 2021-11-19 16:27:51-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Ibrahim Kalin, Spokesperson and Chief Advisor to the\
-  \ President of Turkey"
+  \ President of\_Turkey"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

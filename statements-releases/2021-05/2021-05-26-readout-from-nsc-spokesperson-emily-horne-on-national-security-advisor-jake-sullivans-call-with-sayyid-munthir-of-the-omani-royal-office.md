@@ -5,7 +5,7 @@ modified_time: 2021-05-27 08:37:10-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-sayyid-munthir-of-the-omani-royal-office/
 published_time: 2021-05-26 22:03:10-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Sayyid Munthir of the Omani Royal Office"
+  \ Sullivan\u2019s Call with Sayyid Munthir of the Omani Royal\_Office"
 ---
  
 National Security Advisor Jake Sullivan spoke today with Sayyid Munthir

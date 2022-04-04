@@ -4,7 +4,7 @@ date: '2021-11-16'
 modified_time: 2021-11-16 19:14:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/16/remarks-by-president-biden-before-air-force-one-departure-11/
 published_time: 2021-11-16 19:30:00-05:00
-title: Remarks by President Biden Before Air Force One Departure
+title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
 Manchester-Boston Regional Airport  

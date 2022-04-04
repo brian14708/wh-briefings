@@ -4,8 +4,8 @@ date: '2021-06-03'
 modified_time: 2021-06-03 10:15:41-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/
 published_time: 2021-06-03 10:15:40-04:00
-title: Memorandum on Establishing the Fight Against Corruption as a Core United States
-  National Security Interest
+title: "Memorandum on Establishing the Fight Against Corruption as a Core United\_\
+  States National Security\_Interest"
 ---
  
 <span style="text-decoration: underline">Section 1.  Policy. </span>

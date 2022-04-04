@@ -4,8 +4,8 @@ date: '2021-08-25'
 modified_time: 2021-09-07 15:20:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/25/remarks-by-vice-president-harris-at-an-embassy-lease-signing-event-in-hanoi-vietnam/
 published_time: 2021-08-25 21:52:00-04:00
-title: Remarks by Vice President Harris at an Embassy Lease Signing Event in Hanoi,
-  Vietnam
+title: "Remarks by Vice President Harris at an Embassy Lease Signing Event in Hanoi,\_\
+  Vietnam"
 ---
  
 JW Marriott Hanoi  

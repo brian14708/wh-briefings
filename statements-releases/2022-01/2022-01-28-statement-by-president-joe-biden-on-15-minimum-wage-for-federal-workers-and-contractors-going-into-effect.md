@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-01-28'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/statement-by-president-joe-biden-on-15-minimum-wage-for-federal-workers-and-contractors-going-into-effect/
 published_time: 2022-01-28 13:26:13-05:00
-title: Statement by President Joe Biden on $15 Minimum Wage for Federal Workers and
-  Contractors Going into Effect
+title: "Statement by President Joe\_Biden on $15 Minimum Wage for Federal Workers\
+  \ and Contractors Going into\_Effect"
 ---
  
 A job is about more than a paycheck. It’s about dignity. When I was

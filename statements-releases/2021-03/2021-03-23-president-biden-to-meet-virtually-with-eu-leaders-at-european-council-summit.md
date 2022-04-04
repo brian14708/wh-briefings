@@ -4,7 +4,7 @@ date: '2021-03-23'
 modified_time: 2021-03-23 13:36:01-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/23/president-biden-to-meet-virtually-with-eu-leaders-at-european-council-summit/
 published_time: 2021-03-23 13:36:00-04:00
-title: President Biden to Meet Virtually with EU Leaders at European Council Summit
+title: "President\_Biden to Meet Virtually with EU Leaders at European Council\_Summit"
 ---
  
 On Thursday, March 25, President Biden will meet virtually with the

@@ -5,7 +5,7 @@ modified_time: 2021-07-07 10:53:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/07/statement-by-president-joseph-r-biden-jr-on-the-assassination-of-president-jovenel-moise/
 published_time: 2021-07-07 10:53:30-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Assassination of President\
-  \ Jovenel Mo\xEFse"
+  \ Jovenel\_Mo\xEFse"
 ---
  
 We are shocked and saddened to hear of the horrific assassination of

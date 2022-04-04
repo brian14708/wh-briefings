@@ -4,7 +4,7 @@ date: '2021-04-27'
 modified_time: 2021-04-27 16:09:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/president-biden-announces-key-administration-nominations/
 published_time: 2021-04-27 16:09:42-04:00
-title: President Biden Announces Key Administration Nominations
+title: "President\_Biden Announces Key Administration\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

@@ -4,8 +4,8 @@ date: '2021-10-02'
 modified_time: 2021-10-02 14:53:42-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/02/statement-by-president-joe-biden-on-700000-american-deaths-from-covid-19/
 published_time: 2021-10-02 15:00:00-04:00
-title: "Statement by President Joe Biden on 700,000 American Deaths from COVID- \u2060\
-  \ 19"
+title: "Statement by President Joe\_Biden on 700,000 American Deaths from\_COVID-\u2060\
+  19"
 ---
  
 To heal we must remember, and as our nation mourns the painful milestone

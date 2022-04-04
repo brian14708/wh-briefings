@@ -4,8 +4,8 @@ date: '2022-04-01'
 modified_time: 2022-04-01 19:02:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/statement-by-national-security-advisor-jake-sullivan-on-diplomacy-in-the-middle-east-region/
 published_time: 2022-04-01 19:02:35-04:00
-title: Statement by National Security Advisor Jake Sullivan on Diplomacy in the Middle
-  East Region
+title: "Statement by National Security Advisor Jake Sullivan on Diplomacy in the Middle\
+  \ East\_Region"
 ---
  
 As we approach the Holy Month of Ramadan this weekend, we welcome the

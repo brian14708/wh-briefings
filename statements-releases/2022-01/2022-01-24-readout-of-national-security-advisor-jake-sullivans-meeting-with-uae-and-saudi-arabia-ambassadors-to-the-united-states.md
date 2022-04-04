@@ -5,7 +5,7 @@ modified_time: 2022-01-24 18:18:39-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-national-security-advisor-jake-sullivans-meeting-with-uae-and-saudi-arabia-ambassadors-to-the-united-states/
 published_time: 2022-01-24 17:47:28-05:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with UAE\
-  \ and Saudi Arabia Ambassadors to the United States"
+  \ and Saudi Arabia Ambassadors to the United\_States"
 ---
  
 Today National Security Advisor Jake Sullivan met with both UAE

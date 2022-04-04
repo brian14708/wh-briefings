@@ -4,8 +4,8 @@ date: '2021-05-06'
 modified_time: 2021-05-05 22:16:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/06/white-house-releases-fact-sheets-to-highlight-nationwide-need-and-impact-of-the-american-families-plan/
 published_time: 2021-05-06 06:00:00-04:00
-title: White House Releases Fact Sheets to Highlight Nationwide Need and Impact of
-  the American Families Plan
+title: "White\_House Releases Fact Sheets to Highlight Nationwide Need and Impact\
+  \ of the American Families\_Plan"
 ---
  
 Today, the White House released fact sheets that highlight the need for

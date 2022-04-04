@@ -4,7 +4,7 @@ date: '2021-03-03'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/president-joseph-r-biden-jr-amends-la-jolla-band-of-luiseno-indians-disaster-declaration/
 published_time: 2021-03-03 20:05:25-05:00
 title: "President Joseph R. Biden, Jr. Amends La Jolla Band of Luise\xF1o Indians\
-  \ Disaster Declaration"
+  \ Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. made additional disaster

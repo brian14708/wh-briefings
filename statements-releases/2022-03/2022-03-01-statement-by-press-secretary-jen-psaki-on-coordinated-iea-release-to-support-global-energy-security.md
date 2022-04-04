@@ -4,8 +4,8 @@ date: '2022-03-01'
 modified_time: 2022-03-01 11:54:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/statement-by-press-secretary-jen-psaki-on-coordinated-iea-release-to-support-global-energy-security/
 published_time: 2022-03-01 11:47:07-05:00
-title: Statement by Press Secretary Jen Psaki on Coordinated IEA Release to Support
-  Global Energy Security
+title: "Statement by Press Secretary Jen\_Psaki on Coordinated IEA Release to Support\
+  \ Global Energy\_Security"
 ---
  
 Today’s announcement is another example of partners around the world

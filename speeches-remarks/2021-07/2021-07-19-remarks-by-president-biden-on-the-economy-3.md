@@ -4,7 +4,7 @@ date: '2021-07-19'
 modified_time: 2021-07-19 14:27:37-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/19/remarks-by-president-biden-on-the-economy-3/
 published_time: 2021-07-19 14:27:36-04:00
-title: Remarks by President Biden on the Economy
+title: "Remarks by President\_Biden on the\_Economy"
 ---
  
 11:43 A.M. EDT

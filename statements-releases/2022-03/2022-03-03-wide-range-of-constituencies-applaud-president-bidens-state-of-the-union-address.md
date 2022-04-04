@@ -4,8 +4,8 @@ date: '2022-03-03'
 modified_time: 2022-03-03 19:43:16-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/wide-range-of-constituencies-applaud-president-bidens-state-of-the-union-address/
 published_time: 2022-03-03 19:43:00-05:00
-title: "Wide Range of Constituencies Applaud President Biden\u2019s State of the Union\
-  \ Address"
+title: "Wide Range of Constituencies Applaud President\_Biden\u2019s State of the\
+  \ Union\_Address"
 ---
  
 In his first State of the Union, the President spoke directly to the

@@ -4,8 +4,8 @@ date: '2021-10-14'
 modified_time: 2021-10-14 21:17:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/readout-of-president-bidens-meeting-with-president-uhuru-kenyatta-of-kenya/
 published_time: 2021-10-14 21:17:31-04:00
-title: "Readout of President Biden\u2019s Meeting with President Uhuru Kenyatta of\
-  \ Kenya"
+title: "Readout of President\_Biden\u2019s Meeting with President Uhuru Kenyatta of\_\
+  Kenya"
 ---
  
 President Joseph R. Biden, Jr. met today with President Uhuru Kenyatta

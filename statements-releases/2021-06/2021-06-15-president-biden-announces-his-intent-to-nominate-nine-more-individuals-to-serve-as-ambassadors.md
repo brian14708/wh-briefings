@@ -4,8 +4,8 @@ date: '2021-06-15'
 modified_time: 2021-06-15 15:19:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/president-biden-announces-his-intent-to-nominate-nine-more-individuals-to-serve-as-ambassadors/
 published_time: 2021-06-15 15:30:00-04:00
-title: President Biden Announces His Intent to Nominate Nine More Individuals to Serve
-  as Ambassadors
+title: "President\_Biden Announces His Intent to Nominate Nine More Individuals to\
+  \ Serve as\_Ambassadors"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

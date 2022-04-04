@@ -5,7 +5,7 @@ modified_time: 2021-09-09 18:17:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-philippine-officials/
 published_time: 2021-09-09 18:06:08-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with Philippine Officials"
+  \ Sullivan\u2019s Meeting with Philippine\_Officials"
 ---
  
 National Security Advisor Jake Sullivan met today with Secretary of

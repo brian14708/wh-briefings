@@ -4,9 +4,9 @@ date: '2021-06-04'
 modified_time: 2021-06-04 17:02:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/04/statement-by-press-secretary-jen-psaki-on-the-presidents-calls-with-senator-shelley-moore-capito-and-house-transportation-and-infrastructure-chairman-peter-defazio/
 published_time: 2021-06-04 17:02:48-04:00
-title: "Statement by Press Secretary Jen Psaki on the President\u2019s Calls with\
+title: "Statement by Press Secretary Jen\_Psaki on the President\u2019s Calls with\
   \ Senator Shelley Moore Capito and House Transportation and Infrastructure Chairman\
-  \ Peter DeFazio"
+  \ Peter\_DeFazio"
 ---
  
 The President spoke to Senator Shelley Moore Capito and Chairman Peter

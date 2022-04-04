@@ -4,8 +4,8 @@ date: '2021-12-27'
 modified_time: 2021-12-27 15:11:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-the-president-on-s-1605-the-national-defense-authorization-act-for-fiscal-year-2022/
 published_time: 2021-12-27 15:11:01-05:00
-title: Statement by the President on S. 1605, the National Defense Authorization Act
-  for Fiscal Year 2022
+title: "Statement by the President on S. 1605, the National Defense Authorization\
+  \ Act for Fiscal Year\_2022"
 ---
  
 Today, I have signed into law S. 1605, the “National Defense

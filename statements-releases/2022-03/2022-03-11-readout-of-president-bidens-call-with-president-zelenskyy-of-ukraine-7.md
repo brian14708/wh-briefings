@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-11'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-7/
 published_time: 2022-03-11 11:40:44-05:00
-title: "Readout of President Biden\u2019s Call with President Zelenskyy of Ukraine"
+title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---
  
 President Joseph R. Biden, Jr. spoke with President Volodymyr Zelenskyy

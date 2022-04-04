@@ -4,8 +4,8 @@ date: '2021-04-20'
 modified_time: 2021-04-20 07:41:31-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/vice-president-kamala-harris-statement-on-the-passing-of-vice-president-walter-mondale/
 published_time: 2021-04-20 07:41:30-04:00
-title: Vice President Kamala Harris Statement on the Passing of Vice President Walter
-  Mondale
+title: "Vice President Kamala\_Harris Statement on the Passing of Vice President Walter\_\
+  Mondale"
 ---
  
 Vice President Walter Mondale led an extraordinary life of service. He

@@ -4,7 +4,7 @@ date: '2021-11-12'
 modified_time: 2021-11-12 12:39:20-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/a-proclamation-on-america-recycles-day-2021/
 published_time: 2021-11-12 12:39:19-05:00
-title: A Proclamation on America Recycles Day, 2021
+title: "A Proclamation on America Recycles Day,\_2021"
 ---
  
 In recent months, I have traveled across the country to see firsthand

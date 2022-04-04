@@ -4,7 +4,7 @@ date: '2022-03-28'
 modified_time: 2022-03-28 11:12:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2022/03/28/taking-on-gun-crime-and-violence-with-a-whole-of-government-approach/
 published_time: 2022-03-28 11:12:51-04:00
-title: Taking on Gun Crime and Violence with a Whole-of-Government Approach
+title: "Taking on Gun Crime and Violence with a Whole-of-Government\_Approach"
 ---
  
 In his State of the Union

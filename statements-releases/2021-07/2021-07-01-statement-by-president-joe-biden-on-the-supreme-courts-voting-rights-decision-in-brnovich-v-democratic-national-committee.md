@@ -4,8 +4,8 @@ date: '2021-07-01'
 modified_time: 2021-07-01 12:13:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-president-joe-biden-on-the-supreme-courts-voting-rights-decision-in-brnovich-v-democratic-national-committee/
 published_time: 2021-07-01 12:13:21-04:00
-title: "Statement by President Joe Biden on the Supreme Court\u2019s Voting Rights\
-  \ Decision in Brnovich v. Democratic National Committee"
+title: "Statement by President Joe\_Biden on the Supreme Court\u2019s Voting Rights\
+  \ Decision in Brnovich v. Democratic National\_Committee"
 ---
  
 I am deeply disappointed in today’s decision by the United States

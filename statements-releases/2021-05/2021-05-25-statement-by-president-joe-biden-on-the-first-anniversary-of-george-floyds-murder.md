@@ -4,8 +4,8 @@ date: '2021-05-25'
 modified_time: 2021-05-25 15:54:48-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/statement-by-president-joe-biden-on-the-first-anniversary-of-george-floyds-murder/
 published_time: 2021-05-25 15:30:00-04:00
-title: "Statement by President Joe Biden on the First Anniversary of George Floyd\u2019\
-  s Murder"
+title: "Statement by President Joe\_Biden on the First Anniversary of George Floyd\u2019\
+  s\_Murder"
 ---
  
 Today, in the Oval Office, I met with George Floyd’s family.

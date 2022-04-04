@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-23'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/president-joseph-r-biden-jr-approves-iowa-disaster-declaration/
 published_time: 2022-02-23 11:58:05-05:00
-title: President Joseph R. Biden, Jr. Approves Iowa Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Iowa Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

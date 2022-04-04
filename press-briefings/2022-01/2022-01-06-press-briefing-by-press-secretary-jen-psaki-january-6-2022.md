@@ -4,7 +4,7 @@ date: '2022-01-06'
 modified_time: 2022-01-06 17:35:44-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/06/press-briefing-by-press-secretary-jen-psaki-january-6-2022/
 published_time: 2022-01-06 18:00:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki, January 6, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki, January 6,\_2022"
 ---
  
 James S. Brady Press Briefing Room

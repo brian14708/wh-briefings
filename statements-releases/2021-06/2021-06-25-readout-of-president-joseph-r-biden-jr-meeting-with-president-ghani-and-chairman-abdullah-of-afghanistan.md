@@ -4,8 +4,8 @@ date: '2021-06-25'
 modified_time: 2021-06-25 23:13:14-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/readout-of-president-joseph-r-biden-jr-meeting-with-president-ghani-and-chairman-abdullah-of-afghanistan/
 published_time: 2021-06-25 23:13:13-04:00
-title: Readout of President Joseph R. Biden, Jr. Meeting with President Ghani and
-  Chairman Abdullah of Afghanistan
+title: "Readout of President Joseph R. Biden, Jr. Meeting with President Ghani and\
+  \ Chairman Abdullah of\_Afghanistan"
 ---
  
 President Biden met with President Ashraf Ghani and High Council for

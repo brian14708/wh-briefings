@@ -4,7 +4,7 @@ date: '2022-03-05'
 modified_time: 2022-03-05 19:58:49-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/05/readout-of-president-biden-meeting-with-national-union-labor-leaders/
 published_time: 2022-03-05 19:58:48-05:00
-title: Readout of President Biden meeting with National Union Labor Leaders
+title: "Readout of President\_Biden meeting with National Union Labor\_Leaders"
 ---
  
 Today, President Biden and Labor Secretary Marty Walsh met with 39

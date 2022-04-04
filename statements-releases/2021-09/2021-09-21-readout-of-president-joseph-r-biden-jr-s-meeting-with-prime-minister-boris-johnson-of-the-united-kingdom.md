@@ -5,7 +5,7 @@ modified_time: 2021-09-21 19:53:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/21/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-boris-johnson-of-the-united-kingdom/
 published_time: 2021-09-21 19:53:45-04:00
 title: "Readout of President Joseph R. Biden Jr.\u2019s Meeting with Prime Minister\
-  \ Boris Johnson of the United Kingdom"
+  \ Boris Johnson of the United\_Kingdom"
 ---
  
 President Biden met today with Prime Minister Boris Johnson of the

@@ -5,8 +5,8 @@ modified_time: 2021-06-03 14:42:35-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-calls-with-foreign-leaders-on-the-global-allocation-plan-for-the-first-25-million-doses-of-c/
 published_time: 2021-06-03 14:42:34-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
-  \ President Kamala Harris\u2019s Calls with Foreign Leaders on the Global Allocation\
-  \ Plan for the First 25 Million Doses of COVID- \u2060 19 Vaccines"
+  \ President Kamala\_Harris\u2019s Calls with Foreign Leaders on the Global Allocation\
+  \ Plan for the First 25 Million Doses of COVID-\u206019\_Vaccines"
 ---
  
 Vice President Kamala D. Harris spoke this morning to President Andres

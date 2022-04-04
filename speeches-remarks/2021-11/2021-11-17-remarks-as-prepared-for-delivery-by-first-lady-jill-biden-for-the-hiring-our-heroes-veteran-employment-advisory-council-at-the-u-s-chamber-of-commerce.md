@@ -4,8 +4,8 @@ date: '2021-11-17'
 modified_time: 2022-01-25 16:14:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-for-the-hiring-our-heroes-veteran-employment-advisory-council-at-the-u-s-chamber-of-commerce/
 published_time: 2021-11-17 11:12:00-05:00
-title: Remarks as Prepared for Delivery by First Lady Jill Biden for the Hiring Our
-  Heroes Veteran Employment Advisory Council at the U.S. Chamber of Commerce
+title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden for the Hiring\
+  \ Our Heroes Veteran Employment Advisory Council at the U.S. Chamber of\_Commerce"
 ---
  
 *Washington, D.C.*

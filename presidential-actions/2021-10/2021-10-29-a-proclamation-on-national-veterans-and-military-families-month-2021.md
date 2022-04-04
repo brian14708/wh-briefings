@@ -4,7 +4,7 @@ date: '2021-10-29'
 modified_time: 2021-10-29 14:15:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-veterans-and-military-families-month-2021/
 published_time: 2021-10-29 14:15:55-04:00
-title: A Proclamation on National Veterans and Military Families Month, 2021
+title: "A Proclamation on National Veterans and Military Families Month,\_2021"
 ---
  
 America has the greatest Armed Forces in the history of the world.  To

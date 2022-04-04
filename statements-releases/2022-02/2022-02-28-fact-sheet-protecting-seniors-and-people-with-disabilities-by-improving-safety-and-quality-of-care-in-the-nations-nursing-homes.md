@@ -5,7 +5,7 @@ modified_time: 2022-03-14 07:32:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-protecting-seniors-and-people-with-disabilities-by-improving-safety-and-quality-of-care-in-the-nations-nursing-homes/
 published_time: 2022-02-28 15:00:00-05:00
 title: "FACT SHEET:  Protecting Seniors by Improving Safety and Quality of Care in\
-  \ the Nation\u2019s Nursing Homes"
+  \ the Nation\u2019s Nursing\_Homes"
 ---
  
 All people deserve to be treated with dignity and respect and to have

@@ -4,8 +4,8 @@ date: '2022-03-10'
 modified_time: 2022-03-10 22:35:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/statement-by-white-house-press-secretary-jen-psaki-on-senate-passage-of-the-bipartisan-funding-bill/
 published_time: 2022-03-10 22:35:08-05:00
-title: Statement by White House Press Secretary Jen Psaki on Senate Passage of the
-  Bipartisan Funding Bill
+title: "Statement by White\_House Press Secretary Jen\_Psaki on Senate Passage of\
+  \ the Bipartisan Funding\_Bill"
 ---
  
 The bipartisan funding bill proves once more that members of both

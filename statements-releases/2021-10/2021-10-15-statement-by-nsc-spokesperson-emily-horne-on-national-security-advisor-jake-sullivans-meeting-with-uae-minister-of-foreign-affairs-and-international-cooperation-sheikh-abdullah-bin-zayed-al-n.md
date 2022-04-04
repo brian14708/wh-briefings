@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/
 published_time: 2021-10-15 19:52:27-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with UAE Minister of Foreign Affairs and International\
-  \ Cooperation Sheikh Abdullah bin Zayed Al Nahyan"
+  \ Cooperation Sheikh Abdullah bin Zayed Al\_Nahyan"
 ---
  
 National Security Advisor Jake Sullivan met today in Washington with UAE

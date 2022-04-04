@@ -4,7 +4,7 @@ date: '2021-02-10'
 modified_time: 2021-02-11 10:06:00-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/10/remarks-by-president-biden-to-department-of-defense-personnel/
 published_time: 2021-02-10 17:07:37-05:00
-title: Remarks by President Biden to Department of Defense Personnel
+title: "Remarks by President\_Biden to Department of Defense\_Personnel"
 ---
  
 The Pentagon  

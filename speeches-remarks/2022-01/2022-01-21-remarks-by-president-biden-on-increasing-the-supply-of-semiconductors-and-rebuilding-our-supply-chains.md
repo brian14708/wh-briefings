@@ -4,8 +4,8 @@ date: '2022-01-21'
 modified_time: 2022-01-21 14:06:12-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/21/remarks-by-president-biden-on-increasing-the-supply-of-semiconductors-and-rebuilding-our-supply-chains/
 published_time: 2022-01-21 14:15:00-05:00
-title: Remarks by President Biden On Increasing the Supply of Semiconductors And Rebuilding
-  Our Supply Chains
+title: "Remarks by President\_Biden On Increasing the Supply of Semiconductors And\
+  \ Rebuilding Our Supply\_Chains"
 ---
  
 South Court Auditorium  

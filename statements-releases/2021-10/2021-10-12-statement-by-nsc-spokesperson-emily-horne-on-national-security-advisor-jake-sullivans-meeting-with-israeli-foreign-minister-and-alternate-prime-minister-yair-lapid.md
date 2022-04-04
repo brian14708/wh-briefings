@@ -5,7 +5,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/
 published_time: 2021-10-12 16:27:12-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Israeli Foreign Minister and Alternate Prime Minister\
-  \ Yair Lapid"
+  \ Yair\_Lapid"
 ---
  
 National Security Advisor Jake Sullivan met today in Washington with

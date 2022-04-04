@@ -4,7 +4,7 @@ date: '2021-07-22'
 modified_time: 2021-07-22 08:33:16-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/22/remarks-by-president-biden-in-a-cnn-town-hall-with-don-lemon/
 published_time: 2021-07-22 08:33:15-04:00
-title: Remarks by President Biden in a CNN Town Hall with Don Lemon
+title: "Remarks by President\_Biden in a CNN Town Hall with Don\_Lemon"
 ---
  
 Mount St. Joseph University  

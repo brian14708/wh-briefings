@@ -4,8 +4,8 @@ date: '2021-03-17'
 modified_time: 2021-03-17 15:49:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/president-biden-announces-his-intent-to-nominate-jose-w-fernandez-as-under-secretary-of-state-economic-growth-energy-and-the-environment/
 published_time: 2021-03-17 15:49:24-04:00
-title: President Biden Announces his Intent to Nominate Jose W. Fernandez as Under
-  Secretary of State (Economic Growth, Energy and the Environment)
+title: "President\_Biden Announces his Intent to Nominate Jose W. Fernandez as Under\
+  \ Secretary of State (Economic Growth, Energy and the\_Environment)"
 ---
  
 Today, President Joe Biden announced his intent to nominate Jose W.

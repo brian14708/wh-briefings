@@ -4,8 +4,8 @@ date: '2022-03-08'
 modified_time: 2022-03-08 16:20:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/president-biden-announces-presidential-delegation-to-the-republic-of-chile-to-attend-the-inauguration-of-his-excellency-gabriel-boric-font/
 published_time: 2022-03-08 16:30:00-05:00
-title: President Biden Announces Presidential Delegation to the Republic of Chile
-  to Attend the Inauguration of His Excellency Gabriel Boric Font
+title: "President\_Biden Announces Presidential Delegation to the Republic of Chile\
+  \ to Attend the Inauguration of His Excellency Gabriel Boric\_Font"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

@@ -4,8 +4,8 @@ date: '2021-12-13'
 modified_time: 2021-12-13 14:19:21-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/
 published_time: 2021-12-13 14:19:20-05:00
-title: Executive Order on Transforming Federal Customer Experience and Service Delivery
-  to Rebuild Trust in Government
+title: "Executive Order on Transforming Federal Customer Experience and Service Delivery\
+  \ to Rebuild Trust in\_Government"
 ---
  
 By the authority vested in me as President by the Constitution and the

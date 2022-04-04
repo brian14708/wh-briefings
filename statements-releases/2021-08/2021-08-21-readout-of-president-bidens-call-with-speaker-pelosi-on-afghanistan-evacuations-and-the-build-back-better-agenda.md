@@ -4,8 +4,8 @@ date: '2021-08-21'
 modified_time: 2021-08-21 20:24:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/readout-of-president-bidens-call-with-speaker-pelosi-on-afghanistan-evacuations-and-the-build-back-better-agenda/
 published_time: 2021-08-21 20:24:22-04:00
-title: "Readout of President Biden\u2019s Call with Speaker Pelosi on Afghanistan\
-  \ Evacuations and the Build Back Better Agenda"
+title: "Readout of President\_Biden\u2019s Call with Speaker Pelosi on Afghanistan\
+  \ Evacuations and the Build Back Better\_Agenda"
 ---
  
 This afternoon, the President and Speaker Pelosi spoke by phone about

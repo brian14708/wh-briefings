@@ -4,8 +4,8 @@ date: '2021-07-29'
 modified_time: 2021-07-29 19:30:38-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/29/remarks-by-president-biden-laying-out-the-next-steps-in-our-effort-to-get-more-americans-vaccinated-and-combat-the-spread-of-the-delta-variant/
 published_time: 2021-07-29 19:45:00-04:00
-title: Remarks by President Biden Laying Out the Next Steps in Our Effort to Get More
-  Americans Vaccinated and Combat the Spread of the Delta Variant
+title: "Remarks by President\_Biden Laying Out the Next Steps in Our Effort to Get\
+  \ More Americans Vaccinated and Combat the Spread of the Delta\_Variant"
 ---
  
 East Room

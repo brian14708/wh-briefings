@@ -4,8 +4,8 @@ date: '2021-10-05'
 modified_time: 2021-10-05 15:05:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/05/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-leading-a-meeting-of-the-u-s-israel-strategic-consultative-group/
 published_time: 2021-10-05 15:05:11-04:00
-title: Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake
-  Sullivan Leading a Meeting of the U.S.-Israel Strategic Consultative Group
+title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
+  \ Sullivan Leading a Meeting of the U.S.-Israel Strategic Consultative\_Group"
 ---
  
 National Security Advisor Jake Sullivan hosted Israeli National Security

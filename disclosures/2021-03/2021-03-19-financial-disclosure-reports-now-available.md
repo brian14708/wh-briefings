@@ -4,7 +4,7 @@ date: '2021-03-19'
 modified_time: 2021-05-17 15:45:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/03/19/financial-disclosure-reports-now-available/
 published_time: 2021-03-19 10:00:00-04:00
-title: Financial Disclosure Reports Now Available
+title: "Financial Disclosure Reports Now\_Available"
 ---
  
 OGE 278 Executive Branch Personnel Public Financial Disclosure reports

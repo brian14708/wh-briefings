@@ -4,7 +4,7 @@ date: '2021-08-02'
 modified_time: 2021-08-09 17:08:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/updated-fact-sheet-bipartisan-infrastructure-investment-and-jobs-act/
 published_time: 2021-08-02 22:05:48-04:00
-title: 'UPDATED FACT SHEET: Bipartisan Infrastructure Investment and Jobs Act'
+title: "UPDATED FACT SHEET: Bipartisan Infrastructure Investment and Jobs\_Act"
 ---
  
 On July 28, the President and the bipartisan group announced agreement

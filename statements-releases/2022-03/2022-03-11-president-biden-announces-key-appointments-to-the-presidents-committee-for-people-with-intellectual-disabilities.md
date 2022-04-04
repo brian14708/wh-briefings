@@ -4,8 +4,8 @@ date: '2022-03-11'
 modified_time: 2022-03-11 16:47:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/president-biden-announces-key-appointments-to-the-presidents-committee-for-people-with-intellectual-disabilities/
 published_time: 2022-03-11 16:00:00-05:00
-title: "President Biden Announces Key Appointments to the President\u2019s Committee\
-  \ for People with Intellectual Disabilities"
+title: "President\_Biden Announces Key Appointments to the President\u2019s Committee\
+  \ for People with Intellectual\_Disabilities"
 ---
  
 WASHINGTON – Today, President Biden announces his intent to appoint the

@@ -4,9 +4,9 @@ date: '2021-10-07'
 modified_time: 2021-10-07 16:26:50-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
 published_time: 2021-10-07 16:26:49-04:00
-title: Letter to the Speaker of the House of Representatives and the President of
-  the Senate on the Continuation of the National Emergency with Respect to the Situation
-  in and in Relation to Syria
+title: "Letter to the Speaker of the House of Representatives and the President of\
+  \ the Senate on the Continuation of the National Emergency with Respect to the Situation\
+  \ in and in Relation to\_Syria"
 ---
  
 Dear Madam Speaker: (Dear Madam President:)  

@@ -4,7 +4,7 @@ date: '2021-09-13'
 modified_time: 2021-09-13 11:29:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/statement-by-press-secretary-jen-psaki-on-the-quad-leaders-summit/
 published_time: 2021-09-13 15:00:00-04:00
-title: Statement by Press Secretary Jen Psaki on the Quad Leaders Summit
+title: "Statement by Press Secretary Jen\_Psaki on the Quad Leaders\_Summit"
 ---
  
 President Joseph R. Biden, Jr. will host the first-ever Quad Leaders

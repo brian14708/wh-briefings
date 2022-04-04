@@ -4,7 +4,7 @@ date: '2021-11-30'
 modified_time: 2021-11-30 13:48:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/30/remarks-by-president-biden-at-signing-of-veterans-bills/
 published_time: 2021-11-30 13:48:55-05:00
-title: Remarks by President Biden at Signing of Veterans Bills
+title: "Remarks by President\_Biden at Signing of Veterans\_Bills"
 ---
  
 South Court Auditorium

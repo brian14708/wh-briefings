@@ -4,9 +4,9 @@ date: '2021-01-27'
 modified_time: 2021-01-27 09:15:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/
 published_time: 2021-01-27 09:05:00-05:00
-title: 'FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate
-  Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across
-  Federal Government'
+title: "FACT SHEET: President\_Biden Takes Executive Actions to Tackle the Climate\
+  \ Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across\
+  \ Federal\_Government"
 ---
  
 *Biden-Harris Administration Commits on Climate Change – Creating Jobs,

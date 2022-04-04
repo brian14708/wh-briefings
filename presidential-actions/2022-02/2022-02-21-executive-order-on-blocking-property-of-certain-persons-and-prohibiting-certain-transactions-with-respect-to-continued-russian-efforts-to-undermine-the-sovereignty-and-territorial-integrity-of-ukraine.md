@@ -3,9 +3,9 @@ category: presidential-actions
 date: '2022-02-21'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/21/executive-order-on-blocking-property-of-certain-persons-and-prohibiting-certain-transactions-with-respect-to-continued-russian-efforts-to-undermine-the-sovereignty-and-territorial-integrity-of-ukraine/
 published_time: 2022-02-21 17:53:29-05:00
-title: Executive Order on Blocking Property of Certain Persons and Prohibiting Certain
-  Transactions With Respect to Continued Russian Efforts to Undermine the Sovereignty
-  and Territorial Integrity of Ukraine
+title: "Executive Order on Blocking Property of Certain Persons and Prohibiting Certain\
+  \ Transactions With Respect to Continued Russian Efforts to Undermine the Sovereignty\
+  \ and Territorial Integrity of\_Ukraine"
 ---
  
 By the authority vested in me as President by the Constitution and the

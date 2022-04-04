@@ -5,7 +5,7 @@ modified_time: 2021-10-19 22:26:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/20/fact-sheet-biden-administration-announces-update-on-operational-planning-for-covid-19-vaccinations-for-kids-ages-5-11/
 published_time: 2021-10-20 08:30:00-04:00
 title: "FACT SHEET: Biden Administration Announces Update on Operational Planning\
-  \ for COVID- \u2060 19 Vaccinations for Kids Ages 5-11"
+  \ for COVID-\u206019 Vaccinations for Kids Ages\_5-11"
 ---
  
 *Administration to Make Vaccination Convenient, Easily Accessible, and

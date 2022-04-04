@@ -4,8 +4,8 @@ date: '2021-11-08'
 modified_time: 2021-11-08 17:50:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/08/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-and-secretary-of-transportation-pete-buttigieg/
 published_time: 2021-11-08 18:15:00-05:00
-title: Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre and Secretary
-  of Transportation Pete Buttigieg
+title: "Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre and\
+  \ Secretary of Transportation Pete\_Buttigieg"
 ---
  
 James S. Brady Press Briefing Room

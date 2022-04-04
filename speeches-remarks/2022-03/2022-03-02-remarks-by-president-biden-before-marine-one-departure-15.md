@@ -4,7 +4,7 @@ date: '2022-03-02'
 modified_time: 2022-03-02 12:22:14-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-president-biden-before-marine-one-departure-15/
 published_time: 2022-03-02 12:40:00-05:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 10:23 A.M. EDT   

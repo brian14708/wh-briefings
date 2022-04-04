@@ -4,7 +4,7 @@ date: '2021-08-14'
 modified_time: 2021-08-14 15:50:49-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joe-biden-on-haiti/
 published_time: 2021-08-14 16:15:00-04:00
-title: Statement by President Joe Biden on Haiti
+title: "Statement by President Joe\_Biden on\_Haiti"
 ---
  
 In what is already a challenging time for the people of Haiti, I am

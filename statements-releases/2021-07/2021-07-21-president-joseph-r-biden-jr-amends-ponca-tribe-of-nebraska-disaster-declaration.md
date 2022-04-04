@@ -4,7 +4,7 @@ date: '2021-07-21'
 modified_time: 2021-07-21 16:28:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/president-joseph-r-biden-jr-amends-ponca-tribe-of-nebraska-disaster-declaration/
 published_time: 2021-07-21 16:28:44-04:00
-title: President Joseph R. Biden, Jr. Amends Ponca Tribe of Nebraska Disaster Declaration
+title: "President Joseph R. Biden, Jr. Amends Ponca Tribe of Nebraska Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. made additional disaster

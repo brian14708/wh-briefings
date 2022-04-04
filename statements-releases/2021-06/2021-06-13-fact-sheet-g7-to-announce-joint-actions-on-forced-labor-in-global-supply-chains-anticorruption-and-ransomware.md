@@ -4,8 +4,8 @@ date: '2021-06-13'
 modified_time: 2021-06-13 08:22:28-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/fact-sheet-g7-to-announce-joint-actions-on-forced-labor-in-global-supply-chains-anticorruption-and-ransomware/
 published_time: 2021-06-13 08:22:27-04:00
-title: 'FACT SHEET: G7 to Announce Joint Actions on Forced Labor in Global Supply
-  Chains, Anticorruption, and Ransomware'
+title: "FACT SHEET: G7 to Announce Joint Actions on Forced Labor in Global Supply\
+  \ Chains, Anticorruption, and\_Ransomware"
 ---
  
 *The United States is rallying the world’s democracies to deliver for

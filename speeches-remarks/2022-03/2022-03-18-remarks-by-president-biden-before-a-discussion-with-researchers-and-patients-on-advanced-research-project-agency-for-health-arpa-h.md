@@ -4,8 +4,8 @@ date: '2022-03-18'
 modified_time: 2022-03-18 16:20:44-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/18/remarks-by-president-biden-before-a-discussion-with-researchers-and-patients-on-advanced-research-project-agency-for-health-arpa-h/
 published_time: 2022-03-18 16:20:43-04:00
-title: Remarks by President Biden Before a Discussion with Researchers and Patients
-  on Advanced Research Project Agency for Health (ARPA-H)
+title: "Remarks by President\_Biden Before a Discussion with Researchers and Patients\
+  \ on Advanced Research Project Agency for Health\_(ARPA-H)"
 ---
  
 South Court Auditorium

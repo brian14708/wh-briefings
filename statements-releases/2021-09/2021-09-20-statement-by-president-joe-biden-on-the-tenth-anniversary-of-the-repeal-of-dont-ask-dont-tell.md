@@ -4,8 +4,8 @@ date: '2021-09-20'
 modified_time: 2021-09-18 15:55:55-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/statement-by-president-joe-biden-on-the-tenth-anniversary-of-the-repeal-of-dont-ask-dont-tell/
 published_time: 2021-09-20 08:00:00-04:00
-title: "Statement by President Joe Biden on the Tenth Anniversary of the Repeal of\
-  \ Don\u2019t Ask, Don\u2019t Tell"
+title: "Statement by President Joe\_Biden on the Tenth Anniversary of the Repeal of\
+  \ Don\u2019t Ask, Don\u2019t\_Tell"
 ---
  
 Ten years ago today, a great injustice was remedied and a tremendous

@@ -4,7 +4,7 @@ date: '2021-11-19'
 modified_time: 2021-12-20 11:04:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/19/remarks-by-vice-president-harris-on-the-bipartisan-infrastructure-deal/
 published_time: 2021-11-19 15:41:00-05:00
-title: Remarks By Vice President Harris On The Bipartisan Infrastructure Deal
+title: "Remarks By Vice President Harris On The Bipartisan Infrastructure\_Deal"
 ---
  
 *Plumbers and Pipefitters Local 189  

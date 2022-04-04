@@ -4,7 +4,8 @@ date: '2021-09-13'
 modified_time: 2021-09-13 18:18:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/president-biden-announces-representatives-for-the-united-nations-general-assembly/
 published_time: 2021-09-13 18:18:19-04:00
-title: President Biden Announces Representatives for the United Nations General Assembly
+title: "President\_Biden Announces Representatives for the United Nations General\_\
+  Assembly"
 ---
  
 WASHINGTON – Today, President Joe Biden announced the United States

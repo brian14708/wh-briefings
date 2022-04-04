@@ -4,8 +4,8 @@ date: '2021-01-25'
 modified_time: 2021-01-24 23:58:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/president-biden-to-sign-executive-order-strengthening-buy-american-provisions-ensuring-future-of-america-is-made-in-america-by-all-of-americas-workers/
 published_time: 2021-01-25 05:00:00-05:00
-title: "President Biden to Sign Executive Order Strengthening Buy American Provisions,\
-  \ Ensuring Future of America is Made in America by All of America\u2019s Workers"
+title: "President\_Biden to Sign Executive Order Strengthening Buy American Provisions,\
+  \ Ensuring Future of America is Made in America by All of America\u2019s\_Workers"
 ---
  
 *Biden-Harris Administration Commits to Investing in American Workers

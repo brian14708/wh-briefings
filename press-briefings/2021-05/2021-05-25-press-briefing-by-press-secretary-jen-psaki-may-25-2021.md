@@ -4,7 +4,7 @@ date: '2021-05-25'
 modified_time: 2021-05-25 16:55:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/25/press-briefing-by-press-secretary-jen-psaki-may-25-2021/
 published_time: 2021-05-25 17:00:00-04:00
-title: "Press Briefing by Press Secretary Jen Psaki, May 25,\_2021"
+title: "Press Briefing by Press Secretary Jen\_Psaki, May\_25,\_2021"
 ---
  
 James S. Brady Press Briefing Room

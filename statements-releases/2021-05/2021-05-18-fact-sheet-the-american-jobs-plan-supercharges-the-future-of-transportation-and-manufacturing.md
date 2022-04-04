@@ -4,8 +4,8 @@ date: '2021-05-18'
 modified_time: 2021-05-17 21:20:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-supercharges-the-future-of-transportation-and-manufacturing/
 published_time: 2021-05-18 05:30:00-04:00
-title: 'FACT SHEET: The American Jobs Plan Supercharges the Future of Transportation
-  and Manufacturing'
+title: "FACT SHEET: The American Jobs Plan Supercharges the Future of Transportation\
+  \ and\_Manufacturing"
 ---
  
 Increasingly, the global market is shifting to electric vehicles (EVs) –

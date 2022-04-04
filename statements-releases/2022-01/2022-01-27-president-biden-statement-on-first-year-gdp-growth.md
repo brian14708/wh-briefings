@@ -4,7 +4,7 @@ date: '2022-01-27'
 modified_time: 2022-01-27 09:32:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/president-biden-statement-on-first-year-gdp-growth/
 published_time: 2022-01-27 09:30:00-05:00
-title: President Biden Statement on First Year GDP Growth
+title: "President\_Biden Statement on First Year GDP\_Growth"
 ---
  
 The GDP numbers for my first year show that we are finally building an

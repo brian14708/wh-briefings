@@ -4,8 +4,8 @@ date: '2022-02-15'
 modified_time: 2022-02-15 11:24:47-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/
 published_time: 2022-02-15 05:00:00-05:00
-title: "Fact Sheet: Biden- \u2060 Harris Administration Advances Cleaner Industrial\
-  \ Sector to Reduce Emissions and Reinvigorate American Manufacturing"
+title: "Fact Sheet: Biden-\u2060Harris Administration Advances Cleaner Industrial\
+  \ Sector to Reduce Emissions and Reinvigorate American\_Manufacturing"
 ---
  
 *New Pro-Climate, Pro-Worker Actions Create Jobs and Harness the

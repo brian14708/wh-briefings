@@ -4,7 +4,7 @@ date: '2022-01-20'
 modified_time: 2022-01-20 15:38:02-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/press-release-nominations-sent-to-the-senate/
 published_time: 2022-01-20 15:38:01-05:00
-title: 'Press Release: Nominations Sent to the Senate'
+title: "Press Release: Nominations Sent to the\_Senate"
 ---
  
      Elizabeth Frawley Bagley, of Florida, to be Ambassador

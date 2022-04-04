@@ -4,7 +4,7 @@ date: '2022-03-15'
 modified_time: 2022-03-15 11:38:13-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/the-white-house-announces-2022-public-tours/
 published_time: 2022-03-15 11:45:00-04:00
-title: The White House Announces 2022 Public Tours
+title: "The White\_House Announces 2022 Public\_Tours"
 ---
  
 Today, the Biden-Harris Administration is pleased to announce public

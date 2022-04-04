@@ -3,7 +3,7 @@ category: blog
 date: '2021-12-17'
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/12/17/6-ways-to-welcome-our-afghan-allies/
 published_time: 2021-12-17 10:20:59-05:00
-title: 6 Ways to Welcome Our Afghan Allies
+title: "6 Ways to Welcome Our Afghan\_Allies"
 ---
  
 *By Jack Markell & Nazanin Ash*

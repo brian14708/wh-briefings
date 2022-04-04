@@ -4,7 +4,7 @@ date: '2021-09-20'
 modified_time: 2021-09-20 20:06:56-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/20/press-briefing-by-press-secretary-jen-psaki-september-20-2021/
 published_time: 2021-09-20 20:06:55-04:00
-title: Press Briefing by Press Secretary Jen Psaki, September 20, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, September 20,\_2021"
 ---
  
 James S. Brady Press Briefing Room

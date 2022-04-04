@@ -4,8 +4,8 @@ date: '2021-06-02'
 modified_time: 2021-06-04 17:10:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/02/fact-sheet-president-biden-to-announce-national-month-of-action-to-mobilize-an-all-of-america-sprint-to-get-more-people-vaccinated-by-july-4th/
 published_time: 2021-06-02 11:45:00-04:00
-title: 'FACT SHEET: President Biden to Announce National Month of Action to Mobilize
-  an All-of-America Sprint to Get More People Vaccinated by July 4th'
+title: "FACT SHEET: President\_Biden to Announce National Month of Action to Mobilize\
+  \ an All-of-America Sprint to Get More People Vaccinated by July\_4th"
 ---
  
 *National Month of Action will mobilize national organizations, local

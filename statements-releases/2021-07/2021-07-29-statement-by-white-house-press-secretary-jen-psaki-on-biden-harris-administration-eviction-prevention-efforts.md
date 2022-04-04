@@ -4,8 +4,8 @@ date: '2021-07-29'
 modified_time: 2021-07-29 10:27:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/statement-by-white-house-press-secretary-jen-psaki-on-biden-harris-administration-eviction-prevention-efforts/
 published_time: 2021-07-29 10:30:00-04:00
-title: "Statement by White House Press Secretary Jen Psaki on Biden- \u2060 Harris\
-  \ Administration Eviction Prevention Efforts"
+title: "Statement by White\_House Press Secretary Jen\_Psaki on Biden-\u2060Harris\
+  \ Administration Eviction Prevention\_Efforts"
 ---
  
 For nearly 11 months, the CDC’s eviction moratorium has served as a

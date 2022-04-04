@@ -4,7 +4,7 @@ date: '2021-12-03'
 modified_time: 2021-12-03 10:07:00-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/03/a-proclamation-on-national-pearl-harbor-remembrance-day-2021/
 published_time: 2021-12-03 10:06:59-05:00
-title: A Proclamation on National Pearl Harbor Remembrance Day, 2021
+title: "A Proclamation on National Pearl Harbor Remembrance Day,\_2021"
 ---
  
 On December 7, 1941, the Imperial Japanese Navy attacked our forces at

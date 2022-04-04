@@ -4,7 +4,7 @@ date: '2021-09-03'
 modified_time: 2021-09-03 09:07:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-labor-day-2021/
 published_time: 2021-09-03 09:07:52-04:00
-title: A Proclamation on Labor Day, 2021
+title: "A Proclamation on Labor Day,\_2021"
 ---
  
 My father taught me from a young age that a job is about much more than

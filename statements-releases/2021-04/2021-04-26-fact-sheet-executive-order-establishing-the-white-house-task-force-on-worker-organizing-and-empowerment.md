@@ -4,8 +4,8 @@ date: '2021-04-26'
 modified_time: 2021-04-26 12:02:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/
 published_time: 2021-04-26 12:02:21-04:00
-title: 'FACT SHEET:  Executive Order Establishing the White House Task Force on Worker
-  Organizing and Empowerment'
+title: "FACT SHEET:  Executive Order Establishing the White\_House Task Force on Worker\
+  \ Organizing and\_Empowerment"
 ---
  
 Today, President Biden will sign an Executive Order establishing the

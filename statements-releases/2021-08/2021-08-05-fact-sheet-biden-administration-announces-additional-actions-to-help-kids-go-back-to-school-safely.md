@@ -4,8 +4,8 @@ date: '2021-08-05'
 modified_time: 2021-08-05 11:53:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-biden-administration-announces-additional-actions-to-help-kids-go-back-to-school-safely/
 published_time: 2021-08-05 11:53:53-04:00
-title: 'Fact Sheet: Biden Administration Announces Additional Actions to Help Kids
-  Go Back to School Safely'
+title: "Fact Sheet: Biden Administration Announces Additional Actions to Help Kids\
+  \ Go Back to School\_Safely"
 ---
  
 Over the next six weeks, more than 50 million students will head back to

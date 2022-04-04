@@ -4,8 +4,8 @@ date: '2022-01-02'
 modified_time: 2022-01-02 16:57:46-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/02/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine/
 published_time: 2022-01-02 16:57:45-05:00
-title: "Statement by Press Secretary Jen Psaki on President Biden\u2019s Call with\
-  \ President Volodymyr Zelenskyy of Ukraine"
+title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Call with\
+  \ President Volodymyr Zelenskyy of\_Ukraine"
 ---
  
 President Joseph R. Biden, Jr. spoke today with President Volodymyr

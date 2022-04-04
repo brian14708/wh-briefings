@@ -4,8 +4,8 @@ date: '2022-03-10'
 modified_time: 2022-03-10 12:55:01-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/readout-of-president-bidens-call-with-president-recep-tayyip-erdogan-of-turkey/
 published_time: 2022-03-10 12:55:00-05:00
-title: "Readout of President Biden\u2019s Call with President Recep Tayyip Erdogan\
-  \ of Turkey"
+title: "Readout of President\_Biden\u2019s Call with President Recep Tayyip Erdogan\
+  \ of\_Turkey"
 ---
  
 President Biden held a telephone call today with President Recep Tayyip

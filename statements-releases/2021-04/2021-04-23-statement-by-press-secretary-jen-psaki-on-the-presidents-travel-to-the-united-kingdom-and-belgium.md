@@ -4,8 +4,8 @@ date: '2021-04-23'
 modified_time: 2021-04-23 10:30:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-the-united-kingdom-and-belgium/
 published_time: 2021-04-23 11:15:00-04:00
-title: "Statement by Press Secretary Jen Psaki on the President\u2019s Travel to the\
-  \ United Kingdom and Belgium"
+title: "Statement by Press Secretary Jen\_Psaki on the President\u2019s Travel to\
+  \ the United Kingdom and\_Belgium"
 ---
  
 President Joseph R. Biden, Jr. will travel to the United Kingdom and

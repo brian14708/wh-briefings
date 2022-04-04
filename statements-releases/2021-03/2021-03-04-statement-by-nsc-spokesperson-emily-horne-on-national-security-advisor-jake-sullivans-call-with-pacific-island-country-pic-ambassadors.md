@@ -5,7 +5,7 @@ modified_time: 2021-03-04 16:53:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-pacific-island-country-pic-ambassadors/
 published_time: 2021-03-04 16:53:23-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Pacific Island Country (PIC) Ambassadors"
+  \ Sullivan\u2019s Call with Pacific Island Country (PIC)\_Ambassadors"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

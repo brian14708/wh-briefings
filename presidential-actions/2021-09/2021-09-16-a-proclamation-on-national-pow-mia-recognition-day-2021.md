@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-09-16'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/16/a-proclamation-on-national-pow-mia-recognition-day-2021/
 published_time: 2021-09-16 10:36:47-04:00
-title: A Proclamation on National POW/MIA Recognition Day, 2021
+title: "A Proclamation on National POW/MIA Recognition Day,\_2021"
 ---
  
 When service members take an oath to defend the Constitution of the

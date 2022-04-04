@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-12-29'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/29/a-proclamation-on-the-death-of-harry-reid/
 published_time: 2021-12-29 13:00:22-05:00
-title: A Proclamation on the Death of Harry Reid
+title: "A Proclamation on the Death of Harry\_Reid"
 ---
  
 From humble roots in Searchlight, Nevada, Harry Reid rose to become one

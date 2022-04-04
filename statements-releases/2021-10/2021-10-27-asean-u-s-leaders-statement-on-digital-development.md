@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-10-27'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/asean-u-s-leaders-statement-on-digital-development/
 published_time: 2021-10-27 17:21:33-04:00
-title: "ASEAN-U.S. Leaders\u2019 Statement on Digital Development"
+title: "ASEAN-U.S. Leaders\u2019 Statement on Digital\_Development"
 ---
  
 **WE,** the Member States of the Association of Southeast Asian Nations

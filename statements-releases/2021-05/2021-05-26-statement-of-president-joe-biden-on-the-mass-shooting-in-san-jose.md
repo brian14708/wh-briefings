@@ -4,7 +4,7 @@ date: '2021-05-26'
 modified_time: 2021-05-26 19:32:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-of-president-joe-biden-on-the-mass-shooting-in-san-jose/
 published_time: 2021-05-26 17:02:25-04:00
-title: Statement of President Joe Biden on the Mass Shooting in San Jose
+title: "Statement of President Joe\_Biden on the Mass Shooting in San\_Jose"
 ---
  
 Vice President Harris and I have been briefed on the horrific tragedy

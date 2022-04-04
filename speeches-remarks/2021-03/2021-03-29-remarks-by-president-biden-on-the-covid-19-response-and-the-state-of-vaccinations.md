@@ -4,8 +4,8 @@ date: '2021-03-29'
 modified_time: 2021-03-29 16:35:26-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/29/remarks-by-president-biden-on-the-covid-19-response-and-the-state-of-vaccinations/
 published_time: 2021-03-29 16:35:25-04:00
-title: "Remarks by President Biden on the COVID- \u2060 19 Response and the State\
-  \ of Vaccinations"
+title: "Remarks by President\_Biden on the COVID-\u206019 Response and the State of\_\
+  Vaccinations"
 ---
  
 South Court Auditorium

@@ -4,8 +4,8 @@ date: '2022-01-31'
 modified_time: 2022-01-31 08:23:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/biden-administration-releases-bipartisan-infrastructure-law-guidebook-for-state-local-tribal-and-territorial-governments/
 published_time: 2022-01-31 10:00:00-05:00
-title: Biden Administration Releases Bipartisan Infrastructure Law Guidebook for State,
-  Local, Tribal and Territorial Governments
+title: "Biden Administration Releases Bipartisan Infrastructure Law Guidebook for\
+  \ State, Local, Tribal and Territorial\_Governments"
 ---
  
 WASHINGTON, D.C. — Today, the White House released the [first edition of

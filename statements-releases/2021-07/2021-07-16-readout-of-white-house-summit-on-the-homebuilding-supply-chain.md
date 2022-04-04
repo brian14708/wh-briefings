@@ -4,7 +4,7 @@ date: '2021-07-16'
 modified_time: 2021-07-16 17:40:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-white-house-summit-on-the-homebuilding-supply-chain/
 published_time: 2021-07-16 17:40:32-04:00
-title: Readout of White House Summit on the Homebuilding Supply Chain
+title: "Readout of White\_House Summit on the Homebuilding Supply\_Chain"
 ---
  
 Today, Secretary of Commerce Gina Raimondo, Secretary of Housing and

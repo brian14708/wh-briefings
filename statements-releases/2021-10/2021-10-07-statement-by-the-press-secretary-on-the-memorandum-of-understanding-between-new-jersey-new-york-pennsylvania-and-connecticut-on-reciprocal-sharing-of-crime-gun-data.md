@@ -3,9 +3,9 @@ category: statements-releases
 date: '2021-10-07'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/statement-by-the-press-secretary-on-the-memorandum-of-understanding-between-new-jersey-new-york-pennsylvania-and-connecticut-on-reciprocal-sharing-of-crime-gun-data/
 published_time: 2021-10-07 22:10:40-04:00
-title: Statement by the Press Secretary on the Memorandum of Understanding Between
-  New Jersey, New York, Pennsylvania and Connecticut on Reciprocal Sharing of Crime
-  Gun Data
+title: "Statement by the Press Secretary on the Memorandum of Understanding Between\
+  \ New Jersey, New York, Pennsylvania and Connecticut on Reciprocal Sharing of Crime\
+  \ Gun\_Data"
 ---
  
 We applaud today’s announcement by the Governors of New Jersey, New

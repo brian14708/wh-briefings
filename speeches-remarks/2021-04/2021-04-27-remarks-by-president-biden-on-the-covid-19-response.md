@@ -4,7 +4,7 @@ date: '2021-04-27'
 modified_time: 2021-04-27 17:01:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/27/remarks-by-president-biden-on-the-covid-19-response/
 published_time: 2021-04-27 17:01:14-04:00
-title: "Remarks by President Biden on the COVID- \u2060 19 Response"
+title: "Remarks by President\_Biden on the COVID-\u206019\_Response"
 ---
  
 North Lawn

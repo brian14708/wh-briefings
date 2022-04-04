@@ -4,8 +4,8 @@ date: '2021-12-29'
 modified_time: 2021-12-29 14:55:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/29/background-press-call-by-a-senior-administration-official-on-president-bidens-upcoming-call-with-president-putin-of-the-russian-federation/
 published_time: 2021-12-29 15:00:00-05:00
-title: "Background Press Call by a Senior Administration Official on President Biden\u2019\
-  s Upcoming Call with President Putin of the Russian Federation"
+title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
+  s Upcoming Call with President Putin of the Russian\_Federation"
 ---
  
 Via Teleconference

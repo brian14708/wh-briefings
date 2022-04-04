@@ -4,9 +4,9 @@ date: '2021-05-06'
 modified_time: 2021-05-06 18:04:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/06/a-letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq/
 published_time: 2021-05-06 18:04:08-04:00
-title: A Letter to the Speaker of the House of Representatives and the President of
-  the Senate on the Continuation of the National Emergency with Respect to the Stabilization
-  of Iraq
+title: "A Letter to the Speaker of the House of Representatives and the President\
+  \ of the Senate on the Continuation of the National Emergency with Respect to the\
+  \ Stabilization of\_Iraq"
 ---
  
 Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d))

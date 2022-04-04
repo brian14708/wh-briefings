@@ -4,7 +4,7 @@ date: '2021-08-26'
 modified_time: 2021-08-27 11:08:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/26/a-proclamation-honoring-the-victims-of-the-attack-in-kabul-afghanistan/
 published_time: 2021-08-26 18:45:00-04:00
-title: A Proclamation Honoring the Victims of the Attack in Kabul, Afghanistan
+title: "A Proclamation Honoring the Victims of the Attack in Kabul,\_Afghanistan"
 ---
  
 As a mark of respect for the U.S. service members and other victims

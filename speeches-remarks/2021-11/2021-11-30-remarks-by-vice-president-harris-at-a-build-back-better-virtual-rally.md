@@ -3,7 +3,7 @@ category: speeches-remarks
 date: '2021-11-30'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/30/remarks-by-vice-president-harris-at-a-build-back-better-virtual-rally/
 published_time: 2021-11-30 13:31:42-05:00
-title: Remarks by Vice President Harris at a Build Back Better Virtual Rally
+title: "Remarks by Vice President Harris at a Build Back Better Virtual\_Rally"
 ---
  
 *Via Teleconference*

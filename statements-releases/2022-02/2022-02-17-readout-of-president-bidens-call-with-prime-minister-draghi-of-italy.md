@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-02-17'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/readout-of-president-bidens-call-with-prime-minister-draghi-of-italy/
 published_time: 2022-02-17 18:50:03-05:00
-title: "Readout of President Biden\u2019s Call with Prime Minister Draghi of Italy"
+title: "Readout of President\_Biden\u2019s Call with Prime Minister Draghi of\_Italy"
 ---
  
 President Joseph R. Biden, Jr. spoke today with Prime Minister Mario

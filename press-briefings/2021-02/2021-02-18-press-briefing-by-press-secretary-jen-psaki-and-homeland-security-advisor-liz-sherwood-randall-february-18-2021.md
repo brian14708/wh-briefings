@@ -4,8 +4,8 @@ date: '2021-02-18'
 modified_time: 2021-02-26 10:47:57-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/18/press-briefing-by-press-secretary-jen-psaki-and-homeland-security-advisor-liz-sherwood-randall-february-18-2021/
 published_time: 2021-02-18 16:03:14-05:00
-title: Press Briefing by Press Secretary Jen Psaki and Homeland Security Advisor Dr.
-  Elizabeth Sherwood-Randall, February 18, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki and Homeland Security Advisor\
+  \ Dr. Elizabeth Sherwood-Randall, February 18,\_2021"
 ---
  
 Via Teleconference

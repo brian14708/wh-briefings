@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/
 published_time: 2021-07-20 19:14:19-04:00
 title: "Readout by NSC Spokesperson Emily Horne of National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Qatari Deputy Prime Minister & Foreign Minister Mohammed\
-  \ Bin Abdulrahman Al Thani"
+  \ Bin Abdulrahman Al\_Thani"
 ---
  
 National Security Advisor Jake Sullivan met today in Washington with

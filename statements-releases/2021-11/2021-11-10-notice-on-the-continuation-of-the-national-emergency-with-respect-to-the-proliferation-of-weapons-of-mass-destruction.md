@@ -4,8 +4,8 @@ date: '2021-11-10'
 modified_time: 2021-11-10 12:32:59-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction/
 published_time: 2021-11-10 12:32:58-05:00
-title: Notice on the Continuation of the National Emergency with Respect to the Proliferation
-  of Weapons of Mass Destruction
+title: "Notice on the Continuation of the National Emergency with Respect to the Proliferation\
+  \ of Weapons of Mass\_Destruction"
 ---
  
 On November 14, 1994, by Executive Order 12938, the President declared a

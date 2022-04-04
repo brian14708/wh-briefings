@@ -4,8 +4,8 @@ date: '2021-06-24'
 modified_time: 2021-06-24 23:48:54-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/24/remarks-by-president-biden-highlighting-the-importance-of-getting-vaccinated-and-kicking-off-a-community-canvassing-event/
 published_time: 2021-06-24 23:58:00-04:00
-title: Remarks by President Biden Highlighting the Importance of Getting Vaccinated
-  and Kicking Off a Community Canvassing Event
+title: "Remarks by President\_Biden Highlighting the Importance of Getting Vaccinated\
+  \ and Kicking Off a Community Canvassing\_Event"
 ---
  
 Green Road Community Center  

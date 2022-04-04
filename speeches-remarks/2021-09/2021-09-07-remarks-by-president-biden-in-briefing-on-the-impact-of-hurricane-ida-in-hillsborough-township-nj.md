@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2021-09-07'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/07/remarks-by-president-biden-in-briefing-on-the-impact-of-hurricane-ida-in-hillsborough-township-nj/
 published_time: 2021-09-07 15:59:52-04:00
-title: Remarks by President Biden in Briefing on the Impact of Hurricane Ida in Hillsborough
-  Township, NJ
+title: "Remarks by President\_Biden in Briefing on the Impact of Hurricane Ida in\
+  \ Hillsborough Township,\_NJ"
 ---
  
 Somerset County Emergency Management Training Center  

@@ -4,8 +4,8 @@ date: '2021-09-24'
 modified_time: 2021-09-24 15:41:46-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/24/remarks-by-president-biden-prime-minister-morrison-prime-minister-modi-and-prime-minister-suga-at-quad-leaders-summit/
 published_time: 2021-09-24 16:00:00-04:00
-title: Remarks by President Biden, Prime Minister Morrison, Prime Minister Modi, and
-  Prime Minister Suga at Quad Leaders Summit
+title: "Remarks by President\_Biden, Prime Minister Morrison, Prime Minister Modi,\
+  \ and Prime Minister Suga at Quad Leaders\_Summit"
 ---
  
 East Room

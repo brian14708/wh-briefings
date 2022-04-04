@@ -4,8 +4,8 @@ date: '2022-01-31'
 modified_time: 2022-01-31 16:20:56-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/31/remarks-by-president-biden-and-his-highness-sheikh-tamim-bin-hamad-al-thani-amir-of-the-state-of-qatar-before-bilateral-meeting/
 published_time: 2022-01-31 16:20:55-05:00
-title: Remarks by President Biden and His Highness Sheikh Tamim Bin Hamad Al-Thani,
-  Amir of the State of Qatar Before Bilateral Meeting
+title: "Remarks by President\_Biden and His Highness Sheikh Tamim Bin Hamad Al-Thani,\
+  \ Amir of the State of Qatar Before Bilateral\_Meeting"
 ---
  
 Oval Office

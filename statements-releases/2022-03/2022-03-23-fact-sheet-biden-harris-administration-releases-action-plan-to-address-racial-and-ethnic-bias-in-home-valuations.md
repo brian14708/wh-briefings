@@ -4,8 +4,8 @@ date: '2022-03-23'
 modified_time: 2022-03-22 19:03:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/fact-sheet-biden-harris-administration-releases-action-plan-to-address-racial-and-ethnic-bias-in-home-valuations/
 published_time: 2022-03-23 06:00:00-04:00
-title: "Fact Sheet: Biden- \u2060 Harris Administration Releases Action Plan to Address\
-  \ Racial and Ethnic Bias in Home Valuations"
+title: "Fact Sheet: Biden-\u2060Harris Administration Releases Action Plan to Address\
+  \ Racial and Ethnic Bias in Home\_Valuations"
 ---
  
 *Vice President Kamala Harris Announces Release of Plan During White

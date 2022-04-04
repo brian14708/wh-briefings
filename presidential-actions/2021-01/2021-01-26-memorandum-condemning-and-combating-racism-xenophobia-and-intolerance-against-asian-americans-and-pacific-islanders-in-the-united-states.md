@@ -4,8 +4,8 @@ date: '2021-01-26'
 modified_time: 2021-01-26 17:02:24-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/
 published_time: 2021-01-26 15:11:33-05:00
-title: Memorandum Condemning and Combating Racism, Xenophobia, and Intolerance Against
-  Asian Americans and Pacific Islanders in the United States
+title: "Memorandum Condemning and Combating Racism, Xenophobia, and Intolerance Against\
+  \ Asian Americans and Pacific Islanders in the United\_States"
 ---
  
 Advancing inclusion and belonging for people of all races, national

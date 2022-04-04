@@ -4,7 +4,7 @@ date: '2021-08-26'
 modified_time: 2021-12-23 15:26:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/26/statement-by-vice-president-kamala-harris-on-the-terror-attack-in-kabul/
 published_time: 2021-08-26 21:25:00-04:00
-title: Statement by Vice President Kamala Harris on the Terror Attack in Kabul
+title: "Statement by Vice President Kamala\_Harris on the Terror Attack in\_Kabul"
 ---
  
 Today in Kabul, a terror attack killed 13 American service members.

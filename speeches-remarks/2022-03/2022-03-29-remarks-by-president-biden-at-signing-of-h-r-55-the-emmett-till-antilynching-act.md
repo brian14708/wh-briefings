@@ -4,8 +4,8 @@ date: '2022-03-29'
 modified_time: 2022-03-29 20:09:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-president-biden-at-signing-of-h-r-55-the-emmett-till-antilynching-act/
 published_time: 2022-03-29 20:30:00-04:00
-title: "Remarks by President Biden at Signing of H.R. 55, the \u201CEmmett Till Antilynching\
-  \ Act\u201D"
+title: "Remarks by President\_Biden at Signing of H.R. 55, the \u201CEmmett Till Antilynching\_\
+  Act\u201D"
 ---
  
 Rose Garden

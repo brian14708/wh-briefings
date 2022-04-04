@@ -4,8 +4,8 @@ date: '2021-04-28'
 modified_time: 2021-04-28 16:14:18-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/white-house-announces-virtual-guests-for-the-first-ladys-box-2021-joint-session-of-congress/
 published_time: 2021-04-28 16:14:17-04:00
-title: "White House Announces Virtual Guests for the First Lady\u2019s Box 2021 Joint\
-  \ Session of Congress"
+title: "White\_House Announces Virtual Guests for the First Lady\u2019s Box 2021 Joint\
+  \ Session of\_Congress"
 ---
  
 Traditionally, First Ladies have invited guests to join her in her

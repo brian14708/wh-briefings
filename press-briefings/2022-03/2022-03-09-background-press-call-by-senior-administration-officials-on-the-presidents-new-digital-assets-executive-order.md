@@ -5,7 +5,7 @@ modified_time: 2022-03-09 09:44:08-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/09/background-press-call-by-senior-administration-officials-on-the-presidents-new-digital-assets-executive-order/
 published_time: 2022-03-09 09:44:07-05:00
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
-  s New Digital Assets Executive Order"
+  s New Digital Assets Executive\_Order"
 ---
  
 Via Teleconference

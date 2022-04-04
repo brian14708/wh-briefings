@@ -4,8 +4,8 @@ date: '2022-03-03'
 modified_time: 2022-03-03 14:09:52-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/what-they-are-saying-members-of-the-congress-applaud-president-bidens-state-of-the-union-address/
 published_time: 2022-03-03 14:09:51-05:00
-title: "WHAT THEY ARE SAYING: Members of the Congress Applaud President Biden\u2019\
-  s State of the Union Address"
+title: "WHAT THEY ARE SAYING: Members of the Congress Applaud President\_Biden\u2019\
+  s State of the Union\_Address"
 ---
  
 In his first State of the Union, the President spoke directly to the

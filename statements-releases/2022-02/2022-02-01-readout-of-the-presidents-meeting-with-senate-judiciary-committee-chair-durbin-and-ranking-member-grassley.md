@@ -5,7 +5,7 @@ modified_time: 2022-02-01 18:25:35-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/readout-of-the-presidents-meeting-with-senate-judiciary-committee-chair-durbin-and-ranking-member-grassley/
 published_time: 2022-02-01 18:25:34-05:00
 title: "Readout of the President\u2019s Meeting with Senate Judiciary Committee Chair\
-  \ Durbin and Ranking Member Grassley"
+  \ Durbin and Ranking Member\_Grassley"
 ---
  
 President Biden hosted Senate Judiciary Chair Dick Durbin and Ranking

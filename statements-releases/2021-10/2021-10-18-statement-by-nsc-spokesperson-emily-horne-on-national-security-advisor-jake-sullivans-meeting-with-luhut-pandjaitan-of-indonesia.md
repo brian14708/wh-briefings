@@ -5,7 +5,7 @@ modified_time: 2021-10-18 20:13:00-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-luhut-pandjaitan-of-indonesia/
 published_time: 2021-10-18 20:12:59-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with Luhut Pandjaitan of Indonesia"
+  \ Sullivan\u2019s Meeting with Luhut Pandjaitan of\_Indonesia"
 ---
  
 National Security Advisor Jake Sullivan met today with Coordinating

@@ -5,7 +5,7 @@ modified_time: 2022-02-09 10:26:27-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/statement-from-deputy-press-secretary-sabrina-singh-on-vice-president-harriss-travel-to-germany/
 published_time: 2022-02-09 10:30:00-05:00
 title: "Statement from Deputy Press Secretary Sabrina Singh on Vice President Harris\u2019\
-  s Travel to Germany"
+  s Travel to\_Germany"
 ---
  
  Vice President Kamala Harris will travel to Munich, Germany to attend

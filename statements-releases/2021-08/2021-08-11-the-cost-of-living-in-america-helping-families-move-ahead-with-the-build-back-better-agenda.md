@@ -4,8 +4,8 @@ date: '2021-08-11'
 modified_time: 2021-08-11 13:21:02-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/the-cost-of-living-in-america-helping-families-move-ahead-with-the-build-back-better-agenda/
 published_time: 2021-08-11 13:21:01-04:00
-title: 'The Cost of Living in America: Helping Families Move Ahead with the Build
-  Back Better Agenda'
+title: "The Cost of Living in America: Helping Families Move Ahead with the Build\
+  \ Back Better\_Agenda"
 ---
  
 *New Report from the Council of Economic Advisers and Office of

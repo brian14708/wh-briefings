@@ -4,7 +4,7 @@ date: '2021-12-09'
 modified_time: 2021-12-09 13:28:09-05:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/09/a-proclamation-on-human-rights-day-and-human-rights-week-2021/
 published_time: 2021-12-09 13:28:08-05:00
-title: A Proclamation on Human Rights Day and Human Rights Week, 2021
+title: "A Proclamation on Human Rights Day and Human Rights Week,\_2021"
 ---
  
 In the wake of the devastation of the Second World War, leaders from

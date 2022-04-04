@@ -4,8 +4,8 @@ date: '2022-01-14'
 modified_time: 2022-01-14 09:14:32-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/president-biden-nominates-sarah-bloom-raskin-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve-and-lisa-cook-and-philip-jefferson-to-serve-as-governors/
 published_time: 2022-01-14 09:14:31-05:00
-title: President Biden Nominates Sarah Bloom Raskin to Serve as Vice Chair for Supervision
-  of the Federal Reserve, and Lisa Cook and Philip Jefferson to Serve as Governors
+title: "President\_Biden Nominates Sarah Bloom Raskin to Serve as Vice Chair for Supervision\
+  \ of the Federal Reserve, and Lisa Cook and Philip Jefferson to Serve as\_Governors"
 ---
  
 Today, President Biden announced the nomination of Sarah Bloom Raskin to

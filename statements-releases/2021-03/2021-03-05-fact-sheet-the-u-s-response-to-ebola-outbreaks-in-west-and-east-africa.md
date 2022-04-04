@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-03-05'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/05/fact-sheet-the-u-s-response-to-ebola-outbreaks-in-west-and-east-africa/
 published_time: 2021-03-05 20:34:26-05:00
-title: 'Fact Sheet: The U.S. Response to Ebola Outbreaks in West and East Africa'
+title: "Fact Sheet: The U.S. Response to Ebola Outbreaks in West and East\_Africa"
 ---
  
 On February 7, 2021, the Ministry of Health (MOH) in the Democratic

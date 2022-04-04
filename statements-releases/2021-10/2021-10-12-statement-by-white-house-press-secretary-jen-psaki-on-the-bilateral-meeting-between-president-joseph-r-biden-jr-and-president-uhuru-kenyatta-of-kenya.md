@@ -4,8 +4,8 @@ date: '2021-10-12'
 modified_time: 2021-10-12 14:00:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joseph-r-biden-jr-and-president-uhuru-kenyatta-of-kenya/
 published_time: 2021-10-12 14:00:11-04:00
-title: Statement by White House Press Secretary Jen Psaki on the Bilateral Meeting
-  between President Joseph R. Biden, Jr. and President Uhuru Kenyatta of Kenya
+title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Meeting\
+  \ between President Joseph R. Biden, Jr. and President Uhuru Kenyatta of\_Kenya"
 ---
  
 On Thursday October 14, President Joseph R. Biden, Jr. will host

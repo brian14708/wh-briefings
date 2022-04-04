@@ -5,7 +5,7 @@ modified_time: 2021-12-21 16:24:20-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/21/background-press-call-by-senior-admin-officials-on-national-security-advisor-sullivans-upcoming-travel-to-the-state-of-israel-and-the-west-bank/
 published_time: 2021-12-21 16:24:19-05:00
 title: "Background Press Call By Senior Admin Officials On National Security Advisor\
-  \ Sullivan\u2019s Upcoming Travel To The State Of Israel And The West Bank"
+  \ Sullivan\u2019s Upcoming Travel To The State Of Israel And The West\_Bank"
 ---
  
 Via Teleconference

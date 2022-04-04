@@ -4,8 +4,8 @@ date: '2022-01-12'
 modified_time: 2022-01-12 10:48:38-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-races-to-deploy-clean-energy-that-creates-jobs-and-lowers-costs/
 published_time: 2022-01-12 10:30:00-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Races to Deploy Clean Energy\
-  \ that Creates Jobs and Lowers Costs"
+title: "FACT SHEET: Biden-\u2060Harris Administration Races to Deploy Clean Energy\
+  \ that Creates Jobs and Lowers\_Costs"
 ---
  
 **New Actions Advance Offshore Wind, Leverage Public Lands for Clean

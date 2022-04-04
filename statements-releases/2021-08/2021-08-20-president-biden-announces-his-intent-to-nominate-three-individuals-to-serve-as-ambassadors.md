@@ -4,8 +4,8 @@ date: '2021-08-20'
 modified_time: 2021-08-20 15:57:23-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/president-biden-announces-his-intent-to-nominate-three-individuals-to-serve-as-ambassadors/
 published_time: 2021-08-20 15:57:22-04:00
-title: President Biden Announces His Intent to Nominate Three Individuals to Serve
-  as Ambassadors
+title: "President\_Biden Announces His Intent to Nominate Three Individuals to Serve\
+  \ as\_Ambassadors"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

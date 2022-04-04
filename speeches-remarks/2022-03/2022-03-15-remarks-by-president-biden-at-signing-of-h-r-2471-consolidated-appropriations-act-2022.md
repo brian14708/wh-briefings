@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-03-15'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/15/remarks-by-president-biden-at-signing-of-h-r-2471-consolidated-appropriations-act-2022/
 published_time: 2022-03-15 18:36:41-04:00
-title: "Remarks by President Biden at Signing of H.R. 2471, \u201CConsolidated Appropriations\
-  \ Act, 2022\u201D"
+title: "Remarks by President\_Biden at Signing of H.R. 2471, \u201CConsolidated Appropriations\
+  \ Act,\_2022\u201D"
 ---
  
 Indian Treaty Room  

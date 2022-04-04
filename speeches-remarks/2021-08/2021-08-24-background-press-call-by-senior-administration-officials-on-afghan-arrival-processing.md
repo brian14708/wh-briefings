@@ -4,8 +4,8 @@ date: '2021-08-24'
 modified_time: 2021-08-24 22:00:40-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/background-press-call-by-senior-administration-officials-on-afghan-arrival-processing/
 published_time: 2021-08-24 17:38:20-04:00
-title: Background Press Call by Senior Administration Officials on Afghan Arrival
-  Processing
+title: "Background Press Call by Senior Administration Officials on Afghan Arrival\_\
+  Processing"
 ---
  
 Via Teleconference

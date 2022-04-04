@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/
 published_time: 2021-03-10 18:22:05-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Colombian Minister of Defense Diego Molano and Chief\
-  \ of Staff to the President of Colombia Maria Paula Correa"
+  \ of Staff to the President of Colombia Maria Paula\_Correa"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

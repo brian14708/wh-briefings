@@ -3,8 +3,8 @@ category: statements-releases
 date: '2022-03-29'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-travel-to-india/
 published_time: 2022-03-29 17:30:36-04:00
-title: Statement by NSC Spokesperson Emily Horne on Senior Administration Travel to
-  India
+title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Travel\
+  \ to\_India"
 ---
  
 On March 30<sup>th</sup> and 31<sup>st</sup>, Deputy National Security

@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-11-19'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-biden-announces-nominees-for-united-states-postal-service-board-of-governors/
 published_time: 2021-11-19 10:36:32-05:00
-title: President Biden Announces Nominees for United States Postal Service Board of
-  Governors
+title: "President\_Biden Announces Nominees for United\_States Postal Service Board\
+  \ of\_Governors"
 ---
  
 Today, President Joe Biden announced his intent to nominate two leaders

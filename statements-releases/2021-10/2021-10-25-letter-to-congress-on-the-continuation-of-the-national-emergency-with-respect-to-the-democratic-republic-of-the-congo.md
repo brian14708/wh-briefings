@@ -4,8 +4,8 @@ date: '2021-10-25'
 modified_time: 2021-10-25 15:21:25-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/25/letter-to-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-democratic-republic-of-the-congo/
 published_time: 2021-10-25 15:21:24-04:00
-title: Letter to Congress on the Continuation of the National Emergency with Respect
-  to The Democratic Republic of the Congo
+title: "Letter to Congress on the Continuation of the National Emergency with Respect\
+  \ to The Democratic Republic of the\_Congo"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:  

@@ -4,7 +4,7 @@ date: '2021-06-02'
 modified_time: 2021-06-02 17:01:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/02/press-briefing-by-press-secretary-jen-psaki-june-2-2021/
 published_time: 2021-06-02 17:01:31-04:00
-title: Press Briefing by Press Secretary Jen Psaki, June 2, 2021
+title: "Press Briefing by Press Secretary Jen\_Psaki, June 2,\_2021"
 ---
  
 James S. Brady Press Briefing Room

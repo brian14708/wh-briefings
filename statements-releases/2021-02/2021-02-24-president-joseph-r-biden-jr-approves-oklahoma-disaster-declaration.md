@@ -4,7 +4,7 @@ date: '2021-02-24'
 modified_time: 2021-02-25 07:56:42-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/president-joseph-r-biden-jr-approves-oklahoma-disaster-declaration/
 published_time: 2021-02-24 07:51:00-05:00
-title: President Joseph R. Biden, Jr. Approves Oklahoma Disaster Declaration
+title: "President Joseph R. Biden, Jr. Approves Oklahoma Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster

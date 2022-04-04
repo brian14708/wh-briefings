@@ -4,8 +4,8 @@ date: '2021-12-29'
 modified_time: 2022-01-25 15:42:48-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/29/remarks-prepared-for-delivery-by-first-lady-jill-biden-for-the-announcement-of-the-2021-white-house-holiday-theme-and-message-of-gratitude-to-volunteers/
 published_time: 2021-12-29 15:58:00-05:00
-title: Remarks Prepared for Delivery by First Lady Jill Biden for the Announcement
-  of the 2021 White House Holiday Theme and Message of Gratitude to Volunteers
+title: "Remarks Prepared for Delivery by First Lady Jill\_Biden for the Announcement\
+  \ of the 2021 White\_House Holiday Theme and Message of Gratitude to\_Volunteers"
 ---
  
 *East Room, The White House*

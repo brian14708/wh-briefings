@@ -4,8 +4,8 @@ date: '2021-05-03'
 modified_time: 2021-05-03 16:29:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/03/memorandum-for-the-secretary-of-state-on-the-emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2021-2/
 published_time: 2021-05-03 16:21:01-04:00
-title: Memorandum for the Secretary of State on the Emergency Presidential Determination
-  on Refugee Admissions for Fiscal Year 2021
+title: "Memorandum for the Secretary of State on the Emergency Presidential Determination\
+  \ on Refugee Admissions for Fiscal Year\_2021"
 ---
  
 In Executive Order 14013 of February 4, 2021 (Rebuilding and Enhancing

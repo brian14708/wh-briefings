@@ -4,8 +4,8 @@ date: '2022-04-01'
 modified_time: 2022-04-01 08:37:59-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/addressing-the-collective-challenges-of-our-time-implementing-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
 published_time: 2022-04-01 08:00:00-04:00
-title: 'Addressing the Collective Challenges of our Time: Implementing the U.S. Strategy
-  to Prevent Conflict and Promote Stability'
+title: "Addressing the Collective Challenges of our Time: Implementing the U.S. Strategy\
+  \ to Prevent Conflict and Promote\_Stability"
 ---
  
 Every country, including our own, experiences risks and challenges

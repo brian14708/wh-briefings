@@ -4,8 +4,8 @@ date: '2021-12-09'
 modified_time: 2021-12-09 22:24:29-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/09/background-press-call-by-a-senior-administration-official-on-president-bidens-calls-with-president-zelenskyy-of-ukraine-and-european-leaders/
 published_time: 2021-12-09 22:24:28-05:00
-title: "Background Press Call by a Senior Administration Official on President Biden\u2019\
-  s Calls with President Zelenskyy of Ukraine and European Leaders"
+title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
+  s Calls with President Zelenskyy of Ukraine and European\_Leaders"
 ---
  
 Via Teleconference

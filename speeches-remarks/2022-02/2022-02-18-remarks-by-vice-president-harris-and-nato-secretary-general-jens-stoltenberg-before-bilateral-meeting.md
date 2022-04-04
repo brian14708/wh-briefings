@@ -4,8 +4,8 @@ date: '2022-02-18'
 modified_time: 2022-02-18 10:09:18-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/18/remarks-by-vice-president-harris-and-nato-secretary-general-jens-stoltenberg-before-bilateral-meeting/
 published_time: 2022-02-18 10:09:00-05:00
-title: Remarks by Vice President Harris and NATO Secretary General Jens Stoltenberg
-  Before Bilateral Meeting
+title: "Remarks by Vice President Harris and NATO Secretary General Jens Stoltenberg\
+  \ Before Bilateral\_Meeting"
 ---
  
 *Commerzbank Filiale München*

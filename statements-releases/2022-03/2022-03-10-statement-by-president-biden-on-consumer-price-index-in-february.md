@@ -4,7 +4,7 @@ date: '2022-03-10'
 modified_time: 2022-03-10 10:21:37-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/statement-by-president-biden-on-consumer-price-index-in-february/
 published_time: 2022-03-10 10:21:36-05:00
-title: Statement by President Biden on Consumer Price Index in February
+title: "Statement by President\_Biden on Consumer Price Index in\_February"
 ---
  
 Today’s economic data tells the tale of two recoveries.

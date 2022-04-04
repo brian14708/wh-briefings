@@ -4,7 +4,7 @@ date: '2021-12-14'
 modified_time: 2021-12-14 18:20:26-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/readout-of-white-house-meeting-with-bipartisan-group-of-newly-elected-mayors/
 published_time: 2021-12-14 18:15:00-05:00
-title: Readout of White House Meeting with Bipartisan Group of Newly-Elected Mayors
+title: "Readout of White\_House Meeting with Bipartisan Group of Newly-Elected\_Mayors"
 ---
  
 Today, President Biden and Vice President Harris met with a bipartisan

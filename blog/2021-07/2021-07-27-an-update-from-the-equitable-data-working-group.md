@@ -4,7 +4,7 @@ date: '2021-07-27'
 modified_time: 2021-07-27 09:46:29-04:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/07/27/an-update-from-the-equitable-data-working-group/
 published_time: 2021-07-27 09:46:28-04:00
-title: An Update from the Equitable Data Working Group
+title: "An Update from the Equitable Data Working\_Group"
 ---
  
 By Alondra Nelson and Clarence Wardell III,  

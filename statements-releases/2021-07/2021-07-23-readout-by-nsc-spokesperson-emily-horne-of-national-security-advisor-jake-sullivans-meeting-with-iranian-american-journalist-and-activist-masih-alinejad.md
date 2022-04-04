@@ -5,7 +5,8 @@ modified_time: 2021-07-23 17:36:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-by-nsc-spokesperson-emily-horne-of-national-security-advisor-jake-sullivans-meeting-with-iranian-american-journalist-and-activist-masih-alinejad/
 published_time: 2021-07-23 17:36:10-04:00
 title: "Readout by NSC Spokesperson Emily Horne of National Security Advisor Jake\
-  \ Sullivan\u2019s Meeting with Iranian-American Journalist and Activist Masih Alinejad"
+  \ Sullivan\u2019s Meeting with Iranian-American Journalist and Activist Masih\_\
+  Alinejad"
 ---
  
 National Security Advisor Jake Sullivan met today with Iranian-American

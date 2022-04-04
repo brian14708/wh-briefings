@@ -3,8 +3,8 @@ category: statements-releases
 date: '2021-10-30'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/readout-of-president-bidens-meeting-with-president-felix-tshisekedi-of-the-democratic-republic-of-the-congo/
 published_time: 2021-10-30 14:31:43-04:00
-title: "Readout of President Biden\u2019s Meeting with President Felix Tshisekedi\
-  \ of the Democratic Republic of the Congo"
+title: "Readout of President\_Biden\u2019s Meeting with President Felix Tshisekedi\
+  \ of the Democratic Republic of the\_Congo"
 ---
  
 President Joseph R. Biden, Jr. met with President Felix Tshisekedi of

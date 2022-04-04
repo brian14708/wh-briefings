@@ -4,7 +4,7 @@ date: '2021-08-03'
 modified_time: 2021-08-03 18:46:36-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/03/remarks-by-president-biden-on-fighting-the-covid-19-pandemic/
 published_time: 2021-08-03 18:46:35-04:00
-title: "Remarks by President Biden on Fighting the COVID- \u2060 19 Pandemic"
+title: "Remarks by President\_Biden on Fighting the COVID-\u206019\_Pandemic"
 ---
  
 4:29 P.M. EDT  

@@ -4,7 +4,7 @@ date: '2022-01-11'
 modified_time: 2022-01-11 13:25:15-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/11/remarks-by-president-biden-before-marine-one-departure-13/
 published_time: 2022-01-11 13:25:14-05:00
-title: Remarks by President Biden Before Marine One Departure
+title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---
  
 South Lawn

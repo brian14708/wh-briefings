@@ -4,8 +4,8 @@ date: '2021-03-08'
 modified_time: 2021-03-08 18:05:58-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/u-s-department-of-homeland-security-secretary-mayorkas-designates-venezuela-for-temporary-protected-status-for-18-months/
 published_time: 2021-03-08 18:05:57-05:00
-title: 'U.S. Department of Homeland Security: Secretary Mayorkas Designates Venezuela
-  for Temporary Protected Status for 18 Months'
+title: "U.S. Department of Homeland Security: Secretary Mayorkas Designates Venezuela\
+  \ for Temporary Protected Status for 18\_Months"
 ---
  
 *New Designation Allows Eligible Venezuelans to Apply for TPS and

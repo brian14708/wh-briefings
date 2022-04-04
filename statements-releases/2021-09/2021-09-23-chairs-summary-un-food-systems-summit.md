@@ -4,7 +4,7 @@ date: '2021-09-23'
 modified_time: 2021-09-23 09:39:06-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/chairs-summary-un-food-systems-summit/
 published_time: 2021-09-23 11:00:00-04:00
-title: "Chair\u2019s Summary: UN Food Systems Summit"
+title: "Chair\u2019s Summary: UN Food Systems\_Summit"
 ---
  
 The 2021 UN Food Systems Summit is an extension of longstanding U.S.

@@ -4,7 +4,7 @@ date: '2021-11-16'
 modified_time: 2021-11-16 18:03:45-05:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/16/remarks-by-president-biden-on-the-bipartisan-infrastructure-law/
 published_time: 2021-11-16 18:15:00-05:00
-title: Remarks by President Biden on the Bipartisan Infrastructure Law
+title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Law"
 ---
  
 NH 175 Pemigewasset River Bridge  

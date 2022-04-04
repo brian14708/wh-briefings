@@ -5,7 +5,7 @@ modified_time: 2021-04-16 21:20:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/u-s-japan-joint-leaders-statement-u-s-japan-global-partnership-for-a-new-era/
 published_time: 2021-04-16 21:20:23-04:00
 title: "U.S.- Japan Joint Leaders\u2019 Statement: \u201CU.S. \u2013 JAPAN GLOBAL\
-  \ PARTNERSHIP FOR A NEW ERA\u201D"
+  \ PARTNERSHIP FOR A NEW\_ERA\u201D"
 ---
  
 President Joseph R. Biden is honored to welcome Prime Minister Suga

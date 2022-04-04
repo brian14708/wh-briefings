@@ -4,7 +4,7 @@ date: '2021-05-07'
 modified_time: 2021-05-07 18:18:24-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/a-proclamation-on-mothers-day-2021/
 published_time: 2021-05-07 18:18:23-04:00
-title: "A Proclamation on Mother\u2019s Day, 2021"
+title: "A Proclamation on Mother\u2019s Day,\_2021"
 ---
  
 Each year on the second Sunday in May, we take time to thank and

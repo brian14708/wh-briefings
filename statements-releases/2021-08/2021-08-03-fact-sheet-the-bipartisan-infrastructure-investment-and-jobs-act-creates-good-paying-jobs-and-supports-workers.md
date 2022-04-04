@@ -4,8 +4,8 @@ date: '2021-08-03'
 modified_time: 2021-08-03 18:12:32-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-the-bipartisan-infrastructure-investment-and-jobs-act-creates-good-paying-jobs-and-supports-workers/
 published_time: 2021-08-03 18:30:00-04:00
-title: 'FACT SHEET: The Bipartisan Infrastructure Investment and Jobs Act Creates
-  Good-Paying Jobs and Supports Workers'
+title: "FACT SHEET: The Bipartisan Infrastructure Investment and Jobs Act Creates\
+  \ Good-Paying Jobs and Supports\_Workers"
 ---
  
 The deal reached by President Biden and the bipartisan group of Senators

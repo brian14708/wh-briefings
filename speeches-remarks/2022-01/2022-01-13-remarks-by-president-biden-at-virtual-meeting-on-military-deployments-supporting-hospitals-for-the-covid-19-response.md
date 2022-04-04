@@ -3,8 +3,8 @@ category: speeches-remarks
 date: '2022-01-13'
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/13/remarks-by-president-biden-at-virtual-meeting-on-military-deployments-supporting-hospitals-for-the-covid-19-response/
 published_time: 2022-01-13 13:59:51-05:00
-title: "Remarks by President Biden at Virtual Meeting on Military Deployments Supporting\
-  \ Hospitals for the COVID- \u2060 19 Response"
+title: "Remarks by President\_Biden at Virtual Meeting on Military Deployments Supporting\
+  \ Hospitals for the COVID-\u206019\_Response"
 ---
  
 *South Court Auditorium  

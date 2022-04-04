@@ -4,7 +4,8 @@ date: '2022-02-21'
 modified_time: 2022-02-21 15:26:33-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/21/statement-by-press-secretary-jen-psaki-on-russian-announcement-on-eastern-ukraine/
 published_time: 2022-02-21 15:26:32-05:00
-title: Statement by Press Secretary Jen Psaki on Russian Announcement on Eastern Ukraine
+title: "Statement by Press Secretary Jen\_Psaki on Russian Announcement on Eastern\_\
+  Ukraine"
 ---
  
 We have anticipated a move like this from Russia and are ready to

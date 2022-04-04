@@ -4,7 +4,7 @@ date: '2021-08-28'
 modified_time: 2021-08-28 14:43:11-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/statement-by-president-joe-biden-on-the-evacuation-mission-in-kabul/
 published_time: 2021-08-28 14:43:10-04:00
-title: Statement by President Joe Biden on the Evacuation Mission in Kabul
+title: "Statement by President Joe\_Biden on the Evacuation Mission in\_Kabul"
 ---
  
 This morning, I met with my national security team in Washington and my

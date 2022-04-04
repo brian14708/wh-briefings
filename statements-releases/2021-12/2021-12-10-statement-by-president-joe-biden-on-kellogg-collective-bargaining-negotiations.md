@@ -4,7 +4,7 @@ date: '2021-12-10'
 modified_time: 2021-12-10 15:10:28-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-kellogg-collective-bargaining-negotiations/
 published_time: 2021-12-10 15:50:00-05:00
-title: Statement by President Joe Biden On Kellogg Collective Bargaining Negotiations
+title: "Statement by President Joe\_Biden On Kellogg Collective Bargaining\_Negotiations"
 ---
  
 Collective bargaining is an essential tool to protect the rights of

@@ -4,8 +4,8 @@ date: '2021-04-15'
 modified_time: 2021-04-15 20:58:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/statement-from-president-joe-biden-on-house-passage-of-the-paycheck-fairness-act/
 published_time: 2021-04-15 20:58:42-04:00
-title: Statement from President Joe Biden on House Passage of the Paycheck Fairness
-  Act
+title: "Statement from President Joe\_Biden on House Passage of the Paycheck Fairness\_\
+  Act"
 ---
  
 I applaud the House of Representatives for passing the Paycheck Fairness

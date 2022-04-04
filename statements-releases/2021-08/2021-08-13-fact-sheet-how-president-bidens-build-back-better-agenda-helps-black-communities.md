@@ -4,8 +4,8 @@ date: '2021-08-13'
 modified_time: 2021-10-18 16:25:15-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-black-communities/
 published_time: 2021-08-13 11:14:09-04:00
-title: "FACT SHEET: How President Biden\u2019s Build Back Better Agenda Helps Black\
-  \ Communities"
+title: "FACT SHEET: How President\_Biden\u2019s Build Back Better Agenda Helps Black\_\
+  Communities"
 ---
  
 One year ago, with the country at a crossroads, President Biden unveiled

@@ -4,8 +4,8 @@ date: '2022-02-11'
 modified_time: 2022-02-11 17:56:30-05:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/11/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-february-11-2022/
 published_time: 2022-02-11 18:15:00-05:00
-title: Press Briefing by Press Secretary Jen Psaki and National Security Advisor Jake
-  Sullivan, February 11, 2022
+title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
+  \ Jake Sullivan, February 11,\_2022"
 ---
  
 James S. Brady Press Briefing Room

@@ -4,8 +4,8 @@ date: '2021-09-17'
 modified_time: 2021-09-17 11:01:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/17/remarks-by-president-biden-at-virtual-meeting-of-the-major-economies-forum-on-energy-and-climate/
 published_time: 2021-09-17 11:01:11-04:00
-title: Remarks by President Biden at Virtual Meeting of the Major Economies Forum
-  on Energy and Climate
+title: "Remarks by President\_Biden at Virtual Meeting of the Major Economies Forum\
+  \ on Energy and\_Climate"
 ---
  
 Via Teleconference  

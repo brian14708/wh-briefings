@@ -6,7 +6,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/
 published_time: 2021-04-13 16:00:00-04:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s call with Karin Wallensteen, State Secretary\
-  \ to Prime Minister Stefan L\xF6fven of Sweden"
+  \ to Prime Minister Stefan L\xF6fven of\_Sweden"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with Karin

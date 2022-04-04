@@ -5,7 +5,7 @@ permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/
 published_time: 2021-09-14 16:56:51-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Bogdan Aurescu, Foreign Minister of Romania and National\
-  \ Security Advisor to the President"
+  \ Security Advisor to the\_President"
 ---
  
 National Security Advisor Jake Sullivan spoke today with Bogdan Aurescu,

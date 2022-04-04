@@ -3,7 +3,7 @@ category: presidential-actions
 date: '2021-11-12'
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/12/a-proclamation-on-american-education-week-2021/
 published_time: 2021-11-12 12:34:26-05:00
-title: A Proclamation on American Education Week, 2021
+title: "A Proclamation on American Education Week,\_2021"
 ---
  
 I have always believed that our children are the kite strings that hold

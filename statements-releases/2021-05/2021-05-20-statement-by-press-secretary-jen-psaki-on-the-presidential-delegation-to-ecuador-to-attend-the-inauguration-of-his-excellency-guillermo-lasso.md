@@ -4,8 +4,8 @@ date: '2021-05-20'
 modified_time: 2021-05-20 09:02:30-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/statement-by-press-secretary-jen-psaki-on-the-presidential-delegation-to-ecuador-to-attend-the-inauguration-of-his-excellency-guillermo-lasso/
 published_time: 2021-05-20 09:02:29-04:00
-title: Statement by Press Secretary Jen Psaki on the Presidential Delegation to Ecuador
-  to Attend the Inauguration of His Excellency Guillermo Lasso
+title: "Statement by Press Secretary Jen\_Psaki on the Presidential Delegation to\
+  \ Ecuador to Attend the Inauguration of His Excellency Guillermo\_Lasso"
 ---
  
 U.S. Ambassador to the United Nations Linda Thomas-Greenfield will lead

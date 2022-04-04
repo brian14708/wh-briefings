@@ -4,9 +4,9 @@ date: '2021-09-24'
 modified_time: 2021-09-24 17:28:08-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/on-the-record-press-call-with-the-regional-reporters-association-by-white-house-coordinator-for-operation-allies-welcome-jack-markell-and-secretary-of-homeland-security-alejandro-mayorkas-on-operation/
 published_time: 2021-09-24 17:28:07-04:00
-title: On-the-Record Press Call with the Regional Reporters Association by White House
-  Coordinator for Operation Allies Welcome Jack Markell and Secretary of Homeland
-  Security Alejandro Mayorkas on Operation Allies Welcome
+title: "On-the-Record Press Call with the Regional Reporters Association by White\_\
+  House Coordinator for Operation Allies Welcome Jack Markell and Secretary of Homeland\
+  \ Security Alejandro Mayorkas on Operation Allies\_Welcome"
 ---
  
 Via Teleconference

@@ -4,7 +4,7 @@ date: '2021-09-21'
 modified_time: 2021-09-21 16:45:52-04:00
 permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/21/press-gaggle-by-press-secretary-jen-psaki-en-route-washington-d-c/
 published_time: 2021-09-21 16:45:51-04:00
-title: Press Gaggle by Press Secretary Jen Psaki En Route Washington, D.C.
+title: "Press Gaggle by Press Secretary Jen\_Psaki En Route Washington,\_D.C."
 ---
  
 Aboard Air Force One  

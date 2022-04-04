@@ -4,7 +4,7 @@ date: '2021-05-26'
 modified_time: 2021-05-28 12:36:43-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/president-biden-announces-more-key-administration-nominations-2/
 published_time: 2021-05-26 12:35:00-04:00
-title: President Biden Announces More Key Administration Nominations
+title: "President\_Biden Announces More Key Administration\_Nominations"
 ---
  
 Today, President Joe Biden announced his intent to nominate the

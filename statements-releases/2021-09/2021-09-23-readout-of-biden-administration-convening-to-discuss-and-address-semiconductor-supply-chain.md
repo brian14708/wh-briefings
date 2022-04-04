@@ -4,8 +4,8 @@ date: '2021-09-23'
 modified_time: 2021-09-23 20:08:34-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/readout-of-biden-administration-convening-to-discuss-and-address-semiconductor-supply-chain/
 published_time: 2021-09-23 20:08:33-04:00
-title: Readout of Biden Administration Convening to Discuss and Address Semiconductor
-  Supply Chain
+title: "Readout of Biden Administration Convening to Discuss and Address Semiconductor\
+  \ Supply\_Chain"
 ---
  
 Today, Secretary of Commerce Gina Raimondo and National Economic Council

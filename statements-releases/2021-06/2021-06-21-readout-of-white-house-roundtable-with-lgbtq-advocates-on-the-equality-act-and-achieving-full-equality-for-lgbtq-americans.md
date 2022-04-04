@@ -4,8 +4,8 @@ date: '2021-06-21'
 modified_time: 2021-06-21 21:57:22-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/readout-of-white-house-roundtable-with-lgbtq-advocates-on-the-equality-act-and-achieving-full-equality-for-lgbtq-americans/
 published_time: 2021-06-21 21:57:21-04:00
-title: Readout of White House Roundtable with LGBTQ+ Advocates on the Equality Act
-  and Achieving Full Equality for LGBTQ+ Americans
+title: "Readout of White\_House Roundtable with LGBTQ+ Advocates on the Equality Act\
+  \ and Achieving Full Equality for LGBTQ+\_Americans"
 ---
  
 Today, Domestic Policy Advisor Susan Rice, Senior Advisor and Director

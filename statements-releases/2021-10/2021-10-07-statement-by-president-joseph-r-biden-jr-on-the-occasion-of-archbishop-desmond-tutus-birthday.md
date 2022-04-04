@@ -5,7 +5,7 @@ modified_time: 2021-10-06 15:53:58-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/statement-by-president-joseph-r-biden-jr-on-the-occasion-of-archbishop-desmond-tutus-birthday/
 published_time: 2021-10-07 00:00:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Occasion of Archbishop\
-  \ Desmond Tutu\u2019s Birthday"
+  \ Desmond Tutu\u2019s\_Birthday"
 ---
  
 I send my best wishes to Archbishop Desmond Tutu on his 90<sup>th</sup>

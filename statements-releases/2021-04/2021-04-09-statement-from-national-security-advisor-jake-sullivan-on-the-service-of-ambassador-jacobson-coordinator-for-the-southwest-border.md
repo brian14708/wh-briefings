@@ -4,8 +4,8 @@ date: '2021-04-09'
 modified_time: 2021-04-09 16:02:09-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/statement-from-national-security-advisor-jake-sullivan-on-the-service-of-ambassador-jacobson-coordinator-for-the-southwest-border/
 published_time: 2021-04-09 16:02:08-04:00
-title: Statement from National Security Advisor Jake Sullivan on the Service of Ambassador
-  Jacobson, Coordinator for the Southwest Border
+title: "Statement from National Security Advisor Jake Sullivan on the Service of Ambassador\
+  \ Jacobson, Coordinator for the Southwest\_Border"
 ---
  
 Ambassador Roberta Jacobson’s leadership in serving as the Special

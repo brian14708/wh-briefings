@@ -5,7 +5,8 @@ modified_time: 2021-12-15 13:43:43-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-russian-presidential-foreign-policy-advisor-yuriy-ushakov/
 published_time: 2021-12-15 13:50:00-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
-  \ Sullivan\u2019s Call with Russian Presidential Foreign Policy Advisor Yuriy Ushakov"
+  \ Sullivan\u2019s Call with Russian Presidential Foreign Policy Advisor Yuriy\_\
+  Ushakov"
 ---
  
 National Security Advisor Jake Sullivan spoke by phone today with

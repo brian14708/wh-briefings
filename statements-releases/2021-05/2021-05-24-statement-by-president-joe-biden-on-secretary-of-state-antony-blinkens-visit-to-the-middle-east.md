@@ -4,8 +4,8 @@ date: '2021-05-24'
 modified_time: 2021-05-23 21:59:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/statement-by-president-joe-biden-on-secretary-of-state-antony-blinkens-visit-to-the-middle-east/
 published_time: 2021-05-24 07:00:00-04:00
-title: "Statement by President Joe Biden on Secretary of State Antony Blinken\u2019\
-  s Visit to the Middle East"
+title: "Statement by President Joe\_Biden on Secretary of State Antony Blinken\u2019\
+  s Visit to the Middle\_East"
 ---
  
 Following up on our quiet, intensive diplomacy to bring about a

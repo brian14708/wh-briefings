@@ -4,7 +4,7 @@ date: '2021-03-12'
 modified_time: 2021-03-12 14:28:03-05:00
 permalink: https://www.whitehouse.gov/briefing-room/blog/2021/03/12/the-white-house-gender-policy-council-a-message-from-the-co-chairs/
 published_time: 2021-03-12 14:28:02-05:00
-title: 'The White House Gender Policy Council: A Message from the Co-Chairs'
+title: "The White\_House Gender Policy Council: A Message from the\_Co-Chairs"
 ---
  
 By Jennifer Klein and Julissa Reynoso, Co-Chairs of the Gender Policy

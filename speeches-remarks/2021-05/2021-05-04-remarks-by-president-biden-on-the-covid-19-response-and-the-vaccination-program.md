@@ -4,8 +4,8 @@ date: '2021-05-04'
 modified_time: 2021-05-04 19:57:33-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/04/remarks-by-president-biden-on-the-covid-19-response-and-the-vaccination-program/
 published_time: 2021-05-04 19:57:32-04:00
-title: "Remarks by President Biden on the COVID- \u2060 19 Response and the Vaccination\
-  \ Program"
+title: "Remarks by President\_Biden on the COVID-\u206019 Response and the Vaccination\_\
+  Program"
 ---
  
 State Dining Room 

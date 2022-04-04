@@ -4,8 +4,8 @@ date: '2022-01-21'
 modified_time: 2022-01-21 08:45:57-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-actions-to-attract-stem-talent-and-strengthen-our-economy-and-competitiveness/
 published_time: 2022-01-21 08:45:56-05:00
-title: "FACT SHEET: Biden- \u2060 Harris Administration Actions to Attract STEM Talent\
-  \ and Strengthen our Economy and Competitiveness"
+title: "FACT SHEET: Biden-\u2060Harris Administration Actions to Attract STEM Talent\
+  \ and Strengthen our Economy and\_Competitiveness"
 ---
  
 The Biden-Harris Administration believes that one of America’s greatest

@@ -4,8 +4,8 @@ date: '2021-01-25'
 modified_time: 2021-01-26 09:23:31-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/readout-of-president-joseph-r-biden-jr-call-with-chancellor-angela-merkel-of-germany/
 published_time: 2021-01-25 16:00:00-05:00
-title: Readout of President Joseph R. Biden, Jr. Call with Chancellor Angela Merkel
-  of Germany
+title: "Readout of President Joseph R. Biden, Jr. Call with Chancellor Angela Merkel\
+  \ of\_Germany"
 ---
  
 President Joseph R. Biden, Jr. spoke today with German Chancellor Angela

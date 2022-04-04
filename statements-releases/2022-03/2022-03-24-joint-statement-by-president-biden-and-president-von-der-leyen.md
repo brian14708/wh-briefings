@@ -3,7 +3,7 @@ category: statements-releases
 date: '2022-03-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/joint-statement-by-president-biden-and-president-von-der-leyen/
 published_time: 2022-03-24 16:48:35-04:00
-title: Joint Statement by President Biden and President von der Leyen
+title: "Joint Statement by President\_Biden and President von der\_Leyen"
 ---
  
 We are united in our condemnation of Russia’s unjustified and unprovoked

@@ -4,8 +4,8 @@ date: '2022-03-03'
 modified_time: 2022-03-03 14:20:54-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela/
 published_time: 2022-03-03 14:20:53-05:00
-title: A Message to the Congress on the Continuation of the National Emergency with
-  Respect to Venezuela
+title: "A Message to the Congress on the Continuation of the National Emergency with\
+  \ Respect to\_Venezuela"
 ---
  
 TO THE CONGRESS OF THE UNITED STATES:

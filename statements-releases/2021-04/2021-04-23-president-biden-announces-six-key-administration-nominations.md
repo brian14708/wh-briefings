@@ -4,7 +4,7 @@ date: '2021-04-23'
 modified_time: 2021-04-23 15:36:05-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/president-biden-announces-six-key-administration-nominations/
 published_time: 2021-04-23 15:36:04-04:00
-title: President Biden Announces Six Key Administration Nominations
+title: "President\_Biden Announces Six Key Administration\_Nominations"
 ---
  
 WASHINGTON – Today, President Joe Biden announced his intent to nominate

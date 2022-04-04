@@ -4,8 +4,8 @@ date: '2021-05-19'
 modified_time: 2021-05-19 17:06:27-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/19/president-biden-announces-presidential-delegation-to-the-republic-of-ecuador-to-attend-the-inauguration-of-his-excellency-guillermo-lasso-mendoza/
 published_time: 2021-05-19 17:06:26-04:00
-title: President Biden Announces Presidential Delegation to the Republic of Ecuador
-  to Attend the Inauguration of His Excellency Guillermo Lasso Mendoza
+title: "President\_Biden Announces Presidential Delegation to the Republic of Ecuador\
+  \ to Attend the Inauguration of His Excellency Guillermo Lasso\_Mendoza"
 ---
  
 President Joseph R. Biden, Jr. today announced the designation of a

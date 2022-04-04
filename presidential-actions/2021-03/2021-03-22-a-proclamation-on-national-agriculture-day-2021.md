@@ -4,7 +4,7 @@ date: '2021-03-22'
 modified_time: 2021-03-22 10:44:20-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/22/a-proclamation-on-national-agriculture-day-2021/
 published_time: 2021-03-22 10:44:19-04:00
-title: A Proclamation on National Agriculture Day, 2021
+title: "A Proclamation on National Agriculture Day,\_2021"
 ---
  
 On National Agriculture Day, we recognize the unique and irreplaceable

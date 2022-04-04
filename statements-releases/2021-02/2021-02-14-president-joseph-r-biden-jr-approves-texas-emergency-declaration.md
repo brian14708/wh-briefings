@@ -4,7 +4,7 @@ date: '2021-02-14'
 modified_time: 2021-02-14 19:48:31-05:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/president-joseph-r-biden-jr-approves-texas-emergency-declaration/
 published_time: 2021-02-14 19:48:30-05:00
-title: President Joseph R. Biden, Jr. Approves Texas Emergency Declaration
+title: "President Joseph R. Biden, Jr. Approves Texas Emergency\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that an emergency exists

@@ -3,7 +3,7 @@ category: statements-releases
 date: '2021-11-24'
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-from-president-joe-biden-on-unemployment-insurance-claims/
 published_time: 2021-11-24 10:09:30-05:00
-title: Statement from President Joe Biden on Unemployment Insurance Claims
+title: "Statement from President Joe\_Biden on Unemployment Insurance\_Claims"
 ---
  
 This morning, we received two pieces of economic news which underscore

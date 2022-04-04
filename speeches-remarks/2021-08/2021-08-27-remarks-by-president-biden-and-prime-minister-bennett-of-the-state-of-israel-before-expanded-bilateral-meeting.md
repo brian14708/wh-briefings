@@ -4,8 +4,8 @@ date: '2021-08-27'
 modified_time: 2021-08-27 14:52:45-04:00
 permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/27/remarks-by-president-biden-and-prime-minister-bennett-of-the-state-of-israel-before-expanded-bilateral-meeting/
 published_time: 2021-08-27 14:52:44-04:00
-title: Remarks by President Biden and Prime Minister Bennett of the State of Israel
-  Before Expanded Bilateral Meeting
+title: "Remarks by President\_Biden and Prime Minister Bennett of the State of Israel\
+  \ Before Expanded Bilateral\_Meeting"
 ---
  
 Oval Office

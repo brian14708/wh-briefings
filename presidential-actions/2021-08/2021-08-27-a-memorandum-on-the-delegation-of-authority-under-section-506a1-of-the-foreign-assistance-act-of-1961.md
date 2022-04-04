@@ -4,8 +4,8 @@ date: '2021-08-27'
 modified_time: 2021-08-27 16:16:39-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/27/a-memorandum-on-the-delegation-of-authority-under-section-506a1-of-the-foreign-assistance-act-of-1961/
 published_time: 2021-08-27 16:16:37-04:00
-title: A Memorandum on the Delegation of Authority Under Section 506(a)(1) of the
-  Foreign Assistance Act of 1961
+title: "A Memorandum on the Delegation of Authority Under Section 506(a)(1) of the\
+  \ Foreign Assistance Act of\_1961"
 ---
  
 MEMORANDUM FOR THE SECRETARY OF STATE  

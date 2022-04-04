@@ -4,7 +4,7 @@ date: '2022-03-31'
 modified_time: 2022-03-31 14:55:12-04:00
 permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/national-cancer-control-month-2022/
 published_time: 2022-03-31 14:54:23-04:00
-title: A Proclamation on National Cancer Control Month, 2022
+title: "A Proclamation on National Cancer Control Month,\_2022"
 ---
  
     Since the Congress passed the landmark National Cancer Act in 1971,

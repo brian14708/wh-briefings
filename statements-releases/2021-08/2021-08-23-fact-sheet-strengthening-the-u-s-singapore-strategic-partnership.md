@@ -4,7 +4,7 @@ date: '2021-08-23'
 modified_time: 2021-08-23 06:51:19-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/23/fact-sheet-strengthening-the-u-s-singapore-strategic-partnership/
 published_time: 2021-08-23 01:30:00-04:00
-title: 'FACT SHEET: Strengthening the U.S.-Singapore Strategic Partnership'
+title: "FACT SHEET: Strengthening the U.S.-Singapore Strategic\_Partnership"
 ---
  
 The United States and Singapore are enduring strategic partners, and we

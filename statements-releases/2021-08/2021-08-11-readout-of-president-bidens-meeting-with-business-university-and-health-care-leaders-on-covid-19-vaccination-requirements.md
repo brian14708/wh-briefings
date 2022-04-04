@@ -4,8 +4,8 @@ date: '2021-08-11'
 modified_time: 2021-08-11 16:08:53-04:00
 permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-president-bidens-meeting-with-business-university-and-health-care-leaders-on-covid-19-vaccination-requirements/
 published_time: 2021-08-11 13:19:50-04:00
-title: "Readout of President Biden\u2019s Meeting with Business, University and Health\
-  \ Care Leaders on COVID- \u2060 19 Vaccination Requirements"
+title: "Readout of President\_Biden\u2019s Meeting with Business, University and Health\
+  \ Care Leaders on COVID-\u206019 Vaccination\_Requirements"
 ---
  
 Today, President Biden virtually met with four business, university and
