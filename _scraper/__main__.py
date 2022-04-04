@@ -185,7 +185,8 @@ async def main():
                 update=datetime.utcnow(),
                 items=items,
             )
-            await f.write(feedendum.to_rss_string(feed))
+            rss = BeautifulSoup(feedendum.to_rss_string(feed), 'xml')
+            await f.write(rss.prettify())
 
 if __name__ == '__main__':
     os.chdir(sys.argv[1])
