@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-06'
 modified_time: 2021-05-06 14:48:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/domestic-policy-presidential-directive-1-dppd-1/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/domestic-policy-presidential-directive-1-dppd-1/
 published_time: 2021-05-06 15:00:00-04:00
 title: "Domestic Policy Presidential Directive \u2013 1\_(DPPD-1)"
 ---

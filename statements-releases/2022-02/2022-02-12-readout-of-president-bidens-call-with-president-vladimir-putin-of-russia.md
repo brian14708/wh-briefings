@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-12'
 modified_time: 2022-02-12 12:52:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/readout-of-president-bidens-call-with-president-vladimir-putin-of-russia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/readout-of-president-bidens-call-with-president-vladimir-putin-of-russia/
 published_time: 2022-02-12 12:52:51-05:00
 title: "Readout of President\_Biden\u2019s Call with President Vladimir Putin of\_\
   Russia"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-13'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/13/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-3/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/13/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-3/
 published_time: 2022-02-13 12:45:24-05:00
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

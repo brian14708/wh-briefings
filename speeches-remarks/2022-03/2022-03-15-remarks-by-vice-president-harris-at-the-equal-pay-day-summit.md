@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-15'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/15/remarks-by-vice-president-harris-at-the-equal-pay-day-summit/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/15/remarks-by-vice-president-harris-at-the-equal-pay-day-summit/
 published_time: 2022-03-15 16:46:11-04:00
 title: "Remarks by Vice President Harris at the Equal Pay Day\_Summit"
 ---

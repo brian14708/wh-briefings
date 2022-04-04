@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-25'
 modified_time: 2022-03-25 06:04:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security/
 published_time: 2022-03-25 06:04:12-04:00
 title: "Joint Statement between the United\_States and the European Commission on\
   \ European Energy\_Security"

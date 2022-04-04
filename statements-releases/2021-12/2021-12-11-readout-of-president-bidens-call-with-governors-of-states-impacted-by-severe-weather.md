@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-11'
 modified_time: 2021-12-11 14:45:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-bidens-call-with-governors-of-states-impacted-by-severe-weather/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-bidens-call-with-governors-of-states-impacted-by-severe-weather/
 published_time: 2021-12-11 14:45:55-05:00
 title: "Readout of President\_Biden\u2019s Call with Governors of States Impacted\
   \ by Severe\_Weather"

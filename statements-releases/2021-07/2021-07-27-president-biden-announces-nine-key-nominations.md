@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-27'
 modified_time: 2021-07-27 16:08:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/president-biden-announces-nine-key-nominations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/president-biden-announces-nine-key-nominations/
 published_time: 2021-07-27 16:08:44-04:00
 title: "President\_Biden Announces Nine Key\_Nominations"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 16:05:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
 published_time: 2022-01-25 16:05:27-05:00
 title: "FACT SHEET: President\u2019s Interagency Task Force to Monitor and Combat\
   \ Trafficking in\_Persons"

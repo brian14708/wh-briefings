@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-17'
 modified_time: 2021-09-17 07:18:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/executive-order-on-imposing-sanctions-on-certain-persons-with-respect-to-the-humanitarian-and-human-rights-crisis-in-ethiopia/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/executive-order-on-imposing-sanctions-on-certain-persons-with-respect-to-the-humanitarian-and-human-rights-crisis-in-ethiopia/
 published_time: 2021-09-17 07:16:33-04:00
 title: "Executive Order on Imposing Sanctions on Certain Persons With Respect to the\
   \ Humanitarian and Human Rights Crisis in\_Ethiopia"

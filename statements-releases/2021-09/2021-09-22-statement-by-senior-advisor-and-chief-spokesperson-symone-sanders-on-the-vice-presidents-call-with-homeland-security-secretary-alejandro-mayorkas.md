@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-12-23 15:22:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-the-vice-presidents-call-with-homeland-security-secretary-alejandro-mayorkas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-the-vice-presidents-call-with-homeland-security-secretary-alejandro-mayorkas/
 published_time: 2021-09-22 01:40:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on the Vice\
   \ President\u2019s Call with Homeland Security Secretary Alejandro\_Mayorkas"

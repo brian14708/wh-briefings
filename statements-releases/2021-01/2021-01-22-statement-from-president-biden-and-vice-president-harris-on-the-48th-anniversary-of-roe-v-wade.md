@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-22'
 modified_time: 2021-01-22 12:33:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/statement-from-president-biden-and-vice-president-harris-on-the-48th-anniversary-of-roe-v-wade/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/statement-from-president-biden-and-vice-president-harris-on-the-48th-anniversary-of-roe-v-wade/
 published_time: 2021-01-22 12:33:57-05:00
 title: "Statement from President\_Biden and Vice President Harris on the 48th Anniversary\
   \ of Roe v.\_Wade"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-13'
 modified_time: 2021-06-14 09:58:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/13/remarks-by-president-biden-in-press-conference-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/13/remarks-by-president-biden-in-press-conference-2/
 published_time: 2021-06-13 13:31:00-04:00
 title: "Remarks by President\_Biden in Press\_Conference"
 ---

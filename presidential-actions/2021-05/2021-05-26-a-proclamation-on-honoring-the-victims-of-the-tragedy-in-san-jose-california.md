@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-26'
 modified_time: 2021-05-26 17:18:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-san-jose-california/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-san-jose-california/
 published_time: 2021-05-26 17:18:26-04:00
 title: "A Proclamation on Honoring the Victims of the Tragedy in San Jose,\_California"
 ---

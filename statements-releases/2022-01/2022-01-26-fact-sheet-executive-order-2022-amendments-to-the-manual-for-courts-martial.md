@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-26 18:48:27-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/
 published_time: 2022-01-26 18:48:26-05:00
 title: "FACT SHEET: Executive Order, 2022 Amendments to the Manual for\_Courts-Martial"
 ---

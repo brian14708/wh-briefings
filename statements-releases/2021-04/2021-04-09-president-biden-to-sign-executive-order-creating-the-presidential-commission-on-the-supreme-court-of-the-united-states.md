@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-09'
 modified_time: 2021-04-10 13:28:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/president-biden-to-sign-executive-order-creating-the-presidential-commission-on-the-supreme-court-of-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/president-biden-to-sign-executive-order-creating-the-presidential-commission-on-the-supreme-court-of-the-united-states/
 published_time: 2021-04-09 11:13:43-04:00
 title: "President\_Biden to Sign Executive Order Creating the Presidential Commission\
   \ on the Supreme Court of the United\_States"

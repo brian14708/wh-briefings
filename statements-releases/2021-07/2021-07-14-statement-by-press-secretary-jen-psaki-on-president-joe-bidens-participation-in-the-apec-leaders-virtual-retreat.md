@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-14'
 modified_time: 2021-07-14 10:44:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/statement-by-press-secretary-jen-psaki-on-president-joe-bidens-participation-in-the-apec-leaders-virtual-retreat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/statement-by-press-secretary-jen-psaki-on-president-joe-bidens-participation-in-the-apec-leaders-virtual-retreat/
 published_time: 2021-07-14 10:44:50-04:00
 title: "Statement by Press Secretary Jen\_Psaki on President Joe\_Biden\u2019s Participation\
   \ in the APEC Leaders\u2019 Virtual\_Retreat"

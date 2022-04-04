@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-03 23:53:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/
 published_time: 2022-03-04 05:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers on Made in America\_\
   Commitments"

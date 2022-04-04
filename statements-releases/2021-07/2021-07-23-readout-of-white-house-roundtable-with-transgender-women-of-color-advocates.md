@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-26 12:56:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/
 published_time: 2021-07-23 17:40:15-04:00
 title: "Readout of White\_House Roundtable with Transgender Women of Color\_Advocates"
 ---

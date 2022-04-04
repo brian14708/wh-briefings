@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-06'
 modified_time: 2022-02-06 17:47:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/06/readout-of-president-joseph-r-biden-jr-s-call-with-prime-minister-naftali-bennett-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/06/readout-of-president-joseph-r-biden-jr-s-call-with-prime-minister-naftali-bennett-of-israel/
 published_time: 2022-02-06 17:47:08-05:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with Prime Minister\
   \ Naftali Bennett of\_Israel"

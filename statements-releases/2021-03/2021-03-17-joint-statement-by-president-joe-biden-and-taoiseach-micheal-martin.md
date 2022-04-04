@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-17'
 modified_time: 2021-03-17 16:14:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/joint-statement-by-president-joe-biden-and-taoiseach-micheal-martin/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/joint-statement-by-president-joe-biden-and-taoiseach-micheal-martin/
 published_time: 2021-03-17 16:14:48-04:00
 title: "Joint Statement by President Joe\_Biden and Taoiseach Miche\xE1l\_Martin"
 ---

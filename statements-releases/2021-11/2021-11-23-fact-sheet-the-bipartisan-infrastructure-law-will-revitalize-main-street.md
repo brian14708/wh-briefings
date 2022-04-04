@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-23'
 modified_time: 2021-11-23 19:44:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/fact-sheet-the-bipartisan-infrastructure-law-will-revitalize-main-street/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/fact-sheet-the-bipartisan-infrastructure-law-will-revitalize-main-street/
 published_time: 2021-11-23 19:44:02-05:00
 title: "FACT SHEET: The Bipartisan Infrastructure Law Will Revitalize Main\_Street"
 ---

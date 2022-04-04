@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-14'
 modified_time: 2022-02-14 13:30:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 published_time: 2022-02-14 13:30:46-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversary\
   \ of the Reestablishment of the White\_House Office of Faith-Based and Neighborhood\_\

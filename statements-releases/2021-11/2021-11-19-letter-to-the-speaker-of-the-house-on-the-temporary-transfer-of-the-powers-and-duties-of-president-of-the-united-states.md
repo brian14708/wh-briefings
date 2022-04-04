@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
 modified_time: 2021-11-19 12:31:57-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/letter-to-the-speaker-of-the-house-on-the-temporary-transfer-of-the-powers-and-duties-of-president-of-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/letter-to-the-speaker-of-the-house-on-the-temporary-transfer-of-the-powers-and-duties-of-president-of-the-united-states/
 published_time: 2021-11-19 12:31:56-05:00
 title: "Letter to the Speaker of the House on the Temporary Transfer of the Powers\
   \ and Duties of President of the United\_States"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-25 23:13:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/readout-of-president-joseph-r-biden-jr-meeting-with-president-ghani-and-chairman-abdullah-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/readout-of-president-joseph-r-biden-jr-meeting-with-president-ghani-and-chairman-abdullah-of-afghanistan/
 published_time: 2021-06-25 23:13:13-04:00
 title: "Readout of President Joseph R. Biden, Jr. Meeting with President Ghani and\
   \ Chairman Abdullah of\_Afghanistan"

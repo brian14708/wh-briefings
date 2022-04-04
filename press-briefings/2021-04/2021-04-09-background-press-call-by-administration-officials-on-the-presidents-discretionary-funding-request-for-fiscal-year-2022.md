@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-09'
 modified_time: 2021-04-09 13:59:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/09/background-press-call-by-administration-officials-on-the-presidents-discretionary-funding-request-for-fiscal-year-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/09/background-press-call-by-administration-officials-on-the-presidents-discretionary-funding-request-for-fiscal-year-2022/
 published_time: 2021-04-09 13:59:24-04:00
 title: "Background Press Call by Administration Officials on the President\u2019s\
   \ Discretionary Funding Request for Fiscal Year\_2022"

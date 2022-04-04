@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-22'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/22/executive-order-economic-relief-related-to-the-covid-19-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/22/executive-order-economic-relief-related-to-the-covid-19-pandemic/
 published_time: 2021-01-22 16:56:26-05:00
 title: "Executive Order on Economic Relief Related to the COVID-\u206019\_Pandemic"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-21'
 modified_time: 2021-10-26 09:46:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/21/remarks-by-vice-president-harris-at-the-10th-anniversary-celebration-of-the-dedication-of-the-dr-martin-luther-king-jr-memorial/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/21/remarks-by-vice-president-harris-at-the-10th-anniversary-celebration-of-the-dedication-of-the-dr-martin-luther-king-jr-memorial/
 published_time: 2021-10-21 16:30:00-04:00
 title: "Remarks by Vice President Harris at the 10th Anniversary Celebration of the\
   \ Dedication of the Dr. Martin Luther King, Jr.\_Memorial"

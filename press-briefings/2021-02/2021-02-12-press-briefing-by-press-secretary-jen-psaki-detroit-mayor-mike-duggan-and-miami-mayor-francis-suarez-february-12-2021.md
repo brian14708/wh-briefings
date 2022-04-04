@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-12'
 modified_time: 2021-02-12 22:09:31-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/12/press-briefing-by-press-secretary-jen-psaki-detroit-mayor-mike-duggan-and-miami-mayor-francis-suarez-february-12-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/12/press-briefing-by-press-secretary-jen-psaki-detroit-mayor-mike-duggan-and-miami-mayor-francis-suarez-february-12-2021/
 published_time: 2021-02-12 17:58:40-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, Detroit Mayor Mike Duggan, and\
   \ Miami Mayor Francis Suarez, February 12,\_2021"

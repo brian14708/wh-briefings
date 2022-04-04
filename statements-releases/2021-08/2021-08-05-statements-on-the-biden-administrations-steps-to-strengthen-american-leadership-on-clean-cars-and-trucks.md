@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-05'
 modified_time: 2021-08-05 09:21:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statements-on-the-biden-administrations-steps-to-strengthen-american-leadership-on-clean-cars-and-trucks/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statements-on-the-biden-administrations-steps-to-strengthen-american-leadership-on-clean-cars-and-trucks/
 published_time: 2021-08-05 05:00:00-04:00
 title: "Statements on the Biden Administration\u2019s Steps to Strengthen American\
   \ Leadership on Clean Cars and\_Trucks"

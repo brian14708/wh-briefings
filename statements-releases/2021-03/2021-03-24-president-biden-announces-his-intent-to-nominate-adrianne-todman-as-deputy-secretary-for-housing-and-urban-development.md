@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/24/president-biden-announces-his-intent-to-nominate-adrianne-todman-as-deputy-secretary-for-housing-and-urban-development/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/24/president-biden-announces-his-intent-to-nominate-adrianne-todman-as-deputy-secretary-for-housing-and-urban-development/
 published_time: 2021-03-24 12:37:27-04:00
 title: "President\_Biden Announces his Intent to Nominate Adrianne Todman as Deputy\
   \ Secretary for Housing and Urban\_Development"

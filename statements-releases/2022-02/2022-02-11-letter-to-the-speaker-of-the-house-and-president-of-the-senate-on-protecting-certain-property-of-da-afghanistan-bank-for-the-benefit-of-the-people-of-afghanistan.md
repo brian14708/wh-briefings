@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-11 09:28:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-protecting-certain-property-of-da-afghanistan-bank-for-the-benefit-of-the-people-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-protecting-certain-property-of-da-afghanistan-bank-for-the-benefit-of-the-people-of-afghanistan/
 published_time: 2022-02-11 09:30:00-05:00
 title: "Letter to the Speaker of the House and President of the Senate on Protecting\
   \ Certain Property of Da Afghanistan Bank for the Benefit of the People of\_Afghanistan"

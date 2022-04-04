@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-24'
 modified_time: 2022-01-24 17:45:44-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-president-bidens-video-call-with-european-leaders-on-russia-and-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-president-bidens-video-call-with-european-leaders-on-russia-and-ukraine/
 published_time: 2022-01-24 17:45:43-05:00
 title: "Readout of President\_Biden\u2019s Video Call with European Leaders on Russia\
   \ and\_Ukraine"

@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-03-12'
 modified_time: 2021-03-12 14:28:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/03/12/the-white-house-gender-policy-council-a-message-from-the-co-chairs/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/03/12/the-white-house-gender-policy-council-a-message-from-the-co-chairs/
 published_time: 2021-03-12 14:28:02-05:00
 title: "The White\_House Gender Policy Council: A Message from the\_Co-Chairs"
 ---

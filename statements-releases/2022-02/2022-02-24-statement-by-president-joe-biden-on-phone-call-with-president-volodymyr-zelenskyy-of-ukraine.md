@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-24'
 modified_time: 2022-02-24 00:09:18-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/statement-by-president-joe-biden-on-phone-call-with-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/statement-by-president-joe-biden-on-phone-call-with-president-volodymyr-zelenskyy-of-ukraine/
 published_time: 2022-02-24 00:09:17-05:00
 title: "Statement by President Joe\_Biden on Phone Call with President Volodymyr Zelenskyy\
   \ of\_Ukraine"

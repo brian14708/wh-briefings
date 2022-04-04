@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-14'
 modified_time: 2022-03-14 14:27:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/14/a-proclamation-on-national-equal-pay-day-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/14/a-proclamation-on-national-equal-pay-day-2022/
 published_time: 2022-03-14 14:27:52-04:00
 title: "A Proclamation on National Equal Pay Day,\_2022"
 ---

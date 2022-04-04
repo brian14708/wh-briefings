@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 00:52:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-biden-on-2-8-million-americans-gaining-health-care-in-the-2021-special-enrollment-period/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-biden-on-2-8-million-americans-gaining-health-care-in-the-2021-special-enrollment-period/
 published_time: 2021-09-15 08:00:00-04:00
 title: "Statement by President\_Biden on 2.8 Million Americans Gaining Health Care\
   \ in the 2021 Special Enrollment\_Period"

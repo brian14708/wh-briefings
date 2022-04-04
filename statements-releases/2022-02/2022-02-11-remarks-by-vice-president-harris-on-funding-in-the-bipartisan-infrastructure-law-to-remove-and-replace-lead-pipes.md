@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-12 09:21:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/remarks-by-vice-president-harris-on-funding-in-the-bipartisan-infrastructure-law-to-remove-and-replace-lead-pipes/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/remarks-by-vice-president-harris-on-funding-in-the-bipartisan-infrastructure-law-to-remove-and-replace-lead-pipes/
 published_time: 2022-02-11 11:48:00-05:00
 title: "Remarks by Vice President Harris on Funding in the Bipartisan Infrastructure\
   \ Law to Remove and Replace Lead\_Pipes"

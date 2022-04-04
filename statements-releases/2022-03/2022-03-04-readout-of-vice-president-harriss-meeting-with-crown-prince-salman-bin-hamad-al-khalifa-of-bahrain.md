@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-04 14:48:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/readout-of-vice-president-harriss-meeting-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/readout-of-vice-president-harriss-meeting-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
 published_time: 2022-03-04 14:48:22-05:00
 title: "Readout of Vice President Harris\u2019s Meeting with Crown Prince Salman bin\
   \ Hamad Al Khalifa of\_Bahrain"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-16'
 modified_time: 2022-02-19 21:08:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/president-biden-announces-ostp-leadership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/president-biden-announces-ostp-leadership/
 published_time: 2022-02-16 18:09:05-05:00
 title: "President\_Biden Announces OSTP\_Leadership"
 ---

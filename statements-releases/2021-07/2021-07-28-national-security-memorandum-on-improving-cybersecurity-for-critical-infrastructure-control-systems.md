@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-07-28 09:13:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/national-security-memorandum-on-improving-cybersecurity-for-critical-infrastructure-control-systems/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/national-security-memorandum-on-improving-cybersecurity-for-critical-infrastructure-control-systems/
 published_time: 2021-07-28 09:11:55-04:00
 title: "National Security Memorandum on Improving Cybersecurity for Critical Infrastructure\
   \ Control\_Systems"

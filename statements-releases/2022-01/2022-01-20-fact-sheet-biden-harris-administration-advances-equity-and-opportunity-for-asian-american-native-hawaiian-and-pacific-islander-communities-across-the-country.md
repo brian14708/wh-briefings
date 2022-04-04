@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-20'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
 published_time: 2022-01-20 12:56:56-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Asian American, Native Hawaiian, and Pacific Islander Communities Across the\_\

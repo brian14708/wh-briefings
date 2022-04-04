@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-16'
 modified_time: 2021-12-16 20:39:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/readout-of-the-roundtable-on-the-biden-%e2%81%a0harris-administration-trucking-action-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/readout-of-the-roundtable-on-the-biden-%e2%81%a0harris-administration-trucking-action-plan/
 published_time: 2021-12-16 20:40:00-05:00
 title: "Readout of the Roundtable on the Biden-\u2060Harris Administration Trucking\
   \ Action\_Plan"

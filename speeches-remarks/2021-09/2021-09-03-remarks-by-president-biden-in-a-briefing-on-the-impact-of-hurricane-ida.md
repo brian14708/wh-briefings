@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-03'
 modified_time: 2021-09-03 22:20:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/03/remarks-by-president-biden-in-a-briefing-on-the-impact-of-hurricane-ida/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/03/remarks-by-president-biden-in-a-briefing-on-the-impact-of-hurricane-ida/
 published_time: 2021-09-03 22:30:00-04:00
 title: "Remarks by President\_Biden in a Briefing on the Impact of Hurricane\_Ida"
 ---

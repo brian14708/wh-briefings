@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-14'
 modified_time: 2022-01-14 17:55:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/president-biden-announces-key-appointments-to-boards-and-commissions/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/president-biden-announces-key-appointments-to-boards-and-commissions/
 published_time: 2022-01-14 18:15:00-05:00
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-11'
 modified_time: 2021-03-11 18:42:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/fact-sheet-president-biden-to-announce-all-americans-to-be-eligible-for-vaccinations-by-may-1-puts-the-nation-on-a-path-to-get-closer-to-normal-by-july-4th/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/fact-sheet-president-biden-to-announce-all-americans-to-be-eligible-for-vaccinations-by-may-1-puts-the-nation-on-a-path-to-get-closer-to-normal-by-july-4th/
 published_time: 2021-03-11 18:42:29-05:00
 title: "Fact Sheet: President\_Biden to Announce All Americans to be Eligible for\
   \ Vaccinations by May 1, Puts the Nation on a Path to Get Closer to Normal by July\_\

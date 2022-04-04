@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-02'
 modified_time: 2021-09-02 11:14:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/statement-by-president-joe-biden-on-supreme-court-ruling-on-texas-law-sb8/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/statement-by-president-joe-biden-on-supreme-court-ruling-on-texas-law-sb8/
 published_time: 2021-09-02 11:15:00-04:00
 title: "Statement by President Joe\_Biden on Supreme Court Ruling on Texas Law\_SB8"
 ---

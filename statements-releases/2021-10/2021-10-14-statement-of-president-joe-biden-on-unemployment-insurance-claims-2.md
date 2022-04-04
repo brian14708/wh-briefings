@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 12:10:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-of-president-joe-biden-on-unemployment-insurance-claims-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-of-president-joe-biden-on-unemployment-insurance-claims-2/
 published_time: 2021-10-14 12:10:16-04:00
 title: "Statement of President Joe\_Biden on Unemployment Insurance\_Claims"
 ---

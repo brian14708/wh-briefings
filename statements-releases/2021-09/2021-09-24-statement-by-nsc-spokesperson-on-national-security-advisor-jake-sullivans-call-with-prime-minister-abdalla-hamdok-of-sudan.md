@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-call-with-prime-minister-abdalla-hamdok-of-sudan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-call-with-prime-minister-abdalla-hamdok-of-sudan/
 published_time: 2021-09-24 11:47:34-04:00
 title: "Statement by NSC Spokesperson on National Security Advisor Jake Sullivan\u2019\
   s Call with Prime Minister Abdalla Hamdok of\_Sudan"

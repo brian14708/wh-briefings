@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-10'
 modified_time: 2021-09-10 16:58:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/10/remarks-by-vice-president-harris-during-classroom-visit-to-discuss-voting-rights/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/10/remarks-by-vice-president-harris-during-classroom-visit-to-discuss-voting-rights/
 published_time: 2021-09-10 16:58:00-04:00
 title: "Remarks by Vice President Harris During Classroom Visit to Discuss Voting\_\
   Rights"

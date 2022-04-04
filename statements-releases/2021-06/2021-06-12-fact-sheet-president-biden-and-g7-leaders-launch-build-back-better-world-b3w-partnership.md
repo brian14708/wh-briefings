@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-12'
 modified_time: 2021-06-16 15:31:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/
 published_time: 2021-06-12 07:30:00-04:00
 title: "FACT SHEET: President\_Biden and G7 Leaders Launch Build Back Better World\
   \ (B3W)\_Partnership"

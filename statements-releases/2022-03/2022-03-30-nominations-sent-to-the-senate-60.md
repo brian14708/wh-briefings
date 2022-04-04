@@ -1,8 +1,8 @@
 ---
-category: statements-releases
 date: '2022-03-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/nominations-sent-to-the-senate-60/
 published_time: 2022-03-30 16:50:38-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/nominations-sent-to-the-senate-60/
+tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---
  

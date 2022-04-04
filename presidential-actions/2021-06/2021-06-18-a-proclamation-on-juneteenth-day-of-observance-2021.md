@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-18'
 modified_time: 2021-06-18 09:00:23-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/18/a-proclamation-on-juneteenth-day-of-observance-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/18/a-proclamation-on-juneteenth-day-of-observance-2021/
 published_time: 2021-06-18 09:00:22-04:00
 title: "A Proclamation on Juneteenth Day of Observance,\_2021"
 ---

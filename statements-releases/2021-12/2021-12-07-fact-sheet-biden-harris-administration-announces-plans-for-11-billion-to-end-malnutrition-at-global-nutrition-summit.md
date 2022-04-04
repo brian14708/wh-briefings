@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 00:19:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/
 published_time: 2021-12-07 09:00:00-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Plans for $11 Billion\
   \ to End Malnutrition at Global Nutrition\_Summit"

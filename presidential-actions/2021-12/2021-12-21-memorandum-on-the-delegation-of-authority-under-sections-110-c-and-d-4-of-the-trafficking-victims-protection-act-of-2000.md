@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-21'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/21/memorandum-on-the-delegation-of-authority-under-sections-110-c-and-d-4-of-the-trafficking-victims-protection-act-of-2000/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/21/memorandum-on-the-delegation-of-authority-under-sections-110-c-and-d-4-of-the-trafficking-victims-protection-act-of-2000/
 published_time: 2021-12-21 18:07:09-05:00
 title: "Memorandum on the Delegation of Authority Under Sections 110 (c) and (d) (4)\
   \ of the Trafficking Victims Protection Act of\_2000"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-17'
 modified_time: 2021-05-17 19:26:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-harris-administration-is-providing-at-least-80-million-covid-19-vaccines-for-global-use-commits-to-leading-a-multilateral-effort-toward-ending-the-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-harris-administration-is-providing-at-least-80-million-covid-19-vaccines-for-global-use-commits-to-leading-a-multilateral-effort-toward-ending-the-pandemic/
 published_time: 2021-05-17 19:26:10-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration is Providing at least 80 million\
   \ COVID-\u206019 Vaccines for Global Use, Commits to Leading a Multilateral Effort\

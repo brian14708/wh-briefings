@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-20'
 modified_time: 2021-10-20 18:57:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/20/press-gaggle-by-press-secretary-jen-psaki-en-route-avoca-pa/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/20/press-gaggle-by-press-secretary-jen-psaki-en-route-avoca-pa/
 published_time: 2021-10-20 19:00:00-04:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki En Route Avoca,\_PA"
 ---

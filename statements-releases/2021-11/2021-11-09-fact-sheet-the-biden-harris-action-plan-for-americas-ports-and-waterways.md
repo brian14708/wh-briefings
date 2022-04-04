@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-09'
 modified_time: 2021-11-09 12:00:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/
 published_time: 2021-11-09 12:00:15-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Action Plan for America\u2019s Ports and\_\
   Waterways"

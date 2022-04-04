@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-29'
 modified_time: 2021-04-29 17:28:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/29/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-plains-ga/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/29/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-plains-ga/
 published_time: 2021-04-29 17:45:00-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard\
   \ Air Force One En Route Plains,\_GA"

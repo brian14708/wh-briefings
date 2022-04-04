@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-04-02'
 modified_time: 2022-04-02 15:56:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/02/remarks-by-president-biden-and-first-lady-jill-biden-at-the-commissioning-commemoration-ceremony-of-the-uss-delaware/
 published_time: 2022-04-02 15:56:07-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/02/remarks-by-president-biden-and-first-lady-jill-biden-at-the-commissioning-commemoration-ceremony-of-the-uss-delaware/
+tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the Commissioning\
   \ Commemoration Ceremony of the USS\_Delaware"
 ---

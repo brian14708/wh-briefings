@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2022-02-25'
 modified_time: 2022-02-25 08:13:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2022/02/25/how-to-watch-president-bidens-first-state-of-the-union-address/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2022/02/25/how-to-watch-president-bidens-first-state-of-the-union-address/
 published_time: 2022-02-25 08:13:14-05:00
 title: "How to Watch President\_Biden\u2019s First State of the Union\_Address"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 05:37:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-by-press-secretary-jen-psaki-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-launch/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-by-press-secretary-jen-psaki-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-launch/
 published_time: 2022-03-24 05:30:00-04:00
 title: "Statement by Press Secretary Jen\_Psaki on the Democratic People\u2019s Republic\
   \ of Korea\u2019s Ballistic Missile\_Launch"

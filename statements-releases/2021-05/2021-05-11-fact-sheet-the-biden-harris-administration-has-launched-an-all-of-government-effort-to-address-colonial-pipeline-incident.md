@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-11'
 modified_time: 2021-05-11 18:04:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/fact-sheet-the-biden-harris-administration-has-launched-an-all-of-government-effort-to-address-colonial-pipeline-incident/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/fact-sheet-the-biden-harris-administration-has-launched-an-all-of-government-effort-to-address-colonial-pipeline-incident/
 published_time: 2021-05-11 18:04:13-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Has Launched an All-of-Government\
   \ Effort to Address Colonial Pipeline\_Incident"

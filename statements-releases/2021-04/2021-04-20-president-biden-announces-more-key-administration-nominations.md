@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-20'
 modified_time: 2021-04-20 14:13:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/president-biden-announces-more-key-administration-nominations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/president-biden-announces-more-key-administration-nominations/
 published_time: 2021-04-20 14:13:24-04:00
 title: "President\_Biden Announces More Key Administration\_Nominations"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 10:50:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-the-president-on-the-affirmation-of-ratko-mladics-conviction/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-the-president-on-the-affirmation-of-ratko-mladics-conviction/
 published_time: 2021-06-08 10:50:24-04:00
 title: "Statement by the President on the Affirmation of Ratko Mladic\u2019s\_Conviction"
 ---

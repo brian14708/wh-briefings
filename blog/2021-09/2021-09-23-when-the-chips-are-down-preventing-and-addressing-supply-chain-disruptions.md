@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-09-23'
 modified_time: 2021-09-23 11:19:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/
 published_time: 2021-09-23 11:14:47-04:00
 title: "When the Chips Are Down: Preventing and Addressing Supply Chain\_Disruptions"
 ---

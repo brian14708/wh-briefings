@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-11'
 modified_time: 2021-09-11 18:52:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/11/remarks-by-president-biden-after-visiting-with-firefighters-and-their-families-on-the-20th-anniversary-of-the-september-11th-attacks/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/11/remarks-by-president-biden-after-visiting-with-firefighters-and-their-families-on-the-20th-anniversary-of-the-september-11th-attacks/
 published_time: 2021-09-11 19:15:00-04:00
 title: "Remarks by President\_Biden After Visiting with Firefighters and Their Families\
   \ on the 20th Anniversary of the September 11th\_Attacks"

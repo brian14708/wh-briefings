@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-29'
 modified_time: 2022-03-29 13:12:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration/
 published_time: 2022-03-29 12:50:05-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration/
+tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Disaster\_Declaration"
 ---
  

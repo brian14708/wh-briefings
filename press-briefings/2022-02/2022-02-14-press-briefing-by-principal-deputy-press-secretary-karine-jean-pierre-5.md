@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-14'
 modified_time: 2022-02-14 19:05:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/14/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-5/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/14/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-5/
 published_time: 2022-02-14 18:50:54-05:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

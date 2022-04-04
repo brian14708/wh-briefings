@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-04'
 modified_time: 2022-03-04 17:08:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/04/remarks-by-president-biden-on-delivering-on-made-in-america-commitments/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/04/remarks-by-president-biden-on-delivering-on-made-in-america-commitments/
 published_time: 2022-03-04 17:08:39-05:00
 title: "Remarks By President\_Biden on Delivering On Made In America\_Commitments"
 ---

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-02-04'
 modified_time: 2022-02-04 15:00:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/
 published_time: 2022-02-04 15:00:54-05:00
 title: "Executive Order on Use of Project Labor Agreements For Federal Construction\_\
   Projects"

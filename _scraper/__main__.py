@@ -104,8 +104,8 @@ async def fetch_article_worker(session: aiohttp.ClientSession, queue: asyncio.Qu
                 async with aiofiles.open(filename, 'w') as f:
                     front_matter = {
                         'title': a.title,
-                        'category': a.category,
-                        'permalink': a.link,
+                        'tags': a.category,
+                        'source_url': a.link,
                         'date': f'{a.published_time.year}-{a.published_time.month:02d}-{a.published_time.day:02d}',
                         'published_time': a.published_time,
                     }
@@ -182,7 +182,7 @@ async def main():
                 title='The White House Briefing Room',
                 description='The White House Briefing Room',
                 url='https://www.whitehouse.gov/briefing-room/',
-                update=datetime.utcnow(),
+                update=max(map(lambda i: i.update, items), default=datetime.utcnow()),
                 items=items,
             )
             rss = BeautifulSoup(feedendum.to_rss_string(feed), 'xml')

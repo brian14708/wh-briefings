@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-04'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/president-joseph-r-biden-jr-approves-washington-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/president-joseph-r-biden-jr-approves-washington-disaster-declaration/
 published_time: 2021-02-04 14:20:13-05:00
 title: "President Joseph R. Biden, Jr. Approves Washington Disaster\_Declaration"
 ---

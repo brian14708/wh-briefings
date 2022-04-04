@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-20'
 modified_time: 2021-04-20 21:21:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/readout-of-oval-office-meeting-with-congressional-hispanic-caucus-leadership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/readout-of-oval-office-meeting-with-congressional-hispanic-caucus-leadership/
 published_time: 2021-04-20 21:21:12-04:00
 title: "Readout of Oval Office Meeting with Congressional Hispanic Caucus\_Leadership"
 ---

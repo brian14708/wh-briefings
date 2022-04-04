@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-28'
 modified_time: 2021-05-28 15:12:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/28/remarks-by-president-biden-celebrating-the-significant-progress-virginia-has-made-in-the-fight-against-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/28/remarks-by-president-biden-celebrating-the-significant-progress-virginia-has-made-in-the-fight-against-covid-19/
 published_time: 2021-05-28 15:12:29-04:00
 title: "Remarks by President\_Biden Celebrating the Significant Progress Virginia\
   \ Has Made in the Fight Against\_COVID-\u206019"

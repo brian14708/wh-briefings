@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-20'
 modified_time: 2022-03-18 19:00:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/20/statement-by-president-joe-biden-and-first-lady-jill-biden-marking-nowruz/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/20/statement-by-president-joe-biden-and-first-lady-jill-biden-marking-nowruz/
 published_time: 2022-03-20 11:33:00-04:00
 title: "Statement by President Joe\_Biden and First Lady Jill\_Biden Marking\_Nowruz"
 ---

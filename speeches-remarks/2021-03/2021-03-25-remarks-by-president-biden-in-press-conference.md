@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-25'
 modified_time: 2021-03-26 21:46:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/25/remarks-by-president-biden-in-press-conference/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/25/remarks-by-president-biden-in-press-conference/
 published_time: 2021-03-25 17:41:57-04:00
 title: "Remarks by President\_Biden in Press\_Conference"
 ---

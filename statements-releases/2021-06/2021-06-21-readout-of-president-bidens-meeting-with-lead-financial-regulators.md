@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-21'
 modified_time: 2021-06-21 16:47:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/readout-of-president-bidens-meeting-with-lead-financial-regulators/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/readout-of-president-bidens-meeting-with-lead-financial-regulators/
 published_time: 2021-06-21 16:47:29-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Lead Financial\_Regulators"
 ---

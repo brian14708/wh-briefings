@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-09'
 modified_time: 2021-09-09 09:46:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/president-biden-intends-to-nominate-willie-l-phillips-jr-as-a-commissioner-of-federal-energy-regulatory-commission-ferc/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/president-biden-intends-to-nominate-willie-l-phillips-jr-as-a-commissioner-of-federal-energy-regulatory-commission-ferc/
 published_time: 2021-09-09 10:30:00-04:00
 title: "President\_Biden Intends to Nominate Willie L. Phillips, Jr. as a Commissioner\
   \ of the Federal Energy Regulatory Commission\_(FERC)"

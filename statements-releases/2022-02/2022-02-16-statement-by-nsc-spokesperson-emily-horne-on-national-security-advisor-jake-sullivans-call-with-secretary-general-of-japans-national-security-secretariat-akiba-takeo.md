@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-16'
 modified_time: 2022-02-16 17:56:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
 published_time: 2022-02-16 17:56:40-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Secretary General of Japan\u2019s National Security\

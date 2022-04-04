@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-31'
 modified_time: 2022-01-31 00:11:44-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/31/background-press-call-by-senior-administration-officials-previewing-the-visit-of-the-amir-of-qatar/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/31/background-press-call-by-senior-administration-officials-previewing-the-visit-of-the-amir-of-qatar/
 published_time: 2022-01-31 05:00:00-05:00
 title: "Background Press Call by Senior Administration Officials Previewing the Visit\
   \ of the Amir of\_Qatar"

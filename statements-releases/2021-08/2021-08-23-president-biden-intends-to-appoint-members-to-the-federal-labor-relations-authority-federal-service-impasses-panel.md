@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-23'
 modified_time: 2021-08-23 13:00:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/23/president-biden-intends-to-appoint-members-to-the-federal-labor-relations-authority-federal-service-impasses-panel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/23/president-biden-intends-to-appoint-members-to-the-federal-labor-relations-authority-federal-service-impasses-panel/
 published_time: 2021-08-23 13:00:55-04:00
 title: "President\_Biden Intends to Appoint Members to the Federal Labor Relations\
   \ Authority Federal Service Impasses\_Panel"

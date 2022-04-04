@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-29'
 modified_time: 2022-03-29 19:12:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/fact-sheet-biden-harris-administration-announces-additional-infrastructure-funding-for-ports-and-waterways/
 published_time: 2022-03-29 19:30:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/fact-sheet-biden-harris-administration-announces-additional-infrastructure-funding-for-ports-and-waterways/
+tags: statements-releases
 title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces Additional Infrastructure\
   \ Funding for Ports and\_Waterways"
 ---

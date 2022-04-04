@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-21'
 modified_time: 2021-06-21 10:57:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/fact-sheet-biden-harris-administration-announces-allocation-plan-for-55-million-doses-to-be-shared-globally/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/fact-sheet-biden-harris-administration-announces-allocation-plan-for-55-million-doses-to-be-shared-globally/
 published_time: 2021-06-21 12:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Allocation Plan for\
   \ 55 Million Doses to be Shared\_Globally"

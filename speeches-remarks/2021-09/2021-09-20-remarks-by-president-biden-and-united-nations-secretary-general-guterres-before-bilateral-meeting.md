@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-20'
 modified_time: 2021-09-20 20:25:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/20/remarks-by-president-biden-and-united-nations-secretary-general-guterres-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/20/remarks-by-president-biden-and-united-nations-secretary-general-guterres-before-bilateral-meeting/
 published_time: 2021-09-20 20:45:00-04:00
 title: "Remarks by President\_Biden and United Nations Secretary-General Guterres\
   \ Before Bilateral\_Meeting"

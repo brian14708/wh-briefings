@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-19'
 modified_time: 2021-08-19 10:04:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/19/statement-by-president-joseph-r-biden-jr-on-world-humanitarian-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/19/statement-by-president-joseph-r-biden-jr-on-world-humanitarian-day/
 published_time: 2021-08-19 10:04:44-04:00
 title: "Statement by President Joseph R. Biden, Jr. on World Humanitarian\_Day"
 ---

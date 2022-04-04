@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 17:23:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-2/
 published_time: 2021-12-07 17:23:31-05:00
 title: "Letter to the Speaker of the House and President Pro Tempore of the Senate\
   \ Regarding the War Powers\_Report"

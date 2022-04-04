@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-07-21 16:16:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/president-biden-announces-four-key-foreign-policy-nominations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/president-biden-announces-four-key-foreign-policy-nominations/
 published_time: 2021-07-21 16:16:41-04:00
 title: "President\_Biden Announces Four Key Foreign Policy\_Nominations"
 ---

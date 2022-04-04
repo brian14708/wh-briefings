@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-27'
 modified_time: 2021-12-27 16:48:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch-and-head-of-the-international-policy-bureau/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch-and-head-of-the-international-policy-bureau/
 published_time: 2021-12-27 16:48:45-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Polish National Security Bureau Chief Pawel Soloch and\

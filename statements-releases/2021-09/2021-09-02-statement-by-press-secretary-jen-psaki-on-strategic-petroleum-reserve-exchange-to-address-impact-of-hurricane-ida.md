@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-02'
 modified_time: 2021-09-02 18:41:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/statement-by-press-secretary-jen-psaki-on-strategic-petroleum-reserve-exchange-to-address-impact-of-hurricane-ida/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/statement-by-press-secretary-jen-psaki-on-strategic-petroleum-reserve-exchange-to-address-impact-of-hurricane-ida/
 published_time: 2021-09-02 18:41:18-04:00
 title: "Statement by Press Secretary Jen\_Psaki on Strategic Petroleum Reserve Exchange\
   \ to Address Impact of Hurricane\_Ida"

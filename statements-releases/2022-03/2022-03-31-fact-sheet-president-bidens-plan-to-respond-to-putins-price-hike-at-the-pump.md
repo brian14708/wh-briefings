@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-31'
 modified_time: 2022-03-31 10:35:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/
 published_time: 2022-03-31 10:45:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/
+tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Plan to Respond to Putin\u2019s Price\
   \ Hike at the\_Pump"
 ---

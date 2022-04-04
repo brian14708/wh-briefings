@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-18'
 modified_time: 2022-01-18 14:24:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/statement-by-president-biden-on-5g-agreement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/statement-by-president-biden-on-5g-agreement/
 published_time: 2022-01-18 14:24:12-05:00
 title: "Statement by President\_Biden on 5G\_Agreement"
 ---

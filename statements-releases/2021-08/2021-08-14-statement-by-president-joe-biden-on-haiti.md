@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-14'
 modified_time: 2021-08-14 15:50:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joe-biden-on-haiti/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joe-biden-on-haiti/
 published_time: 2021-08-14 16:15:00-04:00
 title: "Statement by President Joe\_Biden on\_Haiti"
 ---

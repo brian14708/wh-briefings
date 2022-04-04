@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-15'
 modified_time: 2021-06-15 05:32:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/background-press-call-by-a-senior-administration-official-previewing-the-u-s-eu-summit/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/background-press-call-by-a-senior-administration-official-previewing-the-u-s-eu-summit/
 published_time: 2021-06-15 05:15:00-04:00
 title: "Background Press Call by a Senior Administration Official Previewing the U.S.-EU\_\
   Summit"

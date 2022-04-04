@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-16'
 modified_time: 2021-04-16 17:35:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/national-crime-victims-rights-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/national-crime-victims-rights-week-2021/
 published_time: 2021-04-16 17:30:32-04:00
 title: "A Proclamation on National Crime Victims\u2019 Rights Week,\_2021"
 ---

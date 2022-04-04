@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/19/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-kosovo/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/19/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-kosovo/
 published_time: 2022-03-19 15:15:48-04:00
 title: "Readout of Homeland Security Advisor Dr. Liz Sherwood-Randall\u2019s visit\
   \ to\_Kosovo"

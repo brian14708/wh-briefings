@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-03'
 modified_time: 2021-09-02 19:39:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/u-s-mexico-high-level-economic-dialogue/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/u-s-mexico-high-level-economic-dialogue/
 published_time: 2021-09-03 09:00:00-04:00
 title: "U.S.- Mexico High-Level Economic\_Dialogue"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-22'
 modified_time: 2021-06-22 17:28:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/22/remarks-by-president-biden-before-a-meeting-with-fema-administrator-deanne-criswell-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/22/remarks-by-president-biden-before-a-meeting-with-fema-administrator-deanne-criswell-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
 published_time: 2021-06-22 17:28:10-04:00
 title: "Remarks by President\_Biden Before a Meeting with FEMA Administrator Deanne\
   \ Criswell and Homeland Security Advisor and Deputy National Security Advisor Dr.\

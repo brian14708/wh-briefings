@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-08'
 modified_time: 2021-03-08 20:36:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/08/background-press-call-by-senior-administration-officials-on-venezuela/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/08/background-press-call-by-senior-administration-officials-on-venezuela/
 published_time: 2021-03-08 21:00:00-05:00
 title: "Background Press Call by Senior Administration Officials on\_Venezuela"
 ---

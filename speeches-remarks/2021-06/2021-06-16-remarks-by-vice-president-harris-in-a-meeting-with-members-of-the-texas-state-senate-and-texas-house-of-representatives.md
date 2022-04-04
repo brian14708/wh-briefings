@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-16'
 modified_time: 2021-06-16 17:51:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/16/remarks-by-vice-president-harris-in-a-meeting-with-members-of-the-texas-state-senate-and-texas-house-of-representatives/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/16/remarks-by-vice-president-harris-in-a-meeting-with-members-of-the-texas-state-senate-and-texas-house-of-representatives/
 published_time: 2021-06-16 17:51:29-04:00
 title: "Remarks by Vice President Harris in a Meeting with Members of the Texas State\
   \ Senate and Texas House of\_Representatives"

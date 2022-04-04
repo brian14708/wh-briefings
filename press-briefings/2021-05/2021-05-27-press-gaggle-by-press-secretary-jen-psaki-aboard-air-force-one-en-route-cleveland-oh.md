@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-27'
 modified_time: 2021-05-27 16:47:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/27/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-cleveland-oh/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/27/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-cleveland-oh/
 published_time: 2021-05-27 16:47:17-04:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki"
 ---

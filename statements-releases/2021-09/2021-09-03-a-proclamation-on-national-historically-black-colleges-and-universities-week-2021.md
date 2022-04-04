@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-03'
 modified_time: 2021-09-03 15:24:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/
 published_time: 2021-09-03 15:24:41-04:00
 title: "A Proclamation on National Historically Black Colleges and Universities Week,\_\
   2021"

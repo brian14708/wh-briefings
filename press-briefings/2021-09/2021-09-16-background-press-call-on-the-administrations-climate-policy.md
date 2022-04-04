@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-16'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/16/background-press-call-on-the-administrations-climate-policy/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/16/background-press-call-on-the-administrations-climate-policy/
 published_time: 2021-09-16 09:27:12-04:00
 title: "Background Press Call on the Administration\u2019s Climate\_Policy"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-22'
 modified_time: 2021-10-22 06:01:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/
 published_time: 2021-10-22 06:30:00-04:00
 title: "Fact Sheet: National Strategy on Gender Equity and\_Equality"
 ---

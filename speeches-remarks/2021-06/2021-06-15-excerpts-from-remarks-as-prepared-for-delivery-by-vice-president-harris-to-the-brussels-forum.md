@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-15'
 modified_time: 2021-06-16 17:55:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/15/excerpts-from-remarks-as-prepared-for-delivery-by-vice-president-harris-to-the-brussels-forum/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/15/excerpts-from-remarks-as-prepared-for-delivery-by-vice-president-harris-to-the-brussels-forum/
 published_time: 2021-06-15 17:51:00-04:00
 title: "Excerpts from Remarks as Prepared for Delivery by Vice President Harris to\
   \ the Brussels\_Forum"

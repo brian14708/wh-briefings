@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-22'
 modified_time: 2021-09-23 13:48:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/22/remarks-by-vice-president-harris-at-virtual-global-covid-19-summit/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/22/remarks-by-vice-president-harris-at-virtual-global-covid-19-summit/
 published_time: 2021-09-22 13:46:00-04:00
 title: "Remarks by Vice President Harris At Virtual Global COVID-\u206019\_Summit"
 ---

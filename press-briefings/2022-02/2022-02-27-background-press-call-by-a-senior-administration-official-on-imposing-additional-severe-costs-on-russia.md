@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-27'
 modified_time: 2022-02-27 12:32:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/27/background-press-call-by-a-senior-administration-official-on-imposing-additional-severe-costs-on-russia/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/27/background-press-call-by-a-senior-administration-official-on-imposing-additional-severe-costs-on-russia/
 published_time: 2022-02-27 12:32:49-05:00
 title: "Background Press Call by a Senior Administration Official on Imposing Additional\
   \ Severe Costs on\_Russia"

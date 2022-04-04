@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-22'
 modified_time: 2021-03-22 15:44:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-and-national-economic-council-director-brian-deeses-small-and-less-populous-island-economies-salpie-init/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-and-national-economic-council-director-brian-deeses-small-and-less-populous-island-economies-salpie-init/
 published_time: 2021-03-22 15:44:44-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan and National Economic Council Director Brian Deese\u2019s Small and Less\

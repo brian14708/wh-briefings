@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-07'
 modified_time: 2021-05-07 16:11:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/a-proclamation-on-national-womens-health-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/a-proclamation-on-national-womens-health-week-2021/
 published_time: 2021-05-07 16:11:28-04:00
 title: "A Proclamation on National Women\u2019s Health Week,\_2021"
 ---

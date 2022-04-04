@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-08'
 modified_time: 2021-08-08 20:29:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/08/remarks-by-president-biden-and-first-lady-jill-biden-in-a-virtual-meeting-with-team-usa-members-who-competed-in-the-tokyo-2020-olympic-games/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/08/remarks-by-president-biden-and-first-lady-jill-biden-in-a-virtual-meeting-with-team-usa-members-who-competed-in-the-tokyo-2020-olympic-games/
 published_time: 2021-08-08 20:45:00-04:00
 title: "Remarks by President\_Biden and First Lady Jill\_Biden in a Virtual Meeting\
   \ with Team USA Members Who Competed in the Tokyo 2020 Olympic\_Games"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-07'
 modified_time: 2022-03-17 16:16:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-department-of-education-announces-state-by-state-american-rescue-plan-funding-for-colleges-and-universities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-department-of-education-announces-state-by-state-american-rescue-plan-funding-for-colleges-and-universities/
 published_time: 2022-03-07 13:30:00-05:00
 title: "FACT SHEET: Department of Education Announces State-by-State American Rescue\
   \ Plan Funding for Colleges and\_Universities"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-22'
 modified_time: 2021-04-22 12:49:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/22/remarks-by-president-biden-at-the-virtual-leaders-summit-on-climate-session-2-investing-in-climate-solutions/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/22/remarks-by-president-biden-at-the-virtual-leaders-summit-on-climate-session-2-investing-in-climate-solutions/
 published_time: 2021-04-22 12:49:18-04:00
 title: "Remarks by President\_Biden at the Virtual Leaders Summit on Climate Session\
   \ 2: Investing in Climate\_Solutions"

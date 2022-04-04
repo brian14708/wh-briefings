@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-05'
 modified_time: 2021-04-05 09:58:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/05/a-proclamation-on-national-public-health-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/05/a-proclamation-on-national-public-health-week-2021/
 published_time: 2021-04-05 09:58:30-04:00
 title: "A Proclamation on National Public Health Week,\_2021"
 ---

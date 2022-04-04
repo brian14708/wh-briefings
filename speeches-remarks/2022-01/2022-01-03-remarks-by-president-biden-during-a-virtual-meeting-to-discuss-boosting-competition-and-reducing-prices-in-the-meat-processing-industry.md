@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-01-03'
 modified_time: 2022-01-03 17:46:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/03/remarks-by-president-biden-during-a-virtual-meeting-to-discuss-boosting-competition-and-reducing-prices-in-the-meat-processing-industry/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/03/remarks-by-president-biden-during-a-virtual-meeting-to-discuss-boosting-competition-and-reducing-prices-in-the-meat-processing-industry/
 published_time: 2022-01-03 18:00:00-05:00
 title: "Remarks by President\_Biden During a Virtual Meeting to Discuss Boosting Competition\
   \ and Reducing Prices in the Meat-Processing\_Industry"

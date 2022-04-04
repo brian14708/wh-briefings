@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-08'
 modified_time: 2021-12-08 15:46:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/08/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-kansas-city-mo/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/08/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-kansas-city-mo/
 published_time: 2021-12-08 15:46:44-05:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Kansas City,\_MO"

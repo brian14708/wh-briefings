@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-23'
 modified_time: 2022-03-23 18:30:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/23/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-brussels-belgium/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/23/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-brussels-belgium/
 published_time: 2022-03-23 18:30:49-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and National\
   \ Security Advisor Jake Sullivan En Route Brussels,\_Belgium"

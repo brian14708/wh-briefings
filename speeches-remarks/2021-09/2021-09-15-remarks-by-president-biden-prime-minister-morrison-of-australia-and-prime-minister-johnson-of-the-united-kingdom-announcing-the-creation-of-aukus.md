@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-15'
 modified_time: 2021-09-15 19:22:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/15/remarks-by-president-biden-prime-minister-morrison-of-australia-and-prime-minister-johnson-of-the-united-kingdom-announcing-the-creation-of-aukus/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/15/remarks-by-president-biden-prime-minister-morrison-of-australia-and-prime-minister-johnson-of-the-united-kingdom-announcing-the-creation-of-aukus/
 published_time: 2021-09-15 19:22:25-04:00
 title: "Remarks by President\_Biden, Prime Minister Morrison of Australia, and Prime\
   \ Minister Johnson of the United Kingdom Announcing the Creation of\_AUKUS"

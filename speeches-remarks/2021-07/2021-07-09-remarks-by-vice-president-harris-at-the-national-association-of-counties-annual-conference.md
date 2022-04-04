@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-09'
 modified_time: 2021-07-14 17:43:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-vice-president-harris-at-the-national-association-of-counties-annual-conference/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-vice-president-harris-at-the-national-association-of-counties-annual-conference/
 published_time: 2021-07-09 17:40:00-04:00
 title: "Remarks by Vice President Harris at the National Association of Counties Annual\_\
   Conference"

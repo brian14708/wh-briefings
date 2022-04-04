@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-13'
 modified_time: 2022-03-13 21:28:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-national-security-advisor-jake-sullivan-on-iran-missile-attack-on-kurdistan-region-of-iraq/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-national-security-advisor-jake-sullivan-on-iran-missile-attack-on-kurdistan-region-of-iraq/
 published_time: 2022-03-13 21:28:54-04:00
 title: "Statement by National Security Advisor Jake Sullivan on Iran Missile Attack\
   \ on Kurdistan Region of\_Iraq"

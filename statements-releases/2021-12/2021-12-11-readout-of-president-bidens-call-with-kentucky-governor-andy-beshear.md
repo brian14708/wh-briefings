@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-11'
 modified_time: 2021-12-11 12:56:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-bidens-call-with-kentucky-governor-andy-beshear/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-bidens-call-with-kentucky-governor-andy-beshear/
 published_time: 2021-12-11 12:56:12-05:00
 title: "Readout of President\_Biden\u2019s Call with Kentucky Governor Andy\_Beshear"
 ---

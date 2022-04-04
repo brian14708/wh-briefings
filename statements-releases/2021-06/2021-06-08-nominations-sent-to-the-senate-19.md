@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 16:50:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/nominations-sent-to-the-senate-19/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/nominations-sent-to-the-senate-19/
 published_time: 2021-06-08 16:50:07-04:00
 title: "Nominations Sent to the\_Senate"
 ---

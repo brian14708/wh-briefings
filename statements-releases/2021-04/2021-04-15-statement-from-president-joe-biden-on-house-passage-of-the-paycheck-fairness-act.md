@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-15'
 modified_time: 2021-04-15 20:58:43-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/statement-from-president-joe-biden-on-house-passage-of-the-paycheck-fairness-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/statement-from-president-joe-biden-on-house-passage-of-the-paycheck-fairness-act/
 published_time: 2021-04-15 20:58:42-04:00
 title: "Statement from President Joe\_Biden on House Passage of the Paycheck Fairness\_\
   Act"

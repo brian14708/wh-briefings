@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-29'
 modified_time: 2021-11-04 12:49:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/white-house-highlights-nationwide-impact-of-build-back-better-framework/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/white-house-highlights-nationwide-impact-of-build-back-better-framework/
 published_time: 2021-10-29 17:08:29-04:00
 title: "White\_House Highlights Nationwide Impact of Build Back Better\_Framework"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-17'
 modified_time: 2021-11-17 18:03:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nikolay-patrushev-secretary-of-the-russian-security-council-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nikolay-patrushev-secretary-of-the-russian-security-council-2/
 published_time: 2021-11-17 18:03:57-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Nikolay Patrushev, Secretary of the Russian Security\_\

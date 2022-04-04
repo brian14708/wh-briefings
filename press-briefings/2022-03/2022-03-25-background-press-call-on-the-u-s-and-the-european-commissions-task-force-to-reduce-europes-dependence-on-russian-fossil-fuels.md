@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-25'
 modified_time: 2022-03-25 09:30:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/25/background-press-call-on-the-u-s-and-the-european-commissions-task-force-to-reduce-europes-dependence-on-russian-fossil-fuels/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/25/background-press-call-on-the-u-s-and-the-european-commissions-task-force-to-reduce-europes-dependence-on-russian-fossil-fuels/
 published_time: 2022-03-25 09:30:04-04:00
 title: "Background Press Call on the U.S. and the European Commission\u2019s Task\
   \ Force to Reduce Europe\u2019s Dependence on Russian Fossil\_Fuels"

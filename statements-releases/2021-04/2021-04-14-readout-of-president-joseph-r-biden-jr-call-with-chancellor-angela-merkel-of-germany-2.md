@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-14'
 modified_time: 2021-04-14 16:54:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/readout-of-president-joseph-r-biden-jr-call-with-chancellor-angela-merkel-of-germany-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/readout-of-president-joseph-r-biden-jr-call-with-chancellor-angela-merkel-of-germany-2/
 published_time: 2021-04-14 16:54:31-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Chancellor Angela Merkel\
   \ of\_Germany"

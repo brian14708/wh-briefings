@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-12'
 modified_time: 2021-08-12 16:57:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-president-biden-on-how-his-build-back-better-agenda-will-lower-prescription-drug-prices/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-president-biden-on-how-his-build-back-better-agenda-will-lower-prescription-drug-prices/
 published_time: 2021-08-12 16:57:28-04:00
 title: "Remarks by President\_Biden on How His Build Back Better Agenda Will Lower\
   \ Prescription Drug\_Prices"

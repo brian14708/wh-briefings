@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-14'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-armed-forces-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-armed-forces-day-2021/
 published_time: 2021-05-14 18:06:54-04:00
 title: "A Proclamation on Armed Forces Day,\_2021"
 ---

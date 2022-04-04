@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-16'
 modified_time: 2021-04-16 09:08:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-biden-administration-announces-1-7-billion-investment-to-fight-covid-19-variants/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-biden-administration-announces-1-7-billion-investment-to-fight-covid-19-variants/
 published_time: 2021-04-16 10:30:00-04:00
 title: "Fact Sheet: Biden Administration Announces $1.7 Billion Investment to Fight\
   \ COVID-\u206019\_Variants"

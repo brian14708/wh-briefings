@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-12-21'
 modified_time: 2022-03-15 10:05:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/12/21/press-release-bills-signed-h-r-390-h-r-4660-and-h-r-5545/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/12/21/press-release-bills-signed-h-r-390-h-r-4660-and-h-r-5545/
 published_time: 2021-12-21 10:45:00-05:00
 title: "Bills Signed: H.R. 390, H.R. 4660, and H.R.\_5545"
 ---

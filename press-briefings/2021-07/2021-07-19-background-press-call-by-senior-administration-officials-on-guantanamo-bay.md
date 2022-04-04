@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-19'
 modified_time: 2021-07-19 12:24:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/19/background-press-call-by-senior-administration-officials-on-guantanamo-bay/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/19/background-press-call-by-senior-administration-officials-on-guantanamo-bay/
 published_time: 2021-07-19 12:24:05-04:00
 title: "Background Press Call by Senior Administration Officials on Guantanamo\_Bay"
 ---

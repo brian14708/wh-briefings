@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
 modified_time: 2022-03-08 12:11:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-united-states-bans-imports-of-russian-oil-liquefied-natural-gas-and-coal/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-united-states-bans-imports-of-russian-oil-liquefied-natural-gas-and-coal/
 published_time: 2022-03-08 12:08:28-05:00
 title: "FACT SHEET: United\_States Bans Imports of Russian Oil, Liquefied Natural\
   \ Gas, and\_Coal"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-21'
 modified_time: 2021-08-21 19:12:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/president-joseph-r-biden-jr-approves-rhode-island-emergency-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/president-joseph-r-biden-jr-approves-rhode-island-emergency-declaration/
 published_time: 2021-08-21 19:12:46-04:00
 title: "President Joseph R. Biden, Jr. Approves Rhode Island Emergency\_Declaration"
 ---

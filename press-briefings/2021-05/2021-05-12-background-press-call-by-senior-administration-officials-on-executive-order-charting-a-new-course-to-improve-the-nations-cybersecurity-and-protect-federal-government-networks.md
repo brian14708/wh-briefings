@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-12'
 modified_time: 2021-05-12 20:16:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/12/background-press-call-by-senior-administration-officials-on-executive-order-charting-a-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/12/background-press-call-by-senior-administration-officials-on-executive-order-charting-a-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/
 published_time: 2021-05-12 20:16:49-04:00
 title: "Background Press Call by Senior Administration Officials on Executive Order\
   \ Charting a New Course to Improve the Nation\u2019s Cybersecurity and Protect Federal\

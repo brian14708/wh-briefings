@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-27'
 modified_time: 2021-12-27 17:13:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/27/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/27/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states/
 published_time: 2021-12-27 17:13:09-05:00
 title: "A Proclamation on Adjusting Imports of Steel into the United\_States"
 ---

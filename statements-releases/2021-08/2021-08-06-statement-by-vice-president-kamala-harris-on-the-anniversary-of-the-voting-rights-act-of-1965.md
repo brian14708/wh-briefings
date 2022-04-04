@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-06'
 modified_time: 2021-08-06 18:43:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/statement-by-vice-president-kamala-harris-on-the-anniversary-of-the-voting-rights-act-of-1965/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/statement-by-vice-president-kamala-harris-on-the-anniversary-of-the-voting-rights-act-of-1965/
 published_time: 2021-08-06 18:43:14-04:00
 title: "Statement by Vice President Kamala\_Harris on the Anniversary of the Voting\
   \ Rights Act of\_1965"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-13'
 modified_time: 2021-05-13 17:24:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/13/readout-of-oval-office-meeting-with-senators-capito-barrasso-blunt-crapo-toomey-and-wicker/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/13/readout-of-oval-office-meeting-with-senators-capito-barrasso-blunt-crapo-toomey-and-wicker/
 published_time: 2021-05-13 17:24:49-04:00
 title: "Readout of Oval Office Meeting with Senators Capito, Barrasso, Blunt, Crapo,\
   \ Toomey, and\_Wicker"

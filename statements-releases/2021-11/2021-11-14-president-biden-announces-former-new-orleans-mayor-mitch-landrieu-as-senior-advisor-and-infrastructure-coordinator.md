@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/14/president-biden-announces-former-new-orleans-mayor-mitch-landrieu-as-senior-advisor-and-infrastructure-coordinator/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/14/president-biden-announces-former-new-orleans-mayor-mitch-landrieu-as-senior-advisor-and-infrastructure-coordinator/
 published_time: 2021-11-14 18:48:35-05:00
 title: "President\_Biden Announces Former New Orleans Mayor Mitch Landrieu as Senior\
   \ Advisor and Infrastructure\_Coordinator"

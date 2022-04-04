@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-10'
 modified_time: 2022-02-10 16:09:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-roundtable-discussion-with-cabinet-officials/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-roundtable-discussion-with-cabinet-officials/
 published_time: 2022-02-10 16:09:48-05:00
 title: "Readout of Roundtable Discussion with Cabinet\_Officials"
 ---

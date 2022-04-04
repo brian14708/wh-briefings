@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-10'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2021/
 published_time: 2021-09-10 10:22:00-04:00
 title: "A Proclamation on Patriot Day and National Day of Service and Remembrance,\_\
   2021"

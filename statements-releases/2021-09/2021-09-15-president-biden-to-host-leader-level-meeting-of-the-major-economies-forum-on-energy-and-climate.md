@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 15:57:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/president-biden-to-host-leader-level-meeting-of-the-major-economies-forum-on-energy-and-climate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/president-biden-to-host-leader-level-meeting-of-the-major-economies-forum-on-energy-and-climate/
 published_time: 2021-09-15 15:57:35-04:00
 title: "President\_Biden to Host Leader-Level Meeting of the Major Economies Forum\
   \ on Energy and\_Climate"

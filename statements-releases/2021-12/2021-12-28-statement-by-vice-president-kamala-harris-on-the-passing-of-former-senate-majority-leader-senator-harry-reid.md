@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-28'
 modified_time: 2021-12-28 23:17:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/28/statement-by-vice-president-kamala-harris-on-the-passing-of-former-senate-majority-leader-senator-harry-reid/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/28/statement-by-vice-president-kamala-harris-on-the-passing-of-former-senate-majority-leader-senator-harry-reid/
 published_time: 2021-12-28 23:12:14-05:00
 title: "Statement by Vice President Kamala\_Harris on the Passing of Former Senate\
   \ Majority Leader Harry\_Reid"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-22'
 modified_time: 2021-11-22 15:29:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/statement-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-christian-schmidt-high-representative-for-bosnia-and-herzegovina/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/statement-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-christian-schmidt-high-representative-for-bosnia-and-herzegovina/
 published_time: 2021-11-22 15:29:18-05:00
 title: "Statement from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Christian Schmidt, High Representative for Bosnia\

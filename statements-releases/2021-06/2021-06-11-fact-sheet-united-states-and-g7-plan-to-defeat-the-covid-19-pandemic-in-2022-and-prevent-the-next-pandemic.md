@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-11'
 modified_time: 2021-06-11 09:28:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-united-states-and-g7-plan-to-defeat-the-covid-19-pandemic-in-2022-and-prevent-the-next-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-united-states-and-g7-plan-to-defeat-the-covid-19-pandemic-in-2022-and-prevent-the-next-pandemic/
 published_time: 2021-06-11 09:45:00-04:00
 title: "FACT SHEET: United\_States and G7+ Plan to Defeat the COVID-\u206019 Pandemic\
   \ in 2022 and Prevent the Next\_Pandemic"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-03'
 modified_time: 2021-08-03 17:24:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/03/remarks-by-president-biden-at-a-meeting-with-latino-community-leaders-to-discuss-his-economic-agenda-immigration-reform-and-the-need-to-protect-the-sacred-constitutional-right-to-vote/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/03/remarks-by-president-biden-at-a-meeting-with-latino-community-leaders-to-discuss-his-economic-agenda-immigration-reform-and-the-need-to-protect-the-sacred-constitutional-right-to-vote/
 published_time: 2021-08-03 17:24:57-04:00
 title: "Remarks by President\_Biden at a Meeting with Latino Community Leaders to\
   \ Discuss His Economic Agenda, Immigration Reform, and the Need to Protect the Sacred,\

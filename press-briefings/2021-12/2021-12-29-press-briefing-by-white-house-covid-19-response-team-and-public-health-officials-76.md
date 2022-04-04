@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-29'
 modified_time: 2021-12-29 14:12:51-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-76/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-76/
 published_time: 2021-12-29 14:12:50-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-13'
 modified_time: 2021-06-13 15:25:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/fact-sheet-united-states-and-g7-partners-will-provide-more-than-2-billion-vaccines-for-the-world/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/fact-sheet-united-states-and-g7-partners-will-provide-more-than-2-billion-vaccines-for-the-world/
 published_time: 2021-06-13 15:25:27-04:00
 title: "FACT SHEET: United\_States and G7+ Partners Will Provide More than 2 Billion\
   \ Vaccines for the\_World"

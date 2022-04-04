@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-11'
 modified_time: 2021-05-11 21:10:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/11/press-briefing-by-press-secretary-jen-psaki-secretary-of-energy-jennifer-granholm-and-secretary-of-homeland-security-alejandro-mayorkas-may-11-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/11/press-briefing-by-press-secretary-jen-psaki-secretary-of-energy-jennifer-granholm-and-secretary-of-homeland-security-alejandro-mayorkas-may-11-2021/
 published_time: 2021-05-11 21:10:29-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, Secretary of Energy Jennifer\
   \ Granholm, and Secretary of Homeland Security Alejandro Mayorkas, May 11,\_2021"

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-03'
 modified_time: 2021-09-03 15:16:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/03/on-the-record-press-call-by-office-of-science-and-technology-policy-director-dr-eric-lander-and-nsc-director-for-global-health-security-and-biodefense-dr-beth-cameron-on-american-pandemic-preparedne/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/03/on-the-record-press-call-by-office-of-science-and-technology-policy-director-dr-eric-lander-and-nsc-director-for-global-health-security-and-biodefense-dr-beth-cameron-on-american-pandemic-preparedne/
 published_time: 2021-09-03 15:16:17-04:00
 title: "On-the-Record Press Call by Office of Science and Technology Policy Director\
   \ Dr. Eric Lander and NSC Director for Global Health Security and Biodefense Dr.\

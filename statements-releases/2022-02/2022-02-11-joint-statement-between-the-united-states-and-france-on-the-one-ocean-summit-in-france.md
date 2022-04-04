@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-10 19:38:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/joint-statement-between-the-united-states-and-france-on-the-one-ocean-summit-in-france/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/joint-statement-between-the-united-states-and-france-on-the-one-ocean-summit-in-france/
 published_time: 2022-02-11 04:00:00-05:00
 title: "Joint Statement Between the United\_States and France on the One Ocean Summit\
   \ in\_France"

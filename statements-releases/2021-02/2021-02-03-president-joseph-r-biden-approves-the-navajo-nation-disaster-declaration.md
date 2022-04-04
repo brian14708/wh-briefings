@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-03'
 modified_time: 2021-02-03 14:31:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/president-joseph-r-biden-approves-the-navajo-nation-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/president-joseph-r-biden-approves-the-navajo-nation-disaster-declaration/
 published_time: 2021-02-03 14:31:26-05:00
 title: "President Joseph R. Biden Approves the Navajo Nation Disaster\_Declaration"
 ---

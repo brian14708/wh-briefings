@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-26'
 modified_time: 2021-03-26 14:29:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-state/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-state/
 published_time: 2021-03-26 14:29:34-04:00
 title: "President\_Biden Announces his Intent to Nominate Key Members for the Department\
   \ of\_State"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-26'
 modified_time: 2021-05-26 12:54:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-afghan-national-security-advisor-hamdullah-mohib/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-afghan-national-security-advisor-hamdullah-mohib/
 published_time: 2021-05-26 12:54:20-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Afghan National Security Advisor Hamdullah\_Mohib"

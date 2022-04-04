@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-16'
 modified_time: 2021-11-16 14:44:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 published_time: 2021-11-16 14:44:36-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to the Situation\
   \ in\_Nicaragua"

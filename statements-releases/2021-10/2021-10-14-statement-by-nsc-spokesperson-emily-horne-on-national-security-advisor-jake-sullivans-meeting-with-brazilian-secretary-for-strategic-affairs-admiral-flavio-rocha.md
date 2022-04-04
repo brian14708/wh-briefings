@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 18:59:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-brazilian-secretary-for-strategic-affairs-admiral-flavio-rocha/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-brazilian-secretary-for-strategic-affairs-admiral-flavio-rocha/
 published_time: 2021-10-14 18:59:01-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Brazilian Secretary for Strategic Affairs Admiral\

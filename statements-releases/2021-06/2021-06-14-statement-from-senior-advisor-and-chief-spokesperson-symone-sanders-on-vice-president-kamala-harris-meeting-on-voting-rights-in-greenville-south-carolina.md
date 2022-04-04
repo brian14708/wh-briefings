@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-14'
 modified_time: 2021-12-23 17:17:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/14/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harris-meeting-on-voting-rights-in-greenville-south-carolina/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/14/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harris-meeting-on-voting-rights-in-greenville-south-carolina/
 published_time: 2021-06-14 16:16:00-04:00
 title: "Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris Meeting on Voting Rights In Greenville, South\_Carolina"

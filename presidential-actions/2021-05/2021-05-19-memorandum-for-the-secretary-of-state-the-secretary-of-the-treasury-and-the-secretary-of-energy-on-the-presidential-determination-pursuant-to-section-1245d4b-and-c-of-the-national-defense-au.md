@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-19'
 modified_time: 2021-05-19 17:08:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/19/memorandum-for-the-secretary-of-state-the-secretary-of-the-treasury-and-the-secretary-of-energy-on-the-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-au/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/19/memorandum-for-the-secretary-of-state-the-secretary-of-the-treasury-and-the-secretary-of-energy-on-the-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-au/
 published_time: 2021-05-19 17:08:24-04:00
 title: "Memorandum for the Secretary of State, the Secretary of the Treasury, and\
   \ the Secretary of Energy on the Presidential Determination Pursuant to Section\

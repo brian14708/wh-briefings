@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/27/statement-by-principal-deputy-press-secretary-karine-jean-pierre/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/27/statement-by-principal-deputy-press-secretary-karine-jean-pierre/
 published_time: 2022-03-27 20:45:05-04:00
 title: "Statement by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

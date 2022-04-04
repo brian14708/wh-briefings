@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 09:57:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/
 published_time: 2021-06-30 11:00:00-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Acts to Address the Growing\
   \ Wildfire\_Threat"

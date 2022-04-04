@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-19'
 modified_time: 2022-01-25 14:40:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-sauk-valley-community-college/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-sauk-valley-community-college/
 published_time: 2021-04-19 13:00:00-04:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Sauk Valley\
   \ Community\_College"

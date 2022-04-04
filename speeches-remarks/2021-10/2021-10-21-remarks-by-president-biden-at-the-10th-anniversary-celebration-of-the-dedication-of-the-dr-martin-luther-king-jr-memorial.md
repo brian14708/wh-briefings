@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-21'
 modified_time: 2021-10-21 18:00:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/21/remarks-by-president-biden-at-the-10th-anniversary-celebration-of-the-dedication-of-the-dr-martin-luther-king-jr-memorial/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/21/remarks-by-president-biden-at-the-10th-anniversary-celebration-of-the-dedication-of-the-dr-martin-luther-king-jr-memorial/
 published_time: 2021-10-21 18:15:00-04:00
 title: "Remarks by President\_Biden at the 10th Anniversary Celebration of the Dedication\
   \ of the Dr. Martin Luther King, Jr.,\_Memorial"

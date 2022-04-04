@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/president-biden-announces-key-nomination-on-jobs-team/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/president-biden-announces-key-nomination-on-jobs-team/
 published_time: 2021-02-17 11:55:48-05:00
 title: "President\_Biden Announces Key Nomination on Jobs\_Team"
 ---

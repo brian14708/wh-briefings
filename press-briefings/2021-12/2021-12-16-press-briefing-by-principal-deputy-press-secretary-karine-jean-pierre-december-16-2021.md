@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-16'
 modified_time: 2021-12-16 18:16:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/16/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-december-16-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/16/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-december-16-2021/
 published_time: 2021-12-16 18:30:00-05:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre, December\
   \ 16,\_2021"

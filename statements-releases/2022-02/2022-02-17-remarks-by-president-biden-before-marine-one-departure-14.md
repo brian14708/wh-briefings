@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-17'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/remarks-by-president-biden-before-marine-one-departure-14/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/remarks-by-president-biden-before-marine-one-departure-14/
 published_time: 2022-02-17 10:50:39-05:00
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

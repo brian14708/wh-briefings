@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-11'
 modified_time: 2022-03-11 13:25:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/11/remarks-by-president-biden-announcing-actions-to-continue-to-hold-russia-accountable/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/11/remarks-by-president-biden-announcing-actions-to-continue-to-hold-russia-accountable/
 published_time: 2022-03-11 13:25:11-05:00
 title: "Remarks by President\_Biden Announcing Actions to Continue to Hold Russia\_\
   Accountable"

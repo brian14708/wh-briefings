@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/nominations-sent-to-the-senate-53/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/nominations-sent-to-the-senate-53/
 published_time: 2022-01-03 18:21:05-05:00
 title: "Nominations Sent to the\_Senate"
 ---

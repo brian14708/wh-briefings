@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 16:02:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the-destabiliz/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the-destabiliz/
 published_time: 2021-06-08 16:02:08-04:00
 title: "Letter to the Speaker of the House of Representatives and the President of\
   \ the Senate on Blocking Property And Suspending Entry Into The United\_States Of\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-10'
 modified_time: 2022-02-11 15:17:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-black-mental-health-roundtable/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-black-mental-health-roundtable/
 published_time: 2022-02-10 22:51:37-05:00
 title: "Readout of Black Mental Health\_Roundtable"
 ---

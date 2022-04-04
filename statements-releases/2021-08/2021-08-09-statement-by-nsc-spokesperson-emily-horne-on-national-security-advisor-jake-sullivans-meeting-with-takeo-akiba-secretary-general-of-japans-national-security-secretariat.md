@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-09'
 modified_time: 2021-08-09 20:55:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-takeo-akiba-secretary-general-of-japans-national-security-secretariat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-takeo-akiba-secretary-general-of-japans-national-security-secretariat/
 published_time: 2021-08-09 20:55:14-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Takeo Akiba, Secretary General of Japan\u2019s National\

@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-12-10'
 modified_time: 2021-12-15 16:28:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/
 published_time: 2021-12-10 12:00:00-05:00
 title: "Recent Data Show Dominant Meat Processing Companies Are Taking Advantage of\
   \ Market Power to Raise Prices and Grow Profit\_Margins"

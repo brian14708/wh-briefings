@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-27'
 modified_time: 2021-07-29 11:38:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/27/remarks-by-vice-president-harris-before-a-meeting-on-native-american-voting-rights/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/27/remarks-by-vice-president-harris-before-a-meeting-on-native-american-voting-rights/
 published_time: 2021-07-27 11:37:00-04:00
 title: "Remarks by Vice President Harris Before a Meeting on Native American Voting\_\
   Rights"

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-12'
 modified_time: 2022-01-12 13:32:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/12/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-78/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/12/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-78/
 published_time: 2022-01-12 14:00:00-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

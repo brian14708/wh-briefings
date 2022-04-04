@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-04'
 modified_time: 2021-05-04 18:02:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/04/a-proclamation-on-missing-and-murdered-indigenous-persons-awareness-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/04/a-proclamation-on-missing-and-murdered-indigenous-persons-awareness-day-2021/
 published_time: 2021-05-04 16:34:28-04:00
 title: "A Proclamation on Missing and Murdered Indigenous Persons Awareness Day,\_\
   2021"

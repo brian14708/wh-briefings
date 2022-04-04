@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-10'
 modified_time: 2021-05-10 17:56:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/10/press-briefing-by-press-secretary-jen-psaki-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall-and-deputy-national-security-advisor-for-cyber-and-emerging/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/10/press-briefing-by-press-secretary-jen-psaki-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall-and-deputy-national-security-advisor-for-cyber-and-emerging/
 published_time: 2021-05-10 17:56:04-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, Homeland Security Advisor and\
   \ Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall, and Deputy National\

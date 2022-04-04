@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-15'
 modified_time: 2022-03-15 16:25:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/15/executive-order-on-advancing-economy-efficiency-and-effectiveness-in-federal-contracting-by-promoting-pay-equity-and-transparency/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/15/executive-order-on-advancing-economy-efficiency-and-effectiveness-in-federal-contracting-by-promoting-pay-equity-and-transparency/
 published_time: 2022-03-15 16:25:45-04:00
 title: "Executive Order on Advancing Economy, Efficiency, and Effectiveness in Federal\
   \ Contracting by Promoting Pay Equity and\_Transparency"

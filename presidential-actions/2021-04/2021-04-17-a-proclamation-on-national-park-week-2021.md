@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-17'
 modified_time: 2021-04-17 17:22:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/17/a-proclamation-on-national-park-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/17/a-proclamation-on-national-park-week-2021/
 published_time: 2021-04-17 17:22:07-04:00
 title: "A Proclamation on National Park Week,\_2021"
 ---

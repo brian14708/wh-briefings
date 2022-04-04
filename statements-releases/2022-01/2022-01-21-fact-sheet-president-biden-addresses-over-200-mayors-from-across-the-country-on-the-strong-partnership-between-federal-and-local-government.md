@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 20:57:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-president-biden-addresses-over-200-mayors-from-across-the-country-on-the-strong-partnership-between-federal-and-local-government/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-president-biden-addresses-over-200-mayors-from-across-the-country-on-the-strong-partnership-between-federal-and-local-government/
 published_time: 2022-01-21 20:57:16-05:00
 title: "FACT SHEET: President\_Biden Addresses Over 200 Mayors from Across the Country\
   \ on the Strong Partnership between Federal and Local\_Government"

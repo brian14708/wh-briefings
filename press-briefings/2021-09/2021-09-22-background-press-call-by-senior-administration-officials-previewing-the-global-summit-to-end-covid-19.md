@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-22'
 modified_time: 2021-09-21 23:27:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/22/background-press-call-by-senior-administration-officials-previewing-the-global-summit-to-end-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/22/background-press-call-by-senior-administration-officials-previewing-the-global-summit-to-end-covid-19/
 published_time: 2021-09-22 06:00:00-04:00
 title: "Background Press Call by Senior Administration Officials Previewing the Global\
   \ Summit to End\_COVID-\u206019"

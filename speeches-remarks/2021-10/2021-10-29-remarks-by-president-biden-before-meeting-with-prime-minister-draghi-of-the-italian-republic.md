@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-29'
 modified_time: 2021-10-29 12:29:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/29/remarks-by-president-biden-before-meeting-with-prime-minister-draghi-of-the-italian-republic/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/29/remarks-by-president-biden-before-meeting-with-prime-minister-draghi-of-the-italian-republic/
 published_time: 2021-10-29 12:29:45-04:00
 title: "Remarks by President\_Biden Before Meeting with Prime Minister Draghi of the\
   \ Italian\_Republic"

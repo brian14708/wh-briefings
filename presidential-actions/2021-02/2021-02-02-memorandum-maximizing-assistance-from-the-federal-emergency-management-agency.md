@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-02'
 modified_time: 2021-02-04 14:13:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/memorandum-maximizing-assistance-from-the-federal-emergency-management-agency/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/memorandum-maximizing-assistance-from-the-federal-emergency-management-agency/
 published_time: 2021-02-02 13:00:50-05:00
 title: "Memorandum on Maximizing Assistance from the Federal Emergency Management\_\
   Agency"

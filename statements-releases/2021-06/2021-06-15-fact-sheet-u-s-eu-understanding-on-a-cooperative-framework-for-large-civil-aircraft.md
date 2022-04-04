@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 09:17:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-u-s-eu-understanding-on-a-cooperative-framework-for-large-civil-aircraft/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-u-s-eu-understanding-on-a-cooperative-framework-for-large-civil-aircraft/
 published_time: 2021-06-15 09:17:08-04:00
 title: "FACT SHEET: U.S. \u2013 EU Understanding on a Cooperative Framework for Large\
   \ Civil\_Aircraft"

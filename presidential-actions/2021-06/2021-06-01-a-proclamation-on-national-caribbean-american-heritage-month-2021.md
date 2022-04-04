@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-01'
 modified_time: 2021-06-01 14:12:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-national-caribbean-american-heritage-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-national-caribbean-american-heritage-month-2021/
 published_time: 2021-06-01 14:12:35-04:00
 title: "A Proclamation on National Caribbean-American Heritage Month,\_2021"
 ---

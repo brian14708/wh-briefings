@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-03'
 modified_time: 2022-01-03 19:19:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/readout-of-president-joe-bidens-event-with-farmers-ranchers-on-his-action-plan-for-a-more-competitive-meat-and-poultry-supply-chain/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/readout-of-president-joe-bidens-event-with-farmers-ranchers-on-his-action-plan-for-a-more-competitive-meat-and-poultry-supply-chain/
 published_time: 2022-01-03 19:19:20-05:00
 title: "Readout of President Joe\_Biden\u2019s Event with Farmers, Ranchers on his\
   \ Action Plan for a More Competitive Meat and Poultry Supply\_Chain"

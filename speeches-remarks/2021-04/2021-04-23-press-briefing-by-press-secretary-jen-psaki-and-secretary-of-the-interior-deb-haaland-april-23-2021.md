@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-23'
 modified_time: 2021-04-23 22:05:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/23/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-the-interior-deb-haaland-april-23-2021/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/23/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-the-interior-deb-haaland-april-23-2021/
 published_time: 2021-04-23 22:15:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of the Interior\
   \ Deb Haaland, April 23,\_2021"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
 modified_time: 2021-10-27 17:26:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/readout-of-white-house-roundtable-on-intersex-awareness-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/readout-of-white-house-roundtable-on-intersex-awareness-day/
 published_time: 2021-10-27 18:00:00-04:00
 title: "Readout of White\_House Roundtable on Intersex Awareness\_Day"
 ---

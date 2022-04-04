@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-09'
 modified_time: 2021-11-09 10:26:31-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/statement-of-president-joe-biden-on-the-passing-of-former-united-states-senator-max-cleland-of-georgia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/statement-of-president-joe-biden-on-the-passing-of-former-united-states-senator-max-cleland-of-georgia/
 published_time: 2021-11-09 10:26:30-05:00
 title: "Statement of President Joe\_Biden on the Passing of Former United\_States\
   \ Senator Max Cleland of\_Georgia"

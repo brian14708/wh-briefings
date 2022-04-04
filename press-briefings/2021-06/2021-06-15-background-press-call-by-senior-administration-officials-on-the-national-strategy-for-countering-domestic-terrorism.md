@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-15'
 modified_time: 2021-06-15 10:01:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/background-press-call-by-senior-administration-officials-on-the-national-strategy-for-countering-domestic-terrorism/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/background-press-call-by-senior-administration-officials-on-the-national-strategy-for-countering-domestic-terrorism/
 published_time: 2021-06-15 10:01:47-04:00
 title: "Background Press Call by Senior Administration Officials on the National Strategy\
   \ for Countering Domestic\_Terrorism"

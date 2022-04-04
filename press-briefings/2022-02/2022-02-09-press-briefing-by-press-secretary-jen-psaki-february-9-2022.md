@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-09'
 modified_time: 2022-02-09 16:52:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/09/press-briefing-by-press-secretary-jen-psaki-february-9-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/09/press-briefing-by-press-secretary-jen-psaki-february-9-2022/
 published_time: 2022-02-09 16:52:07-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, February 9,\_2022"
 ---

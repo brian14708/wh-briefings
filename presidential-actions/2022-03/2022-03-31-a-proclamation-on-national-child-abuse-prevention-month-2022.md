@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
 date: '2022-03-31'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-national-child-abuse-prevention-month-2022/
 published_time: 2022-03-31 14:55:21-04:00
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-national-child-abuse-prevention-month-2022/
+tags: presidential-actions
 title: "A Proclamation on National Child Abuse Prevention Month,\_2022"
 ---
  

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-28'
 modified_time: 2021-05-28 20:25:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/statement-by-press-secretary-jen-psaki-on-the-united-states-response-to-belaruss-forced-diversion-of-ryanair-flight-and-continuing-attack-on-fundamental-freedoms/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/statement-by-press-secretary-jen-psaki-on-the-united-states-response-to-belaruss-forced-diversion-of-ryanair-flight-and-continuing-attack-on-fundamental-freedoms/
 published_time: 2021-05-28 20:25:57-04:00
 title: "Statement by Press Secretary Jen\_Psaki on the United\_States Response to\
   \ Belarus\u2019s Forced Diversion of Ryanair Flight and Continuing Attack on Fundamental\_\

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-08'
 modified_time: 2021-11-08 19:24:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/08/remarks-by-president-biden-after-an-event-honoring-the-2021-nba-champion-milwaukee-bucks/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/08/remarks-by-president-biden-after-an-event-honoring-the-2021-nba-champion-milwaukee-bucks/
 published_time: 2021-11-08 19:30:00-05:00
 title: "Remarks by President\_Biden After an Event Honoring the 2021 NBA Champion\
   \ Milwaukee\_Bucks"

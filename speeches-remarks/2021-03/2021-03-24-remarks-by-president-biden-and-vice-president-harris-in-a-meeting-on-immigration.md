@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-24'
 modified_time: 2021-03-24 17:24:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/24/remarks-by-president-biden-and-vice-president-harris-in-a-meeting-on-immigration/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/24/remarks-by-president-biden-and-vice-president-harris-in-a-meeting-on-immigration/
 published_time: 2021-03-24 17:24:24-04:00
 title: "Remarks by President\_Biden and Vice President Harris in a Meeting on\_Immigration"
 ---

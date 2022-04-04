@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-08'
 modified_time: 2021-03-08 21:32:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/statement-by-president-biden-on-the-introduction-of-the-violence-against-women-reauthorization-act-of-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/statement-by-president-biden-on-the-introduction-of-the-violence-against-women-reauthorization-act-of-2021/
 published_time: 2021-03-08 21:32:53-05:00
 title: "Statement by President\_Biden on the Introduction of the Violence Against\
   \ Women Reauthorization Act of\_2021"

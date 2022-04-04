@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-21'
 modified_time: 2021-09-21 19:58:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/21/remarks-by-vice-president-harris-and-prime-minister-boris-johnson-of-the-united-kingdom-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/21/remarks-by-vice-president-harris-and-prime-minister-boris-johnson-of-the-united-kingdom-before-bilateral-meeting/
 published_time: 2021-09-21 19:58:57-04:00
 title: "Remarks by Vice President Harris and Prime Minister Boris Johnson of the United\
   \ Kingdom Before Bilateral\_Meeting"

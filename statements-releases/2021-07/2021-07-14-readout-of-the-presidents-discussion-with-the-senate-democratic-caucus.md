@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/readout-of-the-presidents-discussion-with-the-senate-democratic-caucus/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/14/readout-of-the-presidents-discussion-with-the-senate-democratic-caucus/
 published_time: 2021-07-14 16:51:52-04:00
 title: "Readout of the President\u2019s Discussion with the Senate Democratic\_Caucus"
 ---

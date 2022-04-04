@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-16'
 modified_time: 2022-03-16 16:20:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/16/remarks-by-president-biden-on-the-assistance-the-united-states-is-providing-to-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/16/remarks-by-president-biden-on-the-assistance-the-united-states-is-providing-to-ukraine/
 published_time: 2022-03-16 16:16:14-04:00
 title: "Remarks by President\_Biden on the Assistance the United\_States is Providing\
   \ to\_Ukraine"

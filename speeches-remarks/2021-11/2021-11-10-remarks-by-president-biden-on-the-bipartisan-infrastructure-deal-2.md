@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-10'
 modified_time: 2021-11-10 19:14:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/10/remarks-by-president-biden-on-the-bipartisan-infrastructure-deal-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/10/remarks-by-president-biden-on-the-bipartisan-infrastructure-deal-2/
 published_time: 2021-11-10 19:14:40-05:00
 title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Deal"
 ---

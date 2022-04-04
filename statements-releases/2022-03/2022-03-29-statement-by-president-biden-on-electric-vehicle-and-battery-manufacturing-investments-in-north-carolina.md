@@ -1,8 +1,8 @@
 ---
-category: statements-releases
 date: '2022-03-29'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/statement-by-president-biden-on-electric-vehicle-and-battery-manufacturing-investments-in-north-carolina/
 published_time: 2022-03-29 17:16:27-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/statement-by-president-biden-on-electric-vehicle-and-battery-manufacturing-investments-in-north-carolina/
+tags: statements-releases
 title: "Statement by President\_Biden on Electric Vehicle and Battery Manufacturing\
   \ Investments in North\_Carolina"
 ---

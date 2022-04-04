@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-04 15:07:31-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/president-biden-announces-presidential-delegation-to-the-united-arab-emirates-to-attend-the-united-states-national-day-at-the-expo-2020-dubai/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/president-biden-announces-presidential-delegation-to-the-united-arab-emirates-to-attend-the-united-states-national-day-at-the-expo-2020-dubai/
 published_time: 2022-03-04 14:23:16-05:00
 title: "President\_Biden Announces Presidential Delegation to the United Arab Emirates\
   \ to Attend the United\_States National Day at the Expo 2020\_Dubai"

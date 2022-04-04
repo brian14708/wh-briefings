@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-08'
 modified_time: 2021-06-08 12:00:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/08/memorandum-for-the-secretary-of-state-on-the-delegation-of-authority-under-section-1217c-of-public-law-116-283/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/08/memorandum-for-the-secretary-of-state-on-the-delegation-of-authority-under-section-1217c-of-public-law-116-283/
 published_time: 2021-06-08 12:00:01-04:00
 title: "Memorandum for the Secretary of State on the Delegation of Authority Under\
   \ Section 1217(c) of Public Law\_116-283"

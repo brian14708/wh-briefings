@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-15'
 modified_time: 2022-03-16 09:42:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-celebrate-womens-history-month/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-celebrate-womens-history-month/
 published_time: 2022-03-15 22:39:00-04:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden to Celebrate Women\u2019\
   s History\_Month"

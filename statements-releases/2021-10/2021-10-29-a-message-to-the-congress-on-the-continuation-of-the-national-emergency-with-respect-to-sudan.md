@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-29'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
 published_time: 2021-10-29 11:05:11-04:00
 title: "A Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Sudan"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-07'
 modified_time: 2021-05-07 15:39:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/07/vice-president-kamala-harris-statement-on-the-april-jobs-report/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/07/vice-president-kamala-harris-statement-on-the-april-jobs-report/
 published_time: 2021-05-07 15:39:05-04:00
 title: "Vice President Kamala\_Harris Statement on the April Jobs\_Report"
 ---

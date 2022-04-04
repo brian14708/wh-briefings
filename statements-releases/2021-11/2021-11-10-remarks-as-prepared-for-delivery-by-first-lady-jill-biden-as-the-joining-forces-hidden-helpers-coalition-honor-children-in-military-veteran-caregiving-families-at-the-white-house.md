@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-10'
 modified_time: 2022-01-25 16:06:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-as-the-joining-forces-hidden-helpers-coalition-honor-children-in-military-veteran-caregiving-families-at-the-white-house/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-as-the-joining-forces-hidden-helpers-coalition-honor-children-in-military-veteran-caregiving-families-at-the-white-house/
 published_time: 2021-11-10 12:00:00-05:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden as the Joining\
   \ Forces & Hidden Helpers Coalition Honor Children in Military & Veteran Caregiving\

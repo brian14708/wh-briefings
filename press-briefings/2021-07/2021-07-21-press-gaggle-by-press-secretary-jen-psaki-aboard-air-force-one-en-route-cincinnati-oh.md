@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-21'
 modified_time: 2021-07-21 18:34:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/21/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-cincinnati-oh/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/21/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-cincinnati-oh/
 published_time: 2021-07-21 18:34:36-04:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki Aboard Air Force One En Route Cincinnati,\_\
   OH"

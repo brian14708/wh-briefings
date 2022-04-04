@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-18'
 modified_time: 2021-05-18 17:16:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/18/a-proclamation-on-national-hepatitis-testing-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/18/a-proclamation-on-national-hepatitis-testing-day-2021/
 published_time: 2021-05-18 17:16:51-04:00
 title: "A Proclamation on National Hepatitis Testing Day,\_2021"
 ---

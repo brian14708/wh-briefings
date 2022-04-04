@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-29'
 modified_time: 2021-10-29 14:20:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-adoption-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-adoption-month-2021/
 published_time: 2021-10-29 14:19:59-04:00
 title: "A Proclamation on National Adoption Month,\_2021"
 ---

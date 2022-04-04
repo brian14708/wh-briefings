@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-10'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/10/memorandum-on-the-designation-of-the-state-of-qatar-as-a-major-non-nato-ally/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/10/memorandum-on-the-designation-of-the-state-of-qatar-as-a-major-non-nato-ally/
 published_time: 2022-03-10 16:02:42-05:00
 title: "Memorandum on the Designation of the State of Qatar as a Major Non-NATO\_\
   Ally"

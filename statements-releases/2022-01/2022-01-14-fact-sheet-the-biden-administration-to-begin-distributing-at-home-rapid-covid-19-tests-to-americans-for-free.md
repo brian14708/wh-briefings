@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-the-biden-administration-to-begin-distributing-at-home-rapid-covid-19-tests-to-americans-for-free/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-the-biden-administration-to-begin-distributing-at-home-rapid-covid-19-tests-to-americans-for-free/
 published_time: 2022-01-14 14:34:11-05:00
 title: "Fact Sheet: The Biden Administration to Begin Distributing At-Home, Rapid\
   \ COVID-\u206019 Tests to Americans for\_Free"

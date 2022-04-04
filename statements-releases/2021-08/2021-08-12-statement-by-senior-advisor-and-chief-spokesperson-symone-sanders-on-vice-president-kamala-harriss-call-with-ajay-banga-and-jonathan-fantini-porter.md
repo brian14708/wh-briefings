@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-12'
 modified_time: 2021-12-23 16:22:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-call-with-ajay-banga-and-jonathan-fantini-porter/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-call-with-ajay-banga-and-jonathan-fantini-porter/
 published_time: 2021-08-12 15:16:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Call with Ajay Banga and Jonathan Fantini\_Porter"

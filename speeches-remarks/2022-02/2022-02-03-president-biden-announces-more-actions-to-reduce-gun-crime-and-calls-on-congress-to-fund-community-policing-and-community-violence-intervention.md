@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-03'
 modified_time: 2022-02-02 19:32:33-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/
 published_time: 2022-02-03 05:00:00-05:00
 title: "President\_Biden Announces More Actions to Reduce Gun Crime And Calls on Congress\
   \ to Fund Community Policing and Community Violence\_Intervention"

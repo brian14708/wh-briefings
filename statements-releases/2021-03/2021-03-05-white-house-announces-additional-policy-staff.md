@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-05'
 modified_time: 2021-03-05 13:35:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/05/white-house-announces-additional-policy-staff/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/05/white-house-announces-additional-policy-staff/
 published_time: 2021-03-05 08:29:50-05:00
 title: "White\_House Announces Additional Policy\_Staff"
 ---

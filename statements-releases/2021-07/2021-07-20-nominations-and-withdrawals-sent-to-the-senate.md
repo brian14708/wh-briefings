@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-20'
 modified_time: 2021-07-20 18:03:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/nominations-and-withdrawals-sent-to-the-senate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/nominations-and-withdrawals-sent-to-the-senate/
 published_time: 2021-07-20 15:41:32-04:00
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---

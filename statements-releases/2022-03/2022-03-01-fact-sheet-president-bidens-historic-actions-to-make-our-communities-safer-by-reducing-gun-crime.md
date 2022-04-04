@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 18:46:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/
 published_time: 2022-03-01 18:44:48-05:00
 title: "Fact Sheet: President\_Biden\u2019s Historic Actions to Make Our Communities\
   \ Safer by Reducing Gun\_Crime"

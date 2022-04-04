@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 14:25:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/fact-sheet-biden-administration-to-take-steps-to-bolster-registered-apprenticeships/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/fact-sheet-biden-administration-to-take-steps-to-bolster-registered-apprenticeships/
 published_time: 2021-02-17 11:59:23-05:00
 title: "Fact Sheet: Biden Administration to Take Steps to Bolster Registered\_Apprenticeships"
 ---

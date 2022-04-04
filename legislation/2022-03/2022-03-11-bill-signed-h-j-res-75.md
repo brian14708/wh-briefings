@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2022-03-11'
 modified_time: 2022-03-15 10:12:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/03/11/bill-signed-h-j-res-75/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/03/11/bill-signed-h-j-res-75/
 published_time: 2022-03-11 18:07:09-05:00
 title: "Bill Signed: H.J. Res.\_75"
 ---

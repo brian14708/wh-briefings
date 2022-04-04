@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-18'
 modified_time: 2021-08-18 18:43:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/18/remarks-by-president-biden-on-fighting-the-covid-19-pandemic-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/18/remarks-by-president-biden-on-fighting-the-covid-19-pandemic-2/
 published_time: 2021-08-18 19:00:00-04:00
 title: "Remarks by President\_Biden on Fighting the COVID-\u206019\_Pandemic"
 ---

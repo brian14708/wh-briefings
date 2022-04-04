@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-08-05 14:52:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/
 published_time: 2021-07-21 19:51:43-04:00
 title: "Readout of the Second White\_House Eviction Prevention\_Convening"
 ---

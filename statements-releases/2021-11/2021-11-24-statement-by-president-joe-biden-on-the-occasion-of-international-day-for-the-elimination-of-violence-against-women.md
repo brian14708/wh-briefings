@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-24'
 modified_time: 2021-11-24 20:07:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-president-joe-biden-on-the-occasion-of-international-day-for-the-elimination-of-violence-against-women/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-president-joe-biden-on-the-occasion-of-international-day-for-the-elimination-of-violence-against-women/
 published_time: 2021-11-24 14:32:35-05:00
 title: "Statement by President Joe\_Biden on the Occasion of International Day for\
   \ the Elimination of Violence Against\_Women"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-07'
 modified_time: 2021-04-07 21:31:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/
 published_time: 2021-04-07 20:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Initial Actions to\
   \ Address the Gun Violence Public Health\_Epidemic"

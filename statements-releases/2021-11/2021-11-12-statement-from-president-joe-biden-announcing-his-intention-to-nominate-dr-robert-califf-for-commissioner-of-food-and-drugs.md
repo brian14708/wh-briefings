@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-12'
 modified_time: 2021-11-12 12:42:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/statement-from-president-joe-biden-announcing-his-intention-to-nominate-dr-robert-califf-for-commissioner-of-food-and-drugs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/statement-from-president-joe-biden-announcing-his-intention-to-nominate-dr-robert-califf-for-commissioner-of-food-and-drugs/
 published_time: 2021-11-12 11:45:00-05:00
 title: "Statement from President Joe\_Biden Announcing His Intention to Nominate Dr.\
   \ Robert Califf for Commissioner of Food and\_Drugs"

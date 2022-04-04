@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-22 21:36:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-the-american-jobs-plan-empowers-and-protects-workers/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-the-american-jobs-plan-empowers-and-protects-workers/
 published_time: 2021-04-23 06:30:00-04:00
 title: "FACT SHEET: The American Jobs Plan Empowers and Protects\_Workers"
 ---

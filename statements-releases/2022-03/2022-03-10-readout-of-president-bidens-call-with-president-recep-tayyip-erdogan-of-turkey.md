@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-10'
 modified_time: 2022-03-10 12:55:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/readout-of-president-bidens-call-with-president-recep-tayyip-erdogan-of-turkey/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/readout-of-president-bidens-call-with-president-recep-tayyip-erdogan-of-turkey/
 published_time: 2022-03-10 12:55:00-05:00
 title: "Readout of President\_Biden\u2019s Call with President Recep Tayyip Erdogan\
   \ of\_Turkey"

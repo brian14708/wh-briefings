@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-20'
 modified_time: 2021-04-19 22:58:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/statement-by-nsc-spokesperson-emily-horne-on-the-biden-administrations-efforts-to-protect-u-s-critical-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/statement-by-nsc-spokesperson-emily-horne-on-the-biden-administrations-efforts-to-protect-u-s-critical-infrastructure/
 published_time: 2021-04-20 08:10:00-04:00
 title: "Statement by NSC Spokesperson Emily Horne on the Biden Administration\u2019\
   s Efforts to Protect U.S. Critical\_Infrastructure"

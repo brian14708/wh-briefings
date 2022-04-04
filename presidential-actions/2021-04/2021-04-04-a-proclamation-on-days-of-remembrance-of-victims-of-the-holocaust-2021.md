@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-04'
 modified_time: 2021-04-02 16:30:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/04/a-proclamation-on-days-of-remembrance-of-victims-of-the-holocaust-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/04/a-proclamation-on-days-of-remembrance-of-victims-of-the-holocaust-2021/
 published_time: 2021-04-04 10:15:00-04:00
 title: "A Proclamation on Days of Remembrance of Victims of the Holocaust,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-20'
 modified_time: 2021-11-19 19:27:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/
 published_time: 2021-11-20 09:00:00-05:00
 title: "Biden-\u2060Harris Administration Memorializes Transgender Day of\_Remembrance"
 ---

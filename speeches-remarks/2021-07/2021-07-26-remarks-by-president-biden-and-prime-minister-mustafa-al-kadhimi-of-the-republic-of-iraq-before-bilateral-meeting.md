@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-26'
 modified_time: 2021-07-26 17:00:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/26/remarks-by-president-biden-and-prime-minister-mustafa-al-kadhimi-of-the-republic-of-iraq-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/26/remarks-by-president-biden-and-prime-minister-mustafa-al-kadhimi-of-the-republic-of-iraq-before-bilateral-meeting/
 published_time: 2021-07-26 17:15:00-04:00
 title: "Remarks by President\_Biden and Prime Minister Mustafa Al-Kadhimi of the Republic\
   \ of Iraq Before Bilateral\_Meeting"

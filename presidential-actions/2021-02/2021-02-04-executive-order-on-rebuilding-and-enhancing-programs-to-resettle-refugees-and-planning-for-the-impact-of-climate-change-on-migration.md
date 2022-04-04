@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-04'
 modified_time: 2021-02-05 12:28:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/executive-order-on-rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change-on-migration/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/executive-order-on-rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change-on-migration/
 published_time: 2021-02-04 19:58:04-05:00
 title: "Executive Order on Rebuilding and Enhancing Programs to Resettle Refugees\
   \ and Planning for the Impact of Climate Change on\_Migration"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-2/
 published_time: 2022-02-15 16:11:34-05:00
 title: "President Joseph R. Biden, Jr. Approves Hawaii Disaster\_Declaration"
 ---

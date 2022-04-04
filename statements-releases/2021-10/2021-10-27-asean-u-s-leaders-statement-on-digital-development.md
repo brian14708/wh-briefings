@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/asean-u-s-leaders-statement-on-digital-development/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/asean-u-s-leaders-statement-on-digital-development/
 published_time: 2021-10-27 17:21:33-04:00
 title: "ASEAN-U.S. Leaders\u2019 Statement on Digital\_Development"
 ---

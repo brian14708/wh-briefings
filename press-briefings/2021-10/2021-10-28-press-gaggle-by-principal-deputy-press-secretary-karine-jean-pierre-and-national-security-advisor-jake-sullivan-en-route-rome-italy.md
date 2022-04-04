@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-28'
 modified_time: 2021-10-29 12:45:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/28/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-rome-italy/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/28/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-rome-italy/
 published_time: 2021-10-28 18:18:40-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre and National\
   \ Security Advisor Jake Sullivan En Route Rome,\_Italy"

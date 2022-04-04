@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-07'
 modified_time: 2021-05-12 09:45:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/a-proclamation-on-peace-officers-memorial-day-and-police-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/a-proclamation-on-peace-officers-memorial-day-and-police-week-2021/
 published_time: 2021-05-07 19:00:00-04:00
 title: "A Proclamation on Peace Officers Memorial Day and Police Week,\_2021"
 ---

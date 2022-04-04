@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 22:06:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-nsc-spokesperson-emily-horne-on-meeting-with-european-commission-on-covid-19-and-global-health-security/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-nsc-spokesperson-emily-horne-on-meeting-with-european-commission-on-covid-19-and-global-health-security/
 published_time: 2021-12-22 22:06:46-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Meeting with European Commission\
   \ on COVID-\u206019 and Global Health\_Security"

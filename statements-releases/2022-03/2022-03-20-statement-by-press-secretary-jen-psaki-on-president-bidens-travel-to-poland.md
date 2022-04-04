@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-20'
 modified_time: 2022-03-20 22:00:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/20/statement-by-press-secretary-jen-psaki-on-president-bidens-travel-to-poland/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/20/statement-by-press-secretary-jen-psaki-on-president-bidens-travel-to-poland/
 published_time: 2022-03-20 22:00:56-04:00
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Travel\
   \ to\_Poland"

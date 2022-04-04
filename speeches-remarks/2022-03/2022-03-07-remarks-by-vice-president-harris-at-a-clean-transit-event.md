@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-07'
 modified_time: 2022-03-07 14:47:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/07/remarks-by-vice-president-harris-at-a-clean-transit-event/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/07/remarks-by-vice-president-harris-at-a-clean-transit-event/
 published_time: 2022-03-07 14:47:02-05:00
 title: "Remarks by Vice President Harris at a Clean Transit\_Event"
 ---

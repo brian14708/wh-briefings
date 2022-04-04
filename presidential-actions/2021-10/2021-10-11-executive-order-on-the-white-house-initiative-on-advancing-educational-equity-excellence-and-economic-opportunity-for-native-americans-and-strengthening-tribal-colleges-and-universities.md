@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-11'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/11/executive-order-on-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-native-americans-and-strengthening-tribal-colleges-and-universities/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/11/executive-order-on-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-native-americans-and-strengthening-tribal-colleges-and-universities/
 published_time: 2021-10-11 11:19:18-04:00
 title: "Executive Order on the White\_House Initiative on Advancing Educational Equity,\
   \ Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal\

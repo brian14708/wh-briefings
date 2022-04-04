@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-05'
 modified_time: 2021-08-05 18:07:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statement-by-president-joe-biden-on-the-passing-of-afl-cio-president-richard-trumka/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/statement-by-president-joe-biden-on-the-passing-of-afl-cio-president-richard-trumka/
 published_time: 2021-08-05 17:12:00-04:00
 title: "Statement by President Joe\_Biden\_ on the Passing of AFL-CIO President Richard\_\
   Trumka"

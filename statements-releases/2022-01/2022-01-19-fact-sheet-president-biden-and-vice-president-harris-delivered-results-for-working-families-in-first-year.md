@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-19'
 modified_time: 2022-01-19 14:56:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-president-biden-and-vice-president-harris-delivered-results-for-working-families-in-first-year/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-president-biden-and-vice-president-harris-delivered-results-for-working-families-in-first-year/
 published_time: 2022-01-19 15:00:00-05:00
 title: "FACT SHEET: President\_Biden and Vice President Harris Delivered Results for\
   \ Working Families in First\_Year"

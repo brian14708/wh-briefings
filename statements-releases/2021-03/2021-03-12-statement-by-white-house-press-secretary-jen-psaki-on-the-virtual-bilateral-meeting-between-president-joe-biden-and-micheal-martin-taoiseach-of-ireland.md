@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-12'
 modified_time: 2021-03-12 17:50:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/statement-by-white-house-press-secretary-jen-psaki-on-the-virtual-bilateral-meeting-between-president-joe-biden-and-micheal-martin-taoiseach-of-ireland/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/statement-by-white-house-press-secretary-jen-psaki-on-the-virtual-bilateral-meeting-between-president-joe-biden-and-micheal-martin-taoiseach-of-ireland/
 published_time: 2021-03-12 17:50:01-05:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Virtual Bilateral\
   \ Meeting between President Joe\_Biden and Miche\xE1l Martin, Taoiseach of\_Ireland"

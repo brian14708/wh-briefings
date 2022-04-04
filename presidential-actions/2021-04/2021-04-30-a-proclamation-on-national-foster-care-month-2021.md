@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 16:32:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-foster-care-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-foster-care-month-2021/
 published_time: 2021-04-30 16:32:28-04:00
 title: "A Proclamation on National Foster Care Month,\_2021"
 ---

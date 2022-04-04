@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-24'
 modified_time: 2022-03-24 09:22:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/24/background-press-call-on-president-bidens-meetings-at-nato/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/24/background-press-call-on-president-bidens-meetings-at-nato/
 published_time: 2022-03-24 09:22:49-04:00
 title: "Background Press Call on President\_Biden\u2019s Meetings at\_NATO"
 ---

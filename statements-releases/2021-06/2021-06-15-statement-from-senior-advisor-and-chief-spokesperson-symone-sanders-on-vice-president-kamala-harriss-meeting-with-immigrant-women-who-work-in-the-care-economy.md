@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-16 17:47:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-immigrant-women-who-work-in-the-care-economy/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-immigrant-women-who-work-in-the-care-economy/
 published_time: 2021-06-15 17:47:00-04:00
 title: "Statement From Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Meeting With Immigrant Women Who Work in the Care\_\

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-24'
 modified_time: 2021-09-24 08:35:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/background-press-call-by-senior-administration-officials-previewing-the-quad-leaders-summit-and-bilateral-meeting-with-india/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/background-press-call-by-senior-administration-officials-previewing-the-quad-leaders-summit-and-bilateral-meeting-with-india/
 published_time: 2021-09-24 08:35:48-04:00
 title: "Background Press Call by Senior Administration Officials Previewing the Quad\
   \ Leaders Summit and Bilateral Meeting with\_India"

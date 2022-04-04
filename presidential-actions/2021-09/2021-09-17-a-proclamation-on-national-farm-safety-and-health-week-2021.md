@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-17'
 modified_time: 2021-09-17 10:22:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/a-proclamation-on-national-farm-safety-and-health-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/a-proclamation-on-national-farm-safety-and-health-week-2021/
 published_time: 2021-09-17 10:22:37-04:00
 title: "A Proclamation on National Farm Safety and Health Week,\_2021"
 ---

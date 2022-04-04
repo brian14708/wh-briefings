@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-04'
 modified_time: 2022-02-04 14:59:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/04/remarks-by-president-biden-on-the-january-jobs-report/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/04/remarks-by-president-biden-on-the-january-jobs-report/
 published_time: 2022-02-04 14:59:51-05:00
 title: "Remarks by President\_Biden on the January Jobs\_Report"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-24'
 modified_time: 2021-01-24 15:22:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/24/readout-of-president-joseph-r-biden-jr-call-with-president-emmanuel-macron-of-france/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/24/readout-of-president-joseph-r-biden-jr-call-with-president-emmanuel-macron-of-france/
 published_time: 2021-01-24 15:22:37-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Emmanuel Macron\
   \ of\_France"

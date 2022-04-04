@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-10'
 modified_time: 2021-12-10 15:10:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-kellogg-collective-bargaining-negotiations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-kellogg-collective-bargaining-negotiations/
 published_time: 2021-12-10 15:50:00-05:00
 title: "Statement by President Joe\_Biden On Kellogg Collective Bargaining\_Negotiations"
 ---

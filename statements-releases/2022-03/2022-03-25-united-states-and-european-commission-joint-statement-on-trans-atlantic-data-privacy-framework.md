@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-25'
 modified_time: 2022-03-25 12:03:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/united-states-and-european-commission-joint-statement-on-trans-atlantic-data-privacy-framework/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/united-states-and-european-commission-joint-statement-on-trans-atlantic-data-privacy-framework/
 published_time: 2022-03-25 11:04:29-04:00
 title: "United\_States and European Commission Joint Statement on Trans-Atlantic Data\
   \ Privacy\_Framework"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-16'
 modified_time: 2021-11-16 19:19:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 published_time: 2021-11-16 14:45:33-05:00
 title: "A Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to the Situation in\_Nicaragua"

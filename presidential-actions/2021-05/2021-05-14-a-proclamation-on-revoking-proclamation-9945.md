@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-14'
 modified_time: 2021-05-14 15:53:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-revoking-proclamation-9945/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/a-proclamation-on-revoking-proclamation-9945/
 published_time: 2021-05-14 15:53:48-04:00
 title: "A Proclamation on Revoking Proclamation\_9945"
 ---

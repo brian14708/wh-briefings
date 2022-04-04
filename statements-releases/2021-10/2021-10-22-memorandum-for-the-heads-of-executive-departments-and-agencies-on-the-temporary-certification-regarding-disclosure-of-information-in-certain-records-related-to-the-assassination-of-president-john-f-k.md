@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-22'
 modified_time: 2021-10-22 21:23:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/memorandum-for-the-heads-of-executive-departments-and-agencies-on-the-temporary-certification-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-k/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/memorandum-for-the-heads-of-executive-departments-and-agencies-on-the-temporary-certification-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-k/
 published_time: 2021-10-22 21:22:50-04:00
 title: "Memorandum for the Heads of Executive Departments and Agencies on the Temporary\
   \ Certification Regarding Disclosure of Information in Certain Records Related to\

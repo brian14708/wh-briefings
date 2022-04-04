@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-08'
 modified_time: 2022-03-09 09:21:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/08/press-gaggle-by-press-secretary-jen-psaki-3/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/08/press-gaggle-by-press-secretary-jen-psaki-3/
 published_time: 2022-03-08 16:27:32-05:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki"
 ---

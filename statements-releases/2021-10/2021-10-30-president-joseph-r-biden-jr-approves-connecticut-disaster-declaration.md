@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/president-joseph-r-biden-jr-approves-connecticut-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/president-joseph-r-biden-jr-approves-connecticut-disaster-declaration/
 published_time: 2021-10-30 17:12:58-04:00
 title: "President Joseph R. Biden, Jr. Approves Connecticut Disaster\_Declaration"
 ---

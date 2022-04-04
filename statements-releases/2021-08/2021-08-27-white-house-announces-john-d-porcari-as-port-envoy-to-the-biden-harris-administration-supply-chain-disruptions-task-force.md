@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-27'
 modified_time: 2021-08-26 22:55:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/
 published_time: 2021-08-27 08:15:00-04:00
 title: "White\_House Announces John D. Porcari as Port Envoy to the Biden-\u2060Harris\
   \ Administration Supply Chain Disruptions Task\_Force"

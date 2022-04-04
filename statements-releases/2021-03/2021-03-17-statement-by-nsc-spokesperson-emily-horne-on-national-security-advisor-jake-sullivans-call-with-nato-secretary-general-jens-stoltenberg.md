@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-17'
 modified_time: 2021-03-17 14:13:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nato-secretary-general-jens-stoltenberg/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nato-secretary-general-jens-stoltenberg/
 published_time: 2021-03-17 14:13:52-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with NATO Secretary General Jens\_Stoltenberg"

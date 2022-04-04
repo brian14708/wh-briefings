@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-01'
 modified_time: 2021-03-01 18:39:18-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/01/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-homeland-security-alejandro-mayorkas/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/01/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-homeland-security-alejandro-mayorkas/
 published_time: 2021-03-01 18:39:17-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Homeland Security\
   \ Alejandro\_Mayorkas"

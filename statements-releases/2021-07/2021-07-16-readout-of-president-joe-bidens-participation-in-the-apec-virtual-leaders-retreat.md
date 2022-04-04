@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-16'
 modified_time: 2021-07-16 12:11:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-retreat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-retreat/
 published_time: 2021-07-16 12:11:47-04:00
 title: "Readout of President Joe\_Biden\u2019s Participation in the APEC Virtual Leaders\u2019\
   \_Retreat"

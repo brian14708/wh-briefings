@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-15'
 modified_time: 2021-07-15 10:10:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/statement-by-president-joseph-r-biden-jr-on-two-million-americans-signing-up-for-health-coverage-and-launching-the-summer-sprint-to-coverage-campaign/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/statement-by-president-joseph-r-biden-jr-on-two-million-americans-signing-up-for-health-coverage-and-launching-the-summer-sprint-to-coverage-campaign/
 published_time: 2021-07-15 11:45:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on Two Million Americans Signing\
   \ Up for Health Coverage and Launching the \u201CSummer Sprint to Coverage\u201D\

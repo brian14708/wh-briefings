@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-16'
 modified_time: 2022-03-16 10:43:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/
 published_time: 2022-03-16 13:30:00-04:00
 title: "Fact Sheet:  Reauthorization of the Violence Against Women Act\_(VAWA)"
 ---

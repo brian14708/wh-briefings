@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-karin-wallensteen-state-secretary-for-foreign-affairs-to-the-prime-mi/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-karin-wallensteen-state-secretary-for-foreign-affairs-to-the-prime-mi/
 published_time: 2022-02-11 18:07:40-05:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s Meeting with Karin Wallensteen, State Secretary\

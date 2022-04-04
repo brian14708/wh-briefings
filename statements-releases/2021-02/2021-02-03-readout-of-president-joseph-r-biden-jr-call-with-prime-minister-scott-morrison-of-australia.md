@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-03'
 modified_time: 2021-02-03 22:53:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-scott-morrison-of-australia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-scott-morrison-of-australia/
 published_time: 2021-02-03 22:53:27-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Scott Morrison\
   \ of\_Australia"

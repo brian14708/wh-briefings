@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-22 22:40:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/
 published_time: 2021-07-23 07:00:00-04:00
 title: "FACT SHEET: How the Biden-\u2060Harris Administration Is Advancing Educational\_\
   Equity"

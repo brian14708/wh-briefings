@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-16'
 modified_time: 2021-07-16 12:12:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/
 published_time: 2021-07-16 11:56:34-04:00
 title: "Readout of First Meeting of White\_House Community Violence Intervention\_\
   Collaborative"

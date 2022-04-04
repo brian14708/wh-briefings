@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-03-29'
 modified_time: 2021-03-29 21:15:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/
 published_time: 2021-03-29 10:06:45-04:00
 title: "Approaching Policy with Equity in\_Mind"
 ---

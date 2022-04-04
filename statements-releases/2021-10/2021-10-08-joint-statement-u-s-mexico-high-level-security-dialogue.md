@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-08'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/joint-statement-u-s-mexico-high-level-security-dialogue/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/joint-statement-u-s-mexico-high-level-security-dialogue/
 published_time: 2021-10-08 17:16:47-04:00
 title: "Joint Statement: U.S.-Mexico High-Level Security\_Dialogue"
 ---

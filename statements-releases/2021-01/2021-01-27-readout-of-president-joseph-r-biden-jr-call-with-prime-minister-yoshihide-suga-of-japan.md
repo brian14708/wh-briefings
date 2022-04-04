@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-27'
 modified_time: 2021-01-27 12:55:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-yoshihide-suga-of-japan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-yoshihide-suga-of-japan/
 published_time: 2021-01-27 12:30:06-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Yoshihide\
   \ Suga of\_Japan"

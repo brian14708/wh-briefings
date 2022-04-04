@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-18'
 modified_time: 2021-08-18 17:04:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/18/president-biden-announces-five-key-nominations-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/18/president-biden-announces-five-key-nominations-4/
 published_time: 2021-08-18 16:26:50-04:00
 title: "President\_Biden Announces Five Key\_Nominations"
 ---

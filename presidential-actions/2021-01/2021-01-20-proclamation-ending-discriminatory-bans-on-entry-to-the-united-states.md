@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/
 published_time: 2021-01-20 20:13:26-05:00
 title: "Proclamation on Ending Discriminatory Bans on Entry to The United\_States"
 ---

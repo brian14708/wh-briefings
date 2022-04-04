@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-13'
 modified_time: 2021-10-12 21:53:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/13/background-press-call-on-global-transportation-supply-chain-bottlenecks/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/13/background-press-call-on-global-transportation-supply-chain-bottlenecks/
 published_time: 2021-10-13 05:00:00-04:00
 title: "Background Press Call on Global Transportation Supply Chain\_Bottlenecks"
 ---

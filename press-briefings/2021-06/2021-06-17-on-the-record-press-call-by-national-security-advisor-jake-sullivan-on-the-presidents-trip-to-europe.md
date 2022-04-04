@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-17'
 modified_time: 2021-06-17 16:16:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/17/on-the-record-press-call-by-national-security-advisor-jake-sullivan-on-the-presidents-trip-to-europe/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/17/on-the-record-press-call-by-national-security-advisor-jake-sullivan-on-the-presidents-trip-to-europe/
 published_time: 2021-06-17 16:16:16-04:00
 title: "On-the-Record Press Call by National Security Advisor Jake Sullivan on the\
   \ President\u2019s Trip to\_Europe"

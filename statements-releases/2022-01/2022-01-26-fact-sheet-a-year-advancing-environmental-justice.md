@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-25 22:02:35-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/
 published_time: 2022-01-26 06:00:00-05:00
 title: "Fact Sheet: A Year Advancing Environmental\_Justice"
 ---

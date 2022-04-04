@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-11'
 modified_time: 2021-05-11 13:43:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/readout-of-vice-president-kamala-harris-call-with-president-kais-saied-of-tunisia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/11/readout-of-vice-president-kamala-harris-call-with-president-kais-saied-of-tunisia/
 published_time: 2021-05-11 13:43:41-04:00
 title: "Readout of Vice President Kamala\_Harris Call with President Kais Saied of\_\
   Tunisia"

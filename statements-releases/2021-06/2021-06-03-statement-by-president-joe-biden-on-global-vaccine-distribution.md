@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-president-joe-biden-on-global-vaccine-distribution/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-president-joe-biden-on-global-vaccine-distribution/
 published_time: 2021-06-03 11:10:34-04:00
 title: "Statement by President Joe\_Biden on Global Vaccine\_Distribution"
 ---

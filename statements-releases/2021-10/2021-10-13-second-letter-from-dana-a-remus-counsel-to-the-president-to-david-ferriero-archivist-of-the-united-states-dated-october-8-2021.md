@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-13'
 modified_time: 2021-10-14 07:28:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/second-letter-from-dana-a-remus-counsel-to-the-president-to-david-ferriero-archivist-of-the-united-states-dated-october-8-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/second-letter-from-dana-a-remus-counsel-to-the-president-to-david-ferriero-archivist-of-the-united-states-dated-october-8-2021/
 published_time: 2021-10-13 16:42:34-04:00
 title: "Second Letter from Dana A. Remus, Counsel to the President, to David Ferriero,\
   \ Archivist of the United\_States, dated October 8,\_2021"

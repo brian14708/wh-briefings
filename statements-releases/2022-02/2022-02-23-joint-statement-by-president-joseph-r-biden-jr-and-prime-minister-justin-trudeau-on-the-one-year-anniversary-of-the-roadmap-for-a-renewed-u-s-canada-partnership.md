@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-23'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/joint-statement-by-president-joseph-r-biden-jr-and-prime-minister-justin-trudeau-on-the-one-year-anniversary-of-the-roadmap-for-a-renewed-u-s-canada-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/joint-statement-by-president-joseph-r-biden-jr-and-prime-minister-justin-trudeau-on-the-one-year-anniversary-of-the-roadmap-for-a-renewed-u-s-canada-partnership/
 published_time: 2022-02-23 13:20:40-05:00
 title: "Joint Statement by President Joseph R. Biden Jr. and Prime Minister Justin\
   \ Trudeau on the One-Year Anniversary of the Roadmap for a Renewed U.S.-Canada\_\

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-17'
 modified_time: 2021-09-17 10:18:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/a-proclamation-on-minority-enterprise-development-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/a-proclamation-on-minority-enterprise-development-week-2021/
 published_time: 2021-09-17 10:18:18-04:00
 title: "A Proclamation on Minority Enterprise Development Week,\_2021"
 ---

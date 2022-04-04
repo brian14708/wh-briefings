@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-11'
 modified_time: 2021-11-11 14:12:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/11/remarks-by-president-biden-at-the-national-veterans-day-observance/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/11/remarks-by-president-biden-at-the-national-veterans-day-observance/
 published_time: 2021-11-11 14:30:00-05:00
 title: "Remarks by President\_Biden at the National Veterans Day\_Observance"
 ---

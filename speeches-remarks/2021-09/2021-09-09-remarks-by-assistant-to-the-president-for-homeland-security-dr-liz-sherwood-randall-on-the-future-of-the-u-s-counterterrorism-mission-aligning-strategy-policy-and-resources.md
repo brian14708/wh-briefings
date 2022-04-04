@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-09'
 modified_time: 2021-09-09 15:32:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-assistant-to-the-president-for-homeland-security-dr-liz-sherwood-randall-on-the-future-of-the-u-s-counterterrorism-mission-aligning-strategy-policy-and-resources/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-assistant-to-the-president-for-homeland-security-dr-liz-sherwood-randall-on-the-future-of-the-u-s-counterterrorism-mission-aligning-strategy-policy-and-resources/
 published_time: 2021-09-09 08:41:55-04:00
 title: "Remarks as Prepared for Delivery by Assistant to the President for Homeland\
   \ Security, Dr. Liz Sherwood-Randall on the Future of the U.S. Counterterrorism\

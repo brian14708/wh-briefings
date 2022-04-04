@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-05'
 modified_time: 2021-08-05 20:57:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/readout-of-the-president-and-vice-presidents-meeting-with-asian-american-native-hawaiian-and-pacific-islander-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/readout-of-the-president-and-vice-presidents-meeting-with-asian-american-native-hawaiian-and-pacific-islander-leaders/
 published_time: 2021-08-05 20:57:39-04:00
 title: "Readout of the President and Vice President\u2019s Meeting with Asian American,\
   \ Native Hawaiian, and Pacific Islander\_Leaders"

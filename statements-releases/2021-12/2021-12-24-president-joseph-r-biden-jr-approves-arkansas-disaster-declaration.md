@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-24'
 modified_time: 2021-12-24 10:22:25-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/24/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/24/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration/
 published_time: 2021-12-24 10:22:24-05:00
 title: "President Joseph R. Biden, Jr. Approves Arkansas Disaster\_Declaration"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-18'
 modified_time: 2021-12-20 11:12:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/
 published_time: 2021-11-18 13:56:00-05:00
 title: "Remarks by Vice President Harris and President L\xF3pez Obrador of Mexico\
   \ Before Bilateral\_Meeting"

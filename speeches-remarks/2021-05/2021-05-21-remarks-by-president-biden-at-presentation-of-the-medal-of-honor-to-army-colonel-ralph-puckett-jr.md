@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-21'
 modified_time: 2021-05-22 10:29:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/21/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-colonel-ralph-puckett-jr/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/21/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-colonel-ralph-puckett-jr/
 published_time: 2021-05-21 13:18:00-04:00
 title: "Remarks by President\_Biden at Presentation of the Medal of Honor to Army\
   \ Colonel Ralph Puckett,\_Jr."

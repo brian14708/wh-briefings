@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-05-20'
 modified_time: 2022-03-15 11:31:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/05/20/bill-signing-s-937/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/05/20/bill-signing-s-937/
 published_time: 2021-05-20 18:38:27-04:00
 title: "Bill Signing: S.\_937"
 ---

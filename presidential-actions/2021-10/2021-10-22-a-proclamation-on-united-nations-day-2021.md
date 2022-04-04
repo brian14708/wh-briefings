@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-22'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/22/a-proclamation-on-united-nations-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/22/a-proclamation-on-united-nations-day-2021/
 published_time: 2021-10-22 10:05:57-04:00
 title: "A Proclamation on United Nations Day,\_2021"
 ---

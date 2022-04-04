@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-12'
 modified_time: 2021-05-12 13:11:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/12/remarks-by-president-biden-before-meeting-with-members-of-congressional-leadership-to-discuss-policy-areas-of-mutual-interest/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/12/remarks-by-president-biden-before-meeting-with-members-of-congressional-leadership-to-discuss-policy-areas-of-mutual-interest/
 published_time: 2021-05-12 13:11:14-04:00
 title: "Remarks by President\_Biden Before Meeting with Members of Congressional Leadership\
   \ to Discuss Policy Areas of Mutual\_Interest"

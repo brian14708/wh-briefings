@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-27'
 modified_time: 2021-04-28 08:44:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/
 published_time: 2021-04-27 15:22:35-04:00
 title: "FACT SHEET: Biden Administration Advances Expansion & Modernization of the\
   \ Electric\_Grid"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-08'
 modified_time: 2022-02-08 16:12:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/remarks-by-president-biden-on-rebuilding-our-manufacturing-to-make-more-in-america/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/remarks-by-president-biden-on-rebuilding-our-manufacturing-to-make-more-in-america/
 published_time: 2022-02-08 16:12:45-05:00
 title: "Remarks by President\_Biden on Rebuilding Our Manufacturing to Make More in\_\
   America"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-10'
 modified_time: 2022-03-03 12:02:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/10/remarks-by-vice-president-harris-to-department-of-defense-personnel/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/10/remarks-by-vice-president-harris-to-department-of-defense-personnel/
 published_time: 2021-02-10 11:58:00-05:00
 title: "REMARKS BY VICE PRESIDENT HARRIS TO DEPARTMENT OF DEFENSE\_PERSONNEL"
 ---

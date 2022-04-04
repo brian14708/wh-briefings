@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-25'
 modified_time: 2021-08-25 18:12:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/
 published_time: 2021-08-25 17:46:41-04:00
 title: "FACT SHEET: Biden Administration and Private Sector Leaders Announce Ambitious\
   \ Initiatives to Bolster the Nation\u2019s\_Cybersecurity"

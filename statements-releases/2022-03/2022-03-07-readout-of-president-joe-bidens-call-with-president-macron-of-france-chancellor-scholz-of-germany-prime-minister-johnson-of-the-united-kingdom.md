@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/readout-of-president-joe-bidens-call-with-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-johnson-of-the-united-kingdom/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/readout-of-president-joe-bidens-call-with-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-johnson-of-the-united-kingdom/
 published_time: 2022-03-07 13:53:38-05:00
 title: "Readout of President Joe\_Biden\u2019s Call with President Macron of France,\
   \ Chancellor Scholz of Germany, Prime Minister Johnson of the United\_Kingdom"

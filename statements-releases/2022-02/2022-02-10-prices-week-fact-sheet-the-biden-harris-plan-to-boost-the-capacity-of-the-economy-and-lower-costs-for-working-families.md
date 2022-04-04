@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/prices-week-fact-sheet-the-biden-harris-plan-to-boost-the-capacity-of-the-economy-and-lower-costs-for-working-families/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/prices-week-fact-sheet-the-biden-harris-plan-to-boost-the-capacity-of-the-economy-and-lower-costs-for-working-families/
 published_time: 2022-02-10 11:10:12-05:00
 title: "PRICES WEEK FACT SHEET: The Biden-\u2060Harris Plan to Boost the Capacity\
   \ of the Economy and Lower Costs for Working\_Families"

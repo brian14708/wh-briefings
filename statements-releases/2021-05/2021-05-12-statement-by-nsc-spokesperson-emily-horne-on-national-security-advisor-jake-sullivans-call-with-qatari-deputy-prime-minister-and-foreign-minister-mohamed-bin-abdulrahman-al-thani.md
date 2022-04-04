@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-12'
 modified_time: 2021-05-12 19:08:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-qatari-deputy-prime-minister-and-foreign-minister-mohamed-bin-abdulrahman-al-thani/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-qatari-deputy-prime-minister-and-foreign-minister-mohamed-bin-abdulrahman-al-thani/
 published_time: 2021-05-12 18:15:10-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Qatari Deputy Prime Minister and Foreign Minister Mohamed\

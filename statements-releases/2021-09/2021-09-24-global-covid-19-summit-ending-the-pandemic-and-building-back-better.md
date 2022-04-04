@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-26 12:58:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/
 published_time: 2021-09-24 15:20:00-04:00
 title: "Global COVID-\u206019 Summit: Ending the Pandemic and Building Back\_Better"
 ---

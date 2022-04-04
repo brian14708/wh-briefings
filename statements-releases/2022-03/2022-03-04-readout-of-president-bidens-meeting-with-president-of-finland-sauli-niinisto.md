@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-04'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/readout-of-president-bidens-meeting-with-president-of-finland-sauli-niinisto/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/readout-of-president-bidens-meeting-with-president-of-finland-sauli-niinisto/
 published_time: 2022-03-04 19:11:13-05:00
 title: "Readout of President\_Biden\u2019s Meeting with President of Finland Sauli\_\
   Niinist\xF6"

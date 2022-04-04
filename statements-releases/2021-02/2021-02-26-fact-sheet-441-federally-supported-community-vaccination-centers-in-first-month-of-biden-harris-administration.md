@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-26'
 modified_time: 2021-02-26 11:19:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/fact-sheet-441-federally-supported-community-vaccination-centers-in-first-month-of-biden-harris-administration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/fact-sheet-441-federally-supported-community-vaccination-centers-in-first-month-of-biden-harris-administration/
 published_time: 2021-02-26 11:19:29-05:00
 title: "FACT SHEET: 441 Federally-Supported Community Vaccination Centers in First\
   \ Month of Biden-\u2060Harris\_Administration"

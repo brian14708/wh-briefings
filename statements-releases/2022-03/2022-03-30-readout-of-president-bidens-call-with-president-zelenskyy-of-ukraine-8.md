@@ -1,8 +1,8 @@
 ---
-category: statements-releases
 date: '2022-03-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-8/
 published_time: 2022-03-30 12:24:07-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-8/
+tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---
  

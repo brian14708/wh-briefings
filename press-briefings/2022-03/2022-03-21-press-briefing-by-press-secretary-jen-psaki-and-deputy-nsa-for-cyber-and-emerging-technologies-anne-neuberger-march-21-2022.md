@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-21'
 modified_time: 2022-03-21 18:50:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/21/press-briefing-by-press-secretary-jen-psaki-and-deputy-nsa-for-cyber-and-emerging-technologies-anne-neuberger-march-21-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/21/press-briefing-by-press-secretary-jen-psaki-and-deputy-nsa-for-cyber-and-emerging-technologies-anne-neuberger-march-21-2022/
 published_time: 2022-03-21 18:50:43-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Deputy NSA for Cyber and\
   \ Emerging Technologies Anne Neuberger, March 21,\_2022"

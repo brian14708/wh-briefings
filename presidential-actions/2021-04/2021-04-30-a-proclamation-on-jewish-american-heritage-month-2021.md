@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-jewish-american-heritage-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-jewish-american-heritage-month-2021/
 published_time: 2021-04-30 16:24:25-04:00
 title: "A Proclamation on Jewish American Heritage Month,\_2021"
 ---

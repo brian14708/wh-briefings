@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-24'
 modified_time: 2022-01-25 13:50:43-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-the-second-meeting-of-the-white-house-competition-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/24/readout-of-the-second-meeting-of-the-white-house-competition-council/
 published_time: 2022-01-24 20:09:31-05:00
 title: "Readout of the Second Meeting of the White\_House Competition\_Council"
 ---

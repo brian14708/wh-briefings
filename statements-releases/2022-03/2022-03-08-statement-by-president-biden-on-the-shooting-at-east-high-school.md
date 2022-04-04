@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-president-biden-on-the-shooting-at-east-high-school/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-president-biden-on-the-shooting-at-east-high-school/
 published_time: 2022-03-08 20:12:38-05:00
 title: "Statement by President\_Biden on the Shooting at East High\_School"
 ---

@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-30'
 modified_time: 2022-03-31 10:14:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/readout-of-vice-president-harriss-meeting-with-prime-minister-holness-of-jamaica/
 published_time: 2022-03-30 19:09:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/readout-of-vice-president-harriss-meeting-with-prime-minister-holness-of-jamaica/
+tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Holness\
   \ of\_Jamaica"
 ---

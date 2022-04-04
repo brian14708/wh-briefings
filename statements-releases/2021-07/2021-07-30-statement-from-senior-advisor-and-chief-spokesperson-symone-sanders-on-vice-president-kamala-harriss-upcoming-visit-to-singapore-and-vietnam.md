@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-30'
 modified_time: 2021-08-02 12:36:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-upcoming-visit-to-singapore-and-vietnam/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-upcoming-visit-to-singapore-and-vietnam/
 published_time: 2021-07-30 12:35:00-04:00
 title: "Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Upcoming Visit to Singapore and\_Vietnam"

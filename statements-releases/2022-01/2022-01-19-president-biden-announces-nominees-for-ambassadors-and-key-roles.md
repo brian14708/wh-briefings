@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-19'
 modified_time: 2022-01-23 13:40:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/president-biden-announces-nominees-for-ambassadors-and-key-roles/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/president-biden-announces-nominees-for-ambassadors-and-key-roles/
 published_time: 2022-01-19 11:00:00-05:00
 title: "President\_Biden Announces Nominees for Ambassadors and Key\_Roles"
 ---

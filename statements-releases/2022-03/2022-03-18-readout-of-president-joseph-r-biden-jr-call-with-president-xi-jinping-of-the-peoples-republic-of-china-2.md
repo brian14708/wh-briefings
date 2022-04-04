@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-18'
 modified_time: 2022-03-18 14:43:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/18/readout-of-president-joseph-r-biden-jr-call-with-president-xi-jinping-of-the-peoples-republic-of-china-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/18/readout-of-president-joseph-r-biden-jr-call-with-president-xi-jinping-of-the-peoples-republic-of-china-2/
 published_time: 2022-03-18 14:39:40-04:00
 title: "Readout of President Joseph R. Biden Jr. Call with President Xi Jinping of\
   \ the People\u2019s Republic of\_China"

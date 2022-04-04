@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/nominations-and-withdrawal-sent-to-the-senate-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/nominations-and-withdrawal-sent-to-the-senate-4/
 published_time: 2022-02-07 16:58:40-05:00
 title: "Nominations and Withdrawal Sent to the\_Senate"
 ---

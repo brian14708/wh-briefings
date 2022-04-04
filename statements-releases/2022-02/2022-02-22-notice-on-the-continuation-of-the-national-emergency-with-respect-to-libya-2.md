@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-22'
 modified_time: 2022-02-22 18:27:35-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/notice-on-the-continuation-of-the-national-emergency-with-respect-to-libya-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/notice-on-the-continuation-of-the-national-emergency-with-respect-to-libya-2/
 published_time: 2022-02-22 18:27:34-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to\_Libya"
 ---

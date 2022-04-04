@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-29'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-significant-malicious-cyber-enabled-activities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-significant-malicious-cyber-enabled-activities/
 published_time: 2021-03-29 13:23:39-04:00
 title: "Letter to the Speaker of the House and the President of the Senate on the\
   \ Continuation of the National Emergency With Respect to Significant Malicious Cyber-Enabled\_\

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 11:11:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-asian-american-and-native-hawaiian-pacific-islander-heritage-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-asian-american-and-native-hawaiian-pacific-islander-heritage-month-2021/
 published_time: 2021-04-30 11:11:03-04:00
 title: "A Proclamation on Asian American and Native Hawaiian / Pacific Islander Heritage\
   \ Month,\_2021"

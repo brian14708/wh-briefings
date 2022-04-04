@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-19'
 modified_time: 2021-03-19 17:36:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/19/remarks-by-president-biden-and-vice-president-harris-during-a-briefing-at-the-centers-for-disease-control-and-prevention/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/19/remarks-by-president-biden-and-vice-president-harris-during-a-briefing-at-the-centers-for-disease-control-and-prevention/
 published_time: 2021-03-19 17:35:25-04:00
 title: "Remarks by President\_Biden and Vice President Harris During a Briefing at\
   \ the Centers for Disease Control and\_Prevention"

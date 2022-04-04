@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-04'
 modified_time: 2021-02-04 17:31:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/withdrawals-sent-to-the-senate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/withdrawals-sent-to-the-senate/
 published_time: 2021-02-04 17:31:58-05:00
 title: "Withdrawals Sent to the\_Senate"
 ---

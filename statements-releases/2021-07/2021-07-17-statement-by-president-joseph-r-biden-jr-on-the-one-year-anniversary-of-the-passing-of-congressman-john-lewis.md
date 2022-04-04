@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-17'
 modified_time: 2021-07-17 12:44:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/statement-by-president-joseph-r-biden-jr-on-the-one-year-anniversary-of-the-passing-of-congressman-john-lewis/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/statement-by-president-joseph-r-biden-jr-on-the-one-year-anniversary-of-the-passing-of-congressman-john-lewis/
 published_time: 2021-07-17 12:44:24-04:00
 title: "Statement by President Joseph R. Biden, Jr. On the One Year Anniversary of\
   \ the Passing of Congressman John\_Lewis"

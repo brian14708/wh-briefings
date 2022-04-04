@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-16'
 modified_time: 2021-12-16 13:20:00-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%e2%81%a0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%e2%81%a0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/
 published_time: 2021-12-16 05:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Trucking Action Plan to\
   \ Strengthen America\u2019s Trucking\_Workforce"

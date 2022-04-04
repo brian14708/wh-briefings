@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-26'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/statement-by-president-biden-on-the-anniversary-of-russias-illegal-invasion-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/statement-by-president-biden-on-the-anniversary-of-russias-illegal-invasion-of-ukraine/
 published_time: 2021-02-26 08:32:15-05:00
 title: "Statement by President\_Biden on the Anniversary of Russia\u2019s Illegal\
   \ Invasion of\_Ukraine"

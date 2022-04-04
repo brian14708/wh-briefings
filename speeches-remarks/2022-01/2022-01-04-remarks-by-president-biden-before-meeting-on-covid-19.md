@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-01-04'
 modified_time: 2022-01-04 16:14:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/04/remarks-by-president-biden-before-meeting-on-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/04/remarks-by-president-biden-before-meeting-on-covid-19/
 published_time: 2022-01-04 16:30:00-05:00
 title: "Remarks by President\_Biden Before Meeting on\_COVID-\u206019"
 ---

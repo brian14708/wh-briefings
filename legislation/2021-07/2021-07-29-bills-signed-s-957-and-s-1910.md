@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-07-29'
 modified_time: 2022-03-15 11:08:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/07/29/bills-signed-s-957-and-s-1910/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/07/29/bills-signed-s-957-and-s-1910/
 published_time: 2021-07-29 18:46:15-04:00
 title: "Bills Signed: S. 957 and S.\_1910"
 ---

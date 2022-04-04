@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-03'
 modified_time: 2021-06-03 14:42:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-calls-with-foreign-leaders-on-the-global-allocation-plan-for-the-first-25-million-doses-of-c/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-calls-with-foreign-leaders-on-the-global-allocation-plan-for-the-first-25-million-doses-of-c/
 published_time: 2021-06-03 14:42:34-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Calls with Foreign Leaders on the Global Allocation\

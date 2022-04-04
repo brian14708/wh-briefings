@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-28'
 modified_time: 2021-10-28 18:01:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/28/president-biden-announces-sara-minkara-as-united-states-special-advisor-on-international-disability-rights/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/28/president-biden-announces-sara-minkara-as-united-states-special-advisor-on-international-disability-rights/
 published_time: 2021-10-28 18:01:48-04:00
 title: "President\_Biden Announces Sara Minkara as United\_States Special Advisor\
   \ on International Disability\_Rights"

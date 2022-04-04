@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-25'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/25/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-newark-nj/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/25/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-newark-nj/
 published_time: 2021-10-25 12:27:29-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Newark,\_NJ"

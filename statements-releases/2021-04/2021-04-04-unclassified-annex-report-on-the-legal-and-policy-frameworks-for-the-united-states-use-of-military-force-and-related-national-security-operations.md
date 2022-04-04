@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-04'
 modified_time: 2021-04-04 18:35:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/04/unclassified-annex-report-on-the-legal-and-policy-frameworks-for-the-united-states-use-of-military-force-and-related-national-security-operations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/04/unclassified-annex-report-on-the-legal-and-policy-frameworks-for-the-united-states-use-of-military-force-and-related-national-security-operations/
 published_time: 2021-04-04 18:35:01-04:00
 title: "Unclassified Annex: Report on the Legal and Policy Frameworks for the United\_\
   States\u2019 Use of Military Force and Related National Security\_Operations"

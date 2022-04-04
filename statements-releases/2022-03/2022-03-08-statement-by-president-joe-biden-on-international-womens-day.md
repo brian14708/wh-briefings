@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
 modified_time: 2022-03-07 22:38:11-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-president-joe-biden-on-international-womens-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-president-joe-biden-on-international-womens-day/
 published_time: 2022-03-08 08:00:00-05:00
 title: "Statement by President Joe\_Biden on International Women\u2019s\_Day"
 ---

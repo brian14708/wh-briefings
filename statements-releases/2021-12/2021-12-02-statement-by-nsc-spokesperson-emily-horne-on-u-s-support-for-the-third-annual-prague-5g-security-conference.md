@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-02'
 modified_time: 2021-12-02 20:52:36-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/statement-by-nsc-spokesperson-emily-horne-on-u-s-support-for-the-third-annual-prague-5g-security-conference/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/statement-by-nsc-spokesperson-emily-horne-on-u-s-support-for-the-third-annual-prague-5g-security-conference/
 published_time: 2021-12-02 20:52:34-05:00
 title: "Statement by NSC Spokesperson Emily Horne on U.S. Support for the Third Annual\
   \ Prague 5G Security\_Conference"

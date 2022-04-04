@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-11 18:39:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-video-call-with-bjoern-seibert-head-of-cabinet-of-the-president-of-the-european-commission/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-video-call-with-bjoern-seibert-head-of-cabinet-of-the-president-of-the-european-commission/
 published_time: 2022-02-11 18:39:39-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Video Call with Bjoern Seibert, Head of Cabinet of the President\

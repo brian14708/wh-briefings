@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-01'
 modified_time: 2021-11-01 16:27:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/01/remarks-by-president-biden-at-the-cop26-event-on-action-and-solidarity-the-critical-decade/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/01/remarks-by-president-biden-at-the-cop26-event-on-action-and-solidarity-the-critical-decade/
 published_time: 2021-11-01 16:45:00-04:00
 title: "Remarks by President\_Biden at the COP26 Event on \u201CAction and Solidarity:\
   \ The Critical\_Decade\u201D"

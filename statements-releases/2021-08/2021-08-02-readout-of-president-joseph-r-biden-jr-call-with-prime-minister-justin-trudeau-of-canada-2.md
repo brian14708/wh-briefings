@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-02'
 modified_time: 2021-08-02 20:37:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-justin-trudeau-of-canada-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-justin-trudeau-of-canada-2/
 published_time: 2021-08-02 20:37:38-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Justin\
   \ Trudeau of\_Canada"

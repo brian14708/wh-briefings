@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-31'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/
 published_time: 2022-01-31 19:05:25-05:00
 title: "Readout of President\_Biden\u2019s Meeting with Amir Sheikh Tamim Bin Hamad\
   \ Al-Thani of\_Qatar"

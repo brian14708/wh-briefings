@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/statement-of-president-joe-biden-and-nominee-for-office-of-the-comptroller-of-the-currency-saule-omarova/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/statement-of-president-joe-biden-and-nominee-for-office-of-the-comptroller-of-the-currency-saule-omarova/
 published_time: 2021-12-07 16:08:25-05:00
 title: "Statement of President Joe\_Biden and Nominee for Office of the Comptroller\
   \ of the Currency Saule\_Omarova"

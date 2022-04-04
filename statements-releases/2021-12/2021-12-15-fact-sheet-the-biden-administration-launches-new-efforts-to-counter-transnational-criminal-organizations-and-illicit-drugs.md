@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-15'
 modified_time: 2021-12-15 14:30:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
 published_time: 2021-12-15 14:00:00-05:00
 title: "FACT SHEET: The Biden Administration Launches New Efforts to Counter Transnational\
   \ Criminal Organizations and Illicit\_Drugs"

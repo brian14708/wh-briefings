@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-14'
 modified_time: 2021-05-14 15:38:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/executive-order-on-the-revocation-of-certain-presidential-actions-and-technical-amendment/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/14/executive-order-on-the-revocation-of-certain-presidential-actions-and-technical-amendment/
 published_time: 2021-05-14 15:38:06-04:00
 title: "Executive Order on the Revocation of Certain Presidential Actions and Technical\_\
   Amendment"

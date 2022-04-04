@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 09:29:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-from-president-biden-on-the-extraordinary-nato-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-from-president-biden-on-the-extraordinary-nato-summit/
 published_time: 2022-03-24 09:29:47-04:00
 title: "Statement from President\_Biden on the Extraordinary NATO\_Summit"
 ---

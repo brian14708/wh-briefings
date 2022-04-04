@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-11 08:38:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/nominations-sent-to-the-senate-34/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/nominations-sent-to-the-senate-34/
 published_time: 2021-08-11 08:38:07-04:00
 title: "Nominations Sent to the\_Senate"
 ---

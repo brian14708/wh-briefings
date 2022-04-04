@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-12'
 modified_time: 2021-10-12 15:53:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/president-biden-announces-key-regional-appointments-for-epa-hhs-and-usda/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/president-biden-announces-key-regional-appointments-for-epa-hhs-and-usda/
 published_time: 2021-10-12 16:00:00-04:00
 title: "President\_Biden Announces Key Regional Appointments for EPA, HHS, and\_USDA"
 ---

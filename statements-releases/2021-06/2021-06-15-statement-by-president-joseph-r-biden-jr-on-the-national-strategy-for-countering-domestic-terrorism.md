@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 12:15:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/statement-by-president-joseph-r-biden-jr-on-the-national-strategy-for-countering-domestic-terrorism/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/statement-by-president-joseph-r-biden-jr-on-the-national-strategy-for-countering-domestic-terrorism/
 published_time: 2021-06-15 06:00:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the National Strategy for Countering\
   \ Domestic\_Terrorism"

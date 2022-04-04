@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-18'
 modified_time: 2021-11-18 09:26:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/statement-of-president-joe-biden-on-pfizers-covid-19-antiviral-treatment/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/statement-of-president-joe-biden-on-pfizers-covid-19-antiviral-treatment/
 published_time: 2021-11-18 09:26:23-05:00
 title: "Statement of President Joe\_Biden on Pfizer\u2019s COVID-\u206019 Antiviral\_\
   Treatment"

@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-31'
 modified_time: 2022-03-31 18:47:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/press-briefing-by-director-of-communications-kate-bedingfield-and-nec-director-brian-deese/
 published_time: 2022-03-31 18:45:03-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/press-briefing-by-director-of-communications-kate-bedingfield-and-nec-director-brian-deese/
+tags: statements-releases
 title: "Press Briefing by Director of Communications Kate Bedingfield and NEC Director\
   \ Brian\_Deese"
 ---

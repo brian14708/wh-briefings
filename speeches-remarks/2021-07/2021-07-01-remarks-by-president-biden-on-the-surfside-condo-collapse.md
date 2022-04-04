@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-01'
 modified_time: 2021-07-01 23:54:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/01/remarks-by-president-biden-on-the-surfside-condo-collapse/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/01/remarks-by-president-biden-on-the-surfside-condo-collapse/
 published_time: 2021-07-01 23:54:54-04:00
 title: "Remarks by President\_Biden on the Surfside Condo\_Collapse"
 ---

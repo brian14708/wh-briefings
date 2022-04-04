@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-03-31'
 modified_time: 2022-03-31 21:16:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/31/remarks-by-president-biden-on-actions-to-lower-gas-prices-at-the-pump-for-american-families/
 published_time: 2022-03-31 18:51:35-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/31/remarks-by-president-biden-on-actions-to-lower-gas-prices-at-the-pump-for-american-families/
+tags: speeches-remarks
 title: "Remarks by President\_Biden on Actions to Lower Gas Prices at the Pump for\
   \ American\_Families"
 ---

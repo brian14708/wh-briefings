@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-21'
 modified_time: 2022-03-21 15:48:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/press-release-nominations-sent-to-the-senate-11/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/press-release-nominations-sent-to-the-senate-11/
 published_time: 2022-03-21 15:48:04-04:00
 title: "Press Release: Nominations Sent to the\_Senate"
 ---

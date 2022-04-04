@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-06'
 modified_time: 2021-07-06 20:27:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/06/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-saudi-vice-minister-of-defense-khalid-bin-salman/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/06/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-saudi-vice-minister-of-defense-khalid-bin-salman/
 published_time: 2021-07-06 20:27:27-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Saudi Vice Minister of Defense Khalid bin\_Salman"

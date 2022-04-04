@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-26'
 modified_time: 2021-05-26 19:10:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-crisis-in-ethiopia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-crisis-in-ethiopia/
 published_time: 2021-05-26 19:10:56-04:00
 title: "Statement by President Joe\_Biden on the Crisis in\_Ethiopia"
 ---

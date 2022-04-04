@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-24'
 modified_time: 2021-05-24 16:54:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/
 published_time: 2021-05-24 11:30:00-04:00
 title: "FACT SHEET: Biden Administration Invests $1 Billion To Protect Communities,\
   \ Families, and Businesses Before Disaster\_Strikes"

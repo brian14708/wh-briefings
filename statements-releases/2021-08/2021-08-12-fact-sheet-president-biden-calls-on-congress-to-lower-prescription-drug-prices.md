@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-12'
 modified_time: 2021-08-11 21:59:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/fact-sheet-president-biden-calls-on-congress-to-lower-prescription-drug-prices/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/fact-sheet-president-biden-calls-on-congress-to-lower-prescription-drug-prices/
 published_time: 2021-08-12 07:00:00-04:00
 title: "FACT SHEET: President\_Biden Calls on Congress to Lower Prescription Drug\_\
   Prices"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/
 published_time: 2021-09-22 13:10:06-04:00
 title: "FACT SHEET: President\_Biden\u2019s Global COVID-\u206019 Summit: Ending the\
   \ Pandemic and Building Back\_Better"

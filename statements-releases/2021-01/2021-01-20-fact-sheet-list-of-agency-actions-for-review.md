@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-20'
 modified_time: 2021-01-25 02:26:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-list-of-agency-actions-for-review/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-list-of-agency-actions-for-review/
 published_time: 2021-01-20 05:00:00-05:00
 title: "Fact Sheet: List of Agency Actions for\_Review"
 ---

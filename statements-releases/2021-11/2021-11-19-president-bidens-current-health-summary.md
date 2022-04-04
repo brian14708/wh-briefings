@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
 modified_time: 2021-11-19 17:04:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-bidens-current-health-summary/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-bidens-current-health-summary/
 published_time: 2021-11-19 17:04:17-05:00
 title: "President\_Biden\u2019s Current Health\_Summary"
 ---

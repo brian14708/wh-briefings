@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-26'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/26/remarks-by-president-biden-and-president-andrzej-duda-of-poland-before-expanded-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/26/remarks-by-president-biden-and-president-andrzej-duda-of-poland-before-expanded-bilateral-meeting/
 published_time: 2022-03-26 10:58:17-04:00
 title: "Remarks by President\_Biden and President Andrzej Duda of Poland Before Expanded\
   \ Bilateral\_Meeting"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-22'
 modified_time: 2021-09-22 16:22:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/22/remarks-by-president-biden-at-virtual-global-covid-19-summit/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/22/remarks-by-president-biden-at-virtual-global-covid-19-summit/
 published_time: 2021-09-22 13:45:00-04:00
 title: "Remarks by President\_Biden at Virtual Global COVID-\u206019\_Summit"
 ---

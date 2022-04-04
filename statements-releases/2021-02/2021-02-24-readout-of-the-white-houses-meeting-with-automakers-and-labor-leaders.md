@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-24'
 modified_time: 2021-02-24 20:54:57-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/readout-of-the-white-houses-meeting-with-automakers-and-labor-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/readout-of-the-white-houses-meeting-with-automakers-and-labor-leaders/
 published_time: 2021-02-24 20:54:56-05:00
 title: "Readout of the White\_House\u2019s Meeting with Automakers and Labor\_Leaders"
 ---

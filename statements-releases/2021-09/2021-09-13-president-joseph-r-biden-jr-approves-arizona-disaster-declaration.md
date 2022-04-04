@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-13'
 modified_time: 2021-09-13 16:07:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/president-joseph-r-biden-jr-approves-arizona-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/president-joseph-r-biden-jr-approves-arizona-disaster-declaration/
 published_time: 2021-09-13 16:07:53-04:00
 title: "President Joseph R. Biden, Jr. Approves Arizona Disaster\_Declaration"
 ---

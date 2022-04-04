@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-27'
 modified_time: 2021-07-27 20:32:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-tribal-leaders-and-leaders-from-american-indian-and-alaska-native-communities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-tribal-leaders-and-leaders-from-american-indian-and-alaska-native-communities/
 published_time: 2021-07-27 20:32:28-04:00
 title: "Statement from Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Meeting with Tribal leaders and Leaders from American\

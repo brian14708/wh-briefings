@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-15'
 modified_time: 2022-03-15 14:49:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-commitments-to-advance-pay-equity-and-support-womens-economic-security/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-commitments-to-advance-pay-equity-and-support-womens-economic-security/
 published_time: 2022-03-15 10:12:09-04:00
 title: "FACT SHEET: Biden Harris Administration Announces Commitments to Advance Pay\
   \ Equity and Support Women\u2019s Economic\_Security"

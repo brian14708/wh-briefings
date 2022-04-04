@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-28'
 modified_time: 2021-02-01 09:40:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/28/memorandum-on-protecting-womens-health-at-home-and-abroad/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/28/memorandum-on-protecting-womens-health-at-home-and-abroad/
 published_time: 2021-01-28 15:19:13-05:00
 title: "Memorandum on Protecting Women\u2019s Health at Home and\_Abroad"
 ---

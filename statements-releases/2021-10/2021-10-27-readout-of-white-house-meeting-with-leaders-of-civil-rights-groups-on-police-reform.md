@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
 modified_time: 2021-10-27 09:43:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/readout-of-white-house-meeting-with-leaders-of-civil-rights-groups-on-police-reform/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/readout-of-white-house-meeting-with-leaders-of-civil-rights-groups-on-police-reform/
 published_time: 2021-10-27 09:43:04-04:00
 title: "Readout of White\_House Meeting with Leaders of Civil Rights Groups on Police\_\
   Reform"

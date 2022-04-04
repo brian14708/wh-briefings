@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-19'
 modified_time: 2021-03-19 15:15:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/19/president-biden-announces-his-intent-to-nominate-assistant-secretary-for-preparedness-and-response-department-of-health-and-human-services/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/19/president-biden-announces-his-intent-to-nominate-assistant-secretary-for-preparedness-and-response-department-of-health-and-human-services/
 published_time: 2021-03-19 15:15:48-04:00
 title: "President\_Biden Announces his Intent to Nominate Assistant Secretary for\
   \ Preparedness and Response, Department of Health and Human\_Services"

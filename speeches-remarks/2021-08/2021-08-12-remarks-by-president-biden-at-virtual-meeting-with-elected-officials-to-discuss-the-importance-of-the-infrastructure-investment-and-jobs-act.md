@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-12'
 modified_time: 2021-08-12 13:04:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-president-biden-at-virtual-meeting-with-elected-officials-to-discuss-the-importance-of-the-infrastructure-investment-and-jobs-act/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-president-biden-at-virtual-meeting-with-elected-officials-to-discuss-the-importance-of-the-infrastructure-investment-and-jobs-act/
 published_time: 2021-08-12 13:04:14-04:00
 title: "Remarks by President\_Biden at Virtual Meeting with Elected Officials to Discuss\
   \ the Importance of the Infrastructure Investment and Jobs\_Act"

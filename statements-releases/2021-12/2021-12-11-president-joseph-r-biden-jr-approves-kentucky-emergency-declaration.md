@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-11'
 modified_time: 2021-12-11 15:19:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/president-joseph-r-biden-jr-approves-kentucky-emergency-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/president-joseph-r-biden-jr-approves-kentucky-emergency-declaration/
 published_time: 2021-12-11 15:19:16-05:00
 title: "President Joseph R. Biden, Jr. Approves Kentucky Emergency\_Declaration"
 ---

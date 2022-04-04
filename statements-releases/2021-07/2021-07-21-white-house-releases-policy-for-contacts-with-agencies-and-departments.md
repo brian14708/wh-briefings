@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-07-21 18:00:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/
 published_time: 2021-07-21 18:00:54-04:00
 title: "White\_House Releases Policy for Contacts with Agencies and\_Departments"
 ---

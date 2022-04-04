@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-01'
 modified_time: 2021-08-31 20:51:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/fact-sheet-biden-harris-administration-announces-immediate-steps-to-increase-affordable-housing-supply/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/fact-sheet-biden-harris-administration-announces-immediate-steps-to-increase-affordable-housing-supply/
 published_time: 2021-09-01 06:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Immediate Steps to\
   \ Increase Affordable Housing\_Supply"

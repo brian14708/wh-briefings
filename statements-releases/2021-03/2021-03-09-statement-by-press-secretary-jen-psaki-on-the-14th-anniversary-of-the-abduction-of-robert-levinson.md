@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-09'
 modified_time: 2021-03-08 19:01:27-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/statement-by-press-secretary-jen-psaki-on-the-14th-anniversary-of-the-abduction-of-robert-levinson/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/statement-by-press-secretary-jen-psaki-on-the-14th-anniversary-of-the-abduction-of-robert-levinson/
 published_time: 2021-03-09 08:00:00-05:00
 title: "Statement by Press Secretary Jen\_Psaki on the 14th Anniversary of the Abduction\
   \ of Robert\_Levinson"

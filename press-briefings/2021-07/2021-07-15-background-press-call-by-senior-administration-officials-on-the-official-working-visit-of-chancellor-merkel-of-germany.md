@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-15'
 modified_time: 2021-07-14 22:59:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/15/background-press-call-by-senior-administration-officials-on-the-official-working-visit-of-chancellor-merkel-of-germany/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/15/background-press-call-by-senior-administration-officials-on-the-official-working-visit-of-chancellor-merkel-of-germany/
 published_time: 2021-07-15 05:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on the Official Working\
   \ Visit of Chancellor Merkel of\_Germany"

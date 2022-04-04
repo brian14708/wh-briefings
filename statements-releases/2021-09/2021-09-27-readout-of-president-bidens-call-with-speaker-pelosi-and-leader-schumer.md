@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-27'
 modified_time: 2021-09-27 20:30:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/readout-of-president-bidens-call-with-speaker-pelosi-and-leader-schumer/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/readout-of-president-bidens-call-with-speaker-pelosi-and-leader-schumer/
 published_time: 2021-09-27 20:30:57-04:00
 title: "Readout of President\_Biden\u2019s Call with Speaker Pelosi and Leader\_Schumer"
 ---

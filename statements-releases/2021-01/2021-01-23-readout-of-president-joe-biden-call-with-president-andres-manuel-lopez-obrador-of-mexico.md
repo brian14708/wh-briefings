@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-23'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/23/readout-of-president-joe-biden-call-with-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/23/readout-of-president-joe-biden-call-with-president-andres-manuel-lopez-obrador-of-mexico/
 published_time: 2021-01-23 11:50:59-05:00
 title: "Readout of President Joe\_Biden Call with President Andr\xE9s Manuel L\xF3\
   pez Obrador of\_Mexico"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-22'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/22/statement-from-press-secretary-jen-psaki-6/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/22/statement-from-press-secretary-jen-psaki-6/
 published_time: 2022-03-22 13:39:00-04:00
 title: "Statement from Press Secretary Jen\_Psaki"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-24'
 modified_time: 2021-02-24 09:54:44-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-president-biden-announces-new-actions-to-deliver-masks-to-communities-hit-hard-by-the-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-president-biden-announces-new-actions-to-deliver-masks-to-communities-hit-hard-by-the-pandemic/
 published_time: 2021-02-24 11:00:00-05:00
 title: "FACT SHEET: President\_Biden Announces New Actions to Deliver Masks to Communities\
   \ Hit Hard by the\_Pandemic"

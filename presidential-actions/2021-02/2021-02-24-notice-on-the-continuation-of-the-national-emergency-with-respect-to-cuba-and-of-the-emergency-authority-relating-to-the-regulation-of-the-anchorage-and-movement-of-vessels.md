@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-24'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/notice-on-the-continuation-of-the-national-emergency-with-respect-to-cuba-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-vessels/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/notice-on-the-continuation-of-the-national-emergency-with-respect-to-cuba-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-vessels/
 published_time: 2021-02-24 16:25:44-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to Cuba\
   \ and of the Emergency Authority Relating to the Regulation of the Anchorage and\

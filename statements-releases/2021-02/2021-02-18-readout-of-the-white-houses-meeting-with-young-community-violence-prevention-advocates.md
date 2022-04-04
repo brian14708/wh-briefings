@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-18'
 modified_time: 2021-02-18 21:43:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/readout-of-the-white-houses-meeting-with-young-community-violence-prevention-advocates/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/readout-of-the-white-houses-meeting-with-young-community-violence-prevention-advocates/
 published_time: 2021-02-18 21:43:28-05:00
 title: "Readout of the White\_House\u2019s Meeting with Young Community Violence Prevention\_\
   Advocates"

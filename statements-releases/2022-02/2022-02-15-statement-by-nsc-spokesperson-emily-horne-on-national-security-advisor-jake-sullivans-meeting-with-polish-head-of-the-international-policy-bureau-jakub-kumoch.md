@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-15'
 modified_time: 2022-02-15 19:05:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-polish-head-of-the-international-policy-bureau-jakub-kumoch/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-polish-head-of-the-international-policy-bureau-jakub-kumoch/
 published_time: 2022-02-15 19:05:45-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Polish Head of the International Policy Bureau Jakub\_\

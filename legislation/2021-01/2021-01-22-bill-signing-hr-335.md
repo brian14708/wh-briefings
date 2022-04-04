@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-01-22'
 modified_time: 2021-01-22 20:29:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/01/22/bill-signing-hr-335/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/01/22/bill-signing-hr-335/
 published_time: 2021-01-22 12:39:18-05:00
 title: "Bill Signing: H.R.\_335"
 ---

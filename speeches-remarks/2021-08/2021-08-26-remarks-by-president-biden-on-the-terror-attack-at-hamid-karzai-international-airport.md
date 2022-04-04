@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-26'
 modified_time: 2021-08-26 20:30:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-president-biden-on-the-terror-attack-at-hamid-karzai-international-airport/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-president-biden-on-the-terror-attack-at-hamid-karzai-international-airport/
 published_time: 2021-08-26 20:30:35-04:00
 title: "Remarks by President\_Biden on the Terror Attack at Hamid Karzai International\_\
   Airport"

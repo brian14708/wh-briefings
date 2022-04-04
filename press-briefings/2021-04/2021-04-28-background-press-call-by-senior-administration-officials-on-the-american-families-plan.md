@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-28'
 modified_time: 2021-04-27 23:42:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/28/background-press-call-by-senior-administration-officials-on-the-american-families-plan/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/28/background-press-call-by-senior-administration-officials-on-the-american-families-plan/
 published_time: 2021-04-28 05:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on the American Families\_\
   Plan"

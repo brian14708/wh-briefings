@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-24'
 modified_time: 2022-02-24 18:14:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19/
 published_time: 2022-02-24 19:30:00-05:00
 title: "FACT SHEET:  Administration Announces New Actions to Address the Needs of\
   \ People with Disabilities and Older Adults in Response to and Recovery from\_COVID-\u2060\

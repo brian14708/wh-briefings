@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-11 15:24:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-united-states-partnership-with-the-african-union-africa-centres-for-disease-control-and-prevention/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-united-states-partnership-with-the-african-union-africa-centres-for-disease-control-and-prevention/
 published_time: 2022-03-11 12:00:00-05:00
 title: "FACT SHEET: United\_States Partnership with the African Union \u2013 Africa\
   \ Centres for Disease Control and\_Prevention"

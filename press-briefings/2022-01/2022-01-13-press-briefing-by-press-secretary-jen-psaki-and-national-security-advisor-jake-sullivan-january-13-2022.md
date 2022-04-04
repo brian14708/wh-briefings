@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-13'
 modified_time: 2022-01-13 21:37:36-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/13/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-january-13-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/13/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-january-13-2022/
 published_time: 2022-01-13 22:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
   \ Jake Sullivan, January 13,\_2022"

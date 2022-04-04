@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-20'
 modified_time: 2021-05-24 12:56:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/
 published_time: 2021-05-20 17:50:59-04:00
 title: "Executive Order on Climate-Related Financial\_Risk"
 ---

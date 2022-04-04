@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-21 17:38:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/
 published_time: 2021-01-20 20:28:13-05:00
 title: "Executive Order on Protecting the Federal Workforce and Requiring\_Mask-Wearing"
 ---

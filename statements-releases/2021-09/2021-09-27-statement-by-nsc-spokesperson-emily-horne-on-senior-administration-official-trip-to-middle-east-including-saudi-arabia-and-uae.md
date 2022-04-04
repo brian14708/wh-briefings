@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-27'
 modified_time: 2021-09-27 08:36:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-middle-east-including-saudi-arabia-and-uae/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-middle-east-including-saudi-arabia-and-uae/
 published_time: 2021-09-27 08:36:34-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Trip to Middle East, including Saudi Arabia and\_UAE"

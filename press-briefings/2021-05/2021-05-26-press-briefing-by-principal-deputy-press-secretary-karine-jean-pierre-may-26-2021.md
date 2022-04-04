@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-26'
 modified_time: 2021-05-26 19:13:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/26/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-may-26-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/26/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-may-26-2021/
 published_time: 2021-05-26 19:13:43-04:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre, May\
   \ 26,\_2021"

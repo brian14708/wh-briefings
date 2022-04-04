@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-04-01'
 modified_time: 2022-04-01 14:43:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/president-biden-announces-key-nominees-9/
 published_time: 2022-04-01 15:00:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/president-biden-announces-key-nominees-9/
+tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---
  

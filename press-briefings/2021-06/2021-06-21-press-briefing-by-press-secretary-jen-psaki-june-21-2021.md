@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-21'
 modified_time: 2021-06-21 19:59:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/21/press-briefing-by-press-secretary-jen-psaki-june-21-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/21/press-briefing-by-press-secretary-jen-psaki-june-21-2021/
 published_time: 2021-06-21 19:59:03-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, June 21,\_2021"
 ---

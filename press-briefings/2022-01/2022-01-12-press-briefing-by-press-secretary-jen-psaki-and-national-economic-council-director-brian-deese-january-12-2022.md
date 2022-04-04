@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-12'
 modified_time: 2022-01-12 20:28:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/12/press-briefing-by-press-secretary-jen-psaki-and-national-economic-council-director-brian-deese-january-12-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/12/press-briefing-by-press-secretary-jen-psaki-and-national-economic-council-director-brian-deese-january-12-2022/
 published_time: 2022-01-12 20:45:00-05:00
 title: "Press Briefing By Press Secretary Jen\_Psaki And National Economic Council\
   \ Director Brian Deese, January 12,\_2022"

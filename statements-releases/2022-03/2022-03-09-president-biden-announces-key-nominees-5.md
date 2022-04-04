@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-09'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/president-biden-announces-key-nominees-5/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/president-biden-announces-key-nominees-5/
 published_time: 2022-03-09 11:02:58-05:00
 title: "President\_Biden Announces Key\_Nominees"
 ---

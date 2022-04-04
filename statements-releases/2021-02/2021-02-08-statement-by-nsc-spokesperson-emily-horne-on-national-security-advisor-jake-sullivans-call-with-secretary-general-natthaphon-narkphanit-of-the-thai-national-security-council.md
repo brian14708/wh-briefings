@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-08'
 modified_time: 2021-02-09 08:06:20-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/08/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-secretary-general-natthaphon-narkphanit-of-the-thai-national-security-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/08/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-secretary-general-natthaphon-narkphanit-of-the-thai-national-security-council/
 published_time: 2021-02-08 20:08:25-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with\_Secretary General Natthaphon Narkphanit of the Thai\

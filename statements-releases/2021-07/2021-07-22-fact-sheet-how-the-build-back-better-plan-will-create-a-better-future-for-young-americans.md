@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-22'
 modified_time: 2021-07-22 12:04:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/22/fact-sheet-how-the-build-back-better-plan-will-create-a-better-future-for-young-americans/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/22/fact-sheet-how-the-build-back-better-plan-will-create-a-better-future-for-young-americans/
 published_time: 2021-07-22 12:04:28-04:00
 title: "FACT SHEET: How the Build Back Better Plan Will Create a Better Future for\
   \ Young\_Americans"

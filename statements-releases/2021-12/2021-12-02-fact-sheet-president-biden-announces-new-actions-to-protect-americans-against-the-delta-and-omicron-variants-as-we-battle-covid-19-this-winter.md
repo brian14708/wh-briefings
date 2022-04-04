@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-02'
 modified_time: 2021-12-02 19:10:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-president-biden-announces-new-actions-to-protect-americans-against-the-delta-and-omicron-variants-as-we-battle-covid-19-this-winter/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-president-biden-announces-new-actions-to-protect-americans-against-the-delta-and-omicron-variants-as-we-battle-covid-19-this-winter/
 published_time: 2021-12-02 05:00:00-05:00
 title: "President\_Biden Announces New Actions to Protect Americans Against the Delta\
   \ and Omicron Variants as We Battle COVID-\u206019 this\_Winter"

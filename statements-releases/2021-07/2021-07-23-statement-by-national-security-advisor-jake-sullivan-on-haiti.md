@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-23 15:11:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/statement-by-national-security-advisor-jake-sullivan-on-haiti/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/statement-by-national-security-advisor-jake-sullivan-on-haiti/
 published_time: 2021-07-23 15:11:19-04:00
 title: "Statement by National Security Advisor Jake Sullivan on\_Haiti"
 ---

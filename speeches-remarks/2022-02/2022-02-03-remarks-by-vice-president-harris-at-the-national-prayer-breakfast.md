@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-03'
 modified_time: 2022-02-17 11:44:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-vice-president-harris-at-the-national-prayer-breakfast/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-vice-president-harris-at-the-national-prayer-breakfast/
 published_time: 2022-02-03 09:46:00-05:00
 title: "Remarks by Vice President Harris at the National Prayer\_Breakfast"
 ---

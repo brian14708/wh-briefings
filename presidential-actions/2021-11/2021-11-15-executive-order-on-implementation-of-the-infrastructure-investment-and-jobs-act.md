@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-15'
 modified_time: 2021-11-15 15:14:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-implementation-of-the-infrastructure-investment-and-jobs-act/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-implementation-of-the-infrastructure-investment-and-jobs-act/
 published_time: 2021-11-15 15:14:55-05:00
 title: "Executive Order on Implementation of the Infrastructure Investment and Jobs\_\
   Act"

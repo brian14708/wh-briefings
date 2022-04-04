@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-25'
 modified_time: 2021-06-25 18:16:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/
 published_time: 2021-06-25 18:16:27-04:00
 title: "Remarks by President\_Biden in Bill Signing of H.R. 49 to Designate the National\
   \ Pulse Memorial into\_Law"

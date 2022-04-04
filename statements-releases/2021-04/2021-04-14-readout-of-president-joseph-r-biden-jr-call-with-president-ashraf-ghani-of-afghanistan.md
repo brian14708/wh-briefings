@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-14'
 modified_time: 2021-04-14 14:56:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/readout-of-president-joseph-r-biden-jr-call-with-president-ashraf-ghani-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/readout-of-president-joseph-r-biden-jr-call-with-president-ashraf-ghani-of-afghanistan/
 published_time: 2021-04-14 14:56:34-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Ashraf Ghani\
   \ of\_Afghanistan"

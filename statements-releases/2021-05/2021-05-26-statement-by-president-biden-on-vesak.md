@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-26'
 modified_time: 2021-05-26 15:20:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-biden-on-vesak/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-biden-on-vesak/
 published_time: 2021-05-26 15:20:19-04:00
 title: "Statement by President\_Biden on\_Vesak"
 ---

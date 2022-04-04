@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-06'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-politburo-member-yang-jiechi/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-politburo-member-yang-jiechi/
 published_time: 2021-10-06 13:26:22-04:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Politburo\
   \ Member Yang\_Jiechi"

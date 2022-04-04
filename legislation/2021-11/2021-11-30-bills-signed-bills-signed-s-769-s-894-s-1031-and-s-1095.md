@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-11-30'
 modified_time: 2022-03-15 10:05:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/11/30/bills-signed-bills-signed-s-769-s-894-s-1031-and-s-1095/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/11/30/bills-signed-bills-signed-s-769-s-894-s-1031-and-s-1095/
 published_time: 2021-11-30 12:34:55-05:00
 title: "Bills Signed: S. 769, S. 894, S. 1031, and S.\_1095"
 ---

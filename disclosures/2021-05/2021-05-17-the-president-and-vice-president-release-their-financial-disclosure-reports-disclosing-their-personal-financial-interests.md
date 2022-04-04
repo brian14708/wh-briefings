@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2021-05-17'
 modified_time: 2021-05-19 12:06:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-financial-disclosure-reports-disclosing-their-personal-financial-interests/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-financial-disclosure-reports-disclosing-their-personal-financial-interests/
 published_time: 2021-05-17 17:21:43-04:00
 title: "The President and Vice President release their financial disclosure reports\
   \ disclosing their personal financial\_interests"

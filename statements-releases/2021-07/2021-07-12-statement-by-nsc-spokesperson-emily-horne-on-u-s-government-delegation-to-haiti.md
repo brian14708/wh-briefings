@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-12'
 modified_time: 2021-07-12 07:48:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/12/statement-by-nsc-spokesperson-emily-horne-on-u-s-government-delegation-to-haiti/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/12/statement-by-nsc-spokesperson-emily-horne-on-u-s-government-delegation-to-haiti/
 published_time: 2021-07-12 07:48:35-04:00
 title: "Statement by NSC Spokesperson Emily Horne on U.S. Government Delegation to\_\
   Haiti"

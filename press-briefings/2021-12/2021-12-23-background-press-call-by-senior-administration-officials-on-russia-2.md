@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-23'
 modified_time: 2021-12-23 13:27:06-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/23/background-press-call-by-senior-administration-officials-on-russia-2/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/23/background-press-call-by-senior-administration-officials-on-russia-2/
 published_time: 2021-12-23 13:27:05-05:00
 title: "Background Press Call by Senior Administration Officials on\_Russia"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-15'
 modified_time: 2021-04-15 08:13:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/
 published_time: 2021-04-15 08:01:57-04:00
 title: "FACT SHEET: Imposing Costs for Harmful Foreign Activities by the Russian\_\
   Government"

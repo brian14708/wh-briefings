@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-12'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/12/a-proclamation-on-national-apprenticeship-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/12/a-proclamation-on-national-apprenticeship-week-2021/
 published_time: 2021-11-12 12:34:13-05:00
 title: "A Proclamation on National Apprenticeship Week,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-07'
 modified_time: 2021-10-07 16:48:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/nominations-sent-to-the-senate-39/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/nominations-sent-to-the-senate-39/
 published_time: 2021-10-07 16:48:40-04:00
 title: "Nominations Sent to the\_Senate"
 ---

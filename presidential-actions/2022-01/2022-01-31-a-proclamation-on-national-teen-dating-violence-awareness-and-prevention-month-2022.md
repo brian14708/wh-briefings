@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-01-31'
 modified_time: 2022-01-31 11:48:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2022/
 published_time: 2022-01-31 11:48:18-05:00
 title: "A Proclamation on National Teen Dating Violence Awareness And Prevention Month,\_\
   2022"

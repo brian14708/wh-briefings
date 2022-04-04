@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-19'
 modified_time: 2021-02-19 22:43:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/19/statement-on-national-security-advisor-jake-sullivans-call-with-jean-charles-ellermann-kingombe-permanent-under-secretary-of-state-at-the-danish-prime-ministers-office/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/19/statement-on-national-security-advisor-jake-sullivans-call-with-jean-charles-ellermann-kingombe-permanent-under-secretary-of-state-at-the-danish-prime-ministers-office/
 published_time: 2021-02-19 22:36:00-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Jean-Charles Ellermann-Kingombe, Permanent Under-Secretary\

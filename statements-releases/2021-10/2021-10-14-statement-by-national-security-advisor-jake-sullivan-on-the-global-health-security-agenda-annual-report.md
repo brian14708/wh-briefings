@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 08:15:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-national-security-advisor-jake-sullivan-on-the-global-health-security-agenda-annual-report/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-national-security-advisor-jake-sullivan-on-the-global-health-security-agenda-annual-report/
 published_time: 2021-10-14 08:00:00-04:00
 title: "Statement by National Security Advisor Jake Sullivan on the Global Health\
   \ Security Agenda Annual\_Report"

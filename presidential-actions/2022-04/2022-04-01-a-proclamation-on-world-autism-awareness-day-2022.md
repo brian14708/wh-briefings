@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
 date: '2022-04-01'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/01/a-proclamation-on-world-autism-awareness-day-2022/
 published_time: 2022-04-01 12:17:25-04:00
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/01/a-proclamation-on-world-autism-awareness-day-2022/
+tags: presidential-actions
 title: "A Proclamation on World Autism Awareness Day,\_2022"
 ---
  

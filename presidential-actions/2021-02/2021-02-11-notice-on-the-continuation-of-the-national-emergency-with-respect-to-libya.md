@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-11'
 modified_time: 2021-02-12 16:09:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-libya/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-libya/
 published_time: 2021-02-11 18:46:49-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to\_Libya"
 ---

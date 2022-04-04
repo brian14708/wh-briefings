@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-02'
 modified_time: 2022-02-02 09:12:00-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-the-biden-administrations-commitment-to-global-health/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-the-biden-administrations-commitment-to-global-health/
 published_time: 2022-02-02 08:22:13-05:00
 title: "FACT SHEET: The Biden Administration\u2019s Commitment to Global\_Health"
 ---

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-05'
 modified_time: 2021-02-05 21:57:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/05/press-briefing-by-press-secretary-jen-psaki-and-council-of-economic-advisers-member-jared-bernstein-february-5-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/05/press-briefing-by-press-secretary-jen-psaki-and-council-of-economic-advisers-member-jared-bernstein-february-5-2021/
 published_time: 2021-02-05 22:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Council of Economic Advisers\
   \ Member Jared Bernstein, February 5,\_2021"

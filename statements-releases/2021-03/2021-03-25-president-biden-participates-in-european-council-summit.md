@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-25'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/25/president-biden-participates-in-european-council-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/25/president-biden-participates-in-european-council-summit/
 published_time: 2021-03-25 21:40:49-04:00
 title: "President\_Biden Participates in European Council\_Summit"
 ---

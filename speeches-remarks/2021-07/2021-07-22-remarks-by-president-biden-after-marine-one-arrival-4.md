@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-22'
 modified_time: 2021-07-22 10:35:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/22/remarks-by-president-biden-after-marine-one-arrival-4/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/22/remarks-by-president-biden-after-marine-one-arrival-4/
 published_time: 2021-07-22 10:35:32-04:00
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

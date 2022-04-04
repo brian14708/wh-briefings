@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-21'
 modified_time: 2021-05-21 17:18:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/21/a-proclamation-on-national-maritime-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/21/a-proclamation-on-national-maritime-day-2021/
 published_time: 2021-05-21 17:18:17-04:00
 title: "A Proclamation on National Maritime Day,\_2021"
 ---

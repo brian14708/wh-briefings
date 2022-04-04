@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-21'
 modified_time: 2021-01-21 16:38:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/
 published_time: 2021-01-21 16:38:46-05:00
 title: "Executive Order on Supporting the Reopening and Continuing Operation of Schools\
   \ and Early Childhood Education\_Providers"

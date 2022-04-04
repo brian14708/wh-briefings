@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-30'
 modified_time: 2021-09-30 18:14:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/executive-order-on-continuance-or-reestablishment-of-certain-federal-advisory-committees-and-amendments-to-other-executive-orders/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/executive-order-on-continuance-or-reestablishment-of-certain-federal-advisory-committees-and-amendments-to-other-executive-orders/
 published_time: 2021-09-30 18:30:00-04:00
 title: "Executive Order on Continuance or Reestablishment of Certain Federal Advisory\
   \ Committees and Amendments to Other Executive\_Orders"

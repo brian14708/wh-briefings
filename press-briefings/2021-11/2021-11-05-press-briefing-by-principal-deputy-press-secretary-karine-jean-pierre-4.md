@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-11-05'
 modified_time: 2021-11-05 19:59:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/05/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-4/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/05/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-4/
 published_time: 2021-11-05 20:15:00-04:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-27'
 modified_time: 2021-08-27 15:45:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/statement-by-president-joe-biden-on-the-investigation-into-the-origins-of-covid-%e2%81%a019/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/statement-by-president-joe-biden-on-the-investigation-into-the-origins-of-covid-%e2%81%a019/
 published_time: 2021-08-27 15:45:33-04:00
 title: "Statement by President Joe\_Biden on the Investigation into the Origins of\_\
   COVID-\u206019"

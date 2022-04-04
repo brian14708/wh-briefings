@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-05'
 modified_time: 2021-03-05 17:39:39-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/05/press-briefing-by-press-secretary-jen-psaki-march-5-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/05/press-briefing-by-press-secretary-jen-psaki-march-5-2021/
 published_time: 2021-03-05 18:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, March 5,\_2021"
 ---

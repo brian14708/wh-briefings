@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-02-18'
 modified_time: 2022-02-18 11:21:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/18/a-proclamation-on-national-eating-disorders-awareness-week-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/18/a-proclamation-on-national-eating-disorders-awareness-week-2022/
 published_time: 2022-02-18 11:20:41-05:00
 title: "A Proclamation on National Eating Disorders Awareness Week,\_2022"
 ---

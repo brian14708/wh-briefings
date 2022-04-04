@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-13'
 modified_time: 2021-08-13 14:09:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/president-joseph-r-biden-jr-approves-montana-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/president-joseph-r-biden-jr-approves-montana-disaster-declaration/
 published_time: 2021-08-13 14:09:06-04:00
 title: "President Joseph R. Biden, Jr. Approves Montana Disaster\_Declaration"
 ---

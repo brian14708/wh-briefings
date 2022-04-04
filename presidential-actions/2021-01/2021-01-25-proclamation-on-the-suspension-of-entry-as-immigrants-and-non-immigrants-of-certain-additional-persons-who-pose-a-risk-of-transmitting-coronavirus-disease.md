@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-25'
 modified_time: 2021-09-30 10:08:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/proclamation-on-the-suspension-of-entry-as-immigrants-and-non-immigrants-of-certain-additional-persons-who-pose-a-risk-of-transmitting-coronavirus-disease/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/proclamation-on-the-suspension-of-entry-as-immigrants-and-non-immigrants-of-certain-additional-persons-who-pose-a-risk-of-transmitting-coronavirus-disease/
 published_time: 2021-01-25 14:29:23-05:00
 title: "A Proclamation on the Suspension of Entry as Immigrants and Non-Immigrants\
   \ of Certain Additional Persons Who Pose a Risk of Transmitting Coronavirus\_Disease"

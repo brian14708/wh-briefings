@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-26'
 modified_time: 2022-02-26 17:10:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/
 published_time: 2022-02-26 17:10:27-05:00
 title: "Joint Statement on Further Restrictive Economic\_Measures"
 ---

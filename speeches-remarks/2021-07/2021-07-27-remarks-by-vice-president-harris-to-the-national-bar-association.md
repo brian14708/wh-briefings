@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-27'
 modified_time: 2021-07-29 15:45:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/27/remarks-by-vice-president-harris-to-the-national-bar-association/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/27/remarks-by-vice-president-harris-to-the-national-bar-association/
 published_time: 2021-07-27 15:44:00-04:00
 title: "Remarks by Vice President Harris to the National Bar\_Association"
 ---

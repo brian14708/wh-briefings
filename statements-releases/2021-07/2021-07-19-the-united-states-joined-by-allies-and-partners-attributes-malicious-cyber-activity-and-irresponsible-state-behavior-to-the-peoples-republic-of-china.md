@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-19'
 modified_time: 2021-07-21 17:39:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/the-united-states-joined-by-allies-and-partners-attributes-malicious-cyber-activity-and-irresponsible-state-behavior-to-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/the-united-states-joined-by-allies-and-partners-attributes-malicious-cyber-activity-and-irresponsible-state-behavior-to-the-peoples-republic-of-china/
 published_time: 2021-07-19 07:00:00-04:00
 title: "The United\_States, Joined by Allies and Partners, Attributes Malicious Cyber\
   \ Activity and Irresponsible State Behavior to the People\u2019s Republic of\_China"

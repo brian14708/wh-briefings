@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-08'
 modified_time: 2021-12-08 20:10:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/08/remarks-by-president-biden-on-how-the-bipartisan-infrastructure-law-delivers-for-missourians/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/08/remarks-by-president-biden-on-how-the-bipartisan-infrastructure-law-delivers-for-missourians/
 published_time: 2021-12-08 20:10:44-05:00
 title: "Remarks by President\_Biden on How the Bipartisan Infrastructure Law Delivers\
   \ for\_Missourians"

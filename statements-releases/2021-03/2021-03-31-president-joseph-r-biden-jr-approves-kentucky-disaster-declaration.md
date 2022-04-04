@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-31'
 modified_time: 2021-03-31 21:30:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration/
 published_time: 2021-03-31 21:30:24-04:00
 title: "President Joseph R. Biden, Jr. Approves Kentucky Disaster\_Declaration"
 ---

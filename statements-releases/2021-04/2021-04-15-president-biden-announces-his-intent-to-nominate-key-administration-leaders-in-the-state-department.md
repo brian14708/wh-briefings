@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-15'
 modified_time: 2021-04-15 16:23:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/president-biden-announces-his-intent-to-nominate-key-administration-leaders-in-the-state-department/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/president-biden-announces-his-intent-to-nominate-key-administration-leaders-in-the-state-department/
 published_time: 2021-04-15 16:23:33-04:00
 title: "President\_Biden Announces His Intent to Nominate Key Administration Leaders\
   \ in the State\_Department"

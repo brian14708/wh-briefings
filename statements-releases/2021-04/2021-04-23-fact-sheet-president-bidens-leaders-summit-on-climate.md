@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-23 15:02:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-president-bidens-leaders-summit-on-climate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-president-bidens-leaders-summit-on-climate/
 published_time: 2021-04-23 11:31:03-04:00
 title: "FACT SHEET: President\_Biden\u2019s Leaders Summit on\_Climate"
 ---

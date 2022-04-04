@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-22'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/executive-order-on-adjustments-of-certain-rates-of-pay/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/executive-order-on-adjustments-of-certain-rates-of-pay/
 published_time: 2021-12-22 16:43:06-05:00
 title: "Executive Order on Adjustments of Certain Rates of\_Pay"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-10'
 modified_time: 2022-02-23 17:53:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/readout-of-the-inaugural-meeting-of-the-white-house-competition-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/readout-of-the-inaugural-meeting-of-the-white-house-competition-council/
 published_time: 2021-09-10 14:26:04-04:00
 title: "Readout of the Inaugural Meeting of the White\_House Competition\_Council"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-12'
 modified_time: 2021-05-12 11:05:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/president-biden-announces-third-slate-of-judicial-nominees/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/president-biden-announces-third-slate-of-judicial-nominees/
 published_time: 2021-05-12 06:00:00-04:00
 title: "President\_Biden Announces Third Slate of Judicial\_Nominees"
 ---

@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-17'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/executive-order-on-adding-measles-to-the-list-of-quarantinable-communicable-diseases/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/17/executive-order-on-adding-measles-to-the-list-of-quarantinable-communicable-diseases/
 published_time: 2021-09-17 15:12:45-04:00
 title: "Executive Order on Adding Measles to the List of Quarantinable Communicable\_\
   Diseases"

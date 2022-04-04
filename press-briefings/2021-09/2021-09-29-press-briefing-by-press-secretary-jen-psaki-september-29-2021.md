@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-29'
 modified_time: 2021-09-29 18:51:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/29/press-briefing-by-press-secretary-jen-psaki-september-29-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/29/press-briefing-by-press-secretary-jen-psaki-september-29-2021/
 published_time: 2021-09-29 19:00:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, September 29,\_2021"
 ---

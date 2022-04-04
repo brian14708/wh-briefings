@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-01'
 modified_time: 2022-01-11 11:49:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/01/remarks-by-vice-president-harris-at-national-action-networks-30th-anniversary-triumph-awards/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/01/remarks-by-vice-president-harris-at-national-action-networks-30th-anniversary-triumph-awards/
 published_time: 2021-11-01 22:46:00-04:00
 title: "Remarks By Vice President Harris At National Action Network\u2019s 30th Anniversary\
   \ Triumph\_Awards"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 16:05:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-president-biden-to-highlight-clean-energy-manufacturing-and-deployment-investments-that-cut-consumer-costs-strengthen-u-s-energy-sector-and-create-good-paying-jobs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-president-biden-to-highlight-clean-energy-manufacturing-and-deployment-investments-that-cut-consumer-costs-strengthen-u-s-energy-sector-and-create-good-paying-jobs/
 published_time: 2022-02-28 16:00:00-05:00
 title: "FACT SHEET: President\_Biden to Highlight Clean Energy Manufacturing and Deployment\
   \ Investments that Cut Consumer Costs, Strengthen U.S. Energy Sector, and Create\

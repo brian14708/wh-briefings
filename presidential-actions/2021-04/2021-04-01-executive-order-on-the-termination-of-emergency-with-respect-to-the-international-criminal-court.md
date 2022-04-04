@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-01'
 modified_time: 2021-04-02 17:49:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/01/executive-order-on-the-termination-of-emergency-with-respect-to-the-international-criminal-court/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/01/executive-order-on-the-termination-of-emergency-with-respect-to-the-international-criminal-court/
 published_time: 2021-04-01 17:02:00-04:00
 title: "Executive Order on the Termination of Emergency With Respect to the International\
   \ Criminal\_Court"

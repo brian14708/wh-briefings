@@ -1,9 +1,9 @@
 ---
-category: presidential-actions
 date: '2022-03-28'
 modified_time: 2022-03-28 16:33:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/28/a-proclamation-on-the-commemoration-of-the-50th-anniversary-of-the-vietnam-war/
 published_time: 2022-03-28 16:33:55-04:00
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/28/a-proclamation-on-the-commemoration-of-the-50th-anniversary-of-the-vietnam-war/
+tags: presidential-actions
 title: "A Proclamation on the Commemoration of the 50th Anniversary of the Vietnam\_\
   War"
 ---

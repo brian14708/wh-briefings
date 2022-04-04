@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-04-27'
 modified_time: 2021-04-28 11:23:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/04/27/how-to-watch-the-livestream-of-president-bidens-address-to-the-joint-session-of-congress/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/04/27/how-to-watch-the-livestream-of-president-bidens-address-to-the-joint-session-of-congress/
 published_time: 2021-04-27 10:28:22-04:00
 title: "How to Watch the Livestream of President\_Biden\u2019s Address to the Joint\
   \ Session of\_Congress"

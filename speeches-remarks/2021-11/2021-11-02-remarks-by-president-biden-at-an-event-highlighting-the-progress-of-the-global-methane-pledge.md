@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-02'
 modified_time: 2021-11-02 10:55:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-an-event-highlighting-the-progress-of-the-global-methane-pledge/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-an-event-highlighting-the-progress-of-the-global-methane-pledge/
 published_time: 2021-11-02 10:55:34-04:00
 title: "Remarks by President\_Biden at an Event Highlighting the Progress of the Global\
   \ Methane\_Pledge"

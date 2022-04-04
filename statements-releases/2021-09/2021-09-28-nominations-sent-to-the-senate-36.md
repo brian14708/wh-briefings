@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-28'
 modified_time: 2021-09-28 16:00:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/nominations-sent-to-the-senate-36/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/nominations-sent-to-the-senate-36/
 published_time: 2021-09-28 16:00:03-04:00
 title: "Nominations Sent to the\_Senate"
 ---

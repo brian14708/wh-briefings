@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-27'
 modified_time: 2021-08-27 09:07:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/27/a-proclamation-on-overdose-awareness-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/27/a-proclamation-on-overdose-awareness-week-2021/
 published_time: 2021-08-27 09:07:21-04:00
 title: "A Proclamation on Overdose Awareness Week,\_2021"
 ---

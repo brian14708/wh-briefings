@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-05'
 modified_time: 2021-11-04 17:35:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/05/president-biden-announces-presidential-delegation-to-the-republic-of-cabo-verde-to-attend-the-inauguration-of-his-excellency-jose-maria-neves/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/05/president-biden-announces-presidential-delegation-to-the-republic-of-cabo-verde-to-attend-the-inauguration-of-his-excellency-jose-maria-neves/
 published_time: 2021-11-05 06:00:00-04:00
 title: "President\_Biden Announces Presidential Delegation to the Republic of Cabo\
   \ Verde to Attend the Inauguration of His Excellency Jos\xE9 Maria\_Neves"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-04'
 modified_time: 2021-10-04 20:48:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-joseph-r-biden-jr-s-call-with-prime-minister-kishida-of-japan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-joseph-r-biden-jr-s-call-with-prime-minister-kishida-of-japan/
 published_time: 2021-10-04 20:48:14-04:00
 title: "Readout of Joseph R. Biden, Jr.\u2019s Call with Prime Minister Kishida of\_\
   Japan"

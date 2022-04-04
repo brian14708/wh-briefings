@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-23 17:34:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/leaders-summit-on-climate-summary-of-proceedings/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/leaders-summit-on-climate-summary-of-proceedings/
 published_time: 2021-04-23 05:02:00-04:00
 title: "Leaders Summit on Climate Summary of\_Proceedings"
 ---

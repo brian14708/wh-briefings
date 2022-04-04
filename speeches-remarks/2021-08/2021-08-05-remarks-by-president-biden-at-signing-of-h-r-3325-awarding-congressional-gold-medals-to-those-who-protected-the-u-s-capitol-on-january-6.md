@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-05'
 modified_time: 2021-08-05 20:02:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-president-biden-at-signing-of-h-r-3325-awarding-congressional-gold-medals-to-those-who-protected-the-u-s-capitol-on-january-6/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-president-biden-at-signing-of-h-r-3325-awarding-congressional-gold-medals-to-those-who-protected-the-u-s-capitol-on-january-6/
 published_time: 2021-08-05 20:15:00-04:00
 title: "Remarks by President\_Biden at Signing of H.R. 3325, Awarding Congressional\
   \ Gold Medals to Those Who Protected the U.S. Capitol on January\_6"

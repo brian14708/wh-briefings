@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-28'
 modified_time: 2021-02-28 17:48:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/28/statement-by-national-security-advisor-jake-sullivan-on-violence-against-peaceful-demonstrations-in-burma/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/28/statement-by-national-security-advisor-jake-sullivan-on-violence-against-peaceful-demonstrations-in-burma/
 published_time: 2021-02-28 17:48:03-05:00
 title: "Statement by National Security Advisor Jake Sullivan on Violence Against Peaceful\
   \ Demonstrations in\_Burma"

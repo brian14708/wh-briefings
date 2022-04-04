@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-31'
 modified_time: 2021-01-31 20:22:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/
 published_time: 2021-01-31 20:22:08-05:00
 title: "Letter from President Joe\_Biden to the Speaker of the House of Representatives\
   \ and the President of the\_Senate"

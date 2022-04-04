@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-21'
 modified_time: 2021-04-21 17:34:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/21/press-briefing-by-press-secretary-jen-psaki-april-21-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/21/press-briefing-by-press-secretary-jen-psaki-april-21-2021/
 published_time: 2021-04-21 17:34:24-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, April 21,\_2021"
 ---

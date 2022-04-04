@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-02'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-emma-aparici-chief-diplomatic-advisor-to-the-president-of-spain/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-emma-aparici-chief-diplomatic-advisor-to-the-president-of-spain/
 published_time: 2021-02-02 16:23:58-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Emma Aparici, Chief Diplomatic Advisor to the President\

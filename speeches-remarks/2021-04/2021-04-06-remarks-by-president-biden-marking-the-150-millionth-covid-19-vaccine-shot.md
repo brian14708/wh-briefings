@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-06'
 modified_time: 2021-04-06 18:51:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/06/remarks-by-president-biden-marking-the-150-millionth-covid-19-vaccine-shot/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/06/remarks-by-president-biden-marking-the-150-millionth-covid-19-vaccine-shot/
 published_time: 2021-04-06 19:00:00-04:00
 title: "Remarks by President\_Biden Marking the 150 Millionth COVID-\u206019 Vaccine\_\
   Shot"

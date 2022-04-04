@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-23'
 modified_time: 2021-06-23 12:03:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/23/background-press-call-by-senior-administration-officials-on-the-strategy-to-reduce-gun-violence-and-violent-crime/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/23/background-press-call-by-senior-administration-officials-on-the-strategy-to-reduce-gun-violence-and-violent-crime/
 published_time: 2021-06-23 12:03:41-04:00
 title: "Background Press Call by Senior Administration Officials on the Strategy to\
   \ Reduce Gun Violence and Violent\_Crime"

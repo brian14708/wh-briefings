@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-26'
 modified_time: 2021-04-26 20:29:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/26/press-briefing-by-press-secretary-jen-psaki-and-director-of-the-national-economic-council-brian-deese-april-26-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/26/press-briefing-by-press-secretary-jen-psaki-and-director-of-the-national-economic-council-brian-deese-april-26-2021/
 published_time: 2021-04-26 20:29:52-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Director of the National\
   \ Economic Council Brian Deese, April 26,\_2021"

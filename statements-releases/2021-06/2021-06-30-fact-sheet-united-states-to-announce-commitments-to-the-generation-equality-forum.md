@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 10:35:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/
 published_time: 2021-06-30 10:00:00-04:00
 title: "Fact Sheet: United\_States to Announce Commitments to the Generation Equality\_\
   Forum"

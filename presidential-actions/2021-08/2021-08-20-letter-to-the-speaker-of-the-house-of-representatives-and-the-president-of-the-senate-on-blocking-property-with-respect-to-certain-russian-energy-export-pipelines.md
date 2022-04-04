@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-20'
 modified_time: 2021-08-20 12:15:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/20/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-blocking-property-with-respect-to-certain-russian-energy-export-pipelines/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/20/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-blocking-property-with-respect-to-certain-russian-energy-export-pipelines/
 published_time: 2021-08-20 12:15:46-04:00
 title: "Letter to the Speaker of the House of Representatives and the President of\
   \ the Senate on Blocking Property with Respect to Certain Russian Energy Export\_\

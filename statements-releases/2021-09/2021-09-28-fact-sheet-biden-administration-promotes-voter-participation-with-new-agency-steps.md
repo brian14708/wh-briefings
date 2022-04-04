@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-28'
 modified_time: 2021-09-28 13:39:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/
 published_time: 2021-09-28 13:39:57-04:00
 title: "FACT SHEET: Biden Administration Promotes Voter Participation with New Agency\_\
   Steps"

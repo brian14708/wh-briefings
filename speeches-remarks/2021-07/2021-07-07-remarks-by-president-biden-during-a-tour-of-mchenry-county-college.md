@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-07'
 modified_time: 2021-07-07 16:48:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/07/remarks-by-president-biden-during-a-tour-of-mchenry-county-college/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/07/remarks-by-president-biden-during-a-tour-of-mchenry-county-college/
 published_time: 2021-07-07 16:48:20-04:00
 title: "Remarks by President\_Biden During a Tour of McHenry County\_College"
 ---

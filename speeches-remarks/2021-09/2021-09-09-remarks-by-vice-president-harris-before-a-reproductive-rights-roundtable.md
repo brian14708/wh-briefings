@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-09'
 modified_time: 2021-09-10 08:35:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-vice-president-harris-before-a-reproductive-rights-roundtable/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-vice-president-harris-before-a-reproductive-rights-roundtable/
 published_time: 2021-09-09 18:09:00-04:00
 title: "Remarks by Vice President Harris Before a Reproductive Rights\_Roundtable"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-18'
 modified_time: 2021-05-17 20:35:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-will-bolster-cybersecurity/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-will-bolster-cybersecurity/
 published_time: 2021-05-18 05:15:00-04:00
 title: "FACT SHEET: The American Jobs Plan Will Bolster\_Cybersecurity"
 ---

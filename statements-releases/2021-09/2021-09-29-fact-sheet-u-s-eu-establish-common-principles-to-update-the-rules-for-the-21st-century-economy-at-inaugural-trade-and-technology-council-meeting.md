@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-29'
 modified_time: 2021-09-29 14:18:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/fact-sheet-u-s-eu-establish-common-principles-to-update-the-rules-for-the-21st-century-economy-at-inaugural-trade-and-technology-council-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/fact-sheet-u-s-eu-establish-common-principles-to-update-the-rules-for-the-21st-century-economy-at-inaugural-trade-and-technology-council-meeting/
 published_time: 2021-09-29 16:00:00-04:00
 title: "FACT SHEET: U.S.-EU Establish Common Principles to Update the Rules for the\
   \ 21st Century Economy at Inaugural Trade and Technology Council\_Meeting"

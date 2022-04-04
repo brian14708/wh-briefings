@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-13'
 modified_time: 2021-06-13 09:29:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/carbis-bay-g7-summit-communique/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/carbis-bay-g7-summit-communique/
 published_time: 2021-06-13 09:29:05-04:00
 title: "CARBIS BAY G7 SUMMIT\_COMMUNIQU\xC9"
 ---

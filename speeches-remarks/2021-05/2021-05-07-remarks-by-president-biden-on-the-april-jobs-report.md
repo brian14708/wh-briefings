@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-07'
 modified_time: 2021-05-07 15:53:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/07/remarks-by-president-biden-on-the-april-jobs-report/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/07/remarks-by-president-biden-on-the-april-jobs-report/
 published_time: 2021-05-07 16:00:00-04:00
 title: "Remarks by President\_Biden on the April Jobs\_Report"
 ---

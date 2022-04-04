@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-15'
 modified_time: 2021-10-15 19:52:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-uae-minister-of-foreign-affairs-and-international-cooperation-sheikh-abdullah-bin-zayed-al-n/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-uae-minister-of-foreign-affairs-and-international-cooperation-sheikh-abdullah-bin-zayed-al-n/
 published_time: 2021-10-15 19:52:27-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with UAE Minister of Foreign Affairs and International\

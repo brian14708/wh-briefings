@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-22'
 modified_time: 2021-10-22 18:23:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-for-strategic-affairs-gustavo-beliz-of-argentina/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-for-strategic-affairs-gustavo-beliz-of-argentina/
 published_time: 2021-10-22 18:23:34-04:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Secretary\
   \ for Strategic Affairs Gustavo Beliz of\_Argentina"

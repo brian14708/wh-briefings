@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-23'
 modified_time: 2021-02-23 08:07:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/fact-sheet-the-united-states-canada-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/fact-sheet-the-united-states-canada-partnership/
 published_time: 2021-02-23 05:00:00-05:00
 title: "FACT SHEET: The United\_States-Canada\_Partnership"
 ---

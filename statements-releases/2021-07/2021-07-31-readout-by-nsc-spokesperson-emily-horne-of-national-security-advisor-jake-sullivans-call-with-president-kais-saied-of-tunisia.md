@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-31'
 modified_time: 2021-07-31 18:34:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/31/readout-by-nsc-spokesperson-emily-horne-of-national-security-advisor-jake-sullivans-call-with-president-kais-saied-of-tunisia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/31/readout-by-nsc-spokesperson-emily-horne-of-national-security-advisor-jake-sullivans-call-with-president-kais-saied-of-tunisia/
 published_time: 2021-07-31 18:34:10-04:00
 title: "Readout by NSC Spokesperson Emily Horne of National Security Advisor Jake\
   \ Sullivan\u2019s Call with President Kais Saied of\_Tunisia"

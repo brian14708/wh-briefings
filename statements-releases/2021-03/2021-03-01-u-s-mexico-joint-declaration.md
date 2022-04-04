@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-01'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/01/u-s-mexico-joint-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/01/u-s-mexico-joint-declaration/
 published_time: 2021-03-01 18:59:26-05:00
 title: U.S.-Mexico Joint Declaration
 ---

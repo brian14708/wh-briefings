@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-31'
 modified_time: 2021-01-31 21:33:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/statement-by-white-house-spokesperson-jen-psaki-on-burma/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/statement-by-white-house-spokesperson-jen-psaki-on-burma/
 published_time: 2021-01-31 21:01:05-05:00
 title: "Statement by White\_House Spokesperson Jen\_Psaki on\_Burma"
 ---

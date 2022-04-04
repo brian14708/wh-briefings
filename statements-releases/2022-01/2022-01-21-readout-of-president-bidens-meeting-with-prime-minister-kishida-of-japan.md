@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 11:26:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan/
 published_time: 2022-01-21 11:26:54-05:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kishida of\_\
   Japan"

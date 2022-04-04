@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 06:02:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/
 published_time: 2021-12-07 06:02:36-05:00
 title: "FACT SHEET: Vice President Kamala\_Harris Announces Call to Action to Reduce\
   \ Maternal Mortality and\_Morbidity"

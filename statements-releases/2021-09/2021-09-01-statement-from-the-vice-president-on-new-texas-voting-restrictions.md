@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-01'
 modified_time: 2021-09-01 15:49:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-from-the-vice-president-on-new-texas-voting-restrictions/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-from-the-vice-president-on-new-texas-voting-restrictions/
 published_time: 2021-09-01 16:15:00-04:00
 title: "Statement from the Vice President on New Texas Voting\_Restrictions"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-04'
 modified_time: 2021-11-04 09:35:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/fact-sheet-biden-administration-announces-details-of-two-major-vaccination-policies/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/fact-sheet-biden-administration-announces-details-of-two-major-vaccination-policies/
 published_time: 2021-11-04 08:45:00-04:00
 title: "Fact Sheet: Biden Administration Announces Details of Two Major Vaccination\_\
   Policies"

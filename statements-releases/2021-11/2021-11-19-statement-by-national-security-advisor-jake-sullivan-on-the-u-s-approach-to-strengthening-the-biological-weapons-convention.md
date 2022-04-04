@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
 modified_time: 2021-11-19 10:13:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-by-national-security-advisor-jake-sullivan-on-the-u-s-approach-to-strengthening-the-biological-weapons-convention/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-by-national-security-advisor-jake-sullivan-on-the-u-s-approach-to-strengthening-the-biological-weapons-convention/
 published_time: 2021-11-19 14:00:00-05:00
 title: "Statement by National Security Advisor Jake Sullivan on the U.S. Approach\
   \ to Strengthening the Biological Weapons\_Convention"

@@ -1,9 +1,9 @@
 ---
-category: press-briefings
 date: '2022-03-29'
 modified_time: 2022-03-29 19:12:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/29/press-briefing-by-director-of-communications-kate-bedingfield/
 published_time: 2022-03-29 19:12:26-04:00
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/29/press-briefing-by-director-of-communications-kate-bedingfield/
+tags: press-briefings
 title: "Press Briefing by Director of Communications Kate\_Bedingfield"
 ---
  

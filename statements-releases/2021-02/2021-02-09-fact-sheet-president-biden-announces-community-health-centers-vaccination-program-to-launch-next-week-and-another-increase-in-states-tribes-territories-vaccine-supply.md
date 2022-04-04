@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-09'
 modified_time: 2021-02-09 12:36:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/09/fact-sheet-president-biden-announces-community-health-centers-vaccination-program-to-launch-next-week-and-another-increase-in-states-tribes-territories-vaccine-supply/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/09/fact-sheet-president-biden-announces-community-health-centers-vaccination-program-to-launch-next-week-and-another-increase-in-states-tribes-territories-vaccine-supply/
 published_time: 2021-02-09 12:36:20-05:00
 title: "FACT SHEET: President\_Biden Announces Community Health Centers Vaccination\
   \ Program to Launch Next Week and Another Increase in States, Tribes, & Territories\u2019\

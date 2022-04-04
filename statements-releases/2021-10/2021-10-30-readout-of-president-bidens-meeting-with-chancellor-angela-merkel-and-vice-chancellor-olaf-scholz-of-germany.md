@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/readout-of-president-bidens-meeting-with-chancellor-angela-merkel-and-vice-chancellor-olaf-scholz-of-germany/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/readout-of-president-bidens-meeting-with-chancellor-angela-merkel-and-vice-chancellor-olaf-scholz-of-germany/
 published_time: 2021-10-30 14:30:43-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Chancellor Angela Merkel and\
   \ Vice Chancellor Olaf Scholz of\_Germany"

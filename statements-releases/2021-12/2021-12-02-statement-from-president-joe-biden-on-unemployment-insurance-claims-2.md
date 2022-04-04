@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-02'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/statement-from-president-joe-biden-on-unemployment-insurance-claims-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/statement-from-president-joe-biden-on-unemployment-insurance-claims-2/
 published_time: 2021-12-02 09:59:43-05:00
 title: "Statement from President Joe\_Biden on Unemployment Insurance\_Claims"
 ---

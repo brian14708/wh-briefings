@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-29'
 modified_time: 2021-10-29 11:57:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-meeting-with-prime-minister-mario-draghi-of-italy-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-meeting-with-prime-minister-mario-draghi-of-italy-2/
 published_time: 2021-10-29 11:57:25-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Mario Draghi\
   \ of\_Italy"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 14:24:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/
 published_time: 2022-01-21 15:00:00-05:00
 title: "FACT SHEET:  Biden-\u2060Harris Administration Launches Coalition of States\
   \ and Local Governments to Strengthen Building Performance\_Standards"

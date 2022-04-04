@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 10:50:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/
 published_time: 2021-11-02 01:00:00-04:00
 title: "Fact Sheet: President\_Biden Tackles Methane Emissions, Spurs Innovations,\
   \ and Supports Sustainable Agriculture to Build a Clean Energy Economy and Create\_\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-06'
 modified_time: 2021-08-06 18:42:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/readout-of-the-second-meeting-of-the-white-house-council-on-native-american-affairs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/readout-of-the-second-meeting-of-the-white-house-council-on-native-american-affairs/
 published_time: 2021-08-06 18:42:15-04:00
 title: "Readout of the Second Meeting of the White\_House Council on Native American\_\
   Affairs"

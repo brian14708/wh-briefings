@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-18'
 modified_time: 2022-01-25 11:13:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/18/press-briefing-by-press-secretary-jen-psaki-and-infrastructure-implementation-coordinator-mitch-landrieu-january-18-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/18/press-briefing-by-press-secretary-jen-psaki-and-infrastructure-implementation-coordinator-mitch-landrieu-january-18-2022/
 published_time: 2022-01-18 22:30:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Infrastructure Implementation\
   \ Coordinator Mitch Landrieu, January 18,\_2022"

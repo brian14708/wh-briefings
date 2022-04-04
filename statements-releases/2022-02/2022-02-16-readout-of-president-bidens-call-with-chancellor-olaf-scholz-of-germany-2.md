@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-16'
 modified_time: 2022-02-16 17:10:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/readout-of-president-bidens-call-with-chancellor-olaf-scholz-of-germany-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/readout-of-president-bidens-call-with-chancellor-olaf-scholz-of-germany-2/
 published_time: 2022-02-16 17:10:44-05:00
 title: "Readout of President\_Biden\u2019s Call with Chancellor Olaf Scholz of\_Germany"
 ---

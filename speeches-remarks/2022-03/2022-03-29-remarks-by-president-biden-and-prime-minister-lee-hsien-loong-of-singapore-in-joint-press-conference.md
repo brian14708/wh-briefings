@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-03-29'
 modified_time: 2022-03-29 17:18:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-president-biden-and-prime-minister-lee-hsien-loong-of-singapore-in-joint-press-conference/
 published_time: 2022-03-29 16:36:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-president-biden-and-prime-minister-lee-hsien-loong-of-singapore-in-joint-press-conference/
+tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Lee Hsien Loong of Singapore\
   \ in Joint Press\_Conference"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-02'
 modified_time: 2021-12-01 18:41:14-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/
 published_time: 2021-12-02 08:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Reforms to Increase\
   \ Equity and Level the Playing Field for Underserved Small Business\_Owners"

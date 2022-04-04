@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/readout-of-supply-chain-event-launching-data-initiative-for-greater-supply-chain-resilience/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/readout-of-supply-chain-event-launching-data-initiative-for-greater-supply-chain-resilience/
 published_time: 2022-03-15 15:58:12-04:00
 title: "Readout of Supply Chain Event Launching Data Initiative for Greater Supply\
   \ Chain\_Resilience"

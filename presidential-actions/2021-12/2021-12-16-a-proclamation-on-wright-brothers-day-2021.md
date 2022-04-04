@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-16'
 modified_time: 2021-12-16 11:17:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/16/a-proclamation-on-wright-brothers-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/16/a-proclamation-on-wright-brothers-day-2021/
 published_time: 2021-12-16 11:17:21-05:00
 title: "A Proclamation on Wright Brothers Day,\_2021"
 ---

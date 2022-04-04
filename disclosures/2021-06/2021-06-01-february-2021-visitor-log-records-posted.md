@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2021-06-01'
 modified_time: 2021-06-01 16:49:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/06/01/february-2021-visitor-log-records-posted/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/06/01/february-2021-visitor-log-records-posted/
 published_time: 2021-06-01 05:00:00-04:00
 title: "February 2021 Visitor Log Records\_Posted"
 ---

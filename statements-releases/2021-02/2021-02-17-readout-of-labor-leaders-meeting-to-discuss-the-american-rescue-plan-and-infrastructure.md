@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 20:30:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/readout-of-labor-leaders-meeting-to-discuss-the-american-rescue-plan-and-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/readout-of-labor-leaders-meeting-to-discuss-the-american-rescue-plan-and-infrastructure/
 published_time: 2021-02-17 20:30:29-05:00
 title: "Readout of Labor Leaders Meeting to Discuss the American Rescue Plan and\_\
   Infrastructure"

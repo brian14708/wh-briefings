@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-20 21:31:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/
 published_time: 2021-01-20 21:31:58-05:00
 title: "Executive Order on Protecting Public Health and the Environment and Restoring\
   \ Science to Tackle the Climate\_Crisis"

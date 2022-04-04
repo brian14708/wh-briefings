@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-20 16:33:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/a-national-day-of-unity/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/a-national-day-of-unity/
 published_time: 2021-01-20 16:28:44-05:00
 title: "A National Day of\_Unity"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-12'
 modified_time: 2021-06-13 10:59:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-g7-to-announce-joint-actions-to-end-public-support-for-overseas-unabated-coal-generation-by-end-of-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-g7-to-announce-joint-actions-to-end-public-support-for-overseas-unabated-coal-generation-by-end-of-2021/
 published_time: 2021-06-12 11:15:00-04:00
 title: "FACT SHEET: G7 to Announce Joint Actions to End Public Support for Overseas\
   \ Unabated Coal Generation by End of\_2021"

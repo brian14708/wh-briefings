@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-leading-the-first-virtual-meeting-of-the-u-s-israel-strategic-consultative-group/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-leading-the-first-virtual-meeting-of-the-u-s-israel-strategic-consultative-group/
 published_time: 2021-03-10 10:54:14-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan Leading the First Virtual Meeting of the U.S.-Israel Strategic Consultative\_\

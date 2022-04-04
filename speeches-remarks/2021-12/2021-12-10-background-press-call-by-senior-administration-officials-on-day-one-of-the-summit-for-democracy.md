@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-10'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/10/background-press-call-by-senior-administration-officials-on-day-one-of-the-summit-for-democracy/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/10/background-press-call-by-senior-administration-officials-on-day-one-of-the-summit-for-democracy/
 published_time: 2021-12-10 16:56:11-05:00
 title: "Background Press Call by Senior Administration Officials on Day One of the\
   \ Summit for\_Democracy"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-13'
 modified_time: 2021-04-13 15:11:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-160th-anniversary-of-the-unification-of-italy-and-the-establishment-of-united-states-italy-diplomatic-relations/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-160th-anniversary-of-the-unification-of-italy-and-the-establishment-of-united-states-italy-diplomatic-relations/
 published_time: 2021-04-13 15:11:34-04:00
 title: "A Proclamation on 160th Anniversary Of The Unification Of Italy And The Establishment\
   \ Of United\_States-Italy Diplomatic\_Relations"

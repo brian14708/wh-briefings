@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-30'
 modified_time: 2021-10-30 14:53:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/readout-of-senior-administration-official-travel-to-djibouti-kenya-niger-and-somalia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/30/readout-of-senior-administration-official-travel-to-djibouti-kenya-niger-and-somalia/
 published_time: 2021-10-30 14:53:39-04:00
 title: "Readout of Senior Administration Official Travel to Djibouti, Kenya, Niger,\
   \ and\_Somalia"

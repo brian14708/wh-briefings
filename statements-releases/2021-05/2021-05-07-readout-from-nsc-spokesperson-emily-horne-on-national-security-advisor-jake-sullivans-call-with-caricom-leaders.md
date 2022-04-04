@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-07'
 modified_time: 2021-05-07 14:19:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/07/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-caricom-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/07/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-caricom-leaders/
 published_time: 2021-05-07 14:19:06-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with CARICOM\_Leaders"

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-29'
 modified_time: 2021-07-29 17:47:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/29/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-july-29-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/29/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-july-29-2021/
 published_time: 2021-07-29 18:00:00-04:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine Jean-Pierre, July\
   \ 29,\_2021"

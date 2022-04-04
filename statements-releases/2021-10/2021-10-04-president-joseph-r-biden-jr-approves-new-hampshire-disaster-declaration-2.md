@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-04'
 modified_time: 2021-10-04 12:40:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/president-joseph-r-biden-jr-approves-new-hampshire-disaster-declaration-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/president-joseph-r-biden-jr-approves-new-hampshire-disaster-declaration-2/
 published_time: 2021-10-04 12:40:46-04:00
 title: "President Joseph R. Biden, Jr. Approves New Hampshire Disaster\_Declaration"
 ---

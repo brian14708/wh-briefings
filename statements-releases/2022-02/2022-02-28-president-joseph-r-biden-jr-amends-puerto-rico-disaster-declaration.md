@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-28'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/president-joseph-r-biden-jr-amends-puerto-rico-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/president-joseph-r-biden-jr-amends-puerto-rico-disaster-declaration/
 published_time: 2022-02-28 13:18:45-05:00
 title: "President Joseph R. Biden, Jr. Amends Puerto Rico Disaster\_Declaration"
 ---

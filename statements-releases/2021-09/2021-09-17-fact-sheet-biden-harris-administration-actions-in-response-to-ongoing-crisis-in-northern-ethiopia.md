@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-17'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/fact-sheet-biden-harris-administration-actions-in-response-to-ongoing-crisis-in-northern-ethiopia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/fact-sheet-biden-harris-administration-actions-in-response-to-ongoing-crisis-in-northern-ethiopia/
 published_time: 2021-09-17 07:19:07-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions in Response to Ongoing\
   \ Crisis in Northern\_Ethiopia"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 07:43:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-efforts-to-tackle-prices-for-americans/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-efforts-to-tackle-prices-for-americans/
 published_time: 2021-12-22 07:43:41-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Efforts to Tackle Prices for\_\
   Americans"

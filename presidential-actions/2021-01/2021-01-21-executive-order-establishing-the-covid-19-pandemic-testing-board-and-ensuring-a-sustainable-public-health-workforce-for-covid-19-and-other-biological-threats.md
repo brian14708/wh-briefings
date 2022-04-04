@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-21'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-establishing-the-covid-19-pandemic-testing-board-and-ensuring-a-sustainable-public-health-workforce-for-covid-19-and-other-biological-threats/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-establishing-the-covid-19-pandemic-testing-board-and-ensuring-a-sustainable-public-health-workforce-for-covid-19-and-other-biological-threats/
 published_time: 2021-01-21 17:22:34-05:00
 title: "Executive Order on Establishing the COVID-\u206019 Pandemic Testing Board\
   \ and Ensuring a Sustainable Public Health Workforce for COVID-\u206019 and Other\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-17'
 modified_time: 2022-02-17 21:29:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/president-joseph-r-biden-jr-approves-kansas-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/president-joseph-r-biden-jr-approves-kansas-disaster-declaration/
 published_time: 2022-02-17 21:29:15-05:00
 title: "President Joseph R. Biden, Jr. Approves Kansas Disaster\_Declaration"
 ---

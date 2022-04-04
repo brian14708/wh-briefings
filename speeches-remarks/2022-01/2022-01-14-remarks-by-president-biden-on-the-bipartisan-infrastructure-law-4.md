@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-01-14'
 modified_time: 2022-01-14 15:10:51-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/14/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-4/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/14/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-4/
 published_time: 2022-01-14 15:30:00-05:00
 title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Law"
 ---

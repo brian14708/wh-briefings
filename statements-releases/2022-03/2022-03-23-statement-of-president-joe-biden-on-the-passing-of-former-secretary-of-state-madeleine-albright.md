@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-23'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/statement-of-president-joe-biden-on-the-passing-of-former-secretary-of-state-madeleine-albright/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/statement-of-president-joe-biden-on-the-passing-of-former-secretary-of-state-madeleine-albright/
 published_time: 2022-03-23 17:20:57-04:00
 title: "Statement of President Joe\_Biden On the Passing of Former Secretary of State\
   \ Madeleine\_Albright"

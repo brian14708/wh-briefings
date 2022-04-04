@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-26'
 modified_time: 2021-09-07 16:10:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-vice-president-harris-in-press-conference-in-hanoi-vietnam/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-vice-president-harris-in-press-conference-in-hanoi-vietnam/
 published_time: 2021-08-26 06:39:00-04:00
 title: "Remarks by Vice President Harris in Press Conference in Hanoi,\_Vietnam"
 ---

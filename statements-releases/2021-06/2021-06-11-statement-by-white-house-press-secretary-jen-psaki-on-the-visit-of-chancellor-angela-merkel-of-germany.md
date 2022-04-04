@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-11'
 modified_time: 2021-06-11 07:04:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-chancellor-angela-merkel-of-germany/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-chancellor-angela-merkel-of-germany/
 published_time: 2021-06-11 07:04:00-04:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on\_the Visit of Chancellor\
   \ Angela Merkel of\_Germany"

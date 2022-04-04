@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-15'
 modified_time: 2021-06-15 08:10:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/on-the-record-press-call-by-united-states-trade-representative-ambassador-katherine-tai/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/on-the-record-press-call-by-united-states-trade-representative-ambassador-katherine-tai/
 published_time: 2021-06-15 08:10:04-04:00
 title: "On-the-Record Press Call by United\_States Trade Representative Ambassador\
   \ Katherine\_Tai"

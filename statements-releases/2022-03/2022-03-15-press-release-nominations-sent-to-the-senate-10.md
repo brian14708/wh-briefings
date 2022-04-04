@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/press-release-nominations-sent-to-the-senate-10/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/press-release-nominations-sent-to-the-senate-10/
 published_time: 2022-03-15 16:20:32-04:00
 title: "Press Release: Nominations Sent to the\_Senate"
 ---

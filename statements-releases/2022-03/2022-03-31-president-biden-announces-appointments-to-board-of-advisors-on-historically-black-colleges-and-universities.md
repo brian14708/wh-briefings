@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-31'
 modified_time: 2022-03-31 11:32:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/president-biden-announces-appointments-to-board-of-advisors-on-historically-black-colleges-and-universities/
 published_time: 2022-03-31 16:00:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/president-biden-announces-appointments-to-board-of-advisors-on-historically-black-colleges-and-universities/
+tags: statements-releases
 title: "President\_Biden Announces Appointments to Board of Advisors on Historically\
   \ Black Colleges and\_Universities"
 ---

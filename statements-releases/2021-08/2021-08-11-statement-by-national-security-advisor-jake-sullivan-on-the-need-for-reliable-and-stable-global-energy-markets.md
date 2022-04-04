@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-10 22:13:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/statement-by-national-security-advisor-jake-sullivan-on-the-need-for-reliable-and-stable-global-energy-markets/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/statement-by-national-security-advisor-jake-sullivan-on-the-need-for-reliable-and-stable-global-energy-markets/
 published_time: 2021-08-11 09:00:00-04:00
 title: "Statement by National Security Advisor Jake Sullivan on the Need for Reliable\
   \ and Stable Global Energy\_Markets"

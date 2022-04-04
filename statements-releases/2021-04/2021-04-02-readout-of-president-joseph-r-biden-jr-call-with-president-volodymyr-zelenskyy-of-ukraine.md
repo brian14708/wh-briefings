@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-02'
 modified_time: 2021-04-02 11:09:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/readout-of-president-joseph-r-biden-jr-call-with-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/readout-of-president-joseph-r-biden-jr-call-with-president-volodymyr-zelenskyy-of-ukraine/
 published_time: 2021-04-02 11:09:32-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Volodymyr Zelenskyy\
   \ of\_Ukraine"

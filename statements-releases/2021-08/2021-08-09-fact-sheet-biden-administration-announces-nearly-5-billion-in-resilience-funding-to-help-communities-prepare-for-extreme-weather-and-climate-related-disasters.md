@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-09'
 modified_time: 2021-08-09 09:45:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/
 published_time: 2021-08-09 09:45:19-04:00
 title: "FACT SHEET: Biden Administration Announces Nearly $5 Billion in Resilience\
   \ Funding to Help Communities Prepare for Extreme Weather and Climate-Related\_\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-01'
 modified_time: 2021-02-01 12:19:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/01/statement-by-president-joseph-r-biden-jr-on-the-situation-in-burma/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/01/statement-by-president-joseph-r-biden-jr-on-the-situation-in-burma/
 published_time: 2021-02-01 12:19:38-05:00
 title: "Statement by President Joseph R. Biden, Jr. on the Situation in\_Burma"
 ---

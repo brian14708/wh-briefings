@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-08'
 modified_time: 2021-11-08 17:18:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/statement-by-vice-president-kamala-harris-on-her-trip-to-france/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/statement-by-vice-president-kamala-harris-on-her-trip-to-france/
 published_time: 2021-11-08 17:30:00-05:00
 title: "Statement by Vice President Kamala\_Harris on Her Trip to\_France"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-24'
 modified_time: 2021-11-24 13:16:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-the-president-on-remembering-holodomor/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-the-president-on-remembering-holodomor/
 published_time: 2021-11-24 13:16:06-05:00
 title: "Statement by the President on Remembering\_Holodomor"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-16'
 modified_time: 2022-03-15 22:59:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/statement-by-president-joseph-r-biden-jr-honoring-the-victims-of-the-fatal-shootings-in-atlanta/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/statement-by-president-joseph-r-biden-jr-honoring-the-victims-of-the-fatal-shootings-in-atlanta/
 published_time: 2022-03-16 08:00:00-04:00
 title: "Statement by President Joseph R. Biden Jr. Honoring the Victims of the Fatal\
   \ Shootings in\_Atlanta"

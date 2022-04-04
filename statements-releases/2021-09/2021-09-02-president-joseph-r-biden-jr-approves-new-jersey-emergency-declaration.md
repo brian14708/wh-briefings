@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-02'
 modified_time: 2021-09-02 23:48:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/president-joseph-r-biden-jr-approves-new-jersey-emergency-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/president-joseph-r-biden-jr-approves-new-jersey-emergency-declaration/
 published_time: 2021-09-02 23:48:56-04:00
 title: "President Joseph R. Biden, Jr. Approves New Jersey Emergency\_Declaration"
 ---

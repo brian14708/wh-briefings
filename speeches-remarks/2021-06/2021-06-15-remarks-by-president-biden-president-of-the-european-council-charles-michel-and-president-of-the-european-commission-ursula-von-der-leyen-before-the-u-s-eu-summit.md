@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-15'
 modified_time: 2021-06-15 10:00:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/15/remarks-by-president-biden-president-of-the-european-council-charles-michel-and-president-of-the-european-commission-ursula-von-der-leyen-before-the-u-s-eu-summit/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/15/remarks-by-president-biden-president-of-the-european-council-charles-michel-and-president-of-the-european-commission-ursula-von-der-leyen-before-the-u-s-eu-summit/
 published_time: 2021-06-15 10:00:43-04:00
 title: "Remarks by President\_Biden, President of the European Council Charles Michel,\
   \ and President of the European Commission Ursula von der Leyen Before the U.S.-EU\_\

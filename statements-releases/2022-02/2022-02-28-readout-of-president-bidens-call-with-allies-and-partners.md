@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 16:08:20-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/readout-of-president-bidens-call-with-allies-and-partners/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/readout-of-president-bidens-call-with-allies-and-partners/
 published_time: 2022-02-28 16:08:19-05:00
 title: "Readout of President\_Biden\u2019s Call with Allies and\_Partners"
 ---

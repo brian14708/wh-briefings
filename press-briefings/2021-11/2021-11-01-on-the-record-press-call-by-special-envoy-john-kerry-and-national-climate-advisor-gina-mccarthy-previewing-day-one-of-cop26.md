@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-11-01'
 modified_time: 2021-10-31 16:07:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/01/on-the-record-press-call-by-special-envoy-john-kerry-and-national-climate-advisor-gina-mccarthy-previewing-day-one-of-cop26/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/01/on-the-record-press-call-by-special-envoy-john-kerry-and-national-climate-advisor-gina-mccarthy-previewing-day-one-of-cop26/
 published_time: 2021-11-01 01:00:00-04:00
 title: "On-The-Record Press Call by Special Envoy John Kerry and National Climate\
   \ Advisor Gina McCarthy Previewing Day One of\_COP26"

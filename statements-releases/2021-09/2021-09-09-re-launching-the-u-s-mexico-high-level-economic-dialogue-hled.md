@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-09'
 modified_time: 2021-09-10 12:30:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/re-launching-the-u-s-mexico-high-level-economic-dialogue-hled/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/re-launching-the-u-s-mexico-high-level-economic-dialogue-hled/
 published_time: 2021-09-09 18:07:19-04:00
 title: "Re-Launching the U.S.-Mexico High-Level Economic Dialogue\_(HLED)"
 ---

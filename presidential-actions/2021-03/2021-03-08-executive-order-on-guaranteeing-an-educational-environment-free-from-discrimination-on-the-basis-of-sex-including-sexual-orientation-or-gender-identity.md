@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-03-08'
 modified_time: 2021-03-08 10:30:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/
 published_time: 2021-03-08 10:30:33-05:00
 title: "Executive Order on Guaranteeing an Educational Environment Free from Discrimination\
   \ on the Basis of Sex, Including Sexual Orientation or Gender\_Identity"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-30'
 modified_time: 2021-04-30 10:39:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/30/remarks-by-president-biden-before-air-force-one-departure-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/30/remarks-by-president-biden-before-air-force-one-departure-2/
 published_time: 2021-04-30 10:39:24-04:00
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

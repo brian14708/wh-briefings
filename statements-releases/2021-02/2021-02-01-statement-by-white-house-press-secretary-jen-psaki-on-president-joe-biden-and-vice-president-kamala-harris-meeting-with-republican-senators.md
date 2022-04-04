@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-01'
 modified_time: 2021-02-01 20:10:57-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/01/statement-by-white-house-press-secretary-jen-psaki-on-president-joe-biden-and-vice-president-kamala-harris-meeting-with-republican-senators/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/01/statement-by-white-house-press-secretary-jen-psaki-on-president-joe-biden-and-vice-president-kamala-harris-meeting-with-republican-senators/
 published_time: 2021-02-01 20:10:56-05:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on President Joe\_Biden\
   \ and Vice President Kamala\_Harris\u2019 Meeting with Republican\_Senators"

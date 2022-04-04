@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-20'
 modified_time: 2022-01-20 15:19:51-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/background-press-call-by-senior-administration-officials-on-the-summit-of-the-americas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/background-press-call-by-senior-administration-officials-on-the-summit-of-the-americas/
 published_time: 2022-01-20 15:19:50-05:00
 title: "Background Press Call By Senior Administration Officials On the Summit of\
   \ the\_Americas"

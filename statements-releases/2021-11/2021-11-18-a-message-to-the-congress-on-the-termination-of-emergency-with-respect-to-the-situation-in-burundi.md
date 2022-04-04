@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-18'
 modified_time: 2021-11-18 11:05:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/a-message-to-the-congress-on-the-termination-of-emergency-with-respect-to-the-situation-in-burundi/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/a-message-to-the-congress-on-the-termination-of-emergency-with-respect-to-the-situation-in-burundi/
 published_time: 2021-11-18 11:05:20-05:00
 title: "A Message to the Congress on the Termination of Emergency with Respect to\
   \ the Situation in\_Burundi"

@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2021-11-01'
 modified_time: 2021-11-17 11:26:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/11/01/july-2021-visitor-log-records-posted/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/11/01/july-2021-visitor-log-records-posted/
 published_time: 2021-11-01 17:00:00-04:00
 title: "July 2021 Visitor Log Records\_Posted"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-24 22:13:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/president-biden-announces-u-s-special-envoy-to-advance-the-human-rights-of-lgbtqi-persons/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/president-biden-announces-u-s-special-envoy-to-advance-the-human-rights-of-lgbtqi-persons/
 published_time: 2021-06-25 07:00:00-04:00
 title: "President\_Biden Announces U.S. Special Envoy to Advance the Human Rights\
   \ of LGBTQI+\_Persons"

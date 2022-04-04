@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-10'
 modified_time: 2021-12-10 09:24:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/joint-statement-on-the-export-controls-and-human-rights-initiative/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/joint-statement-on-the-export-controls-and-human-rights-initiative/
 published_time: 2021-12-10 09:30:00-05:00
 title: "Joint Statement on the Export Controls and Human Rights\_Initiative"
 ---

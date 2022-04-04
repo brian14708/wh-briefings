@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-25'
 modified_time: 2022-01-25 17:36:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/25/press-briefing-by-press-secretary-jen-psaki-january-25-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/25/press-briefing-by-press-secretary-jen-psaki-january-25-2022/
 published_time: 2022-01-25 17:36:03-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, January 25,\_2022"
 ---

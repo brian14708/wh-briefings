@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-08'
 modified_time: 2021-10-08 18:16:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-of-president-joe-biden-on-signing-the-k-12-cybersecurity-act-into-law/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-of-president-joe-biden-on-signing-the-k-12-cybersecurity-act-into-law/
 published_time: 2021-10-08 18:16:38-04:00
 title: "Statement of President Joe\_Biden on Signing the K-12 Cybersecurity Act Into\_\
   Law"

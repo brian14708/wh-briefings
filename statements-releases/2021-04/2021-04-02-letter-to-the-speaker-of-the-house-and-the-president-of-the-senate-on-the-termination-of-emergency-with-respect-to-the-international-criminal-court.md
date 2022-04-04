@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-02'
 modified_time: 2021-04-02 17:47:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-termination-of-emergency-with-respect-to-the-international-criminal-court/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-termination-of-emergency-with-respect-to-the-international-criminal-court/
 published_time: 2021-04-02 17:17:55-04:00
 title: "Letter to the Speaker of the House and the President of the Senate on the\
   \ Termination of Emergency With Respect to the International Criminal\_Court"

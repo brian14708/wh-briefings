@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-04'
 modified_time: 2021-03-04 17:34:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-president-biden-vice-president-harris-and-secretary-buttigiegs-meeting-with-house-members-on-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-president-biden-vice-president-harris-and-secretary-buttigiegs-meeting-with-house-members-on-infrastructure/
 published_time: 2021-03-04 17:34:07-05:00
 title: "Readout of President\_Biden, Vice President Harris, and Secretary Buttigieg\u2019\
   s Meeting with House Members on\_Infrastructure"

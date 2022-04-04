@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-23'
 modified_time: 2022-02-23 21:57:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/23/remarks-by-vice-president-harris-before-a-meeting-with-the-national-black-caucus-of-state-legislators/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/23/remarks-by-vice-president-harris-before-a-meeting-with-the-national-black-caucus-of-state-legislators/
 published_time: 2022-02-23 21:57:29-05:00
 title: "Remarks by Vice President Harris Before a Meeting with the National Black\
   \ Caucus of State\_Legislators"

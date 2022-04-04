@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-13'
 modified_time: 2021-04-13 14:03:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/13/remarks-by-president-biden-at-a-congressional-tribute-for-u-s-capitol-police-officer-william-evans/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/13/remarks-by-president-biden-at-a-congressional-tribute-for-u-s-capitol-police-officer-william-evans/
 published_time: 2021-04-13 14:03:12-04:00
 title: "Remarks by President\_Biden at a Congressional Tribute for U.S. Capitol Police\
   \ Officer William\_Evans"

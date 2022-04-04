@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-13'
 modified_time: 2021-07-13 16:48:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/13/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-philadelphia-pa/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/13/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-philadelphia-pa/
 published_time: 2021-07-13 16:48:51-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Philadelphia,\_PA"

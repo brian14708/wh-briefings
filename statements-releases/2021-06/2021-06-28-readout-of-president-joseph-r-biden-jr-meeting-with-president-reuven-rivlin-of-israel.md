@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-28'
 modified_time: 2021-06-28 22:14:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/28/readout-of-president-joseph-r-biden-jr-meeting-with-president-reuven-rivlin-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/28/readout-of-president-joseph-r-biden-jr-meeting-with-president-reuven-rivlin-of-israel/
 published_time: 2021-06-28 22:14:21-04:00
 title: "Readout of President Joseph R. Biden, Jr. Meeting with President Reuven Rivlin\
   \ of\_Israel"

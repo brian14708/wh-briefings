@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-12'
 modified_time: 2021-06-13 14:43:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-president-bidens-meeting-with-prime-minister-suga-yoshihide-suga-of-japan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-president-bidens-meeting-with-prime-minister-suga-yoshihide-suga-of-japan/
 published_time: 2021-06-12 19:06:44-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Suga Yoshihide\
   \ of\_Japan"

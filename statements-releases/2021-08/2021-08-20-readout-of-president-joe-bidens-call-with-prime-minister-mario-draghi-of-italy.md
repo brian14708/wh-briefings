@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-20'
 modified_time: 2021-08-20 19:20:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/readout-of-president-joe-bidens-call-with-prime-minister-mario-draghi-of-italy/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/readout-of-president-joe-bidens-call-with-prime-minister-mario-draghi-of-italy/
 published_time: 2021-08-20 19:20:03-04:00
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Mario Draghi\
   \ of\_Italy"

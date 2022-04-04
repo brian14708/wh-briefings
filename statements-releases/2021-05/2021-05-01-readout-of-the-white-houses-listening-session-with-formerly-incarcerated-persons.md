@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-01'
 modified_time: 2021-05-01 10:00:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/01/readout-of-the-white-houses-listening-session-with-formerly-incarcerated-persons/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/01/readout-of-the-white-houses-listening-session-with-formerly-incarcerated-persons/
 published_time: 2021-05-01 10:00:26-04:00
 title: "Readout of the White\_House\u2019s Listening Session with Formerly Incarcerated\_\
   Persons"

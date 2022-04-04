@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 20:40:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-call-with-national-security-advisor-hermogenes-esperon-of-the-philippines/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivan-call-with-national-security-advisor-hermogenes-esperon-of-the-philippines/
 published_time: 2021-02-17 20:40:36-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan Call with National Security Advisor Hermogenes Esperon of the\_Philippines"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
 date: '2022-04-01'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/01/remarks-by-vice-president-harris-on-historic-investments-in-economic-development-in-underserved-communities/
 published_time: 2022-04-01 18:21:43-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/01/remarks-by-vice-president-harris-on-historic-investments-in-economic-development-in-underserved-communities/
+tags: speeches-remarks
 title: "Remarks by Vice President Harris on Historic Investments in Economic Development\
   \ in Underserved\_Communities"
 ---

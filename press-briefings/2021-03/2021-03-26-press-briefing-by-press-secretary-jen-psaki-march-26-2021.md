@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-26'
 modified_time: 2021-03-26 16:16:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/26/press-briefing-by-press-secretary-jen-psaki-march-26-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/26/press-briefing-by-press-secretary-jen-psaki-march-26-2021/
 published_time: 2021-03-26 16:15:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, March 26,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-12 11:07:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-fifth-national-climate-task-force-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-fifth-national-climate-task-force-meeting/
 published_time: 2021-08-11 21:33:57-04:00
 title: "Readout of the Fifth National Climate Task Force\_Meeting"
 ---

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/readout-of-white-house-community-violence-intervention-collaborative-meeting-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/16/readout-of-white-house-community-violence-intervention-collaborative-meeting-2/
 published_time: 2022-02-16 18:22:59-05:00
 title: "Readout of White\_House Community Violence Intervention Collaborative\_Meeting"
 ---

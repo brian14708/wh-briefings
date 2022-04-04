@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-28'
 modified_time: 2021-02-01 09:42:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/28/fact-sheet-president-biden-to-sign-executive-orders-strengthening-americans-access-to-quality-affordable-health-care/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/28/fact-sheet-president-biden-to-sign-executive-orders-strengthening-americans-access-to-quality-affordable-health-care/
 published_time: 2021-01-28 05:40:00-05:00
 title: "FACT SHEET: President\_Biden to Sign Executive Orders Strengthening Americans\u2019\
   \ Access to Quality, Affordable Health\_Care"

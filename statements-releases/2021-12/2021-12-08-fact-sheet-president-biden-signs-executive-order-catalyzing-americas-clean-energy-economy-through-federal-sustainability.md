@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-08'
 modified_time: 2021-12-13 14:47:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/
 published_time: 2021-12-08 13:30:00-05:00
 title: "FACT SHEET: President\_Biden Signs Executive Order Catalyzing America\u2019\
   s Clean Energy Economy Through Federal\_Sustainability"

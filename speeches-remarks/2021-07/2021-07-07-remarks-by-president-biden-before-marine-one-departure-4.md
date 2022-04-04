@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-07'
 modified_time: 2021-07-07 11:35:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/07/remarks-by-president-biden-before-marine-one-departure-4/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/07/remarks-by-president-biden-before-marine-one-departure-4/
 published_time: 2021-07-07 11:45:00-04:00
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

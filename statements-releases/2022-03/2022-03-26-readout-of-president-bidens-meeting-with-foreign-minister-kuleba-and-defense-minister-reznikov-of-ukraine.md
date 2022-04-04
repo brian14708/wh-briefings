@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-26'
 modified_time: 2022-03-26 08:51:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/26/readout-of-president-bidens-meeting-with-foreign-minister-kuleba-and-defense-minister-reznikov-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/26/readout-of-president-bidens-meeting-with-foreign-minister-kuleba-and-defense-minister-reznikov-of-ukraine/
 published_time: 2022-03-26 08:51:51-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Foreign Minister Kuleba and\
   \ Defense Minister Reznikov of\_Ukraine"

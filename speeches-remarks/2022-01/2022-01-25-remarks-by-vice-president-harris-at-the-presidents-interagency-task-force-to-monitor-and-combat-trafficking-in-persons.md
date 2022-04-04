@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-01-25'
 modified_time: 2022-01-25 16:23:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/25/remarks-by-vice-president-harris-at-the-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/25/remarks-by-vice-president-harris-at-the-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
 published_time: 2022-01-25 16:23:55-05:00
 title: "Remarks by Vice President Harris at the President\u2019s Interagency Task\
   \ Force to Monitor and Combat Trafficking in\_Persons"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-18'
 modified_time: 2021-12-01 11:42:33-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/18/executive-order-on-nondisplacement-of-qualified-workers-under-service-contracts/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/18/executive-order-on-nondisplacement-of-qualified-workers-under-service-contracts/
 published_time: 2021-11-18 13:15:09-05:00
 title: "Executive Order on Nondisplacement of Qualified Workers Under Service\_Contracts"
 ---

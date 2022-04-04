@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-21'
 modified_time: 2021-05-21 17:01:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/21/a-proclamation-on-national-safe-boating-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/21/a-proclamation-on-national-safe-boating-week-2021/
 published_time: 2021-05-21 17:00:59-04:00
 title: "A Proclamation on National Safe Boating Week,\_2021"
 ---

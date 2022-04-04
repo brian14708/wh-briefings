@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-24'
 modified_time: 2021-12-23 15:29:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/24/statement-by-vice-president-kamala-harris-on-the-john-r-lewis-voting-rights-advancement-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/24/statement-by-vice-president-kamala-harris-on-the-john-r-lewis-voting-rights-advancement-act/
 published_time: 2021-08-24 20:40:00-04:00
 title: "Statement by Vice President Kamala\_Harris on the John R. Lewis Voting Rights\
   \ Advancement\_Act"

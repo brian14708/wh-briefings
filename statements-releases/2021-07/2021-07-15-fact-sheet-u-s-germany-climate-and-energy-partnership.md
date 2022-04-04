@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/fact-sheet-u-s-germany-climate-and-energy-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/fact-sheet-u-s-germany-climate-and-energy-partnership/
 published_time: 2021-07-15 18:11:06-04:00
 title: "FACT SHEET: U.S.-Germany Climate and Energy\_Partnership"
 ---

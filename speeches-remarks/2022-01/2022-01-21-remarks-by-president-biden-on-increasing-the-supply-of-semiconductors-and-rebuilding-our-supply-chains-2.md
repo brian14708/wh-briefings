@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-01-21'
 modified_time: 2022-01-21 14:30:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/21/remarks-by-president-biden-on-increasing-the-supply-of-semiconductors-and-rebuilding-our-supply-chains-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/21/remarks-by-president-biden-on-increasing-the-supply-of-semiconductors-and-rebuilding-our-supply-chains-2/
 published_time: 2022-01-21 14:26:29-05:00
 title: "Background Press Call By Senior Administration Officials On President\_Biden\u2019\
   s Meeting With Prime Minister Kishida of\_Japan"

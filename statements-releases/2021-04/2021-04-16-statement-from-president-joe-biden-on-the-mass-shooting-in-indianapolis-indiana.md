@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-16'
 modified_time: 2021-04-16 12:05:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/statement-from-president-joe-biden-on-the-mass-shooting-in-indianapolis-indiana/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/statement-from-president-joe-biden-on-the-mass-shooting-in-indianapolis-indiana/
 published_time: 2021-04-16 12:05:43-04:00
 title: "Statement from President Joe\_Biden on the Mass Shooting in Indianapolis,\_\
   Indiana"

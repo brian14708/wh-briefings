@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-12'
 modified_time: 2021-10-12 17:30:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/12/press-briefing-by-press-secretary-jen-psaki-october-12-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/12/press-briefing-by-press-secretary-jen-psaki-october-12-2021/
 published_time: 2021-10-12 18:00:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, October 12,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-10'
 modified_time: 2021-08-10 19:36:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-president-biden-before-a-briefing-from-the-fema-administrator-homeland-security-and-covid-19-response-teams/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-president-biden-before-a-briefing-from-the-fema-administrator-homeland-security-and-covid-19-response-teams/
 published_time: 2021-08-10 20:00:00-04:00
 title: "Remarks by President\_Biden Before a Briefing from the FEMA Administrator,\
   \ Homeland Security, and COVID-\u206019 Response\_Teams"

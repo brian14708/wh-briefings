@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-25'
 modified_time: 2021-10-25 14:27:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/25/a-proclamation-on-advancing-the-safe-resumption-of-global-travel-during-the-covid-19-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/25/a-proclamation-on-advancing-the-safe-resumption-of-global-travel-during-the-covid-19-pandemic/
 published_time: 2021-10-25 14:27:15-04:00
 title: "A Proclamation on Advancing the Safe Resumption of Global Travel During the\
   \ COVID-\u206019\_Pandemic"

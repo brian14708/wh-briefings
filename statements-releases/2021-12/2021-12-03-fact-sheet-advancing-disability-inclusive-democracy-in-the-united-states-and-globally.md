@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-03'
 modified_time: 2022-03-02 11:05:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-advancing-disability-inclusive-democracy-in-the-united-states-and-globally/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-advancing-disability-inclusive-democracy-in-the-united-states-and-globally/
 published_time: 2021-12-03 10:00:00-05:00
 title: "Fact Sheet: Advancing Disability Inclusive Democracy in the United\_States\
   \ and\_Globally"

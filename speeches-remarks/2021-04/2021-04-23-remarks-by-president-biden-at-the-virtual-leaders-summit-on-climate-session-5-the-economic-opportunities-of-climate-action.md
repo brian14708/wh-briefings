@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-23'
 modified_time: 2021-04-23 12:52:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/23/remarks-by-president-biden-at-the-virtual-leaders-summit-on-climate-session-5-the-economic-opportunities-of-climate-action/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/23/remarks-by-president-biden-at-the-virtual-leaders-summit-on-climate-session-5-the-economic-opportunities-of-climate-action/
 published_time: 2021-04-23 12:52:24-04:00
 title: "Remarks by President\_Biden at the Virtual Leaders Summit on Climate Session\
   \ 5: The Economic Opportunities of Climate\_Action"

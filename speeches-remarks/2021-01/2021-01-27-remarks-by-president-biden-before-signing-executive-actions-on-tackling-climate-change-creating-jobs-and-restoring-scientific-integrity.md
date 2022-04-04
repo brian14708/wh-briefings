@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-01-27'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/27/remarks-by-president-biden-before-signing-executive-actions-on-tackling-climate-change-creating-jobs-and-restoring-scientific-integrity/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/27/remarks-by-president-biden-before-signing-executive-actions-on-tackling-climate-change-creating-jobs-and-restoring-scientific-integrity/
 published_time: 2021-01-27 18:35:21-05:00
 title: "Remarks by President\_Biden Before Signing Executive Actions on Tackling Climate\
   \ Change, Creating Jobs, and Restoring Scientific\_Integrity"

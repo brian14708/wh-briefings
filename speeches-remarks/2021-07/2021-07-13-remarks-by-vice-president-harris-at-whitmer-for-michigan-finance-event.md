@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-13'
 modified_time: 2021-07-14 17:43:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/13/remarks-by-vice-president-harris-at-whitmer-for-michigan-finance-event/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/13/remarks-by-vice-president-harris-at-whitmer-for-michigan-finance-event/
 published_time: 2021-07-13 17:41:00-04:00
 title: "Remarks by Vice President Harris at \u201CWhitmer for Michigan\u201D Finance\_\
   Event"

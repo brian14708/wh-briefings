@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-01'
 modified_time: 2021-06-01 14:40:23-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-black-music-appreciation-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/01/a-proclamation-on-black-music-appreciation-month-2021/
 published_time: 2021-06-01 14:40:22-04:00
 title: "A Proclamation on Black Music Appreciation Month,\_2021"
 ---

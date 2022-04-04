@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-29'
 modified_time: 2021-08-30 10:06:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/29/memorandum-on-the-designation-of-the-department-of-homeland-security-as-lead-federal-department-for-facilitating-the-entry-of-vulnerable-afghans-into-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/29/memorandum-on-the-designation-of-the-department-of-homeland-security-as-lead-federal-department-for-facilitating-the-entry-of-vulnerable-afghans-into-the-united-states/
 published_time: 2021-08-29 20:30:44-04:00
 title: "Memorandum on the Designation of the Department of Homeland Security as Lead\
   \ Federal Department for Facilitating the Entry of Vulnerable Afghans into the United\_\

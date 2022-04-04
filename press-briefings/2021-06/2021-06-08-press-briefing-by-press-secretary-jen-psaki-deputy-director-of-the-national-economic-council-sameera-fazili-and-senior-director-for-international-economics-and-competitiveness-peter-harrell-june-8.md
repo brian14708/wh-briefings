@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-08'
 modified_time: 2021-06-08 19:13:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/08/press-briefing-by-press-secretary-jen-psaki-deputy-director-of-the-national-economic-council-sameera-fazili-and-senior-director-for-international-economics-and-competitiveness-peter-harrell-june-8/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/08/press-briefing-by-press-secretary-jen-psaki-deputy-director-of-the-national-economic-council-sameera-fazili-and-senior-director-for-international-economics-and-competitiveness-peter-harrell-june-8/
 published_time: 2021-06-08 19:13:37-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, Deputy Director of the National\
   \ Economic Council Sameera Fazili, and Senior Director for International Economics\

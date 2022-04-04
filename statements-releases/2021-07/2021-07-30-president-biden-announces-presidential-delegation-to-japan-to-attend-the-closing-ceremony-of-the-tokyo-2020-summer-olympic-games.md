@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-30'
 modified_time: 2021-07-30 12:43:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-presidential-delegation-to-japan-to-attend-the-closing-ceremony-of-the-tokyo-2020-summer-olympic-games/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-presidential-delegation-to-japan-to-attend-the-closing-ceremony-of-the-tokyo-2020-summer-olympic-games/
 published_time: 2021-07-30 12:43:02-04:00
 title: "President\_Biden Announces Presidential Delegation to Japan to Attend the\
   \ Closing Ceremony of the Tokyo 2020 Summer Olympic\_Games"

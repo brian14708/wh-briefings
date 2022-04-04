@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-26'
 modified_time: 2021-07-25 22:27:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/26/background-press-call-by-a-senior-administration-official-previewing-the-visit-of-prime-minister-mustafa-al-kadhimi-of-the-republic-of-iraq/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/26/background-press-call-by-a-senior-administration-official-previewing-the-visit-of-prime-minister-mustafa-al-kadhimi-of-the-republic-of-iraq/
 published_time: 2021-07-26 05:00:00-04:00
 title: "Background Press Call by a Senior Administration Official Previewing the Visit\
   \ of Prime Minister Mustafa Al-Kadhimi of the Republic of\_Iraq"

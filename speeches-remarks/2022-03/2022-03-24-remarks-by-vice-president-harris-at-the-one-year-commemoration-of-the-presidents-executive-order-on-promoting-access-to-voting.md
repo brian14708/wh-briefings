@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-24'
 modified_time: 2022-03-30 14:21:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/24/remarks-by-vice-president-harris-at-the-one-year-commemoration-of-the-presidents-executive-order-on-promoting-access-to-voting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/24/remarks-by-vice-president-harris-at-the-one-year-commemoration-of-the-presidents-executive-order-on-promoting-access-to-voting/
 published_time: 2022-03-24 02:20:00-04:00
 title: "Remarks by Vice President Harris at the One-Year Commemoration of the President\u2019\
   s Executive Order on Promoting Access to\_Voting"

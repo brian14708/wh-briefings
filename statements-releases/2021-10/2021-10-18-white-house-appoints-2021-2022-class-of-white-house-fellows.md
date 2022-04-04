@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-18'
 modified_time: 2021-10-29 10:50:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/white-house-appoints-2021-2022-class-of-white-house-fellows/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/white-house-appoints-2021-2022-class-of-white-house-fellows/
 published_time: 2021-10-18 16:00:00-04:00
 title: "White\_House Appoints 2021-2022 Class of White\_House\_Fellows"
 ---

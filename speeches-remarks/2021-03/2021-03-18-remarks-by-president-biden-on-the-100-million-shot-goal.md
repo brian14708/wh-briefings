@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-18'
 modified_time: 2021-03-18 20:56:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/18/remarks-by-president-biden-on-the-100-million-shot-goal/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/18/remarks-by-president-biden-on-the-100-million-shot-goal/
 published_time: 2021-03-18 17:45:00-04:00
 title: "Remarks by President\_Biden on the 100 Million Shot\_Goal"
 ---

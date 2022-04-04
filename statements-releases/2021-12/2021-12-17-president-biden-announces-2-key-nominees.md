@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-17'
 modified_time: 2021-12-17 14:11:27-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/president-biden-announces-2-key-nominees/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/president-biden-announces-2-key-nominees/
 published_time: 2021-12-17 15:00:00-05:00
 title: "President\_Biden Announces 2 Key\_Nominees"
 ---

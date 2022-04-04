@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/statement-by-president-joe-biden-on-the-passing-of-sidney-poitier/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/statement-by-president-joe-biden-on-the-passing-of-sidney-poitier/
 published_time: 2022-01-07 17:06:18-05:00
 title: "Statement by President Joe\_Biden on the Passing of Sidney\_Poitier"
 ---

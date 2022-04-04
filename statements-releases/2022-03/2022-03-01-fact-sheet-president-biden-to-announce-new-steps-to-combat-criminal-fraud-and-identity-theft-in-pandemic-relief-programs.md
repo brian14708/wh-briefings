@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 19:21:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-new-steps-to-combat-criminal-fraud-and-identity-theft-in-pandemic-relief-programs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-new-steps-to-combat-criminal-fraud-and-identity-theft-in-pandemic-relief-programs/
 published_time: 2022-03-01 19:21:53-05:00
 title: "Fact Sheet: President\_Biden to Announce New Steps to Combat Criminal Fraud\
   \ and Identity Theft in Pandemic Relief\_Programs"

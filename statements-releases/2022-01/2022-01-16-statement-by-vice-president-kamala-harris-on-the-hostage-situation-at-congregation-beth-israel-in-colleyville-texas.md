@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-16'
 modified_time: 2022-01-16 10:04:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/16/statement-by-vice-president-kamala-harris-on-the-hostage-situation-at-congregation-beth-israel-in-colleyville-texas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/16/statement-by-vice-president-kamala-harris-on-the-hostage-situation-at-congregation-beth-israel-in-colleyville-texas/
 published_time: 2022-01-16 10:04:11-05:00
 title: "Statement by Vice President Kamala\_Harris on the Hostage Situation at Congregation\
   \ Beth Israel in Colleyville,\_Texas"

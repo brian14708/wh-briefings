@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/15/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-benjamin-netanyahu-of-israel-3/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/15/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-benjamin-netanyahu-of-israel-3/
 published_time: 2021-05-15 14:26:31-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Benjamin\
   \ Netanyahu of\_Israel"

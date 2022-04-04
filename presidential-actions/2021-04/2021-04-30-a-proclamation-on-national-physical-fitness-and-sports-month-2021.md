@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 16:40:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-physical-fitness-and-sports-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-physical-fitness-and-sports-month-2021/
 published_time: 2021-04-30 16:40:38-04:00
 title: "A Proclamation on National Physical Fitness And Sports Month,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-22'
 modified_time: 2022-02-22 19:30:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/22/remarks-by-president-biden-at-a-virtual-event-on-securing-critical-minerals-for-a-future-made-in-america/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/22/remarks-by-president-biden-at-a-virtual-event-on-securing-critical-minerals-for-a-future-made-in-america/
 published_time: 2022-02-22 19:30:45-05:00
 title: "Remarks by President\_Biden at a Virtual Event on Securing Critical Minerals\
   \ for a Future Made in\_America"

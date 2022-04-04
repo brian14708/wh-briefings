@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-23 08:09:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-foreign-minister-retno-marsudi-of-indonesia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-foreign-minister-retno-marsudi-of-indonesia/
 published_time: 2021-04-23 08:09:51-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Foreign Minister Retno Marsudi of\_Indonesia"

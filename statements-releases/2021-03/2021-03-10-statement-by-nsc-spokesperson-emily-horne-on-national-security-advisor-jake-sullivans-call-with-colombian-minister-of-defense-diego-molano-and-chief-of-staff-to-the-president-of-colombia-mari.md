@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-10'
 modified_time: 2021-03-10 18:22:06-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-colombian-minister-of-defense-diego-molano-and-chief-of-staff-to-the-president-of-colombia-mari/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-colombian-minister-of-defense-diego-molano-and-chief-of-staff-to-the-president-of-colombia-mari/
 published_time: 2021-03-10 18:22:05-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Colombian Minister of Defense Diego Molano and Chief\

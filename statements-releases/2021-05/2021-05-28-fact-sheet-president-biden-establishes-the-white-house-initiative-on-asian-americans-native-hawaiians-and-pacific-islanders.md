@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-28'
 modified_time: 2021-05-27 18:29:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/
 published_time: 2021-05-28 05:00:00-04:00
 title: "FACT SHEET: President\_Biden Establishes the White\_House Initiative on Asian\
   \ Americans, Native Hawaiians, and Pacific\_Islanders"

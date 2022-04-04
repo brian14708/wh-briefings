@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-17'
 modified_time: 2021-02-17 02:15:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/17/remarks-by-president-biden-in-a-cnn-town-hall-with-anderson-cooper/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/17/remarks-by-president-biden-in-a-cnn-town-hall-with-anderson-cooper/
 published_time: 2021-02-17 07:00:00-05:00
 title: "Remarks by President\_Biden in a CNN Town Hall with Anderson\_Cooper"
 ---

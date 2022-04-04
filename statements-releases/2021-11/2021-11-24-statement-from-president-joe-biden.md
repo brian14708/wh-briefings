@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-24'
 modified_time: 2021-11-24 14:41:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-from-president-joe-biden/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-from-president-joe-biden/
 published_time: 2021-11-24 14:41:21-05:00
 title: "Statement from President Joe\_Biden"
 ---

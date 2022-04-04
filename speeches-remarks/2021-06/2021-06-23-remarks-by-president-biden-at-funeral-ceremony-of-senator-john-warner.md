@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-23'
 modified_time: 2021-06-23 14:16:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-president-biden-at-funeral-ceremony-of-senator-john-warner/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-president-biden-at-funeral-ceremony-of-senator-john-warner/
 published_time: 2021-06-23 14:16:44-04:00
 title: "Remarks by President\_Biden at Funeral Ceremony of Senator John\_Warner"
 ---

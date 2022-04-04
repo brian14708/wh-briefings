@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-19'
 modified_time: 2021-02-19 16:19:33-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/19/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-kalamazoo-mi/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/19/press-gaggle-by-press-secretary-jen-psaki-aboard-air-force-one-en-route-kalamazoo-mi/
 published_time: 2021-02-19 16:12:23-05:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki Aboard Air Force One En Route Kalamazoo,\_\
   MI"

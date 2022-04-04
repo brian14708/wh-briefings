@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-07'
 modified_time: 2021-09-07 13:01:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/07/memorandum-on-the-continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/07/memorandum-on-the-continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act/
 published_time: 2021-09-07 13:01:21-04:00
 title: "Memorandum on the Continuation of the Exercise of Certain Authorities Under\
   \ the Trading With the Enemy\_Act"

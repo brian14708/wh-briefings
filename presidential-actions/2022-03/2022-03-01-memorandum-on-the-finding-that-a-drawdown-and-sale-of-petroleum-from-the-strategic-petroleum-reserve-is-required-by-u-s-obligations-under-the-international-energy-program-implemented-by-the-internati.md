@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-01'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/01/memorandum-on-the-finding-that-a-drawdown-and-sale-of-petroleum-from-the-strategic-petroleum-reserve-is-required-by-u-s-obligations-under-the-international-energy-program-implemented-by-the-internati/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/01/memorandum-on-the-finding-that-a-drawdown-and-sale-of-petroleum-from-the-strategic-petroleum-reserve-is-required-by-u-s-obligations-under-the-international-energy-program-implemented-by-the-internati/
 published_time: 2022-03-01 15:06:54-05:00
 title: "Memorandum on the Finding that a Drawdown and Sale of Petroleum from the Strategic\
   \ Petroleum Reserve is Required by U.S. Obligations Under the International Energy\

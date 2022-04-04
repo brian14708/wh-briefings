@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-13'
 modified_time: 2021-02-13 22:16:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/13/statement-by-president-joe-biden-on-the-senate-vote-in-the-trial-of-donald-trump/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/13/statement-by-president-joe-biden-on-the-senate-vote-in-the-trial-of-donald-trump/
 published_time: 2021-02-13 22:16:46-05:00
 title: "Statement by President Joe\_Biden on the Senate Vote in the Trial of Donald\_\
   Trump"

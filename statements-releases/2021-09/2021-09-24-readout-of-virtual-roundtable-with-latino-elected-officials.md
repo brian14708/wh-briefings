@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-24 17:14:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/readout-of-virtual-roundtable-with-latino-elected-officials/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/readout-of-virtual-roundtable-with-latino-elected-officials/
 published_time: 2021-09-24 17:14:50-04:00
 title: "Readout of Virtual Roundtable with Latino Elected\_Officials"
 ---

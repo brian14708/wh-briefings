@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-25'
 modified_time: 2022-03-25 07:06:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/statement-by-press-secretary-jen-psaki-announcing-president-bidens-meeting-with-prime-minister-lee-hsien-loong-of-singapore/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/statement-by-press-secretary-jen-psaki-announcing-president-bidens-meeting-with-prime-minister-lee-hsien-loong-of-singapore/
 published_time: 2022-03-25 10:00:00-04:00
 title: "Statement by Press Secretary Jen\_Psaki Announcing President\_Biden\u2019\
   s Meeting with Prime Minister Lee Hsien Loong of\_Singapore"

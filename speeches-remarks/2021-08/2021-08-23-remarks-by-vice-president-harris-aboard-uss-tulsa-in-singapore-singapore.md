@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-23'
 modified_time: 2021-09-07 13:10:11-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/23/remarks-by-vice-president-harris-aboard-uss-tulsa-in-singapore-singapore/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/23/remarks-by-vice-president-harris-aboard-uss-tulsa-in-singapore-singapore/
 published_time: 2021-08-23 19:21:00-04:00
 title: "Remarks by Vice President Harris Aboard USS Tulsa in Singapore,\_Singapore"
 ---

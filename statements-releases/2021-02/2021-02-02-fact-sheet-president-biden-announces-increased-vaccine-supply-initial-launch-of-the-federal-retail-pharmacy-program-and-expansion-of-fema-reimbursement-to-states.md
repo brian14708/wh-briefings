@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-02'
 modified_time: 2021-02-02 12:33:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/fact-sheet-president-biden-announces-increased-vaccine-supply-initial-launch-of-the-federal-retail-pharmacy-program-and-expansion-of-fema-reimbursement-to-states/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/fact-sheet-president-biden-announces-increased-vaccine-supply-initial-launch-of-the-federal-retail-pharmacy-program-and-expansion-of-fema-reimbursement-to-states/
 published_time: 2021-02-02 12:33:39-05:00
 title: "FACT SHEET: President\_Biden Announces Increased Vaccine Supply, Initial Launch\
   \ of the Federal Retail Pharmacy Program, and Expansion of FEMA Reimbursement to\_\

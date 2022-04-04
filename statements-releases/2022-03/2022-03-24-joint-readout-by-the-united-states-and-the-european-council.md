@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 16:57:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/joint-readout-by-the-united-states-and-the-european-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/joint-readout-by-the-united-states-and-the-european-council/
 published_time: 2022-03-24 16:57:56-04:00
 title: "Joint Readout by the United\_States and the European\_Council"
 ---

@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-19'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/19/remarks-by-president-biden-at-pfizer-manufacturing-site/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/19/remarks-by-president-biden-at-pfizer-manufacturing-site/
 published_time: 2021-02-19 19:51:34-05:00
 title: "Remarks by President\_Biden at Pfizer Manufacturing\_Site"
 ---

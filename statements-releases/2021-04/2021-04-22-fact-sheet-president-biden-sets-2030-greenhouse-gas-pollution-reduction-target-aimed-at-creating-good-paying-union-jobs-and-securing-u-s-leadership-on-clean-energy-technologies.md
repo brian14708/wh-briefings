@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-22'
 modified_time: 2021-04-21 22:52:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/
 published_time: 2021-04-22 06:00:00-04:00
 title: "FACT SHEET: President\_Biden Sets 2030 Greenhouse Gas Pollution Reduction\
   \ Target Aimed at Creating Good-Paying Union Jobs and Securing U.S. Leadership on\

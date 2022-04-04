@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-18'
 modified_time: 2021-05-18 07:13:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-president-biden-to-sign-presidential-memorandum-to-expand-access-to-legal-representation-and-the-courts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-president-biden-to-sign-presidential-memorandum-to-expand-access-to-legal-representation-and-the-courts/
 published_time: 2021-05-18 07:13:00-04:00
 title: "FACT SHEET: President\_Biden to Sign Presidential Memorandum to Expand Access\
   \ to Legal Representation and the\_Courts"

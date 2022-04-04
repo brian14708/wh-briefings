@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/press-release-nominations-sent-to-the-senate-8/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/press-release-nominations-sent-to-the-senate-8/
 published_time: 2022-03-08 15:53:49-05:00
 title: "Press Release: Nominations Sent to the\_Senate"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-02'
 modified_time: 2021-07-02 11:08:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/
 published_time: 2021-07-02 11:08:23-04:00
 title: "Statement of President Joe\_Biden on the Results of the Independent Review\
   \ Commission on Military Sexual\_Assault"

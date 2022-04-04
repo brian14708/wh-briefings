@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-09-22 23:19:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-meeting-between-senior-white-house-officials-and-congressional-black-caucus-members-on-the-situation-in-del-rio-tx/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-meeting-between-senior-white-house-officials-and-congressional-black-caucus-members-on-the-situation-in-del-rio-tx/
 published_time: 2021-09-22 23:19:38-04:00
 title: "Readout of Meeting Between Senior White\_House Officials and Congressional\
   \ Black Caucus Members on the Situation in Del Rio,\_TX"

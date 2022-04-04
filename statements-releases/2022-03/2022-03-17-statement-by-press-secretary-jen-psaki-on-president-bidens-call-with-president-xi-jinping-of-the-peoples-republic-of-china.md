@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-17'
 modified_time: 2022-03-17 08:01:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
 published_time: 2022-03-17 08:01:52-04:00
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Call with\
   \ President Xi Jinping of the People\u2019s Republic of\_China"

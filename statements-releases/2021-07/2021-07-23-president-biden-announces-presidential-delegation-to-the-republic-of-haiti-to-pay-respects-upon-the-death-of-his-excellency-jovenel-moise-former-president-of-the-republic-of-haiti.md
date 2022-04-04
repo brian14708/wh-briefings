@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-23 00:38:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/president-biden-announces-presidential-delegation-to-the-republic-of-haiti-to-pay-respects-upon-the-death-of-his-excellency-jovenel-moise-former-president-of-the-republic-of-haiti/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/president-biden-announces-presidential-delegation-to-the-republic-of-haiti-to-pay-respects-upon-the-death-of-his-excellency-jovenel-moise-former-president-of-the-republic-of-haiti/
 published_time: 2021-07-23 06:00:00-04:00
 title: "President\_Biden Announces Presidential Delegation to the Republic of Haiti\
   \ to Pay Respects upon the Death of His Excellency Jovenel Mo\xEFse, Former President\

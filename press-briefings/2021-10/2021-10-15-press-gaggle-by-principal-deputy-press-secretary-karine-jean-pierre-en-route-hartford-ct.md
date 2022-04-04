@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-15'
 modified_time: 2021-10-17 09:37:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/15/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-hartford-ct/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/15/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-hartford-ct/
 published_time: 2021-10-15 14:40:24-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Hartford,\_CT"

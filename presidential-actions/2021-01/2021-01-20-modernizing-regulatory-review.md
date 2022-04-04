@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/modernizing-regulatory-review/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/modernizing-regulatory-review/
 published_time: 2021-01-20 21:52:01-05:00
 title: Modernizing Regulatory Review
 ---

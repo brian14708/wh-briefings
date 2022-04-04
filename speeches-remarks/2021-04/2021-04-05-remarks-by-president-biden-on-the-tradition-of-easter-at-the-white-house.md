@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-05'
 modified_time: 2021-04-05 14:53:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/05/remarks-by-president-biden-on-the-tradition-of-easter-at-the-white-house/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/05/remarks-by-president-biden-on-the-tradition-of-easter-at-the-white-house/
 published_time: 2021-04-05 15:00:00-04:00
 title: "Remarks by President\_Biden on the Tradition of Easter at the White\_House"
 ---

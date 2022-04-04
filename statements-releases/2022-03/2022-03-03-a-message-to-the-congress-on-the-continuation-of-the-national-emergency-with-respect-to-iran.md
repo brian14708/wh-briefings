@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
 published_time: 2022-03-03 14:39:12-05:00
 title: "A Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to\_Iran"

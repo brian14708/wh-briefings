@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-03-29'
 modified_time: 2021-03-29 13:23:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-malicious-cyber-enabled-activities/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-malicious-cyber-enabled-activities/
 published_time: 2021-03-29 13:23:13-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Significant\
   \ Malicious Cyber-Enabled\_Activities"

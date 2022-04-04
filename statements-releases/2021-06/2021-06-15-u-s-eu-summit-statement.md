@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 12:03:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/u-s-eu-summit-statement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/u-s-eu-summit-statement/
 published_time: 2021-06-15 12:02:45-04:00
 title: U.S.-EU Summit Statement
 ---

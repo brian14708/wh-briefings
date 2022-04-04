@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-ibrahim-kalin-spokesperson-and-chief-advisor-to-the-president-of-turkey-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-ibrahim-kalin-spokesperson-and-chief-advisor-to-the-president-of-turkey-4/
 published_time: 2022-01-10 15:30:22-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Ibrahim Kalin, Spokesperson and Chief Advisor to the\

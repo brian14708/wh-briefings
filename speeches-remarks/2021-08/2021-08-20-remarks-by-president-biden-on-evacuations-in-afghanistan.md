@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-20'
 modified_time: 2021-08-20 16:36:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/20/remarks-by-president-biden-on-evacuations-in-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/20/remarks-by-president-biden-on-evacuations-in-afghanistan/
 published_time: 2021-08-20 16:36:12-04:00
 title: "Remarks by President\_Biden on Evacuations in\_Afghanistan"
 ---

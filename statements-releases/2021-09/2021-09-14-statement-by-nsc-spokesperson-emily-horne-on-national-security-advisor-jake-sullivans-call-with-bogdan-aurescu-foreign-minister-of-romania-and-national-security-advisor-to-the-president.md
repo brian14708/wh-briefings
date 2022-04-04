@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/14/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-bogdan-aurescu-foreign-minister-of-romania-and-national-security-advisor-to-the-president/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/14/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-bogdan-aurescu-foreign-minister-of-romania-and-national-security-advisor-to-the-president/
 published_time: 2021-09-14 16:56:51-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Bogdan Aurescu, Foreign Minister of Romania and National\

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-03'
 modified_time: 2021-06-03 10:15:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/
 published_time: 2021-06-03 10:15:40-04:00
 title: "Memorandum on Establishing the Fight Against Corruption as a Core United\_\
   States National Security\_Interest"

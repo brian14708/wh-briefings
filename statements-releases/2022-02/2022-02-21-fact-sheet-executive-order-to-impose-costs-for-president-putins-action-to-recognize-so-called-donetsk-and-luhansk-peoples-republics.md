@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-21'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/21/fact-sheet-executive-order-to-impose-costs-for-president-putins-action-to-recognize-so-called-donetsk-and-luhansk-peoples-republics/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/21/fact-sheet-executive-order-to-impose-costs-for-president-putins-action-to-recognize-so-called-donetsk-and-luhansk-peoples-republics/
 published_time: 2022-02-21 18:29:07-05:00
 title: "FACT SHEET: Executive Order to Impose Costs for President Putin\u2019s Action\
   \ to Recognize So-Called Donetsk and Luhansk People\u2019s\_Republics"

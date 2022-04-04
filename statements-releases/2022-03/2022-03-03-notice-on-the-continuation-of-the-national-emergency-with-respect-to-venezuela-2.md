@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela-2/
 published_time: 2022-03-03 14:24:20-05:00
 title: "Notice on the Continuation of the National Emergency With Respect to\_Venezuela"
 ---

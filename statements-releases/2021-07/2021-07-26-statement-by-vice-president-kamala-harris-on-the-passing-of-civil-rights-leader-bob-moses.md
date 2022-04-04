@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-26'
 modified_time: 2021-12-23 16:47:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/statement-by-vice-president-kamala-harris-on-the-passing-of-civil-rights-leader-bob-moses/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/statement-by-vice-president-kamala-harris-on-the-passing-of-civil-rights-leader-bob-moses/
 published_time: 2021-07-26 17:47:00-04:00
 title: "Statement by Vice President Kamala\_Harris on the Passing of Civil Rights\
   \ Leader, Bob\_Moses"

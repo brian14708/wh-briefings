@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-28'
 modified_time: 2022-01-28 08:27:20-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/joint-statement-by-president-biden-and-president-von-der-leyen-on-u-s-eu-cooperation-on-energy-security/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/joint-statement-by-president-biden-and-president-von-der-leyen-on-u-s-eu-cooperation-on-energy-security/
 published_time: 2022-01-28 09:15:00-05:00
 title: "Joint Statement by President\_Biden and President von der Leyen on U.S.-EU\
   \ Cooperation on Energy\_Security"

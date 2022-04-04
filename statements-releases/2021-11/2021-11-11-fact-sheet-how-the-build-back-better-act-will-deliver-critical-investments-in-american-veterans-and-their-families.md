@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-11'
 modified_time: 2021-11-10 16:55:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/11/fact-sheet-how-the-build-back-better-act-will-deliver-critical-investments-in-american-veterans-and-their-families/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/11/fact-sheet-how-the-build-back-better-act-will-deliver-critical-investments-in-american-veterans-and-their-families/
 published_time: 2021-11-11 07:15:00-05:00
 title: "FACT SHEET: How the Build Back Better Act Will Deliver Critical Investments\
   \ in American Veterans and their\_Families"

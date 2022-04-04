@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-16'
 modified_time: 2021-08-16 21:26:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/16/memorandum-for-the-secretary-of-state-on-unexpected-urgent-refugee-and-migration-needs-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/16/memorandum-for-the-secretary-of-state-on-unexpected-urgent-refugee-and-migration-needs-2/
 published_time: 2021-08-16 21:26:00-04:00
 title: "Memorandum for the Secretary of State on Unexpected Urgent Refugee and Migration\_\
   Needs"

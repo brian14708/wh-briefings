@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-26'
 modified_time: 2021-07-26 09:15:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/president-biden-announces-eight-nominees-to-serve-as-u-s-attorneys/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/president-biden-announces-eight-nominees-to-serve-as-u-s-attorneys/
 published_time: 2021-07-26 10:15:00-04:00
 title: "President\_Biden Announces Eight\_Nominees to Serve as U.S.\_Attorneys"
 ---

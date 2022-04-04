@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-29'
 modified_time: 2021-03-29 10:48:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/
 published_time: 2021-03-29 09:38:29-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Multi-Agency Effort\
   \ to Support Renters and\_Landlords"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-02'
 modified_time: 2021-11-02 08:29:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-the-action-on-forests-and-land-use-event/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-the-action-on-forests-and-land-use-event/
 published_time: 2021-11-02 08:29:08-04:00
 title: "Remarks by President\_Biden at the \u201CAction on Forests and Land-Use\u201D\
   \_Event"

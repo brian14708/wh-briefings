@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 18:42:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/
 published_time: 2021-06-30 19:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equality for Transgender\_\
   Americans"

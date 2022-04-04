@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-05'
 modified_time: 2021-10-05 12:40:43-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/05/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-europe/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/05/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-europe/
 published_time: 2021-10-05 12:40:42-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Trip to\_Europe"

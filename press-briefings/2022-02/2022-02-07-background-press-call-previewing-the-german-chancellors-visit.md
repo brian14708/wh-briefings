@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-07'
 modified_time: 2022-02-07 07:55:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/07/background-press-call-previewing-the-german-chancellors-visit/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/07/background-press-call-previewing-the-german-chancellors-visit/
 published_time: 2022-02-07 05:00:00-05:00
 title: "Background Press Call Previewing the German Chancellor\u2019s\_Visit"
 ---

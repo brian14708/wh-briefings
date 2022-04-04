@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-08'
 modified_time: 2021-10-08 13:38:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/
 published_time: 2021-10-08 13:38:58-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Unprecedented OECD Agreement\
   \ for a Global Minimum\_Tax"

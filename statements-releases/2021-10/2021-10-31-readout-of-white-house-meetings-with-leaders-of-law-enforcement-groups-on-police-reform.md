@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-31'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/readout-of-white-house-meetings-with-leaders-of-law-enforcement-groups-on-police-reform/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/readout-of-white-house-meetings-with-leaders-of-law-enforcement-groups-on-police-reform/
 published_time: 2021-10-31 13:19:08-04:00
 title: "Readout of White\_House Meetings with Leaders of Law Enforcement Groups on\
   \ Police\_Reform"

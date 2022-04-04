@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-12'
 modified_time: 2021-04-20 08:20:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/president-biden-announces-his-intent-to-nominate-key-members-for-the-u-s-department-of-homeland-security/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/president-biden-announces-his-intent-to-nominate-key-members-for-the-u-s-department-of-homeland-security/
 published_time: 2021-04-12 11:47:50-04:00
 title: "President\_Biden Announces His Intent to Nominate Key Members for the U.S.\
   \ Department of Homeland\_Security"

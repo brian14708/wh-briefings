@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-11'
 modified_time: 2021-11-10 16:53:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/11/fact-sheet-biden-administration-announces-actions-to-address-the-health-effects-of-military-exposures/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/11/fact-sheet-biden-administration-announces-actions-to-address-the-health-effects-of-military-exposures/
 published_time: 2021-11-11 07:15:00-05:00
 title: "FACT SHEET: Biden Administration Announces Actions to Address the Health Effects\
   \ of Military\_Exposures"

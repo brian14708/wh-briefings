@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-04'
 modified_time: 2021-02-04 12:19:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/president-joseph-r-biden-jr-approves-maryland-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/president-joseph-r-biden-jr-approves-maryland-disaster-declaration/
 published_time: 2021-02-04 12:21:00-05:00
 title: "President Joseph R. Biden, Jr. Approves Maryland Disaster\_Declaration"
 ---

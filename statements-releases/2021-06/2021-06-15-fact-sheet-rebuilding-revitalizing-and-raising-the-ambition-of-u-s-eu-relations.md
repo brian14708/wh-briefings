@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-14 19:20:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-rebuilding-revitalizing-and-raising-the-ambition-of-u-s-eu-relations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-rebuilding-revitalizing-and-raising-the-ambition-of-u-s-eu-relations/
 published_time: 2021-06-15 01:00:00-04:00
 title: "FACT SHEET: Rebuilding, Revitalizing, and Raising the Ambition of U.S.-EU\_\
   Relations"

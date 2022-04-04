@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-26'
 modified_time: 2021-12-26 20:48:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/26/remarks-by-president-biden-and-first-lady-jill-biden-in-a-virtual-meeting-with-service-members-on-christmas-day/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/26/remarks-by-president-biden-and-first-lady-jill-biden-in-a-virtual-meeting-with-service-members-on-christmas-day/
 published_time: 2021-12-26 21:16:00-05:00
 title: "Remarks by President\_Biden and First Lady Jill\_Biden in a Virtual Meeting\
   \ with Service Members on Christmas\_Day"

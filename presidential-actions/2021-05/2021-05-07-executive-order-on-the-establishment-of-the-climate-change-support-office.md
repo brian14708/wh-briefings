@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-07'
 modified_time: 2021-05-07 13:42:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/executive-order-on-the-establishment-of-the-climate-change-support-office/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/07/executive-order-on-the-establishment-of-the-climate-change-support-office/
 published_time: 2021-05-07 13:42:38-04:00
 title: "Executive Order on the Establishment of the Climate Change Support\_Office"
 ---

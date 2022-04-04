@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-11-22'
 modified_time: 2021-11-22 22:11:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/22/press-gaggle-by-press-secretary-jen-psaki-en-route-fort-bragg-nc/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/22/press-gaggle-by-press-secretary-jen-psaki-en-route-fort-bragg-nc/
 published_time: 2021-11-22 22:30:00-05:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki En Route Fort Bragg,\_NC"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-25'
 modified_time: 2022-03-25 07:17:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/25/remarks-by-president-biden-and-european-commission-president-ursula-von-der-leyen-in-joint-press-statement/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/25/remarks-by-president-biden-and-european-commission-president-ursula-von-der-leyen-in-joint-press-statement/
 published_time: 2022-03-25 07:30:00-04:00
 title: "Remarks by President\_Biden and European Commission President Ursula von der\
   \ Leyen in Joint Press\_Statement"

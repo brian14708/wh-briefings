@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-27'
 modified_time: 2022-02-27 23:51:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/27/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/27/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-4/
 published_time: 2022-02-27 23:51:37-05:00
 title: "President Joseph R. Biden, Jr. Approves Kentucky Disaster\_Declaration"
 ---

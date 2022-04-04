@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-18'
 modified_time: 2021-02-18 17:25:14-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/president-joseph-r-biden-jr-approves-louisiana-emergency-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/president-joseph-r-biden-jr-approves-louisiana-emergency-declaration/
 published_time: 2021-02-18 17:25:13-05:00
 title: "President Joseph R. Biden, Jr. Approves Louisiana Emergency\_Declaration"
 ---

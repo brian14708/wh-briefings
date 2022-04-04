@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-14'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/background-press-call-by-a-senior-administration-official-on-cybersecurity/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/background-press-call-by-a-senior-administration-official-on-cybersecurity/
 published_time: 2022-01-14 18:12:13-05:00
 title: "Background Press Call by a Senior Administration Official on\_Cybersecurity"
 ---

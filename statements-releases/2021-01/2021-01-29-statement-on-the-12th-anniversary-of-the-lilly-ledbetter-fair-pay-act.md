@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-29'
 modified_time: 2021-01-29 16:25:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/29/statement-on-the-12th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/29/statement-on-the-12th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
 published_time: 2021-01-29 16:25:21-05:00
 title: "Statement on the 12th Anniversary of the Lilly Ledbetter Fair Pay\_Act"
 ---

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-23'
 modified_time: 2021-04-23 14:27:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-31/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-31/
 published_time: 2021-04-23 14:16:00-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

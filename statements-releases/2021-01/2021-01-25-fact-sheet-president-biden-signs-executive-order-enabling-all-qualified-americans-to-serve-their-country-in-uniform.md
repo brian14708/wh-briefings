@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-25'
 modified_time: 2021-01-25 14:06:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/
 published_time: 2021-01-25 11:30:00-05:00
 title: "Fact Sheet: President\_Biden Signs Executive Order Enabling All Qualified\
   \ Americans to Serve Their Country in\_Uniform"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-14'
 modified_time: 2021-06-14 14:14:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/14/a-proclamation-on-world-elder-abuse-awareness-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/14/a-proclamation-on-world-elder-abuse-awareness-day-2021/
 published_time: 2021-06-14 14:14:02-04:00
 title: "A Proclamation on World Elder Abuse Awareness Day,\_2021"
 ---

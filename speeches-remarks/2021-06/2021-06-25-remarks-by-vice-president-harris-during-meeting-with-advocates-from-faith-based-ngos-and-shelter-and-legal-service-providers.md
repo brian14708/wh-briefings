@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-25'
 modified_time: 2021-06-28 12:12:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-vice-president-harris-during-meeting-with-advocates-from-faith-based-ngos-and-shelter-and-legal-service-providers/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-vice-president-harris-during-meeting-with-advocates-from-faith-based-ngos-and-shelter-and-legal-service-providers/
 published_time: 2021-06-25 12:10:00-04:00
 title: "Remarks by Vice President Harris During Meeting with Advocates from Faith-Based\
   \ NGOs, and Shelter and Legal Service\_Providers"

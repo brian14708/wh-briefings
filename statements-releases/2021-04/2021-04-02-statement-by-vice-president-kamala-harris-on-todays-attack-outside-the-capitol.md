@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-02'
 modified_time: 2022-01-04 16:43:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/statement-by-vice-president-kamala-harris-on-todays-attack-outside-the-capitol/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/statement-by-vice-president-kamala-harris-on-todays-attack-outside-the-capitol/
 published_time: 2021-04-02 18:24:00-04:00
 title: "Statement by Vice President Kamala\_Harris on Today\u2019s Attack Outside\
   \ the\_Capitol"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-16'
 modified_time: 2021-12-15 19:39:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/
 published_time: 2021-12-16 05:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Lead Pipe and Paint Action\_Plan"
 ---

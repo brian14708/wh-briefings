@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-26'
 modified_time: 2021-05-28 12:36:43-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/president-biden-announces-more-key-administration-nominations-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/president-biden-announces-more-key-administration-nominations-2/
 published_time: 2021-05-26 12:35:00-04:00
 title: "President\_Biden Announces More Key Administration\_Nominations"
 ---

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-03'
 modified_time: 2021-06-03 14:19:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/executive-order-on-addressing-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/executive-order-on-addressing-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
 published_time: 2021-06-03 14:19:53-04:00
 title: "Executive Order on Addressing the Threat from Securities Investments that\
   \ Finance Certain Companies of the People\u2019s Republic of\_China"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-12'
 modified_time: 2022-02-12 19:32:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/background-press-call-by-a-senior-administration-official-on-the-presidents-call-with-russian-president-vladimir-putin/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/background-press-call-by-a-senior-administration-official-on-the-presidents-call-with-russian-president-vladimir-putin/
 published_time: 2022-02-12 19:45:00-05:00
 title: "Background Press Call by a Senior Administration Official on the President\u2019\
   s Call with Russian President Vladimir\_Putin"

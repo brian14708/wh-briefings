@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/statement-by-president-joseph-r-biden-jr-on-the-introduction-of-the-equality-act-in-congress/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/statement-by-president-joseph-r-biden-jr-on-the-introduction-of-the-equality-act-in-congress/
 published_time: 2021-02-19 10:26:39-05:00
 title: "Statement by President Joseph R. Biden, Jr. on the Introduction of the Equality\
   \ Act in\_Congress"

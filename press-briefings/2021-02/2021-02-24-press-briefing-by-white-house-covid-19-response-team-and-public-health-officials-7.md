@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-24'
 modified_time: 2021-02-24 13:43:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/24/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-7/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/24/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-7/
 published_time: 2021-02-24 13:43:57-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

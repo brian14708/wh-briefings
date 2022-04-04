@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-17'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/17/executive-order-on-the-revocation-of-executive-order-13801/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/17/executive-order-on-the-revocation-of-executive-order-13801/
 published_time: 2021-02-17 19:20:46-05:00
 title: "Executive Order on the Revocation of Executive Order\_13801"
 ---

@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-03-29'
 modified_time: 2022-03-29 18:29:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-vice-president-harris-and-prime-minister-lee-hsien-loong-of-singapore-in-joint-press-statements/
 published_time: 2022-03-29 16:36:10-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-vice-president-harris-and-prime-minister-lee-hsien-loong-of-singapore-in-joint-press-statements/
+tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Lee Hsien Loong of Singapore\
   \ in Joint Press\_Statements"
 ---

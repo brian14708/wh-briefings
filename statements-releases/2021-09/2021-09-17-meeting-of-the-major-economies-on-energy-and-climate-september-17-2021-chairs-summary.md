@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-17'
 modified_time: 2021-09-17 17:34:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/meeting-of-the-major-economies-on-energy-and-climate-september-17-2021-chairs-summary/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/meeting-of-the-major-economies-on-energy-and-climate-september-17-2021-chairs-summary/
 published_time: 2021-09-17 17:34:57-04:00
 title: "Meeting of the Major Economies on Energy and Climate September 17, 2021: Chair\u2019\
   s\_Summary"

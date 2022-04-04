@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-31'
 modified_time: 2021-08-31 22:45:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/31/readout-of-president-bidens-call-with-energy-sector-leaders-on-restoring-power-after-hurricane-ida/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/31/readout-of-president-bidens-call-with-energy-sector-leaders-on-restoring-power-after-hurricane-ida/
 published_time: 2021-08-31 22:45:48-04:00
 title: "Readout of President\_Biden\u2019s Call with Energy Sector Leaders on Restoring\
   \ Power after Hurricane\_Ida"

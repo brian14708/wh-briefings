@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-08'
 modified_time: 2021-10-08 16:53:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/president-biden-announces-key-nominations-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/president-biden-announces-key-nominations-4/
 published_time: 2021-10-08 16:15:00-04:00
 title: "President\_Biden Announces Key\_Nominations"
 ---

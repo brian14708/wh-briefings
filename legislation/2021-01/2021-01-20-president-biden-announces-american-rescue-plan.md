@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-01-20'
 modified_time: 2021-03-12 10:04:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/01/20/president-biden-announces-american-rescue-plan/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/01/20/president-biden-announces-american-rescue-plan/
 published_time: 2021-01-20 18:30:00-05:00
 title: "President\_Biden Announces American Rescue\_Plan"
 ---

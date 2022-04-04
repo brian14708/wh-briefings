@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-02-07'
 modified_time: 2022-02-07 17:04:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/07/continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/07/continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
 published_time: 2022-02-07 16:59:12-05:00
 title: "Notice on the Continuation of the National Emergency With Respect to the Situation\
   \ in and in Relation to\_Burma"

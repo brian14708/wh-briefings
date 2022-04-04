@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 14:57:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/chairs-statement-on-principles-for-supply-chain-resilience/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/chairs-statement-on-principles-for-supply-chain-resilience/
 published_time: 2021-10-31 14:57:13-04:00
 title: "Chair\u2019s Statement on Principles for Supply Chain\_Resilience"
 ---

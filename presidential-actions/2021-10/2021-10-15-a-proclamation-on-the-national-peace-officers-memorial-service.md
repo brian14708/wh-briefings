@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-15'
 modified_time: 2021-10-15 16:36:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/15/a-proclamation-on-the-national-peace-officers-memorial-service/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/15/a-proclamation-on-the-national-peace-officers-memorial-service/
 published_time: 2021-10-15 16:36:08-04:00
 title: "A Proclamation on the National Peace Officers\u2019 Memorial\_Service"
 ---

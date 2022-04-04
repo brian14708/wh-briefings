@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-21 20:53:14-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-president-biden-on-4-6-million-americans-gaining-health-insurance-this-year/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-president-biden-on-4-6-million-americans-gaining-health-insurance-this-year/
 published_time: 2021-12-22 07:00:00-05:00
 title: "Statement by President\_Biden on 4.6 Million Americans Gaining Health Insurance\
   \ This\_Year"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-26'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/26/readout-of-president-bidens-meeting-with-president-andrzej-duda-of-poland-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/26/readout-of-president-bidens-meeting-with-president-andrzej-duda-of-poland-2/
 published_time: 2022-03-26 11:01:34-04:00
 title: "Readout of President\_Biden\u2019s Meeting with President Andrzej Duda of\_\
   Poland"

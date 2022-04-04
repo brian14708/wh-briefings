@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-29'
 modified_time: 2022-03-29 13:07:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/u-s-singapore-joint-leaders-statement/
 published_time: 2022-03-29 13:15:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/u-s-singapore-joint-leaders-statement/
+tags: statements-releases
 title: "U.S.-Singapore Joint Leaders\u2019\_Statement"
 ---
  

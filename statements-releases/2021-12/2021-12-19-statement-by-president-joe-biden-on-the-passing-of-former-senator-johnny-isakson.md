@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/19/statement-by-president-joe-biden-on-the-passing-of-former-senator-johnny-isakson/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/19/statement-by-president-joe-biden-on-the-passing-of-former-senator-johnny-isakson/
 published_time: 2021-12-19 14:24:44-05:00
 title: "Statement by President Joe\_Biden on the Passing of Former Senator Johnny\_\
   Isakson"

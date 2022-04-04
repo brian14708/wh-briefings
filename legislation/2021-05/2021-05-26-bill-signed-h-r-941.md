@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-05-26'
 modified_time: 2022-03-15 11:31:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/05/26/bill-signed-h-r-941/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/05/26/bill-signed-h-r-941/
 published_time: 2021-05-26 11:29:09-04:00
 title: "Bill Signed: H.R.\_941"
 ---

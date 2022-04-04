@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-26'
 modified_time: 2021-05-26 12:45:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-investigation-into-the-origins-of-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-investigation-into-the-origins-of-covid-19/
 published_time: 2021-05-26 12:45:45-04:00
 title: "Statement by President Joe\_Biden on the Investigation into the Origins of\_\
   COVID-\u206019"

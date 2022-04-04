@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-19'
 modified_time: 2021-07-18 20:27:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/19/background-press-call-by-senior-administration-officials-on-malicious-cyber-activity-attributable-to-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/19/background-press-call-by-senior-administration-officials-on-malicious-cyber-activity-attributable-to-the-peoples-republic-of-china/
 published_time: 2021-07-19 07:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on Malicious Cyber\
   \ Activity Attributable to the People\u2019s Republic of\_China"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 11:00:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/u-s-president-biden-european-commission-president-von-der-leyen-and-uk-prime-minister-johnson-announce-commitment-to-addressing-climate-crisis-through-infrastructure-development/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/u-s-president-biden-european-commission-president-von-der-leyen-and-uk-prime-minister-johnson-announce-commitment-to-addressing-climate-crisis-through-infrastructure-development/
 published_time: 2021-11-02 11:00:07-04:00
 title: "U.S. President\_Biden, European Commission President Von Der Leyen, And UK\
   \ Prime Minister Johnson Announce Commitment To Addressing Climate Crisis Through\

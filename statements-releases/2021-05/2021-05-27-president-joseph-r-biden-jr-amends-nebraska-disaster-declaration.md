@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-27'
 modified_time: 2021-05-28 10:39:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/president-joseph-r-biden-jr-amends-nebraska-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/president-joseph-r-biden-jr-amends-nebraska-disaster-declaration/
 published_time: 2021-05-27 10:29:00-04:00
 title: "President Joseph R. Biden, Jr. Amends Nebraska Disaster\_Declaration"
 ---

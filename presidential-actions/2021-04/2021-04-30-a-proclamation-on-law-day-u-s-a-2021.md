@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 16:54:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-law-day-u-s-a-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-law-day-u-s-a-2021/
 published_time: 2021-04-30 16:54:30-04:00
 title: "A Proclamation on Law Day, U.S.A,\_2021"
 ---

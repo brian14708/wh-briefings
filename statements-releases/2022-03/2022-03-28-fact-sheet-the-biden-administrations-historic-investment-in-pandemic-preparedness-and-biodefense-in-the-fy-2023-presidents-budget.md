@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-28'
 modified_time: 2022-03-28 14:24:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/fact-sheet-the-biden-administrations-historic-investment-in-pandemic-preparedness-and-biodefense-in-the-fy-2023-presidents-budget/
 published_time: 2022-03-28 12:00:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/fact-sheet-the-biden-administrations-historic-investment-in-pandemic-preparedness-and-biodefense-in-the-fy-2023-presidents-budget/
+tags: statements-releases
 title: "FACT SHEET: The Biden Administration\u2019s Historic Investment in Pandemic\
   \ Preparedness and Biodefense in the FY 2023 President\u2019s\_Budget"
 ---

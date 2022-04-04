@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-01-29'
 modified_time: 2021-02-01 09:37:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/29/press-briefing-by-press-secretary-jen-psaki-january-29-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/29/press-briefing-by-press-secretary-jen-psaki-january-29-2021/
 published_time: 2021-01-29 21:30:34-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, January 29,\_2021"
 ---

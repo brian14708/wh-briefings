@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-03-28'
 modified_time: 2022-03-28 18:08:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/28/press-briefing-by-deputy-press-secretary-andrew-bates-omb-director-shalanda-young-and-cea-chair-cecilia-rouse/
 published_time: 2022-03-28 18:08:05-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/28/press-briefing-by-deputy-press-secretary-andrew-bates-omb-director-shalanda-young-and-cea-chair-cecilia-rouse/
+tags: speeches-remarks
 title: "Press Briefing by Deputy Press Secretary Andrew Bates, OMB Director Shalanda\
   \ Young, and CEA Chair Cecilia\_Rouse"
 ---

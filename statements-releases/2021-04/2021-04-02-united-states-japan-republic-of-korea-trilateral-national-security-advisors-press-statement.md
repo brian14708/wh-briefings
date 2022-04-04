@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-02'
 modified_time: 2021-04-02 17:22:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/united-states-japan-republic-of-korea-trilateral-national-security-advisors-press-statement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/united-states-japan-republic-of-korea-trilateral-national-security-advisors-press-statement/
 published_time: 2021-04-02 17:22:57-04:00
 title: "United\_States-Japan-Republic of Korea Trilateral National Security Advisors\u2019\
   \ Press\_Statement"

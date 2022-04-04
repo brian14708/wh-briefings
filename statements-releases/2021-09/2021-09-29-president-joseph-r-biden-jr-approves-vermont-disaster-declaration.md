@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-29'
 modified_time: 2021-09-29 16:39:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/president-joseph-r-biden-jr-approves-vermont-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/president-joseph-r-biden-jr-approves-vermont-disaster-declaration/
 published_time: 2021-09-29 16:39:29-04:00
 title: "President Joseph R. Biden, Jr. Approves Vermont Disaster\_Declaration"
 ---

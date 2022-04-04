@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-07'
 modified_time: 2021-10-06 15:53:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/statement-by-president-joseph-r-biden-jr-on-the-occasion-of-archbishop-desmond-tutus-birthday/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/statement-by-president-joseph-r-biden-jr-on-the-occasion-of-archbishop-desmond-tutus-birthday/
 published_time: 2021-10-07 00:00:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Occasion of Archbishop\
   \ Desmond Tutu\u2019s\_Birthday"

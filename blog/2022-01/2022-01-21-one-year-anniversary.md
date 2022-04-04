@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2022-01-21'
 modified_time: 2022-01-21 09:53:35-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2022/01/21/one-year-anniversary/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2022/01/21/one-year-anniversary/
 published_time: 2022-01-21 09:53:34-05:00
 title: One Year Anniversary
 ---

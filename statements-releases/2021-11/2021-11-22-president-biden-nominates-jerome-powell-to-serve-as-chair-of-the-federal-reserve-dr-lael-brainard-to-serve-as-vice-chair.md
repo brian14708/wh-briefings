@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-22'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/president-biden-nominates-jerome-powell-to-serve-as-chair-of-the-federal-reserve-dr-lael-brainard-to-serve-as-vice-chair/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/president-biden-nominates-jerome-powell-to-serve-as-chair-of-the-federal-reserve-dr-lael-brainard-to-serve-as-vice-chair/
 published_time: 2021-11-22 09:06:09-05:00
 title: "President\_Biden Nominates Jerome Powell to Serve as Chair of the Federal\
   \ Reserve, Dr. Lael Brainard to Serve as Vice\_Chair"

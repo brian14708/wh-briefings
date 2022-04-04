@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-09'
 modified_time: 2021-08-09 18:08:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-prime-minister-kaja-kallas-of-estonia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/readout-from-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-prime-minister-kaja-kallas-of-estonia/
 published_time: 2021-08-09 18:08:55-04:00
 title: "Readout from NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Prime Minister Kaja Kallas of\_Estonia"

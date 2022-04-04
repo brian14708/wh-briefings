@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-29'
 modified_time: 2021-10-29 08:53:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-meeting-with-secretary-of-state-cardinal-parolin-of-the-holy-see/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/readout-of-president-bidens-meeting-with-secretary-of-state-cardinal-parolin-of-the-holy-see/
 published_time: 2021-10-29 08:48:16-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Secretary of State Cardinal\
   \ Parolin of the Holy\_See"

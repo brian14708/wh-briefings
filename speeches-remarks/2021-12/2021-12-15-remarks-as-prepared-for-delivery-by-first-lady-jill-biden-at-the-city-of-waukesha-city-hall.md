@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-15'
 modified_time: 2022-01-25 15:38:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-city-of-waukesha-city-hall/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-city-of-waukesha-city-hall/
 published_time: 2021-12-15 11:00:00-05:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the City of\
   \ Waukesha City\_Hall"

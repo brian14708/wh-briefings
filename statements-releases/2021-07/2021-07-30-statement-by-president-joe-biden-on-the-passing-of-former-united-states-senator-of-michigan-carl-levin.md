@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-30'
 modified_time: 2021-07-30 13:45:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-by-president-joe-biden-on-the-passing-of-former-united-states-senator-of-michigan-carl-levin/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/statement-by-president-joe-biden-on-the-passing-of-former-united-states-senator-of-michigan-carl-levin/
 published_time: 2021-07-30 13:45:46-04:00
 title: "Statement by President Joe\_Biden on the Passing of Former United\_States\
   \ Senator of Michigan Carl\_Levin"

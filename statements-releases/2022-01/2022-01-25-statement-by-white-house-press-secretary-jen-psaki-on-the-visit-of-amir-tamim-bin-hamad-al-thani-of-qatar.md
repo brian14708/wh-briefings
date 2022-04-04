@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 16:33:06-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-amir-tamim-bin-hamad-al-thani-of-qatar/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-amir-tamim-bin-hamad-al-thani-of-qatar/
 published_time: 2022-01-25 16:35:00-05:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Visit of Amir\
   \ Tamim bin Hamad Al Thani of\_Qatar"

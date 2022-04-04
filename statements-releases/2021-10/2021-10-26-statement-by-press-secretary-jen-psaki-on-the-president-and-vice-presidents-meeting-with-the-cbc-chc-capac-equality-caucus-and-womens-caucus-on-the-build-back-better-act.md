@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-26'
 modified_time: 2021-10-26 19:47:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/statement-by-press-secretary-jen-psaki-on-the-president-and-vice-presidents-meeting-with-the-cbc-chc-capac-equality-caucus-and-womens-caucus-on-the-build-back-better-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/statement-by-press-secretary-jen-psaki-on-the-president-and-vice-presidents-meeting-with-the-cbc-chc-capac-equality-caucus-and-womens-caucus-on-the-build-back-better-act/
 published_time: 2021-10-26 19:47:02-04:00
 title: "Statement by Press Secretary Jen\_Psaki on the President and Vice President\u2019\
   s Meeting with the CBC, CHC, CAPAC, Equality Caucus, and Women\u2019s Caucus on\

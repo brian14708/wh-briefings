@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-26'
 modified_time: 2021-02-26 17:44:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/readout-of-the-white-houses-first-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/readout-of-the-white-houses-first-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/
 published_time: 2021-02-26 17:44:45-05:00
 title: "Readout of the White\_House\u2019s First Interagency Working Group on Coal\
   \ and Power Plant Communities and Economic\_Revitalization"

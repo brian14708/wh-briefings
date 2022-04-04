@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-15'
 modified_time: 2021-12-15 15:05:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration/
 published_time: 2021-12-15 15:05:46-05:00
 title: "President Joseph R. Biden, Jr. Amends Kentucky Disaster\_Declaration"
 ---

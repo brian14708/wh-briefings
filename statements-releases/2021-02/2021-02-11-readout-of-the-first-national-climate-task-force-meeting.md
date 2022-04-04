@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-11'
 modified_time: 2021-02-11 14:53:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/readout-of-the-first-national-climate-task-force-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/readout-of-the-first-national-climate-task-force-meeting/
 published_time: 2021-02-11 14:53:52-05:00
 title: "Readout of the First National Climate Task Force\_Meeting"
 ---

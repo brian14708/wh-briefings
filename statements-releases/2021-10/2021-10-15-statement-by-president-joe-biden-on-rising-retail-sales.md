@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-15'
 modified_time: 2021-10-15 14:09:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/statement-by-president-joe-biden-on-rising-retail-sales/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/statement-by-president-joe-biden-on-rising-retail-sales/
 published_time: 2021-10-15 14:15:00-04:00
 title: "Statement by President Joe\_Biden on Rising Retail\_Sales"
 ---

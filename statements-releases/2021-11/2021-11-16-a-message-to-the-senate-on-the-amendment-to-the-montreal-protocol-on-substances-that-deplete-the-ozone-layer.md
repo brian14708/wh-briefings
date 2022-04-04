@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-16'
 modified_time: 2021-11-16 19:19:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/a-message-to-the-senate-on-the-amendment-to-the-montreal-protocol-on-substances-that-deplete-the-ozone-layer/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/a-message-to-the-senate-on-the-amendment-to-the-montreal-protocol-on-substances-that-deplete-the-ozone-layer/
 published_time: 2021-11-16 19:18:52-05:00
 title: "A Message to the Senate on the Amendment to the Montreal Protocol on Substances\
   \ that Deplete the Ozone\_Layer"

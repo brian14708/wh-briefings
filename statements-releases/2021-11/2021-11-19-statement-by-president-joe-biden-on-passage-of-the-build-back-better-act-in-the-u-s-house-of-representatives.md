@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
 modified_time: 2021-11-19 10:39:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-by-president-joe-biden-on-passage-of-the-build-back-better-act-in-the-u-s-house-of-representatives/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-by-president-joe-biden-on-passage-of-the-build-back-better-act-in-the-u-s-house-of-representatives/
 published_time: 2021-11-19 10:09:00-05:00
 title: "Statement by President Joe\_Biden on Passage of the Build Back Better Act\
   \ in the U.S. House of\_Representatives"

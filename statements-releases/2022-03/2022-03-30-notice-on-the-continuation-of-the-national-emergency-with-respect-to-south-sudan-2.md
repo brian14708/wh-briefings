@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-30'
 modified_time: 2022-03-30 11:39:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan-2/
 published_time: 2022-03-30 11:39:18-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan-2/
+tags: statements-releases
 title: "Notice on the Continuation of the National Emergency with Respect to South\_\
   Sudan"
 ---

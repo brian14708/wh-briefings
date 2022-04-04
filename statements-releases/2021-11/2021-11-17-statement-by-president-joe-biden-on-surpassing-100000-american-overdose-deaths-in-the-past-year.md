@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-17'
 modified_time: 2021-11-17 10:26:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/statement-by-president-joe-biden-on-surpassing-100000-american-overdose-deaths-in-the-past-year/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/statement-by-president-joe-biden-on-surpassing-100000-american-overdose-deaths-in-the-past-year/
 published_time: 2021-11-17 10:26:58-05:00
 title: "Statement by President Joe\_Biden on Surpassing 100,000 American Overdose\
   \ Deaths in the Past\_Year"

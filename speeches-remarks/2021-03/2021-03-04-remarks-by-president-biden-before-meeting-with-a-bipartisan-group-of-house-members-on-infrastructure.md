@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-04'
 modified_time: 2021-03-04 15:46:35-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/04/remarks-by-president-biden-before-meeting-with-a-bipartisan-group-of-house-members-on-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/04/remarks-by-president-biden-before-meeting-with-a-bipartisan-group-of-house-members-on-infrastructure/
 published_time: 2021-03-04 16:15:00-05:00
 title: "Remarks by President\_Biden Before Meeting with a Bipartisan Group of House\
   \ Members on\_Infrastructure"

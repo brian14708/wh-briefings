@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-08-25'
 modified_time: 2021-08-25 19:48:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/press-briefing-by-press-secretary-jen-psaki-august-25-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/press-briefing-by-press-secretary-jen-psaki-august-25-2021/
 published_time: 2021-08-25 20:15:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, August 25,\_2021"
 ---

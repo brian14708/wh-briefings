@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-24 12:36:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/president-biden-appoints-commissioners-of-u-s-arctic-research-commission/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/president-biden-appoints-commissioners-of-u-s-arctic-research-commission/
 published_time: 2021-09-24 12:15:00-04:00
 title: "President\_Biden Appoints Commissioners of U.S. Arctic Research\_Commission"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-20'
 modified_time: 2021-01-21 02:30:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/president-joe-biden-announces-acting-federal-agency-leadership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/president-joe-biden-announces-acting-federal-agency-leadership/
 published_time: 2021-01-20 19:26:25-05:00
 title: "President Joe\_Biden Announces Acting Federal Agency\_Leadership"
 ---

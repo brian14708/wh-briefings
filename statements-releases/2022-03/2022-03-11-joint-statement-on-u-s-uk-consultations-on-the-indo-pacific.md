@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-11 08:23:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/joint-statement-on-u-s-uk-consultations-on-the-indo-pacific/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/joint-statement-on-u-s-uk-consultations-on-the-indo-pacific/
 published_time: 2022-03-11 09:00:00-05:00
 title: "Joint Statement on U.S.-UK Consultations on the\_Indo-Pacific"
 ---

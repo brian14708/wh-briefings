@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-meeting-with-circle-of-protection-on-the-build-back-better-agenda/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-meeting-with-circle-of-protection-on-the-build-back-better-agenda/
 published_time: 2021-09-22 23:26:51-04:00
 title: "Readout of Meeting with Circle of Protection on the Build Back Better\_Agenda"
 ---

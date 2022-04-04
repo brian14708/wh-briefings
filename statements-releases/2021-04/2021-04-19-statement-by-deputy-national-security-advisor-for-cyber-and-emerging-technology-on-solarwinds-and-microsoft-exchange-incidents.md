@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-19'
 modified_time: 2021-04-19 12:33:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-on-solarwinds-and-microsoft-exchange-incidents/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-on-solarwinds-and-microsoft-exchange-incidents/
 published_time: 2021-04-19 10:11:41-04:00
 title: "Statement by Deputy National Security Advisor for Cyber and Emerging Technology\
   \ Anne Neuberger on SolarWinds and Microsoft Exchange\_Incidents"

@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-04-03'
 modified_time: 2022-04-03 21:57:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/03/statement-by-president-joe-biden-on-the-mass-shooting-in-sacramento/
 published_time: 2022-04-03 21:57:53-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/03/statement-by-president-joe-biden-on-the-mass-shooting-in-sacramento/
+tags: statements-releases
 title: "Statement by President Joe\_Biden on the Mass Shooting in\_Sacramento"
 ---
  

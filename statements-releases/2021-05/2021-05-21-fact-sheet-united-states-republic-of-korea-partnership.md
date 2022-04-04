@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-21'
 modified_time: 2021-05-21 20:45:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/21/fact-sheet-united-states-republic-of-korea-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/21/fact-sheet-united-states-republic-of-korea-partnership/
 published_time: 2021-05-21 20:45:13-04:00
 title: "FACT SHEET: United\_States \u2013 Republic of Korea\_Partnership"
 ---

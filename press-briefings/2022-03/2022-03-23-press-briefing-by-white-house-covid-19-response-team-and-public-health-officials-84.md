@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-23'
 modified_time: 2022-03-24 06:20:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-84/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-84/
 published_time: 2022-03-23 17:57:06-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

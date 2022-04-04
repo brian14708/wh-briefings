@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-24'
 modified_time: 2022-03-24 21:00:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/24/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/24/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2022/
 published_time: 2022-03-24 17:54:42-04:00
 title: "Greek Independence Day: A National Day of Celebration of Greek and American\
   \ Democracy,\_2022"

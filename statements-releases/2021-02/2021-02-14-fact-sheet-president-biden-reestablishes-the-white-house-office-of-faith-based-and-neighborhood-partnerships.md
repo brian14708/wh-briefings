@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 published_time: 2021-02-14 10:17:16-05:00
 title: "FACT SHEET: President\_Biden Reestablishes the White\_House Office of Faith-Based\
   \ and Neighborhood\_Partnerships"

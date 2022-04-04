@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/president-biden-announces-seven-key-nominations-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/president-biden-announces-seven-key-nominations-2/
 published_time: 2021-06-24 18:09:22-04:00
 title: "President\_Biden Announces Seven Key\_Nominations"
 ---

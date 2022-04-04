@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-11 09:21:27-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/fact-sheet-executive-order-to-preserve-certain-afghanistan-central-bank-assets-for-the-people-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/fact-sheet-executive-order-to-preserve-certain-afghanistan-central-bank-assets-for-the-people-of-afghanistan/
 published_time: 2022-02-11 09:30:00-05:00
 title: "FACT SHEET: Executive Order to Preserve Certain Afghanistan Central Bank Assets\
   \ for the People of\_Afghanistan"

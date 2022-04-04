@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-04'
 modified_time: 2021-02-05 13:32:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/04/remarks-by-president-biden-on-americas-place-in-the-world/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/04/remarks-by-president-biden-on-americas-place-in-the-world/
 published_time: 2021-02-04 19:08:31-05:00
 title: "Remarks by President\_Biden on America\u2019s Place in the\_World"
 ---

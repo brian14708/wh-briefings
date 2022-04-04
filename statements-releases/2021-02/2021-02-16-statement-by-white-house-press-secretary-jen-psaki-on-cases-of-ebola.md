@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-16'
 modified_time: 2021-02-16 14:58:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/statement-by-white-house-press-secretary-jen-psaki-on-cases-of-ebola/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/statement-by-white-house-press-secretary-jen-psaki-on-cases-of-ebola/
 published_time: 2021-02-16 14:58:04-05:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on Cases of\_Ebola"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-15'
 modified_time: 2021-05-15 20:33:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/15/statement-by-president-joe-biden-on-peace-officers-memorial-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/15/statement-by-president-joe-biden-on-peace-officers-memorial-day/
 published_time: 2021-05-15 20:33:43-04:00
 title: "Statement by President Joe\_Biden on Peace Officers Memorial\_Day"
 ---

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-29'
 modified_time: 2021-10-29 18:44:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/29/background-press-call-by-senior-administration-officials-on-the-presidents-upcoming-g20-visit/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/29/background-press-call-by-senior-administration-officials-on-the-presidents-upcoming-g20-visit/
 published_time: 2021-10-29 23:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
   s Upcoming G20\_Visit"

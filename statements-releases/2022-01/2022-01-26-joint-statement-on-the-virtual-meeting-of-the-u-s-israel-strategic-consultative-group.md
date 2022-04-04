@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-26 14:30:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/joint-statement-on-the-virtual-meeting-of-the-u-s-israel-strategic-consultative-group/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/joint-statement-on-the-virtual-meeting-of-the-u-s-israel-strategic-consultative-group/
 published_time: 2022-01-26 14:30:37-05:00
 title: "Joint Statement on the Virtual Meeting of the U.S.-Israel Strategic Consultative\_\
   Group"

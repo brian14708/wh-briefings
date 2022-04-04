@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-25 15:11:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/readout-of-president-joe-bidens-call-with-governor-ron-desantis/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/readout-of-president-joe-bidens-call-with-governor-ron-desantis/
 published_time: 2021-06-25 15:11:56-04:00
 title: "Readout of President Joe\_Biden\u2019s Call with Governor Ron\_DeSantis"
 ---

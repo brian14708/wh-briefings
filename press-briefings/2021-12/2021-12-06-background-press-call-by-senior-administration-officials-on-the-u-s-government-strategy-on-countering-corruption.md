@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-06'
 modified_time: 2021-12-06 08:27:57-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/06/background-press-call-by-senior-administration-officials-on-the-u-s-government-strategy-on-countering-corruption/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/06/background-press-call-by-senior-administration-officials-on-the-u-s-government-strategy-on-countering-corruption/
 published_time: 2021-12-06 08:30:00-05:00
 title: "Background Press Call by Senior Administration Officials on the U.S. Government\
   \ Strategy on Countering\_Corruption"

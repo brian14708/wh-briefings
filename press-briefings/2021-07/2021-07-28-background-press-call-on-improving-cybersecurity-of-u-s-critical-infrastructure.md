@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-28'
 modified_time: 2021-07-27 20:52:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/28/background-press-call-on-improving-cybersecurity-of-u-s-critical-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/28/background-press-call-on-improving-cybersecurity-of-u-s-critical-infrastructure/
 published_time: 2021-07-28 09:00:00-04:00
 title: "Background Press Call on Improving Cybersecurity of U.S. Critical\_Infrastructure"
 ---

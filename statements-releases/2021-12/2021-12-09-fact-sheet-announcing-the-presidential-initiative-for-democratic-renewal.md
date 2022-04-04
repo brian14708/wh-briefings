@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-09'
 modified_time: 2021-12-09 08:34:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/
 published_time: 2021-12-09 08:34:33-05:00
 title: "Fact Sheet: Announcing the Presidential Initiative for Democratic\_Renewal"
 ---

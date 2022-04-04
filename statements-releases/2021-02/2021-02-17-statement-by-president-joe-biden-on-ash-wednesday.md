@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 20:07:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-president-joe-biden-on-ash-wednesday/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-president-joe-biden-on-ash-wednesday/
 published_time: 2021-02-17 20:07:29-05:00
 title: "Statement by President Joe\_Biden on Ash\_Wednesday"
 ---

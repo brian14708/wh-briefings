@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/statement-by-the-president-three-years-after-the-parkland-shooting/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/statement-by-the-president-three-years-after-the-parkland-shooting/
 published_time: 2021-02-14 08:59:34-05:00
 title: "Statement by the President Three Years After the Parkland\_Shooting"
 ---

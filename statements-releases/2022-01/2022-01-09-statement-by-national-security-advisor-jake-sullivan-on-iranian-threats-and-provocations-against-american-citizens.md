@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-09'
 modified_time: 2022-01-09 14:08:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/09/statement-by-national-security-advisor-jake-sullivan-on-iranian-threats-and-provocations-against-american-citizens/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/09/statement-by-national-security-advisor-jake-sullivan-on-iranian-threats-and-provocations-against-american-citizens/
 published_time: 2022-01-09 11:19:38-05:00
 title: "Statement by National Security Advisor Jake Sullivan on Iranian Threats and\
   \ Provocations Against American\_Citizens"

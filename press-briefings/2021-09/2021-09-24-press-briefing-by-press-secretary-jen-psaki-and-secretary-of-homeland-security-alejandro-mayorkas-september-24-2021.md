@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-24'
 modified_time: 2021-09-24 18:28:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-homeland-security-alejandro-mayorkas-september-24-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-homeland-security-alejandro-mayorkas-september-24-2021/
 published_time: 2021-09-24 18:45:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Homeland Security\
   \ Alejandro Mayorkas, September 24,\_2021"

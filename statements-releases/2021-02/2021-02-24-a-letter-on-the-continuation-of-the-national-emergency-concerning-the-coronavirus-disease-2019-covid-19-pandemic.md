@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-24'
 modified_time: 2021-02-24 15:26:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic/
 published_time: 2021-02-24 15:26:55-05:00
 title: "A Letter on the Continuation of the National Emergency Concerning the Coronavirus\
   \ Disease 2019 (COVID-\u206019)\_Pandemic"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-02'
 modified_time: 2021-12-02 10:11:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2021/
 published_time: 2021-12-02 10:11:11-05:00
 title: "A Proclamation on International Day Of Persons With Disabilities,\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 22:06:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/readout-of-senior-white-house-meeting-with-faith-leaders-on-efforts-to-relocate-afghan-allies/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/readout-of-senior-white-house-meeting-with-faith-leaders-on-efforts-to-relocate-afghan-allies/
 published_time: 2021-09-15 22:06:18-04:00
 title: "Readout of Senior White\_House Meeting with Faith Leaders on Efforts to Relocate\
   \ Afghan\_Allies"

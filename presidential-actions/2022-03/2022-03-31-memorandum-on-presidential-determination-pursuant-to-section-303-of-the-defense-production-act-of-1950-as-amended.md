@@ -1,9 +1,9 @@
 ---
-category: presidential-actions
 date: '2022-03-31'
 modified_time: 2022-03-31 17:00:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended/
 published_time: 2022-03-31 14:11:05-04:00
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended/
+tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
   \ Production Act of 1950, as\_amended"
 ---

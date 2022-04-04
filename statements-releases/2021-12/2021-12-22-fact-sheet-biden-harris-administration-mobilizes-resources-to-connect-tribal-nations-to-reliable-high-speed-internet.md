@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 16:32:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-mobilizes-resources-to-connect-tribal-nations-to-reliable-high-speed-internet/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-mobilizes-resources-to-connect-tribal-nations-to-reliable-high-speed-internet/
 published_time: 2021-12-22 16:45:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Mobilizes Resources to Connect\
   \ Tribal Nations to Reliable, High-Speed\_Internet"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-01'
 modified_time: 2021-12-01 14:40:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/statement-from-white-house-covid-19-response-coordinator-jeff-zients-on-first-case-of-the-omicron-covid-19-variant-in-the-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/statement-from-white-house-covid-19-response-coordinator-jeff-zients-on-first-case-of-the-omicron-covid-19-variant-in-the-united-states/
 published_time: 2021-12-01 14:40:46-05:00
 title: "Statement from White\_House COVID-\u206019 Response Coordinator Jeff Zients\
   \ on First Case of the Omicron COVID-\u206019 Variant in the United\_States"

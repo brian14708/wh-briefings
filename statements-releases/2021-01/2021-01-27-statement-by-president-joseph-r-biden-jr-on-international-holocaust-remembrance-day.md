@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/statement-by-president-joseph-r-biden-jr-on-international-holocaust-remembrance-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/statement-by-president-joseph-r-biden-jr-on-international-holocaust-remembrance-day/
 published_time: 2021-01-27 10:34:27-05:00
 title: "Statement by President Joseph R. Biden, Jr. on International Holocaust Remembrance\_\
   Day"

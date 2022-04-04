@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-04-01'
 modified_time: 2022-04-01 18:24:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/readout-of-senior-administration-travel-to-india/
 published_time: 2022-04-01 18:24:15-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/readout-of-senior-administration-travel-to-india/
+tags: statements-releases
 title: "Readout of Senior Administration Travel to\_India"
 ---
  

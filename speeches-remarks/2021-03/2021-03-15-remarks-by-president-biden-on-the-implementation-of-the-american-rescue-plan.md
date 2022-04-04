@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-15'
 modified_time: 2021-03-15 15:59:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/15/remarks-by-president-biden-on-the-implementation-of-the-american-rescue-plan/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/15/remarks-by-president-biden-on-the-implementation-of-the-american-rescue-plan/
 published_time: 2021-03-15 16:15:00-04:00
 title: "Remarks by President\_Biden on the Implementation of the American Rescue\_\
   Plan"

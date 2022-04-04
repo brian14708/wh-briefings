@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-02'
 modified_time: 2021-09-02 15:36:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/readout-of-vice-president-harris-call-with-crown-prince-mishal-al-ahmad-al-jabir-al-sabah-of-kuwait/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/readout-of-vice-president-harris-call-with-crown-prince-mishal-al-ahmad-al-jabir-al-sabah-of-kuwait/
 published_time: 2021-09-02 15:45:00-04:00
 title: "Readout of Vice President Harris Call with Crown Prince Mishal Al-Ahmad Al-Jabir\
   \ Al-Sabah of\_Kuwait"

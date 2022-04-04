@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-09-22 17:07:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/statement-by-president-joe-biden-on-police-reform-negotiations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/statement-by-president-joe-biden-on-police-reform-negotiations/
 published_time: 2021-09-22 16:21:00-04:00
 title: "Statement By President Joe\_Biden On Police Reform\_Negotiations"
 ---

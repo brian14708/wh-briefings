@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-03'
 modified_time: 2022-02-03 19:41:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/fact-sheet-president-biden-signs-executive-order-to-boost-quality-of-federal-construction-projects/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/fact-sheet-president-biden-signs-executive-order-to-boost-quality-of-federal-construction-projects/
 published_time: 2022-02-03 19:41:27-05:00
 title: "FACT SHEET: President\_Biden Signs Executive Order to Boost Quality of Federal\
   \ Construction\_Projects"

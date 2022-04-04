@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/joint-statement-by-president-biden-and-president-von-der-leyen/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/joint-statement-by-president-biden-and-president-von-der-leyen/
 published_time: 2022-03-24 16:48:35-04:00
 title: "Joint Statement by President\_Biden and President von der\_Leyen"
 ---

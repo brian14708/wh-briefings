@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-12'
 modified_time: 2021-03-12 20:21:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/12/press-briefing-by-press-secretary-jen-psaki-march-12-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/12/press-briefing-by-press-secretary-jen-psaki-march-12-2021/
 published_time: 2021-03-12 19:37:03-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
   \ Jake Sullivan, March 12,\_2021"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-09'
 modified_time: 2021-09-10 10:02:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-president-biden-on-fighting-the-covid-19-pandemic-3/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-president-biden-on-fighting-the-covid-19-pandemic-3/
 published_time: 2021-09-09 21:42:36-04:00
 title: "Remarks by President\_Biden on Fighting the COVID-\u206019\_Pandemic"
 ---

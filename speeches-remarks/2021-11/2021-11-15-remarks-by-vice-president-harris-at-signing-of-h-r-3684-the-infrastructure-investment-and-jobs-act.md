@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-15'
 modified_time: 2021-12-20 13:54:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-vice-president-harris-at-signing-of-h-r-3684-the-infrastructure-investment-and-jobs-act/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-vice-president-harris-at-signing-of-h-r-3684-the-infrastructure-investment-and-jobs-act/
 published_time: 2021-11-15 13:52:00-05:00
 title: "Remarks by Vice President Harris at Signing of H.R. 3684, The Infrastructure\
   \ Investment and Jobs\_Act"

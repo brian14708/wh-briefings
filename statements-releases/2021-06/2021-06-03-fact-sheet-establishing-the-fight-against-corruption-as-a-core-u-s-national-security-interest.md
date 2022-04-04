@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-03'
 modified_time: 2021-06-03 10:50:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-establishing-the-fight-against-corruption-as-a-core-u-s-national-security-interest/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-establishing-the-fight-against-corruption-as-a-core-u-s-national-security-interest/
 published_time: 2021-06-03 10:50:07-04:00
 title: "FACT SHEET: Establishing the Fight Against Corruption as a Core U.S. National\
   \ Security\_Interest"

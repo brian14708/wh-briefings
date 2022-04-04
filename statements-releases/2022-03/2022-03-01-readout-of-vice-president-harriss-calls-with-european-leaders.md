@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 13:49:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/readout-of-vice-president-harriss-calls-with-european-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/readout-of-vice-president-harriss-calls-with-european-leaders/
 published_time: 2022-03-01 13:49:00-05:00
 title: "Readout of Vice President Harris\u2019s Calls with European\_Leaders"
 ---

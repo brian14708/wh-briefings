@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-12'
 modified_time: 2021-06-12 16:07:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-senior-administration-officials-on-president-bidens-meetings-at-the-g7-summit/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-senior-administration-officials-on-president-bidens-meetings-at-the-g7-summit/
 published_time: 2021-06-12 16:07:14-04:00
 title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
   s Meetings at the G7\_Summit"

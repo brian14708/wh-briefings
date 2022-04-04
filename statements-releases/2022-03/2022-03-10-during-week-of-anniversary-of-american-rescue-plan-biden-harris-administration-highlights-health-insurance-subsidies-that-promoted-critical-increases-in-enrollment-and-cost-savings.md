@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-10'
 modified_time: 2022-03-10 10:30:44-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/during-week-of-anniversary-of-american-rescue-plan-biden-harris-administration-highlights-health-insurance-subsidies-that-promoted-critical-increases-in-enrollment-and-cost-savings/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/during-week-of-anniversary-of-american-rescue-plan-biden-harris-administration-highlights-health-insurance-subsidies-that-promoted-critical-increases-in-enrollment-and-cost-savings/
 published_time: 2022-03-10 10:00:00-05:00
 title: "During Week of Anniversary of American Rescue Plan, Biden-\u2060Harris Administration\
   \ Highlights Health Insurance Subsidies That Promoted Critical Increases in Enrollment\

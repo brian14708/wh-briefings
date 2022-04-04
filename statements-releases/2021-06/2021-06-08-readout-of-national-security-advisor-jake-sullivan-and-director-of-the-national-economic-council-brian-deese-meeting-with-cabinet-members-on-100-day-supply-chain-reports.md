@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 17:27:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/readout-of-national-security-advisor-jake-sullivan-and-director-of-the-national-economic-council-brian-deese-meeting-with-cabinet-members-on-100-day-supply-chain-reports/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/readout-of-national-security-advisor-jake-sullivan-and-director-of-the-national-economic-council-brian-deese-meeting-with-cabinet-members-on-100-day-supply-chain-reports/
 published_time: 2021-06-08 17:27:31-04:00
 title: "Readout of National Security Advisor Jake Sullivan and Director of the National\
   \ Economic Council Brian Deese Meeting with Cabinet Members on 100 Day Supply Chain\_\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-30'
 modified_time: 2021-09-30 11:43:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/30/president-biden-appoints-members-to-the-council-of-the-administrative-conference-of-the-united-states-acus/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/30/president-biden-appoints-members-to-the-council-of-the-administrative-conference-of-the-united-states-acus/
 published_time: 2021-09-30 11:43:12-04:00
 title: "President\_Biden Appoints Members to the Council of the Administrative Conference\
   \ of the United\_States\_(ACUS)"

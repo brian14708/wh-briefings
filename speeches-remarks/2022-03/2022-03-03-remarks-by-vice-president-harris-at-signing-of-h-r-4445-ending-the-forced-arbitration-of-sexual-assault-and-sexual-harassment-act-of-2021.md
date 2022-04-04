@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-03'
 modified_time: 2022-03-04 12:07:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/03/remarks-by-vice-president-harris-at-signing-of-h-r-4445-ending-the-forced-arbitration-of-sexual-assault-and-sexual-harassment-act-of-2021/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/03/remarks-by-vice-president-harris-at-signing-of-h-r-4445-ending-the-forced-arbitration-of-sexual-assault-and-sexual-harassment-act-of-2021/
 published_time: 2022-03-03 19:09:09-05:00
 title: "Remarks by Vice President Harris at Signing of H.R. 4445, \u201CEnding the\
   \ Forced Arbitration of Sexual Assault and Sexual Harassment Act of\_2021\u201D"

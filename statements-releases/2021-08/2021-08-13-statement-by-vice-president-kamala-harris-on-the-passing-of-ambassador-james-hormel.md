@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-13'
 modified_time: 2021-12-23 16:14:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/statement-by-vice-president-kamala-harris-on-the-passing-of-ambassador-james-hormel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/statement-by-vice-president-kamala-harris-on-the-passing-of-ambassador-james-hormel/
 published_time: 2021-08-13 08:01:00-04:00
 title: "Statement by Vice President Kamala\_Harris on the Passing of Ambassador James\_\
   Hormel"

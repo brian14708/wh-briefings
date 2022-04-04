@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-21 11:27:25-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/
 published_time: 2021-01-20 22:01:20-05:00
 title: "Executive Order on Ethics Commitments by Executive Branch\_Personnel"
 ---

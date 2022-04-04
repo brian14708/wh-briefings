@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-15'
 modified_time: 2021-12-15 10:14:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-by-president-biden-before-marine-one-departure-11/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-by-president-biden-before-marine-one-departure-11/
 published_time: 2021-12-15 10:30:00-05:00
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

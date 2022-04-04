@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/president-joseph-r-biden-jr-approves-virginia-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/president-joseph-r-biden-jr-approves-virginia-disaster-declaration/
 published_time: 2021-10-27 10:48:03-04:00
 title: "President Joseph R. Biden, Jr. Approves Virginia Disaster\_Declaration"
 ---

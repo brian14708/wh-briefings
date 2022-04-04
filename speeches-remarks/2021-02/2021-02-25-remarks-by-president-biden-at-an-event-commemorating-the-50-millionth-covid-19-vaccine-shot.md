@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-25'
 modified_time: 2021-02-25 17:12:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/25/remarks-by-president-biden-at-an-event-commemorating-the-50-millionth-covid-19-vaccine-shot/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/25/remarks-by-president-biden-at-an-event-commemorating-the-50-millionth-covid-19-vaccine-shot/
 published_time: 2021-02-25 17:15:00-05:00
 title: "Remarks by President\_Biden at an Event Commemorating the 50 Millionth COVID-\u2060\
   19 Vaccine\_Shot"

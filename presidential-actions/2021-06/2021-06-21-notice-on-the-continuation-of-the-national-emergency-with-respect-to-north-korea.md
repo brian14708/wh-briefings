@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-21'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/21/notice-on-the-continuation-of-the-national-emergency-with-respect-to-north-korea/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/21/notice-on-the-continuation-of-the-national-emergency-with-respect-to-north-korea/
 published_time: 2021-06-21 15:37:24-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to North\_\
   Korea"

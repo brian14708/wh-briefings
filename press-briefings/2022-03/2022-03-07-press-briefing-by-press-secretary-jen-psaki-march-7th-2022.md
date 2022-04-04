@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-07'
 modified_time: 2022-03-07 18:46:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/07/press-briefing-by-press-secretary-jen-psaki-march-7th-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/07/press-briefing-by-press-secretary-jen-psaki-march-7th-2022/
 published_time: 2022-03-07 18:46:52-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, March 7th,\_2022"
 ---

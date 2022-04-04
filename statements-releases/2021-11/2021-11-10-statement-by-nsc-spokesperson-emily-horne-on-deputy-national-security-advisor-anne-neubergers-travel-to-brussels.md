@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-10 19:20:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
 published_time: 2021-11-10 19:20:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Deputy National Security Advisor\
   \ Anne Neuberger\u2019s Travel to\_Brussels"

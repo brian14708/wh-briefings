@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-10'
 modified_time: 2021-12-10 09:32:36-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/fact-sheet-export-controls-and-human-rights-initiative-launched-at-the-summit-for-democracy/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/fact-sheet-export-controls-and-human-rights-initiative-launched-at-the-summit-for-democracy/
 published_time: 2021-12-10 09:30:00-05:00
 title: "Fact Sheet: Export Controls and Human Rights Initiative Launched at the Summit\
   \ for\_Democracy"

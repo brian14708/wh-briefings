@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-13'
 modified_time: 2021-09-13 18:25:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-prime-minister-ingrida-simonyte-of-lithuania/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-prime-minister-ingrida-simonyte-of-lithuania/
 published_time: 2021-09-13 18:25:41-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Prime Minister Ingrida \u0160imonyt\u0117 of\_Lithuania"

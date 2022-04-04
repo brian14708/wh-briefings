@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-25'
 modified_time: 2021-12-25 12:16:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/25/statement-by-president-joe-biden-and-first-lady-jill-biden-on-christmas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/25/statement-by-president-joe-biden-and-first-lady-jill-biden-on-christmas/
 published_time: 2021-12-25 12:15:00-05:00
 title: "Statement by President Joe\_Biden and First Lady Jill\_Biden on\_Christmas"
 ---

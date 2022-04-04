@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-12'
 modified_time: 2021-11-12 18:21:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/12/remarks-by-president-biden-in-cabinet-meeting-2/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/12/remarks-by-president-biden-in-cabinet-meeting-2/
 published_time: 2021-11-12 18:30:00-05:00
 title: "Remarks by President\_Biden in Cabinet\_Meeting"
 ---

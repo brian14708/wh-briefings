@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 13:31:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/remarks-by-vice-president-harris-at-the-maternal-day-of-action-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/remarks-by-vice-president-harris-at-the-maternal-day-of-action-summit/
 published_time: 2021-12-07 13:31:33-05:00
 title: "Remarks by Vice President Harris at the Maternal Day of Action\_Summit"
 ---

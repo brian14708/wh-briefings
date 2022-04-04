@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-03'
 modified_time: 2021-08-03 18:42:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-top-10-programs-in-the-bipartisan-infrastructure-investment-and-jobs-act-that-you-may-not-have-heard-about/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-top-10-programs-in-the-bipartisan-infrastructure-investment-and-jobs-act-that-you-may-not-have-heard-about/
 published_time: 2021-08-03 19:30:00-04:00
 title: "FACT SHEET: Top 10 Programs in the Bipartisan Infrastructure Investment and\
   \ Jobs Act That You May Not Have Heard\_About"

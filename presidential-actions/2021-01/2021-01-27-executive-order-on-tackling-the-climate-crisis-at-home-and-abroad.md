@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-27'
 modified_time: 2021-01-27 15:13:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/
 published_time: 2021-01-27 15:13:12-05:00
 title: "Executive Order on Tackling the Climate Crisis at Home and\_Abroad"
 ---

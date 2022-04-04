@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-26'
 modified_time: 2021-04-26 20:17:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-urgent-relief-to-central-america/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-urgent-relief-to-central-america/
 published_time: 2021-04-26 20:17:05-04:00
 title: "FACT SHEET: Urgent Relief to Central\_America"
 ---

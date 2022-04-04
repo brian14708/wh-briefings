@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/protecting-against-malicious-cyber-activity-before-the-holidays/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/protecting-against-malicious-cyber-activity-before-the-holidays/
 published_time: 2021-12-16 07:41:02-05:00
 title: "Protecting Against Malicious Cyber Activity before the\_Holidays"
 ---

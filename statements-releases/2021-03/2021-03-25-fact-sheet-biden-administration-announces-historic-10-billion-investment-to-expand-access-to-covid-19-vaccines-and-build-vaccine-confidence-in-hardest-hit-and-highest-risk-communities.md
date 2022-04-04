@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-25'
 modified_time: 2021-03-24 20:37:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/25/fact-sheet-biden-administration-announces-historic-10-billion-investment-to-expand-access-to-covid-19-vaccines-and-build-vaccine-confidence-in-hardest-hit-and-highest-risk-communities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/25/fact-sheet-biden-administration-announces-historic-10-billion-investment-to-expand-access-to-covid-19-vaccines-and-build-vaccine-confidence-in-hardest-hit-and-highest-risk-communities/
 published_time: 2021-03-25 06:00:00-04:00
 title: "FACT SHEET: Biden Administration Announces Historic $10 Billion Investment\
   \ to Expand Access to COVID-\u206019 Vaccines and Build Vaccine Confidence in Hardest-Hit\

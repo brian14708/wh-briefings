@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-25'
 modified_time: 2021-06-25 19:26:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-and-president-mohammad-ashraf-ghani-of-the-islamic-republic-of-afghanistan-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-and-president-mohammad-ashraf-ghani-of-the-islamic-republic-of-afghanistan-before-bilateral-meeting/
 published_time: 2021-06-25 19:30:00-04:00
 title: "Remarks by President\_Biden and President Mohammad Ashraf Ghani of the Islamic\
   \ Republic of Afghanistan Before Bilateral\_Meeting"

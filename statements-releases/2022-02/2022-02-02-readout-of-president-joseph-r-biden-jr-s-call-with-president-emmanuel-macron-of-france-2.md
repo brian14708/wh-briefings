@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-02'
 modified_time: 2022-02-02 19:34:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/readout-of-president-joseph-r-biden-jr-s-call-with-president-emmanuel-macron-of-france-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/readout-of-president-joseph-r-biden-jr-s-call-with-president-emmanuel-macron-of-france-2/
 published_time: 2022-02-02 19:34:20-05:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with President Emmanuel\
   \ Macron of\_France"

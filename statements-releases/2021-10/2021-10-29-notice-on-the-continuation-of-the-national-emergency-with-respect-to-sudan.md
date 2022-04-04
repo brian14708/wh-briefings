@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-29'
 modified_time: 2021-10-29 11:05:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
 published_time: 2021-10-29 11:05:08-04:00
 title: "Notice on the Continuation of the National Emergency With Respect to\_Sudan"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-04'
 modified_time: 2021-05-04 16:11:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/04/readout-of-president-joseph-r-biden-jr-call-with-abu-dhabi-crown-prince-mohamed-bin-zayed/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/04/readout-of-president-joseph-r-biden-jr-call-with-abu-dhabi-crown-prince-mohamed-bin-zayed/
 published_time: 2021-05-04 15:31:15-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Abu Dhabi Crown Prince\
   \ Mohamed bin\_Zayed"

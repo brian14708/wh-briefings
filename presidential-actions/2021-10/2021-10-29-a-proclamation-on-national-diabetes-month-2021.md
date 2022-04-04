@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-29'
 modified_time: 2021-10-29 14:25:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-diabetes-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-national-diabetes-month-2021/
 published_time: 2021-10-29 14:25:32-04:00
 title: "A Proclamation on National Diabetes Month,\_2021"
 ---

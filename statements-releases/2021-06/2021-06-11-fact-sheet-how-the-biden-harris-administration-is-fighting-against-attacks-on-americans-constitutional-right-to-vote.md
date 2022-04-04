@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-11'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-how-the-biden-harris-administration-is-fighting-against-attacks-on-americans-constitutional-right-to-vote/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-how-the-biden-harris-administration-is-fighting-against-attacks-on-americans-constitutional-right-to-vote/
 published_time: 2021-06-11 15:33:18-04:00
 title: "FACT SHEET: How the Biden-\u2060Harris Administration is Fighting Against\
   \ Attacks on Americans\u2019 Constitutional Right to\_Vote"

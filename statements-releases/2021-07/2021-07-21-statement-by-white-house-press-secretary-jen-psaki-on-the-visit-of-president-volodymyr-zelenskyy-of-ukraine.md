@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-07-21 12:50:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/statement-by-white-house-press-secretary-jen-psaki-on-the-visit-of-president-volodymyr-zelenskyy-of-ukraine/
 published_time: 2021-07-21 12:50:11-04:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Visit of President\
   \ Volodymyr Zelenskyy of\_Ukraine"

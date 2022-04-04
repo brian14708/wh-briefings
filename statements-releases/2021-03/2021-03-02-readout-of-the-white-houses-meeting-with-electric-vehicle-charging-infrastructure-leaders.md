@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-02'
 modified_time: 2021-03-02 18:52:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/readout-of-the-white-houses-meeting-with-electric-vehicle-charging-infrastructure-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/readout-of-the-white-houses-meeting-with-electric-vehicle-charging-infrastructure-leaders/
 published_time: 2021-03-02 19:15:00-05:00
 title: "Readout of the White\_House\u2019s Meeting with Electric Vehicle Charging\
   \ Infrastructure\_Leaders"

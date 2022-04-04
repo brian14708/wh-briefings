@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-20'
 modified_time: 2021-09-19 19:14:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/statement-by-president-joe-biden-on-mobilizing-the-administration-to-address-extreme-heat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/statement-by-president-joe-biden-on-mobilizing-the-administration-to-address-extreme-heat/
 published_time: 2021-09-20 09:00:00-04:00
 title: "Statement by President Joe\_Biden on Mobilizing the Administration to Address\
   \ Extreme\_Heat"

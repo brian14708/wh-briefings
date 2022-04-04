@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-04'
 modified_time: 2021-10-04 18:20:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-joseph-r-biden-jr-s-call-with-european-commission-president-ursula-von-der-leyen/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-joseph-r-biden-jr-s-call-with-european-commission-president-ursula-von-der-leyen/
 published_time: 2021-10-04 18:20:30-04:00
 title: "Readout of Joseph R. Biden, Jr.\u2019s Call with European Commission President\
   \ Ursula von der\_Leyen"

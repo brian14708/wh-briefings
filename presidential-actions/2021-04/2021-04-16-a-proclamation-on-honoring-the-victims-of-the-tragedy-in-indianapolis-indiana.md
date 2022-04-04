@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-16'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/16/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-indianapolis-indiana/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/16/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-indianapolis-indiana/
 published_time: 2021-04-16 12:16:16-04:00
 title: "A Proclamation on Honoring the Victims of the Tragedy in Indianapolis,\_Indiana"
 ---

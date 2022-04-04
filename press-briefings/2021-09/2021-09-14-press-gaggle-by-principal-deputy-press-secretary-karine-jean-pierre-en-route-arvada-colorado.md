@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-14'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/14/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-arvada-colorado/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/14/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-arvada-colorado/
 published_time: 2021-09-14 16:41:44-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Arvada,\_Colorado"

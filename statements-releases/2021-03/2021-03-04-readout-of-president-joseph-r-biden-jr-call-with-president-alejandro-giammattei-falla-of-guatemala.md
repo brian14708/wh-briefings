@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-04'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-president-joseph-r-biden-jr-call-with-president-alejandro-giammattei-falla-of-guatemala/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-president-joseph-r-biden-jr-call-with-president-alejandro-giammattei-falla-of-guatemala/
 published_time: 2021-03-04 22:41:16-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Alejandro Giammattei\
   \ Falla of\_Guatemala"

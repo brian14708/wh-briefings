@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-08'
 modified_time: 2021-10-08 10:41:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-indigenous-peoples-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-indigenous-peoples-day-2021/
 published_time: 2021-10-08 10:28:53-04:00
 title: "A Proclamation on Indigenous Peoples\u2019 Day,\_2021"
 ---

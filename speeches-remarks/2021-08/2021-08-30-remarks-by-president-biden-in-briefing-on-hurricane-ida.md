@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-30'
 modified_time: 2021-08-30 16:18:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/30/remarks-by-president-biden-in-briefing-on-hurricane-ida/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/30/remarks-by-president-biden-in-briefing-on-hurricane-ida/
 published_time: 2021-08-30 16:18:32-04:00
 title: "Remarks by President\_Biden in Briefing on Hurricane\_Ida"
 ---

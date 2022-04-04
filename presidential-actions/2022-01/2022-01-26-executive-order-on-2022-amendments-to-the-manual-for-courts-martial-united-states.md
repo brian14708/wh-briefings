@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-01-26'
 modified_time: 2022-01-26 16:44:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/
 published_time: 2022-01-26 16:44:37-05:00
 title: "Executive Order on 2022 Amendments to the Manual for Courts-Martial, United\_\
   States"

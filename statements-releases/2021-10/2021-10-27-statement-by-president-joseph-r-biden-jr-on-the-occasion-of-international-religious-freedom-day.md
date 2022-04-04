@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
 modified_time: 2021-10-27 19:36:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/statement-by-president-joseph-r-biden-jr-on-the-occasion-of-international-religious-freedom-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/statement-by-president-joseph-r-biden-jr-on-the-occasion-of-international-religious-freedom-day/
 published_time: 2021-10-27 19:36:54-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Occasion of International\
   \ Religious Freedom\_Day"

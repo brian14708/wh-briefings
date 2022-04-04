@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/
 published_time: 2022-01-27 16:44:22-05:00
 title: "Readout of Vice President Harris\u2019s Meeting with President Castro of\_\
   Honduras"

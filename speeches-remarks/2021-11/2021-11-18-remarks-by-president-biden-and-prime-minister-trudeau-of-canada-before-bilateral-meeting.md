@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-18'
 modified_time: 2021-11-18 17:22:57-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting/
 published_time: 2021-11-18 17:22:56-05:00
 title: "Remarks by President\_Biden and Prime Minister Trudeau of Canada Before Bilateral\_\
   Meeting"

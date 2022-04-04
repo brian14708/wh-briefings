@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 16:47:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-united-states-advances-shared-interests-with-g20-world-leaders-and-delivers-for-the-american-people/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-united-states-advances-shared-interests-with-g20-world-leaders-and-delivers-for-the-american-people/
 published_time: 2021-10-31 16:47:45-04:00
 title: "FACT SHEET: United\_States Advances Shared Interests with G20 World Leaders\
   \ and Delivers for the American\_People"

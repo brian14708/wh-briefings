@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 16:36:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report/
 published_time: 2021-06-08 16:36:02-04:00
 title: "Letter to the Speaker of the House and President Pro Tempore of the Senate\
   \ Regarding the War Powers\_Report"

@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-06-04'
 modified_time: 2021-06-04 11:06:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/06/04/op-ed-deputy-national-security-advisor-daleep-singh-on-supporting-the-asian-americans-and-pacific-islanders-community/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/06/04/op-ed-deputy-national-security-advisor-daleep-singh-on-supporting-the-asian-americans-and-pacific-islanders-community/
 published_time: 2021-06-04 11:05:27-04:00
 title: "Op-Ed: Deputy National Security Advisor Daleep Singh on Supporting the Asian\
   \ Americans and Pacific Islanders\_Community"

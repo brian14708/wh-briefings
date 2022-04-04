@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-24'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-the-revocation-of-certain-presidential-actions/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-the-revocation-of-certain-presidential-actions/
 published_time: 2021-02-24 17:52:10-05:00
 title: "Executive Order on the Revocation of Certain Presidential\_Actions"
 ---

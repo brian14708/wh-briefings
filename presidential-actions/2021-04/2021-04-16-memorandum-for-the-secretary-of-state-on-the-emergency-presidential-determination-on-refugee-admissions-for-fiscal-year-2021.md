@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-16'
 modified_time: 2021-04-16 14:52:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/16/memorandum-for-the-secretary-of-state-on-the-emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/16/memorandum-for-the-secretary-of-state-on-the-emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2021/
 published_time: 2021-04-16 14:48:15-04:00
 title: "Memorandum for the Secretary of State on the Emergency Presidential Determination\
   \ on Refugee Admissions for Fiscal Year\_2021"

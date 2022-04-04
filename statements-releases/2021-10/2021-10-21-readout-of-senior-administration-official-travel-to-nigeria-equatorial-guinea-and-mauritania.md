@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-21'
 modified_time: 2021-10-22 08:42:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/21/readout-of-senior-administration-official-travel-to-nigeria-equatorial-guinea-and-mauritania/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/21/readout-of-senior-administration-official-travel-to-nigeria-equatorial-guinea-and-mauritania/
 published_time: 2021-10-21 21:34:42-04:00
 title: "Readout of Senior Administration Official Travel to Nigeria, Equatorial Guinea,\
   \ and\_Mauritania"

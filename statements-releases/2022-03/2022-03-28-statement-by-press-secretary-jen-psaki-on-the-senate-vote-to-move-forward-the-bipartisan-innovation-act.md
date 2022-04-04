@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-28'
 modified_time: 2022-03-28 20:11:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/statement-by-press-secretary-jen-psaki-on-the-senate-vote-to-move-forward-the-bipartisan-innovation-act/
 published_time: 2022-03-28 20:11:20-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/statement-by-press-secretary-jen-psaki-on-the-senate-vote-to-move-forward-the-bipartisan-innovation-act/
+tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on the Senate Vote to Move Forward\
   \ the Bipartisan Innovation\_Act"
 ---

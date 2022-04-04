@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-21'
 modified_time: 2021-09-21 13:16:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/21/remarks-by-president-biden-before-the-76th-session-of-the-united-nations-general-assembly/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/21/remarks-by-president-biden-before-the-76th-session-of-the-united-nations-general-assembly/
 published_time: 2021-09-21 13:30:00-04:00
 title: "Remarks by President\_Biden Before the 76th Session of the United Nations\
   \ General\_Assembly"

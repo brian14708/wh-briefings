@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2022-03-14'
 modified_time: 2022-03-15 11:04:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/03/14/bills-signed-h-r-2545-and-s-321/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/03/14/bills-signed-h-r-2545-and-s-321/
 published_time: 2022-03-14 12:17:50-04:00
 title: "Bills Signed: H.R. 2545 and S.\_321"
 ---

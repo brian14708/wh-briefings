@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-07'
 modified_time: 2021-04-07 12:12:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/president-biden-announces-his-intent-to-nominate-key-roles-in-the-department-of-interior-department-of-transportation-and-department-of-veterans-affairs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/president-biden-announces-his-intent-to-nominate-key-roles-in-the-department-of-interior-department-of-transportation-and-department-of-veterans-affairs/
 published_time: 2021-04-07 12:12:07-04:00
 title: "President\_Biden Announces his Intent to Nominate Key Roles in the Department\
   \ of Interior, Department of Transportation, and Department of Veterans\_Affairs"

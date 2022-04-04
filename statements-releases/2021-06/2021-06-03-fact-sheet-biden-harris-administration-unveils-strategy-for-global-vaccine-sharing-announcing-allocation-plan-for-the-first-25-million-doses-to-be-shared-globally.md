@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-03'
 modified_time: 2021-06-03 12:56:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-biden-harris-administration-unveils-strategy-for-global-vaccine-sharing-announcing-allocation-plan-for-the-first-25-million-doses-to-be-shared-globally/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-biden-harris-administration-unveils-strategy-for-global-vaccine-sharing-announcing-allocation-plan-for-the-first-25-million-doses-to-be-shared-globally/
 published_time: 2021-06-03 11:02:05-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Unveils Strategy for Global\
   \ Vaccine Sharing, Announcing Allocation Plan for the First 25 Million Doses to\

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/07/statement-of-president-joe-biden-on-the-passing-of-former-secretary-george-shultz/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/07/statement-of-president-joe-biden-on-the-passing-of-former-secretary-george-shultz/
 published_time: 2021-02-07 20:31:40-05:00
 title: "Statement of President Joe\_Biden on the Passing of Former Secretary George\_\
   Shultz"

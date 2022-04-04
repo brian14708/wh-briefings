@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-26'
 modified_time: 2021-03-26 14:40:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/26/statement-by-president-biden-on-the-attack-on-the-right-to-vote-in-georgia/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/26/statement-by-president-biden-on-the-attack-on-the-right-to-vote-in-georgia/
 published_time: 2021-03-26 14:40:39-04:00
 title: "Statement by President\_Biden on the Attack on the Right to Vote in\_Georgia"
 ---

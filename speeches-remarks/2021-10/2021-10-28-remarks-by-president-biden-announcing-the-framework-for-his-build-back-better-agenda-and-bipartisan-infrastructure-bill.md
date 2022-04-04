@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-28'
 modified_time: 2021-10-28 13:51:14-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/28/remarks-by-president-biden-announcing-the-framework-for-his-build-back-better-agenda-and-bipartisan-infrastructure-bill/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/28/remarks-by-president-biden-announcing-the-framework-for-his-build-back-better-agenda-and-bipartisan-infrastructure-bill/
 published_time: 2021-10-28 14:15:00-04:00
 title: "Remarks by President\_Biden Announcing the Framework for His Build Back Better\
   \ Agenda and Bipartisan Infrastructure\_Bill"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-12'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-israeli-foreign-minister-and-alternate-prime-minister-yair-lapid/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-israeli-foreign-minister-and-alternate-prime-minister-yair-lapid/
 published_time: 2021-10-12 16:27:12-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Israeli Foreign Minister and Alternate Prime Minister\

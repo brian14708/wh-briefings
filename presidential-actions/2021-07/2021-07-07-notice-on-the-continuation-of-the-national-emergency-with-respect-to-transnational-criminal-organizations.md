@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-07-07'
 modified_time: 2021-07-07 18:49:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations/
 published_time: 2021-07-07 18:49:06-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Transnational\
   \ Criminal\_Organizations"

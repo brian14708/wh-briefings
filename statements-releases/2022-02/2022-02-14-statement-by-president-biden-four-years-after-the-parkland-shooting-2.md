@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-14'
 modified_time: 2022-02-11 16:53:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/statement-by-president-biden-four-years-after-the-parkland-shooting-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/statement-by-president-biden-four-years-after-the-parkland-shooting-2/
 published_time: 2022-02-14 06:00:00-05:00
 title: "Statement by President\_Biden Four Years After the Parkland\_Shooting"
 ---

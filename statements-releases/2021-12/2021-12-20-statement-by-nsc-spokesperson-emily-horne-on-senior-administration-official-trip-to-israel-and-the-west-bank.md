@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-20'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-israel-and-the-west-bank/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-trip-to-israel-and-the-west-bank/
 published_time: 2021-12-20 16:02:53-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Trip to Israel and the West\_Bank"

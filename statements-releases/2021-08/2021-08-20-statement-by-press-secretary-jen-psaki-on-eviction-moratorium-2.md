@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-20'
 modified_time: 2021-08-20 19:44:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/statement-by-press-secretary-jen-psaki-on-eviction-moratorium-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/statement-by-press-secretary-jen-psaki-on-eviction-moratorium-2/
 published_time: 2021-08-20 19:45:00-04:00
 title: "Statement by Press Secretary Jen\_Psaki on Eviction\_Moratorium"
 ---

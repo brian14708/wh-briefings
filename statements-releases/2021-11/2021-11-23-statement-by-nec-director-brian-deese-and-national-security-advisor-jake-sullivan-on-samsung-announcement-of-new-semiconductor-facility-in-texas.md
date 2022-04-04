@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-23'
 modified_time: 2021-11-23 19:31:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/statement-by-nec-director-brian-deese-and-national-security-advisor-jake-sullivan-on-samsung-announcement-of-new-semiconductor-facility-in-texas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/statement-by-nec-director-brian-deese-and-national-security-advisor-jake-sullivan-on-samsung-announcement-of-new-semiconductor-facility-in-texas/
 published_time: 2021-11-23 19:31:37-05:00
 title: "Statement by NEC Director Brian Deese and National Security Advisor Jake Sullivan\
   \ on Samsung Announcement of New Semiconductor Facility in\_Texas"

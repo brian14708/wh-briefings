@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-23'
 modified_time: 2022-03-23 13:44:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/president-biden-announces-appointments-to-federal-salary-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/president-biden-announces-appointments-to-federal-salary-council/
 published_time: 2022-03-23 16:00:00-04:00
 title: "President\_Biden Announces Appointments to Federal Salary\_Council"
 ---

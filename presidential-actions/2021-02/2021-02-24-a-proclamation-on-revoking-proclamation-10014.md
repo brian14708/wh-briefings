@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-02-24'
 modified_time: 2021-02-24 17:59:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/a-proclamation-on-revoking-proclamation-10014/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/a-proclamation-on-revoking-proclamation-10014/
 published_time: 2021-02-24 17:59:48-05:00
 title: "A Proclamation on Revoking Proclamation\_10014"
 ---

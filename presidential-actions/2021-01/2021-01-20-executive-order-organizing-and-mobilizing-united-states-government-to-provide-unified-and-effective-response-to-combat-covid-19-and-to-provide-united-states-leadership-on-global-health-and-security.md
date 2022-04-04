@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-20 20:56:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/
 published_time: 2021-01-20 20:53:53-05:00
 title: "Executive Order on Organizing and Mobilizing the United\_States Government\
   \ to Provide a Unified and Effective Response to Combat COVID-\u206019 and to Provide\

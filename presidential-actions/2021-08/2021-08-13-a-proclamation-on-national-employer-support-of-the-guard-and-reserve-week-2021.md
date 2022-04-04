@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-13'
 modified_time: 2021-08-13 09:28:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/13/a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/13/a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-2021/
 published_time: 2021-08-13 09:28:09-04:00
 title: "A Proclamation on National Employer Support Of The Guard And Reserve Week,\_\
   2021"

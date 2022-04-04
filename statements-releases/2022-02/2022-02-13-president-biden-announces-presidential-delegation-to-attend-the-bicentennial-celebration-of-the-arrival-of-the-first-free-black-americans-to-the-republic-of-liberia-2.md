@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-13'
 modified_time: 2022-02-13 13:22:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/13/president-biden-announces-presidential-delegation-to-attend-the-bicentennial-celebration-of-the-arrival-of-the-first-free-black-americans-to-the-republic-of-liberia-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/13/president-biden-announces-presidential-delegation-to-attend-the-bicentennial-celebration-of-the-arrival-of-the-first-free-black-americans-to-the-republic-of-liberia-2/
 published_time: 2022-02-13 13:21:00-05:00
 title: "President\_Biden Announces Presidential Delegation to Attend the Bicentennial\
   \ Celebration of the Arrival of the First Free Black Americans to the Republic of\_\

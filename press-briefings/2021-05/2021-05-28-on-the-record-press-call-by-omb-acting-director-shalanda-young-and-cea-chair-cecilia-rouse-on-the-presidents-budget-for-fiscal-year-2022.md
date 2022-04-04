@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-28'
 modified_time: 2021-05-28 16:00:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/28/on-the-record-press-call-by-omb-acting-director-shalanda-young-and-cea-chair-cecilia-rouse-on-the-presidents-budget-for-fiscal-year-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/28/on-the-record-press-call-by-omb-acting-director-shalanda-young-and-cea-chair-cecilia-rouse-on-the-presidents-budget-for-fiscal-year-2022/
 published_time: 2021-05-28 16:00:29-04:00
 title: "On-the-Record Press Call by OMB Acting Director Shalanda Young and CEA Chair\
   \ Cecilia Rouse on the President\u2019s Budget for Fiscal Year\_2022"

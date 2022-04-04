@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-09-24'
 modified_time: 2022-03-15 11:07:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/09/24/bills-signed-s-272-and-s-325/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/09/24/bills-signed-s-272-and-s-325/
 published_time: 2021-09-24 15:51:54-04:00
 title: "Bills Signed: S. 272 and S.\_325"
 ---

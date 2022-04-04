@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-07'
 modified_time: 2021-05-07 14:00:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/07/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-35/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/07/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-35/
 published_time: 2021-05-07 14:00:05-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

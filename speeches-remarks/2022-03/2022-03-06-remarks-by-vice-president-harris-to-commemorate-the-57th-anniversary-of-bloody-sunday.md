@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-06'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/06/remarks-by-vice-president-harris-to-commemorate-the-57th-anniversary-of-bloody-sunday/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/06/remarks-by-vice-president-harris-to-commemorate-the-57th-anniversary-of-bloody-sunday/
 published_time: 2022-03-06 21:12:57-05:00
 title: "Remarks by Vice President Harris to Commemorate the 57th Anniversary of Bloody\_\
   Sunday"

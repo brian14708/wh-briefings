@@ -1,9 +1,9 @@
 ---
-category: presidential-actions
 date: '2022-03-31'
 modified_time: 2022-03-31 14:55:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/national-cancer-control-month-2022/
 published_time: 2022-03-31 14:54:23-04:00
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/national-cancer-control-month-2022/
+tags: presidential-actions
 title: "A Proclamation on National Cancer Control Month,\_2022"
 ---
  

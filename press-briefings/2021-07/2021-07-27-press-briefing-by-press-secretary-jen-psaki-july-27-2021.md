@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-27'
 modified_time: 2021-07-27 16:58:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/27/press-briefing-by-press-secretary-jen-psaki-july-27-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/27/press-briefing-by-press-secretary-jen-psaki-july-27-2021/
 published_time: 2021-07-27 16:58:44-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, July 27,\_2021"
 ---

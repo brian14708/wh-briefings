@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-31'
 modified_time: 2021-03-31 21:03:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-hermogenes-esperon-of-the-philippines/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-hermogenes-esperon-of-the-philippines/
 published_time: 2021-03-31 21:03:55-04:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s Call with National Security Advisor Hermogenes\

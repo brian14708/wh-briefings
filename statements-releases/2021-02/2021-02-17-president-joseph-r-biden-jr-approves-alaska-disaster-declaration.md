@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 15:29:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/president-joseph-r-biden-jr-approves-alaska-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/president-joseph-r-biden-jr-approves-alaska-disaster-declaration/
 published_time: 2021-02-17 15:29:27-05:00
 title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---

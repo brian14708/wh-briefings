@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-25'
 modified_time: 2022-02-25 17:55:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/25/remarks-by-president-biden-on-his-nomination-of-judge-ketanji-brown-jackson-to-serve-as-associate-justice-of-the-u-s-supreme-court/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/25/remarks-by-president-biden-on-his-nomination-of-judge-ketanji-brown-jackson-to-serve-as-associate-justice-of-the-u-s-supreme-court/
 published_time: 2022-02-25 18:15:00-05:00
 title: "Remarks by President\_Biden on his Nomination of Judge Ketanji Brown Jackson\
   \ to Serve as Associate Justice of the U.S. Supreme\_Court"

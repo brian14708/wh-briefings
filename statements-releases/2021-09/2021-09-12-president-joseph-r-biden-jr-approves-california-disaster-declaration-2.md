@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-12'
 modified_time: 2021-09-12 23:50:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/12/president-joseph-r-biden-jr-approves-california-disaster-declaration-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/12/president-joseph-r-biden-jr-approves-california-disaster-declaration-2/
 published_time: 2021-09-12 23:50:11-04:00
 title: "President Joseph R. Biden, Jr. Approves California Disaster\_Declaration"
 ---

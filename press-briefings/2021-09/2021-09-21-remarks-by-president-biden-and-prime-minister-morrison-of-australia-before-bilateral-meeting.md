@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-21'
 modified_time: 2021-09-21 14:08:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/21/remarks-by-president-biden-and-prime-minister-morrison-of-australia-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/21/remarks-by-president-biden-and-prime-minister-morrison-of-australia-before-bilateral-meeting/
 published_time: 2021-09-21 14:08:00-04:00
 title: "Remarks by President\_Biden and Prime Minister Morrison of Australia Before\
   \ Bilateral\_Meeting"

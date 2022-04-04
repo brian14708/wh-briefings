@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-11'
 modified_time: 2022-03-11 18:56:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/11/remarks-by-vice-president-harris-to-u-s-and-polish-troops/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/11/remarks-by-vice-president-harris-to-u-s-and-polish-troops/
 published_time: 2022-03-11 18:55:52-05:00
 title: "Remarks by Vice President Harris to U.S. and Polish\_Troops"
 ---

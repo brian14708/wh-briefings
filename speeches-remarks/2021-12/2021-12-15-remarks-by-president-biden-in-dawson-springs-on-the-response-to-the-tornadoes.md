@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-15'
 modified_time: 2021-12-15 18:25:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-by-president-biden-in-dawson-springs-on-the-response-to-the-tornadoes/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/remarks-by-president-biden-in-dawson-springs-on-the-response-to-the-tornadoes/
 published_time: 2021-12-15 18:45:00-05:00
 title: "Remarks by President\_Biden in Dawson Springs on the Response to the\_Tornadoes"
 ---

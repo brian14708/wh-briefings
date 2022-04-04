@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-24'
 modified_time: 2022-02-24 15:45:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/fact-sheet-joined-by-allies-and-partners-the-united-states-imposes-devastating-costs-on-russia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/fact-sheet-joined-by-allies-and-partners-the-united-states-imposes-devastating-costs-on-russia/
 published_time: 2022-02-24 14:26:45-05:00
 title: "FACT SHEET: Joined by Allies and Partners, the United\_States Imposes Devastating\
   \ Costs on\_Russia"

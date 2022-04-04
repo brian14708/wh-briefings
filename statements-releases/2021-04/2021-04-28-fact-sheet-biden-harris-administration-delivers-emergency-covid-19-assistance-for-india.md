@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-28'
 modified_time: 2021-04-28 19:28:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-biden-harris-administration-delivers-emergency-covid-19-assistance-for-india/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-biden-harris-administration-delivers-emergency-covid-19-assistance-for-india/
 published_time: 2021-04-28 19:28:39-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers Emergency COVID-\u2060\
   19 Assistance for\_India"

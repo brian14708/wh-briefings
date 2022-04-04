@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-04'
 modified_time: 2021-10-04 21:34:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-president-bidens-meeting-with-progressive-members-of-congress/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/04/readout-of-president-bidens-meeting-with-progressive-members-of-congress/
 published_time: 2021-10-04 21:34:16-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Progressive Members of\_Congress"
 ---

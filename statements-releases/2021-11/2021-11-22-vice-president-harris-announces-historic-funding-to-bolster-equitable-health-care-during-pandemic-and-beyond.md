@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-22'
 modified_time: 2021-11-22 09:48:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/vice-president-harris-announces-historic-funding-to-bolster-equitable-health-care-during-pandemic-and-beyond/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/22/vice-president-harris-announces-historic-funding-to-bolster-equitable-health-care-during-pandemic-and-beyond/
 published_time: 2021-11-22 09:18:00-05:00
 title: "Vice President Harris Announces Historic Funding to Bolster Equitable Health\
   \ Care During Pandemic, and\_Beyond"

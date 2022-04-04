@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-07'
 modified_time: 2021-07-07 14:10:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/07/statement-by-press-secretary-jen-psaki-on-the-visit-of-his-majesty-king-abdullah-ii-of-jordan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/07/statement-by-press-secretary-jen-psaki-on-the-visit-of-his-majesty-king-abdullah-ii-of-jordan/
 published_time: 2021-07-07 14:10:36-04:00
 title: "Statement by Press Secretary Jen\_Psaki on the Visit of His Majesty King Abdullah\
   \ II of\_Jordan"

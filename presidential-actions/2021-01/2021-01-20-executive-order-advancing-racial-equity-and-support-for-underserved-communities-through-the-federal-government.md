@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-20 19:53:39-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 published_time: 2021-01-20 19:53:38-05:00
 title: "Executive Order On Advancing Racial Equity and Support for Underserved Communities\
   \ Through the Federal\_Government"

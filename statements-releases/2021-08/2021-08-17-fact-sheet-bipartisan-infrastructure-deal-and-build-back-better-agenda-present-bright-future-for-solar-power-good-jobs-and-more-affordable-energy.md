@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-17'
 modified_time: 2021-08-17 09:42:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/17/fact-sheet-bipartisan-infrastructure-deal-and-build-back-better-agenda-present-bright-future-for-solar-power-good-jobs-and-more-affordable-energy/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/17/fact-sheet-bipartisan-infrastructure-deal-and-build-back-better-agenda-present-bright-future-for-solar-power-good-jobs-and-more-affordable-energy/
 published_time: 2021-08-17 09:30:00-04:00
 title: "FACT SHEET: Bipartisan Infrastructure Deal and Build Back Better Agenda Present\
   \ Bright Future for Solar Power, Good Jobs, and More Affordable\_Energy"

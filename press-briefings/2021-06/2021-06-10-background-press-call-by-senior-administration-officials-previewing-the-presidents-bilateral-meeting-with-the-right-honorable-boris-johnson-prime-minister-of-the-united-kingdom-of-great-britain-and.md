@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-10'
 modified_time: 2021-06-10 14:23:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/10/background-press-call-by-senior-administration-officials-previewing-the-presidents-bilateral-meeting-with-the-right-honorable-boris-johnson-prime-minister-of-the-united-kingdom-of-great-britain-and/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/10/background-press-call-by-senior-administration-officials-previewing-the-presidents-bilateral-meeting-with-the-right-honorable-boris-johnson-prime-minister-of-the-united-kingdom-of-great-britain-and/
 published_time: 2021-06-10 12:53:47-04:00
 title: "Background Press Call by Senior Administration Officials Previewing the President\u2019\
   s Bilateral Meeting with the Right Honorable Boris Johnson, Prime Minister of the\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-16'
 modified_time: 2021-12-16 18:28:36-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-b9-counterparts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-b9-counterparts/
 published_time: 2021-12-16 18:28:35-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with B9\_Counterparts"

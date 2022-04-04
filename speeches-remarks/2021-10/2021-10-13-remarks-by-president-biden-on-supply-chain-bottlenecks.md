@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-13'
 modified_time: 2021-10-13 20:21:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/13/remarks-by-president-biden-on-supply-chain-bottlenecks/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/13/remarks-by-president-biden-on-supply-chain-bottlenecks/
 published_time: 2021-10-13 18:30:00-04:00
 title: "Remarks by President\_Biden on Efforts to Address Global Transportation Supply\
   \ Chain\_Bottlenecks"

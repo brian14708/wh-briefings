@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-09'
 modified_time: 2021-09-09 10:18:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/09/background-press-call-on-the-u-s-mexico-high-level-economic-dialogue/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/09/background-press-call-on-the-u-s-mexico-high-level-economic-dialogue/
 published_time: 2021-09-09 11:00:00-04:00
 title: "Background Press Call on the U.S.-Mexico High-Level Economic\_Dialogue"
 ---

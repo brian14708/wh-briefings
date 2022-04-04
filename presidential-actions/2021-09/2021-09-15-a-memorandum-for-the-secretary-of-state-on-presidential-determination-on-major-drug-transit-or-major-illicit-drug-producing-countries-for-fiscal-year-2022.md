@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-15'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/15/a-memorandum-for-the-secretary-of-state-on-presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for-fiscal-year-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/15/a-memorandum-for-the-secretary-of-state-on-presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for-fiscal-year-2022/
 published_time: 2021-09-15 14:37:02-04:00
 title: "A Memorandum for the Secretary of State on Presidential Determination on Major\
   \ Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year\_2022"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-executive-order-blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the-destabilizing-situation-in-the-western-balkans/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-executive-order-blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the-destabilizing-situation-in-the-western-balkans/
 published_time: 2021-06-08 16:42:51-04:00
 title: "FACT SHEET: Executive Order Blocking Property and Suspending Entry Into the\
   \ United\_States of Certain Persons Contributing to the Destabilizing Situation\

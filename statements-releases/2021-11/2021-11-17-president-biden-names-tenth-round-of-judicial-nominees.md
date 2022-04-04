@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-17'
 modified_time: 2021-11-17 16:22:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/president-biden-names-tenth-round-of-judicial-nominees/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/president-biden-names-tenth-round-of-judicial-nominees/
 published_time: 2021-11-17 16:22:22-05:00
 title: "President\_Biden Names Tenth Round of Judicial\_Nominees"
 ---

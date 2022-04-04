@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-25 17:33:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/
 published_time: 2021-06-25 18:30:00-04:00
 title: "FACT SHEET: President\_Biden Signs Executive Order Advancing Diversity, Equity,\
   \ Inclusion, and Accessibility in the Federal\_Government"

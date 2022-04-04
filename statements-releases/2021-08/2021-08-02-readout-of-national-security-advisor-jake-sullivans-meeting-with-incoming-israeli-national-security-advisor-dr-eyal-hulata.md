@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-02'
 modified_time: 2021-08-02 18:02:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/readout-of-national-security-advisor-jake-sullivans-meeting-with-incoming-israeli-national-security-advisor-dr-eyal-hulata/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/readout-of-national-security-advisor-jake-sullivans-meeting-with-incoming-israeli-national-security-advisor-dr-eyal-hulata/
 published_time: 2021-08-02 18:02:20-04:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Incoming\
   \ Israeli National Security Advisor Dr. Eyal\_Hulata"

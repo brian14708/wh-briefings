@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-01'
 modified_time: 2021-09-01 15:33:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-by-vice-president-harris-on-texas-law-sb8/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-by-vice-president-harris-on-texas-law-sb8/
 published_time: 2021-09-01 15:33:00-04:00
 title: "Statement by Vice President Harris on Texas Law\_SB8"
 ---

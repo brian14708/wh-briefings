@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-16'
 modified_time: 2021-11-16 14:33:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/16/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-responsible-for-policies-or-actions-that-threaten-democracy-in-nicaragua/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/16/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-responsible-for-policies-or-actions-that-threaten-democracy-in-nicaragua/
 published_time: 2021-11-16 14:33:29-05:00
 title: "A Proclamation on Suspension of Entry as Immigrants and Nonimmigrants of Persons\
   \ Responsible for Policies or Actions That Threaten Democracy in\_Nicaragua"

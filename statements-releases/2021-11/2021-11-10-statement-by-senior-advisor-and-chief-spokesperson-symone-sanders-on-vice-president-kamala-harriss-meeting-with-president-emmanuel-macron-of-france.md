@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-10 16:18:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-president-emmanuel-macron-of-france/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-meeting-with-president-emmanuel-macron-of-france/
 published_time: 2021-11-10 16:18:44-05:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Meeting with President Emmanuel Macron of\_France"

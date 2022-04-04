@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-03-31'
 modified_time: 2021-03-31 08:43:46-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-cesar-chavez-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-cesar-chavez-day-2021/
 published_time: 2021-03-31 08:43:45-04:00
 title: "A Proclamation on C\xE9sar Ch\xE1vez Day,\_2021"
 ---

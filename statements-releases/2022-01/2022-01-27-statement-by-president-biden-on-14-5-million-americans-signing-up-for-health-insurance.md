@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-27'
 modified_time: 2022-01-26 19:27:39-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-by-president-biden-on-14-5-million-americans-signing-up-for-health-insurance/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-by-president-biden-on-14-5-million-americans-signing-up-for-health-insurance/
 published_time: 2022-01-27 07:00:00-05:00
 title: "Statement by President\_Biden on 14.5 Million Americans Signing up for Health\_\
   Insurance"

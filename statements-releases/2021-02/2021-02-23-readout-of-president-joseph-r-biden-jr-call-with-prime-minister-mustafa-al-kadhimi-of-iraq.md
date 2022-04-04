@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-23'
 modified_time: 2021-02-23 21:53:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-mustafa-al-kadhimi-of-iraq/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-mustafa-al-kadhimi-of-iraq/
 published_time: 2021-02-23 21:53:23-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call With Prime Minister Mustafa\
   \ Al-Kadhimi of\_Iraq"

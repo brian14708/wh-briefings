@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-23'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/statement-by-president-biden-on-nord-stream-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/statement-by-president-biden-on-nord-stream-2/
 published_time: 2022-02-23 13:55:03-05:00
 title: "Statement by President\_Biden on Nord Stream\_2"
 ---

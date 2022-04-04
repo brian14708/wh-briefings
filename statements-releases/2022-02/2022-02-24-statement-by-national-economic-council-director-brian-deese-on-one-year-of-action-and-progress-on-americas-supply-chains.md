@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/statement-by-national-economic-council-director-brian-deese-on-one-year-of-action-and-progress-on-americas-supply-chains/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/statement-by-national-economic-council-director-brian-deese-on-one-year-of-action-and-progress-on-americas-supply-chains/
 published_time: 2022-02-24 14:34:09-05:00
 title: "Statement by National Economic Council Director Brian Deese on One Year of\
   \ Action and Progress on America\u2019s Supply\_Chains"

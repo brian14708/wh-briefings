@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-14'
 modified_time: 2021-07-14 18:15:23-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/14/remarks-by-president-biden-before-a-meeting-with-bipartisan-governors-and-mayors-to-discuss-the-bipartisan-infrastructure-framework/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/14/remarks-by-president-biden-before-a-meeting-with-bipartisan-governors-and-mayors-to-discuss-the-bipartisan-infrastructure-framework/
 published_time: 2021-07-14 18:15:22-04:00
 title: "Remarks by President\_Biden Before a Meeting with Bipartisan Governors and\
   \ Mayors to Discuss the Bipartisan Infrastructure\_Framework"

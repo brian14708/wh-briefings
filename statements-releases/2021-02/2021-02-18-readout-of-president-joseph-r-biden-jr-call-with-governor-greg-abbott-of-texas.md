@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-18'
 modified_time: 2021-02-18 22:49:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/readout-of-president-joseph-r-biden-jr-call-with-governor-greg-abbott-of-texas/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/18/readout-of-president-joseph-r-biden-jr-call-with-governor-greg-abbott-of-texas/
 published_time: 2021-02-18 22:49:08-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Governor Greg Abbott of\_\
   Texas"

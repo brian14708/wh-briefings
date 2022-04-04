@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-11-12'
 modified_time: 2022-03-15 10:07:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/11/12/bills-signed-h-r-3475-and-h-r-4172/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/11/12/bills-signed-h-r-3475-and-h-r-4172/
 published_time: 2021-11-12 15:37:01-05:00
 title: "Bills Signed: H.R. 3475 and H.R.\_4172"
 ---

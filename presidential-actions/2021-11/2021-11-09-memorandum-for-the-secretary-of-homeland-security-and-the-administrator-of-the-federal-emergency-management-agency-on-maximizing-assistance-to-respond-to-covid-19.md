@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-09'
 modified_time: 2021-11-10 14:36:18-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/09/memorandum-for-the-secretary-of-homeland-security-and-the-administrator-of-the-federal-emergency-management-agency-on-maximizing-assistance-to-respond-to-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/09/memorandum-for-the-secretary-of-homeland-security-and-the-administrator-of-the-federal-emergency-management-agency-on-maximizing-assistance-to-respond-to-covid-19/
 published_time: 2021-11-09 12:16:30-05:00
 title: "Memorandum for the Secretary of Homeland Security and the Administrator of\
   \ the Federal Emergency Management Agency on Maximizing Assistance to Respond to\_\

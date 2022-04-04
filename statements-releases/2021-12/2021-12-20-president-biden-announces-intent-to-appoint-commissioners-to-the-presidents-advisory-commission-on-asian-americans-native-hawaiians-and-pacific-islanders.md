@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-20'
 modified_time: 2021-12-20 16:22:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/
 published_time: 2021-12-20 16:16:23-05:00
 title: "President\_Biden Announces Intent to Appoint Commissioners to the President\u2019\
   s Advisory Commission on Asian Americans, Native Hawaiians, and Pacific\_Islanders"

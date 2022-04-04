@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-president-bidens-meeting-with-prime-minister-jonas-gahr-store-of-norway/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-president-bidens-meeting-with-prime-minister-jonas-gahr-store-of-norway/
 published_time: 2022-01-27 15:44:41-05:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Jonas Gahr\
   \ Store of\_Norway"

@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-31'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/31/remarks-by-president-biden-at-global-summit-on-supply-chain-resilience/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/31/remarks-by-president-biden-at-global-summit-on-supply-chain-resilience/
 published_time: 2021-10-31 15:07:03-04:00
 title: "Remarks by President\_Biden at Global Summit on Supply Chain\_Resilience"
 ---

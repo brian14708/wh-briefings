@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-02'
 modified_time: 2021-08-02 16:45:53-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-brazil-and-argentina/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-brazil-and-argentina/
 published_time: 2021-08-02 16:45:52-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to Brazil and\_Argentina"

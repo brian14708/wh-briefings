@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-27'
 modified_time: 2021-08-27 21:28:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-naftali-bennett-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-naftali-bennett-of-israel/
 published_time: 2021-08-27 21:28:18-04:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Meeting with Prime Minister\
   \ Naftali Bennett of\_Israel"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-17'
 modified_time: 2021-09-17 08:06:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/statement-by-president-joseph-r-biden-jr-on-the-executive-order-regarding-the-crisis-in-ethiopia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/statement-by-president-joseph-r-biden-jr-on-the-executive-order-regarding-the-crisis-in-ethiopia/
 published_time: 2021-09-17 07:18:51-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Executive Order Regarding\
   \ the Crisis in\_Ethiopia"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-02'
 modified_time: 2021-06-02 21:13:51-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/02/statement-from-president-joseph-r-biden-jr-on-the-election-of-isaac-herzog-as-the-11th-president-of-the-state-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/02/statement-from-president-joseph-r-biden-jr-on-the-election-of-isaac-herzog-as-the-11th-president-of-the-state-of-israel/
 published_time: 2021-06-02 21:13:50-04:00
 title: "Statement from President Joseph R. Biden, Jr. on the Election of Isaac Herzog\
   \ as the 11th President of the State of\_Israel"

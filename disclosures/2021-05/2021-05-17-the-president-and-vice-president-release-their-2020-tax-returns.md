@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2021-05-17'
 modified_time: 2021-05-19 12:06:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/
 published_time: 2021-05-17 17:21:45-04:00
 title: "The President and Vice President release their 2020 tax\_returns"
 ---

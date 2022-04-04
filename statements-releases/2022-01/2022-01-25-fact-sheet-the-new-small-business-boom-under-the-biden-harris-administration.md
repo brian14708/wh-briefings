@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 14:10:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-the-new-small-business-boom-under-the-biden-harris-administration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-the-new-small-business-boom-under-the-biden-harris-administration/
 published_time: 2022-01-25 14:10:12-05:00
 title: "Fact Sheet: The New Small Business Boom Under the Biden-\u2060Harris\_Administration"
 ---

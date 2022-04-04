@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-07-28 16:14:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/president-biden-announced-three-key-nominations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/president-biden-announced-three-key-nominations/
 published_time: 2021-07-28 16:14:34-04:00
 title: "President\_Biden Announced Three Key\_Nominations"
 ---

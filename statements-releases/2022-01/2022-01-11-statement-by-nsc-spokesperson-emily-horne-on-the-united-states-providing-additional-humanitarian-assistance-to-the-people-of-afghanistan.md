@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-11'
 modified_time: 2022-01-10 23:44:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/11/statement-by-nsc-spokesperson-emily-horne-on-the-united-states-providing-additional-humanitarian-assistance-to-the-people-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/11/statement-by-nsc-spokesperson-emily-horne-on-the-united-states-providing-additional-humanitarian-assistance-to-the-people-of-afghanistan/
 published_time: 2022-01-11 06:00:00-05:00
 title: "Statement by NSC Spokesperson Emily Horne on the United\_States Providing\
   \ Additional Humanitarian Assistance to the People of\_Afghanistan"

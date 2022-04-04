@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-02'
 modified_time: 2021-07-02 20:02:22-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/02/press-briefing-by-press-secretary-jen-psaki-and-director-of-the-national-economic-council-brian-deese-july-2-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/02/press-briefing-by-press-secretary-jen-psaki-and-director-of-the-national-economic-council-brian-deese-july-2-2021/
 published_time: 2021-07-02 20:02:21-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Director of the National\
   \ Economic Council Brian Deese, July 2,\_2021"

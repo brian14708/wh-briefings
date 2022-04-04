@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-03'
 modified_time: 2021-08-03 16:11:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/readout-of-the-president-and-vice-presidents-meeting-with-latino-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/readout-of-the-president-and-vice-presidents-meeting-with-latino-leaders/
 published_time: 2021-08-03 16:11:05-04:00
 title: "Readout of the President and Vice President\u2019s Meeting with Latino\_Leaders"
 ---

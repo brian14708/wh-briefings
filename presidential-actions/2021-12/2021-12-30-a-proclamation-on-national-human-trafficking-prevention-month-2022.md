@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-30'
 modified_time: 2021-12-30 15:37:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/30/a-proclamation-on-national-human-trafficking-prevention-month-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/30/a-proclamation-on-national-human-trafficking-prevention-month-2022/
 published_time: 2021-12-30 15:37:23-05:00
 title: "A Proclamation on National Human Trafficking Prevention Month,\_2022"
 ---

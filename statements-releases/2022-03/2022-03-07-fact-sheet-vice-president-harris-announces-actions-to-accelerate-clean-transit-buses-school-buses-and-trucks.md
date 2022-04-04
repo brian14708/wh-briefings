@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-07'
 modified_time: 2022-03-07 08:56:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/
 published_time: 2022-03-07 11:30:00-05:00
 title: "Fact Sheet: Vice President Harris Announces Actions to Accelerate Clean Transit\
   \ Buses, School Buses, and\_Trucks"

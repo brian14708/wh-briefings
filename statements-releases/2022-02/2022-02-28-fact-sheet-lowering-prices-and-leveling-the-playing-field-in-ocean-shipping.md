@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 16:37:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/
 published_time: 2022-02-28 15:00:00-05:00
 title: "FACT SHEET:  Lowering Prices and Leveling the Playing Field in Ocean\_Shipping"
 ---

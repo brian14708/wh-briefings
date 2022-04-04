@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-28'
 modified_time: 2021-08-28 19:29:16-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/readout-of-president-bidens-conversations-with-fema-and-national-hurricane-center/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/readout-of-president-bidens-conversations-with-fema-and-national-hurricane-center/
 published_time: 2021-08-28 19:29:15-04:00
 title: "Readout of President\_Biden\u2019s Conversations with FEMA and National Hurricane\_\
   Center"

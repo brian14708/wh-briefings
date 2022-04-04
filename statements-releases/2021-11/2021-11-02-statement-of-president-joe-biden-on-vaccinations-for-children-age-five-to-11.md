@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 20:28:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/statement-of-president-joe-biden-on-vaccinations-for-children-age-five-to-11/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/statement-of-president-joe-biden-on-vaccinations-for-children-age-five-to-11/
 published_time: 2021-11-02 20:01:02-04:00
 title: "Statement of President Joe\_Biden on Vaccinations for Children Age Five to\_\
   11"

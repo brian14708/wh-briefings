@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-13'
 modified_time: 2021-10-13 08:26:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/
 published_time: 2021-10-13 05:00:00-04:00
 title: "FACT SHEET: Biden Administration Efforts to Address Bottlenecks at Ports of\
   \ Los Angeles and Long Beach, Moving Goods from Ship to\_Shelf"

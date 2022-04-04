@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-07'
 modified_time: 2021-03-06 22:28:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/07/fact-sheet-president-biden-to-sign-executive-order-to-promote-voting-access/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/07/fact-sheet-president-biden-to-sign-executive-order-to-promote-voting-access/
 published_time: 2021-03-07 05:00:00-05:00
 title: "Fact Sheet: President\_Biden to Sign Executive Order to Promote Voting\_Access"
 ---

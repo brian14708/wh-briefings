@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-22'
 modified_time: 2021-08-22 09:02:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/22/president-joseph-r-biden-jr-approves-connecticut-emergency-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/22/president-joseph-r-biden-jr-approves-connecticut-emergency-declaration/
 published_time: 2021-08-22 09:02:44-04:00
 title: "President Joseph R. Biden, Jr. Approves Connecticut Emergency\_Declaration"
 ---

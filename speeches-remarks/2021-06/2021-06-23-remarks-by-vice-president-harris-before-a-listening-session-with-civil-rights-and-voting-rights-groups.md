@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-23'
 modified_time: 2021-07-29 15:44:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-vice-president-harris-before-a-listening-session-with-civil-rights-and-voting-rights-groups/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-vice-president-harris-before-a-listening-session-with-civil-rights-and-voting-rights-groups/
 published_time: 2021-06-23 15:42:00-04:00
 title: "Remarks by Vice President Harris Before a Listening Session with Civil Rights\
   \ and Voting Rights\_Groups"

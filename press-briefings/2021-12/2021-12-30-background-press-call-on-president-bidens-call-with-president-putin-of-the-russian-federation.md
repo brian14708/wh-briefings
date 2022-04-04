@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-30'
 modified_time: 2021-12-30 19:06:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/30/background-press-call-on-president-bidens-call-with-president-putin-of-the-russian-federation/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/30/background-press-call-on-president-bidens-call-with-president-putin-of-the-russian-federation/
 published_time: 2021-12-30 19:30:00-05:00
 title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
   s Call with President Putin of the Russian\_Federation"

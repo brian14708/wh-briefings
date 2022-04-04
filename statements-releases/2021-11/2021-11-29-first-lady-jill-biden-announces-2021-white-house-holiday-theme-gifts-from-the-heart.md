@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-29'
 modified_time: 2021-12-20 12:59:11-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/29/first-lady-jill-biden-announces-2021-white-house-holiday-theme-gifts-from-the-heart/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/29/first-lady-jill-biden-announces-2021-white-house-holiday-theme-gifts-from-the-heart/
 published_time: 2021-11-29 12:51:00-05:00
 title: "First Lady Jill\_Biden Announces 2021 White\_House Holiday Theme: Gifts from\
   \ the\_Heart"

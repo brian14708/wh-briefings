@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-01'
 modified_time: 2021-11-04 19:02:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/readout-of-president-bidens-meeting-with-prime-minister-kaja-kallas-of-estonia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/readout-of-president-bidens-meeting-with-prime-minister-kaja-kallas-of-estonia/
 published_time: 2021-11-01 02:04:00-04:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kaja Kallas\
   \ of\_Estonia"

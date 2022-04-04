@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-10-29'
 modified_time: 2021-10-29 14:32:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/29/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2021/
 published_time: 2021-10-29 14:32:02-04:00
 title: "A Proclamation on Critical Infrastructure Security and Resilience Month,\_\
   2021"

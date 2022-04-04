@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-13'
 modified_time: 2021-09-13 16:10:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/nominations-and-withdrawal-sent-to-the-senate-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/13/nominations-and-withdrawal-sent-to-the-senate-2/
 published_time: 2021-09-13 16:10:16-04:00
 title: "Nominations and Withdrawal Sent to the\_Senate"
 ---

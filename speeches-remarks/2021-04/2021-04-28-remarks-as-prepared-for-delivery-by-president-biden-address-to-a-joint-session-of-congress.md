@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-28'
 modified_time: 2021-04-28 21:07:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/28/remarks-as-prepared-for-delivery-by-president-biden-address-to-a-joint-session-of-congress/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/28/remarks-as-prepared-for-delivery-by-president-biden-address-to-a-joint-session-of-congress/
 published_time: 2021-04-28 21:07:36-04:00
 title: "Remarks as Prepared for Delivery by President\_Biden \u2014 Address to a Joint\
   \ Session of\_Congress"

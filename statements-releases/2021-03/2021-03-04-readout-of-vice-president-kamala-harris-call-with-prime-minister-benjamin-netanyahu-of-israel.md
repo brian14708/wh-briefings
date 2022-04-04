@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-04'
 modified_time: 2021-03-04 18:28:43-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-vice-president-kamala-harris-call-with-prime-minister-benjamin-netanyahu-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-vice-president-kamala-harris-call-with-prime-minister-benjamin-netanyahu-of-israel/
 published_time: 2021-03-04 18:28:42-05:00
 title: "Readout of Vice President Kamala\_Harris Call with Prime Minister Benjamin\
   \ Netanyahu of\_Israel"

@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-24'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/24/background-press-call-on-president-bidens-meetings-with-the-g7-and-the-european-council/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/24/background-press-call-on-president-bidens-meetings-with-the-g7-and-the-european-council/
 published_time: 2022-03-24 11:38:54-04:00
 title: "Background Press Call on President\_Biden\u2019s Meetings with the G7 and\
   \ the European\_Council"

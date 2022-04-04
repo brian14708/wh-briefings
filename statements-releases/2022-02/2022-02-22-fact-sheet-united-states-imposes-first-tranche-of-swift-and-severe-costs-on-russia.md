@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-22'
 modified_time: 2022-02-23 13:17:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-united-states-imposes-first-tranche-of-swift-and-severe-costs-on-russia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-united-states-imposes-first-tranche-of-swift-and-severe-costs-on-russia/
 published_time: 2022-02-22 16:31:10-05:00
 title: "Fact Sheet: United\_States Imposes First Tranche of Swift and Severe Costs\
   \ on\_Russia"

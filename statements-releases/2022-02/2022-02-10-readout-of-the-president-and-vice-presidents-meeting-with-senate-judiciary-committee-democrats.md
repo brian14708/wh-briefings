@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-the-president-and-vice-presidents-meeting-with-senate-judiciary-committee-democrats/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/readout-of-the-president-and-vice-presidents-meeting-with-senate-judiciary-committee-democrats/
 published_time: 2022-02-10 21:13:30-05:00
 title: "Readout of the President and Vice President\u2019s Meeting with Senate Judiciary\
   \ Committee\_Democrats"

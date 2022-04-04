@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-09-22 10:50:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/president-biden-announces-members-of-presidents-council-of-advisors-on-science-and-technology/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/president-biden-announces-members-of-presidents-council-of-advisors-on-science-and-technology/
 published_time: 2021-09-22 10:50:35-04:00
 title: "President\_Biden Announces Members of President\u2019s Council of Advisors\
   \ on Science and\_Technology"

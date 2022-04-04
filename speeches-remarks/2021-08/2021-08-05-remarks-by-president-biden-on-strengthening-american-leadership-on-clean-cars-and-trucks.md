@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-05'
 modified_time: 2021-08-05 19:40:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-president-biden-on-strengthening-american-leadership-on-clean-cars-and-trucks/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-president-biden-on-strengthening-american-leadership-on-clean-cars-and-trucks/
 published_time: 2021-08-05 20:00:00-04:00
 title: "Remarks by President\_Biden on Strengthening American Leadership on Clean\
   \ Cars and\_Trucks"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-05'
 modified_time: 2021-08-04 21:36:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/
 published_time: 2021-08-05 05:00:00-04:00
 title: "FACT SHEET: President\_Biden Announces Steps to Drive American Leadership\
   \ Forward on Clean Cars and\_Trucks"

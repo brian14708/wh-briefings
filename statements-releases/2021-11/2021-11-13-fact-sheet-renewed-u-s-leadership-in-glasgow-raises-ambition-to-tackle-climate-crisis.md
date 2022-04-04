@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-13'
 modified_time: 2021-11-30 13:04:14-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/13/fact-sheet-renewed-u-s-leadership-in-glasgow-raises-ambition-to-tackle-climate-crisis/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/13/fact-sheet-renewed-u-s-leadership-in-glasgow-raises-ambition-to-tackle-climate-crisis/
 published_time: 2021-11-13 21:05:57-05:00
 title: "FACT SHEET: Renewed U.S. Leadership in Glasgow Raises Ambition to Tackle Climate\_\
   Crisis"

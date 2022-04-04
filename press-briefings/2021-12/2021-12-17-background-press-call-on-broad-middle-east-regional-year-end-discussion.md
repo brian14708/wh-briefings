@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-17'
 modified_time: 2021-12-17 20:00:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/17/background-press-call-on-broad-middle-east-regional-year-end-discussion/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/17/background-press-call-on-broad-middle-east-regional-year-end-discussion/
 published_time: 2021-12-17 20:00:27-05:00
 title: "Background Press Call on Broad Middle East Regional Year-End\_Discussion"
 ---

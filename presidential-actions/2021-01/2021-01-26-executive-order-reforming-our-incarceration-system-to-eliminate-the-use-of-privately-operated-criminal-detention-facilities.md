@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-26'
 modified_time: 2021-01-26 17:00:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/executive-order-reforming-our-incarceration-system-to-eliminate-the-use-of-privately-operated-criminal-detention-facilities/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/executive-order-reforming-our-incarceration-system-to-eliminate-the-use-of-privately-operated-criminal-detention-facilities/
 published_time: 2021-01-26 15:28:48-05:00
 title: "Executive Order on Reforming Our Incarceration System to Eliminate the Use\
   \ of Privately Operated Criminal Detention\_Facilities"

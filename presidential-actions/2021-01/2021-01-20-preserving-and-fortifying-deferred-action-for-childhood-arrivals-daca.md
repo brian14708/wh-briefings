@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-20'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/
 published_time: 2021-01-20 23:01:28-05:00
 title: "Preserving and Fortifying Deferred Action for Childhood Arrivals\_(DACA)"
 ---

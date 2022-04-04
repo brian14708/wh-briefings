@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-04'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/04/nominations-sent-to-the-senate-54/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/04/nominations-sent-to-the-senate-54/
 published_time: 2022-01-04 11:14:17-05:00
 title: "Nominations Sent to the\_Senate"
 ---

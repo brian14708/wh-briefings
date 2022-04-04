@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-21'
 modified_time: 2021-03-23 10:57:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/
 published_time: 2021-03-21 09:00:00-04:00
 title: "Fact Sheet: U.S. Efforts to Combat Systemic\_Racism"
 ---

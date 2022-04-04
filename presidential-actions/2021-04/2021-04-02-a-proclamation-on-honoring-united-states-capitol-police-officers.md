@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-02'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/02/a-proclamation-on-honoring-united-states-capitol-police-officers/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/02/a-proclamation-on-honoring-united-states-capitol-police-officers/
 published_time: 2021-04-02 17:04:24-04:00
 title: "A Proclamation on Honoring United\_States Capitol Police\_Officers"
 ---

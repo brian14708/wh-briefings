@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-31'
 modified_time: 2021-03-30 22:57:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/31/background-press-call-by-a-senior-administration-official-on-the-presidents-american-jobs-plan/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/31/background-press-call-by-a-senior-administration-official-on-the-presidents-american-jobs-plan/
 published_time: 2021-03-31 05:00:00-04:00
 title: "Background Press Call by a Senior Administration Official on the President\u2019\
   s American Jobs\_Plan"

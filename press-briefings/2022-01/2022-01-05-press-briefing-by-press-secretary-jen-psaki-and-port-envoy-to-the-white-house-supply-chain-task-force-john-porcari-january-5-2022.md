@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-05'
 modified_time: 2022-01-05 16:16:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/05/press-briefing-by-press-secretary-jen-psaki-and-port-envoy-to-the-white-house-supply-chain-task-force-john-porcari-january-5-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/05/press-briefing-by-press-secretary-jen-psaki-and-port-envoy-to-the-white-house-supply-chain-task-force-john-porcari-january-5-2022/
 published_time: 2022-01-05 16:45:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Port Envoy to the White\_\
   House Supply Chain Task Force John Porcari, January 5,\_2022"

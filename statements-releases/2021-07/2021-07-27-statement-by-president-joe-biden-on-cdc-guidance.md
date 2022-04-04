@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-27'
 modified_time: 2021-07-27 15:39:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/statement-by-president-joe-biden-on-cdc-guidance/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/statement-by-president-joe-biden-on-cdc-guidance/
 published_time: 2021-07-27 15:45:00-04:00
 title: "Statement by President Joe\_Biden on CDC\_Guidance"
 ---

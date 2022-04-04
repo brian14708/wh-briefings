@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-01'
 modified_time: 2021-06-01 15:30:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/01/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-tulsa-ok/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/01/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-aboard-air-force-one-en-route-tulsa-ok/
 published_time: 2021-06-01 15:30:23-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre Aboard\
   \ Air Force One En Route Tulsa,\_OK"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-11'
 modified_time: 2021-12-11 11:36:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-joe-bidens-briefing-on-severe-weather/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/11/readout-of-president-joe-bidens-briefing-on-severe-weather/
 published_time: 2021-12-11 11:36:02-05:00
 title: "Readout of President Joe\_Biden\u2019s Briefing on Severe\_Weather"
 ---

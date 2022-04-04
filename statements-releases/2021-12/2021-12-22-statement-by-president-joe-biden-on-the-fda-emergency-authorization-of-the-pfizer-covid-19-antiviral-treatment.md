@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-president-joe-biden-on-the-fda-emergency-authorization-of-the-pfizer-covid-19-antiviral-treatment/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-president-joe-biden-on-the-fda-emergency-authorization-of-the-pfizer-covid-19-antiviral-treatment/
 published_time: 2021-12-22 15:12:23-05:00
 title: "Statement by President Joe\_Biden On the FDA Emergency Authorization\_of the\
   \ Pfizer COVID-\u206019 Antiviral\_Treatment"

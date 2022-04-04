@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-08'
 modified_time: 2021-03-07 23:43:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/fact-sheet-president-biden-to-sign-executive-orders-establishing-the-white-house-gender-policy-council-and-ensuring-education-free-from-sexual-violence/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/08/fact-sheet-president-biden-to-sign-executive-orders-establishing-the-white-house-gender-policy-council-and-ensuring-education-free-from-sexual-violence/
 published_time: 2021-03-08 05:00:00-05:00
 title: "Fact Sheet: President\_Biden to Sign Executive Orders Establishing the White\_\
   House Gender Policy Council and Ensuring Education Free from Sexual\_Violence"

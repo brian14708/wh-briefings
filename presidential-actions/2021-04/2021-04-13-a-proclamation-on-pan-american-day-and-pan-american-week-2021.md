@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-13'
 modified_time: 2021-04-13 17:20:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-pan-american-day-and-pan-american-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-pan-american-day-and-pan-american-week-2021/
 published_time: 2021-04-13 17:20:24-04:00
 title: "A Proclamation on Pan American Day and Pan American Week,\_2021"
 ---

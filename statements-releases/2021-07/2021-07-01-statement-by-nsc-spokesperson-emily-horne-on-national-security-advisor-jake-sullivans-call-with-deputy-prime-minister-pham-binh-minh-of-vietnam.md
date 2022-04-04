@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-01'
 modified_time: 2021-07-01 20:45:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-deputy-prime-minister-pham-binh-minh-of-vietnam/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-deputy-prime-minister-pham-binh-minh-of-vietnam/
 published_time: 2021-07-01 20:45:49-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Deputy Prime Minister Pham Binh Minh of\_Vietnam"

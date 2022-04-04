@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-20'
 modified_time: 2021-11-19 19:17:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/
 published_time: 2021-11-20 09:00:00-05:00
 title: "Statement by President\_Biden on Transgender Day of\_Remembrance"
 ---

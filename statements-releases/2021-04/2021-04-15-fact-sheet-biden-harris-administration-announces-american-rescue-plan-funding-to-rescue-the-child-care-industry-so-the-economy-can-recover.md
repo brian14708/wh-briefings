@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-15'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/
 published_time: 2021-04-15 12:26:26-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces American Rescue Plan\
   \ Funding to Rescue the Child Care Industry so the Economy Can\_Recover"

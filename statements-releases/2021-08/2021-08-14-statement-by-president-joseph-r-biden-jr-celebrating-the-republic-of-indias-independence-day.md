@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-14'
 modified_time: 2021-08-14 15:51:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joseph-r-biden-jr-celebrating-the-republic-of-indias-independence-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joseph-r-biden-jr-celebrating-the-republic-of-indias-independence-day/
 published_time: 2021-08-14 16:45:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. Celebrating the Republic of India\u2019\
   s Independence\_Day"

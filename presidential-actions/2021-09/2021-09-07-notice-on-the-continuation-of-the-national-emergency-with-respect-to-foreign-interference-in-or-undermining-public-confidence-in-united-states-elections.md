@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-07'
 modified_time: 2021-09-07 16:57:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/
 published_time: 2021-09-07 16:57:26-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Foreign\
   \ Interference in or Undermining Public Confidence in United\_States\_Elections"

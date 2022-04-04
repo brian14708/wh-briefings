@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2022-01-07'
 modified_time: 2022-01-07 16:54:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2022/01/07/september-2021-visitor-log-records-posted/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2022/01/07/september-2021-visitor-log-records-posted/
 published_time: 2022-01-07 17:00:00-05:00
 title: "September 2021 Visitor Log Records\_Posted"
 ---

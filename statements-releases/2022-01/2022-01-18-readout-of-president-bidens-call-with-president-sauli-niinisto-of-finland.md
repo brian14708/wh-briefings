@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-18'
 modified_time: 2022-01-18 16:47:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/readout-of-president-bidens-call-with-president-sauli-niinisto-of-finland/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/18/readout-of-president-bidens-call-with-president-sauli-niinisto-of-finland/
 published_time: 2022-01-18 16:47:04-05:00
 title: "Readout of President\_Biden\u2019s Call with President Sauli Niinist\xF6 of\_\
   Finland"

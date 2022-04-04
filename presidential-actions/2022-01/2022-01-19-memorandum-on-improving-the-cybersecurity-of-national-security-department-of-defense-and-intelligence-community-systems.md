@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-01-19'
 modified_time: 2022-01-19 10:24:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/19/memorandum-on-improving-the-cybersecurity-of-national-security-department-of-defense-and-intelligence-community-systems/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/19/memorandum-on-improving-the-cybersecurity-of-national-security-department-of-defense-and-intelligence-community-systems/
 published_time: 2022-01-19 10:30:00-05:00
 title: "Memorandum on Improving the Cybersecurity of National Security, Department\
   \ of Defense, and Intelligence Community\_Systems"

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/readout-of-president-bidens-meeting-with-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/readout-of-president-bidens-meeting-with-president-andres-manuel-lopez-obrador-of-mexico/
 published_time: 2021-11-19 09:16:19-05:00
 title: "Readout of President\_Biden\u2019s Meeting with President Andr\xE9s Manuel\
   \ L\xF3pez Obrador of\_Mexico"

@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-03-10'
 modified_time: 2021-03-11 18:13:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/03/10/the-american-rescue-plan-passed-now-what/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/03/10/the-american-rescue-plan-passed-now-what/
 published_time: 2021-03-10 17:50:55-05:00
 title: "The American Rescue Plan Passed \u2013 Now\_What?"
 ---

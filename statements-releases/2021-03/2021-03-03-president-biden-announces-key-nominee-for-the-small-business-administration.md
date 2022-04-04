@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-03'
 modified_time: 2021-03-03 14:17:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/president-biden-announces-key-nominee-for-the-small-business-administration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/president-biden-announces-key-nominee-for-the-small-business-administration/
 published_time: 2021-03-03 14:17:52-05:00
 title: "President\_Biden Announces Key Nominee for the Small Business\_Administration"
 ---

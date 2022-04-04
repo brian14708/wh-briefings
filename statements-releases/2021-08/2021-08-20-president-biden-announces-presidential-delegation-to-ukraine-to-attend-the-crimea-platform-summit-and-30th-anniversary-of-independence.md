@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-20'
 modified_time: 2021-08-20 14:21:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/president-biden-announces-presidential-delegation-to-ukraine-to-attend-the-crimea-platform-summit-and-30th-anniversary-of-independence/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/20/president-biden-announces-presidential-delegation-to-ukraine-to-attend-the-crimea-platform-summit-and-30th-anniversary-of-independence/
 published_time: 2021-08-20 15:00:00-04:00
 title: "President\_Biden Announces Presidential Delegation to Ukraine to Attend the\
   \ Crimea Platform Summit and 30th Anniversary of\_Independence"

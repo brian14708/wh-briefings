@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/19/statement-by-president-joe-biden-on-the-passing-of-congressman-don-young/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/19/statement-by-president-joe-biden-on-the-passing-of-congressman-don-young/
 published_time: 2022-03-19 14:54:03-04:00
 title: "Statement by President Joe\_Biden on the Passing of Congressman Don\_Young"
 ---

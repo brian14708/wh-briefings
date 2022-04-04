@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-01'
 modified_time: 2021-12-01 10:51:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-world-aids-day-2021-with-renewed-commitments-to-ending-the-hiv-aids-epidemic-by-2030/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-world-aids-day-2021-with-renewed-commitments-to-ending-the-hiv-aids-epidemic-by-2030/
 published_time: 2021-12-01 05:00:00-05:00
 title: "Fact Sheet: The Biden-\u2060Harris Administration Marks World AIDS Day 2021\
   \ With Renewed Commitments to Ending the HIV/AIDS Epidemic by\_2030"

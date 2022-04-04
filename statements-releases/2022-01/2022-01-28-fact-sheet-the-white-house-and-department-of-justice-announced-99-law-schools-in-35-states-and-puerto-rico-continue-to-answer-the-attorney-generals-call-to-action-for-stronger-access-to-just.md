@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-28'
 modified_time: 2022-01-28 13:48:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/
 published_time: 2022-01-28 13:48:48-05:00
 title: "FACT SHEET: The White\_House and Department of Justice Announced 99 Law Schools\
   \ in 35 States and Puerto Rico Continue to Answer the Attorney General\u2019s Call\

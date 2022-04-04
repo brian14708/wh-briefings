@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-14'
 modified_time: 2021-08-14 16:48:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joe-biden-on-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/14/statement-by-president-joe-biden-on-afghanistan/
 published_time: 2021-08-14 15:48:04-04:00
 title: "Statement by President Joe\_Biden on\_Afghanistan"
 ---

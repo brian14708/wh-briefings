@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-15'
 modified_time: 2021-04-15 08:20:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/15/executive-order-on-blocking-property-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/15/executive-order-on-blocking-property-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
 published_time: 2021-04-15 08:20:36-04:00
 title: "Executive Order on Blocking Property with Respect to Specified Harmful Foreign\
   \ Activities of the Government of the Russian\_Federation"

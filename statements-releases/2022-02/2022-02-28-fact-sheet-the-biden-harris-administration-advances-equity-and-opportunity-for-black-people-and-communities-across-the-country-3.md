@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 16:25:27-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country-3/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country-3/
 published_time: 2022-02-28 16:25:26-05:00
 title: "FACT SHEET:  The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black People and Communities Across the\_Country"

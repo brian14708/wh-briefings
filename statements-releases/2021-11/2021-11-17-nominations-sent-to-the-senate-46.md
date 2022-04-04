@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-17'
 modified_time: 2021-11-17 17:47:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/nominations-sent-to-the-senate-46/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/17/nominations-sent-to-the-senate-46/
 published_time: 2021-11-17 17:47:15-05:00
 title: "Nominations Sent to the\_Senate"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-10'
 modified_time: 2021-05-10 20:29:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/statement-by-president-biden-on-fdas-expanded-emergency-use-authorization-of-the-pfizer-biontech-covid-19-vaccine-to-include-adolescents/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/statement-by-president-biden-on-fdas-expanded-emergency-use-authorization-of-the-pfizer-biontech-covid-19-vaccine-to-include-adolescents/
 published_time: 2021-05-10 20:29:25-04:00
 title: "Statement by President\_Biden on FDA\u2019s Expanded Emergency Use Authorization\
   \ of the Pfizer-BioNTech COVID-\u206019 Vaccine to Include\_Adolescents"

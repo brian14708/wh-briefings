@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-24'
 modified_time: 2021-10-24 17:30:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/24/readout-of-the-presidents-breakfast-meeting-with-leader-schumer-and-senator-manchin/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/24/readout-of-the-presidents-breakfast-meeting-with-leader-schumer-and-senator-manchin/
 published_time: 2021-10-24 17:40:00-04:00
 title: "Readout of the President\u2019s Breakfast Meeting with Leader Schumer and\
   \ Senator\_Manchin"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-11'
 modified_time: 2021-03-11 15:56:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/remarks-by-president-biden-at-signing-of-the-american-rescue-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/remarks-by-president-biden-at-signing-of-the-american-rescue-plan/
 published_time: 2021-03-11 16:15:00-05:00
 title: "Remarks by President\_Biden at Signing of the American Rescue\_Plan"
 ---

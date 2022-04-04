@@ -1,8 +1,8 @@
 ---
-category: statements-releases
 date: '2022-03-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
 published_time: 2022-03-30 11:39:28-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
+tags: statements-releases
 title: "A Message to the Congress, on the Continuation of the National Emergency with\
   \ Respect to South\_Sudan"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-20'
 modified_time: 2021-07-20 19:14:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-by-nsc-spokesperson-emily-horne-of-national-security-advisor-jake-sullivans-meeting-with-qatari-deputy-prime-minister-foreign-minister-mohammed-bin-abdulrahman-al-thani/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-by-nsc-spokesperson-emily-horne-of-national-security-advisor-jake-sullivans-meeting-with-qatari-deputy-prime-minister-foreign-minister-mohammed-bin-abdulrahman-al-thani/
 published_time: 2021-07-20 19:14:19-04:00
 title: "Readout by NSC Spokesperson Emily Horne of National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Qatari Deputy Prime Minister & Foreign Minister Mohammed\

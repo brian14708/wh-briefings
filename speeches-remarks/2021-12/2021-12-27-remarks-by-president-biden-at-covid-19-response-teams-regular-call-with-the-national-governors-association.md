@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-27'
 modified_time: 2021-12-27 17:20:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/27/remarks-by-president-biden-at-covid-19-response-teams-regular-call-with-the-national-governors-association/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/27/remarks-by-president-biden-at-covid-19-response-teams-regular-call-with-the-national-governors-association/
 published_time: 2021-12-27 17:46:00-05:00
 title: "Remarks by President\_Biden at COVID-\u206019 Response Team\u2019s Regular\
   \ Call With the National Governors\_Association"

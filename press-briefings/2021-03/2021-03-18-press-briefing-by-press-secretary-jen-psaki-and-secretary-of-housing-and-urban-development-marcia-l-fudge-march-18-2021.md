@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-18'
 modified_time: 2021-03-18 16:53:37-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/18/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-housing-and-urban-development-marcia-l-fudge-march-18-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/18/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-housing-and-urban-development-marcia-l-fudge-march-18-2021/
 published_time: 2021-03-18 17:00:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Housing and\
   \ Urban Development Marcia L. Fudge, March 18,\_2021"

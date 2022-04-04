@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-12'
 modified_time: 2021-04-12 17:19:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/12/remarks-by-president-biden-before-meeting-with-bipartisan-group-of-members-of-congress-to-discuss-the-american-jobs-plan/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/12/remarks-by-president-biden-before-meeting-with-bipartisan-group-of-members-of-congress-to-discuss-the-american-jobs-plan/
 published_time: 2021-04-12 17:19:29-04:00
 title: "Remarks by President\_Biden before Meeting with Bipartisan Group of Members\
   \ of Congress to Discuss the American Jobs\_Plan"

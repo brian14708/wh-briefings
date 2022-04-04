@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-07'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/07/statement-by-press-secretary-jen-psaki-on-president-joseph-r-biden-jr-call-with-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/07/statement-by-press-secretary-jen-psaki-on-president-joseph-r-biden-jr-call-with-president-volodymyr-zelenskyy-of-ukraine/
 published_time: 2021-06-07 19:26:38-04:00
 title: "Statement by Press Secretary Jen\_Psaki on President Joseph R. Biden, Jr.\
   \ Call with President Volodymyr Zelenskyy of\_Ukraine"

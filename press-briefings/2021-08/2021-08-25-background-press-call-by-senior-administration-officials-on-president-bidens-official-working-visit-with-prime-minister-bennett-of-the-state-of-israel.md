@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-08-25'
 modified_time: 2021-08-25 15:50:43-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/background-press-call-by-senior-administration-officials-on-president-bidens-official-working-visit-with-prime-minister-bennett-of-the-state-of-israel/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/background-press-call-by-senior-administration-officials-on-president-bidens-official-working-visit-with-prime-minister-bennett-of-the-state-of-israel/
 published_time: 2021-08-25 17:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
   s Official Working Visit with Prime Minister Bennett of the State of\_Israel"

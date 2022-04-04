@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-30'
 modified_time: 2022-01-30 13:28:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/30/statement-from-president-biden-on-mark-frerichs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/30/statement-from-president-biden-on-mark-frerichs/
 published_time: 2022-01-30 14:00:00-05:00
 title: "Statement from President\_Biden on Mark\_Frerichs"
 ---

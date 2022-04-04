@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-02'
 modified_time: 2021-07-02 00:00:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/readout-of-white-house-meeting-with-congressional-hispanic-caucus/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/readout-of-white-house-meeting-with-congressional-hispanic-caucus/
 published_time: 2021-07-02 00:00:14-04:00
 title: "Readout of White\_House Meeting with Congressional Hispanic\_Caucus"
 ---

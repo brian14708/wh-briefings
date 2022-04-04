@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-26'
 modified_time: 2021-01-26 13:40:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/readout-of-president-joseph-r-biden-jr-call-with-secretary-general-jens-stoltenberg-of-nato/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/readout-of-president-joseph-r-biden-jr-call-with-secretary-general-jens-stoltenberg-of-nato/
 published_time: 2021-01-26 13:45:00-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with Secretary General Jens\
   \ Stoltenberg of\_NATO"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-02'
 modified_time: 2021-03-02 18:48:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/statement-by-president-joe-biden-and-nominee-for-director-of-the-office-of-management-neera-tanden/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/02/statement-by-president-joe-biden-and-nominee-for-director-of-the-office-of-management-neera-tanden/
 published_time: 2021-03-02 18:48:11-05:00
 title: "Statement by President Joe\_Biden and Nominee for Director of the Office of\
   \ Management Neera\_Tanden"

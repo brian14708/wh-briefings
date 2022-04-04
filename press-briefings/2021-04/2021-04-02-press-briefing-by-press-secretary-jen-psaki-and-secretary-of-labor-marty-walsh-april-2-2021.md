@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-04-02'
 modified_time: 2021-04-02 17:40:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/02/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-labor-marty-walsh-april-2-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/02/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-labor-marty-walsh-april-2-2021/
 published_time: 2021-04-02 17:40:39-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Labor Marty\
   \ Walsh, April 2,\_2021"

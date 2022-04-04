@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-14'
 modified_time: 2022-01-15 16:34:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/press-briefing-by-press-secretary-jen-psaki-and-fema-administrator-deanne-criswell-january-14-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/press-briefing-by-press-secretary-jen-psaki-and-fema-administrator-deanne-criswell-january-14-2022/
 published_time: 2022-01-14 15:30:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and FEMA Administrator Deanne\
   \ Criswell, January 14,\_2022"

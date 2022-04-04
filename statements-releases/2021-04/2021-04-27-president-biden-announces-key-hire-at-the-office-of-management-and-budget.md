@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-27'
 modified_time: 2021-04-27 11:25:48-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/president-biden-announces-key-hire-at-the-office-of-management-and-budget/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/president-biden-announces-key-hire-at-the-office-of-management-and-budget/
 published_time: 2021-04-27 13:45:00-04:00
 title: "President\_Biden Announces Key Hire at the Office of Management and\_Budget"
 ---

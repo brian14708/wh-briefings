@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-03-21'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/21/a-proclamation-on-national-agriculture-day-2022/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/21/a-proclamation-on-national-agriculture-day-2022/
 published_time: 2022-03-21 11:32:26-04:00
 title: "A Proclamation on National Agriculture Day,\_2022"
 ---

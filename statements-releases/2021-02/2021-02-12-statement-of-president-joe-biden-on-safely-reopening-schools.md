@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-12'
 modified_time: 2021-02-12 18:18:31-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/12/statement-of-president-joe-biden-on-safely-reopening-schools/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/12/statement-of-president-joe-biden-on-safely-reopening-schools/
 published_time: 2021-02-12 18:18:30-05:00
 title: "Statement of President Joe\_Biden on Safely Reopening\_Schools"
 ---

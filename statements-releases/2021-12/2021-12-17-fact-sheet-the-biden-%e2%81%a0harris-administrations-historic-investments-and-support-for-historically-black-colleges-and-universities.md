@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-17'
 modified_time: 2021-12-17 12:21:43-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%e2%81%a0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%e2%81%a0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
 published_time: 2021-12-17 11:58:15-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Historic Investments\
   \ and Support for Historically Black Colleges and\_Universities"

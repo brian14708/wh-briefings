@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 09:16:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-the-united-states-and-european-union-to-negotiate-worlds-first-carbon-based-sectoral-arrangement-on-steel-and-aluminum-trade/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-the-united-states-and-european-union-to-negotiate-worlds-first-carbon-based-sectoral-arrangement-on-steel-and-aluminum-trade/
 published_time: 2021-10-31 09:15:34-04:00
 title: "FACT SHEET: The United\_States and European Union To Negotiate World\u2019\
   s First Carbon-Based Sectoral Arrangement on Steel and Aluminum\_Trade"

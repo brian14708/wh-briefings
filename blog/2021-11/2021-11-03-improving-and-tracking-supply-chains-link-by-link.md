@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-11-03'
 modified_time: 2022-02-23 18:07:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/
 published_time: 2021-11-03 08:30:00-04:00
 title: "Improving and Tracking Supply Chains Link by\_Link"
 ---

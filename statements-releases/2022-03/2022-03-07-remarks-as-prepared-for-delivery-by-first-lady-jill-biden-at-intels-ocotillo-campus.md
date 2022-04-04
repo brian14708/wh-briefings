@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-07'
 modified_time: 2022-03-08 08:26:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-intels-ocotillo-campus/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-intels-ocotillo-campus/
 published_time: 2022-03-07 15:23:00-05:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Intel\u2019\
   s Ocotillo\_Campus"

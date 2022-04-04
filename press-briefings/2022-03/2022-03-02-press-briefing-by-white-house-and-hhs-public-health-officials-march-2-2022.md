@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-02'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/02/press-briefing-by-white-house-and-hhs-public-health-officials-march-2-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/02/press-briefing-by-white-house-and-hhs-public-health-officials-march-2-2022/
 published_time: 2022-03-02 15:06:38-05:00
 title: "Press Briefing by White\_House and HHS Public Health Officials, March 2,\_\
   2022"

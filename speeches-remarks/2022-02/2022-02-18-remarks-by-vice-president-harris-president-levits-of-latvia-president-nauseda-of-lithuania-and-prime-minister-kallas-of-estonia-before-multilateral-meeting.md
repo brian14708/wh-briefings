@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-18'
 modified_time: 2022-02-18 12:08:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/18/remarks-by-vice-president-harris-president-levits-of-latvia-president-nauseda-of-lithuania-and-prime-minister-kallas-of-estonia-before-multilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/18/remarks-by-vice-president-harris-president-levits-of-latvia-president-nauseda-of-lithuania-and-prime-minister-kallas-of-estonia-before-multilateral-meeting/
 published_time: 2022-02-18 12:08:37-05:00
 title: "Remarks by Vice President Harris, President Levits of Latvia, President Naus\u0117\
   da Of Lithuania, and Prime Minister Kallas of Estonia Before Multilateral\_Meeting"

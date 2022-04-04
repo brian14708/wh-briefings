@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-20'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/20/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-the-elders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/20/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-the-elders/
 published_time: 2021-10-20 18:30:14-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with The\_Elders"

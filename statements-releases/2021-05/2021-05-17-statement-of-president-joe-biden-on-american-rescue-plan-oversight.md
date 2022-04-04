@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-17'
 modified_time: 2021-05-17 18:42:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/statement-of-president-joe-biden-on-american-rescue-plan-oversight/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/statement-of-president-joe-biden-on-american-rescue-plan-oversight/
 published_time: 2021-05-17 18:42:18-04:00
 title: "Statement of President Joe\_Biden on American Rescue Plan\_Oversight"
 ---

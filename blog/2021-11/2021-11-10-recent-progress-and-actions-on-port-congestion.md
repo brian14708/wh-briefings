@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-11-10'
 modified_time: 2022-02-23 17:08:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/11/10/recent-progress-and-actions-on-port-congestion/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/11/10/recent-progress-and-actions-on-port-congestion/
 published_time: 2021-11-10 10:25:48-05:00
 title: "Recent Progress and Actions on Port\_Congestion"
 ---

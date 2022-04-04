@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-26'
 modified_time: 2021-10-26 15:18:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/26/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-october-26-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/26/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-october-26-2021/
 published_time: 2021-10-26 15:45:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
   \ Jake Sullivan, October 26,\_2021"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-03'
 modified_time: 2021-03-03 13:41:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela/
 published_time: 2021-03-03 13:41:03-05:00
 title: "A Letter on the Continuation of the National Emergency with Respect to\_Venezuela"
 ---

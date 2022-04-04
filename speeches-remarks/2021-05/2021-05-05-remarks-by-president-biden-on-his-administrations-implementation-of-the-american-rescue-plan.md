@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-05'
 modified_time: 2021-05-05 19:30:39-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/05/remarks-by-president-biden-on-his-administrations-implementation-of-the-american-rescue-plan/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/05/remarks-by-president-biden-on-his-administrations-implementation-of-the-american-rescue-plan/
 published_time: 2021-05-05 19:45:00-04:00
 title: "Remarks by President\_Biden on His Administration\u2019s Implementation of\
   \ the American Rescue\_Plan"

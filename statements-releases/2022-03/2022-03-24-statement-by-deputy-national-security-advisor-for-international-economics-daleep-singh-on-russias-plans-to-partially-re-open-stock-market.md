@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 02:19:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-by-deputy-national-security-advisor-for-international-economics-daleep-singh-on-russias-plans-to-partially-re-open-stock-market/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/statement-by-deputy-national-security-advisor-for-international-economics-daleep-singh-on-russias-plans-to-partially-re-open-stock-market/
 published_time: 2022-03-24 02:30:00-04:00
 title: "Statement by Deputy National Security Advisor for International Economics\
   \ Daleep Singh on Russia\u2019s Plans to Partially Re-Open Stock\_Market"

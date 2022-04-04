@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-23'
 modified_time: 2021-11-23 19:36:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/statement-by-nsc-spokesperson-emily-horne-on-the-u-s-lithuania-strategic-dialogue-on-the-indo-pacific/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/statement-by-nsc-spokesperson-emily-horne-on-the-u-s-lithuania-strategic-dialogue-on-the-indo-pacific/
 published_time: 2021-11-23 19:36:29-05:00
 title: "Statement by NSC Spokesperson Emily Horne on the U.S.-Lithuania Strategic\
   \ Dialogue on the\_Indo-Pacific"

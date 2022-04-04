@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-01'
 modified_time: 2021-07-02 09:25:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/
 published_time: 2021-07-01 19:26:09-04:00
 title: "U.S. COVID-\u206019 Global Response and Recovery\_Framework"
 ---

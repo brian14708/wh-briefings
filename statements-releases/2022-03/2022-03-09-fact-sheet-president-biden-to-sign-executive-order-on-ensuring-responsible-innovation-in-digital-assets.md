@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-09'
 modified_time: 2022-03-09 10:50:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/
 published_time: 2022-03-09 06:00:00-05:00
 title: "FACT SHEET: President\_Biden to Sign Executive Order on Ensuring Responsible\
   \ Development of Digital\_Assets"

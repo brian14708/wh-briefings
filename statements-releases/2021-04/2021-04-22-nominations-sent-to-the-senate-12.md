@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-22'
 modified_time: 2021-04-22 15:29:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/nominations-sent-to-the-senate-12/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/nominations-sent-to-the-senate-12/
 published_time: 2021-04-22 15:29:49-04:00
 title: "Nominations Sent to the\_Senate"
 ---

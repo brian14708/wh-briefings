@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 19:24:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/president-biden-announces-members-of-the-community-development-advisory-board/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/president-biden-announces-members-of-the-community-development-advisory-board/
 published_time: 2021-09-15 18:45:00-04:00
 title: "President\_Biden Announces Members of the Community Development Advisory\_\
   Board"

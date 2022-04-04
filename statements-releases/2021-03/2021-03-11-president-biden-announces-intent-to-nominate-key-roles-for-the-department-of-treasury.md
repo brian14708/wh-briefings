@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-11'
 modified_time: 2021-03-12 14:42:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/president-biden-announces-intent-to-nominate-key-roles-for-the-department-of-treasury/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/president-biden-announces-intent-to-nominate-key-roles-for-the-department-of-treasury/
 published_time: 2021-03-11 10:27:26-05:00
 title: "President\_Biden Announces Intent to Nominate Key Roles for the Department\
   \ of\_Treasury"

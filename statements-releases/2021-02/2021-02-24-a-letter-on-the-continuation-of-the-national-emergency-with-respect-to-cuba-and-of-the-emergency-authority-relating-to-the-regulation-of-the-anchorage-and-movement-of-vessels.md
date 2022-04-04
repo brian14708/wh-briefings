@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-24'
 modified_time: 2021-02-24 16:29:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-cuba-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-vessels/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-cuba-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-vessels/
 published_time: 2021-02-24 16:29:36-05:00
 title: "A Letter on the Continuation of the National Emergency with Respect to Cuba\
   \ and of the Emergency Authority Relating to the Regulation of the Anchorage and\

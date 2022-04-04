@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-07-12'
 modified_time: 2021-07-14 17:42:43-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-vice-president-harris-at-a-vaccine-mobilization-event/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-vice-president-harris-at-a-vaccine-mobilization-event/
 published_time: 2021-07-12 17:42:00-04:00
 title: "Remarks by Vice President Harris at a Vaccine Mobilization\_Event"
 ---

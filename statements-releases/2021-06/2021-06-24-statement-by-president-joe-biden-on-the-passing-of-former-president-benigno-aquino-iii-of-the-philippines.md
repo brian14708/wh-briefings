@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-24'
 modified_time: 2021-06-24 20:45:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/statement-by-president-joe-biden-on-the-passing-of-former-president-benigno-aquino-iii-of-the-philippines/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/statement-by-president-joe-biden-on-the-passing-of-former-president-benigno-aquino-iii-of-the-philippines/
 published_time: 2021-06-24 20:45:11-04:00
 title: "Statement by President Joe\_Biden on the Passing of Former President Benigno\
   \ Aquino III of the\_Philippines"

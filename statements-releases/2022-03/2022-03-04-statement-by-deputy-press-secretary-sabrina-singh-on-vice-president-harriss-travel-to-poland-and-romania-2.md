@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-04 15:57:26-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/statement-by-deputy-press-secretary-sabrina-singh-on-vice-president-harriss-travel-to-poland-and-romania-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/statement-by-deputy-press-secretary-sabrina-singh-on-vice-president-harriss-travel-to-poland-and-romania-2/
 published_time: 2022-03-04 16:15:00-05:00
 title: "Statement by Deputy Press Secretary Sabrina Singh on Vice President Harris\u2019\
   s Travel to Poland and\_Romania"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-01'
 modified_time: 2021-10-01 12:48:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/01/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-daleep-singhs-travel-to-colombia-ecuador-and-panama/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/01/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-daleep-singhs-travel-to-colombia-ecuador-and-panama/
 published_time: 2021-10-01 12:48:43-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Deputy National Security Advisor\
   \ Daleep Singh\u2019s Travel to Colombia, Ecuador, and\_Panama"

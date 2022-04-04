@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-18'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/18/background-press-briefing-on-the-vice-presidents-events-in-munich-germany/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/18/background-press-briefing-on-the-vice-presidents-events-in-munich-germany/
 published_time: 2022-02-18 22:11:09-05:00
 title: "Background Press Briefing on the Vice President\u2019s Events in Munich,\_\
   Germany"

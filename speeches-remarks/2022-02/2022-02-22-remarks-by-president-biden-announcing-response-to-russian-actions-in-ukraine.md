@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-22'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/22/remarks-by-president-biden-announcing-response-to-russian-actions-in-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/22/remarks-by-president-biden-announcing-response-to-russian-actions-in-ukraine/
 published_time: 2022-02-22 16:27:14-05:00
 title: "Remarks by President\_Biden Announcing Response to Russian Actions in\_Ukraine"
 ---

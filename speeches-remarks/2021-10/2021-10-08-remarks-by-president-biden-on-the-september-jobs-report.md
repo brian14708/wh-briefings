@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-08'
 modified_time: 2021-10-08 17:24:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/08/remarks-by-president-biden-on-the-september-jobs-report/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/08/remarks-by-president-biden-on-the-september-jobs-report/
 published_time: 2021-10-08 17:24:01-04:00
 title: "Remarks by President\_Biden on the September Jobs\_Report"
 ---

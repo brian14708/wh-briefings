@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-13'
 modified_time: 2021-12-12 21:35:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/
 published_time: 2021-12-13 07:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Electric Vehicle Charging Action\_Plan"
 ---

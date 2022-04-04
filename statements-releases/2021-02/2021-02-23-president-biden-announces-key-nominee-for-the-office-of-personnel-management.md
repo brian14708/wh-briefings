@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-23'
 modified_time: 2021-02-27 09:39:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/president-biden-announces-key-nominee-for-the-office-of-personnel-management/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/23/president-biden-announces-key-nominee-for-the-office-of-personnel-management/
 published_time: 2021-02-23 09:00:00-05:00
 title: "President\_Biden Announces Key Nominee for the Office of Personnel\_Management"
 ---

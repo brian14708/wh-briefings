@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-26'
 modified_time: 2021-10-27 12:40:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/readout-of-private-sector-roundtable-on-operation-allies-welcome/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/readout-of-private-sector-roundtable-on-operation-allies-welcome/
 published_time: 2021-10-26 16:48:27-04:00
 title: "Readout of Private Sector Roundtable on Operation Allies\_Welcome"
 ---

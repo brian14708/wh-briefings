@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-22'
 modified_time: 2021-12-22 10:38:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/a-proclamation-on-the-50th-anniversary-of-the-national-cancer-act-of-1971/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/a-proclamation-on-the-50th-anniversary-of-the-national-cancer-act-of-1971/
 published_time: 2021-12-22 10:27:37-05:00
 title: "A Proclamation on the 50th Anniversary Of The National Cancer Act Of\_1971"
 ---

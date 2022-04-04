@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-17'
 modified_time: 2022-01-17 14:17:43-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/17/statement-by-national-security-advisor-jake-sullivan-on-houthi-attack-against-uae/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/17/statement-by-national-security-advisor-jake-sullivan-on-houthi-attack-against-uae/
 published_time: 2022-01-17 14:17:42-05:00
 title: "Statement by National Security Advisor Jake Sullivan on Houthi Attack Against\_\
   UAE"

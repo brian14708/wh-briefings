@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-of-president-joe-biden-on-the-return-of-american-detainees-from-venezuela/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-of-president-joe-biden-on-the-return-of-american-detainees-from-venezuela/
 published_time: 2022-03-08 23:57:51-05:00
 title: "Statement of President Joe\_Biden on the Return of American Detainees from\_\
   Venezuela"

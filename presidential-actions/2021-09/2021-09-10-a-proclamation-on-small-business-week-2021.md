@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-10'
 modified_time: 2021-09-10 10:18:09-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/
 published_time: 2021-09-10 10:18:08-04:00
 title: "A Proclamation on Small Business Week,\_2021"
 ---

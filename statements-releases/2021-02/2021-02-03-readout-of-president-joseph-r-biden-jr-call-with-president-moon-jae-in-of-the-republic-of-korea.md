@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/readout-of-president-joseph-r-biden-jr-call-with-president-moon-jae-in-of-the-republic-of-korea/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/03/readout-of-president-joseph-r-biden-jr-call-with-president-moon-jae-in-of-the-republic-of-korea/
 published_time: 2021-02-03 22:50:05-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Moon Jae-in\
   \ of the Republic of\_Korea"

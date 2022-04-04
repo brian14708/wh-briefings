@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-29'
 modified_time: 2021-12-29 09:02:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/29/president-biden-announces-key-regional-appointments-for-usda-hud-and-sba/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/29/president-biden-announces-key-regional-appointments-for-usda-hud-and-sba/
 published_time: 2021-12-29 16:00:00-05:00
 title: "President\_Biden Announces Key Regional Appointments for USDA, HUD, and\_\
   SBA"

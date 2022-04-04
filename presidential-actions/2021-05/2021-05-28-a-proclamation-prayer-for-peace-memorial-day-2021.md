@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-28'
 modified_time: 2021-05-28 14:38:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/a-proclamation-prayer-for-peace-memorial-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/a-proclamation-prayer-for-peace-memorial-day-2021/
 published_time: 2021-05-28 14:38:29-04:00
 title: "A Proclamation: Prayer for Peace, Memorial Day,\_2021"
 ---

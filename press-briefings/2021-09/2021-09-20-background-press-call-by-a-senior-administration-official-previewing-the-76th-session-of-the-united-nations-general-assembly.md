@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-20'
 modified_time: 2021-09-20 18:11:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/20/background-press-call-by-a-senior-administration-official-previewing-the-76th-session-of-the-united-nations-general-assembly/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/20/background-press-call-by-a-senior-administration-official-previewing-the-76th-session-of-the-united-nations-general-assembly/
 published_time: 2021-09-20 18:11:02-04:00
 title: "Background Press Call by a Senior Administration Official Previewing the 76th\
   \ Session of the United Nations General\_Assembly"

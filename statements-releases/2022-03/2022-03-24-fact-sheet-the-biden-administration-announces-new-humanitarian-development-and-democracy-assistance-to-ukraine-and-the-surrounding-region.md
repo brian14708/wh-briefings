@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 09:16:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-the-biden-administration-announces-new-humanitarian-development-and-democracy-assistance-to-ukraine-and-the-surrounding-region/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-the-biden-administration-announces-new-humanitarian-development-and-democracy-assistance-to-ukraine-and-the-surrounding-region/
 published_time: 2022-03-24 09:15:00-04:00
 title: "FACT SHEET: The Biden Administration Announces New Humanitarian, Development,\
   \ and Democracy Assistance to Ukraine and the Surrounding\_Region"

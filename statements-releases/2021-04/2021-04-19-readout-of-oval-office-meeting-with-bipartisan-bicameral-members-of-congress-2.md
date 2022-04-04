@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/readout-of-oval-office-meeting-with-bipartisan-bicameral-members-of-congress-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/readout-of-oval-office-meeting-with-bipartisan-bicameral-members-of-congress-2/
 published_time: 2021-04-19 17:13:32-04:00
 title: "Readout of Oval Office Meeting with Bipartisan, Bicameral Members of\_Congress"
 ---

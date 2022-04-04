@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-25'
 modified_time: 2021-02-25 20:44:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/25/statement-by-press-secretary-jen-psaki/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/25/statement-by-press-secretary-jen-psaki/
 published_time: 2021-02-25 20:43:10-05:00
 title: "Statement by Press Secretary Jen\_Psaki"
 ---

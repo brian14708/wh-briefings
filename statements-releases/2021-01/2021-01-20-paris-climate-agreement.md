@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-20'
 modified_time: 2021-01-21 17:56:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/paris-climate-agreement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/paris-climate-agreement/
 published_time: 2021-01-20 18:56:04-05:00
 title: Paris Climate Agreement
 ---

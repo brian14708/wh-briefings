@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-18'
 modified_time: 2021-10-18 17:30:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/18/remarks-by-president-biden-at-the-2021-state-and-national-teachers-of-the-year-event/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/18/remarks-by-president-biden-at-the-2021-state-and-national-teachers-of-the-year-event/
 published_time: 2021-10-18 17:45:00-04:00
 title: "Remarks by President\_Biden at the 2021 State and National Teachers of the\
   \ Year\_Event"

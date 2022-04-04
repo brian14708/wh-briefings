@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-20'
 modified_time: 2021-07-20 15:47:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/
 published_time: 2021-07-20 15:47:48-04:00
 title: "Readout of the First Meeting of the White\_House Working Group on Puerto\_\
   Rico"

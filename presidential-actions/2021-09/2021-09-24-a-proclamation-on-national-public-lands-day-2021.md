@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-24'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/24/a-proclamation-on-national-public-lands-day-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/24/a-proclamation-on-national-public-lands-day-2021/
 published_time: 2021-09-24 10:28:07-04:00
 title: "A Proclamation on National Public Lands Day,\_2021"
 ---

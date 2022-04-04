@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-25'
 modified_time: 2021-10-25 14:37:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/25/background-press-call-by-senior-administration-officials-on-covid-19-and-international-air-travel-policy/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/25/background-press-call-by-senior-administration-officials-on-covid-19-and-international-air-travel-policy/
 published_time: 2021-10-25 14:37:46-04:00
 title: "Background Press Call by Senior Administration Officials on\_COVID-\u2060\
   19 and International Air Travel\_Policy"

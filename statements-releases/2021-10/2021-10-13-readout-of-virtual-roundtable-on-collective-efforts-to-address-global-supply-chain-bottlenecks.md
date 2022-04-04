@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-13'
 modified_time: 2021-10-14 09:52:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/readout-of-virtual-roundtable-on-collective-efforts-to-address-global-supply-chain-bottlenecks/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/readout-of-virtual-roundtable-on-collective-efforts-to-address-global-supply-chain-bottlenecks/
 published_time: 2021-10-13 13:27:33-04:00
 title: "Readout of Virtual Roundtable on Collective Efforts to Address Global Supply\
   \ Chain\_Bottlenecks"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-05'
 modified_time: 2021-05-05 16:46:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/05/statement-from-president-joe-biden-on-the-tragedy-in-mexico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/05/statement-from-president-joe-biden-on-the-tragedy-in-mexico/
 published_time: 2021-05-05 16:46:54-04:00
 title: "Statement from President Joe\_Biden on the Tragedy in\_Mexico"
 ---

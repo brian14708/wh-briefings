@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-17'
 modified_time: 2021-02-17 20:55:51-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-stephen-lovegrove-incoming-national-security-advisor-to-the-prime-minister-of-the-united-kingd/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-stephen-lovegrove-incoming-national-security-advisor-to-the-prime-minister-of-the-united-kingd/
 published_time: 2021-02-17 20:55:50-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Stephen Lovegrove, Incoming National Security Advisor\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-18'
 modified_time: 2021-11-18 20:55:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/building-back-better-together-a-secure-prosperous-north-america/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/building-back-better-together-a-secure-prosperous-north-america/
 published_time: 2021-11-18 20:48:48-05:00
 title: "Building Back Better Together: A Secure, Prosperous North\_America"
 ---

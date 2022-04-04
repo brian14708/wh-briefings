@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-20'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/readout-of-president-joseph-r-biden-jr-s-meeting-with-secretary-general-antonio-guterres-of-the-united-nations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/readout-of-president-joseph-r-biden-jr-s-meeting-with-secretary-general-antonio-guterres-of-the-united-nations/
 published_time: 2021-09-20 20:35:46-04:00
 title: "Readout of President Joseph R. Biden Jr.\u2019s Meeting with Secretary-General\
   \ Ant\xF3nio Guterres of the United\_Nations"

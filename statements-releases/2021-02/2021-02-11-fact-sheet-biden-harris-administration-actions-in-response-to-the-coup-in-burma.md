@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-11'
 modified_time: 2021-02-11 12:48:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/fact-sheet-biden-harris-administration-actions-in-response-to-the-coup-in-burma/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/11/fact-sheet-biden-harris-administration-actions-in-response-to-the-coup-in-burma/
 published_time: 2021-02-11 12:48:44-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions in Response to the Coup\
   \ in\_Burma"

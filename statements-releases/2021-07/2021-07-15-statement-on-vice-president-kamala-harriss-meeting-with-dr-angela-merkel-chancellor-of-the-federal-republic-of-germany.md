@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-15'
 modified_time: 2021-07-15 19:35:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/statement-on-vice-president-kamala-harriss-meeting-with-dr-angela-merkel-chancellor-of-the-federal-republic-of-germany/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/15/statement-on-vice-president-kamala-harriss-meeting-with-dr-angela-merkel-chancellor-of-the-federal-republic-of-germany/
 published_time: 2021-07-15 19:35:07-04:00
 title: "Statement on Vice President Kamala\_Harris\u2019s Meeting with Dr. Angela\
   \ Merkel, Chancellor of the Federal Republic of\_Germany"

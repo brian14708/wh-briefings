@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-09-15'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/15/background-press-call-on-aukus/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/15/background-press-call-on-aukus/
 published_time: 2021-09-15 17:56:30-04:00
 title: "Background Press Call on\_AUKUS"
 ---

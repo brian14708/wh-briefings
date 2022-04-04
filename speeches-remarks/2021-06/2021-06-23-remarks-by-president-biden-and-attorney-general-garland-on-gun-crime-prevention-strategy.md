@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-06-23'
 modified_time: 2021-06-23 20:27:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-president-biden-and-attorney-general-garland-on-gun-crime-prevention-strategy/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/23/remarks-by-president-biden-and-attorney-general-garland-on-gun-crime-prevention-strategy/
 published_time: 2021-06-23 20:45:00-04:00
 title: "Remarks by President\_Biden and Attorney General Garland on Gun Crime Prevention\_\
   Strategy"

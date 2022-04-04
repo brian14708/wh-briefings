@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-04'
 modified_time: 2021-06-04 15:00:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/04/memorandum-for-the-secretary-of-defense-on-2020-unified-command-plan/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/04/memorandum-for-the-secretary-of-defense-on-2020-unified-command-plan/
 published_time: 2021-06-04 14:59:40-04:00
 title: "Memorandum for the Secretary of Defense on 2020 Unified Command\_Plan"
 ---

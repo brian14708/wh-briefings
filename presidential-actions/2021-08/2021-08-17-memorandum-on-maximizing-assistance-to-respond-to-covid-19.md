@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-17'
 modified_time: 2021-08-19 09:27:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/17/memorandum-on-maximizing-assistance-to-respond-to-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/17/memorandum-on-maximizing-assistance-to-respond-to-covid-19/
 published_time: 2021-08-17 12:14:34-04:00
 title: "Memorandum on Maximizing Assistance to Respond to\_COVID-\u206019"
 ---

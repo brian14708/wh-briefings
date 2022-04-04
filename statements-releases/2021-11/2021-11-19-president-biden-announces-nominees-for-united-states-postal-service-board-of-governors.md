@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-biden-announces-nominees-for-united-states-postal-service-board-of-governors/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-biden-announces-nominees-for-united-states-postal-service-board-of-governors/
 published_time: 2021-11-19 10:36:32-05:00
 title: "President\_Biden Announces Nominees for United\_States Postal Service Board\
   \ of\_Governors"

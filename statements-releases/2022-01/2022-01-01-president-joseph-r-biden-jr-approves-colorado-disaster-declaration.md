@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-01'
 modified_time: 2022-01-01 00:13:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/01/president-joseph-r-biden-jr-approves-colorado-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/01/president-joseph-r-biden-jr-approves-colorado-disaster-declaration/
 published_time: 2022-01-01 00:13:41-05:00
 title: "President Joseph R. Biden, Jr. Approves Colorado Disaster\_Declaration"
 ---

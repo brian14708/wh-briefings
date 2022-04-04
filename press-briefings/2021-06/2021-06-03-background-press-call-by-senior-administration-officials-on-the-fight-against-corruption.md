@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-06-03'
 modified_time: 2021-06-03 11:45:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/03/background-press-call-by-senior-administration-officials-on-the-fight-against-corruption/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/03/background-press-call-by-senior-administration-officials-on-the-fight-against-corruption/
 published_time: 2021-06-03 12:15:00-04:00
 title: "Background Press Call by Senior Administration Officials on the Fight Against\_\
   Corruption"

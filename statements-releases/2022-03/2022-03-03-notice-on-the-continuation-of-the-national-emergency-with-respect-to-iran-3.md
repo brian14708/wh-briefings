@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-03'
 modified_time: 2022-03-03 14:35:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-3/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-3/
 published_time: 2022-03-03 14:35:36-05:00
 title: "Notice on the Continuation of the National Emergency With Respect to\_Iran"
 ---

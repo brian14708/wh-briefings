@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-01-26'
 modified_time: 2021-01-26 19:00:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/26/remarks-by-president-biden-on-the-fight-to-contain-the-covid-19-pandemic/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/26/remarks-by-president-biden-on-the-fight-to-contain-the-covid-19-pandemic/
 published_time: 2021-01-26 19:00:57-05:00
 title: "Remarks by President\_Biden on the Fight to Contain the COVID-\u206019\_Pandemic"
 ---

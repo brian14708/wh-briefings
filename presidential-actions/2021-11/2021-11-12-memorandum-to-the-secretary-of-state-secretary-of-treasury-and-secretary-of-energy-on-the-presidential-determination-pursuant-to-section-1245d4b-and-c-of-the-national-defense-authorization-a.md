@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-12'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/12/memorandum-to-the-secretary-of-state-secretary-of-treasury-and-secretary-of-energy-on-the-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-a/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/12/memorandum-to-the-secretary-of-state-secretary-of-treasury-and-secretary-of-energy-on-the-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-a/
 published_time: 2021-11-12 15:42:25-05:00
 title: "Memorandum to the Secretary of State, Secretary of Treasury, and Secretary\
   \ of Energy on the Presidential Determination Pursuant to Section 1245(d)(4)(B)\

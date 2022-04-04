@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-16'
 modified_time: 2021-02-15 19:38:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/fact-sheet-biden-administration-announces-extension-of-covid-19-forbearance-and-foreclosure-protections-for-homeowners/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/fact-sheet-biden-administration-announces-extension-of-covid-19-forbearance-and-foreclosure-protections-for-homeowners/
 published_time: 2021-02-16 04:20:00-05:00
 title: "Fact Sheet: Biden Administration Announces Extension of COVID-\u206019 Forbearance\
   \ and Foreclosure Protections for\_Homeowners"

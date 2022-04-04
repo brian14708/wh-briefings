@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 13:36:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-joe-biden-on-california-governor-gavin-newsoms-recall-election-victory/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/statement-by-president-joe-biden-on-california-governor-gavin-newsoms-recall-election-victory/
 published_time: 2021-09-15 13:36:37-04:00
 title: "Statement by President Joe\_Biden on California Governor Gavin Newsom\u2019\
   s Recall Election\_Victory"

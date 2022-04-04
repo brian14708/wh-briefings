@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-21'
 modified_time: 2021-05-21 20:44:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/21/u-s-rok-leaders-joint-statement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/21/u-s-rok-leaders-joint-statement/
 published_time: 2021-05-21 20:43:59-04:00
 title: "U.S.-ROK Leaders\u2019 Joint\_Statement"
 ---

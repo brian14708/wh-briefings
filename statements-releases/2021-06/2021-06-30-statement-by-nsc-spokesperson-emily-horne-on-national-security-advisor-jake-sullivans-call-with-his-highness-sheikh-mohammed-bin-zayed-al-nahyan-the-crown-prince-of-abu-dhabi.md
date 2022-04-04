@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 18:35:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-his-highness-sheikh-mohammed-bin-zayed-al-nahyan-the-crown-prince-of-abu-dhabi/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-his-highness-sheikh-mohammed-bin-zayed-al-nahyan-the-crown-prince-of-abu-dhabi/
 published_time: 2021-06-30 18:35:29-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with His Highness Sheikh Mohammed bin Zayed Al Nahyan, The\

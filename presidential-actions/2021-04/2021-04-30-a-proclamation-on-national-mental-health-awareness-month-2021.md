@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 16:14:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-mental-health-awareness-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-national-mental-health-awareness-month-2021/
 published_time: 2021-04-30 16:14:54-04:00
 title: "A Proclamation on National Mental Health Awareness Month,\_2021"
 ---

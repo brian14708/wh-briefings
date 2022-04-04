@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-20'
 modified_time: 2022-01-20 13:11:00-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/readout-of-national-security-advisor-jake-sullivans-call-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/readout-of-national-security-advisor-jake-sullivans-call-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
 published_time: 2022-01-20 13:10:59-05:00
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Secretary\
   \ General of Japan\u2019s National Security Secretariat Akiba\_Takeo"

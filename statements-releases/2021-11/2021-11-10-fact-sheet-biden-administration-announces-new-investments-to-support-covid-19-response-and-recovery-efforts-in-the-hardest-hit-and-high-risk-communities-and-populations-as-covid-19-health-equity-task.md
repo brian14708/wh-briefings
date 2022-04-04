@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-10 10:49:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-biden-administration-announces-new-investments-to-support-covid-19-response-and-recovery-efforts-in-the-hardest-hit-and-high-risk-communities-and-populations-as-covid-19-health-equity-task/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-biden-administration-announces-new-investments-to-support-covid-19-response-and-recovery-efforts-in-the-hardest-hit-and-high-risk-communities-and-populations-as-covid-19-health-equity-task/
 published_time: 2021-11-10 10:30:00-05:00
 title: "FACT SHEET: Biden Administration Announces New Investments to Support COVID-\u2060\
   19 Response and Recovery Efforts in the Hardest-Hit and High-Risk Communities and\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-08-01 13:48:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-historic-bipartisan-infrastructure-deal/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-historic-bipartisan-infrastructure-deal/
 published_time: 2021-07-28 15:01:13-04:00
 title: "FACT SHEET: Historic Bipartisan Infrastructure\_Deal"
 ---

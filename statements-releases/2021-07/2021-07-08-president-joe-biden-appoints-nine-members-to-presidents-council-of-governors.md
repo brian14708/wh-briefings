@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-08'
 modified_time: 2021-07-08 15:41:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/president-joe-biden-appoints-nine-members-to-presidents-council-of-governors/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/president-joe-biden-appoints-nine-members-to-presidents-council-of-governors/
 published_time: 2021-07-08 15:41:04-04:00
 title: "President Joe\_Biden Appoints Nine Members to President\u2019s Council of\_\
   Governors"

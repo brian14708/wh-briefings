@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-11 08:13:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/
 published_time: 2022-03-11 08:45:00-05:00
 title: "FACT SHEET: New Data Show Progress on Biden-\u2060Harris Commitment to Equity\
   \ in Emergency Small Business\_Relief"

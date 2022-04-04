@@ -1,8 +1,8 @@
 ---
-category: blog
+tags: blog
 date: '2021-09-08'
 modified_time: 2021-12-15 17:29:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/
+source_url: https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/
 published_time: 2021-09-08 12:00:00-04:00
 title: "Addressing Concentration in the Meat-Processing Industry to Lower Food Prices\
   \ for American\_Families"

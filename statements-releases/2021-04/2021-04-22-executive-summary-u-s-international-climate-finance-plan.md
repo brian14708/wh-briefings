@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-22'
 modified_time: 2021-04-22 11:06:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/executive-summary-u-s-international-climate-finance-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/executive-summary-u-s-international-climate-finance-plan/
 published_time: 2021-04-22 11:06:11-04:00
 title: "EXECUTIVE SUMMARY: U.S. International Climate Finance\_Plan"
 ---

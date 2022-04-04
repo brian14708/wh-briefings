@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-13'
 modified_time: 2022-03-13 18:13:04-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joe-biden-and-micheal-martin-taoiseach-of-ireland/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joe-biden-and-micheal-martin-taoiseach-of-ireland/
 published_time: 2022-03-13 18:30:00-04:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Meeting\
   \ between President Joe\_Biden and Miche\xE1l Martin, Taoiseach of\_Ireland"

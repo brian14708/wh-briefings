@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-15'
 modified_time: 2022-03-15 15:42:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/statement-from-president-biden-on-the-withdrawal-of-sarah-bloom-raskins-nomination-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve-board-of-governors/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/statement-from-president-biden-on-the-withdrawal-of-sarah-bloom-raskins-nomination-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve-board-of-governors/
 published_time: 2022-03-15 15:42:09-04:00
 title: "Statement from President\_Biden on the Withdrawal of Sarah Bloom Raskin\u2019\
   s Nomination to Serve as Vice Chair for Supervision of the Federal Reserve Board\

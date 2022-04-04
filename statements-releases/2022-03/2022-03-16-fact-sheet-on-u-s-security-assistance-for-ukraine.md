@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-16'
 modified_time: 2022-03-16 13:28:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-on-u-s-security-assistance-for-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-on-u-s-security-assistance-for-ukraine/
 published_time: 2022-03-16 13:28:18-04:00
 title: "Fact Sheet on U.S. Security Assistance for\_Ukraine"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-15'
 modified_time: 2021-03-15 15:52:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/15/press-briefing-by-press-secretary-jen-psaki-march-15-2021/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/15/press-briefing-by-press-secretary-jen-psaki-march-15-2021/
 published_time: 2021-03-15 15:52:23-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, March 15,\_2021"
 ---

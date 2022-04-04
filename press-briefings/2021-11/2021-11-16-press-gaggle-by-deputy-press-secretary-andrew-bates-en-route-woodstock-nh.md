@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-11-16'
 modified_time: 2021-11-16 16:02:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/16/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-woodstock-nh/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/16/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-woodstock-nh/
 published_time: 2021-11-16 16:15:00-05:00
 title: "Press Gaggle by Deputy Press Secretary Andrew Bates En Route Woodstock,\_\
   NH"

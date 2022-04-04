@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-01-26'
 modified_time: 2021-01-27 08:38:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/26/press-briefing-by-press-secretary-jen-psaki-and-domestic-policy-advisor-susan-rice-january-26-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/01/26/press-briefing-by-press-secretary-jen-psaki-and-domestic-policy-advisor-susan-rice-january-26-2021/
 published_time: 2021-01-26 18:09:50-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Domestic Policy Advisor Susan\
   \ Rice, January 26,\_2021"

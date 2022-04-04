@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/joint-statement-by-president-joseph-r-biden-jr-of-the-united-states-and-president-ivan-duque-marquez-of-the-republic-of-colombia-u-s-colombia-bicentennial-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/joint-statement-by-president-joseph-r-biden-jr-of-the-united-states-and-president-ivan-duque-marquez-of-the-republic-of-colombia-u-s-colombia-bicentennial-partnership/
 published_time: 2022-03-10 19:30:21-05:00
 title: "Joint Statement by President Joseph R. Biden Jr. of the United\_States and\
   \ President Iv\xE1n Duque M\xE1rquez of the Republic of Colombia U.S.-Colombia Bicentennial\_\

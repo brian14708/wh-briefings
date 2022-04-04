@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-14'
 modified_time: 2022-02-14 15:23:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/readout-of-president-bidens-call-with-prime-minister-johnson-of-the-united-kingdom/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/readout-of-president-bidens-call-with-prime-minister-johnson-of-the-united-kingdom/
 published_time: 2022-02-14 15:23:53-05:00
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Johnson of the\
   \ United\_Kingdom"

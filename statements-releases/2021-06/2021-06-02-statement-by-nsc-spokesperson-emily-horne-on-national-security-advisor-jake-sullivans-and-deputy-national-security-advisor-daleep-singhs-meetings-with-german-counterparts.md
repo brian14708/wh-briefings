@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-02'
 modified_time: 2021-06-02 18:38:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/02/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-and-deputy-national-security-advisor-daleep-singhs-meetings-with-german-counterparts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/02/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-and-deputy-national-security-advisor-daleep-singhs-meetings-with-german-counterparts/
 published_time: 2021-06-02 18:38:53-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s and Deputy National Security Advisor Daleep Singh\u2019s Meetings\

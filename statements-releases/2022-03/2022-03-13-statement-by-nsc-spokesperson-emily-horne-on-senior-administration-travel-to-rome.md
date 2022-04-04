@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-13'
 modified_time: 2022-03-13 09:42:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-travel-to-rome/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/13/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-travel-to-rome/
 published_time: 2022-03-13 10:00:00-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Travel\
   \ to\_Rome"

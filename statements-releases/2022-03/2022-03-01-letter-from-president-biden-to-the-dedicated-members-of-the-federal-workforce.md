@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 09:08:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/letter-from-president-biden-to-the-dedicated-members-of-the-federal-workforce/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/letter-from-president-biden-to-the-dedicated-members-of-the-federal-workforce/
 published_time: 2022-03-01 09:30:00-05:00
 title: "Letter from President\_Biden to the Dedicated Members of the Federal\_Workforce"
 ---

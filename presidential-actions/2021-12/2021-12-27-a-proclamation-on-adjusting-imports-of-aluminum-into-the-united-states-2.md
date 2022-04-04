@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-27'
 modified_time: 2021-12-27 17:12:04-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/27/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-2/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/27/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-2/
 published_time: 2021-12-27 17:12:03-05:00
 title: "A Proclamation on Adjusting Imports of Aluminum into the United\_States"
 ---

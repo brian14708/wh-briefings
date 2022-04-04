@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-26'
 modified_time: 2021-03-26 15:42:44-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-invites-40-world-leaders-to-leaders-summit-on-climate/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/26/president-biden-invites-40-world-leaders-to-leaders-summit-on-climate/
 published_time: 2021-03-26 15:42:43-04:00
 title: "President\_Biden Invites 40 World Leaders to Leaders Summit on\_Climate"
 ---

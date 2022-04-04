@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-10'
 modified_time: 2021-12-10 17:27:38-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-supreme-court-decision-on-texas-sb8/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/statement-by-president-joe-biden-on-supreme-court-decision-on-texas-sb8/
 published_time: 2021-12-10 17:27:37-05:00
 title: "Statement by President Joe\_Biden on Supreme Court Decision on Texas\_SB8"
 ---

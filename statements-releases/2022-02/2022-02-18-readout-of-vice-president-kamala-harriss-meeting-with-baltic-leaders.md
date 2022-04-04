@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-18'
 modified_time: 2022-02-18 12:11:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/18/readout-of-vice-president-kamala-harriss-meeting-with-baltic-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/18/readout-of-vice-president-kamala-harriss-meeting-with-baltic-leaders/
 published_time: 2022-02-18 12:11:28-05:00
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Baltic\_Leaders"
 ---

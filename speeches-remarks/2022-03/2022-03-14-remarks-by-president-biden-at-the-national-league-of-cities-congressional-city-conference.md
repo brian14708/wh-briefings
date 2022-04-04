@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-14'
 modified_time: 2022-03-14 17:40:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/14/remarks-by-president-biden-at-the-national-league-of-cities-congressional-city-conference/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/14/remarks-by-president-biden-at-the-national-league-of-cities-congressional-city-conference/
 published_time: 2022-03-14 17:40:14-04:00
 title: "Remarks by President\_Biden at the National League of Cities Congressional\
   \ City\_Conference"

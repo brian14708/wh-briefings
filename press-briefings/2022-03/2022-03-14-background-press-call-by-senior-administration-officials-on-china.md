@@ -1,7 +1,7 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-14'
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/14/background-press-call-by-senior-administration-officials-on-china/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/14/background-press-call-by-senior-administration-officials-on-china/
 published_time: 2022-03-14 17:42:30-04:00
 title: "Background Press Call by Senior Administration Officials on\_China"
 ---

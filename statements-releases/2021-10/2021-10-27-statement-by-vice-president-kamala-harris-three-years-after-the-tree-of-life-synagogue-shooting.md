@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-27'
 modified_time: 2021-10-27 12:42:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/statement-by-vice-president-kamala-harris-three-years-after-the-tree-of-life-synagogue-shooting/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/statement-by-vice-president-kamala-harris-three-years-after-the-tree-of-life-synagogue-shooting/
 published_time: 2021-10-27 12:42:58-04:00
 title: "Statement by Vice President Kamala\_Harris Three Years After the Tree of Life\
   \ Synagogue\_Shooting"

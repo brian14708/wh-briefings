@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-09'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/readout-of-president-joseph-r-biden-jr-s-call-with-king-salman-bin-abdulaziz-al-saud-of-saudi-arabia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/readout-of-president-joseph-r-biden-jr-s-call-with-king-salman-bin-abdulaziz-al-saud-of-saudi-arabia/
 published_time: 2022-02-09 15:27:10-05:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with King Salman bin\
   \ Abdulaziz Al-Saud of Saudi\_Arabia"

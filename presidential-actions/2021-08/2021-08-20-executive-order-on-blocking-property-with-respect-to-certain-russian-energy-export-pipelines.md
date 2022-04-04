@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-20'
 modified_time: 2021-08-20 12:11:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/20/executive-order-on-blocking-property-with-respect-to-certain-russian-energy-export-pipelines/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/20/executive-order-on-blocking-property-with-respect-to-certain-russian-energy-export-pipelines/
 published_time: 2021-08-20 12:11:40-04:00
 title: "Executive Order on Blocking Property with Respect to Certain Russian Energy\
   \ Export\_Pipelines"

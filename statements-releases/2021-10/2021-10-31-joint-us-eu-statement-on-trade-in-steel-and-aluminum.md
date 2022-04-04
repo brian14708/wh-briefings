@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 09:17:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/joint-us-eu-statement-on-trade-in-steel-and-aluminum/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/joint-us-eu-statement-on-trade-in-steel-and-aluminum/
 published_time: 2021-10-31 09:17:27-04:00
 title: "JOINT US-EU STATEMENT ON TRADE IN STEEL AND\_ALUMINUM"
 ---

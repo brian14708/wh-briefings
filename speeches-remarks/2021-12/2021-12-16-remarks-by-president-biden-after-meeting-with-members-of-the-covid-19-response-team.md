@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-16'
 modified_time: 2021-12-16 18:23:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-president-biden-after-meeting-with-members-of-the-covid-19-response-team/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-president-biden-after-meeting-with-members-of-the-covid-19-response-team/
 published_time: 2021-12-16 18:45:00-05:00
 title: "Remarks by President\_Biden After Meeting with Members of the COVID-\u2060\
   19 Response\_Team"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-26'
 modified_time: 2021-01-26 15:15:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/
 published_time: 2021-01-26 15:14:13-05:00
 title: "Memorandum on Tribal Consultation and Strengthening Nation-to-Nation\_Relationships"
 ---

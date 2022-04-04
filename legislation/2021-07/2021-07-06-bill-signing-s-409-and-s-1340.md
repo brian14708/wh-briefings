@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2021-07-06'
 modified_time: 2021-07-06 16:13:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2021/07/06/bill-signing-s-409-and-s-1340/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/07/06/bill-signing-s-409-and-s-1340/
 published_time: 2021-07-06 16:13:11-04:00
 title: "Bill Signing: S. 409 and S.\_1340"
 ---

@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-17'
 modified_time: 2021-03-17 18:58:33-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/17/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-education-miguel-cardona-march-17-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/17/press-briefing-by-press-secretary-jen-psaki-and-secretary-of-education-miguel-cardona-march-17-2021/
 published_time: 2021-03-17 19:15:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Secretary of Education Miguel\
   \ Cardona, March 17,\_2021"

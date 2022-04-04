@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-06'
 modified_time: 2021-10-06 23:04:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/06/statement-from-press-secretary-jen-psaki-on-texas-s-b-8-court-ruling/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/06/statement-from-press-secretary-jen-psaki-on-texas-s-b-8-court-ruling/
 published_time: 2021-10-06 23:04:56-04:00
 title: "Statement from Press Secretary Jen\_Psaki on Texas S.B. 8 Court\_Ruling"
 ---

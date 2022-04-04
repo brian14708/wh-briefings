@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-16'
 modified_time: 2022-03-18 07:25:47-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/readout-of-vice-president-harriss-call-with-president-caputova-of-slovakia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/readout-of-vice-president-harriss-call-with-president-caputova-of-slovakia/
 published_time: 2022-03-16 13:26:00-04:00
 title: "Readout of Vice President Harris\u2019s Call with President Caputova of\_\
   Slovakia"

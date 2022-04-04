@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-12-23 17:12:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-bilateral-meeting-with-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-vice-president-kamala-harriss-bilateral-meeting-with-president-andres-manuel-lopez-obrador-of-mexico/
 published_time: 2021-06-08 14:38:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on Vice\
   \ President Kamala\_Harris\u2019s Bilateral Meeting with President Andr\xE9s Manuel\

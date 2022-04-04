@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-30'
 modified_time: 2021-04-30 19:47:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/30/remarks-by-vice-president-harris-on-the-progress-made-during-the-first-100-days-in-office/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/30/remarks-by-vice-president-harris-on-the-progress-made-during-the-first-100-days-in-office/
 published_time: 2021-04-30 19:47:25-04:00
 title: "Remarks by Vice President Harris on the Progress Made During the First 100\
   \ Days in\_Office"

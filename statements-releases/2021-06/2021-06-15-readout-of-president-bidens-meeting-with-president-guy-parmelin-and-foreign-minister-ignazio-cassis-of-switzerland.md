@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 18:08:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/readout-of-president-bidens-meeting-with-president-guy-parmelin-and-foreign-minister-ignazio-cassis-of-switzerland/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/readout-of-president-bidens-meeting-with-president-guy-parmelin-and-foreign-minister-ignazio-cassis-of-switzerland/
 published_time: 2021-06-15 18:08:49-04:00
 title: "Readout of President\_Biden\u2019s Meeting with President Guy Parmelin and\
   \ Foreign Minister Ignazio Cassis of\_Switzerland"

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-06-30'
 modified_time: 2021-06-30 12:37:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/30/a-proclamation-on-the-50th-anniversary-of-the-26th-amendment/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/30/a-proclamation-on-the-50th-anniversary-of-the-26th-amendment/
 published_time: 2021-06-30 12:37:54-04:00
 title: "A Proclamation on the 50th Anniversary of the 26th\_Amendment"
 ---

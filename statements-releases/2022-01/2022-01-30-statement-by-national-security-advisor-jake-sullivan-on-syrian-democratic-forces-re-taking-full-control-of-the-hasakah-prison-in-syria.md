@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/30/statement-by-national-security-advisor-jake-sullivan-on-syrian-democratic-forces-re-taking-full-control-of-the-hasakah-prison-in-syria/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/30/statement-by-national-security-advisor-jake-sullivan-on-syrian-democratic-forces-re-taking-full-control-of-the-hasakah-prison-in-syria/
 published_time: 2022-01-30 16:52:20-05:00
 title: "Statement by National Security Advisor Jake Sullivan on Syrian Democratic\
   \ Forces Re-Taking Full Control of the Hasakah Prison in\_Syria"

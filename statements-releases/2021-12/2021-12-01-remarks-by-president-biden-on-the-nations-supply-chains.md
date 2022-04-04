@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-01'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/remarks-by-president-biden-on-the-nations-supply-chains/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/remarks-by-president-biden-on-the-nations-supply-chains/
 published_time: 2021-12-01 15:36:05-05:00
 title: "Remarks by President\_Biden on the Nation\u2019s Supply\_Chains"
 ---

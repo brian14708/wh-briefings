@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-21'
 modified_time: 2022-02-21 20:37:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/21/background-press-call-by-senior-administration-officials-on-russia-and-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/21/background-press-call-by-senior-administration-officials-on-russia-and-ukraine/
 published_time: 2022-02-21 20:37:16-05:00
 title: "Background Press Call by Senior Administration Officials on Russia and\_Ukraine"
 ---

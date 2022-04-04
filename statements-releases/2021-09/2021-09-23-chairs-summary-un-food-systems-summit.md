@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-23'
 modified_time: 2021-09-23 09:39:06-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/chairs-summary-un-food-systems-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/chairs-summary-un-food-systems-summit/
 published_time: 2021-09-23 11:00:00-04:00
 title: "Chair\u2019s Summary: UN Food Systems\_Summit"
 ---

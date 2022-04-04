@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-12-09'
 modified_time: 2021-12-09 13:55:10-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-a-congressional-tribute-ceremony-for-senator-robert-j-dole/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-a-congressional-tribute-ceremony-for-senator-robert-j-dole/
 published_time: 2021-12-09 13:55:09-05:00
 title: "Remarks by President\_Biden at a Congressional Tribute Ceremony for Senator\
   \ Robert J.\_Dole"

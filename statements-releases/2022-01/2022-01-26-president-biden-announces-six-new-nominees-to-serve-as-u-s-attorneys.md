@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-26 08:46:33-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/president-biden-announces-six-new-nominees-to-serve-as-u-s-attorneys/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/president-biden-announces-six-new-nominees-to-serve-as-u-s-attorneys/
 published_time: 2022-01-26 08:44:32-05:00
 title: "President\_Biden Announces Six New Nominees to Serve as U.S.\_Attorneys"
 ---

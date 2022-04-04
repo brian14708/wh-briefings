@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-03'
 modified_time: 2022-03-03 15:38:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/readout-of-white-house-meeting-with-florida-reproductive-rights-advocates/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/readout-of-white-house-meeting-with-florida-reproductive-rights-advocates/
 published_time: 2022-03-03 15:38:28-05:00
 title: "Readout of White\_House Meeting with Florida Reproductive Rights\_Advocates"
 ---

@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2021-07-29'
 modified_time: 2021-07-29 14:33:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2021/07/29/april-2021-visitor-log-records-posted/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/07/29/april-2021-visitor-log-records-posted/
 published_time: 2021-07-29 17:00:00-04:00
 title: "April 2021 Visitor Log Records\_Posted"
 ---

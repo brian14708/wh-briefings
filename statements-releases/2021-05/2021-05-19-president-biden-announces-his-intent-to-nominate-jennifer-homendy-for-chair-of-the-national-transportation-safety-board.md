@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-19'
 modified_time: 2021-05-19 15:41:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/19/president-biden-announces-his-intent-to-nominate-jennifer-homendy-for-chair-of-the-national-transportation-safety-board/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/19/president-biden-announces-his-intent-to-nominate-jennifer-homendy-for-chair-of-the-national-transportation-safety-board/
 published_time: 2021-05-19 15:41:18-04:00
 title: "President\_Biden Announces his Intent to Nominate Jennifer Homendy for Chair\
   \ of the National Transportation Safety\_Board"

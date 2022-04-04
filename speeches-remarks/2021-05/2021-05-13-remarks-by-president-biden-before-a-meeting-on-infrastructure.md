@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-13'
 modified_time: 2021-05-13 18:44:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/13/remarks-by-president-biden-before-a-meeting-on-infrastructure/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/13/remarks-by-president-biden-before-a-meeting-on-infrastructure/
 published_time: 2021-05-13 19:15:00-04:00
 title: "Remarks by President\_Biden Before a Meeting on\_Infrastructure"
 ---

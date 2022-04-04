@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-20'
 modified_time: 2022-01-25 16:22:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-barbara-bush-foundation-for-family-literacys-national-summit-for-adult-literacy/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-barbara-bush-foundation-for-family-literacys-national-summit-for-adult-literacy/
 published_time: 2021-10-20 13:07:00-04:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Barbara\
   \ Bush Foundation for Family Literacy\u2019s National Summit for Adult\_Literacy"

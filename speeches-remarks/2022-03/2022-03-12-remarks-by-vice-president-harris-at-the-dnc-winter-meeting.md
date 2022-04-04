@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-12'
 modified_time: 2022-03-12 14:56:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/12/remarks-by-vice-president-harris-at-the-dnc-winter-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/12/remarks-by-vice-president-harris-at-the-dnc-winter-meeting/
 published_time: 2022-03-12 14:56:08-05:00
 title: "Remarks by Vice President Harris at the DNC Winter\_Meeting"
 ---

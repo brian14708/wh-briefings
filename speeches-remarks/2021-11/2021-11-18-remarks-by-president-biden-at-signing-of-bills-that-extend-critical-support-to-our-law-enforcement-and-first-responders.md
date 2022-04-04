@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-18'
 modified_time: 2021-11-18 17:10:11-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-president-biden-at-signing-of-bills-that-extend-critical-support-to-our-law-enforcement-and-first-responders/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-president-biden-at-signing-of-bills-that-extend-critical-support-to-our-law-enforcement-and-first-responders/
 published_time: 2021-11-18 17:10:10-05:00
 title: "Remarks by President\_Biden at Signing of Bills that Extend Critical Support\
   \ to our Law Enforcement and First\_Responders"

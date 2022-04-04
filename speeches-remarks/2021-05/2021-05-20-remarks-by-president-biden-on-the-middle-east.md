@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-20'
 modified_time: 2021-05-20 21:08:57-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-on-the-middle-east/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-on-the-middle-east/
 published_time: 2021-05-20 21:08:56-04:00
 title: "Remarks by President\_Biden on the Middle\_East"
 ---

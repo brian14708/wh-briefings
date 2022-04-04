@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-15'
 modified_time: 2021-11-15 13:27:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/president-biden-announces-additional-nominees-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/president-biden-announces-additional-nominees-2/
 published_time: 2021-11-15 14:00:00-05:00
 title: "President\_Biden Announces Additional\_Nominees"
 ---

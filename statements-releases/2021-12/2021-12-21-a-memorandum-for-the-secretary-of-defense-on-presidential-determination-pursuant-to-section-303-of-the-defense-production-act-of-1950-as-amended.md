@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-21'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/21/a-memorandum-for-the-secretary-of-defense-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/21/a-memorandum-for-the-secretary-of-defense-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended/
 published_time: 2021-12-21 17:50:33-05:00
 title: "A Memorandum for the Secretary of Defense on Presidential Determination Pursuant\
   \ to Section 303 of the Defense Production Act of 1950, as\_amended"

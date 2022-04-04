@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-16'
 modified_time: 2021-02-26 10:48:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/the-mpp-program-and-border-security-joint-statement-by-assistant-to-the-president-and-national-security-advisor-jake-sullivan-and-assistant-to-the-president-and-homeland-security-advisor-and-deputy-na/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/the-mpp-program-and-border-security-joint-statement-by-assistant-to-the-president-and-national-security-advisor-jake-sullivan-and-assistant-to-the-president-and-homeland-security-advisor-and-deputy-na/
 published_time: 2021-02-16 14:50:21-05:00
 title: The MPP Program and Border Security Joint Statement by Assistant to the President
   and National Security Advisor Jake Sullivan and Assistant to the President and Homeland

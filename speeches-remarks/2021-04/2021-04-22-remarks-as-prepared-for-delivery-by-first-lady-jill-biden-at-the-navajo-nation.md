@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-22'
 modified_time: 2022-01-25 15:01:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-navajo-nation/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-navajo-nation/
 published_time: 2021-04-22 18:00:00-04:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Navajo\_\
   Nation"

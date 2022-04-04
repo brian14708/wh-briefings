@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-04-05'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/05/remarks-by-president-biden-after-marine-one-arrival-3/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/05/remarks-by-president-biden-after-marine-one-arrival-3/
 published_time: 2021-04-05 14:51:37-04:00
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

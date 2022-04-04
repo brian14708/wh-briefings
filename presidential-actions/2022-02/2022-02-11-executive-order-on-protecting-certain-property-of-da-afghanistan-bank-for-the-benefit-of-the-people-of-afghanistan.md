@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2022-02-11'
 modified_time: 2022-02-11 09:23:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/11/executive-order-on-protecting-certain-property-of-da-afghanistan-bank-for-the-benefit-of-the-people-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/11/executive-order-on-protecting-certain-property-of-da-afghanistan-bank-for-the-benefit-of-the-people-of-afghanistan/
 published_time: 2022-02-11 09:30:00-05:00
 title: "Executive Order on Protecting Certain Property of Da Afghanistan Bank for\
   \ the Benefit of the People of\_Afghanistan"

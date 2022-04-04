@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-02'
 modified_time: 2021-12-02 20:55:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/readout-of-the-presidents-calls-with-senator-murray-and-senator-kaine-on-the-build-back-better-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/readout-of-the-presidents-calls-with-senator-murray-and-senator-kaine-on-the-build-back-better-act/
 published_time: 2021-12-02 20:55:29-05:00
 title: "Readout of the President\u2019s Calls with Senator Murray and Senator Kaine\
   \ on the Build Back Better\_Act"

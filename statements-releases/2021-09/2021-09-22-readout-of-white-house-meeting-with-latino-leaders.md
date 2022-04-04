@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-09-22 10:27:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-white-house-meeting-with-latino-leaders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-white-house-meeting-with-latino-leaders/
 published_time: 2021-09-22 10:27:39-04:00
 title: "Readout of White\_House Meeting with Latino\_Leaders"
 ---

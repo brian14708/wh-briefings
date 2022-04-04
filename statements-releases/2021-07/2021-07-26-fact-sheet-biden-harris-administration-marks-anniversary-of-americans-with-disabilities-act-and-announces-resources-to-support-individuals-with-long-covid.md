@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-26'
 modified_time: 2021-07-25 23:27:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/
 published_time: 2021-07-26 07:30:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Marks Anniversary of Americans\
   \ with Disabilities Act and Announces Resources to Support Individuals with Long\_\

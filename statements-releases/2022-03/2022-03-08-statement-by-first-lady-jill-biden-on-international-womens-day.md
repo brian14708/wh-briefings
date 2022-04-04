@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
 modified_time: 2022-03-08 08:21:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-first-lady-jill-biden-on-international-womens-day/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/statement-by-first-lady-jill-biden-on-international-womens-day/
 published_time: 2022-03-08 08:21:33-05:00
 title: "Statement by First Lady Jill\_Biden on International Women\u2019s\_Day"
 ---

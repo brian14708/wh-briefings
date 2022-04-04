@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-21'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/extend-federal-support-to-governors-use-of-national-guard-to-respond-to-covid-19-and-to-increase-reimbursement-and-other-assistance-provided-to-states/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/extend-federal-support-to-governors-use-of-national-guard-to-respond-to-covid-19-and-to-increase-reimbursement-and-other-assistance-provided-to-states/
 published_time: 2021-01-21 16:25:08-05:00
 title: "Memorandum to Extend Federal Support to Governors\u2019 Use of the National\
   \ Guard to Respond to COVID-\u206019 and to Increase Reimbursement and Other Assistance\

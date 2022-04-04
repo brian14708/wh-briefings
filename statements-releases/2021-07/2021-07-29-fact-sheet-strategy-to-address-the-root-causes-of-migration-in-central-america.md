@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-29'
 modified_time: 2021-07-28 22:29:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/
 published_time: 2021-07-29 06:00:00-04:00
 title: "FACT SHEET: Strategy to Address the Root Causes of Migration in Central\_\
   America"

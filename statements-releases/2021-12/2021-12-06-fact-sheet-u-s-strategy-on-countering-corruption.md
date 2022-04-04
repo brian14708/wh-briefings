@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-06'
 modified_time: 2021-12-20 15:26:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/
 published_time: 2021-12-06 07:00:00-05:00
 title: "Fact Sheet: U.S. Strategy on Countering\_Corruption"
 ---

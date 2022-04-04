@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-22'
 modified_time: 2021-04-27 13:40:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/president-biden-announces-12-key-climate-and-infrastructure-administration-nominations/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/president-biden-announces-12-key-climate-and-infrastructure-administration-nominations/
 published_time: 2021-04-22 18:37:24-04:00
 title: "President\_Biden Announces 12 Key Climate and Infrastructure Administration\_\
   Nominations"

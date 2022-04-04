@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-10'
 modified_time: 2022-01-10 18:24:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/fact-sheet-u-s-diplomatic-engagement-with-european-allies-and-partners-ahead-of-talks-with-russia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/fact-sheet-u-s-diplomatic-engagement-with-european-allies-and-partners-ahead-of-talks-with-russia/
 published_time: 2022-01-10 18:22:23-05:00
 title: "FACT SHEET: U.S. Diplomatic Engagement with European Allies and Partners Ahead\
   \ of Talks with\_Russia"

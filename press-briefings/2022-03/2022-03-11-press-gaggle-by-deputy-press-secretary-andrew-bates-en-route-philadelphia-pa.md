@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-11'
 modified_time: 2022-03-12 19:44:46-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/11/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-philadelphia-pa/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/11/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-philadelphia-pa/
 published_time: 2022-03-11 13:48:02-05:00
 title: "Press Gaggle by Deputy Press Secretary Andrew Bates En Route Philadelphia,\_\
   PA"

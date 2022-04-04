@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-04'
 modified_time: 2021-02-05 13:29:11-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/fact-sheet-president-biden-to-sign-executive-actions-restoring-americas-place-in-the-world/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/fact-sheet-president-biden-to-sign-executive-actions-restoring-americas-place-in-the-world/
 published_time: 2021-02-04 17:36:07-05:00
 title: "Fact Sheet: President\_Biden to Sign Executive Actions Restoring America\u2019\
   s Place in the\_World"

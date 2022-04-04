@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-10'
 modified_time: 2022-01-19 08:11:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/readout-of-vice-president-kamala-harriss-call-with-president-alejandro-giammattei-of-guatemala/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/readout-of-vice-president-kamala-harriss-call-with-president-alejandro-giammattei-of-guatemala/
 published_time: 2022-01-10 16:59:22-05:00
 title: "Readout of Vice President Kamala\_Harris\u2019s Call with President Alejandro\
   \ Giammattei of\_Guatemala"

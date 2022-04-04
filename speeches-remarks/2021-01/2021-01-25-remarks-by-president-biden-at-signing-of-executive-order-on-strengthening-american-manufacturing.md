@@ -1,7 +1,7 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-01-25'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/25/remarks-by-president-biden-at-signing-of-executive-order-on-strengthening-american-manufacturing/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/25/remarks-by-president-biden-at-signing-of-executive-order-on-strengthening-american-manufacturing/
 published_time: 2021-01-25 19:06:47-05:00
 title: "Remarks by President\_Biden at Signing of Executive Order on Strengthening\
   \ American\_Manufacturing"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-03'
 modified_time: 2022-03-03 14:05:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/fact-sheet-the-united-states-continues-to-target-russian-oligarchs-enabling-putins-war-of-choice/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/03/fact-sheet-the-united-states-continues-to-target-russian-oligarchs-enabling-putins-war-of-choice/
 published_time: 2022-03-03 14:05:48-05:00
 title: "FACT SHEET: The United\_States Continues to Target Russian Oligarchs Enabling\
   \ Putin\u2019s War of\_Choice"

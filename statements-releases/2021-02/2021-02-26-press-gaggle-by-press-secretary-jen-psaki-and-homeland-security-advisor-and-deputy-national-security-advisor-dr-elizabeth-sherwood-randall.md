@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-26'
 modified_time: 2021-02-26 16:24:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/press-gaggle-by-press-secretary-jen-psaki-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/press-gaggle-by-press-secretary-jen-psaki-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
 published_time: 2021-02-26 16:24:53-05:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki and Homeland Security Advisor and\
   \ Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall"

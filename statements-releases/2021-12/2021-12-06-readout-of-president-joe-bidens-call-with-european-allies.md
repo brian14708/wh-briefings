@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-06'
 modified_time: 2021-12-06 18:45:31-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/readout-of-president-joe-bidens-call-with-european-allies/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/readout-of-president-joe-bidens-call-with-european-allies/
 published_time: 2021-12-06 18:45:30-05:00
 title: "Readout of President Joe\_Biden\u2019s Call with European\_Allies"
 ---

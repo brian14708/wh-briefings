@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-22'
 modified_time: 2021-12-22 15:06:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-the-vice-presidents-travel-to-paris-france/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/statement-by-senior-advisor-and-chief-spokesperson-symone-sanders-on-the-vice-presidents-travel-to-paris-france/
 published_time: 2021-10-22 14:04:00-04:00
 title: "Statement by Senior Advisor and Chief Spokesperson Symone Sanders on the Vice\
   \ President\u2019s Travel to Paris,\_France"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-17'
 modified_time: 2022-03-17 09:23:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/
 published_time: 2022-03-17 10:00:00-04:00
 title: "FACT SHEET: Biden Administration Launches Effort to Improve Ventilation and\
   \ Reduce the Spread of COVID-\u206019 in\_Buildings"

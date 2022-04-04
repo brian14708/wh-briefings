@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-01'
 modified_time: 2021-11-01 07:30:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/statement-by-president-joe-biden-on-the-2022-open-enrollment-period/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/statement-by-president-joe-biden-on-the-2022-open-enrollment-period/
 published_time: 2021-11-01 07:30:25-04:00
 title: "Statement by President Joe\_Biden on the 2022 Open Enrollment\_Period"
 ---

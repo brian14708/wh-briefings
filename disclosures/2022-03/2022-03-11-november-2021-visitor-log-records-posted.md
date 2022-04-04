@@ -1,8 +1,8 @@
 ---
-category: disclosures
+tags: disclosures
 date: '2022-03-11'
 modified_time: 2022-03-11 17:14:03-05:00
-permalink: https://www.whitehouse.gov/briefing-room/disclosures/2022/03/11/november-2021-visitor-log-records-posted/
+source_url: https://www.whitehouse.gov/briefing-room/disclosures/2022/03/11/november-2021-visitor-log-records-posted/
 published_time: 2022-03-11 17:14:02-05:00
 title: "November 2021 Visitor Log Records\_Posted"
 ---

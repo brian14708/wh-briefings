@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-12'
 modified_time: 2021-07-12 16:32:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/12/press-briefing-by-press-secretary-jen-psaki-july-12-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/12/press-briefing-by-press-secretary-jen-psaki-july-12-2021/
 published_time: 2021-07-12 16:45:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, July 12,\_2021"
 ---

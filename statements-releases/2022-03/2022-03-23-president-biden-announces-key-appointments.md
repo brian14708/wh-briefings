@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-23'
 modified_time: 2022-03-23 16:58:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/president-biden-announces-key-appointments/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/president-biden-announces-key-appointments/
 published_time: 2022-03-23 16:00:00-04:00
 title: "President\_Biden Announces Key\_Appointments"
 ---

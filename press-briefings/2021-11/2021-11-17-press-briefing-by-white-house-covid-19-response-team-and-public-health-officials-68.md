@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-11-17'
 modified_time: 2021-11-17 17:17:02-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/17/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-68/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/17/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-68/
 published_time: 2021-11-17 17:17:01-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

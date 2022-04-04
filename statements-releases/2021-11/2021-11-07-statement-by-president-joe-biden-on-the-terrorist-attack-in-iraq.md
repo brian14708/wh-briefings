@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-07'
 modified_time: 2021-11-07 12:55:14-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/07/statement-by-president-joe-biden-on-the-terrorist-attack-in-iraq/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/07/statement-by-president-joe-biden-on-the-terrorist-attack-in-iraq/
 published_time: 2021-11-07 12:55:13-05:00
 title: "Statement by President Joe\_Biden on the Terrorist Attack in\_Iraq"
 ---

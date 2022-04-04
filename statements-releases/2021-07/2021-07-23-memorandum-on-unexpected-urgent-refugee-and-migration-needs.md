@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-23 17:07:30-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/memorandum-on-unexpected-urgent-refugee-and-migration-needs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/memorandum-on-unexpected-urgent-refugee-and-migration-needs/
 published_time: 2021-07-23 17:07:29-04:00
 title: "Memorandum on Unexpected Urgent Refugee and Migration\_Needs"
 ---

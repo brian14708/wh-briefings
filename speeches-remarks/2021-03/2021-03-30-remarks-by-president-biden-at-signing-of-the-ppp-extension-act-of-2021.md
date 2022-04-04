@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-30'
 modified_time: 2021-03-30 16:31:21-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/30/remarks-by-president-biden-at-signing-of-the-ppp-extension-act-of-2021/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/30/remarks-by-president-biden-at-signing-of-the-ppp-extension-act-of-2021/
 published_time: 2021-03-30 16:31:20-04:00
 title: "Remarks by President\_Biden at Signing of the PPP Extension Act of\_2021"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-04'
 modified_time: 2021-08-04 15:33:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-ukrainian-officials/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-ukrainian-officials/
 published_time: 2021-08-04 15:33:49-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with Ukrainian\_Officials"

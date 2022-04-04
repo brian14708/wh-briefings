@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-08'
 modified_time: 2022-03-08 08:43:08-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-establishment-of-the-white-house-gender-policy-council/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-establishment-of-the-white-house-gender-policy-council/
 published_time: 2022-03-08 09:30:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversary\
   \ of the Establishment of the White\_House Gender Policy\_Council"

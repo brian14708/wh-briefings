@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-10'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/remarks-by-president-biden-on-the-biden-harris-administrations-work-to-lower-healthcare-costs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/remarks-by-president-biden-on-the-biden-harris-administrations-work-to-lower-healthcare-costs/
 published_time: 2022-02-10 14:46:18-05:00
 title: "Remarks by President\_Biden on the Biden-\u2060Harris Administration\u2019\
   s Work to Lower Healthcare\_Costs"

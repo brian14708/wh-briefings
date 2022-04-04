@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-25'
 modified_time: 2021-05-25 16:58:42-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/president-biden-announces-his-intent-to-appoint-members-to-the-commission-on-fine-arts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/president-biden-announces-his-intent-to-appoint-members-to-the-commission-on-fine-arts/
 published_time: 2021-05-25 15:15:00-04:00
 title: "President\_Biden Announces His Intent to Appoint Members to the Commission\
   \ of Fine\_Arts"

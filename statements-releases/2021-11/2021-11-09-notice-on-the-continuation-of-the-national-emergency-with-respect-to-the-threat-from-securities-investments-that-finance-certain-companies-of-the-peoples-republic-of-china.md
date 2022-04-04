@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-09'
 modified_time: 2021-11-09 12:06:47-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
 published_time: 2021-11-09 12:06:46-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to the Threat\
   \ from Securities Investments that Finance Certain Companies of the People\u2019\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-11'
 modified_time: 2022-02-11 12:26:37-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/background-press-call-on-u-s-support-for-the-people-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/11/background-press-call-on-u-s-support-for-the-people-of-afghanistan/
 published_time: 2022-02-11 12:24:25-05:00
 title: "Background Press Call by Senior Administration Officials on U.S. Support for\
   \ the People of\_Afghanistan"

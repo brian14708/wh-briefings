@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-27'
 modified_time: 2021-02-27 14:42:19-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/27/a-letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/27/a-letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution/
 published_time: 2021-02-27 14:40:44-05:00
 title: "A Letter to the Speaker of the House and President pro tempore of the Senate\
   \ Consistent with the War Powers\_Resolution"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 12:56:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/background-press-call-by-senior-administration-officials-on-russia-ukraine-economic-deterrence-measures/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/background-press-call-by-senior-administration-officials-on-russia-ukraine-economic-deterrence-measures/
 published_time: 2022-01-25 12:56:40-05:00
 title: "Background Press Call by Senior Administration Officials on Russia Ukraine\
   \ Economic Deterrence\_Measures"

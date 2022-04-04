@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-25 17:31:55-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-continued-u-s-support-for-a-peaceful-stable-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-continued-u-s-support-for-a-peaceful-stable-afghanistan/
 published_time: 2021-06-25 17:31:54-04:00
 title: "FACT SHEET: Continued U.S. Support for a Peaceful, Stable\_Afghanistan"
 ---

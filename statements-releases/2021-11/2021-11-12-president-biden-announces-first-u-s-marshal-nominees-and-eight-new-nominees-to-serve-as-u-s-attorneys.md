@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-12'
 modified_time: 2021-11-12 18:57:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/president-biden-announces-first-u-s-marshal-nominees-and-eight-new-nominees-to-serve-as-u-s-attorneys/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/president-biden-announces-first-u-s-marshal-nominees-and-eight-new-nominees-to-serve-as-u-s-attorneys/
 published_time: 2021-11-12 19:00:00-05:00
 title: "President\_Biden Announces First U.S. Marshal Nominees and Eight New Nominees\
   \ to Serve as U.S.\_Attorneys"

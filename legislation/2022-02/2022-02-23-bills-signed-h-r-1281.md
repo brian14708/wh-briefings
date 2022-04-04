@@ -1,8 +1,8 @@
 ---
-category: legislation
+tags: legislation
 date: '2022-02-23'
 modified_time: 2022-03-15 10:05:18-05:00
-permalink: https://www.whitehouse.gov/briefing-room/legislation/2022/02/23/bills-signed-h-r-1281/
+source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/02/23/bills-signed-h-r-1281/
 published_time: 2022-02-23 10:23:58-05:00
 title: "Bills Signed: H.R.\_1281"
 ---

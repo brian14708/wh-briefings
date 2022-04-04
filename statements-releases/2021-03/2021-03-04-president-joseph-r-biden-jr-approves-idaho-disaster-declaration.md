@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-04'
 modified_time: 2021-03-04 17:50:54-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/president-joseph-r-biden-jr-approves-idaho-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/president-joseph-r-biden-jr-approves-idaho-disaster-declaration/
 published_time: 2021-03-04 17:50:53-05:00
 title: "President Joseph R. Biden, Jr. Approves Idaho Disaster\_Declaration"
 ---

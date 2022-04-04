@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 09:27:18-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-italy-vatican-city-and-the-united-kingdom/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-italy-vatican-city-and-the-united-kingdom/
 published_time: 2021-10-14 10:15:00-04:00
 title: "Statement by Press Secretary Jen\_Psaki on the President\u2019s Travel to\
   \ Italy, Vatican City, and the United\_Kingdom"

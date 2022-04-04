@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-02'
 modified_time: 2021-05-02 15:06:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/02/statement-by-president-joe-biden-on-the-occasion-of-orthodox-easter/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/02/statement-by-president-joe-biden-on-the-occasion-of-orthodox-easter/
 published_time: 2021-05-02 15:06:24-04:00
 title: "Statement by President Joe\_Biden on the Occasion of Orthodox\_Easter"
 ---

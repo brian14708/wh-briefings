@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-19'
 modified_time: 2021-03-19 11:35:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/19/statement-by-president-biden-on-the-covid-19-hate-crimes-act/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/19/statement-by-president-biden-on-the-covid-19-hate-crimes-act/
 published_time: 2021-03-19 11:35:37-04:00
 title: "Statement by President\_Biden on the COVID-\u206019 Hate Crimes\_Act"
 ---

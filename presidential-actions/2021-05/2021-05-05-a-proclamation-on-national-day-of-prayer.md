@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-05-05'
 modified_time: 2021-05-05 18:32:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/05/a-proclamation-on-national-day-of-prayer/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/05/a-proclamation-on-national-day-of-prayer/
 published_time: 2021-05-05 18:32:02-04:00
 title: "A Proclamation on National Day Of\_Prayer"
 ---

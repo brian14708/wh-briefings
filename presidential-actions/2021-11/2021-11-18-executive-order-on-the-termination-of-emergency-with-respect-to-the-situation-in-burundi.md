@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-11-18'
 modified_time: 2021-11-18 09:22:20-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/18/executive-order-on-the-termination-of-emergency-with-respect-to-the-situation-in-burundi/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/18/executive-order-on-the-termination-of-emergency-with-respect-to-the-situation-in-burundi/
 published_time: 2021-11-18 09:22:19-05:00
 title: "Executive Order on the Termination of Emergency With Respect To the Situation\
   \ in\_Burundi"

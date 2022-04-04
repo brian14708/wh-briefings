@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-17'
 modified_time: 2021-12-23 17:06:05-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/17/statement-from-senior-advisor-and-chief-spokesperson-symone-sanders/
 published_time: 2021-07-17 18:08:00-04:00
 title: "Statement From Senior Advisor And Chief Spokesperson Symone\_Sanders"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 09:47:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/a-message-to-the-congress-on-the-termination-of-the-designation-of-the-federal-democratic-republic-of-ethiopia-ethiopia-the-republic-of-guinea-guinea-and-the-republic-of-mali-mali-as-beneficia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/a-message-to-the-congress-on-the-termination-of-the-designation-of-the-federal-democratic-republic-of-ethiopia-ethiopia-the-republic-of-guinea-guinea-and-the-republic-of-mali-mali-as-beneficia/
 published_time: 2021-11-02 09:47:49-04:00
 title: "A Message to the Congress on the Termination of the Designation of the Federal\
   \ Democratic Republic of Ethiopia (Ethiopia), the Republic of Guinea (Guinea), and\

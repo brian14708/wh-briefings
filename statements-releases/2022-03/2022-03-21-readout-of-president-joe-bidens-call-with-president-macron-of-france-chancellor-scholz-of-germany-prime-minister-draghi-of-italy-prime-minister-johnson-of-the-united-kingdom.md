@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-21'
 modified_time: 2022-03-21 15:07:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/readout-of-president-joe-bidens-call-with-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-draghi-of-italy-prime-minister-johnson-of-the-united-kingdom/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/readout-of-president-joe-bidens-call-with-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-draghi-of-italy-prime-minister-johnson-of-the-united-kingdom/
 published_time: 2022-03-21 15:07:24-04:00
 title: "Readout of President Joe\_Biden\u2019s Call with President Macron of France,\
   \ Chancellor Scholz of Germany, Prime Minister Draghi of Italy, Prime Minister Johnson\

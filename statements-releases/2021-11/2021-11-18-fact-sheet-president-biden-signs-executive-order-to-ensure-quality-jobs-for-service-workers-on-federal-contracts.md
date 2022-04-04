@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-18'
 modified_time: 2021-11-18 12:55:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-president-biden-signs-executive-order-to-ensure-quality-jobs-for-service-workers-on-federal-contracts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-president-biden-signs-executive-order-to-ensure-quality-jobs-for-service-workers-on-federal-contracts/
 published_time: 2021-11-18 13:05:00-05:00
 title: "FACT SHEET: President\_Biden Signs Executive Order To Ensure Quality Jobs\
   \ For Service Workers On Federal\_Contracts"

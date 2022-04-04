@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-22'
 modified_time: 2021-12-22 11:52:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/statement-by-press-secretary-jen-psaki-on-fmcs-personnel-designation/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/statement-by-press-secretary-jen-psaki-on-fmcs-personnel-designation/
 published_time: 2021-12-22 11:52:14-05:00
 title: "Statement by Press Secretary Jen\_Psaki on FMCS Personnel\_Designation"
 ---

@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-26'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and-policies/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and-policies/
 published_time: 2021-01-26 16:19:14-05:00
 title: "Memorandum on Redressing Our Nation\u2019s and the Federal Government\u2019\
   s History of Discriminatory Housing Practices and\_Policies"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-24'
 modified_time: 2021-08-24 22:00:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/background-press-call-by-senior-administration-officials-on-afghan-arrival-processing/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/24/background-press-call-by-senior-administration-officials-on-afghan-arrival-processing/
 published_time: 2021-08-24 17:38:20-04:00
 title: "Background Press Call by Senior Administration Officials on Afghan Arrival\_\
   Processing"
@@ -53,9 +53,9 @@ all of these Afghans before they’re allowed into the United States.
 Let me get a little more granular on categories of people who have been
 evacuated from Kabul.
 
-First category: American citizens and LPRs, or green card holders.
+First tags: American citizens and LPRs, or green card holders.
 
-Second category: SIV applicants and their families.  So these are our
+Second tags: SIV applicants and their families.  So these are our
 Afghan allies who bravely worked with U.S. service members as
 translators and in other roles, who stood with us side by side, who
 risked their lives to help us, and who were far enough along in their

@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-25'
 modified_time: 2021-01-25 13:35:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/
 published_time: 2021-01-25 13:35:23-05:00
 title: "Executive Order on Enabling All Qualified Americans to Serve Their Country\
   \ in\_Uniform"

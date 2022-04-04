@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-03-08'
 modified_time: 2022-03-08 14:43:45-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/08/background-press-call-on-announcement-of-u-s-ban-on-imports-of-russian-oil-liquefied-natural-gas-and-coal/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/08/background-press-call-on-announcement-of-u-s-ban-on-imports-of-russian-oil-liquefied-natural-gas-and-coal/
 published_time: 2022-03-08 14:30:00-05:00
 title: "Background Press Call by a Senior Administration Official on Announcement\
   \ of U.S. Ban on Imports of Russian Oil, Liquefied Natural Gas, and\_Coal"

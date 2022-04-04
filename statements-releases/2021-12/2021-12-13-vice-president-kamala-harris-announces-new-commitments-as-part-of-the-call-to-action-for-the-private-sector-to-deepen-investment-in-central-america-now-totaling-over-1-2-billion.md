@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-13'
 modified_time: 2021-12-14 12:19:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/
 published_time: 2021-12-13 06:33:33-05:00
 title: "Vice President Kamala\_Harris Announces New Commitments as Part of the Call\
   \ to Action for the Private Sector to Deepen Investment in Central America, Now\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-25'
 modified_time: 2021-10-25 20:40:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/25/readout-of-president-bidens-meeting-with-his-all-holiness-ecumenical-patriarch-bartholomew/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/25/readout-of-president-bidens-meeting-with-his-all-holiness-ecumenical-patriarch-bartholomew/
 published_time: 2021-10-25 20:40:16-04:00
 title: "Readout of President\_Biden\u2019s Meeting with His All-Holiness Ecumenical\
   \ Patriarch\_Bartholomew"

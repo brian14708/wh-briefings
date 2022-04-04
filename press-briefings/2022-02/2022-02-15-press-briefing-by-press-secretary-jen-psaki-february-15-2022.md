@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-02-15'
 modified_time: 2022-02-15 19:01:01-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/15/press-briefing-by-press-secretary-jen-psaki-february-15-2022/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/15/press-briefing-by-press-secretary-jen-psaki-february-15-2022/
 published_time: 2022-02-15 19:15:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, February 15,\_2022"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-15'
 modified_time: 2021-01-25 02:21:50-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/15/fact-sheet-president-elect-biden-outlines-covid-19-vaccination-plan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/15/fact-sheet-president-elect-biden-outlines-covid-19-vaccination-plan/
 published_time: 2021-01-15 16:17:00-05:00
 title: "Fact Sheet: President-elect Biden Outlines COVID-\u206019 Vaccination\_Plan"
 ---

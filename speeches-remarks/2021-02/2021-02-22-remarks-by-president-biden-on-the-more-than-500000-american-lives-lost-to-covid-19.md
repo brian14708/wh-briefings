@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-22'
 modified_time: 2021-02-22 19:35:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/22/remarks-by-president-biden-on-the-more-than-500000-american-lives-lost-to-covid-19/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/22/remarks-by-president-biden-on-the-more-than-500000-american-lives-lost-to-covid-19/
 published_time: 2021-02-22 19:35:51-05:00
 title: "Remarks by President\_Biden on the More Than 500,000 American Lives Lost to\_\
   COVID-\u206019"

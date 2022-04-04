@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-26 13:35:13-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-the-democratic-republic-of-the-congo/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-the-democratic-republic-of-the-congo/
 published_time: 2022-01-26 13:35:12-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to the Democratic Republic of the\_Congo"

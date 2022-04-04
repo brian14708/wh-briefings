@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-03-31'
 modified_time: 2022-03-31 19:14:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/readout-of-white-house-roundtable-on-mental-health-with-young-women-and-girl-leaders/
 published_time: 2022-03-31 19:14:40-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/readout-of-white-house-roundtable-on-mental-health-with-young-women-and-girl-leaders/
+tags: statements-releases
 title: "Readout of White\_House Roundtable on Mental Health with Young Women and Girl\_\
   Leaders"
 ---

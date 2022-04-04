@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-10'
 modified_time: 2022-03-10 14:39:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/10/remarks-by-vice-president-harris-before-a-roundtable-discussion-with-people-displaced-from-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/10/remarks-by-vice-president-harris-before-a-roundtable-discussion-with-people-displaced-from-ukraine/
 published_time: 2022-03-10 14:39:21-05:00
 title: "Remarks by Vice President Harris Before a Roundtable Discussion with People\
   \ Displaced from\_Ukraine"

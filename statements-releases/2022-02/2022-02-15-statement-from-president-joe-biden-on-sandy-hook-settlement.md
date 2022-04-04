@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-15'
 modified_time: 2022-02-15 18:41:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/statement-from-president-joe-biden-on-sandy-hook-settlement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/statement-from-president-joe-biden-on-sandy-hook-settlement/
 published_time: 2022-02-15 18:41:57-05:00
 title: "Statement from President Joe\_Biden on Sandy Hook\_Settlement"
 ---

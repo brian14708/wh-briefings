@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-08'
 modified_time: 2022-01-08 13:51:22-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/08/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/08/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration-2/
 published_time: 2022-01-08 13:51:21-05:00
 title: "President Joseph R. Biden, Jr. Amends Kentucky Disaster\_Declaration"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-03'
 modified_time: 2021-03-03 16:05:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/03/remarks-by-president-biden-in-a-bipartisan-meeting-on-cancer/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/03/remarks-by-president-biden-in-a-bipartisan-meeting-on-cancer/
 published_time: 2021-03-03 15:45:00-05:00
 title: "Remarks by President\_Biden in a Bipartisan Meeting on\_Cancer"
 ---

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-11-09'
 modified_time: 2021-11-09 19:10:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/09/remarks-by-president-biden-at-a-virtual-grassroots-event-for-the-democratic-national-committee/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/09/remarks-by-president-biden-at-a-virtual-grassroots-event-for-the-democratic-national-committee/
 published_time: 2021-11-09 19:15:00-05:00
 title: "Remarks by President\_Biden at a Virtual Grassroots Event for the Democratic\
   \ National\_Committee"

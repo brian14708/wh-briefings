@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-12'
 modified_time: 2021-03-12 14:38:32-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/president-biden-announces-rose-vela-as-director-of-the-presidents-commission-on-white-house-fellowships/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/president-biden-announces-rose-vela-as-director-of-the-presidents-commission-on-white-house-fellowships/
 published_time: 2021-03-12 14:38:31-05:00
 title: "President\_Biden Announces Rose Vela as Director of the President\u2019s Commission\
   \ on White\_House\_Fellowships"

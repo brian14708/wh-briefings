@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-01'
 modified_time: 2022-02-01 12:57:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/white-house-announces-additional-actions-to-help-families-afford-energy-bills-building-on-historic-investments/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/white-house-announces-additional-actions-to-help-families-afford-energy-bills-building-on-historic-investments/
 published_time: 2022-02-01 09:14:31-05:00
 title: "White\_House Announces Additional Actions to Help Families Afford Energy Bills,\
   \ Building on Historic\_Investments"

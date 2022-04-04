@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-03'
 modified_time: 2021-05-03 18:01:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/03/remarks-by-president-biden-on-the-american-families-plan/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/03/remarks-by-president-biden-on-the-american-families-plan/
 published_time: 2021-05-03 18:01:19-04:00
 title: "Remarks by President\_Biden on the American Families\_Plan"
 ---

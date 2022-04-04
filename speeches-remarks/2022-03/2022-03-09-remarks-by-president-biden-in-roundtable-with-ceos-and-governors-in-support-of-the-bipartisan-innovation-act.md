@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-09'
 modified_time: 2022-03-09 17:23:25-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/09/remarks-by-president-biden-in-roundtable-with-ceos-and-governors-in-support-of-the-bipartisan-innovation-act/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/09/remarks-by-president-biden-in-roundtable-with-ceos-and-governors-in-support-of-the-bipartisan-innovation-act/
 published_time: 2022-03-09 17:19:36-05:00
 title: "Remarks by President\_Biden in Roundtable With CEOs and Governors in Support\
   \ of the Bipartisan Innovation\_Act"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-05-20'
 modified_time: 2021-05-20 20:02:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/
 published_time: 2021-05-20 20:02:33-04:00
 title: "Remarks by President\_Biden at Signing of the COVID-\u206019 Hate Crimes\_\
   Act"

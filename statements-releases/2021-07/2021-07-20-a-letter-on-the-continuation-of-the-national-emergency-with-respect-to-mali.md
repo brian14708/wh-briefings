@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-20'
 modified_time: 2021-07-20 16:02:40-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-mali/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-mali/
 published_time: 2021-07-20 15:30:18-04:00
 title: "Message to the Congress on the Continuation on the Continuation of the National\
   \ Emergency with Respect to\_Mali"

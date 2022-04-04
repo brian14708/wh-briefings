@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-17'
 modified_time: 2022-02-17 16:36:58-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/statement-by-nsc-spokesperson-emily-horne-on-middle-east-and-north-africa-coordinator-mcgurks-travel-to-saudi-arabia-and-united-arab-emirates/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/17/statement-by-nsc-spokesperson-emily-horne-on-middle-east-and-north-africa-coordinator-mcgurks-travel-to-saudi-arabia-and-united-arab-emirates/
 published_time: 2022-02-17 16:36:57-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Middle East and North Africa\
   \ Coordinator McGurk\u2019s Travel to Saudi Arabia and United Arab\_Emirates"

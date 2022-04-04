@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-thanos-dokos-of-greece/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-thanos-dokos-of-greece/
 published_time: 2022-03-16 16:56:08-04:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s call with National Security Advisor Thanos Dokos of\_Greece"

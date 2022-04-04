@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-21'
 modified_time: 2021-08-21 19:09:20-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/readout-of-president-biden-call-with-northeastern-governors-in-advance-of-hurricane-henri/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/21/readout-of-president-biden-call-with-northeastern-governors-in-advance-of-hurricane-henri/
 published_time: 2021-08-21 16:24:04-04:00
 title: "Readout of President\_Biden Call with Northeastern Governors in Advance of\
   \ Hurricane\_Henri"

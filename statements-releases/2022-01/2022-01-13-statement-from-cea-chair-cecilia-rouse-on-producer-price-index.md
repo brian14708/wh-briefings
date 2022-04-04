@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-13'
 modified_time: 2022-01-13 10:07:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/statement-from-cea-chair-cecilia-rouse-on-producer-price-index/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/statement-from-cea-chair-cecilia-rouse-on-producer-price-index/
 published_time: 2022-01-13 10:07:27-05:00
 title: "Statement from CEA Chair Cecilia Rouse on Producer Price\_Index"
 ---

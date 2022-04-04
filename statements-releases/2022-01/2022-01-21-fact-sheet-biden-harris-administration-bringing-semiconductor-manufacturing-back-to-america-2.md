@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 11:09:17-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/
 published_time: 2022-01-21 11:08:33-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Bringing Semiconductor Manufacturing\
   \ Back to\_America"

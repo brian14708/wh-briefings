@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-07-28 10:09:12-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/
 published_time: 2021-07-28 10:00:00-04:00
 title: "FACT SHEET: Companies, Non-Profits, Government Agencies Answer Biden-\u2060\
   Harris Call: Make Combined Commitment to Alert Tens of Millions of Americans to\

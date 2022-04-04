@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-17'
 modified_time: 2021-03-17 09:16:59-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statements-by-press-secretary-jen-psaki-deputy-national-security-advisor-for-cyber-anne-neuberger-on-microsoft-exchange-vulnerabilities-ucg/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statements-by-press-secretary-jen-psaki-deputy-national-security-advisor-for-cyber-anne-neuberger-on-microsoft-exchange-vulnerabilities-ucg/
 published_time: 2021-03-17 09:16:58-04:00
 title: "Statements by Press Secretary Jen\_Psaki & Deputy National Security Advisor\
   \ for Cyber Anne Neuberger on Microsoft Exchange Vulnerabilities\_UCG"

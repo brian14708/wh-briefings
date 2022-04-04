@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
 date: '2022-03-30'
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/30/remarks-by-president-biden-on-the-status-of-the-countrys-fight-against-covid-19/
 published_time: 2022-03-30 15:31:12-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/30/remarks-by-president-biden-on-the-status-of-the-countrys-fight-against-covid-19/
+tags: speeches-remarks
 title: "Remarks by President\_Biden on the Status of the Country\u2019s Fight Against\_\
   COVID-\u206019"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-20'
 modified_time: 2021-09-19 19:07:54-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/
 published_time: 2021-09-20 09:00:00-04:00
 title: "FACT SHEET: Biden Administration Mobilizes to Protect Workers and Communities\
   \ from Extreme\_Heat"

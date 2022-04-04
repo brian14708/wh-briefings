@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-08-25'
 modified_time: 2021-08-25 00:30:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/background-press-call-by-senior-administration-officials-on-the-presidents-upcoming-cybersecurity-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/25/background-press-call-by-senior-administration-officials-on-the-presidents-upcoming-cybersecurity-meeting/
 published_time: 2021-08-25 05:00:00-04:00
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
   s Upcoming Cybersecurity\_Meeting"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-13'
 modified_time: 2022-01-13 15:50:49-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/statement-by-president-joe-biden-on-the-u-s-supreme-courts-decision-on-vaccine-requirements/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/statement-by-president-joe-biden-on-the-u-s-supreme-courts-decision-on-vaccine-requirements/
 published_time: 2022-01-13 15:50:48-05:00
 title: "Statement by President Joe\_Biden On the U.S. Supreme Court\u2019s Decision\
   \ on Vaccine\_Requirements"

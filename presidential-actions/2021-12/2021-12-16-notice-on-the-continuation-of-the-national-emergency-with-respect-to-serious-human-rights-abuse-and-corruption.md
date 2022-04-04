@@ -1,7 +1,7 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-16'
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
 published_time: 2021-12-16 10:25:31-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to Serious\
   \ Human Rights Abuse and\_Corruption"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-11 09:59:49-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-mexico/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-mexico/
 published_time: 2021-08-11 10:30:00-04:00
 title: "Readout from NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to\_Mexico"

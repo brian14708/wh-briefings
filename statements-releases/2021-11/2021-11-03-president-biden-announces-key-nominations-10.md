@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-03'
 modified_time: 2021-11-03 16:59:10-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/03/president-biden-announces-key-nominations-10/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/03/president-biden-announces-key-nominations-10/
 published_time: 2021-11-03 16:00:00-04:00
 title: "President\_Biden Announces Key\_Nominations"
 ---

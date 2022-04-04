@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-10'
 modified_time: 2021-08-10 17:01:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/memorandum-on-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/memorandum-on-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia/
 published_time: 2021-08-10 17:01:26-04:00
 title: "Memorandum on Continuation of U.S. Drug Interdiction Assistance to the Government\
   \ of\_Colombia"

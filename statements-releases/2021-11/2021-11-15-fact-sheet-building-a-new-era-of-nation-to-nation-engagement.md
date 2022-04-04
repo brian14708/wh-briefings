@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-15'
 modified_time: 2021-11-14 22:16:34-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/
 published_time: 2021-11-15 08:00:00-05:00
 title: "Fact Sheet: Building A New Era of Nation-to-Nation\_Engagement"
 ---

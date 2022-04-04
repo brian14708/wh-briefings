@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-03'
 modified_time: 2021-02-03 16:32:30-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/03/press-briefing-white-house-covid-19-response-team-and-public-health-officials/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/03/press-briefing-white-house-covid-19-response-team-and-public-health-officials/
 published_time: 2021-02-03 13:27:00-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"

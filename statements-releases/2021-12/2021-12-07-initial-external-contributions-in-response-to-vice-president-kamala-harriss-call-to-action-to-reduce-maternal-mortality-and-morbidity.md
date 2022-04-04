@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-09 10:05:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/initial-external-contributions-in-response-to-vice-president-kamala-harriss-call-to-action-to-reduce-maternal-mortality-and-morbidity/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/initial-external-contributions-in-response-to-vice-president-kamala-harriss-call-to-action-to-reduce-maternal-mortality-and-morbidity/
 published_time: 2021-12-07 08:25:53-05:00
 title: "Initial External Contributions In Response to Vice President Kamala\_Harris\u2019\
   s Call to Action to Reduce Maternal Mortality and\_Morbidity"

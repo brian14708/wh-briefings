@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-09-01'
 modified_time: 2021-09-01 16:17:27-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/01/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/01/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting/
 published_time: 2021-09-01 16:17:26-04:00
 title: "Remarks by President\_Biden and President Zelenskyy of Ukraine Before Bilateral\_\
   Meeting"

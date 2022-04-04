@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-12-28'
 modified_time: 2021-12-28 12:33:41-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/28/a-proclamation-on-revoking-proclamation-10315/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/28/a-proclamation-on-revoking-proclamation-10315/
 published_time: 2021-12-28 12:33:40-05:00
 title: "A Proclamation on Revoking Proclamation\_10315"
 ---

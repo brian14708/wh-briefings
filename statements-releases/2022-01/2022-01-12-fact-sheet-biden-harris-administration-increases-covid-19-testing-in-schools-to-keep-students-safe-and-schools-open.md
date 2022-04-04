@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-12'
 modified_time: 2022-01-11 21:48:07-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-increases-covid-19-testing-in-schools-to-keep-students-safe-and-schools-open/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-increases-covid-19-testing-in-schools-to-keep-students-safe-and-schools-open/
 published_time: 2022-01-12 05:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Increases COVID-\u206019 Testing\
   \ in Schools to Keep Students Safe and Schools\_Open"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-23'
 modified_time: 2021-11-23 06:30:53-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/president-biden-announces-release-from-the-strategic-petroleum-reserve-as-part-of-ongoing-efforts-to-lower-prices-and-address-lack-of-supply-around-the-world/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/president-biden-announces-release-from-the-strategic-petroleum-reserve-as-part-of-ongoing-efforts-to-lower-prices-and-address-lack-of-supply-around-the-world/
 published_time: 2021-11-23 07:00:00-05:00
 title: "President\_Biden Announces Release from the Strategic Petroleum Reserve As\
   \ Part of Ongoing Efforts to Lower Prices and Address Lack of Supply Around the\_\

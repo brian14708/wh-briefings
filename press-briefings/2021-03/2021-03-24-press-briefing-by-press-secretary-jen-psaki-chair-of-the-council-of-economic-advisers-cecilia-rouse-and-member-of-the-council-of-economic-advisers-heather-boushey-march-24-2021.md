@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-03-24'
 modified_time: 2021-03-24 19:26:29-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/24/press-briefing-by-press-secretary-jen-psaki-chair-of-the-council-of-economic-advisers-cecilia-rouse-and-member-of-the-council-of-economic-advisers-heather-boushey-march-24-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/24/press-briefing-by-press-secretary-jen-psaki-chair-of-the-council-of-economic-advisers-cecilia-rouse-and-member-of-the-council-of-economic-advisers-heather-boushey-march-24-2021/
 published_time: 2021-03-24 19:26:28-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, Chair of the Council of Economic\
   \ Advisers Cecilia Rouse, and Member of the Council of Economic Advisers Heather\

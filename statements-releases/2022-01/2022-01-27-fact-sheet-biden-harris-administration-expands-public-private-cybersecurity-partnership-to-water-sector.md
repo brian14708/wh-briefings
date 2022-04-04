@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-27'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-water-sector/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-water-sector/
 published_time: 2022-01-27 09:03:50-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Expands Public-Private Cybersecurity\
   \ Partnership to Water\_Sector"

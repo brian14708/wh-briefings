@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-07-09'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/readout-of-president-joseph-r-biden-jr-call-with-president-vladimir-putin-of-russia-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/readout-of-president-joseph-r-biden-jr-call-with-president-vladimir-putin-of-russia-2/
 published_time: 2021-07-09 12:48:15-04:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Vladimir Putin\
   \ of\_Russia"

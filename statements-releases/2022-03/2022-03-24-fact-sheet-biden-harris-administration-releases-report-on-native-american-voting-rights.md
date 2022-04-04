@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 00:23:50-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/
 published_time: 2022-03-24 06:00:00-04:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Releases Report on Native American\
   \ Voting\_Rights"

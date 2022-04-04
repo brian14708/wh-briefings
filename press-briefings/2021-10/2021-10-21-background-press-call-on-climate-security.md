@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-10-21'
 modified_time: 2021-10-21 08:37:31-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/21/background-press-call-on-climate-security/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/21/background-press-call-on-climate-security/
 published_time: 2021-10-21 09:00:00-04:00
 title: "Background Press Call on Climate\_Security"
 ---

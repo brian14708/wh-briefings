@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-22'
 modified_time: 2021-01-22 17:02:09-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-hamdullah-mohib-of-afghanistan/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-national-security-advisor-hamdullah-mohib-of-afghanistan/
 published_time: 2021-01-22 17:02:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with National Security Advisor Hamdullah Mohib of\_Afghanistan"

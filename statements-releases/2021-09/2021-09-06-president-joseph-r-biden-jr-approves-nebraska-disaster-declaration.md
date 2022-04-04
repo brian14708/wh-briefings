@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-06'
 modified_time: 2021-09-06 17:32:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/06/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/06/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration/
 published_time: 2021-09-06 17:32:35-04:00
 title: "President Joseph R. Biden, Jr. Approves Nebraska Disaster\_Declaration"
 ---

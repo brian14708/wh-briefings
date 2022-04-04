@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-09-30'
 modified_time: 2021-09-30 11:14:17-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-youth-substance-use-prevention-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-youth-substance-use-prevention-month-2021/
 published_time: 2021-09-30 11:14:16-04:00
 title: "A Proclamation on National Youth Substance Use Prevention Month,\_2021"
 ---

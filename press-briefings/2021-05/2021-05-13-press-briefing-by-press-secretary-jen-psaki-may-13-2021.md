@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-13'
 modified_time: 2021-05-13 17:51:02-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/13/press-briefing-by-press-secretary-jen-psaki-may-13-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/13/press-briefing-by-press-secretary-jen-psaki-may-13-2021/
 published_time: 2021-05-13 17:51:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, May 13,\_2021"
 ---

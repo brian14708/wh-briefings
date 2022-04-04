@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-24'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/the-white-house-announces-2022-springtime-events/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/the-white-house-announces-2022-springtime-events/
 published_time: 2022-03-24 13:17:34-04:00
 title: "The White\_House Announces 2022 Springtime\_Events"
 ---

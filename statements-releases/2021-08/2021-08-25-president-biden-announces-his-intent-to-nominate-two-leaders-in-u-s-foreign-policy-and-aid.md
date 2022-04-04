@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-25'
 modified_time: 2021-08-25 12:44:25-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/president-biden-announces-his-intent-to-nominate-two-leaders-in-u-s-foreign-policy-and-aid/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/president-biden-announces-his-intent-to-nominate-two-leaders-in-u-s-foreign-policy-and-aid/
 published_time: 2021-08-25 16:15:00-04:00
 title: "President\_Biden Announces His Intent to Nominate Two Leaders in U.S. Foreign\
   \ Policy and Aid"

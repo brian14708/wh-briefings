@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-05-19'
 modified_time: 2021-05-19 13:11:19-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/19/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/19/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre/
 published_time: 2021-05-19 13:11:18-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

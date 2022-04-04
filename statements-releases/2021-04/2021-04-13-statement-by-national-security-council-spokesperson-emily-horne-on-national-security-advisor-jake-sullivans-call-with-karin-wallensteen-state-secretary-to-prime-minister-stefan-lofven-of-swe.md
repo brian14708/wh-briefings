@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-13'
 modified_time: 2021-04-13 15:51:07-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-karin-wallensteen-state-secretary-to-prime-minister-stefan-lofven-of-swe/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-karin-wallensteen-state-secretary-to-prime-minister-stefan-lofven-of-swe/
 published_time: 2021-04-13 16:00:00-04:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s call with Karin Wallensteen, State Secretary\

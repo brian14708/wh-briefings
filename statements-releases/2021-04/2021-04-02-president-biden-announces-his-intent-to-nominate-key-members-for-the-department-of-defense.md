@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-02'
 modified_time: 2021-04-02 17:31:41-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-defense/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/02/president-biden-announces-his-intent-to-nominate-key-members-for-the-department-of-defense/
 published_time: 2021-04-02 17:31:40-04:00
 title: "President\_Biden Announces his Intent to Nominate Key Members for the Department\
   \ of\_Defense"

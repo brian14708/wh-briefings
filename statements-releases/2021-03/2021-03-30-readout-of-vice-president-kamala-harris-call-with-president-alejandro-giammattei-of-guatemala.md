@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-30'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/30/readout-of-vice-president-kamala-harris-call-with-president-alejandro-giammattei-of-guatemala/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/30/readout-of-vice-president-kamala-harris-call-with-president-alejandro-giammattei-of-guatemala/
 published_time: 2021-03-30 18:24:18-04:00
 title: "Readout of Vice President Kamala\_Harris Call with President Alejandro Giammattei\
   \ of\_Guatemala"

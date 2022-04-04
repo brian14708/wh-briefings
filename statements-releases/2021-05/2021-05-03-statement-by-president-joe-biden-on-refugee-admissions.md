@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-03'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/03/statement-by-president-joe-biden-on-refugee-admissions/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/03/statement-by-president-joe-biden-on-refugee-admissions/
 published_time: 2021-05-03 16:15:17-04:00
 title: "Statement by President Joe\_Biden on Refugee\_Admissions"
 ---

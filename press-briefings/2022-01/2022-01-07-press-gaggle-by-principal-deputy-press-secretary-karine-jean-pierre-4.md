@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2022-01-07'
 modified_time: 2022-01-07 21:42:48-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/07/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-4/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/07/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-4/
 published_time: 2022-01-07 21:42:46-05:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

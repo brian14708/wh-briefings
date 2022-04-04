@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-10'
 modified_time: 2021-05-10 13:30:03-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/readout-of-president-joseph-r-biden-jr-s-participation-in-the-bucharest-nine-virtual-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/10/readout-of-president-joseph-r-biden-jr-s-participation-in-the-bucharest-nine-virtual-summit/
 published_time: 2021-05-10 13:30:02-04:00
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Participation in the Bucharest\
   \ Nine Virtual\_Summit"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-03-07'
 modified_time: 2021-03-07 17:38:28-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/07/pre-taped-remarks-by-vice-president-kamala-harris-as-delivered-to-brown-chapel-ame-church/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/07/pre-taped-remarks-by-vice-president-kamala-harris-as-delivered-to-brown-chapel-ame-church/
 published_time: 2021-03-07 17:38:27-05:00
 title: "Pre-Taped Remarks by Vice President Kamala\_Harris As Delivered to Brown Chapel\
   \ AME\_Church"

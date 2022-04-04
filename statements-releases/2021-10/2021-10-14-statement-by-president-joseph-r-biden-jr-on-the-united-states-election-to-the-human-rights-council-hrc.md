@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 13:18:24-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-president-joseph-r-biden-jr-on-the-united-states-election-to-the-human-rights-council-hrc/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-president-joseph-r-biden-jr-on-the-united-states-election-to-the-human-rights-council-hrc/
 published_time: 2021-10-14 19:00:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the United\_States Election\
   \ to the Human Rights Council\_(HRC)"

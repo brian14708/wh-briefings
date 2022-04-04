@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/16/readout-of-the-presidents-conversation-with-speaker-pelosi-and-leader-schumer/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/16/readout-of-the-presidents-conversation-with-speaker-pelosi-and-leader-schumer/
 published_time: 2021-09-16 19:36:34-04:00
 title: "Readout of the President\u2019s Conversation with Speaker Pelosi and Leader\_\
   Schumer"

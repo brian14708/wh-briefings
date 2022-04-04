@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-02-02'
 modified_time: 2022-02-02 12:28:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/02/background-press-call-by-senior-administration-officials-on-president-bidens-plans-to-reignite-the-cancer-moonshot/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/02/background-press-call-by-senior-administration-officials-on-president-bidens-plans-to-reignite-the-cancer-moonshot/
 published_time: 2022-02-02 12:28:58-05:00
 title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
   s Plans to Reignite the Cancer\_Moonshot"

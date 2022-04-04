@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-28'
 modified_time: 2021-08-28 20:13:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/statement-by-president-joe-biden-on-the-baghdad-conference-for-cooperation-and-partnership/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/28/statement-by-president-joe-biden-on-the-baghdad-conference-for-cooperation-and-partnership/
 published_time: 2021-08-28 20:13:00-04:00
 title: "Statement by President Joe\_Biden on the Baghdad Conference for Cooperation\
   \ and\_Partnership"

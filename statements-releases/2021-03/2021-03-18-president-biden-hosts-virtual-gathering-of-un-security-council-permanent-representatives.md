@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-18'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/president-biden-hosts-virtual-gathering-of-un-security-council-permanent-representatives/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/president-biden-hosts-virtual-gathering-of-un-security-council-permanent-representatives/
 published_time: 2021-03-18 20:37:23-04:00
 title: "President\_Biden Hosts Virtual Gathering of UN Security Council Permanent\_\
   Representatives"

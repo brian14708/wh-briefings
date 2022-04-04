@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-08-05'
 modified_time: 2021-09-07 12:51:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-vice-president-harris-at-signing-of-h-r-3325-an-act-to-award-four-congressional-gold-medals-to-the-united-states-capitol-police-and-those-who-protected-the-u-s-capitol-on-januar/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/05/remarks-by-vice-president-harris-at-signing-of-h-r-3325-an-act-to-award-four-congressional-gold-medals-to-the-united-states-capitol-police-and-those-who-protected-the-u-s-capitol-on-januar/
 published_time: 2021-08-05 18:40:00-04:00
 title: "Remarks by Vice President Harris at Signing Of H.R. 3325, \u201CAn Act To\
   \ Award Four Congressional Gold Medals To The United\_States Capitol Police And\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-03'
 modified_time: 2021-03-02 23:00:05-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/statement-by-president-joseph-r-biden-jr-on-2021-special-health-insurance-enrollment-period-coverage-progress/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/03/statement-by-president-joseph-r-biden-jr-on-2021-special-health-insurance-enrollment-period-coverage-progress/
 published_time: 2021-03-03 10:20:00-05:00
 title: "Statement by President Joseph R. Biden, Jr. on 2021 Special Health Insurance\
   \ Enrollment Period Coverage\_Progress"

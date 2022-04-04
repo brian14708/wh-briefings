@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-12-07'
 modified_time: 2021-12-07 11:56:52-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/07/background-press-call-by-senior-administration-officials-on-the-summit-for-democracy/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/07/background-press-call-by-senior-administration-officials-on-the-summit-for-democracy/
 published_time: 2021-12-07 12:00:00-05:00
 title: "Background Press Call by Senior Administration Officials on the Summit for\_\
   Democracy"

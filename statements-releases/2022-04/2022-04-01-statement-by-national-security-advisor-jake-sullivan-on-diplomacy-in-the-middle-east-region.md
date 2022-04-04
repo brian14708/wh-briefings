@@ -1,9 +1,9 @@
 ---
-category: statements-releases
 date: '2022-04-01'
 modified_time: 2022-04-01 19:02:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/statement-by-national-security-advisor-jake-sullivan-on-diplomacy-in-the-middle-east-region/
 published_time: 2022-04-01 19:02:35-04:00
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/statement-by-national-security-advisor-jake-sullivan-on-diplomacy-in-the-middle-east-region/
+tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Diplomacy in the Middle\
   \ East\_Region"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-10'
 modified_time: 2021-02-10 21:11:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/10/readout-of-president-joseph-r-biden-jr-call-with-president-xi-jinping-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/10/readout-of-president-joseph-r-biden-jr-call-with-president-xi-jinping-of-china/
 published_time: 2021-02-10 21:11:39-05:00
 title: "Readout of President Joseph R. Biden, Jr. Call with President Xi Jinping of\_\
   China"

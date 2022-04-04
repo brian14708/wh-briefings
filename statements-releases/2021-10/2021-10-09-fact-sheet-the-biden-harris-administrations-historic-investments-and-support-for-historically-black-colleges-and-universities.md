@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-09'
 modified_time: 2021-10-14 13:42:32-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/09/fact-sheet-the-biden-harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/09/fact-sheet-the-biden-harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
 published_time: 2021-10-09 10:30:05-04:00
 title: "Fact Sheet: The Biden-\u2060Harris Administration\u2019s Historic Investments\
   \ and Support for Historically Black Colleges and\_Universities"

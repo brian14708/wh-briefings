@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-23'
 modified_time: 2022-02-23 22:24:44-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/statement-by-president-biden-on-russias-unprovoked-and-unjustified-attack-on-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/statement-by-president-biden-on-russias-unprovoked-and-unjustified-attack-on-ukraine/
 published_time: 2022-02-23 22:24:43-05:00
 title: "Statement by President\_Biden on Russia\u2019s Unprovoked and Unjustified\
   \ Attack on\_Ukraine"

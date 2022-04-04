@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-09'
 modified_time: 2022-01-04 16:37:36-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/statement-by-vice-president-kamala-harris-on-the-passing-of-prince-philip-of-the-united-kingdom/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/09/statement-by-vice-president-kamala-harris-on-the-passing-of-prince-philip-of-the-united-kingdom/
 published_time: 2021-04-09 14:56:00-04:00
 title: "Statement by Vice President Kamala\_Harris on the Passing of Prince Philip\
   \ of the United\_Kingdom"

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-02'
 modified_time: 2021-08-02 14:49:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/statement-by-press-secretary-jen-psaki-on-eviction-prevention-efforts/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/statement-by-press-secretary-jen-psaki-on-eviction-prevention-efforts/
 published_time: 2021-08-02 14:49:34-04:00
 title: "Statement by Press Secretary Jen\_Psaki on Eviction Prevention\_Efforts"
 ---

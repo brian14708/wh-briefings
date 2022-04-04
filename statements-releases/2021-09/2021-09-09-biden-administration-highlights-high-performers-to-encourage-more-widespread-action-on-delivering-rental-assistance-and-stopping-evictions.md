@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-09'
 modified_time: 2021-09-09 12:13:34-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/biden-administration-highlights-high-performers-to-encourage-more-widespread-action-on-delivering-rental-assistance-and-stopping-evictions/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/biden-administration-highlights-high-performers-to-encourage-more-widespread-action-on-delivering-rental-assistance-and-stopping-evictions/
 published_time: 2021-09-09 12:13:33-04:00
 title: "Biden Administration Highlights High Performers to Encourage More Widespread\
   \ Action on Delivering Rental Assistance and Stopping\_Evictions"

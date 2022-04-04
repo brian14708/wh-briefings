@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-19'
 modified_time: 2021-02-19 15:16:33-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/president-biden-announces-key-nominees-of-his-health-and-human-service-education-and-veteran-affairs-teams/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/19/president-biden-announces-key-nominees-of-his-health-and-human-service-education-and-veteran-affairs-teams/
 published_time: 2021-02-19 10:51:25-05:00
 title: "President\_Biden Announces Key Nominees of his Health and Human Service, Education,\
   \ and Veteran Affairs\_Teams"

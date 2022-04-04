@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-01-27'
 modified_time: 2022-01-27 09:00:20-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/president-biden-announces-key-regional-appointments-for-usda-epa-and-sba/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/president-biden-announces-key-regional-appointments-for-usda-epa-and-sba/
 published_time: 2022-01-27 16:00:00-05:00
 title: "President\_Biden Announces Key Regional Appointments for USDA and\_SBA"
 ---

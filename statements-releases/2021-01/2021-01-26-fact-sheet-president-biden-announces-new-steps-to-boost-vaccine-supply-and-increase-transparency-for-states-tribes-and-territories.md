@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-01-26'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/fact-sheet-president-biden-announces-new-steps-to-boost-vaccine-supply-and-increase-transparency-for-states-tribes-and-territories/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/fact-sheet-president-biden-announces-new-steps-to-boost-vaccine-supply-and-increase-transparency-for-states-tribes-and-territories/
 published_time: 2021-01-26 16:44:28-05:00
 title: "Fact Sheet: President\_Biden Announces New Steps to Boost Vaccine Supply and\
   \ Increase Transparency for States, Tribes, and\_Territories"

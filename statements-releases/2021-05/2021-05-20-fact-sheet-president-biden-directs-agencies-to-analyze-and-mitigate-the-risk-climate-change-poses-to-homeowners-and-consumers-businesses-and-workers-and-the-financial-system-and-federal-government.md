@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-20'
 modified_time: 2021-05-21 07:47:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/
 published_time: 2021-05-20 17:30:31-04:00
 title: "FACT SHEET:  President\_Biden Directs Agencies to Analyze and Mitigate the\
   \ Risk Climate Change Poses to Homeowners and Consumers, Businesses and Workers,\

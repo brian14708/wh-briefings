@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-geoffrey-van-leeuwen-foreign-affairs-and-defense-advisor-to-the-prime-minister-of-the-netherla/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-geoffrey-van-leeuwen-foreign-affairs-and-defense-advisor-to-the-prime-minister-of-the-netherla/
 published_time: 2021-02-16 16:50:58-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call with Geoffrey van Leeuwen, Foreign Affairs and Defense Advisor\

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-08-10'
 modified_time: 2021-08-10 18:08:00-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/
 published_time: 2021-08-10 18:07:37-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Lowers Health Care\_Costs"
 ---

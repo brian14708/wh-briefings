@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-19'
 modified_time: 2021-11-19 09:14:59-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/readout-of-president-bidens-meeting-with-prime-minister-justin-trudeau-of-canada/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/readout-of-president-bidens-meeting-with-prime-minister-justin-trudeau-of-canada/
 published_time: 2021-11-19 09:09:46-05:00
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Justin Trudeau\
   \ of\_Canada"

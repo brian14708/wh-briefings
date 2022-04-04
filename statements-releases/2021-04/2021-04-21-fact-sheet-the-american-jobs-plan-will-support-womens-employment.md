@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-21'
 modified_time: 2021-04-21 13:57:52-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/fact-sheet-the-american-jobs-plan-will-support-womens-employment/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/fact-sheet-the-american-jobs-plan-will-support-womens-employment/
 published_time: 2021-04-21 13:57:50-04:00
 title: "FACT SHEET: The American Jobs Plan Will Support Women\u2019s\_Employment"
 ---

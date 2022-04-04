@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-10-16'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/16/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-nigeria-equatorial-guinea-and-mauritania/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/16/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-nigeria-equatorial-guinea-and-mauritania/
 published_time: 2021-10-16 17:51:26-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to Nigeria, Equatorial Guinea, and\_Mauritania"

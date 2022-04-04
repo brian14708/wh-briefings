@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-08-31'
 modified_time: 2021-08-31 10:13:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-sickle-cell-awareness-month-2021/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/31/a-proclamation-on-national-sickle-cell-awareness-month-2021/
 published_time: 2021-08-31 10:13:34-04:00
 title: "A Proclamation on National Sickle Cell Awareness Month,\_2021"
 ---

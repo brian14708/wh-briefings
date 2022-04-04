@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-02-02'
 modified_time: 2021-02-01 22:07:24-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/fact-sheet-president-biden-outlines-steps-to-reform-our-immigration-system-by-keeping-families-together-addressing-the-root-causes-of-irregular-migration-and-streamlining-the-legal-immigration-syst/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/02/fact-sheet-president-biden-outlines-steps-to-reform-our-immigration-system-by-keeping-families-together-addressing-the-root-causes-of-irregular-migration-and-streamlining-the-legal-immigration-syst/
 published_time: 2021-02-02 05:10:00-05:00
 title: "FACT SHEET: President\_Biden Outlines Steps to Reform Our Immigration System\
   \ by Keeping Families Together, Addressing the Root Causes of Irregular Migration,\

@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-19'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/19/statement-from-press-secretary-jen-psaki-on-president-bidens-briefings-on-ukraine/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/19/statement-from-press-secretary-jen-psaki-on-president-bidens-briefings-on-ukraine/
 published_time: 2022-02-19 18:11:33-05:00
 title: "Statement from Press Secretary Jen\_Psaki on President\_Biden\u2019s Briefings\
   \ on\_Ukraine"

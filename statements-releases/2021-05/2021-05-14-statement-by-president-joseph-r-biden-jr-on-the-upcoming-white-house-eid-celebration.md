@@ -1,7 +1,7 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-14'
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/14/statement-by-president-joseph-r-biden-jr-on-the-upcoming-white-house-eid-celebration/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/14/statement-by-president-joseph-r-biden-jr-on-the-upcoming-white-house-eid-celebration/
 published_time: 2021-05-14 13:58:14-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the Upcoming White\_House Eid\_\
   Celebration"

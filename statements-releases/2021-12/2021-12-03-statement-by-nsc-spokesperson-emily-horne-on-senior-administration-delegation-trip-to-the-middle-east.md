@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-03'
 modified_time: 2021-12-03 10:39:29-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-delegation-trip-to-the-middle-east/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-delegation-trip-to-the-middle-east/
 published_time: 2021-12-03 10:39:28-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Delegation\
   \ Trip to the Middle\_East"

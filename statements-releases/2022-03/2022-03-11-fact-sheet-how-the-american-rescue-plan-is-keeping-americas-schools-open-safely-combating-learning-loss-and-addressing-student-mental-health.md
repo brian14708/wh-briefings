@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-10 22:33:39-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-how-the-american-rescue-plan-is-keeping-americas-schools-open-safely-combating-learning-loss-and-addressing-student-mental-health/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-how-the-american-rescue-plan-is-keeping-americas-schools-open-safely-combating-learning-loss-and-addressing-student-mental-health/
 published_time: 2022-03-11 07:30:00-05:00
 title: "FACT SHEET: How The American Rescue Plan Is Keeping America\u2019s Schools\
   \ Open Safely, Combating Learning Loss, And Addressing Student Mental\_Health"

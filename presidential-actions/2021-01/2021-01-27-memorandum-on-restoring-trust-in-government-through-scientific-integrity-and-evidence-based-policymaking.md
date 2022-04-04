@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-01-27'
 modified_time: 2021-01-27 15:40:43-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/
 published_time: 2021-01-27 15:40:41-05:00
 title: "Memorandum on Restoring Trust in Government Through Scientific Integrity and\
   \ Evidence-Based\_Policymaking"

@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2022-03-01'
 modified_time: 2022-03-01 21:16:56-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/
 published_time: 2022-03-01 21:11:06-05:00
 title: "Remarks of President Joe\_Biden \u2013 State of the Union Address As Prepared\
   \ for\_Delivery"

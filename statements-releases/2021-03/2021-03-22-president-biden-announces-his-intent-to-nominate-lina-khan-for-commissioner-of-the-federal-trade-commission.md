@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-22'
 modified_time: 2021-03-22 15:03:13-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/president-biden-announces-his-intent-to-nominate-lina-khan-for-commissioner-of-the-federal-trade-commission/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/22/president-biden-announces-his-intent-to-nominate-lina-khan-for-commissioner-of-the-federal-trade-commission/
 published_time: 2021-03-22 15:03:12-04:00
 title: "President\_Biden Announces his Intent to Nominate Lina Khan for Commissioner\
   \ of the Federal Trade\_Commission"

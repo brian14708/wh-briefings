@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2022-02-08'
 modified_time: 2022-02-08 16:19:42-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/president-biden-honors-117-individuals-and-organizations-with-highest-u-s-award-for-science-and-mathematics-teachers-and-mentors/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/president-biden-honors-117-individuals-and-organizations-with-highest-u-s-award-for-science-and-mathematics-teachers-and-mentors/
 published_time: 2022-02-08 17:00:00-05:00
 title: "President\_Biden Honors 117 Individuals and Organizations with Highest U.S.\
   \ Award for Science and Mathematics Teachers and\_Mentors"

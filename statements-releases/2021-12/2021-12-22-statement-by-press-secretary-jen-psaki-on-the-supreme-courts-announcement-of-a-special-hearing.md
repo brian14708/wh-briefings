@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 21:55:40-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-press-secretary-jen-psaki-on-the-supreme-courts-announcement-of-a-special-hearing/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-press-secretary-jen-psaki-on-the-supreme-courts-announcement-of-a-special-hearing/
 published_time: 2021-12-22 21:55:39-05:00
 title: "Statement by Press Secretary Jen\_Psaki on the Supreme Court\u2019s Announcement\
   \ of a Special\_Hearing"

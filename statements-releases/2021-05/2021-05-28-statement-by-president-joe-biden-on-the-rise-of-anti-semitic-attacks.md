@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-28'
 modified_time: 2021-05-28 15:33:56-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/statement-by-president-joe-biden-on-the-rise-of-anti-semitic-attacks/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/statement-by-president-joe-biden-on-the-rise-of-anti-semitic-attacks/
 published_time: 2021-05-28 15:33:55-04:00
 title: "Statement by President Joe\_Biden on the Rise of Anti-Semitic\_Attacks"
 ---

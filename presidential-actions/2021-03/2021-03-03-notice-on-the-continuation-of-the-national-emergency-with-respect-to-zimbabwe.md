@@ -1,8 +1,8 @@
 ---
-category: presidential-actions
+tags: presidential-actions
 date: '2021-03-03'
 modified_time: 2021-03-03 14:07:21-05:00
-permalink: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe/
+source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe/
 published_time: 2021-03-03 14:07:20-05:00
 title: "Notice on the Continuation of the National Emergency with Respect to\_Zimbabwe"
 ---

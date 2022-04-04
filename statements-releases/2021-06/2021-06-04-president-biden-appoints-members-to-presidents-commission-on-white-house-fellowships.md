@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-06-04'
 modified_time: 2021-06-04 13:51:38-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/04/president-biden-appoints-members-to-presidents-commission-on-white-house-fellowships/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/04/president-biden-appoints-members-to-presidents-commission-on-white-house-fellowships/
 published_time: 2021-06-04 13:51:37-04:00
 title: "President\_Biden Appoints Members to President\u2019s Commission on White\_\
   House\_Fellowships"

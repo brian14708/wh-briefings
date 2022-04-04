@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 17:24:01-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/joint-leaders-statement-on-aukus/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/joint-leaders-statement-on-aukus/
 published_time: 2021-09-15 16:55:00-04:00
 title: "Joint Leaders Statement on\_AUKUS"
 ---

@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-05-08'
 modified_time: 2021-05-08 13:59:26-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/08/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-2/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/08/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-2/
 published_time: 2021-05-08 13:59:25-04:00
 title: "President Joseph R. Biden, Jr. Approves Tennessee Disaster\_Declaration"
 ---

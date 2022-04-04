@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-02-08'
 modified_time: 2021-02-09 13:27:55-05:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/08/press-briefing-by-press-secretary-jen-psaki-february-8-2021/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/08/press-briefing-by-press-secretary-jen-psaki-february-8-2021/
 published_time: 2021-02-08 16:12:06-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, February 8,\_2021"
 ---

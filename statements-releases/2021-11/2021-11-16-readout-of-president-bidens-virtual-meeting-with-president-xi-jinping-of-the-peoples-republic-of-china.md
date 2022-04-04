@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-11-16'
 modified_time: 2021-11-16 00:19:15-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/readout-of-president-bidens-virtual-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/readout-of-president-bidens-virtual-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china/
 published_time: 2021-11-16 00:19:14-05:00
 title: "Readout of President\_Biden\u2019s Virtual Meeting with President Xi Jinping\
   \ of the People\u2019s Republic of\_China"

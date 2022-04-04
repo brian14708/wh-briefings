@@ -1,8 +1,8 @@
 ---
-category: press-briefings
+tags: press-briefings
 date: '2021-07-02'
 modified_time: 2021-07-02 11:19:35-04:00
-permalink: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/02/background-press-call-by-senior-administration-officials-on-the-independent-review-commission-on-sexual-assault/
+source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/02/background-press-call-by-senior-administration-officials-on-the-independent-review-commission-on-sexual-assault/
 published_time: 2021-07-02 11:19:34-04:00
 title: "Background Press Call by Senior Administration Officials on the Independent\
   \ Review Commission on Sexual\_Assault"

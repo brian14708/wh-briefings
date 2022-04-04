@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-12-19'
 modified_time: 2021-12-19 11:59:16-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/19/statement-from-press-secretary-jen-psaki-4/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/19/statement-from-press-secretary-jen-psaki-4/
 published_time: 2021-12-19 11:59:15-05:00
 title: "Statement from Press Secretary Jen\_Psaki"
 ---

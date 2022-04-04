@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-10-18'
 modified_time: 2022-01-25 16:04:28-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2020-and-2021-state-and-national-teacher-of-the-year-ceremony-at-the-white-house/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2020-and-2021-state-and-national-teacher-of-the-year-ceremony-at-the-white-house/
 published_time: 2021-10-18 17:30:00-04:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2020 and\
   \ 2021 State and National Teacher of the Year Ceremony at the White\_House"

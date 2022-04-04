@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-03-11'
 modified_time: 2021-03-11 15:36:23-05:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-health-and-human-services/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-health-and-human-services/
 published_time: 2021-03-11 15:36:22-05:00
 title: "President\_Biden Announces Intent to Nominate Key Role for the Department\
   \ of Health and Human\_Services"

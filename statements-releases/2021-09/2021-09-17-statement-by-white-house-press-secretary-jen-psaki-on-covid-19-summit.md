@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-17'
 modified_time: 2021-09-17 16:00:58-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/statement-by-white-house-press-secretary-jen-psaki-on-covid-19-summit/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/statement-by-white-house-press-secretary-jen-psaki-on-covid-19-summit/
 published_time: 2021-09-17 16:00:57-04:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on COVID-\u206019\_Summit"
 ---

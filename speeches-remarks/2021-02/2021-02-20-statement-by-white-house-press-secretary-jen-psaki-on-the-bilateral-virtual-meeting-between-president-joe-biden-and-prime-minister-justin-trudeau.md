@@ -1,8 +1,8 @@
 ---
-category: speeches-remarks
+tags: speeches-remarks
 date: '2021-02-20'
 modified_time: 2021-02-20 12:09:12-05:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/20/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-virtual-meeting-between-president-joe-biden-and-prime-minister-justin-trudeau/
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/20/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-virtual-meeting-between-president-joe-biden-and-prime-minister-justin-trudeau/
 published_time: 2021-02-20 12:01:00-05:00
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Virtual\
   \ Meeting between President Joe\_Biden and Prime Minister Justin\_Trudeau"

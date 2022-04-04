@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-09-22'
 modified_time: 2021-09-22 21:04:45-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-the-presidents-meetings-with-congressional-democrats-on-the-build-back-better-act-and-bipartisan-infrastructure-bill/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/readout-of-the-presidents-meetings-with-congressional-democrats-on-the-build-back-better-act-and-bipartisan-infrastructure-bill/
 published_time: 2021-09-22 21:04:44-04:00
 title: "Readout of the President\u2019s Meetings with Congressional Democrats on the\
   \ Build Back Better Act and Bipartisan Infrastructure\_Bill"

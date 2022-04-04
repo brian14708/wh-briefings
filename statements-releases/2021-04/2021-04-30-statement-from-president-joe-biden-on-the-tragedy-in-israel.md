@@ -1,8 +1,8 @@
 ---
-category: statements-releases
+tags: statements-releases
 date: '2021-04-30'
 modified_time: 2021-04-30 11:46:15-04:00
-permalink: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/30/statement-from-president-joe-biden-on-the-tragedy-in-israel/
+source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/30/statement-from-president-joe-biden-on-the-tragedy-in-israel/
 published_time: 2021-04-30 11:45:53-04:00
 title: "Statement from President Joe\_Biden on the Tragedy in\_Israel"
 ---

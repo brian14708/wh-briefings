@@ -1,9 +1,9 @@
 ---
-category: speeches-remarks
 date: '2022-03-29'
 modified_time: 2022-03-30 14:11:08-04:00
-permalink: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-vice-president-harris-at-signing-of-h-r-55-the-emmett-till-antilynching-act/
 published_time: 2022-03-29 07:29:00-04:00
+source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/29/remarks-by-vice-president-harris-at-signing-of-h-r-55-the-emmett-till-antilynching-act/
+tags: speeches-remarks
 title: "Remarks by Vice President Harris at Signing of H.R. 55, \u201CThe Emmett Till\
   \ Antilynching\_Act\u201D"
 ---
