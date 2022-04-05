@@ -1,6 +1,6 @@
 ---
 date: '2022-04-05'
-modified_time: 2022-04-05 11:58:06-04:00
+modified_time: 2022-04-05 16:15:50-04:00
 published_time: 2022-04-05 14:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/
 tags: statements-releases
@@ -125,13 +125,14 @@ country.
     nation’s providers on best practices in the identification and
     management of the mental and behavioral health disorders associated
     with Long COVID.  
--   : The Administration is working to make Long COVID care as
-    accessible as possible. CMS has clarified that, under the American
-    Rescue Plan (ARP) requirement that state Medicaid and Children’s
-    Health Insurance Program (CHIP) programs cover treatments for
-    COVID-19, states must also cover treatments and therapies for Long
-    COVID. Additionally, the essential health benefits (EHB) provided by
-    the Affordable Care Act (ACA) generally provide coverage for the
+-   Bolstering health insurance coverage for Long COVID care: The
+    Administration is working to make Long COVID care as accessible as
+    possible. CMS has clarified that, under the American Rescue Plan
+    (ARP) requirement that state Medicaid and Children’s Health
+    Insurance Program (CHIP) programs cover treatments for COVID-19,
+    states must also cover treatments and therapies for Long COVID.
+    Additionally, the essential health benefits (EHB) provided by the
+    Affordable Care Act (ACA) generally provide coverage for the
     diagnosis and treatment of COVID-19, including Long COVID, though
     coverage and cost-sharing details vary by plan. CMS has also
     expanded Medicare coverage for pulmonary rehabilitation services for
@@ -266,24 +267,24 @@ prevent, detect, and treat Long COVID.
     understanding of Long COVID, foster the development of new
     treatments and care models, and inform services, support, and
     interventions for individuals experiencing Long COVID.
--   : Last year, the NIH launched its $1.15 billion RECOVER Initiative
-    to advance our understanding of and ability to predict, treat, and
-    prevent Long COVID. To help catalyze progress, the Administration
-    will accelerate the enrollment of approximately 40,000 individuals
-    with and without Long COVID into RECOVER’s longitudinal
-    observational arm—in addition to advancing RECOVER’s pathobiology
-    studies, EHR studies, and clinical trials. Equity remains at the
-    center of the Administration’s COVID-19 response efforts, and
-    RECOVER will focus on enrolling individuals across all ages, races,
-    ethnicities, and socioeconomic statuses—including pregnant people,
-    individuals with disabilities, and those from the communities
-    hardest hit by the pandemic. RECOVER will also continue to bolster
-    its patient-centered approach, leveraging its National Community
-    Engagement Group—comprised of patient representatives across its
-    pathobiology task forces and executive, steering, and oversight
-    committees—to enable patients to shape research design and
-    execution, listen for community feedback, and learn from patients’
-    first-hand experience.
+-   Accelerating enrollment into the RECOVER Initiative: Last year, the
+    NIH launched its $1.15 billion RECOVER Initiative to advance our
+    understanding of and ability to predict, treat, and prevent Long
+    COVID. To help catalyze progress, the Administration will accelerate
+    the enrollment of approximately 40,000 individuals with and without
+    Long COVID into RECOVER’s longitudinal observational arm—in addition
+    to advancing RECOVER’s pathobiology studies, EHR studies, and
+    clinical trials. Equity remains at the center of the
+    Administration’s COVID-19 response efforts, and RECOVER will focus
+    on enrolling individuals across all ages, races, ethnicities, and
+    socioeconomic statuses—including pregnant people, individuals with
+    disabilities, and those from the communities hardest hit by the
+    pandemic. RECOVER will also continue to bolster its patient-centered
+    approach, leveraging its National Community Engagement
+    Group—comprised of patient representatives across its pathobiology
+    task forces and executive, steering, and oversight committees—to
+    enable patients to shape research design and execution, listen for
+    community feedback, and learn from patients’ first-hand experience.
 -   Making further investments to advance Long COVID research and
     surveillance: Building on the $50 million CDC has already invested,
     the President’s FY23 budget has requested $25 million to answer key
@@ -308,10 +309,10 @@ prevent, detect, and treat Long COVID.
     [mental health](https://doi.org/10.1136/bmj-2021-068993) outcomes in
     people who have gotten COVID-19, through a national study surveying
     infected Veterans and uninfected controls about persistent symptoms.
-    Additionally, the Department of Defense (DOD) has launched
-    theEpidemiology, Immunology, and Clinical Characteristics of
-    Emerging Infectious Diseases with Pandemic Potential (EPICC) study
-    of Military Health System beneficiaries to help determine effects of
+    Additionally, the Department of Defense (DOD) has launched the
+    Epidemiology, Immunology, and Clinical Characteristics of Emerging
+    Infectious Diseases with Pandemic Potential (EPICC) study of
+    Military Health System beneficiaries to help determine effects of
     COVID-19 and define clinical strategies to address them. This
     foundational study will not only support our military medical
     readiness but also our broader understanding of the disease.
@@ -323,3 +324,5 @@ prevent, detect, and treat Long COVID.
     beyond its initial pilot study—to Kansas, Kentucky, Minnesota, Ohio,
     and Vermont—to help workers find alternatives as they decide whether
     to stay at or return to work following an illness like Long COVID.
+
+\*\*\*
