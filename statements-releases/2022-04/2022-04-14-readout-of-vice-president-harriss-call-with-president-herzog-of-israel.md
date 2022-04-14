@@ -1,6 +1,6 @@
 ---
 date: '2022-04-14'
-modified_time: 2022-04-14 13:18:54-04:00
+modified_time: 2022-04-14 16:31:10-04:00
 published_time: 2022-04-14 13:18:53-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/readout-of-vice-president-harriss-call-with-president-herzog-of-israel/
 tags: statements-releases
@@ -19,3 +19,5 @@ reiterated that the bond between the United States and Israel is
 unshakeable and that we will continue to stay in close touch on these
 and other issues affecting Israel’s security and the stability of the
 region. 
+
+\###
