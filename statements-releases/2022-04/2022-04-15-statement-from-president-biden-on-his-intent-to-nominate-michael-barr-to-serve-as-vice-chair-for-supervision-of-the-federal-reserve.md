@@ -1,6 +1,6 @@
 ---
 date: '2022-04-15'
-modified_time: 2022-04-15 00:30:05-04:00
+modified_time: 2022-04-15 13:50:54-04:00
 published_time: 2022-04-15 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/statement-from-president-biden-on-his-intent-to-nominate-michael-barr-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve/
 tags: statements-releases
@@ -9,7 +9,7 @@ title: "Statement from President\_Biden on His Intent to Nominate Michael Barr t
 ---
  
 Today, I am announcing my intent to nominate Michael Barr as the next
-Vice Chair for Supervision of the Federal Reserve.  Michael brings the
+Vice Chair for Supervision of the Federal Reserve. Michael brings the
 expertise and experience necessary for this important position at a
 critical time for our economy and families across the country. 
 
@@ -18,17 +18,17 @@ millions of families have the dignity a paycheck can provide and a
 little bit more breathing room. I know that rising prices and inflation
 are straining families’ budgets. While I’m doing everything in my power
 to lower prices for families, the Federal Reserve plays a critical role
-in fighting inflation and Barr will make a strong Vice  Chair
+in fighting inflation and Barr will make a strong Vice Chair for
 Supervision, joining my other nominees for the Federal Reserve that the
-Senate is considering.  
+Senate is considering.
 
 Barr has spent his career protecting consumers, and during his time at
 Treasury, played a critical role in creating both the Consumer Financial
 Protection Bureau and the position for which I am nominating him. He was
 instrumental in the passage of Dodd-Frank, to ensure a future financial
 crisis would not create devastating economic hardship for working
-families.  Barr has strong support from across the political spectrum –
-and has been confirmed by the Senate on a bipartisan basis. And, he
+families. Barr has strong support from across the political spectrum—and
+has been confirmed by the Senate on a bipartisan basis. And, he
 understands that this job is not a partisan one, but one that plays a
 critical role in regulating our nation’s financial institutions to
 ensure Americans are treated fairly and to protect the stability of our
@@ -37,8 +37,8 @@ economy.
 I will work with Senate Banking Committee Chair Sherrod Brown to move
 Barr’s nomination forward quickly, and urge the Senate to swiftly
 confirm the four eminently qualified nominees for the Board of
-Governors—Jerome Powell, Lael Brainard, Philip Jefferson, and Lisa Cook—
-currently awaiting a vote.
+Governors—Jerome Powell, Lael Brainard, Philip Jefferson, and Lisa
+Cook—currently awaiting a vote.
 
 **Michael Barr  
 **Michael S. Barr is currently the Joan and Sanford Weill Dean of the
