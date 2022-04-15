@@ -1,6 +1,6 @@
 ---
 date: '2022-04-14'
-modified_time: 2022-04-14 08:11:39-04:00
+modified_time: 2022-04-15 10:44:26-04:00
 published_time: 2022-04-14 08:11:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2022/04/14/getting-the-child-tax-credit-right-for-puerto-rico-the-american-rescue-plans-permanent-historic-changes-to-tax-relief-in-puerto-rico/
 tags: blog
@@ -66,13 +66,13 @@ particularly full refundability, the principle of equal treatment is in
 law, forever, due to the American Rescue Plan.
 
 This comes at a time when we have at long last ensured that workers in
-Puerto Rico will also be treated equally by the Earned Income Tax Credit
-(EITC). Before this year, Puerto Rico’s locally administered EITC, when
-it was available, had never received federal support – and as a result,
-the credit was significantly smaller than the federal EITC. While Puerto
-Rico workers will still claim their EITC through their commonwealth
-government, the American Rescue Plan is helping Puerto Rico fund a
-dramatic 10-year expansion of the credit. The American Rescue Plan is
+Puerto Rico will also be treated more fairly by the Earned Income Tax
+Credit (EITC). Before this year, Puerto Rico’s locally administered
+EITC, when it was available, had never received federal support – and as
+a result, the credit was significantly smaller than the federal EITC.
+While Puerto Rico workers will still claim their EITC through their
+commonwealth government, the American Rescue Plan is helping Puerto Rico
+fund a dramatic expansion of the credit. The American Rescue Plan is
 providing $600 million in annual federal dollars on top of $200 million
 in Puerto Rico tax dollars, allowing Puerto Rico to more than triple
 available EITC benefits for workers. This expansion increased the
