@@ -1,6 +1,6 @@
 ---
 date: '2022-04-11'
-modified_time: 2022-04-11 15:06:52-04:00
+modified_time: 2022-04-18 14:57:24-04:00
 published_time: 2022-04-11 15:06:51-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/first-lady-jill-biden-leads-administration-officials-in-call-for-puerto-rican-families-to-sign-up-for-the-american-rescue-plans-expanded-child-tax-credit/
 tags: statements-releases
@@ -68,7 +68,7 @@ of Puerto Rico families this year, compared to 10% before the ARP**
 -   In addition, the ARP provided the first-ever federal support for
     Puerto Rico’s local Earned Income Tax Credit – allowing Puerto Rico
     to **<u>more than</u>** triple EITC **<u>benefits</u>** and extend
-    **<u>the EITC</u>** to more workers for the next 10 years.
+    **<u>the EITC</u>** to more workers.
 
 Together, the ARP’s expansions of the CTC and EITC
 are [estimated](https://www.cbpp.org/research/federal-tax/american-rescue-plan-act-provides-critical-permanent-tax-relief-to-puerto-rico) to
