@@ -1,5 +1,6 @@
 ---
 date: '2022-04-19'
+modified_time: 2022-04-19 18:33:20-04:00
 published_time: 2022-04-19 15:46:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
 tags: statements-releases
@@ -43,8 +44,8 @@ better life can be found at home.  Highlights to date include:
 <!-- -->
 
 -   To combat the COVID-19 pandemic, the U.S. Government has delivered
-    more than 15 million free-of-cost vaccine does bilaterally and in
-    partnership with COVAX to countries in northern Central America.  
+    more than 15 million free-of-cost vaccine doses bilaterally and in
+    partnership with COVAX to countries in northern Central America.
 
 <!-- -->
 
@@ -71,7 +72,7 @@ better life can be found at home.  Highlights to date include:
 <!-- -->
 
 -   Additional U.S. funding for school feeding programs is improving
-    food security for mothers and children in northern Central America.
+    food security in northern Central America.
 
 <!-- -->
 
@@ -93,14 +94,13 @@ better life can be found at home.  Highlights to date include:
 
 -   A new task force to prevent migrant smuggling and human trafficking,
     which was announced by the Vice President in June 2021, is
-    disrupting trafficking operations and already indicted eight leaders
-    of human smuggling organizations.
+    disrupting trafficking operations and its work has already led to
+    the indictment eight leaders of human smuggling organizations.
 
 <!-- -->
 
--   U.S. programs are supporting victims of gender-based violence,
-    survivors of human trafficking, and unaccompanied migrant
-    children.  
+-   U.S. programs are supporting victims of unaccompanied migrant
+    children, gender-based violence, and survivors of human trafficking.
 
 <!-- -->
 
