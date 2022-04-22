@@ -1,6 +1,6 @@
 ---
 date: '2022-04-22'
-modified_time: 2022-04-22 09:04:15-04:00
+modified_time: 2022-04-22 10:30:40-04:00
 published_time: 2022-04-22 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/
 tags: statements-releases
@@ -230,7 +230,8 @@ including $2.3 billion for the Forest Service and Interior to advance
 ecosystem restoration and resilience.
 
 To facilitate use of these and other resources, today the National
-Climate Task Force’s Coastal Resilience Interagency Working Group,
+Climate Task Force’s [Coastal Resilience Interagency Working
+Group](https://www.noaa.gov/coastal-resilience-interagency-working-group),
 co-led by the White House Council on Environmental Quality and the
 National Oceanic and Atmospheric Administration, is releasing a
 **[Compendium of Federal Nature-Based Solutions for Coastal Communities,
