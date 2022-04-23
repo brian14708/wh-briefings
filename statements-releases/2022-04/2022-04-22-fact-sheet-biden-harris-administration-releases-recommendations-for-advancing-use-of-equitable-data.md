@@ -1,6 +1,6 @@
 ---
 date: '2022-04-22'
-modified_time: 2022-04-22 16:23:01-04:00
+modified_time: 2022-04-22 21:57:11-04:00
 published_time: 2022-04-22 13:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-biden-harris-administration-releases-recommendations-for-advancing-use-of-equitable-data/
 tags: statements-releases
@@ -38,7 +38,7 @@ The Working Group was also informed by agency efforts to implement the
 President’s policies on [scientific integrity and evidence-based
 policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/),
 and
-related [OSTP](https://www.whitehouse.gov/ostp/nstc/scientific-integrity-task-force/) and [OMB](https://www.bing.com/newtabredir?url=https%3A%2F%2Fwww.whitehouse.gov%2Fwp-content%2Fuploads%2F2021%2F06%2FM-21-27.pdf) guidance. 
+related [OSTP](https://www.whitehouse.gov/ostp/nstc/scientific-integrity-task-force/) and [OMB](https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf) guidance. 
 
 These stakeholders and officials identified three priority uses for
 equitable data: **generating disaggregated** **statistical estimates to
