@@ -1,6 +1,6 @@
 ---
 date: '2022-04-26'
-modified_time: 2022-04-26 09:35:39-04:00
+modified_time: 2022-04-26 13:34:46-04:00
 published_time: 2022-04-26 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/
 tags: statements-releases
@@ -270,10 +270,11 @@ incarcerated persons, and strengthen our communities and our economy:
 -   **Reentry Toolkit.** The [National Reentry Resource
     Center](https://nationalreentryresourcecenter.org) launched the
     Bureau of Justice Assistance’s [Reentry
-    Toolkit](http://www.reentrytoolkit.org/) for local reentry coalition
-    leaders and community leaders to allow assessment of existing
-    reentry efforts and opportunities to strengthen outcomes for
-    incarcerated persons in their communities. The NRRC will also
-    continue to host its searchable database of reentry resources.
+    Toolkit](https://nationalreentryresourcecenter.org/resources/toolkits/reentry)
+    for local reentry coalition leaders and community leaders to allow
+    assessment of existing reentry efforts and opportunities to
+    strengthen outcomes for incarcerated persons in their communities.
+    The NRRC will also continue to host its searchable database of
+    reentry resources.
 
 \###
