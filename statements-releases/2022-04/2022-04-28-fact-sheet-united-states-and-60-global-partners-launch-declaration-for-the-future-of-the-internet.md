@@ -1,6 +1,6 @@
 ---
 date: '2022-04-28'
-modified_time: 2022-04-28 07:14:16-04:00
+modified_time: 2022-04-29 15:57:41-04:00
 published_time: 2022-04-28 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-united-states-and-60-global-partners-launch-declaration-for-the-future-of-the-internet/
 tags: statements-releases
@@ -68,7 +68,7 @@ over the world – including civil society, industry, academia, and other
 stakeholders to reaffirm the vision of an open, free, global,
 interoperable, reliable, and secure Internet and reverse negative trends
 in this regard. Under this vision, people everywhere will benefit from
-an Internet that is unifiedunfragmented; facilitates global
+an Internet that is unified unfragmented; facilitates global
 communications and commerce; and supports freedom,
 innovation, education and trust.  
 
