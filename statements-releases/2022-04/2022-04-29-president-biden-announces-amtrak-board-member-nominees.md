@@ -1,6 +1,6 @@
 ---
 date: '2022-04-29'
-modified_time: 2022-04-29 11:05:31-04:00
+modified_time: 2022-04-29 19:25:49-04:00
 published_time: 2022-04-29 15:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/president-biden-announces-amtrak-board-member-nominees/
 tags: statements-releases
@@ -111,17 +111,17 @@ construction.
 Directors</u>**
 
 Rev. Samuel E. Lathem was elected as the first African-American
-President of Delaware State AFL-CIO in October 2003, a position that he
-continues to hold today. In 1965, Lathem began work at the Chrysler
-Plant in Newark, Delaware. He was elected and served two three-year
-terms as Chief Steward in the Body Shop at Newark Assembly Plant. He was
-appointed as Civil Rights Chairman of Local 1183 UAW. He was then
-assigned the position of Administrator of the UAW-Chrysler Training
-Center in 1990 and was promoted to an International Rep of the UAW in
-February 1999. Lathem was ordained a Baptist Preacher in 1992 at the
-First Baptist Church of Morton, Pennsylvania by the New Hope Baptist
-Association. He currently serves as Associate Minister at Cornerstone
-Fellowship Baptist Church in Wilmington, Delaware.
+President of Delaware State AFL-CIO in October 2003. In 1965, Lathem
+began work at the Chrysler Plant in Newark, Delaware. He was elected and
+served two three-year terms as Chief Steward in the Body Shop at Newark
+Assembly Plant. He was appointed as Civil Rights Chairman of Local 1183
+UAW. He was then assigned the position of Administrator of the
+UAW-Chrysler Training Center in 1990 and was promoted to an
+International Rep of the UAW in February 1999. Lathem was ordained a
+Baptist Preacher in 1992 at the First Baptist Church of Morton,
+Pennsylvania by the New Hope Baptist Association. He currently serves as
+Associate Minister at Cornerstone Fellowship Baptist Church in
+Wilmington, Delaware.
 
 Lathem’s spiritual integrity and diligence to serve his church and
 community has earned him the privilege of honored appointments such as
