@@ -1,6 +1,6 @@
 ---
 date: '2022-04-28'
-modified_time: 2022-04-29 15:57:41-04:00
+modified_time: 2022-04-30 13:55:49-04:00
 published_time: 2022-04-28 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-united-states-and-60-global-partners-launch-declaration-for-the-future-of-the-internet/
 tags: statements-releases
@@ -32,8 +32,8 @@ Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Jamaica,
 Japan, Kenya, Kosovo, Latvia, Lithuania, Luxembourg, Maldives, Malta,
 Marshall Islands, Micronesia, Moldova, Montenegro, Netherlands, New
 Zealand, Niger, North Macedonia, Palau, Peru, Poland, Portugal, Romania,
-Senegal, Serbia, Slovakia, Slovenia, Spain, Sweden, Taiwan, Trinidad and
-Tobago, the United Kingdom, Ukraine, and Uruguay.
+Serbia, Slovakia, Slovenia, Spain, Sweden, Taiwan, Trinidad and Tobago,
+the United Kingdom, Ukraine, and Uruguay.
 
 This Declaration represents a political commitment among Declaration
 partners to advance apositive vision for the Internet and digital
