@@ -1,6 +1,6 @@
 ---
 date: '2022-05-01'
-modified_time: 2022-05-01 10:11:45-04:00
+modified_time: 2022-05-02 10:29:11-04:00
 published_time: 2022-05-01 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/01/remarks-by-president-biden-at-the-white-house-correspondents-association-dinner/
 tags: speeches-remarks
@@ -164,8 +164,8 @@ courage of American reporters in this room and your colleagues across
 the world who are on the ground, taking their lives in their own hands.
  (Applause.)  
    
-And although it’s not in Ukraine, it’s Russia — Mom, I’d like to meet
-you and Dad to talk about your son.   
+And although it’s not in Ukraine, it’s <s>Russia</s> \[Syria\] — Mom,
+I’d like to meet you and Dad to talk about your son.   
    
 We just — we just saw a heartbreaking video: Nine have been killed
 reporting from Kyiv — struck by a kamikaze drone strike after a shopping

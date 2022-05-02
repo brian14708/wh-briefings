@@ -1,6 +1,6 @@
 ---
 date: '2022-04-29'
-modified_time: 2022-04-29 21:10:39-04:00
+modified_time: 2022-05-02 09:24:18-04:00
 published_time: 2022-04-29 21:10:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/readout-of-vice-president-harriss-meeting-with-caribbean-leaders/
 tags: statements-releases
@@ -57,6 +57,6 @@ The Leaders that participated: 
 -   Prime Minister Dr. Timothy Harris of Saint Kitts and Nevis
 -   Prime Minister Dr. Ralph Gonsalves of Saint Vincent and the
     Grenadines
--   Prime Minister Chan Santokhi of Suriname
+-   President Chan Santokhi of Suriname
 -   Prime Minister Dr. Keith Rowley of Trinidad and Tobago
 -   Secretary General of CARICOM Dr. Carla Barnett
