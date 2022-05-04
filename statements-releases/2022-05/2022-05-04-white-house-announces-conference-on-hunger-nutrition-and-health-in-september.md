@@ -1,18 +1,20 @@
 ---
 date: '2022-05-04'
-modified_time: 2022-05-03 19:24:20-04:00
+modified_time: 2022-05-04 09:14:43-04:00
 published_time: 2022-05-04 05:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/white-house-announces-conference-on-hunger-nutrition-and-health-in-september/
 tags: statements-releases
 title: "White\_House Announces Conference on Hunger, Nutrition and Health in\_September"
 ---
  
-Today, President Biden is announcing that for the first time in over 50
-years, the White House will host a Conference on Hunger, Nutrition and
-Health this September. The Conference, and the preparatory work leading
-up to it, will accelerate progress and drive significant change to end
-hunger, improve nutrition and physical activity, reduce diet-related
-disease, and close the disparities around them. 
+Today, President Biden is
+[announcing ](https://www.youtube.com/watch?app=desktop&v=AU5BeZ3Gtuc&feature=youtu.be)that
+for the first time in over 50 years, the White House will host a
+Conference on Hunger, Nutrition and Health this September. The
+Conference, and the preparatory work leading up to it, will accelerate
+progress and drive significant change to end hunger, improve nutrition
+and physical activity, reduce diet-related disease, and close the
+disparities around them. 
 
 The Biden-Harris Administration has set a goal of ending hunger and
 increasing healthy eating and physical activity in the U.S. by 2030 so
