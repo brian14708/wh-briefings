@@ -1,5 +1,6 @@
 ---
 date: '2022-05-05'
+modified_time: 2022-05-06 13:44:33-04:00
 published_time: 2022-05-05 20:20:09-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/vice-president-harris-statement-on-the-passing-of-norman-mineta/
 tags: statements-releases
@@ -17,7 +18,7 @@ opportunity and fought to get his community the resources they needed.
 This was a fight that he relentlessly continued through ten terms in
 Congress and as a Cabinet Secretary.  
    
-Secretary Mineta laid the foundation for Asian-American leaders across
+Secretary Mineta laid the foundation for Asian American leaders across
 the nation and helped lead our nation through some of its most trying
 times. His leadership included the co-founding of the Asian Pacific
 American Institute for Congressional Studies and the Congressional Asian
