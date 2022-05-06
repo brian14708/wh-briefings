@@ -1,6 +1,6 @@
 ---
 date: '2022-05-06'
-modified_time: 2022-05-05 19:21:27-04:00
+modified_time: 2022-05-06 07:22:58-04:00
 published_time: 2022-05-06 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/fact-sheet-biden-administration-celebrates-launch-of-am-forward-and-calls-on-congress-to-pass-bipartisan-innovation-act/
 tags: statements-releases
@@ -147,11 +147,11 @@ Among other public commitments:
     part design, data generation, machine operation, post-processing,
     part inspection / quality management to its SME suppliers.
 
-AM Forward is a completely voluntary compact open to any OEM to
-participate, provided they are willing to make public commitments to
-support their suppliers’ adoption of additive capabilities. It will be
-supported by Applied Science & Technology Research Organization (ASTRO),
-a non-profit organization.
+AM Forward is a completely voluntary compact [open to any OEM to
+participate](https://www.astroa.org/amforward), provided they are
+willing to make public commitments to support their suppliers’ adoption
+of additive capabilities. It will be supported by Applied Science &
+Technology Research Organization (ASTRO), a non-profit organization.
 
 To support AM Forward, the Biden Administration has identified a range
 of federal programs that U.S. SME manufacturers can use to support their
