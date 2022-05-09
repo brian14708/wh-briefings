@@ -1,6 +1,6 @@
 ---
 date: '2022-05-09'
-modified_time: 2022-05-08 22:14:28-04:00
+modified_time: 2022-05-09 10:15:14-04:00
 published_time: 2022-05-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/09/fact-sheet-president-biden-and-vice-president-harris-reduce-high-speed-internet-costs-for-millions-of-americans/
 tags: statements-releases
@@ -169,7 +169,7 @@ additional fees and no data caps.
 -   [Cox
     Communications](https://www.cox.com/residential/internet/low-cost-internet-plans.html)
 -   [Jackson Energy Authority](http://www.eplusbroadband.com/acp)
--   MediaCom
+-   Mediacom
 -   [MLGC](https://mlgc.com/acp/)
 -   [Spectrum](https://www.spectrum.com/cp/broadband-get-qualified?p1=1-877-958-7103&opredirect=acp)
     (Charter Communications
