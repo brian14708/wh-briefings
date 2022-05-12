@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 09:42:38-04:00
+modified_time: 2022-05-12 11:41:11-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/u-s-fact-sheet-the-2nd-global-covid-%e2%81%a019-summit/
 tags: statements-releases
@@ -68,16 +68,15 @@ Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/
 
 <!-- -->
 
--   ·         **Sharing U.S. Government COVID-19 vaccine-related
-    intellectual property and research tools for greater global
-    access.** Through the National Institutes of Health (NIH), the
-    United States has recently licensed research tools and the
-    intellectual property for several COVID-19 technologies to the
-    Medicines Patent Pool, through the WHO COVID-19 Technology Access
-    Pool. The licenses include the patent for the stabilized spike
-    protein used in multiple existing COVID-19 vaccines. These licenses
-    will enable manufacturers from around the world to use these
-    technologies.
+-   **Sharing U.S. Government COVID-19 vaccine-related intellectual
+    property and research tools for greater global access.** Through the
+    National Institutes of Health (NIH), the United States has recently
+    licensed research tools and the intellectual property for several
+    COVID-19 technologies to the Medicines Patent Pool, through the WHO
+    COVID-19 Technology Access Pool. The licenses include the patent for
+    the stabilized spike protein used in multiple existing COVID-19
+    vaccines. These licenses will enable manufacturers from around the
+    world to use these technologies.
 
 <!-- -->
 

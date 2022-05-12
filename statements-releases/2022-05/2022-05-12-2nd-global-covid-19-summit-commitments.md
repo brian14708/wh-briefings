@@ -1,23 +1,26 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 10:28:28-04:00
+modified_time: 2022-05-12 11:51:18-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
 title: "2nd Global COVID-\u206019 Summit\_Commitments"
 ---
  
-The second Global COVID-19 Summit convened over partners and
+The second Global COVID-19 Summit, co-hosted by United States, Belize,
+Germany, Indonesia, and Senegal, convened over partners and
 organizations from around the world to accelerate collective efforts to
 get shots into arms, enhance access to tests and treatments, protect the
 health workforce, and finance and build health security for future
-pandemics and other health crises. 
+pandemics and other health crises.
 
 The Summit garnered new financial commitments totaling more than $3
 billion in new funding, not yet announced, above and beyond pledges made
-to date in 2022.  This includes over $2 billion for immediate COVID-19
+to date in 2022. This includes over $2 billion for immediate COVID-19
 response and $962 million in commitments toward a new pandemic
-preparedness and global health security fund at the World Bank.
+preparedness and global health security fund at the World Bank. We
+encourage partners to join, as much more is needed to control COVID-19
+and build better health security.
 
 **<u>Commitments<a href="#_ftn1"
 id="_ftnref1"><sup><strong><u><sup>[1]</sup></u></strong></sup></a> from
@@ -150,11 +153,11 @@ yet final.*
 
 <!-- -->
 
--   **European Union**: Will provide 300 million euro for vaccination
-    support. Will provide 100 million euro for other ACT-A pillars. 
-    Will provide $450 million USD for the pandemic preparedness and
-    global health security financial intermediary fund at the World
-    Bank.
+-   **European Union**: The European Union budget will provide 300
+    million euro for vaccination support. Will provide 100 million euro
+    for other ACT-A pillars.  Will provide $450 million USD for the
+    pandemic preparedness and global health security financial
+    intermediary fund at the World Bank.
 
 <!-- -->
 
@@ -162,6 +165,25 @@ yet final.*
     million euros to ACT-A, and 70 million euros to strengthen vaccine
     production capacity in developing countries, including Rwanda,
     Senegal, and South Africa.
+-   **Georgia:** According to the National Vaccine Deployment Plan,
+    intends to vaccinate at least 65% of population by mid-2022.  Will
+    use the Financial Incentives scheme to continue to motivate citizens
+    over 50 years old. Pediatric doses of Covid-19 vaccine will be made
+    available for 5-12 year old kids  In order to provide access to
+    novel drugs, will continue to procure antivirals the treatment of
+    mild Covid-19 patients with the high risk of hospitalization in
+    March 2022.  Has extended its COVID-19 vaccination and treatment
+    program for all Ukrainian citizens who entered the country after the
+    war crisis.  Is implementing an active information and communication
+    campaign with support from USAID, WHO, European Commission and other
+    international partners.  Commits to a full program accelerating
+    vaccine coverage while immediately prioritizing fully vaccinating
+    and providing boosters to at-risk populations, accelerating vaccine
+    coverage for vulnerable populations, saving lives with access to
+    tests and treatments, supporting health and frontline workers, and
+    expanding and sustaining health capacity and financing including
+    support for the establishment of a global health security and
+    pandemic preparedness fund.
 
 <!-- -->
 
@@ -266,15 +288,15 @@ yet final.*
 
 <!-- -->
 
--   **New Zealand:** Will provide NZD 2.25 million to UNICEF to fund
+-   **New Zealand:** Will provide NZD 2.25 million to UNICEF to fund
     COVID-19 diagnostics in Vietnam and to maintain essential health
     services in the Philippines, and NZD 8 million to the Global Fund’s
-    COVID-19 Response Mechanism for lifesaving tests, treatments and
-    personal protective equipment. Will continue its support in the
+    COVID-19 Response Mechanism for lifesaving tests, treatments and
+    personal protective equipment. Will continue its support in the
     Pacific region to enable access to and uptake of vaccines within
     comprehensive public health responses to the COVID-19 pandemic, as
     well as continuing its support for health security and health
-    systems strengthening. 
+    systems strengthening.
 
 <!-- -->
 
@@ -322,11 +344,22 @@ yet final.*
 
 <!-- -->
 
+-   **Philippines:** The Philippine government committed to measures to
+    boost efforts for expanding health care capacity that adheres to
+    global standards, to adopt systematic approaches for effectively
+    implementing emergency programs, and to develop a Comprehensive
+    Pandemic Response Framework that will safeguard the country from
+    future pandemics.
+
+<!-- -->
+
 -   **Republic of Korea:** Will provide $300 million USD for ACT-A over
-    3 years, from 2023-2025.  This builds on the $100 million USD
-    committed earlier in 2022 to COVAX.  Express political support for
-    the pandemic preparedness and global health security financial
-    intermediary fund at the World Bank.
+    3 years, from 2023-2025. This builds on the $212 million USD
+    committed to ACT-Accelerator since its launch. Support developing
+    countries move toward vaccine self-sufficiency by establishing WHO
+    Global Biomanufacturing Workforce Training Hub. Express political
+    support for the pandemic preparedness and global health security
+    fund at the World Bank.
 
 <!-- -->
 
@@ -367,24 +400,31 @@ yet final.*
 
 <!-- -->
 
--   **South Africa:** Will create a national vaccination plan that
-    prioritizes vaccinating at-risk populations, and accelerate domestic
-    vaccination coverage, including by guaranteeing equitable access to
-    vaccines across income groups. As an African Union Champion, South
-    Africa has launched a youth-focused year-long vaccination campaign
-    with the AU to increase demand among 100 million Africans. Will use
-    innovative models to purchase oral therapeutics like Paxlovid at an
-    “at-cost” price and support countries that have signed sub-licenses
-    with the Medicines Patent Pool to produce Molnuvirapir, which will
-    facilitate access to oral therapeutics for Africans. As an AU
-    Champion, will work towards a goal of 200 million tests administered
-    by the end of 2022, by resourcing and supporting member states to
-    implement Africa CDC’s Enhanced Surveillance Strategy, which
-    includes community-based testing, wastewater testing, and sentinel
-    surveillance. Will support the new global health security and
-    pandemic preparedness fund housed at the World Bank, and will
-    support WHO in strengthening the global health security
-    architecture.
+-   **South Africa:** South Africa is committed to work with African
+    leaders to achieve vaccine coverage through mass campaigns across
+    the continent.  We continue to advocate for a TRIPS waiver in the
+    WTO to improve global access to vaccines, therapeutics, and
+    diagnostics.  Committed to getting more life-saving vaccines to
+    those in need, South Africa is donating 5 million doses of the
+    Pfizer vaccine and 10 million doses of the J&J vaccine to other
+    African countries.  It has contributed $10 million to the Global
+    Fund and plans to contribute financial support to the
+    ACT-Accelerator.  As an AU Champion will work towards a goal of 200
+    million tests administered by the end of 2022 by resourcing and
+    supporting member states to implement Africa CDC’s Enhanced
+    Surveillance Strategy, which includes community-based testing,
+    wastewater testing, and sentinel surveillance.  In the same
+    capacity,  we tabled at the AU Summit in February and got an
+    endorsement for a common agenda for manufacturing vaccines,
+    medicines, diagnostics, therapeutics, and health products on the
+    continent.  The continent’s largest COVID-19 vaccine manufacturing
+    plant opened in South Africa last year, and mRNA hubs for tech
+    transfer have been opened in South Africa, Egypt, Senegal, Tunisia,
+    Kenya and Nigeria.  Multilateral agencies and philanthropists need
+    to be procured vaccines and boosters from African manufacturers to
+    ensure the developing capabilities of the continent are retained.
+    Finally, South Africa supports the formation of the Fund as a
+    mechanism to finance global health security.
 
 <!-- -->
 
@@ -415,9 +455,8 @@ yet final.*
     production. Will continue working actively on disease prevention and
     health emergency preparedness in neighboring countries to better
     address particularly communicable and emerging diseases. Supports in
-    principle the United States’ initiative to establish the Global
-    Health Security Financial Intermediary Fund (FIF) under the World
-    Bank.
+    principle the initiative to establish the pandemic preparedness and
+    global health security fund at the World Bank.
 
 <!-- -->
 
@@ -762,7 +801,7 @@ the world, saving lives now, and building better health security. 
     users searching on COVID-19 related topics such as vaccines,
     testing, or economic recovery initiatives are connected with
     credible sources. This brings Google.org’s total in-kind global
-    commitment to COVID-19 recovery to over $1 billion.”
+    commitment to COVID-19 recovery to over $1 billion.
 
 <!-- -->
 
@@ -1296,7 +1335,7 @@ the world, saving lives now, and building better health security. 
 
 <a href="#_ftnref1" id="_ftn1"><sup>[1]</sup></a> All commitments made
 in 2022 are counted toward the goals of the 2<sup>nd</sup> Global
-COVID-19 Summit. Of these, approximately $2.5 billion were raised in new
+COVID-19 Summit. Of these, approximately $3.1 billion were raised in new
 funds, not yet announced.
 
 <a href="#_ftnref2" id="_ftn2"><sup>[2]</sup></a> All commitments made
