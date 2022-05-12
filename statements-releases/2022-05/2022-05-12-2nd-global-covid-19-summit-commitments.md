@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 11:51:18-04:00
+modified_time: 2022-05-12 14:32:16-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
@@ -265,7 +265,7 @@ yet final.*
 
 <!-- -->
 
--   **Lichtenstein:** Provided CHF 300,000 to COVAX in 2022.
+-   **Liechtenstein:** Provided CHF 300,000 to COVAX in 2022.
 
 <!-- -->
 

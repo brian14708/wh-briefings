@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 11:41:11-04:00
+modified_time: 2022-05-12 12:38:42-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/u-s-fact-sheet-the-2nd-global-covid-%e2%81%a019-summit/
 tags: statements-releases
@@ -157,11 +157,11 @@ Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/
 -   **Financing facility for COVID-19 vaccine and ancillary supply
     purchases and delivery through the U.S. International Development
     Finance Corporation (DFC).**  DFC has set up a vehicle to provide up
-    to $1 billion in loan guarantees to Gavi, the Vaccine Alliance, to
-    provide bridge financing guaranteeing commitments from other donors.
-    This will allow COVAX to react immediately in a crisis to purchase
-    and deliver ancillary supplies and vaccines on behalf of developing
-    countries participating in the COVAX Advance Market Commitment.
+    to $1 billion to Gavi, the Vaccine Alliance, to provide bridge
+    financing guaranteeing commitments from other donors. This will
+    allow COVAX to react immediately in a crisis to purchase and deliver
+    ancillary supplies and vaccines on behalf of developing countries
+    participating in the COVAX Advance Market Commitment.
 
 <!-- -->
 

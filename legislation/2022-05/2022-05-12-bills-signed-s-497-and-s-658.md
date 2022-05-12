@@ -1,5 +1,6 @@
 ---
 date: '2022-05-12'
+modified_time: 2022-05-12 12:42:07-04:00
 published_time: 2022-05-12 12:42:06-04:00
 source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/05/12/bills-signed-s-497-and-s-658/
 tags: legislation
