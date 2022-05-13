@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 19:27:30-04:00
+modified_time: 2022-05-13 15:15:33-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
@@ -162,13 +162,13 @@ yet final.*
     for other ACT-A pillars.  Will provide $450 million USD for the
     pandemic preparedness and global health security financial
     intermediary fund at the World Bank.
+-   **France:** Will provide EUR 220 M to ACT-A : 100 million euros to
+    COVAX, 50 million euros to WHO, and 70 million euros to strengthen
+    vaccine production capacity in developing countries, including
+    Rwanda, Senegal, and South Africa.
 
 <!-- -->
 
--   **France**: Will provide EUR 220 M: 100 million euros to COVAX, 50
-    million euros to ACT-A, and 70 million euros to strengthen vaccine
-    production capacity in developing countries, including Rwanda,
-    Senegal, and South Africa.
 -   **Georgia:** According to the National Vaccine Deployment Plan,
     intends to vaccinate at least 65% of population by mid-2022.  Will
     use the Financial Incentives scheme to continue to motivate citizens
