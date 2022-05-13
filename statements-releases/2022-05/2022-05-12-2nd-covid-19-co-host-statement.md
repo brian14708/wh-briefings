@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 11:58:14-04:00
+modified_time: 2022-05-12 19:31:29-04:00
 published_time: 2022-05-12 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-covid-19-co-host-statement/
 tags: statements-releases
@@ -16,28 +16,33 @@ economies, civil society, and the private sector gathered for the
 2<sup>nd</sup> Global COVID-19 Summit.  Summit participants made major
 new policy and financial commitments to make vaccines available to those
 at highest risk, to expand access to tests and treatments, and to
-prevent future health crises.  These are linked here.  Success in these
-areas is achievable, but it is not inevitable; leaders reinforced the
-value of whole-of-government and whole-of-society approaches to bring
-the acute phase of COVID-19 to an end, and the importance of being
- prepared for future pandemic threats. The Summit was focused on
-preventing complacency, recognizing the pandemic is not over; protecting
-the most vulnerable, including the elderly, immunocompromised people,
-and frontline and health workers; and preventing future health crises,
-recognizing *now* is the time to secure political and financial
-commitment for pandemic preparedness.
+prevent future health crises.  These are [linked
+here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/). 
+Success in these areas is achievable, but it is not inevitable; leaders
+reinforced the value of whole-of-government and whole-of-society
+approaches to bring the acute phase of COVID-19 to an end, and the
+importance of being  prepared for future pandemic threats. The Summit
+was focused on preventing complacency, recognizing the pandemic is not
+over; protecting the most vulnerable, including the elderly,
+immunocompromised people, and frontline and health workers; and
+preventing future health crises, recognizing *now* is the time to secure
+political and financial commitment for pandemic preparedness.
 
-The Summit catalyzed bold commitments.  Financially, leaders committed
-to provide nearly $2 billion in new funding – additional to pledges made
-earlier in 2022.  These funds will accelerate access to vaccinations,
-testing, and treatments, and they will contribute to a new pandemic
-preparedness and global health security fund housed at the World Bank. 
-Leaders also made robust national commitments to expand and accelerate
-vaccine coverage, in particular for their at-risk populations; to expand
-access to testing and treatments; to protect and support the health
-workforce and increase domestic budgets for health systems
-strengthening; and to advance health security, including through the new
-fund. 
+The Summit catalyzed bold commitments.  **Financially, leaders committed
+to provide $3.2 billion in new funding – additional to previous 2022
+pledges, while acknowledging the need is still great**.  This includes
+nearly $2.5 billion for COVID-19 and related response activities and
+$712 million in new commitments toward a new pandemic preparedness and
+global health security fund at the World Bank. (Note: This builds on
+$250 million previously pledged for this fund.) These funds will
+accelerate access to vaccinations, testing, and treatments, and they
+will contribute to a new pandemic preparedness and global health
+security fund housed at the World Bank.  **Leaders also made robust
+national commitments** to expand and accelerate vaccine coverage, in
+particular for their at-risk populations; to expand access to testing
+and treatments; to protect and support the health workforce and increase
+domestic budgets for health systems strengthening; and to advance health
+security, including through the new fund. 
 
 World leaders identified three major Summit outcomes.
 
@@ -107,9 +112,9 @@ expert networks required to control COVID-19 so that it becomes a
 manageable respiratory illness – including predictable and equitable
 access to safe and effective pandemic vaccines for all countries. 
 
-Ten leaders from government and civil society joined this session, which
-was co-hosted by **His Excellency Abdoulaye Diouf Sarr**, Minister of
-Health and Social Action, Senegal; **Her Excellency Annalena Baerbock,**
+Leaders from government and civil society joined this session, which was
+co-hosted by **His Excellency Abdoulaye Diouf Sarr**, Minister of Health
+and Social Action, Senegal; **Her Excellency Annalena Baerbock,**
 Foreign Minister of Germany; and **Her Excellency Samantha Power**,
 Administrator of the United States Agency for International Development.
 The speakers re-emphasized the value of safe and effective vaccines for
@@ -164,25 +169,26 @@ facilitating manufacturing of antiviral inputs, including Active
 Pharmaceutical Ingredients, and developing national plans for testing
 and treatment.
 
-Eleven leaders from government and civil society joined this session,
-which was co-hosted **by His Excellency Kevin Bernard,** Minister of
-Health and Wellness of Belize,and **Her Excellency Svenja Schulze**,
-Federal Minister for Economic Cooperationand Development of Germany. 
-Speakers acknowledged the work of existing global efforts, such as
-ACT-Accelerator, and the importance of fully funding them, to enable the
-delivery of tests and treatment to people who need them. Speakers
-emphasized the importance of targeting testing and treatment to those at
-highest risk of hospitalization and death around the world. 
-Specifically, they discussed the need for country strategies and
-financing to enhance access to molecular diagnostics and rapid tests, as
-well as treatments, including oral antivirals and oxygen.  They
-committed to work nationally and globally to overcome local barriers and
-to pilot test-to-treat strategies. While progress is being made with the
-Medicines Patent Pool, leaders underscored the importance of long-term
-access and affordable pricing for affordable, safe, effective and
-quality medications, including antiviral medications, including the
-need  for closer partnerships between producers, generic manufacturers,
-and regulators.
+Leaders from government and civil society joined this session, which was
+co-hosted **by His Excellency Kevin Bernard,** Minister of Health and
+Wellness of Belize, and **Her Excellency Svenja Schulze**,
+Federal Minister for Economic Cooperation and Development of Germany,
+and **His Excellency Xavier Becerra**, Secretary of Health and Human
+Services of the United States. Speakers acknowledged the work of
+existing global efforts, such as ACT-Accelerator, and the importance of
+fully funding them, to enable the delivery of tests and treatment to
+people who need them. Speakers emphasized the importance of targeting
+testing and treatment to those at highest risk of hospitalization and
+death around the world.  Specifically, they discussed the need for
+country strategies and financing to enhance access to molecular
+diagnostics and rapid tests, as well as treatments, including oral
+antivirals and oxygen.  They committed to work nationally and globally
+to overcome local barriers and to pilot test-to-treat strategies. While
+progress is being made with the Medicines Patent Pool, leaders
+underscored the importance of long-term access and affordable pricing
+for affordable, safe, effective and quality medications, including
+antiviral medications, including the need  for closer partnerships
+between producers, generic manufacturers, and regulators.
 
 ***<u>Build Better Health Security:</u>*** **<u>Preventing Future Health
 Crises</u>**
@@ -197,28 +203,28 @@ which could come at any time. To reduce the world’s vulnerability to
 future pandemics, the WHO’s Independent Panel for Pandemic Preparedness
 and Response and the G20’s High Level Independent Panel made a number of
 action-oriented recommendations in early 2021, including to establish a
-new Financial Intermediary Fund (FIF) for pandemic preparedness and
-global health security.  This recommendation has since been amplified by
-the World Health Organization Director General and Indonesian G20
+new Financial Intermediary Fund (FIF) for pandemic preparedness \[and
+global health security\].  This recommendation has since been amplified
+by the World Health Organization Director General and Indonesian G20
 Presidency, as well as prominent and expert organizations and
 individuals from around the world.
 
-Eleven leaders from government and civil society joined this session,
-which was co-hosted by **His Excellency Budi Gunadi Sadikin,** Minister
-of Health of Indonesia,and by **His Excellency Antony Blinken**,
-Secretary of State of the United States**.** This session discussed the
-need for country capacity, sustainable financing, and a strong health
-workforce to strengthen health security and health systems – for
-COVID-19 variants and for future health emergencies.  Specifically,
-speakers discussed exciting new financial commitments and momentum,
-including work in support of the G20’s Finance and Health Taskforce, to
-establish a new pandemic preparedness and global health security
-financial intermediary fund at the World Bank in the next few months, in
-close cooperation with the WHO and other international partners. 
-Speakers also called for the support of initiatives to strengthen global
-health governance, especially at the WHO, through amendments of the
-International Health Regulations and a new international instrument on
-pandemic prevention, preparedness, and response.
+Leaders from government and civil society joined this session, which was
+co-hosted by **His Excellency Budi Gunadi Sadikin,** Minister of Health
+of Indonesia, and by **His Excellency Antony Blinken**, Secretary of
+State of the United States**.** This session discussed the need for
+country capacity, sustainable financing, and a strong health workforce
+to strengthen health security and health systems – for COVID-19 variants
+and for future health emergencies.  Specifically, speakers discussed
+exciting new financial commitments and momentum, including work in
+support of the G20’s Finance and Health Taskforce, to establish a new
+pandemic preparedness and global health security financial intermediary
+fund at the World Bank in the next few months, in close cooperation with
+the WHO and other international partners.  Speakers also called for the
+support of initiatives to strengthen global health governance,
+especially at the WHO, through amendments of the International Health
+Regulations and a new international instrument on pandemic prevention,
+preparedness, and response.
 
 Speakers also emphasized new commitments to expand and protect the
 health workforce, including by increasing training on infection

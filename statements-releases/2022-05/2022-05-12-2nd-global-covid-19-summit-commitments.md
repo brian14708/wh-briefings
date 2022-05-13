@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-12 14:32:16-04:00
+modified_time: 2022-05-12 19:27:30-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
@@ -14,13 +14,14 @@ get shots into arms, enhance access to tests and treatments, protect the
 health workforce, and finance and build health security for future
 pandemics and other health crises.
 
-The Summit garnered new financial commitments totaling more than $3
-billion in new funding, not yet announced, above and beyond pledges made
-to date in 2022. This includes over $2 billion for immediate COVID-19
-response and $962 million in commitments toward a new pandemic
-preparedness and global health security fund at the World Bank. We
+**The Summit garnered new financial commitments totaling <u>$3.2
+billion,</u> not yet announced, above and beyond pledges made to date in
+2022.  This includes nearly $2.5 billion for COVID-19 and related
+response activities and $712 million in new commitments toward a new
+pandemic preparedness and global health security fund at the World Bank.
+(Note: This builds on $250 million previously pledged for this fund.) We
 encourage partners to join, as much more is needed to control COVID-19
-and build better health security.
+and build better health security.**
 
 **<u>Commitments<a href="#_ftn1"
 id="_ftnref1"><sup><strong><u><sup>[1]</sup></u></strong></sup></a> from
@@ -73,21 +74,12 @@ yet final.*
     hospital to better serve community health needs and to expand and
     provide an additional BZE 3.2 million to the National Health
     Insurance Program.
-
-<!-- -->
-
--   **Canada**: Will provide CAD 732 million  in funding for the Access
-    to COVID-19 Tools-Accelerator (ACT-A), enabling Canada to meet its
-    fair share for the 2021-2022 ACT-A budget cycle, assessed at CAD 747
-    million. This funding includes a previous allocation of CAD 220
-    million  to the COVAX Advance Market Commitment (AMC), announced by
-    the Prime Minister on April 8, 2022 at the Gavi COVAX AMC Summit,
-    and builds on the CAD 15 million announced by the Prime Minister on
-    October 30, 2021, in support of COVAX Manufacturing Task Force
-    partners.  Canada is contributing to the international pandemic
-    response and will continue to work with partners to ensure that we
-    strengthen our collective ability to prevent, prepare and respond to
-    disease outbreaks going forward.
+-   **Brazil:** The Government of Brazil reaffirmed its commitment to
+    donate $86.7 million to COVAX AMC, adding to the 5.6 million doses
+    it has already donated.  It further underscored its success in
+    vaccinating more than 77 percent of the Brazilian population against
+    COVID and supplementing its national health system with an extra $20
+    billion.
 
 <!-- -->
 
@@ -116,19 +108,31 @@ yet final.*
     equitable vaccines supply chain by the end of 2022, drawing lessons
     from the global demand-supply mismatch and non-equitable
     distribution of vaccines.
+-   **Canada**: Will provide CAD 732 million  in funding for the Access
+    to COVID-19 Tools-Accelerator (ACT-A), enabling Canada to meet its
+    fair share for the 2021-2022 ACT-A budget cycle, assessed at CAD 747
+    million. This funding includes a previous allocation of CAD 220
+    million  to the COVAX Advance Market Commitment (AMC), announced by
+    the Prime Minister on April 8, 2022 at the Gavi COVAX AMC Summit,
+    and builds on the CAD 15 million announced by the Prime Minister on
+    October 30, 2021, in support of COVAX Manufacturing Task Force
+    partners.  Canada is contributing to the international pandemic
+    response and will continue to work with partners to ensure that we
+    strengthen our collective ability to prevent, prepare and respond to
+    disease outbreaks going forward.
 
 <!-- -->
 
--   **Colombia:** Will continue to vaccinate the 2 million Venezuelan
-    migrants in Colombia and other historically excluded populations.
-    Will share lessons on vaccinating populations from government
-    partnerships with the private sector. Will provide technical
-    assistance for mass vaccination campaigns, to improve supply chain
-    logistics, and for surveillance of possible adverse events related
-    to vaccination. Will also contribute to the discussions within the
-    WHO on ways to strengthen prevention, preparedness, and response to
-    pandemics.  Will increase the number of migrants registered in the
-    social security system from 400,000 to 900,000 in 2022.
+-   ****Colombia:**** Will continue to vaccinate the nearly 2 million
+    Venezuelan migrants in Colombia and other vulnerable populations.
+    Will share lessons learned on linking joint efforts with the private
+    sector. Will provide technical assistance for mass vaccination
+    campaigns, to improve supply chain logistics, and for surveillance
+    of possible adverse events related to vaccination. Will also
+    contribute to the discussions within the WHO on ways to strengthen
+    prevention, preparedness, and response to pandemics.  Will make
+    efforts to increase the number of migrants registered in the social
+    security system from 400,000 to 700,000 in 2022.
 
 <!-- -->
 
@@ -248,9 +252,9 @@ yet final.*
 
 <!-- -->
 
--   **Italy:** Will provide an additional 200 million euros to the ACT
-    Accelerator, as well as31 million additional vaccine doses via
-    COVAX.
+-   ****Italy:**** Will donate an additional 31 million doses through
+    COVAX and pledge 200 million euros via the ACT-Accelerator and in
+    order to strengthen global preparedness.
 
 <!-- -->
 
@@ -442,9 +446,8 @@ yet final.*
 
 <!-- -->
 
--   **Tanzania**: Will vaccinate 70% of eligible Tanzanians by fall
-    2022.  Will launch intra-Tanzanian regional information sharing
-    workshops for COVID–19 mitigation.
+-   ****Tanzania**:** Will vaccinate 70% of eligible Tanzanians by fall
+    2022.
 
 <!-- -->
 
@@ -480,9 +483,10 @@ yet final.*
 <!-- -->
 
 -   **United States**: Committed an additional $200 million to the
-    pandemic preparedness and global health security financial
-    intermediary fund (FIF) at the World Bank in 2022, bringing the U.S.
-    total pledge to the FIF to $450 million to date.  Committed to share
+    pandemic preparedness and global health security financial fund at
+    the World Bank in 2022, bringing the U.S. total pledge to this fund
+    to $450 million to date.  In FY 2023, the President’s Budget calls
+    for an additional $4.75 billion for this fund. Committed to share
     U.S. Government COVID-19 vaccine-related intellectual property and
     research tools for greater global access.  Committed to rapid review
     of generic products for global COVID-19 response. Committed to pilot
@@ -599,30 +603,30 @@ the world, saving lives now, and building better health security. 
 <!-- -->
 
 -   [**Catholic Relief Services – US Conference of Catholic
-    Bishops**](https://www.usccb.org/) **(CRS):** Commits to work with
-    its in-country teams to increase vaccine coverage and uptake,
-    directly supporting COVID-19 vaccinations in 22 countries and
-    mobilizing at-risk populations in over 100 countries. CRS will
-    engage local stakeholders to facilitate collaboration and connect
-    local partners with donors to advance localized funding. CRS will
-    mobilize American Catholics to advocate for an equitable global
-    response and will engage with peer organizations through the INGO
-    COVID-19 Vaccine Collaborative.  Commits to leveraging its network
-    of over 1500 partners to communicate essential information to reduce
-    COVID-19 transmission, illness and death. CRS will serve as the
-    Global Fund C19RM lead in Republic of Congo, Guinea, Mali, Niger and
-    Sierra Leone, leading on procurement for tests and other
-    commodities. CRS will address the secondary impacts of COVID-19,
-    such as education disruption, the loss of primary caregivers,
-    fraying social cohesion, and increasing hunger and malnutrition. 
-    Commits to using its available resources to identify, finance, and
-    fill gaps in health systems in the countries in which it operates.
-    CRS will continue implementing activities to address vaccine
-    hesitancy, conducting primary research to inform vaccine strategies,
-    supporting faith-based organizations, and financing critical health
-    workforce trainings. Further, CRS will continue to work with
-    Ministries of Health and other health service providers to
-    strengthen the capacity of resilient health systems.
+    Bishops**](http://www.crs.org) **(CRS):** Commits to work with its
+    in-country teams to increase vaccine coverage and uptake, directly
+    supporting COVID-19 vaccinations in 22 countries and mobilizing
+    at-risk populations in over 100 countries. CRS will engage local
+    stakeholders to facilitate collaboration and connect local partners
+    with donors to advance localized funding. CRS will mobilize American
+    Catholics to advocate for an equitable global response and will
+    engage with peer organizations through the INGO COVID-19 Vaccine
+    Collaborative.  Commits to leveraging its network of over 1500
+    partners to communicate essential information to reduce COVID-19
+    transmission, illness and death. CRS will serve as the Global Fund
+    C19RM lead in Republic of Congo, Guinea, Mali, Niger and Sierra
+    Leone, leading on procurement for tests and other commodities. CRS
+    will address the secondary impacts of COVID-19, such as education
+    disruption, the loss of primary caregivers, fraying social cohesion,
+    and increasing hunger and malnutrition.  Commits to using its
+    available resources to identify, finance, and fill gaps in health
+    systems in the countries in which it operates. CRS will continue
+    implementing activities to address vaccine hesitancy, conducting
+    primary research to inform vaccine strategies, supporting
+    faith-based organizations, and financing critical health workforce
+    trainings. Further, CRS will continue to work with Ministries of
+    Health and other health service providers to strengthen the capacity
+    of resilient health systems.
 
 <!-- -->
 
