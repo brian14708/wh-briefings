@@ -1,6 +1,6 @@
 ---
 date: '2022-05-13'
-modified_time: 2022-05-12 20:29:14-04:00
+modified_time: 2022-05-13 11:30:10-04:00
 published_time: 2022-05-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/
 tags: statements-releases
@@ -187,18 +187,19 @@ communities: 
     county-wide radio system to connect E-911, police, fire, and
     ambulance services.  
 -   **Milwaukee, Wisconsin: Bolstering Expanding Violence Intervention
-    and Summer Youth Employment: **Reggie Moore, former Director of
-    Injury and Violence Prevention for the City of Milwaukee, will
-    discuss how American Rescue Plan funds both from the state of
-    Wisconsin and the City of Milwaukee are helping with Community
-    Violence Intervention, summer jobs, and workforce opportunities for
-    at-risk individuals. From Governor Evers’ $100 million anti-violence
-    strategy, Milwaukee is receiving funding for a public health
-    approach to violence prevention, that integrates licensed mental
-    health clinicians into Milwaukee’s 911 center, and provides job
-    training at Milwaukee County House of Correction, while using the
-    city’s own ARP funds to invest in summer jobs for up to 1,500 young
-    people. 
+    and Summer Youth Employment:** From Governor Evers’ $100 million
+    statewide anti-violence strategy, Milwaukee is receiving $8.4
+    million to match the city’s commitment for advancing a public health
+    approach to violence prevention, that includes building an unarmed
+    community response system that integrates licensed mental health
+    clinicians into Milwaukee’s 911 center, and provides job training at
+    Milwaukee County House of Correction, while using the city’s own ARP
+    funds to invest in summer jobs for up to 1,500 young people. Of the
+    $100M that Evers allocated, $10M has been allocated to establish a
+    statewide violence prevention fund to be administered by the Medical
+    College of Wisconsin. Communities across the state will be able to
+    apply for funds for community-based violence Intervention programs
+    to address gun violence, domestic violence, and suicides.
 
 **Appendix: 40+ Additional Examples of Cities, Counties, and States Are
 Using American Rescue Plan Funding **  
