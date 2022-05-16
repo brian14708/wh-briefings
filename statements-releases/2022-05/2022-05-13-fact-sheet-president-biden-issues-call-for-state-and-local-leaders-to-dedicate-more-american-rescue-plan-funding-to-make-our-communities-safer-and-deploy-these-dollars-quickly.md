@@ -1,6 +1,6 @@
 ---
 date: '2022-05-13'
-modified_time: 2022-05-13 11:30:10-04:00
+modified_time: 2022-05-16 17:23:38-04:00
 published_time: 2022-05-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/
 tags: statements-releases
@@ -70,9 +70,9 @@ Violence Prevention as President Biden Calls for Increased Investment:**
         police**, including community violence interventions, crisis
         responders, and substance use disorder and mental health
         services.
-    -   **Nearly $1 billion to reduce domestic violence** with immediate
-        crisis intervention, health supports and safety for victims of
-        domestic violence
+
+    <!-- -->
+
     -   **Over $350 million in job training** and other assistance to
         help formerly incarcerated individuals successfully reenter
         society and provide at-risk teens and young adults with
