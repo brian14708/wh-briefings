@@ -1,6 +1,6 @@
 ---
 date: '2022-05-11'
-modified_time: 2022-05-11 09:23:22-04:00
+modified_time: 2022-05-17 17:39:26-04:00
 published_time: 2022-05-11 09:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-private-sector-steps-up-on-cancer-moonshot-call-to-action-on-cancer-screening/
 tags: statements-releases
@@ -161,13 +161,14 @@ action:</u>**
     breast and cervical cancer. The Promise Fund of Florida co-locates a
     Women’s Health Center offering mammography and ultrasound services
     at a federally-qualified health center. In one example, FoundCare in
-    West Palm Beach, this approach led to screening rates jumping from
-    10% to 57%, demonstrating that women are more likely to obtain
-    screenings when they are familiar with their provider organization,
-    have been connected to financial assistance by a navigator, and are
-    able to receive multiple services in one day, which reduces the
-    associated barriers of having to secure rides to appointments and
-    requesting additional time off from work.    
+    West Palm Beach, this approach in partnership with Hologic led to
+    screening rates jumping from 10% to 57%, demonstrating that women
+    are more likely to obtain screenings when they are familiar with
+    their provider organization, have been connected to financial
+    assistance by a navigator, and are able to receive multiple services
+    in one day, which reduces the associated barriers of having to
+    secure rides to appointments and requesting additional time off from
+    work.    
 -   **Ralph Lauren Corporate Foundation (RLCF) Commits $25 million to
     Improve Equity in Cancer Prevention, Screening, and Care.** In its
     single largest funding commitment to date, the RLCF is pledging $25

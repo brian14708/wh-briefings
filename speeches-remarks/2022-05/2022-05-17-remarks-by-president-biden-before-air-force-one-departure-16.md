@@ -1,12 +1,15 @@
 ---
 date: '2022-05-17'
-modified_time: 2022-05-17 16:12:10-04:00
+modified_time: 2022-05-17 18:16:23-04:00
 published_time: 2022-05-17 15:45:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/17/remarks-by-president-biden-before-air-force-one-departure-16/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---
  
+Buffalo Niagara International Airport  
+Buffalo, New York
+
 12:56 P.M. EDT
 
 Q    Mr. President, what was your message to the families?  What was
@@ -27,10 +30,10 @@ Q    Mr. President, do you believe that certain members of Congress, the
 Republican Party, as well as Tucker Carlson, who have echoed the
 replacement theory, deserve some blame for violent acts like this?
 
-THE PRESIDENT:  I don’t think anybody who echoes a replacement is to
-blame — not for this particular crime.  But it’s for no purpose — no
-purpose except for profit and/or political benefit.  And it’s wrong. 
-It’s just simply wrong.
+THE PRESIDENT:  I believe anybody who echoes a replacement is to blame —
+not for this particular crime.  But it’s if for no purpose — no purpose
+except for profit and/or political benefit.  And it’s wrong.  It’s just
+simply wrong.
 
 Q    What more can you do on guns via executive action?
 
