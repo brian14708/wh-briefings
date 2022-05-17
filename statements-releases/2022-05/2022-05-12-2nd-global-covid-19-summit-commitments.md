@@ -1,6 +1,6 @@
 ---
 date: '2022-05-12'
-modified_time: 2022-05-13 15:15:33-04:00
+modified_time: 2022-05-17 09:25:16-04:00
 published_time: 2022-05-12 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
@@ -26,9 +26,6 @@ and build better health security.**
 **<u>Commitments<a href="#_ftn1"
 id="_ftnref1"><sup><strong><u><sup>[1]</sup></u></strong></sup></a> from
 Government, Other Partners, and Entities</u>**
-
-*Note: Country text is being validated with host governments and is not
-yet final.*
 
 -   **African Union:** Will expand and continue its Saving Lives and
     Livelihoods Program to purchase COVID-19 vaccines for the African
@@ -75,11 +72,11 @@ yet final.*
     provide an additional BZE 3.2 million to the National Health
     Insurance Program.
 -   **Brazil:** The Government of Brazil reaffirmed its commitment to
-    donate $86.7 million to COVAX AMC, adding to the 5.6 million doses
-    it has already donated.  It further underscored its success in
+    donate up to $86.7 million to COVAX AMC, and it has already donated
+    5.6 million doses.  It further underscored its success in
     vaccinating more than 77 percent of the Brazilian population against
     COVID and supplementing its national health system with an extra $20
-    billion.
+    billion
 
 <!-- -->
 
@@ -464,7 +461,8 @@ yet final.*
 <!-- -->
 
 -   **United Arab Emirates**: Will provide $10 million in financial
-    contributions and $50 million in-kind assistance of equipment.
+    contributions for the ACT-Accelerator and $50 million in-kind
+    assistance of equipment.
 
 <!-- -->
 
@@ -682,6 +680,18 @@ the world, saving lives now, and building better health security. 
 
 <!-- -->
 
+-   [**COVAX**](https://www.gavi.org/covax-facility)**:** Will continue
+    to help close the equity gap by supplying COVID-19 vaccines and
+    working with partners to help lower-income countries turn vaccines
+    into vaccinations and strengthen health systems. COVAX is mobilizing
+    funds to support AMC country readiness and delivery, roll out
+    donated doses and launching the [Pandemic Vaccine
+    Pool](/www.gavi.org/news/media-room/world-leaders-launch-call-renewed-support-vaccination-2022-part-global-fight&data=05%7C01%7Cccooney@gavi.org%7C32590d94323b49218aec08da34251f70%7C1de6d9f30daf4df6b9d65959f16f6118%7C0%7C0%7C637879631293967601%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%7C3000%7C%7C%7C&sdata=HXeHZmhY1SdHRbfKwsRn4irNnlsDhl6sxdjHlVmghpU=&reserved=0%3c) as
+    a contingent financial mechanism so we can respond rapidly to new
+    pandemic risks and bolster regional manufacturing.
+
+<!-- -->
+
 -   [**COVID Collaborative**](https://www.covidcollaborative.us/)**:**
     COVID-19 has now left a staggering 10.4 million children worldwide
     orphaned by the death of a parent or grandparent caregiver. Many of
@@ -835,27 +845,28 @@ the world, saving lives now, and building better health security. 
 
 -   [**The Hygiene and Behaviour Change Coalition
     2**](https://www.unilever.com/news/hygiene-behaviour-change-coalition/)
-    **(HBCC2):** Will encourage vaccine uptake and combat vaccine
-    hesitancy alongside continued hygiene messaging, using its hygiene
-    and behaviour change platform to incorporate vaccine confidence
-    messaging where vaccines are available. The coalition will reach
-    millions through incorporating vaccine messages into public
-    campaigns and programmes, and create digital tools that support
-    people with information on COVID-19 vaccines, including where it is
-    available and how to access it (where applicable).  Will help
-    millions of people by supporting measures to reduce transmission of
-    COVID-19 in 18 countries across Africa and Asia by provision of
-    critical WASH products and services as hygiene remains the first
-    line of defence against the virus until vaccines reach all. The
-    coalition will provide communities with hygiene advice and training,
-    products, and handwashing facilities in institutions such as
-    schools, health centres and public places.  Will work with national
-    governments and institutions to strengthen local capacity and build
-    resilience of health systems and communities against new COVID-19
-    variants and future pandemics. The hygiene vulnerabilities and
-    inequalities the pandemic has exposed must be eradicated if we are
-    to defeat the virus and improve health security for all. HBCC2 will
-    advocate for increased investment in hygiene and pandemic
+    ****(Unilever and the UK Government’s Foreign, Commonwealth and
+    Development Office)**(HBCC2):** Will encourage vaccine uptake and
+    combat vaccine hesitancy alongside continued hygiene messaging,
+    using its hygiene and behaviour change platform to incorporate
+    vaccine confidence messaging where vaccines are available. The
+    coalition will reach millions through incorporating vaccine messages
+    into public campaigns and programmes, and create digital tools that
+    support people with information on COVID-19 vaccines, including
+    where it is available and how to access it (where applicable).  Will
+    help millions of people by supporting measures to reduce
+    transmission of COVID-19 in 18 countries across Africa and Asia by
+    provision of critical WASH products and services as hygiene remains
+    the first line of defence against the virus until vaccines reach
+    all. The coalition will provide communities with hygiene advice and
+    training, products, and handwashing facilities in institutions such
+    as schools, health centres and public places.  Will work with
+    national governments and institutions to strengthen local capacity
+    and build resilience of health systems and communities against new
+    COVID-19 variants and future pandemics. The hygiene vulnerabilities
+    and inequalities the pandemic has exposed must be eradicated if we
+    are to defeat the virus and improve health security for all. HBCC2
+    will advocate for increased investment in hygiene and pandemic
     preparedness at national and global level.
 
 <!-- -->
