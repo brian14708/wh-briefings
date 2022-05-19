@@ -1,6 +1,6 @@
 ---
 date: '2022-05-18'
-modified_time: 2022-05-18 18:37:17-04:00
+modified_time: 2022-05-18 18:42:49-04:00
 published_time: 2022-05-18 18:36:55-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/18/memorandum-on-the-delegation-of-authority-under-the-defense-production-act-to-ensure-an-adequate-supply-of-infant-formula/
 tags: presidential-actions
