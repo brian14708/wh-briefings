@@ -1,6 +1,6 @@
 ---
 date: '2022-05-20'
-modified_time: 2022-05-20 23:38:26-04:00
+modified_time: 2022-05-21 00:58:48-04:00
 published_time: 2022-05-20 23:37:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/20/background-press-call-by-a-senior-administration-official-previewing-president-bidens-second-day-in-the-republic-of-korea/
 tags: press-briefings
@@ -83,7 +83,7 @@ collaboration in strengthening our alliance to deal with today’s
 challenges.
 
 The President will then participate in a bilateral meeting with
-President Yoon Suk-yeol.  They will have extensive discussions on a
+President Yoon Suk Yeol.  They will have extensive discussions on a
 range of issues, as I’m sure you’d expect.  We expect that there will be
 a joint statement. 
 
