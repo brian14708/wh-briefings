@@ -1,6 +1,6 @@
 ---
 date: '2022-05-23'
-modified_time: 2022-05-23 11:04:30-04:00
+modified_time: 2022-05-23 16:27:52-04:00
 published_time: 2022-05-23 11:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-biden-harris-administration-holds-justice40-week-of-action-to-highlight-historic-investments-in-overburdened-and-underserved-communities/
 tags: statements-releases
@@ -114,9 +114,10 @@ A new compilation from the White House Office of Management and Budget
 provides a snapshot of at least $29 billion of these opportunities. This
 initial wave of funding includes announcements on:
 
--   .  Using funding from President Biden’s Bipartisan Infrastructure
-    Law, the EPA announced $1.3 billion for various grants that will
-    remediate and reduce pollution, such as cleaning up
+-   **Remediating and Reducing Legacy Pollution.** Using funding from
+    President Biden’s Bipartisan Infrastructure Law, the EPA announced
+    $1.3 billion for various grants that will remediate and reduce
+    pollution, such as cleaning up
     [brownfield](https://www.epa.gov/newsreleases/biden-administration-announces-254-million-tackle-polluted-brownfield-sites)
     and
     [Superfund](https://www.epa.gov/newsreleases/epa-announces-plans-use-first-1b-bipartisan-infrastructure-law-funds-clear-out)
