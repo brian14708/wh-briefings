@@ -1,13 +1,13 @@
 ---
 date: '2022-05-24'
-modified_time: 2022-05-24 03:42:27-04:00
+modified_time: 2022-05-24 04:52:47-04:00
 published_time: 2022-05-24 03:42:26-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/quad-joint-leaders-statement/
 tags: statements-releases
 title: "Quad Joint Leaders\u2019\_Statement"
 ---
  
-oday, we – Prime Minister Anthony Albanese of Australia, Prime Minister
+Today, we – Prime Minister Anthony Albanese of Australia, Prime Minister
 Narendra Modi of India, Prime Minister Fumio Kishida of Japan, and
 President Joe Biden of the United States – convene in Tokyo to renew our
 steadfast commitment to a free and open Indo-Pacific that is inclusive
