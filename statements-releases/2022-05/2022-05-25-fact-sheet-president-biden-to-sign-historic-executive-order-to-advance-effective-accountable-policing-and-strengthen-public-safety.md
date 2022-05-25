@@ -1,6 +1,6 @@
 ---
 date: '2022-05-25'
-modified_time: 2022-05-24 23:36:21-04:00
+modified_time: 2022-05-25 09:10:40-04:00
 published_time: 2022-05-25 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
 tags: statements-releases
@@ -39,7 +39,8 @@ training and technical assistance, and grantmaking to support reforms at
 State, Tribal, local, and territorial law enforcement agencies that will
 strengthen public trust and improve public safety across the nation.
 
-**Promotes Accountability**
+**<span style="text-decoration: underline">Promotes
+Accountability</span>**
 
 **Creates a new national database of police misconduct**. The EO orders
 the Attorney General to establish a National Law Enforcement
@@ -60,11 +61,9 @@ form records from the database may be accessible to the public.
 
 **Strengthens Pattern or Practice Investigations.** The EO requires
 steps to improve the investigation and prosecution of criminal civil
-rights violations, including
-
-directing the issuance of best practices for independent investigations
-and improving coordination to address systemic misconduct through
-pattern-or-practice cases.
+rights violations, including directing the issuance of best practices
+for independent investigations and improving coordination to address
+systemic misconduct through pattern-or-practice cases.
 
 **Ensures timely and thorough investigations and consistent
 discipline**. The EO requires Federal LEAs to adopt measures to promote
@@ -80,7 +79,7 @@ searches and provide for the expedited public release of footage
 following incidents involving serious bodily injury or deaths in
 custody.
 
-**Raises Standards**
+**<span style="text-decoration: underline">Raises Standards</span>**
 
 **Bans the use of chokeholds and carotid restraints unless deadly force
 is authorized, and restricts the use of no-knock entries.** The EO
@@ -116,7 +115,8 @@ appropriate equipment for disaster-related emergencies; active shooter
 scenarios; hostage or search and rescue operations; and anti-terrorism
 efforts.
 
-**Supports Law Enforcement with Improved Systems and Training**
+**<span style="text-decoration: underline">Supports Law Enforcement with
+Improved Systems and Training</span>**
 
 **Requires an updated approach to recruitment, hiring, promotion, and
 retention of law enforcement officers.** The EO requires Federal LEAs to
@@ -151,7 +151,6 @@ stakeholders, to formulate standards for bodies that accredit law
 enforcement agencies. Those standards must include that the accrediting
 body requires policies consistent with those of the EO, and that the
 accrediting body conducts independent assessments of agency compliance
-
 rather than rely on the agency’s self-certification. The Attorney
 General must also incentivize and support agencies in seeking and
 obtaining accreditation, including through grantmaking.
@@ -162,22 +161,20 @@ training module for law enforcement on implicit bias and avoiding
 improper profiling based on the actual or perceived race, ethnicity,
 national origin, limited English proficiency, religion, sex (including
 sexual orientation and gender identity), or disability of individuals.
-
 Federal LEAs must conduct that training annually, implement procedures
 to respond meaningfully to complaints of bias, and reassess a 2014
 guidance on use of certain protected characteristics by law enforcement.
 
-**Improves Data Transparency and Oversight of New Technologies**
+**<span style="text-decoration: underline">Improves Data Transparency
+and Oversight of New Technologies</span>**
 
 **Tracks data on use of force incidents.** Within six months of the date
 of the EO, all Federal LEAs must collect and submit on a monthly basis
 all data on incidents involving use of deadly force compiled by the
-FBI’s Use of Force Data Collection. The Attorney
-
-General must also facilitate the contribution of this data, as well as
-data about officers killed or assaulted, by STLT LEAs, and report to the
-President his plan to fully implement the Death in Custody Reporting
-Act.
+FBI’s Use of Force Data Collection. The Attorney General must also
+facilitate the contribution of this data, as well as data about officers
+killed or assaulted, by STLT LEAs, and report to the President his plan
+to fully implement the Death in Custody Reporting Act.
 
 **Studies the impact of use of force incidents on communities.** The EO
 directs HHS to publish a nationwide review of the physical, mental, and
@@ -203,7 +200,8 @@ seizures, arrests, complaints, law enforcement demographics, and civil
 asset forfeiture), and on the practices and policies governing the
 acquisition and use of advanced surveillance and forensic technologies.
 
-**Reforms Our Broader Criminal Justice System**
+**<span style="text-decoration: underline">Reforms Our Broader Criminal
+Justice System</span>**
 
 **Directs a government-wide strategic plan to propose interventions to
 reform our criminal justice system**. A new committee with
@@ -230,3 +228,5 @@ General will update DOJ policy as necessary to fully implement the FIRST
 STEP Act and to report annually on implementation metrics, including an
 assessment of any disparate impact of the PATTERN risk assessment tool
 and steps to correct any such disparities.
+
+\###
