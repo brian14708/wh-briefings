@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-modified_time: 2022-06-01 08:04:39-04:00
+modified_time: 2022-06-01 09:56:17-04:00
 published_time: 2022-06-01 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-vice-president-harris-announces-action-plan-on-global-water-security-and-highlights-the-administrations-work-to-build-drought-resilience/
 tags: statements-releases
@@ -22,16 +22,17 @@ and governments—particularly those that are already experiencing weak
 state capacity or legitimacy.  
    
 In response to this growing challenge, Vice President Harris is
-announcing the launch of the first-of-its-kind White House Action Plan
-on Global Water Security, which outlines an innovative approach to
-advancing water security at home and abroad. This plan identifies the
-direct links between water and U.S. national security, and it will
-harness the resources of the U.S. Government—from leveraging science and
-technology to informing our diplomacy, defense, and development
-efforts—to advance global water security and foreign policy goals. In
-addition to increasing gender equity and economic growth, water security
-is a central element of preventing conflict and promoting global peace
-and stability.  
+announcing the launch of the first-of-its-kind [White House Action Plan
+on Global Water
+Security](https://www.whitehouse.gov/wp-content/uploads/2022/06/water-action-plan_final_formatted.pdf),
+which outlines an innovative approach to advancing water security at
+home and abroad. This plan identifies the direct links between water and
+U.S. national security, and it will harness the resources of the U.S.
+Government—from leveraging science and technology to informing our
+diplomacy, defense, and development efforts—to advance global water
+security and foreign policy goals. In addition to increasing gender
+equity and economic growth, water security is a central element of
+preventing conflict and promoting global peace and stability.  
    
 This announcement builds on the [Biden-Harris Lead Pipe Action
 Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
