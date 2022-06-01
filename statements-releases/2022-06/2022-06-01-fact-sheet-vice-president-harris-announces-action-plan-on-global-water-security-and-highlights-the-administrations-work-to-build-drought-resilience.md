@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-modified_time: 2022-06-01 06:21:33-04:00
+modified_time: 2022-06-01 08:04:39-04:00
 published_time: 2022-06-01 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-vice-president-harris-announces-action-plan-on-global-water-security-and-highlights-the-administrations-work-to-build-drought-resilience/
 tags: statements-releases
