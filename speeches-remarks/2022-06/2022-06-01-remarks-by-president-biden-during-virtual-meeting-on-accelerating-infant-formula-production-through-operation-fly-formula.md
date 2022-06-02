@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-modified_time: 2022-06-01 19:30:34-04:00
+modified_time: 2022-06-02 06:03:02-04:00
 published_time: 2022-06-01 19:30:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/01/remarks-by-president-biden-during-virtual-meeting-on-accelerating-infant-formula-production-through-operation-fly-formula/
 tags: speeches-remarks

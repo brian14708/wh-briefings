@@ -1,5 +1,6 @@
 ---
 date: '2022-06-01'
+modified_time: 2022-06-02 06:03:26-04:00
 published_time: 2022-06-01 12:01:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-third-operation-fly-formula-mission/
 tags: statements-releases

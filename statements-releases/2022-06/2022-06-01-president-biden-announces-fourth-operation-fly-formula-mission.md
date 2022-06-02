@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-modified_time: 2022-06-01 13:29:50-04:00
+modified_time: 2022-06-02 06:03:14-04:00
 published_time: 2022-06-01 13:29:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-fourth-operation-fly-formula-mission/
 tags: statements-releases
