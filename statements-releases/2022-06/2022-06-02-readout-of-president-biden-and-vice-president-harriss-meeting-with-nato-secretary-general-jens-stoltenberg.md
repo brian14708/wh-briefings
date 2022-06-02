@@ -1,6 +1,6 @@
 ---
 date: '2022-06-02'
-modified_time: 2022-06-02 16:22:39-04:00
+modified_time: 2022-06-02 16:54:39-04:00
 published_time: 2022-06-02 15:17:28-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/readout-of-president-biden-and-vice-president-harriss-meeting-with-nato-secretary-general-jens-stoltenberg/
 tags: statements-releases
@@ -18,8 +18,8 @@ resourced to address a wide range of challenges, from cyber to climate
 change. They also welcomed the applications by Finland and Sweden for
 NATO membership, and President Biden conveyed his strong support for
 efforts by Secretary General Stoltenberg to facilitate a rapid accession
-process that addresses the security concerns of all Allies. Vice
-President Harris attended the meeting. Additionally, National Security
-Advisor Jake Sullivan met separately with Secretary General Stoltenberg.
+process that addresses the security concerns of all Allies.
+Additionally, National Security Advisor Jake Sullivan met separately
+with Secretary General Stoltenberg.
 
 \###
