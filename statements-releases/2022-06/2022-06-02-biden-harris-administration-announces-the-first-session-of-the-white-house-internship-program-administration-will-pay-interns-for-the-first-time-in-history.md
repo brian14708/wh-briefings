@@ -1,6 +1,6 @@
 ---
 date: '2022-06-02'
-modified_time: 2022-06-02 07:05:37-04:00
+modified_time: 2022-06-02 10:40:34-04:00
 published_time: 2022-06-02 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/biden-harris-administration-announces-the-first-session-of-the-white-house-internship-program-administration-will-pay-interns-for-the-first-time-in-history/
 tags: statements-releases
@@ -39,11 +39,10 @@ to gain valuable skills while supporting the work of the White House and
 furthering the priorities of the Biden-Harris Administration.  
 
 Interested candidates can find the Program’s online application
-at [WH.gov/intern](/Users/ASPuri/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1SR44D5D/WH.gov/intern).
-The website also features additional information about the Program,
-including a “Frequently Asked Questions” section. The application for
-the Fall 2022 session will open on Monday, June 6 and close on Friday,
-June 24. 
+at [WH.gov/intern](http://wh.gov/intern). The website also features
+additional information about the Program, including a “Frequently Asked
+Questions” section. The application for the Fall 2022 session will open
+on Monday, June 6 and close on Friday, June 24. 
 
 Each year, leaders from around the country participate in the White
 House Internship Program to dedicate their time, energy, and experience
