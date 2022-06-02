@@ -1,6 +1,6 @@
 ---
 date: '2022-06-02'
-modified_time: 2022-06-02 10:40:34-04:00
+modified_time: 2022-06-02 14:54:27-04:00
 published_time: 2022-06-02 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/biden-harris-administration-announces-the-first-session-of-the-white-house-internship-program-administration-will-pay-interns-for-the-first-time-in-history/
 tags: statements-releases
@@ -11,7 +11,7 @@ title: "Biden-\u2060Harris Administration Announces the First Session of the Whi
  
 President Biden and Vice President Harris are announcing the launch of
 the White House Internship Program and that, for the first time in
-history, White House interns will be paid. The first session will
+recent history, White House interns will be paid. The first session will
 commence in Fall 2022.  
 
 Too often, unpaid federal internships have been a barrier to hardworking
