@@ -1,11 +1,11 @@
 ---
 date: '2022-06-06'
-modified_time: 2022-06-06 12:52:30-04:00
+modified_time: 2022-06-06 13:19:08-04:00
 published_time: 2022-06-06 12:35:12-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-electric-heat-pumps/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
-  \ Production Act of 1950, as amended, on Electric Heat\_Pumps\uFFFC"
+  \ Production Act of 1950, as amended, on Electric Heat\_Pumps"
 ---
  
 Presidential Determination  

@@ -1,10 +1,11 @@
 ---
 date: '2022-06-02'
+modified_time: 2022-06-06 13:52:44-04:00
 published_time: 2022-06-02 23:42:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/02/press-briefing-by-press-secretary-karine-jean-pierre-and-covid-19-response-coordinator-dr-ashish-jha/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and COVID-\u206019 Response\
-  \ Coordinator Dr. Ashish\_Jha"
+  \ Coordinator Dr. Ashish Jha, June 2,\_2022"
 ---
  
 James S. Brady Press Briefing Room
