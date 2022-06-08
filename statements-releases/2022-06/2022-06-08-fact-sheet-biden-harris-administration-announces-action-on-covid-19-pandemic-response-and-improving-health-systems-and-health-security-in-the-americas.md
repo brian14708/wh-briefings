@@ -1,11 +1,11 @@
 ---
 date: '2022-06-08'
-modified_time: 2022-06-08 06:16:37-04:00
+modified_time: 2022-06-08 09:06:49-04:00
 published_time: 2022-06-08 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-announces-action-on-covid-19-pandemic-response-and-improving-health-systems-and-health-security-in-the-americas/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Action on COVID-\u2060\
-  19 Pandemic Response and Improving Health Systems and Health Security in the\_Americas\uFFFC"
+  19 Pandemic Response and Improving Health Systems and Health Security in the\_Americas"
 ---
  
 The COVID-19 pandemic took a devastating human toll on Latin America and
