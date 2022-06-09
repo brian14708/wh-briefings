@@ -1,6 +1,6 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-09 07:17:27-04:00
+modified_time: 2022-06-09 09:09:22-04:00
 published_time: 2022-06-09 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-tackling-climate-change-and-creating/
 tags: statements-releases
@@ -28,19 +28,18 @@ Collaboration with our Caribbean Partners.  PACC 2030 will work towards
 meeting the objectives of the Paris Climate Agreement and the United
 Nations Sustainable Development Goals (SDGs).
 
-**Strengthening the Clean Energy Economy: **The Administration is
-committing to strengthen the clean energy economy in the Americas, first
-by promoting trade and investment in clean energy, and second by
-encouraging regional collaboration through the Renewable Energy for
-Latin America and the Caribbean (RELAC) initiative. Five new countries
-announced on June 9 they will work together with the 15 existing members
-of RELAC to achieve the collective target of 70% installed capacity for
-renewable energy generation in the region’s electricity sector by
-2030. The Administration is also announcing its intent to provide
-funding support for technical cooperation on regulatory and policy
-frameworks under RELAC and to work with regional development banks,
-private financial institutions, and other partners to mobilize
-additional resources.
+**Strengthening the Clean Energy Economy: **The United States announced
+it will promote greater trade and investment in clean energy, and
+increase support for regional cooperation through the Renewable Energy
+in Latin America and the Caribbean (RELAC) initiative.  Five new
+countries announced on June 9 their intention to join RELAC, joining 15
+other countries that have already signed on to this one-of-a-kind
+collective effort to reach 70% installed capacity for renewable energy
+generation in the region’s electricity sector by 2030.  The
+Administration is also announcing its intent to provide funding support
+for technical cooperation on regulatory and policy frameworks under
+RELAC and to work with regional development banks, private financial
+institutions, and other partners to mobilize additional resources.
 
 **100,000 Strong in the Americas Climate Initiative (100K CLIMA):** 100K
 CLIMA will build on region-wide alliances between industry, governments,

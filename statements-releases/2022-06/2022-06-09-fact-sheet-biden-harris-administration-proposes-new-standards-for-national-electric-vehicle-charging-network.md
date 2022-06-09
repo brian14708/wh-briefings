@@ -1,6 +1,6 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-08 18:14:46-04:00
+modified_time: 2022-06-09 09:39:52-04:00
 published_time: 2022-06-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/
 tags: statements-releases
@@ -17,12 +17,14 @@ President Biden’s goal to build out the first-ever national network of
 communities, a key piece of the Bipartisan Infrastructure Law.
 
 The Department of Transportation, in partnership with the Department of
-Energy, is proposing new standards to make charging electric vehicles
-(EVs) a convenient, reliable, and affordable for all Americans,
-including when driving long distances. Without strong standards,
-chargers would be less reliable, may not work for all cars, or lack
-common payment methods. The new standards will ensure everyone can use
-the network –no matter what car you drive or which state you charge in.
+Energy, is [proposing new
+standards](https://www.transportation.gov/briefing-room/biden-harris-administration-takes-key-step-forward-building-national-network-user)
+to make charging electric vehicles (EVs) a convenient, reliable, and
+affordable for all Americans, including when driving long distances.
+Without strong standards, chargers would be less reliable, may not work
+for all cars, or lack common payment methods. The new standards will
+ensure everyone can use the network –no matter what car you drive or
+which state you charge in.
 
 The proposed standards, along with new coordinated federal actions on
 EVs, support President’s Biden’s priorities  to lower costs for
