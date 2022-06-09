@@ -1,10 +1,11 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-09 09:09:22-04:00
+modified_time: 2022-06-09 13:28:21-04:00
 published_time: 2022-06-09 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-tackling-climate-change-and-creating/
 tags: statements-releases
-title: "FACT SHEET: Tackling Climate Change and\_Creating"
+title: "FACT SHEET: Tackling Climate Change and Creating\_Clean Energy Jobs in the\_\
+  Americas"
 ---
  
 Our hemisphere is facing the devastating impacts and costs of climate
