@@ -1,10 +1,10 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-08 22:52:52-04:00
+modified_time: 2022-06-09 14:51:45-04:00
 published_time: 2022-06-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheetbiden-administration-announces-operational-plan-for-covid-19-vaccinations-for-children-under-5/
 tags: statements-releases
-title: "FACT SHEET:Biden Administration Announces Operational Plan for COVID-\u2060\
+title: "FACT SHEET: Biden Administration Announces Operational Plan for COVID-\u2060\
   19 Vaccinations for Children Under\_5"
 ---
  
