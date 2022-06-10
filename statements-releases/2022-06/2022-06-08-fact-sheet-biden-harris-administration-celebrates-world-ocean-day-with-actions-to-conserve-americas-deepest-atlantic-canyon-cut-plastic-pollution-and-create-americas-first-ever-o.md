@@ -1,6 +1,6 @@
 ---
 date: '2022-06-08'
-modified_time: 2022-06-09 15:22:21-04:00
+modified_time: 2022-06-10 11:12:26-04:00
 published_time: 2022-06-08 09:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-celebrates-world-ocean-day-with-actions-to-conserve-americas-deepest-atlantic-canyon-cut-plastic-pollution-and-create-americas-first-ever-o/
 tags: statements-releases
@@ -146,25 +146,7 @@ today in recognition of World Ocean Day are:
     countries commit to take voluntary actions to conserve, protect, and
     restore at least 30% of waters under their national jurisdiction.
     The pledge is non-binding, but aims to catalyze political action to
-    significantly enhance ocean conservation efforts.   
--   **U.S. Further Strengthens its Ocean Leadership through
-    International Clean Seas Campaign.** On June 3, the United States
-    became the newest member in the UN Environment Program’s Clean Seas
-    Campaign.  Launched in 2017, the Clean Seas Campaign serves as a
-    voluntary, multi-stakeholder platform for individuals, civil society
-    groups, industry and governments to promote policies, standards, and
-    practices to reduce marine litter. The United States joins 64
-    countries, covering more than 60 percent of the world’s coastlines.
-    Earlier this year, the United States also joined more than 90 other
-    countries in signing on to the High Ambition Coalition for Nature
-    and People and its goal to conserve or protect at least 30 percent
-    of the global ocean by 2030. And since we cannot reach that global
-    target without equally ambitious action within national waters, the
-    United States announced the Ocean Conservation Pledge, by which
-    countries commit to take voluntary actions to conserve, protect, and
-    restore at least 30% of waters under their national jurisdiction.
-    The pledge is non-binding, but aims to catalyze political action to
-    significantly enhance ocean conservation efforts.   
+    significantly enhance ocean conservation efforts.    
 
 The Biden-Harris Administration’s ongoing work to harness the clean
 energy potential of the ocean, conserve and restore its health and
