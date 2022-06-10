@@ -1,6 +1,6 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-09 18:46:59-04:00
+modified_time: 2022-06-09 23:14:59-04:00
 published_time: 2022-06-09 18:46:58-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-announces-commitments-to-advance-food-security-in-the-western-hemisphere/
 tags: statements-releases
@@ -18,7 +18,7 @@ experiencing the highest spike in food prices in a generation.
 At the Summit of the Americas in Los Angeles, the President is bringing
 together key partners to address this crisis and announcing $331 million
 for humanitarian assistance, food security assistance, and disaster risk
-reduction assistance– out of the $664 million total, that includes
+reduction assistance– out of the $645 million total, that includes
 support for refugee and migrant populations.  
   
 The number of people facing severe food insecurity in Latin America and
