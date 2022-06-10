@@ -1,6 +1,6 @@
 ---
 date: '2022-06-10'
-modified_time: 2022-06-10 10:58:40-04:00
+modified_time: 2022-06-10 15:07:46-04:00
 published_time: 2022-06-10 10:58:39-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/
 tags: statements-releases
@@ -220,7 +220,7 @@ reunification.
 
 <!-- -->
 
--   **The United States will roll out of new Fair Recruitment Practices
+-   **The United States will roll out new Fair Recruitment Practices
     Guidance for Temporary Migrant Workers with the cooperation of major
     employers, including Walmart.** As the United States and various
     other countries expand temporary worker programs in the Western
@@ -231,9 +231,11 @@ reunification.
     Workers](http://www.dol.gov/newsroom/releases/ilab/ilab20220610).”
     The guidance promotes best practices for governments seeking to
     increase participation in the H-2 visa programs and employers
-    relying on these programs.  The United States has also mobilized the
-    support of major U.S. retailer Walmart, a critical step to ensure
-    implementation across the supply chain.  
+    relying on these programs. The United States has also mobilized the
+    support of major U.S. retailer Walmart, which notes the importance
+    of H-2A migrant workers to U.S. agriculture and that the fair
+    recruitment guidance aligns with the company’s own expectations
+    around responsible recruitment.
 
 <!-- -->
 
