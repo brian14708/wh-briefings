@@ -1,6 +1,6 @@
 ---
 date: '2022-06-09'
-modified_time: 2022-06-09 09:39:52-04:00
+modified_time: 2022-06-12 17:15:36-04:00
 published_time: 2022-06-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/
 tags: statements-releases
@@ -180,10 +180,9 @@ us on a path to net-zero emissions by 2050.
     with the Department of Energy to install and pilot EV charging
     innovations, including managed and bidirectional charging, at
     selected GSA facilities and to accelerate market acceptance. In
-    addition, GSA’s Public Buildings Service established an Interagency
-    Agreement with the Department of Veterans Affairs to install EV
-    charging stations at approximately 60 Veterans Affairs locations at
-    a value greater than $40 million.
+    addition, GSA is working to establish an Interagency Agreement with
+    the Department of Veterans Affairs to install EV charging stations
+    at approximately 60 Veterans Affairs locations.
 
 <!-- -->
 
