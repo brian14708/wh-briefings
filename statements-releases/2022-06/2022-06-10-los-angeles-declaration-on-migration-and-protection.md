@@ -1,5 +1,6 @@
 ---
 date: '2022-06-10'
+modified_time: 2022-06-11 19:10:53-04:00
 published_time: 2022-06-10 17:11:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/los-angeles-declaration-on-migration-and-protection/
 tags: statements-releases
@@ -195,7 +196,7 @@ hemisphere to:
     include family reunification options where appropriate and feasible,
     in accordance with national legislation.
 
-————————————————-
+------------------------------------------------------------------------
 
 This Declaration builds upon existing efforts and international
 commitments and advances the vision set forth in the Global Compact on
