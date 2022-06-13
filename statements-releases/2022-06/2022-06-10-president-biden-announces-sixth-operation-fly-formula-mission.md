@@ -1,6 +1,6 @@
 ---
 date: '2022-06-10'
-modified_time: 2022-06-10 12:19:24-04:00
+modified_time: 2022-06-13 10:42:17-04:00
 published_time: 2022-06-10 12:17:17-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/president-biden-announces-sixth-operation-fly-formula-mission/
 tags: statements-releases

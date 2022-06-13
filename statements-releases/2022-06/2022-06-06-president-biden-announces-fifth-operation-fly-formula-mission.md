@@ -1,6 +1,6 @@
 ---
 date: '2022-06-06'
-modified_time: 2022-06-09 13:57:04-04:00
+modified_time: 2022-06-13 10:42:21-04:00
 published_time: 2022-06-06 13:03:23-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/president-biden-announces-fifth-operation-fly-formula-mission/
 tags: statements-releases
