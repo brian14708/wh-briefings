@@ -1,6 +1,6 @@
 ---
 date: '2022-06-10'
-modified_time: 2022-06-11 19:10:53-04:00
+modified_time: 2022-06-14 13:03:25-04:00
 published_time: 2022-06-10 17:11:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/los-angeles-declaration-on-migration-and-protection/
 tags: statements-releases
@@ -11,14 +11,15 @@ We, the Heads of State and Government of the Argentine Republic,
 Barbados, Belize, the Federative Republic of Brazil, Canada, the
 Republic of Chile, the Republic of Colombia, the Republic of Costa Rica,
 the Republic of Ecuador, the Republic of El Salvador, the Republic of
-Guatemala, the Republic of Haiti, the Republic of Honduras, Jamaica, the
-United Mexican States, the Republic of Panama, the Republic of Paraguay,
-the Republic of Peru, the United States of America, and the Oriental
-Republic of Uruguay, gathered in Los Angeles on the margins of the Ninth
-Summit of the Americas, reiterate our will to strengthen national,
-regional, and hemispheric efforts to create the conditions for safe,
-orderly, humane, and regular migration and to strengthen frameworks for
-international protection and cooperation.
+Guatemala, Co‑operative Republic of Guyana, the Republic of Haiti, the
+Republic of Honduras, Jamaica, the United Mexican States, the Republic
+of Panama, the Republic of Paraguay, the Republic of Peru, the United
+States of America, and the Oriental Republic of Uruguay, gathered in Los
+Angeles on the margins of the Ninth Summit of the Americas, reiterate
+our will to strengthen national, regional, and hemispheric efforts to
+create the conditions for safe, orderly, humane, and regular migration
+and to strengthen frameworks for international protection and
+cooperation.
 
 We embrace the need to promote the political, economic, security,
 social, and environmental conditions for people to lead peaceful,

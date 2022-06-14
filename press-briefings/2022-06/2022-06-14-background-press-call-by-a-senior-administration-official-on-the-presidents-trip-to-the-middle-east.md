@@ -1,6 +1,6 @@
 ---
 date: '2022-06-14'
-modified_time: 2022-06-14 11:12:18-04:00
+modified_time: 2022-06-14 12:57:15-04:00
 published_time: 2022-06-14 11:12:17-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/14/background-press-call-by-a-senior-administration-official-on-the-presidents-trip-to-the-middle-east/
 tags: press-briefings
@@ -277,12 +277,13 @@ in Bethlehem or in Ramallah? 
   
 Thank you so much.  
   
-Q    Well, thanks, Nadia, for great questions.  Look, I think it’s a
-much different time than six, seven years ago.  And I think this unique
-gathering of leaders in Jeddah and of the President flying directly from
-Israel to Jeddah, I think it offers some unique opportunities to discuss
-some important issues in the world, some of which I laid out, but
-obviously, containing Iran and energy security.  
+SENIOR ADMINISTRATION OFFICIAL: Well, thanks, Nadia, for great
+questions.  Look, I think it’s a much different time than six, seven
+years ago.  And I think this unique gathering of leaders in Jeddah and
+of the President flying directly from Israel to Jeddah, I think it
+offers some unique opportunities to discuss some important issues in the
+world, some of which I laid out, but obviously, containing Iran and
+energy security.  
   
 I think the President will discuss some pretty innovative initiatives we
 have ongoing in CENTCOM, in the Red Sea; some unique naval task forces,
