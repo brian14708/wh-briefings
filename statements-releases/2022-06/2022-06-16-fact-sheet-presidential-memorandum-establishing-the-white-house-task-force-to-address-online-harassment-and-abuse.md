@@ -1,5 +1,6 @@
 ---
 date: '2022-06-16'
+modified_time: 2022-06-16 11:01:34-04:00
 published_time: 2022-06-16 08:59:37-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/
 tags: statements-releases
@@ -7,16 +8,17 @@ title: "FACT SHEET: Presidential Memorandum Establishing the White\_House Task F
   \ to Address Online Harassment and\_Abuse"
 ---
  
-Today, President Biden will sign a Presidential Memorandum establishing
-the White House Task Force to Address Online Harassment and Abuse,
-responding to the need for government leadership to address online
-harms, which disproportionately affect women, girls, people of color,
-and LGBTQI+ individuals. Vice President Harris will launch the Task
-Force by hosting a survivor and expert roundtable this afternoon. The
-tragic events in Buffalo and Uvalde have underscored a fact known all
-too well by many Americans: the internet can fuel hate, misogyny, and
-abuse with spillover effects that threaten our communities and safety
-offline. 
+Today, President Biden will sign a [Presidential
+Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+establishing the White House Task Force to Address Online Harassment and
+Abuse, responding to the need for government leadership to address
+online harms, which disproportionately affect women, girls, people of
+color, and LGBTQI+ individuals. Vice President Harris will launch the
+Task Force by hosting a survivor and expert roundtable this afternoon.
+The tragic events in Buffalo and Uvalde have underscored a fact known
+all too well by many Americans: the internet can fuel hate, misogyny,
+and abuse with spillover effects that threaten our communities and
+safety offline. 
 
 President Biden has long championed efforts to prevent and address
 gender-based violence, including writing and passing the landmark
