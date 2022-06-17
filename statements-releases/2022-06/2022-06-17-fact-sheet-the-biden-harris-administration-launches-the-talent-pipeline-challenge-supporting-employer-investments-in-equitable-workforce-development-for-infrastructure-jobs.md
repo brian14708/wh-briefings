@@ -1,5 +1,6 @@
 ---
 date: '2022-06-17'
+modified_time: 2022-06-17 16:23:04-04:00
 published_time: 2022-06-17 10:47:10-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/
 tags: statements-releases
@@ -43,7 +44,7 @@ persistent poverty. As part of this goal:
 -   Employers already partnered with a registered apprenticeship program
     may consider investing in a quality pre-apprenticeship program that
     sends its graduates directly into a registered apprenticeship
-    program.  
+    program.
 -   Employers are encouraged to invest in the resources and supports
     like tuition assistance, child care, transportation costs, and
     emergency aid that are often barriers for workers to participate in
@@ -79,35 +80,41 @@ to:
     -   American Rescue Plan (ARP) State and Local Fiscal Recovery Funds
         toward job training and other assistance to workers negatively
         affected by the pandemic.
+
+    <!-- -->
+
     -   Bipartisan Infrastructure Law grant funding, where possible and
         legally permissible, to support workforce development aligned to
         project labor needs.
+
+    <!-- -->
+
     -   State Workforce Innovation and Opportunity Act (WIOA) Reserve
         dollars to fund place-based labor-management partnerships in
         infrastructure sectors, with apprenticeships and
         pre-apprenticeship opportunities.
 -   Serve as a regional convenor of employers, training, and community
     partners to identify workforce needs and develop a regional
-    workforce training plan.
+    workforce training plan. 
 -   Make a model employer commitment, prioritizing hiring of workers and
     small businesses in their community for state and local projects and
     developing diverse hiring goals.
 -   Encourage contractors, where permissible under applicable law, to
     use local/economic hiring preferences to expand the diversity of the
-    talent pool and build local talent.  
+    talent pool and build local talent.
 -   Adapt career and technical education plans (i.e., Perkins State
     Plan) to meet new workforce needs created by the Bipartisan
     Infrastructure Law.
 
 **Administration Actions to Support Infrastructure Workforce
-Development  
-**  
+Development**
+
 The Administration is undertaking a wide range of actions to support
 workforce development related to the three industries highlighted in the
 Talent Pipeline Challenge. The Bipartisan Infrastructure Law includes
 over $800 million in dedicated funding for job training, as well as
 additional investments where agencies may encourage the use of the funds
-for training. Agencies are including, where possible, workforce
+for training.  Agencies are including, where possible, workforce
 development as an allowable activity in Bipartisan Infrastructure Law
 programs and identifying funds both within the Bipartisan Infrastructure
 Law, like funds from large federal-aid highway investments, and through
@@ -118,7 +125,7 @@ be invested in workforce training programs. The Department of Labor
 apprenticeships and workforce programs at community colleges to meet
 infrastructure workforce needs. The Administration will also work to
 support state and local partnerships seeking to leverage WIOA funding to
-support workforce training as well as wrap-around services.  
+support workforce training as well as wrap-around services.
 
 ***ADDITIONAL DETAILS:***
 
@@ -133,7 +140,7 @@ Specific actions include:
     colleges. These grants will enable community colleges – individually
     or collectively – to proactively address equity gaps and meet the
     skills development needs of local employers and workers, including
-    for infrastructure- related fields.
+    for infrastructure-related fields.
 -   The Department of Commerce’s (DOC) Internet for All program’s Notice
     of Funding Opportunities (NOFOs) prioritize high labor standards and
     protections, as well as workforce development initiatives, to ensure
@@ -166,7 +173,7 @@ Specific actions include:
     combined resources and expertise of both agencies to ensure the
     actions necessary to meet common goals related to expanding
     equitable access to quality jobs for workers and communities in the
-    development and modernization of American infrastructure.
+    development and modernization of American infrastructure. 
 -   In March, DOT released the NOFO for the Low and No Emissions Bus
     program. The Bipartisan Infrastructure Law provides the first-ever
     dedicated investment in our transit workforce to support the
@@ -183,11 +190,10 @@ Specific actions include:
     to increase the safety and reliability of chargers while creating
     and supporting good-paying, highly skilled union jobs in communities
     across the country.
-
-Over the course of the summer, the Administration will collaborate with
-employers and other critical stakeholders to encourage action on new or
-existing workforce efforts. Agencies will also highlight best practices
-to address infrastructure talent pipeline needs.
+-   Over the course of the summer, the Administration will collaborate
+    with employers and other critical stakeholders to encourage action
+    on new or existing workforce efforts. Agencies will also highlight
+    best practices to address infrastructure talent pipeline needs.
 
 ***COMMITMENTS UNDERWAY:***
 
@@ -203,7 +209,7 @@ to address infrastructure talent pipeline needs.
     revitalization projects, and soon Bipartisan Infrastructure Law
     funded infrastructure projects – helping residents get access to
     these good jobs and helping employers access the talent they need to
-    successfully complete these government projects.
+    successfully complete these government projects.   
 -   Washington D.C. is expanding its D.C. Infrastructure Academy with
     Fiscal Recovery Funds from ARP to meet the need for skilled
     infrastructure professionals. The Infrastructure Academy offers
@@ -225,7 +231,10 @@ to address infrastructure talent pipeline needs.
     growing demand.
     -   IBEW will aim to have a total of 10,000 EVITP certified
         electricians by August.
-    -   The Superior Group will increase the number of certified
+
+    <!-- -->
+
+    -   The Superior Group will increase the number of EVITP certified
         electricians in its ranks by 50. Additionally, The Superior
         Group is committed to attracting more than 100 potential new
         employees from underserved communities in Central Ohio by the
@@ -268,14 +277,14 @@ to address infrastructure talent pipeline needs.
     eventually include a 2,000-hour apprenticeship at Greenlight
     Community Broadband and other regional broadband partners. The Fiber
     Broadband Association plans to replicate this model with community
-    colleges and providers across the country.
+    colleges and providers across the country. 
 -   The philanthropic community has also stepped up to support these
     efforts. The Families and Workers Fund has committed $1 million in
     aligned funding to help advance good jobs and diverse talent
     pipelines. This funding will focus on building the capacity of
     community-based nonprofits to scale innovative models for helping
     workers achieve economic mobility and career advancement and to
-    participate in federal funding opportunities. Additionally,
+    participate in federal funding opportunities.  Additionally,
     philanthropies are committing $250,000 to train workers in EVITP,
     including $150,000 from the Hewlett Foundation, which is committed
     to enhancing broad public benefits of the clean energy transition.
