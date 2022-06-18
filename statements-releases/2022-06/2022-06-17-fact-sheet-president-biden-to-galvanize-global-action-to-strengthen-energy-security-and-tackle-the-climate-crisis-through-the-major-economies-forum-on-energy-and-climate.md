@@ -1,5 +1,6 @@
 ---
 date: '2022-06-17'
+modified_time: 2022-06-18 13:38:37-04:00
 published_time: 2022-06-17 06:40:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-president-biden-to-galvanize-global-action-to-strengthen-energy-security-and-tackle-the-climate-crisis-through-the-major-economies-forum-on-energy-and-climate/
 tags: statements-releases
@@ -17,24 +18,25 @@ disrupted energy markets, strained economies with rising prices, and
 threatened vulnerable countries with severe food shortages. 
 
 At today’s meeting, President Biden’s third MEF convening since taking
-office, world leaders will raise ambitions and followed the United
-States leadership, joining new efforts and initiatives aimed at tackling
-the climate crisis while advancing energy-security and food-security,
+office, world leaders will raise ambition and, following U. S.
+leadership, join new efforts and initiatives aimed at tackling the
+climate crisis while advancing energy security and food security,
 including:
 
--   **Global Methane Pledge Energy Pathway**: Tackling methane leaks
-    from the oil and gas sector by capturing wasted gas and bringing it
-    to market — bolstering our energy-security and climate goals;
--   **Collective 2030 Zero-Emissions Vehicle Goal and Green Shipping
-    Challenge:** Putting more zero-emission vehicles on the road and
+-   **Global Methane Pledge Energy Pathway**: Tackling methane leaks,
+    venting, and flaring from the oil and gas sector by capturing wasted
+    gas and bringing it to market — bolstering our energy security and
+    climate goals;
+-   **Collective 2030 Zero-Emission Vehicle Goal** and **Green Shipping
+    Challenge**: Putting more zero-emission vehicles on the road and
     decarbonizing ocean-based shipping — reducing emissions in the
     transport sector while breaking our dependence on volatile oil
     markets and prices;
--   **Clean Energy Technologies Demonstration Challenge:** Speeding the
+-   **Clean Energy Technologies Demonstration Challenge**: Speeding the
     commercialization of new technologies — enabling us to break
     dependence on other unabated, volatile fossil fuels and advance the
     clean energy transition; and
--   **Efforts to Enhance Food Security:** Increasing fertilizer
+-   **Efforts to Enhance Food Security**: Increasing fertilizer
     efficiency and alternatives — reducing agriculture emissions while
     bolstering global food security.
 
@@ -77,16 +79,15 @@ people’s lives and build climate resilience.
 
 **<u>GLOBAL METHANE PLEDGE ENERGY PATHWAY:</u>**
 
-***Increasing Energy Security and Reducing Near-Term Warming by
-Capturing Flared, Vented, and Leaked Methane in the Oil and Gas
-Sector***
+*Increasing Energy Security and Reducing Near-Term Warming by Capturing
+Flared, Vented, and Leaked Methane in the Oil and Gas Sector*
 
 Every year, the world flares, vents, or leaks an amount of natural gas
 equivalent to over one-third of Russia’s annual gas production.  At the
 same time, the International Energy Agency (IEA) estimates that nearly
 half of the oil and gas sector’s methane emissions can be captured and
-utilized at no net cost.  Methane emissions account for more than half
-of net warming to date, and rapidly reducing them is the most effective
+utilized at no net cost.  Methane emissions account for nearly half of
+net warming to date, and rapidly reducing them is the most effective
 strategy to avoid near-term warming.  Stronger action in the oil and gas
 sector is the fastest and most cost-effective way to cut global methane
 emissions, with the potential to avoid nearly 0.1-degree C of warming by
@@ -101,18 +102,19 @@ Global Methane Pledge (GMP) to reduce global anthropogenic methane
 emissions at least 30 percent below 2020 levels by 2030.  And today,
 building on the success of the GMP, the United States and the European
 Union invited countries to join the new GMP Energy Pathway, to advance
-global climate progress.  The GMP Energy Pathway aims to encourage all
-nations to capture the maximum potential of cost-effective methane
-mitigation in the oil and gas sector, and to eliminate routine flaring
-as soon as possible, and no later than 2030.  Participating countries
-commit to support these efforts by providing new technical and financial
-resources and/or by enhancing domestic project and policy action.  The
-initiative will bring together some of the most significant global gas
-producers and consumers in the world.  To support the GMP Energy
-Pathway, the United States will provide $3.5 million in technical
-assistance through the Global Methane Initiative, and intends to support
-a transfer of at least $1.5 million remaining in the Pilot Auction
-Facility to the World Bank Global Gas Flaring Reduction Partnership.
+global progress on climate and energy security.  The GMP Energy Pathway
+aims to encourage all nations to capture the maximum potential of
+cost-effective methane mitigation in the oil and gas sector, and to
+eliminate routine flaring as soon as possible, and no later than 2030. 
+Participating countries commit to support these efforts by providing new
+technical and financial resources and/or by enhancing domestic project
+and policy action.  The initiative will bring together some of the most
+significant global gas producers and consumers in the world.  To support
+the GMP Energy Pathway, the United States will provide $3.5 million in
+technical assistance through the Global Methane Initiative, and intends
+to support a transfer of at least $1.5 million remaining in the Pilot
+Auction Facility to the World Bank Global Gas Flaring Reduction
+Partnership.
 
 Domestically, the U.S. is continuing its progress in reducing oil and
 gas methane emissions across the value chain, supporting American gas
@@ -131,14 +133,14 @@ pipelines.  In addition, new funding provided under the Bipartisan
 Infrastructure law is enabling the Department of Transportation to spend
 $1 billion on replacing unsafe and leaking gas distribution pipelines.
 
-**<u>CLEAN ENERGY TECHNOLOGIES DEMONSTRATION CHALLENGE:</u>** ****
+**<u>CLEAN ENERGY TECHNOLOGIES DEMONSTRATION CHALLENGE:</u>**
 
-***Raising $90 Billion for High-Priority Demonstration Projects This
-Decade***
+*Raising $90 Billion for High-Priority Demonstration Projects This
+Decade*
 
 Achieving net-zero emissions by 2050 requires developing and scaling
-innovative clean technologies not yet commercially available.  The IEA’s
-*Net Zero by 2050* roadmap identifies at least $90 billion in public
+innovative clean technologies not yet commercially available.  The
+IEA’s Net Zero by 2050 roadmap identifies at least $90 billion in public
 investments needed by 2026 for large-scale clean energy technology
 demonstration projects around the world to be completed this decade.
  Investing in the first several commercial-scale demonstrations of
@@ -173,8 +175,8 @@ of the world’s largest clean hydrogen storage facilities.
 
 **<u>COLLECTIVE 2030 ZERO-EMISSION VEHICLE GOAL:</u>**
 
-***Reducing Emissions and Dependence on Volatile Oil Markets by
-Accelerating Zero-Emissions Vehicle Deployment***
+*Reducing Emissions and Dependence on Volatile Oil Markets by
+Accelerating Zero-Emission Vehicle Deployment*
 
 Achieving net zero will require a profound transformation of other
 sectors, including transportation.  To keep a 1.5 C limit within reach,
@@ -211,7 +213,7 @@ battery supply chain and create high-quality jobs.
 
 **<u>GREEN SHIPPING CHALLENGE:</u>**
 
-***Catalyzing Action This Decade to Decarbonize Ocean-Based Shipping***
+*Catalyzing Action This Decade to Decarbonize Ocean-Based Shipping*
 
 Emissions from the shipping sector are significant, rising, and on a
 trajectory incompatible with the goals of the Paris Agreement.  If
@@ -219,11 +221,11 @@ shipping were a “country,” it would be the world’s eighth-largest
 emitter.  At COP 26, many countries, recognizing the urgency of reducing
 emissions from the shipping sector, joined the Declaration on Zero
 Emission Shipping by 2050 and the Clydebank Declaration supporting the
-establishment of green shipping corridors.  The United States will also
-announce that it is co-leading the Zero-Emission Shipping research
-Mission in Mission Innovation together with Norway and Denmark.  Further
-efforts on shipping decarbonization followed at the recent Our Ocean
-Conference co-hosted by the United States and Palau.
+establishment of green shipping corridors.  The United States also
+announced in 2021 that it is co-leading the Zero-Emission Shipping
+research Mission in Mission Innovation together with Norway and Denmark.
+ Further efforts on shipping decarbonization followed at the recent Our
+Ocean Conference co-hosted by the United States and Palau.
 
 To build on these efforts, the United States and Norway will announce
 the launch of a Green Shipping Challenge for COP 27.  This initiative
@@ -234,14 +236,14 @@ pathway this decade toward full decarbonization no later than 2050. 
 These could include, for example, steps to produce zero-emission fuels;
 develop zero-emission bunkering and recharging capabilities; deploy low-
 or zero-emission vessels; and create, or provide financial and technical
-support for green shipping corridors.  President Biden will invite
+support for, green shipping corridors.  President Biden will invite
 leaders to express their support for the Green Shipping Challenge and to
 announce specific actions under the initiative at COP 27.
 
 **<u>GLOBAL FERTILIZER CHALLENGE:</u>**
 
-***Strengthening Food Security and Reducing Agriculture Emissions by
-Advancing Fertilizer Efficiency and Alternatives** ***
+*Strengthening Food Security and Reducing Agriculture Emissions by
+Advancing Fertilizer Efficiency and Alternatives *
 
 Russia’s further invasion of Ukraine has shocked the global food system,
 showing just how vulnerable it is to disruption.  Wheat and fertilizer
