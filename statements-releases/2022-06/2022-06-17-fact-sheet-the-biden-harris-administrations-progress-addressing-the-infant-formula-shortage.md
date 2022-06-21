@@ -1,6 +1,6 @@
 ---
 date: '2022-06-17'
-modified_time: 2022-06-17 15:30:16-04:00
+modified_time: 2022-06-21 17:00:29-04:00
 published_time: 2022-06-17 15:28:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administrations-progress-addressing-the-infant-formula-shortage/
 tags: statements-releases
