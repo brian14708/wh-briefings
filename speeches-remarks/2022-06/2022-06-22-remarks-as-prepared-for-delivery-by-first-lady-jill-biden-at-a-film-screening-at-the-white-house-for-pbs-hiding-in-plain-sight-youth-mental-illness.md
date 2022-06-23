@@ -1,6 +1,6 @@
 ---
 date: '2022-06-22'
-modified_time: 2022-06-22 19:24:45-04:00
+modified_time: 2022-06-23 10:06:40-04:00
 published_time: 2022-06-22 19:24:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-film-screening-at-the-white-house-for-pbs-hiding-in-plain-sight-youth-mental-illness/
 tags: speeches-remarks
@@ -92,9 +92,8 @@ this: bringing the problem into the light. 
 Having the conversation. Helping our children—and everyone who suffers
 from this disease—understand that they aren’t alone. None of us are.    
   
-So, I want to thank Ken Burns, and directors Erik You-ers and
-Christopher Loren You-ers for creating a documentary that can help us do
-just that.  
+So, I want to thank Ken Burns, and directors Erik Ewers and Christopher
+Loren Ewers for creating a documentary that can help us do just that.  
   
 Ken has such a gift for breaking open the stories we don’t always
 see.   
