@@ -1,6 +1,6 @@
 ---
 date: '2022-06-21'
-modified_time: 2022-06-21 16:56:54-04:00
+modified_time: 2022-06-24 20:20:29-04:00
 published_time: 2022-06-21 16:56:53-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/21/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-2/
 tags: press-briefings
