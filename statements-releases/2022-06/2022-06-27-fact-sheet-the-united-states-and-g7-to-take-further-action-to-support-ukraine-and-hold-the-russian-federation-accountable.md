@@ -1,6 +1,6 @@
 ---
 date: '2022-06-27'
-modified_time: 2022-06-27 03:52:03-04:00
+modified_time: 2022-06-27 05:12:20-04:00
 published_time: 2022-06-27 04:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/fact-sheet-the-united-states-and-g7-to-take-further-action-to-support-ukraine-and-hold-the-russian-federation-accountable/
 tags: statements-releases
@@ -23,8 +23,10 @@ needs to maintain his military, have decreased approximately 97%.
 Russia’s imports of goods from around the world could fall by 40%.
 Factories across Russia are struggling to maintain production. Russia’s
 GDP will likely decline by double digits, inflation is rising to over
-20%, Russia’s struggling to make bond payments, and Russia’s defaulted
-on its sovereign debt for the first time in more than a century.  
+20%, Russia’s struggling to make bond payments, and [Russia’s defaulted
+on its sovereign debt for the first time in more than a
+century](https://www.bloomberg.com/news/articles/2022-06-26/russia-defaults-on-foreign-debt-for-first-time-since-1918#xj4y7vzkg).
+ 
 
 Our measures will continue to sap Putin’s military-industrial complex of
 critical components, prevent the central bank’s foreign reserves from
