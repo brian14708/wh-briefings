@@ -1,6 +1,6 @@
 ---
 date: '2022-06-26'
-modified_time: 2022-06-26 09:46:15-04:00
+modified_time: 2022-06-27 18:14:30-04:00
 published_time: 2022-06-26 11:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/
 tags: statements-releases
@@ -97,7 +97,7 @@ millionscan mobilize billions.**
     Government of Angola to develop a $2 billion solar project in four
     southern Angola provinces. The project will include solar
     mini-grids, solar cabins with telecommunications capabilities, and
-    home power kits. In addition to supporting up to $1.3 million in
+    home power kits. In addition to supporting up to $1.3 billion in
     U.S. exports, the project will help Angola meet their climate
     commitments, including generating 70% carbon-free power by 2025.  
      
