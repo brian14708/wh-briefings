@@ -1,5 +1,6 @@
 ---
 date: '2022-06-28'
+modified_time: 2022-06-28 11:16:18-04:00
 published_time: 2022-06-28 05:31:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-president-biden-and-g7-leaders-announce-further-efforts-to-counter-putins-attack-on-food-security/
 tags: statements-releases
@@ -23,37 +24,35 @@ plans to address increasing needs.
 Vladimir Putin’s actions have strangled food and agriculture production
 and have used food as a weapon of war, including through the destruction
 of agricultural storage, processing, and testing facilities; theft of
-grain and farm equipment; and the effective blockade of Black Sea ports
+grain and farm equipment; and the effective blockade of Black Sea ports.
 Russia’s choice to attack food supplies and production have an impact on
-markets, storage, production, and ultimately negatively impact consumers
-around the globe. Putin’s aggression in Ukraine, combined with the
-impacts from COVID-19, increasing conflict, high prices for fuel and
-fertilizer, have combined to devastate already fragile global food
-security and nutrition. Millions of people living far from the conflict
-face an increased risk of poverty, hunger, and malnutrition as a result
-of Putin’s war. Estimates suggest that up to 40 million more people
-could be pushed into poverty in 2022 as a result of Putin’s war in
-Ukraine and its secondary effects.  
+markets, storage, production, negatively impacting consumers around the
+globe. Putin’s aggression in Ukraine, combined with the impacts from
+COVID-19, increasing conflict, high prices for fuel and fertilizer, have
+combined to devastate already fragile global food security and
+nutrition. Millions of people living far from the conflict face an
+increased risk of poverty, hunger, and malnutrition as a result of
+Putin’s war. Estimates suggest that up to 40 million more people could
+be pushed into poverty in 2022 as a result of Putin’s war in Ukraine and
+its secondary effects.  
   
 While the entire globe will continue to be affected by Russia’s actions,
-the most immediate needs will present in the Horn of Africa, the most
-immediate humanitarian assistance related to food security crisis is in
-the Horn of Africa, as it experiences a record-setting fourth straight
-season of drought, that may lead to famine. As many as 20 million people
-may face the threat of starvation by the end of the year. The prolonged
-drought is also having dire nutrition impacts, putting children at
-severe risk of malnutrition and in need of treatment.  
+the most immediate needs will present in the Horn of Africa, as it
+experiences a record-setting fourth straight season of drought, that may
+lead to famine. As many as 20 million people may face the threat of
+starvation by the end of the year. The prolonged drought is also having
+dire nutrition impacts, putting children at severe risk of malnutrition
+and in need of treatment.  
   
 To address and mitigate further impacts on global food security, the
-U.S. Government will continuing life-saving food assistance to address
+U.S. Government will continue life-saving food assistance to address
 these growing needs and leverage additional financial commitments. Of
 the newly announced commitment of an additional $2.76 billion in
-humanitarian and economic assistance appropriated in May, $2 billion
-will be to help save lives through emergency interventions and $760
-million will be for sustainable near-term food assistance to help
-mitigate further increases in poverty, hunger, and malnutrition in
-vulnerable countries impacted by high prices of food, fertilizer, and
-fuel.    
+humanitarian and economic assistance, $2 billion will be to help save
+lives through emergency interventions and $760 million will be for
+sustainable near-term food assistance to help mitigate further increases
+in poverty, hunger, and malnutrition in vulnerable countries impacted by
+high prices of food, fertilizer, and fuel.    
   
 **The U.S. government’s multi-pronged response to combat global food
 insecurity includes:**  
@@ -136,11 +135,11 @@ President Biden’s $5 billion commitment in September 2021 to end global
 hunger, malnutrition and build sustainable, resilient food systems
 abroad.  
   
-The U.S. government currently invests $2 billion per year through Feed
-the Future, which builds on existing technical expertise, programs and
-partners in more than 35 countries. In these countries, the U.S.
-government investments pave the way for further investments from the
-private sector, donors and local governments.  
+The U.S. government currently invests more than $1.9 billion per year
+through Feed the Future, which builds on existing technical expertise,
+programs and partners in more than 35 countries. In these countries, the
+U.S. government investments pave the way for further investments from
+the private sector, donors and local governments.  
   
 ***Global Agriculture and Food Security Program (GAFSP)***  
 The United States through the U.S. Treasury, continues to exercise
@@ -177,13 +176,13 @@ global efforts to confront this crisis.
     Trust (BEHT) as part of an effort to provide $670 million in food
     assistance to countries in need as a result of Putin’s unprovoked
     further invasion of Ukraine. USDA will provide $388 million in
-    additional funding through the Commodity Credit Corporation (CCC) to
-    cover ocean freight transportation, inland transport, internal
-    transport, shipping and handling, and other associated costs. USAID
-    will use the BEHT’s $282 million to procure U.S. food commodities to
-    bolster existing emergency food operations in six countries facing
-    severe food insecurity: Ethiopia, Kenya, Somalia, Sudan, South
-    Sudan, and Yemen.  
+    funding through the Commodity Credit Corporation (CCC) to cover
+    ocean freight transportation, inland transport, internal transport,
+    shipping and handling, and other associated costs. USAID will use
+    the BEHT’s $282 million to procure U.S. food commodities to bolster
+    existing emergency food operations in six countries facing severe
+    food insecurity: Ethiopia, Kenya, Somalia, Sudan, South Sudan, and
+    Yemen.  
 -   In May, the United States chaired a Global Food Security Call to
     Action Ministerial and launched the Roadmap for Global Food Security
     – endorsed by 94 countries – which affirms a commitment to act with
