@@ -1,10 +1,10 @@
 ---
 date: '2022-06-29'
-modified_time: 2022-06-29 15:50:50-04:00
+modified_time: 2022-06-29 17:13:16-04:00
 published_time: 2022-06-29 16:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/29/president-biden-names-twentieth-round-of-judicial-nominees/
 tags: statements-releases
-title: "President\_Biden Names Twentieth Round of Judicial Nominees"
+title: "President\_Biden Names Twentieth Round of Judicial\_Nominees"
 ---
  
 The President is announcing two new federal judicial nominees, both of
@@ -25,7 +25,7 @@ for the first year of a presidency since the Kennedy Administration.
 1.  **<u>Justice Tamika Montgomery-Reeves: Candidate for the United
     States Court of Appeals for the Third Circuit</u>**
 
-JusticeTamika Renee Montgomery-Reeves has served as a Justice on the
+Justice Tamika Renee Montgomery-Reeves has served as a Justice on the
 DelawareSupreme Court since 2019. Justice Montgomery-Reeves served as a
 Vice Chancellor on the Delaware Court of Chancery from 2015 to 2019. 
 Prior to joining the bench, Justice Montgomery-Reeves was a partner at
