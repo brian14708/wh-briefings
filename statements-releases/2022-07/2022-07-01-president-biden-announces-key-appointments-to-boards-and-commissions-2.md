@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-modified_time: 2022-07-01 15:31:08-04:00
+modified_time: 2022-07-05 12:22:13-04:00
 published_time: 2022-07-01 15:31:07-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/president-biden-announces-key-appointments-to-boards-and-commissions-2/
 tags: statements-releases
@@ -38,9 +38,9 @@ Area Muslim Society Center in Sterling, Virginia. He is the Chairman of
 International Interfaith Peace Corps and the former President of the
 Islamic Society of North America. He serves on the advisory board of the
 Peaceful Families Project and as Co-President of Religions for Peace.
-Magid is also the Co-Founder of the Multifaith Neighborhood Network,
-which focuses on building bridges between Muslim, Evangelical Christian,
-and Jewish communities.  
+Magid is also the Co-Founder of the Multi-faith Neighbors Network, which
+focuses on building bridges between Muslim, Evangelical Christian, and
+Jewish communities.  
   
 His main focuses are promoting religious freedom, preventing violence
 against women, and preventing violence and hate in our societies. Magid
