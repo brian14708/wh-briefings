@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-modified_time: 2022-07-01 10:47:26-04:00
+modified_time: 2022-07-05 17:57:32-04:00
 published_time: 2022-07-01 11:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/president-biden-announces-recipients-of-the-presidential-medal-of-freedom/
 tags: statements-releases
@@ -38,7 +38,7 @@ children in the foster care system, and victims of sexual assault.
 
 **<u>Sister Simone Campbell</u>**
 
-Sister Simone Campbellis a member of the Sisters of Social Service and
+Sister Simone Campbell is a member of the Sisters of Social Service and
 former Executive Director of NETWORK, a Catholic social justice
 organization. She is also a prominent advocate for economic justice,
 immigration reform, and healthcare policy.
@@ -84,14 +84,14 @@ Ecumenical Patriarchate.
 
 **<u>Khizr Khan</u>**
 
-Khizr Khanis a Gold Star father and founder of the Constitution Literacy
-and National Unity Center. He is a prominent advocate for the rule of
-law and religious freedom and served on the United States Commission on
-International Religious Freedom under President Biden.
+Khizr Khan is a Gold Star father and founder of the Constitution
+Literacy and National Unity Center. He is a prominent advocate for the
+rule of law and religious freedom and served on the United States
+Commission on International Religious Freedom under President Biden.
 
 **<u>Sandra Lindsay</u>**
 
-Sandra Lindsayis a New York critical care nurse who served on the front
+Sandra Lindsay is a New York critical care nurse who served on the front
 lines of the COVID-19 pandemic response. She was the first American to
 receive a COVID-19 vaccine outside of clinical trials and is a prominent
 advocate for vaccines and mental health for health care workers.
@@ -114,7 +114,7 @@ nonviolent assault on segregation at lunch counters.”
 
 **<u>Megan Rapinoe</u>**
 
-Megan Rapinoeis an Olympic gold medalist and two-time Women’s World Cup
+Megan Rapinoe is an Olympic gold medalist and two-time Women’s World Cup
 champion. She also captains OL Reign in the National Women’s Soccer
 League. She is a prominent advocate for gender pay equality, racial
 justice, and LGBTQI+ rights.
@@ -128,14 +128,14 @@ equality.
 
 **<u>Richard Trumka</u>** (posthumous)
 
-Richard Trumka (d. 2021)was president of the 12.5-million-member AFL-CIO
-for more than a decade, president of the United Mine Workers, and
-secretary-treasurer of the AFL-CIO. Throughout his career, he was an
+Richard Trumka (d. 2021) was president of the 12.5-million-member
+AFL-CIO for more than a decade, president of the United Mine Workers,
+and secretary-treasurer of the AFL-CIO. Throughout his career, he was an
 outspoken advocate for social and economic justice.
 
 **<u>Wilma Vaught</u>**
 
-Brigadier General Wilma Vaughtis one of the most decorated women in the
+Brigadier General Wilma Vaught is one of the most decorated women in the
 history of the U.S. military, repeatedly breaking gender barriers as she
 rose through the ranks. When she retired in 1985, she was one of only
 seven women generals in the Armed Forces.
