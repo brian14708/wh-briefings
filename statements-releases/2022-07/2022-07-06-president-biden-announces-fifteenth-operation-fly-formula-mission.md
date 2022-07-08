@@ -1,5 +1,6 @@
 ---
 date: '2022-07-06'
+modified_time: 2022-07-08 15:44:06-04:00
 published_time: 2022-07-06 17:39:06-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/06/president-biden-announces-fifteenth-operation-fly-formula-mission/
 tags: statements-releases
