@@ -1,6 +1,6 @@
 ---
 date: '2022-07-11'
-modified_time: 2022-07-11 00:23:36-04:00
+modified_time: 2022-07-11 18:29:57-04:00
 published_time: 2022-07-11 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/
 tags: statements-releases
@@ -11,7 +11,7 @@ title: "FACT SHEET: The Biden Administration\u2019s 21 Executive Actions to Redu
 President Biden has made historic progress on actions to reduce gun
 violence. To implement his
 comprehensive [strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/) to
-reduce gun crime, the Biden Administrationhas taken more executive
+reduce gun crime, the Biden Administration has taken more executive
 action to reduce gun violence than any other president’s at this point
 in their Administration. Today, the President is celebrating the
 Bipartisan Safer Communities Act, the most significant gun violence
