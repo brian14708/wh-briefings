@@ -1,6 +1,6 @@
 ---
 date: '2022-07-12'
-modified_time: 2022-07-12 17:21:23-04:00
+modified_time: 2022-07-12 19:24:45-04:00
 published_time: 2022-07-12 17:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/
 tags: statements-releases
@@ -547,34 +547,39 @@ Invest in Our Workforce**
   
 </u>**
 
-1.  The City is investing in the Syracuse Build Pathways to
-    Apprenticeship Program to help residents gain access to
-    pre-apprenticeship programs and credentials in high-demand sectors,
-    including construction, electrical mechanics, HVAC,
-    advanced/high-tech manufacturing, commercial driving, and software
-    development. The program will help ensure the local workforce is
-    ready for the I-81 viaduct project and other construction projects.
-    The program is a collaboration of the Central and Northern New York
-    Building Trades Council, CenterState CEO, and Syracuse Build, and
-    teaches the nationally recognized North America’s Building Trades
-    Unions (NABTU) Multi-Craft Core Curriculum. The comprehensive
-    apprenticeship readiness training program focuses on women, people
-    of color and veterans, and helps them gain access to the Building
-    Trades’ registered apprenticeship programs.
+1.  **Syracuse, NY is expanding access to union job opportunities to
+    prepare the local workforce for infrastructure and other jobs.** The
+    City is investing in the Syracuse Build Pathways to Apprenticeship
+    Program to help residents gain access to pre-apprenticeship programs
+    and credentials in high-demand sectors, including construction,
+    electrical mechanics, HVAC, advanced/high-tech manufacturing,
+    commercial driving, and software development. The program will help
+    ensure the local workforce is ready for the I-81 viaduct project and
+    other construction projects. The program is a collaboration of the
+    Central and Northern New York Building Trades Council, CenterState
+    CEO, and Syracuse Build, and teaches the nationally recognized North
+    America’s Building Trades Unions (NABTU) Multi-Craft Core
+    Curriculum. The comprehensive apprenticeship readiness training
+    program focuses on women, people of color and veterans, and helps
+    them gain access to the Building Trades’ registered apprenticeship
+    programs.
 
--   The program, which is operated through Gallatin College Montana
-    State University, has a goal of enrolling over 450 additional
-    students by 2024. As an example, the construction trades program
-    includes concrete, framing, electrical, earthwork, equipment
-    maintenance, and HVAC-R, with the aim of meeting new project demands
-    due to the Bipartisan Infrastructure Law. The program will recruit
-    locally affected residents and place students into local jobs once
-    trained, partnering with local industry partners for development,
-    partnerships, and placements. Further, the program will provide
-    training that will allow students to continue working in
-    apprenticeships or provide certificates and degrees in an
-    accelerated approach. The program will also provide evening
-    childcare to students while they attend classes.
+-   **Gallatin County, MT is committing $2 million to start or expand up
+    to seven new workforce training and education programs in the
+    high-demand trades of construction, welding and fabrication,
+    manufacturing, and healthcare.** The program, which is operated
+    through Gallatin College Montana State University, has a goal of
+    enrolling over 450 additional students by 2024. As an example, the
+    construction trades program includes concrete, framing, electrical,
+    earthwork, equipment maintenance, and HVAC-R, with the aim of
+    meeting new project demands due to the Bipartisan Infrastructure
+    Law. The program will recruit locally affected residents and place
+    students into local jobs once trained, partnering with local
+    industry partners for development, partnerships, and placements.
+    Further, the program will provide training that will allow students
+    to continue working in apprenticeships or provide certificates and
+    degrees in an accelerated approach. The program will also provide
+    evening childcare to students while they attend classes.
 -   **Vermont is building a broadband workforce. **The state is
     leveraging a portion of their $150 million Vermont Connectivity
     Broadband Fund to create a training program in partnership with the
@@ -620,12 +625,15 @@ Invest in Our Workforce**
     projects. The city has also committed to using their local workforce
     for American Rescue Plan-funded neighborhood revitalization
     projects.
--   The initiatives will also provide entrepreneurial skills training to
-    support new women- and minority-owned businesses, and retraining and
-    upskilling programs through Nassau’s local colleges and
-    universities.These programsprovideboth job training and job
-    placement, and will prioritize reaching residents in communities
-    facing higher rates of unemployment. 
+-   **Nassau County, NY is committing $10 million in workforce
+    development initiatives, including through apprenticeship programs
+    for various key skilled workers needed in the construction and
+    building trades.** The initiatives will also provide entrepreneurial
+    skills training to support new women- and minority-owned businesses,
+    and retraining and upskilling programs through Nassau’s local
+    colleges and universities. These programs provide both job training
+    and job placement, and will prioritize reaching residents in
+    communities facing higher rates of unemployment. 
 -   **The Mescalero Apache Tribe** is investing in a workforce
     development program that will focus on vocational education by
     providing scholarships to both Tribal citizens and current employees
@@ -633,9 +641,7 @@ Invest in Our Workforce**
     plumbing, and electrical – all jobs critical to carry out the
     Tribe’s COVID-19 recovery plan.
 
-**<u>Strengthening Our Care and Public Health Workforce  
-  
-</u>**
+**<u>Strengthening Our Care and Public Health Workforce</u>**
 
 **A. HOME AND COMMUNITY BASED CARE**
 
@@ -687,25 +693,30 @@ Invest in Our Workforce**
     health needs in the community today.  More than 800 individuals have
     been hired through this program, with 90 percent of individuals
     residing in community areas of high or medium economic hardship.
-2.  investing $50 million in expanding their Public Health Corps of
-    Community Health Workers. These individuals will educate New Yorkers
-    on health matters, connecting them to essential healthcare services
-    and enabling them to meet their health goals. The Health Corps is
-    supporting New Yorkers at the community level in clinics and
-    organizations serving the neighborhoods most affected by COVID-19,
-    helping fight against the health disparities exacerbated by
-    COVID-19.
-3.  During the COVID-19 pandemic, the County quickly mobilized CHWs to
-    provide tailored outreach and education to residents who have been
-    traditionally hard to reach due to factors such as linguistic and
-    cultural differences, geographic isolation, or historic distrust of
-    government. As trusted messengers, CHWs are connecting communities
-    impacted by long-standing health disparities to needed services and
-    systems of care. Over 250 CHWs have been deployed, who speak 26
-    languages, and serve all six regions of San Diego County. They
-    focused on underserved and under-immunized communities, including
-    Black and African American, Latino, refugee, and Asian and Pacific
-    Islander communities.
+2.  **New York City, NY is building a corps of community health workers
+    across the city,** investing $50 million in expanding their Public
+    Health Corps of Community Health Workers. These individuals will
+    educate New Yorkers on health matters, connecting them to essential
+    healthcare services and enabling them to meet their health goals.
+    The Health Corps is supporting New Yorkers at the community level in
+    clinics and organizations serving the neighborhoods most affected by
+    COVID-19, helping fight against the health disparities exacerbated
+    by COVID-19.
+3.  **San Diego County, CA has committed almost $30 million since the
+    start of the pandemic, utilizing an estimated $8 million in American
+    Rescue Plan funds to develop and deploy a new comprehensive
+    Community Health Worker (CHW) model.** During the COVID-19 pandemic,
+    the County quickly mobilized CHWs to provide tailored outreach and
+    education to residents who have been traditionally hard to reach due
+    to factors such as linguistic and cultural differences, geographic
+    isolation, or historic distrust of government. As trusted
+    messengers, CHWs are connecting communities impacted by
+    long-standing health disparities to needed services and systems of
+    care. Over 250 CHWs have been deployed, who speak 26 languages, and
+    serve all six regions of San Diego County. They focused on
+    underserved and under-immunized communities, including Black and
+    African American, Latino, refugee, and Asian and Pacific Islander
+    communities.
 
 -   **Rochester, NY is launching a Healthcare Workforce Resiliency
     Program.** The city is launching a Healthcare Workforce Resiliency
@@ -758,15 +769,14 @@ Invest in Our Workforce**
     clinical skills.** The training program teaches pediatric residents
     and behavioral health students to collaboratively offer mental
     health access.
-
-**Hudson Headwaters Health Network in Queensbury, NY is a community
-health center that has used American Rescue Plan funds to strengthen its
-workforce.** These efforts include recruitment and retention bonuses to
-maintain the existing healthcare workforce, and to recruit new providers
-in specialty areas like rheumatology and endocrinology. The health
-center has also used this funding for training in a variety of areas
-including customer service and de-escalation, wellness, and change
-management and leadership. 
+-   **Hudson Headwaters Health Network in Queensbury, NY is a community
+    health center that has used American Rescue Plan funds to strengthen
+    its workforce.** These efforts include recruitment and retention
+    bonuses to maintain the existing healthcare workforce, and to
+    recruit new providers in specialty areas like rheumatology and
+    endocrinology. The health center has also used this funding for
+    training in a variety of areas including customer service and
+    de-escalation, wellness, and change management and leadership. 
 
 **C. HISTORIC SUPPORT FOR CHILD CARE WORKERS**
 
@@ -1049,5 +1059,5 @@ management and leadership. 
     organization works closely with the state to develop wraparound
     services for participants of the program.
 
-\##  
+\###  
   
