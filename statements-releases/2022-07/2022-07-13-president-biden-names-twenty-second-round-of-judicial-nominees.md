@@ -1,6 +1,6 @@
 ---
 date: '2022-07-13'
-modified_time: 2022-07-13 16:18:09-04:00
+modified_time: 2022-07-15 11:21:31-04:00
 published_time: 2022-07-13 16:18:08-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/president-biden-names-twenty-second-round-of-judicial-nominees/
 tags: statements-releases
@@ -34,7 +34,7 @@ bench, which is why he continues to move rapidly to fill judicial
 vacancies. And he has won confirmation of the most lower court judges
 for the first year of a presidency since the Kennedy Administration.
 
-**<u>District Court Press Bios</u>**
+**<u>District Court</u>**
 
 1.  **<u>Judge Margaret R. Guzman: Candidate for the United States
     District Court for the District of Massachusetts</u>**
