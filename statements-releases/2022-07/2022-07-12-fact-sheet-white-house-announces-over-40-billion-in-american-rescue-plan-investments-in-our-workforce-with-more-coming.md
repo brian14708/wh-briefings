@@ -1,6 +1,6 @@
 ---
 date: '2022-07-12'
-modified_time: 2022-07-12 19:24:45-04:00
+modified_time: 2022-07-14 20:03:39-04:00
 published_time: 2022-07-12 17:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/
 tags: statements-releases
@@ -633,7 +633,23 @@ Invest in Our Workforce**
     and retraining and upskilling programs through Nassau’s local
     colleges and universities. These programs provide both job training
     and job placement, and will prioritize reaching residents in
-    communities facing higher rates of unemployment. 
+    communities facing higher rates of unemployment.
+-   **San Francisco, CA is doubling their CityBuild construction
+    pre-apprenticeship program,** administered through a partnership
+    between the San Francisco Office of Economic and Workforce
+    Development, City College of San Francisco, North America’s Building
+    Trades Unions (NABTU), local building trade apprenticeship programs,
+    community non-profit organizations, and industry employers. In 2021,
+    Mayor Breed announced the expansion of CityBuild, an effort to
+    coordinate citywide construction training and employment programs,
+    to train and provide construction jobs to 600 additional San
+    Franciscans over the next two years, doubling the program’s
+    capacity. The city’s investment will expand workforce development,
+    paid training, and job placement for adults and youth in San
+    Francisco, and will include targeted resources to address the
+    disproportionate Black unemployment rate and provide opportunities
+    for disadvantaged residents on infrastructure projects covered by
+    the city’s local hiring policy. 
 -   **The Mescalero Apache Tribe** is investing in a workforce
     development program that will focus on vocational education by
     providing scholarships to both Tribal citizens and current employees
