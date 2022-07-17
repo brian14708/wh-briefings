@@ -1,6 +1,6 @@
 ---
 date: '2022-07-15'
-modified_time: 2022-07-15 19:06:30-04:00
+modified_time: 2022-07-17 12:52:36-04:00
 published_time: 2022-07-15 19:06:29-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-on-his-meetings-in-saudi-arabia/
 tags: speeches-remarks
@@ -118,13 +118,13 @@ I’ll take a couple of questions now.
 Q    What was the Crown Prince’s response to your comments about
 Khashoggi?
 
-THE PRESIDENT: He basically said that he — he was not personally
-responsible for it. I indicated that he probably was. He said he was not
-personally responsible for it and he took action against those who were
-responsible. And — and we — and then I went on to talk more about how
-that dealing with any opposition to the — or criticism of the Saudi
-administration in other countries was viewed as, to me, a violation of
-human rights. There was no (inaudible).
+THE PRESIDENT:  He basically said that he — he was not personally
+responsible for it.  I indicated that <s>he probably</s> \[I thought
+he\]\* was.  He said he was not personally responsible for it and he
+took action against those who were responsible.  And — and we — and then
+I went on to talk more about how that dealing with any opposition to the
+— or criticism of the Saudi administration in other countries was viewed
+as, to me, a violation of human rights.  There was no (inaudible).
 
 Q Sir, two quick questions, if I may. First, we just heard from Jamal
 Khashoggi’s wife, who said, “After this visit, the blood of MBS’s next
