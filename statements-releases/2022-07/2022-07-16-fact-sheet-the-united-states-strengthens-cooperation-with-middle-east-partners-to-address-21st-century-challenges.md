@@ -1,6 +1,6 @@
 ---
 date: '2022-07-16'
-modified_time: 2022-07-16 18:56:41-04:00
+modified_time: 2022-07-19 11:56:01-04:00
 published_time: 2022-07-16 18:48:22-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/fact-sheet-the-united-states-strengthens-cooperation-with-middle-east-partners-to-address-21st-century-challenges/
 tags: statements-releases
@@ -171,7 +171,7 @@ August.  President Biden anticipates additional supply increases over
 the coming months, depending on market conditions and analysis,
 including record-setting domestic production from the United States.
 
-**Integrated Air and Martine Defense Cooperation**
+**Integrated Air and Maritime Defense Cooperation**
 
 • President Biden affirmed the United States’ commitment to accelerate
 ongoing work with its allies and partners in the Middle East to
