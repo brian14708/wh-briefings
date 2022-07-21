@@ -1,6 +1,6 @@
 ---
 date: '2022-07-20'
-modified_time: 2022-07-20 19:00:08-04:00
+modified_time: 2022-07-21 11:21:39-04:00
 published_time: 2022-07-20 18:59:43-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/20/remarks-by-president-biden-after-air-force-one-arrival-5/
 tags: speeches-remarks
@@ -10,7 +10,8 @@ title: "Remarks by President\_Biden After Air Force One\_Arrival"
 Joint Base Andrews  
 Prince George’s County, Maryland
 
-5:19 P.M. EDT  
+5:19 P.M. EDT
+
   
      THE PRESIDENT:  Thanks for coming up.  That’s going to be a cool
 plant. 
@@ -18,8 +19,8 @@ plant. 
      Q    Mr. President, you talked a lot about climate being an
 emergency today.  Why not just declare it an emergency?
 
-THE PRESIDENT:  Because I’m running into traps on the totality of the
-authority I have.  I will make that decision soon.
+THE PRESIDENT:  Because I’m running <s>into</s> \[the\]\* traps on the
+totality of the authority I have.  I will make that decision soon.
 
 Q    And what would be the ramifications of doing it?  Do you think
 you’d be able to do more?
