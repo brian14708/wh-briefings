@@ -1,6 +1,6 @@
 ---
 date: '2022-07-21'
-modified_time: 2022-07-20 18:33:49-04:00
+modified_time: 2022-07-21 14:08:39-04:00
 published_time: 2022-07-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-vice-president-harris-highlights-milestone-of-1-million-new-participants-on-reducing-high-speed-internet-cost-for-americans/
 tags: statements-releases
@@ -18,8 +18,8 @@ cut back on other essentials to make their monthly internet service
 payments.  That’s why President Biden and Vice President Harris worked
 with Democrats, Republicans, and Independents to include the Affordable
 Connectivity Program (ACP) in the Bipartisan Infrastructure Law, which
-[provides $65 billion](https://www.internetforall.gov/) to expand
-internet for all — to ensure that every American has access to reliable
+[provides $65 billion](https://www.internetforall.gov/) to provide
+Internet for All — to ensure that every American has access to reliable
 and affordable high-speed internet.    
   
 The ACP, administered by the Federal Communications Commission (FCC),
