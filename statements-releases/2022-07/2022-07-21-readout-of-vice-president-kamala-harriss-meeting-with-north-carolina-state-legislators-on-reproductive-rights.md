@@ -1,6 +1,6 @@
 ---
 date: '2022-07-21'
-modified_time: 2022-07-21 18:36:26-04:00
+modified_time: 2022-07-22 12:14:06-04:00
 published_time: 2022-07-21 18:36:25-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/readout-of-vice-president-kamala-harriss-meeting-with-north-carolina-state-legislators-on-reproductive-rights/
 tags: statements-releases
@@ -28,7 +28,7 @@ seeking care from harassment and intimidation, and his veto of extreme
 legislative attacks on reproductive rights.  
    
 The Vice President shared actions the Administration is taking on a
-national level in response to the Supreme Court overturning *Roe w.
+national level in response to the Supreme Court overturning *Roe v.
 Wade*, including protecting access to abortion medication, defending the
 Constitutional right to travel, and addressing patient privacy. The Vice
 President encouraged the state legislators to keep defending the rights
