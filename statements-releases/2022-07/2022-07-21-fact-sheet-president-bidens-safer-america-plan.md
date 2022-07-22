@@ -1,6 +1,6 @@
 ---
 date: '2022-07-21'
-modified_time: 2022-07-20 20:07:05-04:00
+modified_time: 2022-07-21 22:00:54-04:00
 published_time: 2022-07-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-president-bidens-safer-america-plan/
 tags: statements-releases
@@ -40,8 +40,8 @@ his first 18 months in office:
     to advance effective, accountable policing that will build public
     trust and strengthen public safety. Leading civil rights
     organizations and law enforcement organizations such as the
-    International Association of Chiefs of Police and the Fraternal
-    Order of Police support this order.  
+    International Association of Chiefs of Police, Major Cities Chiefs
+    Association, and the Fraternal Order of Police support this order.  
 -   **Tackled gun violence**. President Biden is implementing his
     comprehensive
     [strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
