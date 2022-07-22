@@ -1,6 +1,6 @@
 ---
 date: '2022-07-21'
-modified_time: 2022-07-21 23:08:56-04:00
+modified_time: 2022-07-22 10:18:14-04:00
 published_time: 2022-07-21 23:08:55-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/
 tags: statements-releases
@@ -22,7 +22,7 @@ education sector.
 Participants included Ambassador Susan E. Rice, White House Domestic
 Policy Advisor; Secretary of Commerce Gina M. Raimondo; Secretary of
 Labor Martin J. Walsh; Secretary of Homeland Security Alejandro N.
-Mayorkas; and Under Secretary of Education James Kvaal.Other U.S.
+Mayorkas; and Under Secretary of Education James Kvaal. Other U.S.
 Government participants included Jen Easterly, Director of the
 Cybersecurity and Infrastructure Security Agency; Laurie Locascio,
 Director of the National Institute of Standards and Technology; Anne
