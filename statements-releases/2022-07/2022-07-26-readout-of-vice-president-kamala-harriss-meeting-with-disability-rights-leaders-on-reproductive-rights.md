@@ -1,6 +1,6 @@
 ---
 date: '2022-07-26'
-modified_time: 2022-07-27 08:42:40-04:00
+modified_time: 2022-07-27 14:47:50-04:00
 published_time: 2022-07-26 21:55:32-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/readout-of-vice-president-kamala-harriss-meeting-with-disability-rights-leaders-on-reproductive-rights/
 tags: statements-releases
@@ -21,6 +21,7 @@ North Carolina; Atlantic City, New Jersey; Philadelphia, Pennsylvania;
 and Orlando, Florida. Vice President Harris also convened legislators
 from Florida, Indiana, Montana, North Dakota, and Nebraska in Washington
 D.C. to discuss the reproductive rights challenges in those states.  
+
 Vice President Harris discussed how disparities in health care access
 continue to exist in our country for people with disabilities, and she
 conveyed that those challenges are being exacerbated following the
