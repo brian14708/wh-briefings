@@ -1,6 +1,6 @@
 ---
 date: '2022-07-26'
-modified_time: 2022-07-26 21:55:33-04:00
+modified_time: 2022-07-27 08:42:40-04:00
 published_time: 2022-07-26 21:55:32-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/readout-of-vice-president-kamala-harriss-meeting-with-disability-rights-leaders-on-reproductive-rights/
 tags: statements-releases
