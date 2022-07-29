@@ -1,6 +1,6 @@
 ---
 date: '2022-07-29'
-modified_time: 2022-07-28 23:40:08-04:00
+modified_time: 2022-07-29 13:34:46-04:00
 published_time: 2022-07-29 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/fact-sheet-biden-harris-administration-announces-two-new-actions-to-address-youth-mental-health-crisis/
 tags: statements-releases
@@ -111,17 +111,19 @@ mental health services and supports in schools:
 **2. Encouraging Governors to Invest More in School-Based Mental Health
 Services.**
 
-In a letter sent today to Governors across the country, the Departments
-of Education and Health and Human Services highlight federal resources
-available to states and schools to invest in mental health services for
-students. The joint letter from Secretaries Becerra and Cardona
-highlights actions by the Biden-Harris Administration to improve the
-delivery of health care in schools and make sure children enrolled in
-Medicaid have access to comprehensive health care services, as required
-by law. The letter also previews forthcoming Medicaid guidance on how
-states can leverage Medicaid funding to deliver critical mental health
-care services to more students, including ways to make it easier to bill
-Medicaid for these services.
+In a
+[letter](https://www2.ed.gov/policy/gen/guid/secletter/220729.html?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=)
+sent today to Governors across the country, the Departments of Education
+and Health and Human Services highlight federal resources available to
+states and schools to invest in mental health services for students. The
+joint letter from Secretaries Becerra and Cardona highlights actions by
+the Biden-Harris Administration to improve the delivery of health care
+in schools and make sure children enrolled in Medicaid have access to
+comprehensive health care services, as required by law. The letter also
+previews forthcoming Medicaid guidance on how states can leverage
+Medicaid funding to deliver critical mental health care services to more
+students, including ways to make it easier to bill Medicaid for these
+services.
 
 *Next Up: $1.7 Billion for Mental Health Thanks to the Bipartisan Safer
 Communities Act*
@@ -159,7 +161,7 @@ authorize funding and technical assistance in the following areas:
     prevention, treatment, and referral of services for mental and
     behavioral health conditions for pediatric and adolescents.
 -   **Supporting Community and First Responders Mental Health
-    Training**. $12 million for HHS to prepare and train community
+    Training**. $120 million for HHS to prepare and train community
     members and first responders on how to appropriately recognize and
     safely respond to individuals with mental health problems.
 -   **Building Awareness of and Access to Mental Health Services**. $240
