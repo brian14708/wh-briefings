@@ -1,5 +1,6 @@
 ---
 date: '2022-07-28'
+modified_time: 2022-07-29 18:30:39-04:00
 published_time: 2022-07-28 17:36:58-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/28/background-press-call-on-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
 tags: press-briefings
@@ -92,8 +93,8 @@ speak to Xi soon.
 A bit more detail on that: The National Security Advisor proposed that
 the two leaders speak in the near future when he met with Director Yang
 Jiechi in Luxembourg in mid-June.  The PRC side followed up on that when
-Foreign Minister Wong met with Secretary Blinken in Bali, with Foreign
-Minister Wong proposing a date for the call.
+Foreign Minister Wang met with Secretary Blinken in Bali, with Foreign
+Minister Wang proposing a date for the call.
 
 With that, I think I’ll leave it there and look forward to your
 questions.  Thanks so much.
