@@ -1,6 +1,6 @@
 ---
 date: '2022-08-01'
-modified_time: 2022-08-02 16:38:28-04:00
+modified_time: 2022-08-02 16:39:40-04:00
 published_time: 2022-08-01 18:42:25-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/01/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-2/
 tags: press-briefings
@@ -1416,4 +1416,4 @@ American people need to make sure that their voices are heard. 
 
 All right.  Thanks, everybody.  I’ll see you tomorrow.
 
- END  2:56 P.M. EDT
+2:56 P.M. EDT
