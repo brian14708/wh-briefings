@@ -1,6 +1,6 @@
 ---
 date: '2022-08-01'
-modified_time: 2022-08-01 04:53:17-04:00
+modified_time: 2022-08-01 21:11:03-04:00
 published_time: 2022-08-01 06:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-10-ways-the-biden-harris-administration-is-making-america-resilient-to-climate-change/
 tags: statements-releases
@@ -19,14 +19,15 @@ flooding from a season’s worth of rain that falls in a matter of hours. 
 
 We know that the impacts of the climate crisis are here and that we must
 invest in building resilience to protect our communities,
-infrastructure, and economy. That is why today, **Vice President Kamala
+infrastructure, and economy. That is why today, **[Vice President Kamala
 Harris is in Miami, Florida to announce over $1 billion for 53 states,
 territories, and D.C., to improve their infrastructure and make
-communities more resilient,** with an emphasis on increasing resilience
-to the impacts of climate change and extreme weather events. These
-awards, which will be distributed through the Federal Emergency
-Management Agency’s [Building Resilient Infrastructure and Communities
-(BRIC)
+communities more
+resilient](https://www.dhs.gov/news/2022/08/01/biden-harris-administration-announces-over-1-billion-project-selections-make),**
+with an emphasis on increasing resilience to the impacts of climate
+change and extreme weather events. These awards, which will be
+distributed through the Federal Emergency Management Agency’s [Building
+Resilient Infrastructure and Communities (BRIC)
 Program](https://www.fema.gov/grants/mitigation/building-resilient-infrastructure-communities/after-apply/fy-2021-subapplication-status),
 are double the funding from last year’s historic $500 million. Next
 year, this funding will more than double to $2.3 billion, boosted by the
