@@ -1,6 +1,6 @@
 ---
 date: '2022-08-02'
-modified_time: 2022-08-02 09:30:01-04:00
+modified_time: 2022-08-02 15:17:57-04:00
 published_time: 2022-08-02 09:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/white-house-releases-fact-sheets-highlighting-president-bidens-bipartisan-infrastructure-laws-historic-progress-nationwide/
 tags: statements-releases
@@ -52,7 +52,7 @@ about announced and anticipated funding as well as signature projects:
 -   [Kansas](https://www.whitehouse.gov/wp-content/uploads/2022/08/Kansas-BIL-Fact-Sheet.pdf)
 -   [Kentucky](https://www.whitehouse.gov/wp-content/uploads/2022/08/Kentucky-BIL-Fact-Sheet.pdf)
 -   [Louisiana](https://www.whitehouse.gov/wp-content/uploads/2022/08/Louisiana-BIL-Fact-Sheet.pdf)
--   [Maine](https://www.whitehouse.gov/wp-content/uploads/2022/08/Maine-BIL-Fact-Sheet.pdf)
+-   [Maine](https://www.whitehouse.gov/wp-content/uploads/2022/08/Maine_BIL-State-Fact-Sheet.pdf)
 -   [Maryland](https://www.whitehouse.gov/wp-content/uploads/2022/08/Maryland-BIL-Fact-Sheet.pdf)
 -   [Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2022/08/Massachusetts-BIL-Fact-Sheet.pdf)
 -   [Michigan](https://www.whitehouse.gov/wp-content/uploads/2022/08/Michigan-BIL-Fact-Sheet.pdf)
