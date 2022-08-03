@@ -1,6 +1,6 @@
 ---
 date: '2022-08-03'
-modified_time: 2022-08-02 20:18:37-04:00
+modified_time: 2022-08-03 10:12:56-04:00
 published_time: 2022-08-03 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access-2/
 tags: statements-releases
@@ -139,20 +139,22 @@ The Administration has also taken immediate action to:
 
 <!-- -->
 
--   **Protect Emergency Medical Care:** DOJ filed a lawsuit seeking to
-    enjoin Idaho’s abortion prohibition, which makes abortion a crime
-    even when necessary to prevent serious risks to the health of
-    pregnant patients. The suit asserts that Idaho’s law conflicts with,
-    and is therefore preempted by, the Emergency Medical Treatment
-    Active Labor Act (EMTALA), which requires providers to offer
-    stabilizing treatment, including abortion services if necessary, in
-    certain emergency situations. This litigation follows
+-   **Protect Emergency Medical Care. ** DOJ filed a
+    [lawsuit](https://www.justice.gov/opa/press-release/file/1523481/download)
+    seeking to enjoin Idaho’s abortion prohibition to the extent that it
+    makes abortion a crime even when necessary to prevent serious risks
+    to the health of pregnant patients.  The suit asserts that Idaho’s
+    law conflicts with the Emergency Medical Treatment and Labor Act
+    (EMTALA), which requires providers to offer stabilizing treatment,
+    including abortion services if necessary, in  emergency situations,
+    and that in those circumstances Idaho’s law is preempted.  This
+    litigation follows
     [guidance](https://www.hhs.gov/about/news/2022/07/11/following-president-bidens-executive-order-protect-access-reproductive-health-care-hhs-announces-guidance-clarify-that-emergency-medical-care-includes-abortion-services.html)
     issued by HHS affirming EMTALA’s requirements, as well as a
     [letter](https://u7061146.ct.sendgrid.net/ls/click?upn=4tNED-2FM8iDZJQyQ53jATUQs-2BN3jQcVLX1PF2KeT0WHpjKuEGg9HmpTkm0U662e5MZPUxFHTPmAUcFbW4j1MvV724tEggkjCEA2ZX3gi-2FNyPGJFj8gYazBcTjCojRcpqq8BsK2ApNp1RFmFOQsiu6fA-3D-3DCFjw_gatHLOXVnjS-2Fys-2B7qAyVd81zv1Wap8yT25fZboq0-2BiJx32YthI2zl6rLINVJW-2BIntQ2xHKXC9-2BG6LAj91HsUVwh1AxFPJdA27CeTtZ70weukMTYQr8WctKfx-2BmGuVXIt7NBdKdc5BSZ0vWWNOejTWPEy2AgckfSiYxFle46ealnje2B4V4C0QYRTkcLdfsRU56JahbxdQ2uRxCBEsIaevThQ0x69QHjdNvp4laljWEcd4M0qNQNSgcwU24FhZ1w96ALZQHFywHGvRhge-2F9zNwNaJPGFGZQxR7GEUSGFO-2FX9y-2B1RcBuCXkeyu-2BDztuqiWbfnn1up39qkzdr48HwOg9C6DCFMqDsFLHFH4tFzwcYk-3D)
     from Secretary Becerra to providers making clear that federal law
     preempts state law restricting access to abortion in emergency
-    situations. 
+    situations.
 
 <!-- -->
 
