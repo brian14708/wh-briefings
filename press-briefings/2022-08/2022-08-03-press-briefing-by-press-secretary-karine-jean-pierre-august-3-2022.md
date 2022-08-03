@@ -1,6 +1,6 @@
 ---
 date: '2022-08-03'
-modified_time: 2022-08-03 16:38:32-04:00
+modified_time: 2022-08-03 16:41:44-04:00
 published_time: 2022-08-03 16:38:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/03/press-briefing-by-press-secretary-karine-jean-pierre-august-3-2022/
 tags: press-briefings
