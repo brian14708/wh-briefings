@@ -1,5 +1,6 @@
 ---
 date: '2022-08-03'
+modified_time: 2022-08-05 12:16:17-04:00
 published_time: 2022-08-03 15:21:06-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/03/executive-order-on-securing-access-to-reproductive-and-other-healthcare-services/
 tags: presidential-actions
@@ -26,7 +27,7 @@ condition stabilizing care, including an abortion, if that care is
 necessary to stabilize their emergency medical condition, and issuing
 guidance to the Nation’s retail pharmacies on their obligations under
 Federal civil rights laws — including section 504 of the Rehabilitation
-Act, 28 U.S.C. 794, and section 1557 of the Affordable Care Act, 42
+Act, 29 U.S.C. 794, and section 1557 of the Affordable Care Act, 42
 U.S.C. 18116 — to ensure equal access to comprehensive reproductive and
 other healthcare services, including for women who are experiencing
 miscarriages. 
@@ -117,6 +118,6 @@ entities, its officers, employees, or agents, or any other person.   
 
                                JOSEPH R. BIDEN JR.
 
-THE WHITE HOUSE,
+THE WHITE HOUSE
 
-    August 3, 2022.
+August 3, 2022.
