@@ -1,6 +1,6 @@
 ---
 date: '2022-08-08'
-modified_time: 2022-08-07 21:46:15-04:00
+modified_time: 2022-08-08 17:00:53-04:00
 published_time: 2022-08-08 09:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/08/fact-sheet-u-s-strategy-toward-sub-saharan-africa/
 tags: statements-releases
@@ -41,8 +41,8 @@ The new U.S. Strategy Toward Sub-Saharan Africa represents a reframing
 of Africa’s importance to U.S. national security interests.  We will
 pursue four main objectives in sub-Saharan Africa:
 
-1.  FOSTER OPENNESS AND OPEN SOCIETIES  
-
+1\. FOSTER OPENNESS AND OPEN SOCIETIES    
+  
 The United States has an abiding interest in ensuring the region remains
 open and accessible to all and that governments and publics are able to
 make their own political choices, consistent with international
@@ -55,12 +55,10 @@ including by:
 
 -   *Promoting government transparency and accountability*
 -   *Increasing our focus on rule of law, justice, and dignity*
--   *Assisting* *African countries to more transparently leverage their
+-   *Assisting African countries to more transparently leverage their
     natural resources for sustainable development*
 
-<!-- -->
-
--   DELIVER DEMOCRATIC AND SECURITY DIVIDENDS
+2\. DELIVER DEMOCRATIC AND SECURITY DIVIDENDS
 
 The region’s commitment and capacity to renew its democracies, as well
 as anticipate, prevent, and address emerging and long running conflicts,
@@ -69,8 +67,7 @@ simultaneously addressing these challenges and reaffirming that
 democracy delivers tangible benefits, the United States can offer
 positive choices to Africans as they determine their own future.  We
 will help Africa deliver democratic and security dividends, including
-by:  
-  
+by:
 
 -   *Working with allies and regional partners to stem the recent tide
     of authoritarianism and military takeovers*
@@ -82,10 +79,8 @@ by:
 -   *Reducing the threat from terrorist groups to the U.S. Homeland,
     persons, and diplomatic and military facilities*
 
-<!-- -->
-
--   ADVANCE PANDEMIC RECOVERY AND ECONOMIC OPPORTUNITY
-
+3\. ADVANCE PANDEMIC RECOVERY AND ECONOMIC OPPORTUNITY  
+  
 It is essential to address two of the region’s most pressing problems:
 the COVID-19 pandemic and its attendant economic and social
 consequences.  These challenges have been compounded by supply chain
@@ -93,8 +88,7 @@ problems and food insecurity stemming from Russia’s war of aggression in
 Ukraine.  The United States is committed to working with regional
 governments and international partners to build more stable and
 inclusive African economies.  We will advance pandemic recovery and
-economic opportunity, including by:  
-  
+economic opportunity, including by:
 
 -   *Prioritizing policies and programs to end the acute phase of the
     COVID-19 pandemic and build capacities to increase preparedness for
@@ -103,16 +97,16 @@ economic opportunity, including by:
     countermeasures*
 -   *Promoting a stronger growth trajectory and debt sustainability to
     support the region’s economic recovery, including through the
-    Partnership for Global Infrastructure and Investment (PGII),*
-    *Prosper Africa, Power Africa, Feed the Future, and a new initiative
-    for digital transformation*
+    Partnership for Global Infrastructure and Investment (PGII), Prosper
+    Africa, Power Africa, Feed the Future, and a new initiative for
+    digital transformation*
 -   *Partnering with African countries to rebuild human capital and food
     systems that were further weakened by the pandemic and Russia’s war
-    against Ukraine*  
-      
--   SUPPORT CONSERVATION, CLIMATE ADAPTATION, AND A JUST ENERGY
-    TRANSITION
+    against Ukraine*
 
+4\. SUPPORT CONSERVATION, CLIMATE ADAPTATION, AND A JUST ENERGY
+TRANSITION  
+  
 Africa’s efforts to conserve and restore the continent’s ecosystems and
 rich natural resources— while also realizing energy access and energy
 security goals, diversifying its energy mix, and building sustainable
