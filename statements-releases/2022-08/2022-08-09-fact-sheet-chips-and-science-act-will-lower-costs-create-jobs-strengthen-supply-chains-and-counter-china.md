@@ -1,6 +1,6 @@
 ---
 date: '2022-08-09'
-modified_time: 2022-08-08 20:53:01-04:00
+modified_time: 2022-08-09 07:52:51-04:00
 published_time: 2022-08-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/
 tags: statements-releases
@@ -41,6 +41,12 @@ office:</u>**
     manufacturing. This investment alone will bring the U.S. market
     share of memory chip production from less than 2 percent to up to 10
     percent over the next decade.
+-   Qualcomm and GlobalFoundries are announcing a new partnership that
+    includes **$4.2 billion **to manufacture chips in an expansion of
+    GlobalFoundries’ upstate New York facility. Qualcomm, the leading
+    fabless semiconductor company in the world, announced plans to
+    increase semiconductor production in the U.S. by up to 50 percent
+    over the next five years.
 
 The CHIPS and Science Act will boost American semiconductor research,
 development, and production, ensuring U.S. leadership in the technology
