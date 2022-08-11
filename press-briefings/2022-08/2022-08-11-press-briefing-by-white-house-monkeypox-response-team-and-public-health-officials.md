@@ -1,6 +1,6 @@
 ---
 date: '2022-08-11'
-modified_time: 2022-08-11 08:41:12-04:00
+modified_time: 2022-08-11 11:55:14-04:00
 published_time: 2022-08-11 08:41:11-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/11/press-briefing-by-white-house-monkeypox-response-team-and-public-health-officials/
 tags: press-briefings
@@ -99,7 +99,7 @@ adapt and address the needs of dozens of young children following a
 monkeypox exposure at a childcare facility in Illinois.
 
 As part of the alternative approach under the EUA, one fifth of the
-current vaccine does would be administered intradermally, rather than
+current vaccine doses would be administered intradermally, rather than
 subcutaneously, as the vaccine was originally approved. 
 
 Data from a clinical study of the vaccine published prior to its
