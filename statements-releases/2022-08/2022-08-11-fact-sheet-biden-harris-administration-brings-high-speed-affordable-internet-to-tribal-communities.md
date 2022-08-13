@@ -1,5 +1,6 @@
 ---
 date: '2022-08-11'
+modified_time: 2022-08-12 19:59:43-04:00
 published_time: 2022-08-11 17:10:02-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/fact-sheet-biden-harris-administration-brings-high-speed-affordable-internet-to-tribal-communities/
 tags: statements-releases
@@ -128,22 +129,22 @@ months include:
 -   **The Department of the Treasury has awarded** [**87 Tribal
     governments**](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=c859838c0d&e=0ca263633c)
     **$14.6 million from the Capital Projects Fund for projects to
-    expand internet access and increase connectivity, with an additional
-    $85.4 million available to Tribal governments that have not yet
-    claimed their allocation.** The Capital Projects Fund provides a
-    total of $100 million to Tribal governments for capital projects
-    that increase access to work, education, and health services,
-    including through reliable, affordable high-speed internet access.
-    For example, some Tribal governments are using these funds to help
-    families or local libraries purchase laptops, install public WiFi
-    access points, or expand community centers that offer computer labs
-    and internet access. Treasury will make additional awards on a
+    expand internet access and increase connectivity, **and continues to
+    review increasing Tribal applications****. The Capital Projects Fund
+    provides a total of $100 million to Tribal governments for capital
+    projects that increase access to work, education, and health
+    services, including through reliable, affordable high-speed internet
+    access. For example, some Tribal governments are using these funds
+    to help families or local libraries purchase laptops, install public
+    WiFi access points, or expand community centers that offer computer
+    labs and internet access. Treasury will make additional awards on a
     rolling basis. **<u>Tribal governments are each entitled to an
     allocation of about $167,500 but must claim their funds by</u>**
     [**submitting a request for
     funding**](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=59e219401d&e=0ca263633c)
-    **<u>to the Treasury Department by August 15<sup>th</sup>,
-    2022.</u>**
+    **<u>to the Treasury Department. In response to Tribal leader
+    feedback, Treasury provided a second extension of the submission
+    deadline to October 14, 2022.</u>**
 
 <!-- -->
 
