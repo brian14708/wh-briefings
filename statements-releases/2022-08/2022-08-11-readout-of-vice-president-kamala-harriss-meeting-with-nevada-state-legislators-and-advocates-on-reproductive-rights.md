@@ -1,5 +1,6 @@
 ---
 date: '2022-08-11'
+modified_time: 2022-08-16 17:44:00-04:00
 published_time: 2022-08-11 10:11:03-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/readout-of-vice-president-kamala-harriss-meeting-with-nevada-state-legislators-and-advocates-on-reproductive-rights/
 tags: statements-releases
@@ -7,6 +8,11 @@ title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Nevada Stat
   \ Legislators and Advocates on Reproductive\_Rights"
 ---
  
+Yesterday, Vice President Kamala Harris convened state legislators and
+advocates in Las Vegas, Nevada. The Vice President thanked the Nevada
+legislators for their leadership fighting on the frontlines for
+reproductive rights.  
+   
 The Vice President emphasized that access to safe and legal reproductive
 health care is not a partisan issue. The state legislators and advocates
 discussed ways that they have safeguarded reproductive health care and
