@@ -1,5 +1,6 @@
 ---
 date: '2022-08-19'
+modified_time: 2022-08-22 11:09:26-04:00
 published_time: 2022-08-19 07:56:37-04:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2022/08/19/united-we-stand-countering-hate-fueled-violence-together/
 tags: blog
@@ -63,11 +64,11 @@ of our communities. Many of these Uniters are themselves survivors of
 hate-fueled violence who have turned their pain into purpose. They hold
 together our communities together and lift us up in the hardest times.
 
-By **September 1<sup>st</sup>, 2022,** we invite you to nominate an
+By September 1<sup>st</sup>, 2022, we invite you to nominate an
 extraordinary Uniter in your community to be recognized by the White
-House. Please email <UnitedWeStand@who.eop.gov> with information on a
-leader in your community who inspires change by building bridges and
-countering hate-fueled violence..
+House. Please visit <https://wh.gov/ope/unitedwestand> to share
+information on a leader in your community who inspires change by
+building bridges and countering hate-fueled violence.
 
 As President Biden said in Buffalo after the horrific mass shooting
 earlier this year, in the battle for the soul of our nation “we must all
