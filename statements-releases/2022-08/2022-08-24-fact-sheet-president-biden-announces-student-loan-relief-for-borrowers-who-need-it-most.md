@@ -1,6 +1,6 @@
 ---
 date: '2022-08-24'
-modified_time: 2022-08-24 11:56:56-04:00
+modified_time: 2022-08-24 14:29:39-04:00
 published_time: 2022-08-24 11:56:55-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/
 tags: statements-releases
@@ -303,8 +303,10 @@ To ensure borrowers are aware of the temporary changes, the White House
 has launched four PSLF Days of Action dedicated to borrowers in specific
 sectors: government employees, educators, healthcare workers and first
 responders, and non-profit employees. You can find out other information
-about the temporary changes on PSLF.gov. You must apply to PSLF before
-the temporary changes end on October 31, 2022.  
+about the temporary changes on
+[PSLF.gov.](https://www.whitehouse.gov/publicserviceloanforgiveness/)
+You must apply to PSLF before the temporary changes end on October 31,
+2022.  
   
 **<u>Protecting Borrowers and Taxpayers from Steep Increases in College
 Costs</u>**  
@@ -345,6 +347,7 @@ More information on claiming relief will be available to borrowers in
 the coming weeks.  
   
 Borrowers can sign up to be notified when this information is available
-at StudentAid.gov/debtrelief.  
+at
+[StudentAid.gov/debtrelief](https://studentaid.gov/debt-relief-announcement/).  
 
 \###
