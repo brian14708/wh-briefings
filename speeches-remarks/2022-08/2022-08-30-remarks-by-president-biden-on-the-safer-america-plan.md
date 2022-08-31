@@ -1,6 +1,6 @@
 ---
 date: '2022-08-30'
-modified_time: 2022-08-30 21:18:33-04:00
+modified_time: 2022-08-30 23:31:20-04:00
 published_time: 2022-08-30 21:18:32-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/30/remarks-by-president-biden-on-the-safer-america-plan/
 tags: speeches-remarks
@@ -587,7 +587,7 @@ Look, I want to say this as clear as I can: There is no place in this
 country — no place for endangering the lives of law enforcement.  No
 place.  (Applause.)  None.  Never.  Period.    
   
-I’m opposed to defending the police.  I’m also opposed to defending the
+I’m opposed to defunding the police.  I’m also opposed to defunding the
 FBI.  (Applause.)  
   
 Look, there’s no greater responsibility for government than ensuring the
