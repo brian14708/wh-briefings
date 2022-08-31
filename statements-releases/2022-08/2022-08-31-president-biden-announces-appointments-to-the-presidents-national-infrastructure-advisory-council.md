@@ -1,6 +1,6 @@
 ---
 date: '2022-08-31'
-modified_time: 2022-08-31 16:09:23-04:00
+modified_time: 2022-08-31 17:01:16-04:00
 published_time: 2022-08-31 16:09:22-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/president-biden-announces-appointments-to-the-presidents-national-infrastructure-advisory-council/
 tags: statements-releases
@@ -161,13 +161,13 @@ Homeland Security and Emergency Management Hall of Fame in 2012. She
 holds a master’s degree in urban planning and a bachelor’s degree in
 geography and economics.
 
-**Deneen DiFiore of Ohio, Member**  
-Deneen DiFiore is an accomplished technology and risk management
+**Deneen DeFiore of Ohio, Member**  
+Deneen DeFiore is an accomplished technology and risk management
 executive with experience across multiple critical infrastructure
 sectors. She has developed expertise in advising global companies and
 their most senior executives on technology, cybersecurity, compliance,
 and digital risk decisions related to products, services, significant
-initiatives, and ongoing operations. DiFiore currently serves as Vice
+initiatives, and ongoing operations. DeFiore currently serves as Vice
 President and Chief Information Security Officer at United Airlines. She
 is responsible for leading the cybersecurity organization to ensure the
 company is prepared to prevent, detect, and respond to evolving cyber
