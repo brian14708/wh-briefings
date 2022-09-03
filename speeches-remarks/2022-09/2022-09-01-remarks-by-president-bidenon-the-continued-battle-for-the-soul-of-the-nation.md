@@ -1,10 +1,11 @@
 ---
 date: '2022-09-01'
-modified_time: 2022-09-01 23:20:40-04:00
+modified_time: 2022-09-03 15:54:55-04:00
 published_time: 2022-09-01 22:37:26-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/01/remarks-by-president-bidenon-the-continued-battle-for-the-soul-of-the-nation/
 tags: speeches-remarks
-title: "REMARKS BY PRESIDENT BIDEN ON THE CONTINUED BATTLE FOR THE SOUL OF THE\_NATION"
+title: "Remarks by President\_Biden on the Continued Battle for the Soul of the\_\
+  Nation"
 ---
  
 Independence National Historical Park  
