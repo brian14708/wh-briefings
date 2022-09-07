@@ -1,6 +1,6 @@
 ---
 date: '2022-09-06'
-modified_time: 2022-09-06 18:53:25-04:00
+modified_time: 2022-09-07 12:21:34-04:00
 published_time: 2022-09-06 18:53:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/06/press-briefing-by-press-secretary-karine-jean-pierre-and-commerce-secretary-gina-raimondo/
 tags: press-briefings
@@ -530,12 +530,12 @@ energy — they’re weaponizing energy.  And it’s choosing to — one of the
 things that has been out there — the shutdown of the pipeline of Nord
 <s>Strom</s> \[Stream\] 1
 
-So the sanction we’ve imposed, we believe, do stand in the way of the
-pipeline to continuing operating.  So the U.S. and Europe have been
-collaborating to ensure sufficient supplies are available.  As a result
-of these efforts, European gas <s>shortage</s> \[storage\] will be full
-by the critical winter heating season.  So we have more work to do, but,
-again, we’re working closely with our allies on this.
+So the sanction we’ve imposed, we believe, do \[not\] stand in the way
+of the pipeline to continuing operating.  So the U.S. and Europe have
+been collaborating to ensure sufficient supplies are available.  As a
+result of these efforts, European gas <s>shortage</s> \[storage\] will
+be full by the critical winter heating season.  So we have more work to
+do, but, again, we’re working closely with our allies on this.
 
 Q    And then one final one.  Is there any status update on U.S.-UK
 trade negotiations?  And do you expect that to be a topic on the call
