@@ -1,6 +1,6 @@
 ---
 date: '2022-09-12'
-modified_time: 2022-09-11 20:27:09-04:00
+modified_time: 2022-09-12 13:03:34-04:00
 published_time: 2022-09-12 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-details-cancer-moonshot-progress-and-new-initiatives-on-60th-anniversary-of-president-kennedys-moonshot-address/
 tags: statements-releases
@@ -158,14 +158,13 @@ reaching these goals:
     invest in the next generation of innovative cancer researchers with
     a focus on developing a cancer research workforce that is more
     representative of the U.S. population. The goal of the [Cancer
-    Moonshot
-    Scholars](/Users/DMCarnival/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/IOC35A3B/cancer.gov/moonshotscholars)
-    program is to inspire and support the next generation of world-class
-    and diverse researchers focused on scientific breakthroughs that
-    will make a difference for patients and drive progress toward the
-    goal of ending cancer as we know it today. NCI expects to support
-    cohorts of dozens of Cancer Moonshot Scholars in initial rounds,
-    beginning in 2023 with project periods of up to five years.  
+    Moonshot Scholars](https://www.cancer.gov/moonshotscholars) program
+    is to inspire and support the next generation of world-class and
+    diverse researchers focused on scientific breakthroughs that will
+    make a difference for patients and drive progress toward the goal of
+    ending cancer as we know it today. NCI expects to support cohorts of
+    dozens of Cancer Moonshot Scholars in initial rounds, beginning in
+    2023 with project periods of up to five years.  
 -   **White House Office of Science and Technology Policy (OSTP) Issues
     Guidance to Make Federally-Funded Research Available: **Recently,
     the Biden-Harris Administration [updated U.S. policy
