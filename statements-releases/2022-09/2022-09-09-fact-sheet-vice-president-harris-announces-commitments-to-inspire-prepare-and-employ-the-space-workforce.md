@@ -1,6 +1,6 @@
 ---
 date: '2022-09-09'
-modified_time: 2022-09-09 10:59:54-04:00
+modified_time: 2022-09-12 15:54:54-04:00
 published_time: 2022-09-09 10:53:54-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/09/fact-sheet-vice-president-harris-announces-commitments-to-inspire-prepare-and-employ-the-space-workforce/
 tags: statements-releases
@@ -162,13 +162,13 @@ following commitments: 
     television show, Mission Unstoppable, produced by Hearst Media
     Production Group and Lyda Hill Philanthropies, with more than 1
     million viewers, will feature four women with space-focused careers
-    in October 2022 during its fourth season.  Additionally, during
-    World Space Week, Oct 4-12, Mission Unstoppable, on its social media
-    platforms, will share stories of women, from diverse backgrounds,
-    who contribute to the exploration, discovery, and application of
-    space-related knowledge, including systems engineers, climate
-    scientists, satellite maintenance technicians, astronomers, and
-    solar physicists.
+    during its fourth season launching in October 2022.  Additionally,
+    during World Space Week, Oct 4-12, Mission Unstoppable, on its
+    social media platforms, will share stories of women, from diverse
+    backgrounds, who contribute to the exploration, discovery, and
+    application of space-related knowledge, including systems engineers,
+    climate scientists, satellite maintenance technicians, astronomers,
+    and solar physicists.
 
 <!-- -->
 
@@ -239,14 +239,14 @@ educators*
 
 -   **New Educator Resource Hub for Space STEM Materials: 100Kin10,** a
     national network of academic institutions, nonprofits, foundations,
-    companies, and government agencies, will launch a new website, which
-    the goal of reaching 10,000 users, with free space-inspired science
-    curricular materials and learning resources for PreK-12 teachers and
-    students on October 3, 2022 as part of World Space Week 2022. These
-    science-focused resources for STEM educators inspire young people
-    about space and teach critical concepts and skills that lay the
-    foundation for STEM careers. For more information, contact:
-    <info@100Kin10.org>. 
+    companies, and government agencies, will launch a new publicly
+    available resource, which the goal of reaching 10,000 users, with
+    free space-inspired science curricular materials and learning
+    resources for PreK-12 teachers and students on October 3, 2022 as
+    part of World Space Week 2022. These science-focused resources for
+    STEM educators inspire young people about space and teach critical
+    concepts and skills that lay the foundation for STEM careers. For
+    more information, contact: <info@100Kin10.org>. 
 
 <!-- -->
 
