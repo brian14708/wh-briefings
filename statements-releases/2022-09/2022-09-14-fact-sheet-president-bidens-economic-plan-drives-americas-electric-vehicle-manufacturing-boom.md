@@ -1,6 +1,6 @@
 ---
 date: '2022-09-14'
-modified_time: 2022-09-14 10:21:57-04:00
+modified_time: 2022-09-14 16:49:22-04:00
 published_time: 2022-09-14 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
 tags: statements-releases
@@ -106,8 +106,6 @@ include:
     is [announcing](https://new.abb.com/news/detail/94725/abb-expands-us-manufacturing-footprint-with-investment-in-new-ev-charger-facility) a
     new EV charging manufacturing facility in Columbia, South Carolina
     capable of producing up to 10,000 chargers per year.
--   SK Signet announced a $35 million Texas investment to build chargers
-    in the United States for the first time.
 -   Lincoln Electric, a longstanding domestic manufacturer of electric
     equipment, announced a new line of DC fast chargers in Cleveland,
     Ohio on August 29<sup>th</sup>.
