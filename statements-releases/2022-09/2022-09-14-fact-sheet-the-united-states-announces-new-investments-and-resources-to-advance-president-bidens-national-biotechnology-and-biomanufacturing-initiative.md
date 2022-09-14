@@ -1,6 +1,6 @@
 ---
 date: '2022-09-14'
-modified_time: 2022-09-13 22:26:44-04:00
+modified_time: 2022-09-14 09:45:41-04:00
 published_time: 2022-09-14 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-the-united-states-announces-new-investments-and-resources-to-advance-president-bidens-national-biotechnology-and-biomanufacturing-initiative/
 tags: statements-releases
@@ -25,36 +25,43 @@ National Biotechnology and Biomanufacturing Initiative to lower prices,
 create good jobs, strengthen supply chains, improve health outcomes, and
 reduce carbon emissions. U.S. departments and agencies will:  
 **  
-Leverage biotechnology for strengthened supply chains.**  The Department
-of Health and Human Services will invest $40 million to expand the role
-of biomanufacturing for active pharmaceutical ingredients (APIs),
-antibiotics, and the key starting materials needed to produce essential
-medications and respond to pandemics. DoD is launching the Tri-Service
-Biotechnology for a Resilient Supply Chain program with more than $270
-million investment over five years to turn research into products more
-quickly and to support the advanced development of bio-based materials
-for defense supply chains, such as fuels, fire-resistant composites,
-polymers and resins, and protective materials. Through the Sustainable
-Aviation Fuel Grand Challenge, the Department of Energy (DOE) will work
-with the Department of Transportation and USDA to leverage the estimated
-1 billion tons of sustainable biomass and waste resources in the United
-States to provide domestic supply chains for fuels, chemicals, and
-materials. These efforts will collectively lower prices for American
-families, especially in times of global supply chain turbulence.  
+Leverage biotechnology for strengthened supply chains.**  [The
+Department of Health and Human
+Services](https://www.hhs.gov/about/news/2022/09/14/fact-sheet-hhs-takes-action-executive-order-launching-national-biotechnology-biomanufacturing-initiative.html)
+will invest $40 million to expand the role of biomanufacturing for
+active pharmaceutical ingredients (APIs), antibiotics, and the key
+starting materials needed to produce essential medications and respond
+to pandemics. DoD is launching the Tri-Service Biotechnology for a
+Resilient Supply Chain program with more than $270 million investment
+over five years to turn research into products more quickly and to
+support the advanced development of bio-based materials for defense
+supply chains, such as fuels, fire-resistant composites, polymers and
+resins, and protective materials. Through the Sustainable Aviation Fuel
+Grand Challenge, [the Department of
+Energy](https://www.energy.gov/articles/doe-announces-178-million-advance-bioenergy-technology)
+(DOE) will work with the Department of Transportation and USDA to
+leverage the estimated 1 billion tons of sustainable biomass and waste
+resources in the United States to provide domestic supply chains for
+fuels, chemicals, and materials. These efforts will collectively lower
+prices for American families, especially in times of global supply chain
+turbulence.  
 **  
-Expand domestic biomanufacturing.** The Department of Defense (DoD) will
-invest $1 billion in bioindustrial domestic manufacturing infrastructure
-over 5 years to catalyze the establishment of the domestic bioindustrial
-manufacturing base that is accessible to U.S. innovators. This support
-will provide incentives for private- and public-sector partners to
-expand manufacturing capacity for products important to both commercial
-and defense supply chains, such as critical chemicals. DoD will invest
-an additional $200 million to support enhancements to biosecurity and
-cybersecurity posture for these facilities. The U.S. Department of
-Agriculture (USDA) will make $250 million available through a new grant
-program in the summer of 2022 to support independent, innovative, and
-sustainable American fertilizer production to supply American farmers,
-which can make use of advances in biotechnology and biomanufacturing.  
+Expand domestic biomanufacturing.** [The Department of
+Defense](https://www.defense.gov/News/Releases/Release/Article/3157504/new-biotechnology-executive-order-will-advance-dod-biotechnology-initiatives-fo/)
+(DoD) will invest $1 billion in bioindustrial domestic manufacturing
+infrastructure over 5 years to catalyze the establishment of the
+domestic bioindustrial manufacturing base that is accessible to U.S.
+innovators. This support will provide incentives for private- and
+public-sector partners to expand manufacturing capacity for products
+important to both commercial and defense supply chains, such as critical
+chemicals. DoD will invest an additional $200 million to support
+enhancements to biosecurity and cybersecurity posture for these
+facilities. [The U.S. Department of
+Agriculture](https://www.usda.gov/sites/default/files/documents/bioeconomy-fact-sheet.pdf)
+(USDA) will make $500 million available through a new grant program in
+the summer of 2022 to support independent, innovative, and sustainable
+American fertilizer production to supply American farmers, which can
+make use of advances in biotechnology and biomanufacturing.  
 **  
 Foster innovation across the United States.** The National Science
 Foundation (NSF) recently announced a competition to fund Regional

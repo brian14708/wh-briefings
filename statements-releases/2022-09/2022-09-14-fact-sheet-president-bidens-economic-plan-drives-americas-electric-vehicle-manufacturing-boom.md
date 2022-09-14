@@ -1,6 +1,6 @@
 ---
 date: '2022-09-14'
-modified_time: 2022-09-13 23:49:59-04:00
+modified_time: 2022-09-14 10:21:57-04:00
 published_time: 2022-09-14 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
 tags: statements-releases
@@ -83,6 +83,8 @@ include:
 -   Vinfast announced a more than $5 billion investment in building
     electric vehicles and batteries in North Carolina that will create
     13,000 jobs.
+-   Hyundai announced a $5.5 billion investment to build electric
+    vehicles and batteries near Savannah, Georgia
 -   Through DOE’s Advanced Technology Vehicle Manufacturing program, the
     Department of Energy announced a $2.5 billion loan in July 2022 to
     General Motors for battery manufacturing facilities in Ohio,
