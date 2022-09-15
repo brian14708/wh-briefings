@@ -1,6 +1,6 @@
 ---
 date: '2022-09-15'
-modified_time: 2022-09-15 13:22:48-04:00
+modified_time: 2022-09-15 16:42:37-04:00
 published_time: 2022-09-15 12:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/
 tags: statements-releases
@@ -90,12 +90,13 @@ The Biden-Harris Administration will:
     federally-funded projects.** In addition to federal procurement, Buy
     Clean will cover federally-funded projects. For example, the
     Department of Transportation, which is administering more than $120
-    billion in infrastructure spending in FY22, is announcing the first
-    agency-wide Buy Clean policy and Embodied Carbon Work Group to drive
-    progress. The initiative will jumpstart better data and reporting,
-    better procurement and purchasing policies, and better education and
-    research to ensure the use of sustainable materials across its
-    programs.  
+    billion in infrastructure spending in FY22, is [announcing the first
+    agency-wide Buy Clean policy and Embodied Carbon Work
+    Group](https://www.transportation.gov/priorities/climate-and-sustainability/policy-statement-buy-clean-initiative)
+    to drive progress. The initiative will jumpstart better data and
+    reporting, better procurement and purchasing policies, and better
+    education and research to ensure the use of sustainable materials
+    across its programs.  
 -   **Convening states to partner on Buy Clean:** The Federal Buy Clean
     Initiative is jumpstarting a new partnership, bringing together
     state governments alongside federal partners to align state-based
@@ -115,11 +116,12 @@ The Biden-Harris Administration will:
     Environmental Protection Agency (EPA).  
 -   **Launch pilot programs to advance federal procurement of clean
     construction materials.** Federal Buy Clean Initiative pilots have
-    already broken ground across the country—from Denver, Colorado to
-    Salt Lake City, Utah to Champlain, New York to Lukeville, Arizona—in
-    partnership with regional contractors and subcontractors including
-    engineering, architecture and materials firms, with technical
-    support from DOE, EPA and USDA.
+    [already broken ground across the
+    country](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-administrator-highlights-progress-on-lowcarbon-construction-material-procurement-in-ohio-09152022)—from
+    Denver, Colorado to Salt Lake City, Utah to Champlain, New York to
+    Lukeville, Arizona—in partnership with regional contractors and
+    subcontractors including engineering, architecture and materials
+    firms, with technical support from DOE, EPA and USDA.
 
 **What agencies are doing to implement Buy Clean**: The Buy Clean Task
 Force will lead by example and increase its members to eight additional
