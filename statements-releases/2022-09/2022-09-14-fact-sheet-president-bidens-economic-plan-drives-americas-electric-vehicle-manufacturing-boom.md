@@ -1,6 +1,6 @@
 ---
 date: '2022-09-14'
-modified_time: 2022-09-14 16:49:22-04:00
+modified_time: 2022-09-15 13:30:55-04:00
 published_time: 2022-09-14 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
 tags: statements-releases
@@ -89,6 +89,8 @@ include:
     Department of Energy announced a $2.5 billion loan in July 2022 to
     General Motors for battery manufacturing facilities in Ohio,
     Tennessee, and Michigan.
+-   Samsung SDI America is investing $3.1 billion in Kokomo, Indiana to
+    build batteries in a joint venture with Stellantis.
 
 *Battery Material Processing*
 

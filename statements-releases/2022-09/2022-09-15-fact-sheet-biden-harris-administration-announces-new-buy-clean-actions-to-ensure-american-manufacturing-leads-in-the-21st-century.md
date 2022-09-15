@@ -1,6 +1,6 @@
 ---
 date: '2022-09-15'
-modified_time: 2022-09-15 12:21:52-04:00
+modified_time: 2022-09-15 13:22:48-04:00
 published_time: 2022-09-15 12:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/
 tags: statements-releases
@@ -15,15 +15,15 @@ Toledo*
 
 Today, as America’s manufacturing resurgence continues, the Biden-Harris
 Administration is announcing new actions under its [Federal Buy Clean
-Initiative](/Users/CRRidgeway/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WKEEMFUC/sustainability.gov/buyclean)
-in Toledo, Ohio, to spur the development of low-carbon construction
-materials made in America while supporting good-paying jobs.
-Transportation Secretary Pete Buttigieg, U.S. General Services
-Administration  Administrator Robin Carnahan, and Deputy National
-Climate Advisor Ali Zaidi announced the Federal Government will
-prioritize the purchase of key low carbon construction materials,
-covering 98% of materials purchased by the Federal Government, while
-visiting a Cleveland-Cliffs Direct Reduction steel plant in Toledo.  
+Initiative](https://www.sustainability.gov/buyclean/) in Toledo, Ohio,
+to spur the development of low-carbon construction materials made in
+America while supporting good-paying jobs. Transportation Secretary Pete
+Buttigieg, U.S. General Services Administration  Administrator Robin
+Carnahan, and Deputy National Climate Advisor Ali Zaidi announced the
+Federal Government will prioritize the purchase of key low carbon
+construction materials, covering 98% of materials purchased by the
+Federal Government, while visiting a Cleveland-Cliffs Direct Reduction
+steel plant in Toledo.  
   
 The Cleveland-Cliffs Direct Reduction steel plant represents the future
 of U.S. clean manufacturing, producing a lower-carbon intermediary
@@ -213,7 +213,7 @@ Initiative: 
     The Department has also launched a Decarbonization Initiative,
     focused on reducing embodied emissions in overseas construction at
     embassies and other facilities.  
--   The **Department of Commerce** through the [National Institute for
+-   The **Department of Commerce** through the [National Institute of
     Standards and Technology
     (NIST)](https://www.federalregister.gov/documents/2022/06/14/2022-12744/low-carbon-cements-and-concretes-consortium)
     is assessing standards for lower-carbon cement and concrete and
