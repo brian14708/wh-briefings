@@ -1,6 +1,6 @@
 ---
 date: '2022-09-16'
-modified_time: 2022-09-16 11:28:03-04:00
+modified_time: 2022-09-16 17:00:27-04:00
 published_time: 2022-09-16 16:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/president-biden-announces-key-appointments-to-the-presidents-advisory-committee-on-the-arts-2/
 tags: statements-releases
@@ -398,7 +398,7 @@ Goldman Sachs Asset Management, Fidelity Investments, and Tribune Media
 Services. She has an M.B.A. from the University of Chicago and A.B. from
 the University of Michigan.  
   
-<span style="text-decoration: underline">**Stephen N. Zach, Member,
+<span style="text-decoration: underline">**Stephen N. Zack, Member,
 President’s Advisory Committee on the Arts**  
 </span>Stephen N. Zack is an Attorney, Partner, and Executive Committee
 member at Boies Schiller Flexner LLP. He was nominated by President
@@ -406,17 +406,17 @@ Barack Obama for the position of Alternate U.S. Representative to the
 Sixty-eighth Session of the General Assembly of the United Nations, and
 he served as Senior Advisor to the United States Department of State. He
 served as the first Hispanic President of the American Bar Association
-and he was also the youngest President of the Florida Bar. Zach
+and he was also the youngest President of the Florida Bar. Zack
 represented former Vice President Al Gore in the trial of Bush v. Gore.
 He was appointed by Governor Lawton Chiles to re-write the Florida
 Constitution as a member of the Florida Constitution Revision
-Commission. Zach served as General Counsel to Florida’s former Governor
+Commission. Zack served as General Counsel to Florida’s former Governor
 and U.S. Senator Bob Graham and also Chaired the Florida Ethics
 Commission. He is a member of the Council on Foreign Relations and the
-American Law Institute. Zach is a Life Fellow of the American Bar
+American Law Institute. Zack is a Life Fellow of the American Bar
 Foundation. He was recognized by The American Lawyer with a Lifetime
 Achievement Award for his many years of service and accomplished career.
-Zach received a B.A. from the University of Florida and a J.D. from the
+Zack received a B.A. from the University of Florida and a J.D. from the
 University of Florida Law School and received the Distinguished Alumni
 Award from the University. He has also received honorary degrees from
 numerous law schools.
