@@ -1,6 +1,6 @@
 ---
 date: '2022-09-16'
-modified_time: 2022-09-15 21:58:56-04:00
+modified_time: 2022-09-16 10:27:15-04:00
 published_time: 2022-09-16 05:58:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/
 tags: statements-releases
@@ -413,4 +413,5 @@ cross-government technical expertise, and share information with
 partners**. The leadership of the Federal Reserve, the National Economic
 Council, the National Security Council, the Office of Science and
 Technology Policy, and the Treasury Department will meet regularly to
-discuss the working group’s progress and share updates on CDB
+discuss the working group’s progress and share updates on and share
+updates on CDBC and other payments innovations.
