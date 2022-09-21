@@ -1,5 +1,6 @@
 ---
 date: '2022-09-21'
+modified_time: 2022-09-21 16:48:09-04:00
 published_time: 2022-09-21 16:24:29-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/statement-by-president-joe-biden-on-senate-ratification-of-the-kigali-amendment-to-the-montreal-protocol/
 tags: statements-releases
@@ -15,7 +16,7 @@ the growth of manufacturing jobs, strengthen U.S. competitiveness, and
 advance the global effort to combat the climate crisis.   
    
 The Kigali Amendment will phase down global production and consumption
-of hydrofluorocarbons (HFCs), a super pollutant chemical that is
+of hydrofluorocarbons (HFCs), super-polluting chemicals that are
 hundreds to thousands of times more powerful than carbon dioxide.
 American companies are already leading on innovation and manufacturing
 of HFC alternatives—and today’s vote will help our nation unlock an
