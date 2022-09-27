@@ -1,6 +1,6 @@
 ---
 date: '2022-09-21'
-modified_time: 2022-09-21 14:13:29-04:00
+modified_time: 2022-09-27 13:56:56-04:00
 published_time: 2022-09-21 14:13:28-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-before-the-77th-session-of-the-united-nations-general-assembly/
 tags: speeches-remarks
@@ -153,7 +153,7 @@ situations, to ensure that the Council remains credible and effective.
 That is also why the United States supports increasing the number of
 both permanent and non-permanent representatives of the Council.  This
 includes permanent seats for those nations we’ve long supported and
-permanent seats for countries in Africa, Latin America, and the
+permanent seats for countries in Africa \[and\] Latin America and the
 Caribbean.  
   
 The United States is committed to this vital work.  In every region, we
