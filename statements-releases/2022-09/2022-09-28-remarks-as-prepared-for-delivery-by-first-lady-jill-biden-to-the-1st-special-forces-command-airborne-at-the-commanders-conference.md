@@ -1,5 +1,6 @@
 ---
 date: '2022-09-28'
+modified_time: 2022-09-28 17:08:52-04:00
 published_time: 2022-09-28 16:17:12-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-the-1st-special-forces-command-airborne-at-the-commanders-conference/
 tags: statements-releases
@@ -11,8 +12,8 @@ Alexandria, Virginia
 
 Thank you, Major General Angle, for that introduction and for your
 decades of service to our country. I also want to thank your wife
-Jennifer, along with Leigh Beth and her husband Command Sergeant Munter,
-for such a warm welcome here today.
+Jennifer, along with Leigh Beth and her husband Command Sergeant Major
+Munter, for such a warm welcome here today.
 
 You, the members of our special forces, do work that is unseen by so
 many Americans. Your names don’t make our headlines. And your missions
