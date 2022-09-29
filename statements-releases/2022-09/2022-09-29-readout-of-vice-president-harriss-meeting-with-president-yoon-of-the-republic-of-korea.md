@@ -1,5 +1,6 @@
 ---
 date: '2022-09-29'
+modified_time: 2022-09-29 07:23:12-04:00
 published_time: 2022-09-29 01:48:52-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/readout-of-vice-president-harriss-meeting-with-president-yoon-of-the-republic-of-korea/
 tags: statements-releases
@@ -7,7 +8,7 @@ title: "Readout of Vice President Harris\u2019s Meeting with President Yoon of t
   \ Republic of\_Korea"
 ---
  
-Vice President Kamala Harris today met with President Yoon Suk-yeol of
+Vice President Kamala Harris today met with President Yoon Suk Yeol of
 the Republic of Korea (ROK) in Seoul. The Vice President underscored
 that the U.S.-ROK Alliance remains a linchpin of peace, stability, and
 prosperity in the Indo-Pacific and around the world. The Vice President
