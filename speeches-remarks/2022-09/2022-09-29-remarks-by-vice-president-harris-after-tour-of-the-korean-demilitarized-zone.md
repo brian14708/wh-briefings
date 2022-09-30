@@ -1,5 +1,6 @@
 ---
 date: '2022-09-29'
+modified_time: 2022-09-29 18:47:26-04:00
 published_time: 2022-09-29 10:26:09-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-after-tour-of-the-korean-demilitarized-zone/
 tags: speeches-remarks
@@ -11,9 +12,9 @@ title: "Remarks by Vice President Harris After Tour of the Korean Demilitarized\
 *Paju-si, Republic of Korea**
 
 THE VICE PRESIDENT:  So, the United States shares a very important
-relationship, which is an alliance with the Republic of Korea.  And it
-is an alliance that is strong and enduring.  And today, there were
-several demonstrations of just that point.   
+relationship, which is an alliance with the Republic of <s>North</s>
+Korea.  And it is an alliance that is strong and enduring.  And today,
+there were several demonstrations of just that point.   
    
 Here you see, at the DMZ, U.S. soldiers serving shoulder-to-shoulder
 with soldiers from the Republic of Korea.  They are training together. 
