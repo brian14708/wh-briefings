@@ -1,6 +1,6 @@
 ---
 date: '2022-09-29'
-modified_time: 2022-09-29 02:42:51-04:00
+modified_time: 2022-10-03 17:56:38-04:00
 published_time: 2022-09-29 09:01:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-roadmap-for-a-21st-century-u-s-pacific-island-partnership/
 tags: statements-releases
@@ -106,7 +106,7 @@ in Solomon Islands, Tonga and Kiribati, the United States is announcing:
     with the Pacific Islands Forum at the center, as a vital part of the
     Indo-Pacific regional architecture. To that end, President Biden
     designated former Ambassador to Fiji, Kiribati, Tonga, Nauru, and
-    Tonga Ambassador Frankie Reed as the first-ever U.S. Envoy to the
+    Tuvalu Ambassador Frankie Reed as the first-ever U.S. Envoy to the
     Pacific Islands Forum. In this new capacity, the Ambassador will
     expand U.S. ties and coordination with the Pacific Islands Forum and
     its members.  
@@ -384,10 +384,10 @@ the United States will provide further assistance to the Pacific,
 including additional vaccines and economic assistance.
 
 -   ***COVID-19 Vaccines*:** To date, the US has provided over 1 million
-    life-saving doses of Pfizer vaccine to countries in the Pacific
-    Island countries and continues important efforts to get “shots in
-    arms”. We are proud to have delivered over 620 million doses to over
-    116 countries. We continue to stand ready to offer vaccine doses to
+    life-saving doses of the Pfizer vaccine to the Pacific Island
+    countries and continues important efforts to get “shots in arms”. We
+    are proud to have delivered over 620 million doses to over 116
+    countries. We continue to stand ready to offer vaccine doses to
     countries who need them through our partnership with COVAX to AMC
     eligible countries in the pacific rim region and around the world.  
 -   ***Global Health Security Expansion to Pacific*:** Building on the
