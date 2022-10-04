@@ -1,5 +1,6 @@
 ---
 date: '2022-10-04'
+modified_time: 2022-10-04 09:51:43-04:00
 published_time: 2022-10-04 06:47:14-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/fact-sheet-vice-president-harris-announces-new-public-and-private-sector-efforts-to-advance-racial-equity-at-freedmans-bank-forum/
 tags: statements-releases
@@ -209,4 +210,4 @@ million national initiative to expand access to capital for small
 businesses owned by people of color.  With lead support from JPMorgan
 Chase and the W.K. Kellogg Foundation, the Fund will offer a two-stage
 approach: (1) building capacity among high-impact community lenders, and
-(2) raising private capital to invest alongside federal
+(2) raising private capital to invest alongside federal funding.
