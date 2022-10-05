@@ -1,6 +1,6 @@
 ---
 date: '2022-10-05'
-modified_time: 2022-10-05 14:11:16-04:00
+modified_time: 2022-10-05 16:55:59-04:00
 published_time: 2022-10-05 14:11:15-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/05/background-press-call-on-the-return-of-americans-wrongfully-detained-in-venezuela/
 tags: press-briefings
@@ -90,7 +90,7 @@ release of these Americans. 
    
 These two Venezuelans were arrested about seven years ago for
 unsuccessfully attempting to smuggle cocaine into the United States. 
-They have been in a U.S. city ever since then.  They were sentenced in
+They have been in U.S. custody ever since then.  They were sentenced in
 the United States in 2017 for 18 years.  And in pursuing freedom for the
 seven Americans wrongfully detained in Venezuela, the President made the
 difficult decision to grant clemency to both Flores and Freitas.  The
