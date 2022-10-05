@@ -1,6 +1,6 @@
 ---
 date: '2022-10-05'
-modified_time: 2022-10-05 00:08:27-04:00
+modified_time: 2022-10-05 07:02:47-04:00
 published_time: 2022-10-05 06:02:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-supporting-teachers-on-world-teachers-day/
 tags: statements-releases
@@ -178,13 +178,13 @@ pandemic.   
     public servants under this waiver. To benefit from the temporary
     changes, borrowers must apply and certify their employment for the
     period of time they wish to count toward PSLF by October 31, 2022
-    using this Help Tool. For more information, visit
-    [www.PSLF.gov](http://www.PSLF.gov). Teachers who previously
-    received Teacher Loan Forgiveness can now also count those years
-    used toward the Teacher Loan Forgiveness Program toward PSLF but
-    they must certify those years by October 31. The Administration has
-    also proposed regulatory changes to ensure more effective
-    implementation of PSLF moving forward.
+    using this [Help Tool](https://studentaid.gov/pslf/). For more
+    information, visit [www.PSLF.gov](http://www.PSLF.gov). Teachers who
+    previously received Teacher Loan Forgiveness can now also count
+    those years used toward the Teacher Loan Forgiveness Program toward
+    PSLF but they must certify those years by October 31. The
+    Administration has also proposed regulatory changes to ensure more
+    effective implementation of PSLF moving forward.
 -   *TEACH Grant:* The Department is implementing [improvements to the
     TEACH Grant
     program](https://www.ed.gov/news/press-releases/department-education-implements-teach-grant-program-changes-benefit-teachers-and-students),
