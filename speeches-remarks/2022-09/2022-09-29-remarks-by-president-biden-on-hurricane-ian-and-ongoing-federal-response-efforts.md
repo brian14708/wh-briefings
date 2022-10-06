@@ -1,5 +1,6 @@
 ---
 date: '2022-09-29'
+modified_time: 2022-10-06 15:14:30-04:00
 published_time: 2022-09-29 17:11:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-president-biden-on-hurricane-ian-and-ongoing-federal-response-efforts/
 tags: speeches-remarks
@@ -227,7 +228,7 @@ We’re going to build it back with the state and local government. 
 However long it takes, we’re going to be there.  That’s my commitment to
 you.  
   
-And I want to now turn it over to Sectary Mayorkas.  
+And I want to now turn it over to Secretary Mayorkas.  
   
 Q    Mr. President, do you plan to meet with Governor DeSantis when
 you’re down there?   
