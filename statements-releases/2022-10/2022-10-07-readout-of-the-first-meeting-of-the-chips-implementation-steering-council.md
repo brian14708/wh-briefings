@@ -1,5 +1,6 @@
 ---
 date: '2022-10-07'
+modified_time: 2022-10-07 14:07:59-04:00
 published_time: 2022-10-07 12:24:35-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/readout-of-the-first-meeting-of-the-chips-implementation-steering-council/
 tags: statements-releases
@@ -69,7 +70,8 @@ Participants in yesterday’s meeting included:
 -   Deputy Secretary of State Wendy Sherman
 -   Deputy Secretary of Defense Kathleen Hicks
 -   Under Secretary of Energy for Science and Innovation Geri Richmond
--   Director of Public Engagement Keisha Lance Bottoms
+-   Senior Advisor to the President for Public Engagement Keisha Lance
+    Bottoms
 -   Principal Deputy National Cyber Director Kemba Walden
 -   Director of the Department of Labor’s Good Jobs Initiative Katelyn
     Walker Mooney
