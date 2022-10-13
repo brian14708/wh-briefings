@@ -1,6 +1,6 @@
 ---
 date: '2022-10-12'
-modified_time: 2022-10-12 15:04:39-04:00
+modified_time: 2022-10-13 09:08:12-04:00
 published_time: 2022-10-12 16:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/president-biden-announces-key-appointments-to-boards-and-commissions-10/
 tags: statements-releases
@@ -172,7 +172,7 @@ for critical programs at the Department of Justice, Consumer Financial
 Protection Bureau, and the Department of Navy. She is the recipient of a
 Department of Justice, Justice Management Division, Special Commendation
 Award, and the Department of Defense’s David Packard Excellence in
-Acquisition Award. Jamison holds his Bachelor in Public Policy Studies
+Acquisition Award. Jamison holds her Bachelor in Public Policy Studies
 from Duke University and a Master of Business Administration from
 Georgetown University.
 
