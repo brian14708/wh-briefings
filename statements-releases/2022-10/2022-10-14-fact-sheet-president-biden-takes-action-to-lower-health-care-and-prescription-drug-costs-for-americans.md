@@ -1,6 +1,6 @@
 ---
 date: '2022-10-14'
-modified_time: 2022-10-13 21:57:42-04:00
+modified_time: 2022-10-14 09:47:32-04:00
 published_time: 2022-10-14 05:01:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/fact-sheet-president-biden-takes-action-to-lower-health-care-and-prescription-drug-costs-for-americans/
 tags: statements-releases
@@ -33,7 +33,7 @@ or not filled prescriptions due to cost.
   
 The Inflation Reduction Act – which President Biden and Congressional
 Democrats delivered – tackles that problem and locks in on average $800
-per year lower health care premiums for 13 million families, lowers
+per year lower health care premiums for 13 million Americans, lowers
 seniors’ prescription drug prices, and caps their out of pocket expenses
 for prescription drugs at $2,000 per year. The Inflation Reduction Act
 protects Medicare beneficiaries from catastrophic drug costs by phasing
