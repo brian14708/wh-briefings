@@ -1,6 +1,6 @@
 ---
 date: '2022-10-19'
-modified_time: 2022-10-19 10:20:44-04:00
+modified_time: 2022-10-19 19:23:23-04:00
 published_time: 2022-10-19 10:20:43-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/readout-of-meeting-with-nations-leading-clinical-societies-on-the-importance-of-getting-americans-vaccinated-and-covid-19-treatments-this-fall-and-winter/
 tags: statements-releases
@@ -11,8 +11,8 @@ title: "Readout of Meeting with Nation\u2019s Leading Clinical Societies on the 
  
 On Monday, White House COVID-19 Response Coordinator Dr. Ashish Jha and
 federal public health officials met with leading organizations
-representing America’s physicians, nurse practitioners, and other
-clinicians to discuss the ongoing work to protect people against and
+representing America’s physicians, nurse practitioners, and physician
+associates to discuss the ongoing work to protect people against and
 treat COVID-19 this fall and winter. Administration officials shared
 that they are carefully monitoring emerging subvariants in the U.S. and
 around the world, and underscored the potential for an increase in both
