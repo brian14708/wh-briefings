@@ -1,5 +1,6 @@
 ---
 date: '2022-10-24'
+modified_time: 2022-10-25 09:11:45-04:00
 published_time: 2022-10-24 20:13:53-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/readout-of-the-first-white-house-leadership-summit-with-manufacturing-usa-innovation-institute-network-directors/
 tags: statements-releases
@@ -56,13 +57,13 @@ are 90% lighter than concrete;
 robotic systems for testing COVID-19 samples that can run 24-hours a day
 and test 2,000 samples per day; and
 [NIIMBL](https://www.manufacturingusa.com/institutes/niimbl) is reducing
-the cost to produce critical cells and proteins by 90%. Collectively,
-the Manufacturing USA institutes collaborate on over 700 major
-technology and workforce R&D projects and have helped more than 90,000
-people get trained in advanced manufacturing. The institutes are located
-in thirteen states across the country and each is sponsored by the
-Department of Commerce, the Department or Defense, or the Department of
-Energy.
+by 90% the time needed to make buffers needed for manufacturing
+antibodies. Collectively, the Manufacturing USA institutes collaborate
+on over 700 major technology and workforce R&D projects and have helped
+more than 90,000 people get trained in advanced manufacturing. The
+institutes are located in thirteen states across the country and each is
+sponsored by the Department of Commerce, the Department or Defense, or
+the Department of Energy.
 
 Agencies, Manufacturing USA Institutes, and White House component in
 attendance at the summit included:
