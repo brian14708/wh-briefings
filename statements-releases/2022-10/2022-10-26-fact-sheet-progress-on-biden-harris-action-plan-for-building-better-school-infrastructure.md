@@ -1,6 +1,6 @@
 ---
 date: '2022-10-26'
-modified_time: 2022-10-25 19:09:21-04:00
+modified_time: 2022-10-26 09:13:00-04:00
 published_time: 2022-10-26 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/26/fact-sheet-progress-on-biden-harris-action-plan-for-building-better-school-infrastructure/
 tags: statements-releases
@@ -73,7 +73,7 @@ Program – the first installment of the $5 billion total that will be
 awarded over five years. The awards will go to school districts in all
 50 states and Washington D.C., in addition to several U.S. territories
 and institutions serving federally recognized Tribes. The new awards
-will support the purchase of 2,468 buses, and 95% of these buses will be
+will support the purchase of 2,463 buses, and 95% of these buses will be
 electric.  
   
 Additionally, EPA announced new details about the upcoming competitive
