@@ -1,5 +1,6 @@
 ---
 date: '2022-10-26'
+modified_time: 2022-10-29 17:32:31-04:00
 published_time: 2022-10-26 10:53:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/
 tags: blog
@@ -138,7 +139,7 @@ estimate</a>)<br />
  </td>
 </tr>
 <tr class="odd">
-<td>(NSF) fees:<br />
+<td><br />
 Hotel resort fees:</td>
 <td><br />
 $2.93 billion in 2018 (<a
