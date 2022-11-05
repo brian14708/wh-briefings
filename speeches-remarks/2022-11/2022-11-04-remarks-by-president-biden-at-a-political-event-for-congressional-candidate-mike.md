@@ -1,10 +1,11 @@
 ---
 date: '2022-11-04'
+modified_time: 2022-11-05 13:19:39-04:00
 published_time: 2022-11-04 12:48:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/04/remarks-by-president-biden-at-a-political-event-for-congressional-candidate-mike/
 tags: speeches-remarks
-title: "Remarks by President\_Biden at a Political Event for Congressional Candidate\_\
-  Mike"
+title: "Remarks by President\_Biden at a Political Event for Congressional Candidate\
+  \ Mike\_Levin"
 ---
  
 MiraCosta College  
