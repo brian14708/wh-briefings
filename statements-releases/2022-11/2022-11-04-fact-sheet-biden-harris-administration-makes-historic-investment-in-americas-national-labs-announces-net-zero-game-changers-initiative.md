@@ -1,6 +1,6 @@
 ---
 date: '2022-11-04'
-modified_time: 2022-11-03 19:01:43-04:00
+modified_time: 2022-11-06 13:45:43-04:00
 published_time: 2022-11-04 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/
 tags: statements-releases
@@ -8,7 +8,7 @@ title: "FACT SHEET:  Biden-\u2060Harris Administration Makes Historic Investment
   \ America\u2019s National Labs, Announces Net-Zero Game Changers\_Initiative"
 ---
  
-Today, the Biden-Harris Administration announced $1.5 billion under the
+Today, the Biden-Harris Administration announced $1.5 billion under
 President Biden’s Inflation Reduction Act to build and upgrade America’s
 national laboratories and advance American leadership in science,
 research, and innovation. Strengthening our national labs will increase
