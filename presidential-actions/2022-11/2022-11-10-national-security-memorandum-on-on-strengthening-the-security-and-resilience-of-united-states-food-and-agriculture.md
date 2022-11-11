@@ -1,9 +1,10 @@
 ---
 date: '2022-11-10'
+modified_time: 2022-11-10 19:57:52-05:00
 published_time: 2022-11-10 15:26:09-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/10/national-security-memorandum-on-on-strengthening-the-security-and-resilience-of-united-states-food-and-agriculture/
 tags: presidential-actions
-title: "National Security Memorandum on on Strengthening the Security and Resilience\
+title: "National Security Memorandum on Strengthening the Security and Resilience\
   \ of United\_States Food and\_Agriculture"
 ---
  

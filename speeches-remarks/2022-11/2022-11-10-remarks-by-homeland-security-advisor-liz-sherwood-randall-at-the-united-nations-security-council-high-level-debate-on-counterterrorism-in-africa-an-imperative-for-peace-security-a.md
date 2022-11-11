@@ -1,6 +1,6 @@
 ---
 date: '2022-11-10'
-modified_time: 2022-11-10 19:39:53-05:00
+modified_time: 2022-11-10 20:08:21-05:00
 published_time: 2022-11-10 19:39:52-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-homeland-security-advisor-liz-sherwood-randall-at-the-united-nations-security-council-high-level-debate-on-counterterrorism-in-africa-an-imperative-for-peace-security-a/
 tags: speeches-remarks
@@ -9,7 +9,7 @@ title: "Remarks by Homeland Security Advisor Liz Sherwood-Randall at the United 
   \ An Imperative for Peace, Security, and\_Development\u201D"
 ---
  
-Mr. President, I want to begin by expressing my gratitude to **you** for
+Mr. President, I want to begin by expressing my gratitude to you for
 bringing us all together and for elevating this vital conversation. Your
 country is on the frontlines, surrounded by security threats on your
 borders. Your government has developed a thoughtful approach to
@@ -17,9 +17,9 @@ countering terrorism, and you have distinguished yourself as a regional
 leader who is committed to deepening collaboration and cooperation with
 your neighbors in the face of this existential threat.
 
-I also want to thank **Deputy** **Secretary General Mohammed,
-Chairperson Faki**, **Director von Seherr-Thoss**, and Dr. **Ero**. I
-have listened closely to each of you and have learned a lot.
+I also want to thank Deputy Secretary General Mohammed, Chairperson
+Faki, Director von Seherr-Thoss, and Dr. Ero. I have listened closely to
+each of you and have learned a lot.
 
 The United States fully agrees that none of us can effectively meet the
 terrorism challenge alone. 
@@ -39,11 +39,9 @@ As you all know, countering terrorism has been a top priority for the
 United States for two decades and even before. But over the years, the
 threat has evolved.
 
-It has become more ideologically <span
-style="text-decoration: underline">diverse</span>.
+It has become more ideologically diverse.
 
-And it has become more geographically <span
-style="text-decoration: underline">diffuse</span>.
+And it has become more geographically diffuse.
 
 Nowhere is this evolution in the global terrorism landscape more vivid
 than in Africa, where terrorist groups, from al-Qa‘ida branches to ISIS
@@ -51,23 +49,24 @@ affiliates, now collectively occupy vast swaths of territory and extract
 benefits from millions of suffering people. Across every region of the
 vast continent, they brutalize and terrorize civilians.
 
--   In **Burkina Faso**, terrorist groups attack villagers and displace
-    farmers from their sole source of income.
--   In **Nigeria**, ISIS affiliates have massacred worshipers in
-    churches.
--   In **Mozambique** last year, hundreds of Islamic militants linked to
-    ISIS laid siege to an entire town, holding guests in a hotel
-    hostage.
--   In **Mali**, violent extremists continue to kill UN peacekeepers,
-    making the MINUSMA one of the most dangerous peacekeeping missions
-    in the world.
--   In **Kenya**, al-Shabaab has threatened election workers and polling
-    sites, and targeted universities, shopping centers, and other
-    locations that people frequent.
--   And in **Somalia**, al-Shabaab targets and kills civilians—including
-    more than 100 Somali educators and first responders during tragic
-    bombings less than two weeks ago where an additional 300 people were
-    injured. 
+In Burkina Faso, terrorist groups attack villagers and displace farmers
+from their sole source of income.
+
+In Nigeria, ISIS affiliates have massacred worshipers in churches.
+
+In Mozambique last year, hundreds of Islamic militants linked to ISIS
+laid siege to an entire town, holding guests in a hotel hostage.
+
+In Mali, violent extremists continue to kill UN peacekeepers, making the
+MINUSMA one of the most dangerous peacekeeping missions in the world.
+
+In Kenya, al-Shabaab has threatened election workers and polling sites,
+and targeted universities, shopping centers, and other locations that
+people frequent.
+
+And in Somalia, al-Shabaab targets and kills civilians—including more
+than 100 Somali educators and first responders during tragic bombings
+less than two weeks ago where an additional 300 people were injured. 
 
 Across the region, terrorists also attack Americans and other foreign
 citizens, including from countries represented around this table.
@@ -94,20 +93,20 @@ shared challenge. And it demands a collective response.
 
 The United States is doing three key things to tackle this threat.
 
-**First**, we are investing in governance, development, and diplomacy.
+First, we are investing in governance, development, and diplomacy.
 
-**Second**, we are deepening our ties with our African partners and
+Second, we are deepening our ties with our African partners and
 empowering them to take the lead on this challenge. 
 
-**And third**, we are leveraging the collective strength of the
+And third, we are leveraging the collective strength of the
 international community, including the UN.
 
 I want to take a few minutes to discuss each of these.
 
 *\*\*\**
 
-**First, as I said, we are investing in governance, development and
-diplomacy.**
+First, as I said, we are investing in governance, development and
+diplomacy.
 
 The United States is pursuing an integrated strategy:
 
@@ -124,8 +123,8 @@ than the terrorism enterprise would do and building institutions and
 capacity to hold those who commit acts of terror to account through
 strong law enforcement and judicial systems.
 
-**Second, we are deepening our ties with our African partners and
-empowering them to take the lead on this challenge.  **
+Second, we are deepening our ties with our African partners and
+empowering them to take the lead on this challenge.  
 
 I have travelled to Djibouti, to Somalia, to Kenya, and to Niger in my
 current role. I have seen firsthand how our diplomats, our intelligence
@@ -148,13 +147,12 @@ support they need. We will do everything we can to enable them to lead
 across the African continent. And we will empower them to conduct
 capacity-building efforts that enable more enduring outcomes.
 
-**Third, the United States is leveraging the collective strength of the
-international community, including the UN.**
+Third, the United States is leveraging the collective strength of the
+international community, including the UN.
 
-More than 15 years ago, <span
-style="text-decoration: underline">every</span> UN member state signed
-onto the Global Counterterrorism Strategy—which promoted a shared vision
-and a common approach to fighting terrorism.
+More than 15 years ago, every UN member state signed onto the Global
+Counterterrorism Strategy—which promoted a shared vision and a common
+approach to fighting terrorism.
 
 But this threat has changed substantially since we adopted that
 resolution, making the need for collaboration across the world more
@@ -179,10 +177,9 @@ States, and Group of Five-Sahel—so that we can provide effective support
 where it is most needed. The outcomes of this report will be essential
 in shaping our next steps.
 
-Finally, our joint efforts <span
-style="text-decoration: underline">must</span> be grounded in democracy
-and built on a respect for the rule of law and human rights in order to
-succeed over the long term. 
+Finally, our joint efforts must be grounded in democracy and built on a
+respect for the rule of law and human rights in order to succeed over
+the long term. 
 
 When nations use terrorism as a pretext to silence political dissent or
 interfere with the activities of civil society, the effort to counter
