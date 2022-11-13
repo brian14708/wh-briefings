@@ -1,15 +1,15 @@
 ---
 date: '2022-11-13'
-modified_time: 2022-11-13 10:29:08-05:00
+modified_time: 2022-11-13 13:09:28-05:00
 published_time: 2022-11-13 10:29:07-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/13/readout-of-president-joe-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea-2/
 tags: speeches-remarks
-title: "Readout of President Joe\_Biden\u2019s Meeting with President Yoon Suk-yeol\
+title: "Readout of President Joe\_Biden\u2019s Meeting with President Yoon Suk Yeol\
   \ of the Republic of\_Korea"
 ---
  
 President Joseph R. Biden, Jr. met today with Republic of Korea (ROK)
-President Yoon Suk-yeol in Phnom Penh, Cambodia. The two leaders
+President Yoon Suk Yeol in Phnom Penh, Cambodia. The two leaders
 condemned the Democratic People’s Republic of Korea’s (DPRK)
 destabilizing and threatening actions in recent weeks, including
 military operations near the border area and the launch of an
