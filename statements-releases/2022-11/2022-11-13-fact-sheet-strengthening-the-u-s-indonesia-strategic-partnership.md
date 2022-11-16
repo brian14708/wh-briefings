@@ -1,6 +1,6 @@
 ---
 date: '2022-11-13'
-modified_time: 2022-11-13 22:18:55-05:00
+modified_time: 2022-11-16 15:59:56-05:00
 published_time: 2022-11-13 23:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/fact-sheet-strengthening-the-u-s-indonesia-strategic-partnership/
 tags: statements-releases
@@ -94,13 +94,13 @@ a portfolio of green hydrogen projects in Indonesia called
 hydrogen backed storage to deliver stable and reliable power to
 electricity grids.  
    
-**Preserving Biodiversity: **USAID plans to launch a new partnership
-with Indonesia’s Ministry of Environment and Forestry on the
-conservation of orangutans and other vulnerable species such as
+**Preserving Biodiversity: **USAID plans to launch a new climate
+partnership with Indonesia’s Ministry of Environment and Forestry in
+support of the country’s Forestry and Other Land Use (FOLU) Net Sink
+2030 on the conservation of orangutans and other species such as
 elephants, tigers, and rhinoceroses in Sumatra and Kalimantan. This
-partnership will improve conservation data collection; facilitate
-collaboration among local government, the private sector, and
-communities; and reduce human-wildlife conflict.  
+partnership will support ongoing conservation efforts and help
+strengthen collaboration among relevant stakeholder.  
    
 **Supporting Ports and Fisheries in the Pacific: **The United States and
 Indonesia committed to partnering to enhance port and fisheries
