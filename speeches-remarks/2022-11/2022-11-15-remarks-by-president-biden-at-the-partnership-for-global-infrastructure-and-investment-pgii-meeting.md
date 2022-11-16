@@ -1,5 +1,6 @@
 ---
 date: '2022-11-15'
+modified_time: 2022-11-15 19:16:24-05:00
 published_time: 2022-11-15 08:24:47-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/15/remarks-by-president-biden-at-the-partnership-for-global-infrastructure-and-investment-pgii-meeting/
 tags: speeches-remarks
@@ -82,9 +83,10 @@ That $20 billion from partner governments and some of the world’s
 leading financial institutions will accelerate an ambitious energy
 transition that has a global impact.   
   
-We also plan to invest $798 million through the new Millennium Challenge
-Corporation with Indonesia, which will build climate-resilient
-transportation and support Indonesia’s development goals.   
+We also plan to invest <s>$798 million</s> \[$698 million\] through the
+new Millennium Challenge Corporation with Indonesia, which will build
+climate-resilient transportation and support Indonesia’s development
+goals.   
   
 And around the world, we’re also investing in critical minerals, supply
 chains, and technology needed for a clean energy transition.   
