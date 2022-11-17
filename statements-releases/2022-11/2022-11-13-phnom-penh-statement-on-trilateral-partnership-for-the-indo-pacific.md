@@ -1,16 +1,17 @@
 ---
 date: '2022-11-13'
-modified_time: 2022-11-13 07:24:12-05:00
+modified_time: 2022-11-16 21:30:23-05:00
 published_time: 2022-11-13 07:24:11-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/phnom-penh-statement-on-trilateral-partnership-for-the-indo-pacific/
 tags: statements-releases
-title: "Phnom Penh Statement on\_Trilateral Partnership for the\_Indo-Pacific"
+title: "Phnom Penh Statement on US \u2013 Japan \u2013 Republic of Korea Trilateral\
+  \ Partnership for the\_Indo-Pacific"
 ---
  
 Today in Phnom Penh, Cambodia at the East Asia Summit, Prime Minister
-Kishida Fumio of Japan, President Yoon SukYeol of the Republic of Korea
+Kishida Fumio of Japan, President Yoon Suk Yeol of the Republic of Korea
 (ROK), and President Joseph R. Biden, Jr. of the United
-States reaffirmed our trilateralpartnership guided by shared values,
+States reaffirmed our trilateral partnership guided by shared values,
 driven by innovation, and committed to shared prosperity and
 security. The Leaders commended the unprecedented level of trilateral
 coordination. Together, in their second trilateral meeting this year,
@@ -21,7 +22,7 @@ The Leaders recognize that challenges of the 21<sup>st</sup> century
 require closer cooperation among Japan, the ROK and the United
 States. The United States’ ironclad alliance commitments to the ROK and
 Japan and our close, enduring friendships are critical to the security
-and prosperity of our citizens, the region, and the world.Also, the
+and prosperity of our citizens, the region, and the world. Also, the
 Leaders concurred to work in a trilateral format at all levels of
 government to implement our approaches to the Indo-Pacific, a region of
 vital importance to global peace, security, and prosperity. The leaders

@@ -1,5 +1,6 @@
 ---
 date: '2022-11-15'
+modified_time: 2022-11-16 21:42:38-05:00
 published_time: 2022-11-15 05:09:13-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/indonesia-and-international-partners-secure-groundbreaking-climate-targets-and-associated-financing/
 tags: statements-releases
@@ -12,8 +13,8 @@ Today, at the Partnership for Global Infrastructure and Investment
 leaders of the International Partners Group (IPG) of likeminded
 countries, co-led by the United States and Japan, and including Canada,
 Denmark, the European Union, France, Germany, Italy, Norway, and the
-United Kingdom, [issued a Joint
-Statement,](https://www.whitehouse.gov/wp-content/uploads/2022/11/Joint-Statement.pdf)
+United Kingdom, [issued a Joint
+Statement](https://www.whitehouse.gov/wp-content/uploads/2022/11/Joint-Statement-1.pdf),
 launching a Just Energy Transition Partnership (JETP) developed with
 Indonesia during its G20 Presidency. The landmark partnership pursues an
 ambitious and just power sector transition in Indonesia, supporting a
@@ -86,7 +87,7 @@ alternatives with further private sector engagement.”
 Prime Minister of Canada Justin Trudeau said, “Developing clean energy
 is a central part of addressing climate change and moving to a more
 secure, sustainable, and strong global economy. Through this new
-partnership, Canada will help Indonesia meet its climate and emery
+partnership, Canada will help Indonesia meet its climate and energy
 goals, drive up renewable energy generation, invest in communities and
 workers and reduce emissions while enhancing energy security.  
   
