@@ -1,6 +1,6 @@
 ---
 date: '2022-11-18'
-modified_time: 2022-11-17 19:52:17-05:00
+modified_time: 2022-11-18 09:59:18-05:00
 published_time: 2022-11-18 05:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-the-biden-harris-administration-advances-transmission-buildout-to-deliver-affordable-clean-electricity/
 tags: statements-releases
@@ -13,9 +13,10 @@ and upgraded transmission lines that will reduce electricity costs for
 families and businesses, prevent power outages in the face of extreme
 weather, and create good-paying jobs in the clean energy economy.
 
-Today, the Department of Energy (DOE) announced that first-round
-applications are open for competitive grants under the [Grid Resilience
-and Innovation Partnership
+Today, the Department of Energy (DOE)
+[announced](https://www.energy.gov/articles/biden-harris-administration-announces-13-billion-modernize-and-expand-americas-power-grid)
+that first-round applications are open for competitive grants under the
+[Grid Resilience and Innovation Partnership
 Programs](https://www.energy.gov/gdo/grid-resilience-innovation-partnership-programs),
 which total $10.5 billion in available funding, as well as the $2.5
 billion [Transmission Facilitation
