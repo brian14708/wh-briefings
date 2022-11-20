@@ -1,6 +1,6 @@
 ---
 date: '2022-11-19'
-modified_time: 2022-11-19 18:09:22-05:00
+modified_time: 2022-11-19 20:44:39-05:00
 published_time: 2022-11-19 18:09:21-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/19/fact-sheet-vice-president-harris-announces-new-u-s-support-for-clean-energy-in-the-mekong-region/
 tags: statements-releases
@@ -45,7 +45,7 @@ require technical assistance for modernizing regulations, market
 mechanisms, and for maintaining stability and reliability. Expanding
 renewable energy generation capacity across the Mekong helps diversify
 the region’s electricity mix and reduce reliance on hydropower capacity.
-JUMPP assists counties with technical assistance supporting strong
+JUMPP assists countries with technical assistance supporting strong
 energy markets and reliably integrating renewable energy to ensure
 citizens have access to reliable, secure, and affordable energy supplies
 to support economic growth and prosperity.   
