@@ -1,6 +1,6 @@
 ---
 date: '2022-11-29'
-modified_time: 2022-11-29 11:04:16-05:00
+modified_time: 2022-11-30 08:00:55-05:00
 published_time: 2022-11-29 11:05:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-biden-harris-administration-announces-expansion-of-global-health-security-partnerships-and-releases-annual-progress-report/
 tags: statements-releases
@@ -42,8 +42,8 @@ Agenda (GHSA). Over the next year, the United States will:
     countries to develop measurable capacity to prevent, detect, and
     rapidly respond to epidemic and pandemic threats. This includes:  
     -   Forging 6 new and enhanced partnerships with *Ghana*,
-        *Guatemala*, *Kazakhstan*, *Mozambique*, *The* *Philippines*,
-        *Zambia, and Ukraine (when the operating environment allows);*  
+        *Guatemala*, *Mozambique*, *The* *Philippines*, *Zambia, and
+        Ukraine (when the operating environment allows);*  
 
     <!-- -->
 
