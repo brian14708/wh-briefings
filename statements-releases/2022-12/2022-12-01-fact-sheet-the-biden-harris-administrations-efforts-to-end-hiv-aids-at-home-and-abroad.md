@@ -1,6 +1,6 @@
 ---
 date: '2022-12-01'
-modified_time: 2022-11-30 23:06:34-05:00
+modified_time: 2022-12-01 11:31:35-05:00
 published_time: 2022-12-01 09:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/fact-sheet-the-biden-harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad/
 tags: statements-releases
@@ -16,9 +16,9 @@ to implementing the updated [National HIV/AIDS
 Strategy](https://www.hiv.gov/federal-response/national-hiv-aids-strategy/national-hiv-aids-strategy-2022-2025) (NHAS)
 announced last year and achieving the bipartisan goal of ending the HIV
 epidemic at home and abroad. The Administration is also releasing a [new
-strategy](http://www.state.gov/pepfar-commemorates-world-aids-day-2022) to
-guide the President’s Emergency Plan for AIDS Relief (PEPFAR) globally.
-Over the past year, the Administration has taken action to:  
+strategy](https://www.state.gov/pepfar-five-year-strategy-2022) to guide
+the President’s Emergency Plan for AIDS Relief (PEPFAR) globally. Over
+the past year, the Administration has taken action to:  
   
 **Accelerate our Domestic HIV Efforts**
 
@@ -63,10 +63,10 @@ impact, including:
     five-year strategy to reinvigorate the U.S. global HIV/AIDS
     response. The strategy, *[Fulfilling America’s Promise to End the
     HIV/AIDS Pandemic by
-    2030](http://www.state.gov/pepfar-commemorates-world-aids-day-2022)*,
-    will focus on enhancing collaboration and partnership to confront
-    the challenge of fighting HIV/AIDS as a security threat in the wake
-    of other emerging health threats.
+    2030](https://www.state.gov/pepfar-five-year-strategy-2022)*, will
+    focus on enhancing collaboration and partnership to confront the
+    challenge of fighting HIV/AIDS as a security threat in the wake of
+    other emerging health threats.
 -   **Leading the largest ever Global Fund Replenishment. **President
     Biden led an historic seventh replenishment for the Global Fund to
     Fight AIDS, Tuberculosis and Malaria, raising $15.7 billion in donor
