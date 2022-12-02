@@ -1,5 +1,6 @@
 ---
 date: '2022-12-02'
+modified_time: 2022-12-02 17:03:29-05:00
 published_time: 2022-12-02 13:26:07-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2022/
 tags: presidential-actions
@@ -28,18 +29,18 @@ routinely face violence, harassment, exploitation, abuse, and other
 barriers to their full participation in society.
 
      From the beginning, my Administration has made righting those
-wrongs a priority.  On my first day in office, I signed an Executive
-Order on Diversity, Equity, Inclusion, and Accessibility in the Federal
-Workforce to advance employment opportunities for communities facing
-barriers, including Americans with disabilities.  Our American Rescue
-Plan is providing $25 billion to States to make it easier for seniors
-and people with disabilities to receive care in their own homes, and my
-Administration delivered vaccines, masks, tests, and therapeutics
-directly to people in their communities to protect Americans with
-disabilities and other preexisting health conditions from COVID-19.  I
-also directed my Administration to accelerate progress toward
-understanding, diagnosing, and treating “long COVID,” a condition that
-has affected many Americans across the country.
+wrongs a priority.  I signed an Executive Order on Diversity, Equity,
+Inclusion, and Accessibility in the Federal Workforce to advance
+employment opportunities for communities facing barriers, including
+Americans with disabilities.  Our American Rescue Plan is providing $25
+billion to States to make it easier for seniors and people with
+disabilities to receive care in their own homes, and my Administration
+delivered vaccines, masks, tests, and therapeutics directly to people in
+their communities to protect Americans with disabilities and other
+preexisting health conditions from COVID-19.  I also directed my
+Administration to accelerate progress toward understanding, diagnosing,
+and treating “long COVID,” a condition that has affected many Americans
+across the country.
 
      The Bipartisan Infrastructure Law is our Nation’s largest-ever
 investment in accessible transit, and it is also supporting the
