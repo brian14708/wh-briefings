@@ -1,6 +1,6 @@
 ---
 date: '2022-12-02'
-modified_time: 2022-12-02 07:54:47-05:00
+modified_time: 2022-12-02 09:38:36-05:00
 published_time: 2022-12-02 07:54:46-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-biden-harris-administrations-work-to-limit-anti-personnel-landmine-use/
 tags: statements-releases
@@ -12,10 +12,10 @@ title: "Statement by NSC Spokesperson Adrienne Watson on\_Biden-\u2060Harris Adm
 Stockpiling, Production, and Transfer of Anti-Personnel Mines and on
 their Destruction opened for signature in Ottawa, Canada.  The
 indiscriminate and enduring threat posed by these weapons—especially to
-civilians, including children— has led 164 countries around the world to
-accede to the Ottawa Convention, and the Biden-Harris Administration to
-align U.S. policy with its key provisions outside of the Korean
-Peninsula.  
+civilians, including children— has led more than 160 countries around
+the world to accede to the Ottawa Convention, and the Biden-Harris
+Administration to align U.S. policy with its key provisions outside of
+the Korean Peninsula.  
 
 President Biden’s commitment to reduce the impact of these weapons is
 being backed by action.  We are reducing our reliance on anti-personnel
