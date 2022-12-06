@@ -1,5 +1,6 @@
 ---
 date: '2022-12-05'
+modified_time: 2022-12-06 10:53:27-05:00
 published_time: 2022-12-05 16:25:21-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/05/u-s-eu-joint-statement-of-the-trade-and-technology-council/
 tags: statements-releases
@@ -199,7 +200,7 @@ for more enhanced cooperation in other emerging technology areas.
   
 On May 16, 2022, at the TTC meeting in Paris-Saclay, the United States
 and the European Union decided to cooperate on **Megawatt Charging
-Systems (MCS) standard** **for heavy-duty vehicles.  **We welcome the
+Systems (MCS) standard for heavy-duty vehicles.  **We welcome the
 progress on the physical prototype developed by industry.  We intend to
 continue working towards a common international standard to be adopted
 by 2024 at the latest to provide the highest level of interoperability,
@@ -219,11 +220,11 @@ on vehicle-to-grid integration and smart charging interoperability.
 **Other Standards and Research Cooperation**  
   
 We have launched workstreams to increase standards cooperation on
-**Additive Manufacturing,** **Recycling of Plastics,andDigital
-Identity**, with plans to launch new workstreams on **Post-Quantum
-Encryption** and **Internet of Things (IoT)**, with an initial focus on
-technical and performance standards for cybersecurity to be discussed in
-the U.S.-EU Cyber Dialogue.  
+**Additive Manufacturing, Recycling of Plastics, and Digital Identity**,
+with plans to launch new workstreams on **Post-Quantum Encryption** and
+**Internet of Things (IoT)**, with an initial focus on technical and
+performance standards for cybersecurity to be discussed in the U.S.-EU
+Cyber Dialogue.  
   
 Following the signing of the Administrative Arrangement in May 2022, we
 rolled out the **Strategic Standards Information (SSI)** mechanism,
