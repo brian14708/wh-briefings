@@ -1,6 +1,6 @@
 ---
 date: '2022-12-07'
-modified_time: 2022-12-07 12:43:37-05:00
+modified_time: 2022-12-08 15:47:18-05:00
 published_time: 2022-12-07 12:02:50-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/07/fact-sheet-biden-harris-administration-announces-first-ever-federal-building-performance-standard-catalyzes-american-innovation-to-lower-energy-costs-save-taxpayer-dollars-and-cut-emissions/
 tags: statements-releases
@@ -35,10 +35,11 @@ President’s [National Building Performance Standard
 Coalition](https://nationalbpscoalition.org/), a nationwide group of
 over 30 state and local governments that have committed to reducing the
 emissions footprint of existing buildings. With the addition of
-California to the coalition and the new *Federal Building Performance
-Standard*, one quarter of all commercial, Federal, and multifamily
-buildings in the United States are now either covered by or moving
-toward sustainable building performance standard policies.
+California to the coalition and the new *[Federal Building Performance
+Standard](https://www.sustainability.gov/federalbuildingstandard.html)*,
+one quarter of all commercial, Federal, and multifamily buildings in the
+United States are now either covered by or moving toward sustainable
+building performance standard policies.
 
 In the United States, residential and commercial buildings represent [35
 percent of carbon dioxide
