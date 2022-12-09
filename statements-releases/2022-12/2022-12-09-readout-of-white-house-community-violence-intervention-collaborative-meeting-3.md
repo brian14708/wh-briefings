@@ -1,6 +1,6 @@
 ---
 date: '2022-12-09'
-modified_time: 2022-12-09 08:17:53-05:00
+modified_time: 2022-12-09 17:27:21-05:00
 published_time: 2022-12-09 08:17:52-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/readout-of-white-house-community-violence-intervention-collaborative-meeting-3/
 tags: statements-releases
@@ -23,12 +23,12 @@ the Administration’s continuing commitment to this work.
 Leaders of CVI organizations discussed how CVIC has helped them advance
 their work – including by making them more competitive for grant
 funding. Leaders described how, through the technical assistance
-facilitated by CVIC, they have established a co-responder program to
-respond to emergency calls, brought young people and law enforcement
-into the same room to talk about improving public safety, scaled up the
-number of individuals served by skills training and entrepreneurship
-programs, and even established new community violence intervention
-programs.
+facilitated by CVIC and anchored by Hyphen, they have established a
+co-responder program to respond to emergency calls, brought young people
+and law enforcement into the same room to talk about improving public
+safety, scaled up the number of individuals served by skills training
+and entrepreneurship programs, and even established new community
+violence intervention programs.
 
 Federal officials reaffirmed that the Administration will continue its
 commitment to community violence interventions as a cornerstone of the
@@ -48,6 +48,14 @@ training and technical assistance (TTA) to help communities assess their
 existing public safety ecosystem, identify gaps, and build the capacity
 to expand programming that saves lives and provides needed services to
 communities impacted by gun violence.
+
+**The national TTA partners include:**
+
+The Community Based Public Safety Collective  
+The Health Alliance for Violence Intervention  
+The National Institute for Criminal Justice Reform  
+Cities United  
+Community Capacity Development
 
 **Jurisdictions participating in the CVI Collaborative include:**
 
