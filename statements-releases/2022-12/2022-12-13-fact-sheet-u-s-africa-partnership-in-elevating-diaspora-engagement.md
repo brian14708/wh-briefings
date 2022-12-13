@@ -1,5 +1,6 @@
 ---
 date: '2022-12-13'
+modified_time: 2022-12-13 17:22:33-05:00
 published_time: 2022-12-13 15:21:24-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-elevating-diaspora-engagement/
 tags: statements-releases
@@ -68,7 +69,7 @@ continent. 
 
 **Since the beginning of the Biden-Harris Administration, the United
 States has invested over $385 million in education and youth leadership
-programming**. **We intend to invest more than $690 billion over the
+programming**. **We intend to invest more than $690 million over the
 next two years, for a total of nearly $1.1 billion.** 
 
 -   **Young African Leaders Initiative (YALI) Expansion**: The Vice
