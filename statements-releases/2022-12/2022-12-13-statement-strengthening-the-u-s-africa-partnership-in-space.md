@@ -1,6 +1,6 @@
 ---
 date: '2022-12-13'
-modified_time: 2022-12-13 08:43:27-05:00
+modified_time: 2022-12-13 11:34:18-05:00
 published_time: 2022-12-13 09:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/statement-strengthening-the-u-s-africa-partnership-in-space/
 tags: statements-releases
@@ -28,12 +28,11 @@ importance of implementing best practices and norms of responsible
 behavior as well as compliance with the Registration Convention and the
 Rescue and Return Agreement.  
    
-Director General of Nigeria’s National Space Research and Development
-Agency (NASRDA) Halilu Shaba signed the Artemis Accords on behalf of
-Nigeria, while Minister of the Ministry of Information Communication
-Technology and Innovation Paula Ingabire signed the Accords on behalf of
-Rwanda.  They were joined on the U.S. side by Deputy Secretary of State,
-Wendy Sherman, Administrator of the National Aeronautics and Space
+Professor Isa Ali Ibrahim, Minister of Communications and Digital
+Economy, signed the Artemis Accords on behalf of Nigeria, while Francis
+Ngabo, CEO of Rwanda Space Agency, signed the Accords on behalf of
+Rwanda.  They were joined on the U.S. side by Assistant Secretary of
+State Monica Medina, Administrator of the National Aeronautics and Space
 Administration (NASA), Bill Nelson, and Executive Secretary of the
 National Space Council, Chirag Parikh.  With their signatures, 23
 nations have signed the Artemis Accords.  
