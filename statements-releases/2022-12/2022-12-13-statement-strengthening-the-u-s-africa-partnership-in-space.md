@@ -1,6 +1,6 @@
 ---
 date: '2022-12-13'
-modified_time: 2022-12-14 00:10:03-05:00
+modified_time: 2022-12-14 09:08:02-05:00
 published_time: 2022-12-13 09:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/statement-strengthening-the-u-s-africa-partnership-in-space/
 tags: statements-releases
@@ -51,11 +51,12 @@ announced new investments in the U.S.-Africa partnership, including: 
     drought risk protection, forest management, and renewable energy. 
     Kenyan company ZEP-RE just announced that it will use Planet’s
     satellite imagery as it works with the World Bank on drought risk
-    protection in the Horn of Africa. In furtherance of Nigeria’s goal
-    of providing all of its citizens broadband access by 2025, Nigeria
-    announced that SpaceX’s high-speed, low latency broadband service
-    Starlink is now available in the country, making Nigeria the first
-    country in Africa where Starlink is available.
+    protection in the Horn of Africa.
+-   In furtherance of Nigeria’s goal of providing all of its citizens
+    broadband access by 2025, Nigeria announced that SpaceX’s
+    high-speed, low latency broadband service Starlink is now available
+    in the country, making Nigeria the first country in Africa where
+    Starlink is available.
 -   Zipline is drawing upon space data to expand its aerial logistics
     services to more government sectors in Rwanda, including the health,
     agriculture, finance, e-commerce and tourism divisions, and will
