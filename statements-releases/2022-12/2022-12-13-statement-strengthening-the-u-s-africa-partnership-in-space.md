@@ -1,6 +1,6 @@
 ---
 date: '2022-12-13'
-modified_time: 2022-12-13 11:34:18-05:00
+modified_time: 2022-12-14 00:10:03-05:00
 published_time: 2022-12-13 09:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/statement-strengthening-the-u-s-africa-partnership-in-space/
 tags: statements-releases
@@ -59,7 +59,6 @@ announced new investments in the U.S.-Africa partnership, including: 
 -   Zipline is drawing upon space data to expand its aerial logistics
     services to more government sectors in Rwanda, including the health,
     agriculture, finance, e-commerce and tourism divisions, and will
-    conduct more than two million instant deliveries across Rwanda by
-    2029.
+    conduct nearly two million instant deliveries across Rwanda by 2029.
 
 \###
