@@ -1,6 +1,6 @@
 ---
 date: '2022-12-14'
-modified_time: 2022-12-14 14:36:00-05:00
+modified_time: 2022-12-14 16:05:15-05:00
 published_time: 2022-12-14 15:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/president-biden-announces-presidential-delegation-to-qatar-to-attend-the-closing-ceremonies-of-the-2022-fifa-world-cup/
 tags: statements-releases
@@ -10,7 +10,7 @@ title: "President\_Biden Announces Presidential Delegation to Qatar to Attend th
  
 President Joseph R. Biden, Jr. today announced the designation of a
 Presidential Delegation to the State of Qatar to attend the Closing
-Ceremonies of the 2022 FIFA World Cupon December 18, 2022, in Doha.
+Ceremonies of the 2022 FIFA World Cup on December 18, 2022, in Doha.
 
 The Honorable Linda Thomas-Greenfield, United States Ambassador to the
 United Nations, will lead the delegation.
