@@ -1,6 +1,6 @@
 ---
 date: '2022-12-15'
-modified_time: 2022-12-14 19:44:31-05:00
+modified_time: 2022-12-15 10:31:06-05:00
 published_time: 2022-12-15 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/
 tags: statements-releases
@@ -53,8 +53,9 @@ easy and free access to COVID-19 tests in the winter months.
     low-vision through this program. People who have difficulty
     accessing the internet or need additional support placing an order
     can call 1-800-232-0233 (TTY 1-888-720-7489) to get help in English,
-    Spanish, and more than 150 other languages – 8:00 a.m. to midnight
-    E.T., seven days a week. For more information, people can visit
+    Spanish, and more than 150 other languages – 8:00 a.m. to 8:00 p.m.
+    E.T., Monday to Friday and 8:00 a.m. to 5:00 p.m. E.T. on weekends.
+    For more information, people can visit
     [www.COVIDTests.gov](http://www.COVIDTests.gov).    
 -   **Distributing more free tests to Americans at trusted locations.**
     In addition to continuing to support access to free COVID-19 tests
