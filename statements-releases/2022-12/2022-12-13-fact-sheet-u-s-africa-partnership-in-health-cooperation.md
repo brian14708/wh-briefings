@@ -1,6 +1,6 @@
 ---
 date: '2022-12-13'
-modified_time: 2022-12-16 18:27:50-05:00
+modified_time: 2022-12-17 08:31:17-05:00
 published_time: 2022-12-13 08:02:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/
 tags: statements-releases
@@ -202,12 +202,12 @@ actions to advance pandemic preparedness and response include:
     industrial-scale facility. 
 -   **Harnessing Data Science for Health Discovery and Innovation in
     Africa (DS-I Africa)** was established in 2021, and since the
-    beginning of the Administration NIH has invested $49 million since
-    the beginning of the Administration to leverage data science
-    technologies to develop solutions to the continent’s most pressing
-    public health problems.  NIH is expanding DS-I Africa through new
-    educational activities that enhance workforce training to meet the
-    biomedical, behavioral and clinical needs.
+    beginning of the Administration NIH has invested $49 million to
+    leverage data science technologies to develop solutions to the
+    continent’s most pressing public health problems.  NIH is expanding
+    DS-I Africa through new educational activities that enhance
+    workforce training to meet the biomedical, behavioral and clinical
+    research needs.
 -   **The STOP Program (STOP),** which has been active in nearly every
     African country over the life of the program, is a collaboration
     between CDC, WHO, and UNICEF to strengthen national immunization
