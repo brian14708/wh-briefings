@@ -1,6 +1,6 @@
 ---
 date: '2022-12-13'
-modified_time: 2022-12-13 07:59:47-05:00
+modified_time: 2022-12-16 18:27:50-05:00
 published_time: 2022-12-13 08:02:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/
 tags: statements-releases
@@ -189,15 +189,17 @@ actions to advance pandemic preparedness and response include:
         recent tenders related to manufacturing on the continent led to
         an estimated **30 percent of PMI’s 2023 standard mosquito net
         procurement being sourced from African-based manufacturers**.
--   **Senegal Institut Pasteur de Dakar (IPD) Flexible Vaccine
-    Manufacturing Facility.** The U.S. International Development Finance
-    Corporation (DFC), along with International Finance Corporation
-    (IFC) and other like-minded development finance institutions, is
-    continuing to support IPD in Senegal to become a key hub in the
-    African Union’s vaccine production network.  DFC previously provided
-    a $3.3 million technical assistance grant for early-stage project
-    development and is evaluating additional financing for expansion of
-    the industrial-scale facility. 
+-   **[Senegal Institut Pasteur de Dakar (IPD) Flexible Vaccine
+    Manufacturing
+    Facility.](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/)** The
+    U.S. International Development Finance Corporation (DFC), along with
+    International Finance Corporation (IFC) and other like-minded
+    development finance institutions, is continuing to support IPD in
+    Senegal to become a key hub in the African Union’s vaccine
+    production network.  DFC previously provided a $3.3 million
+    technical assistance grant for early-stage project development and
+    is evaluating additional financing for expansion of the
+    industrial-scale facility. 
 -   **Harnessing Data Science for Health Discovery and Innovation in
     Africa (DS-I Africa)** was established in 2021, and since the
     beginning of the Administration NIH has invested $49 million since
@@ -293,5 +295,9 @@ partner as we work together to develop new and innovative solutions to
 prevent, detect and treat cancer.  Efforts to strengthen health systems
 and public health infrastructure, as well as investments by the private
 sector, will also help end cancer as we know it.
+
+[*Learn more about the U.S.-Africa Partnership on Cancer Prevention,
+Detection, Treatment and
+Research*](https://www.whitehouse.gov/ostp/news-updates/2022/12/14/fact-sheet-cancer-moonshot-announces-new-actions-aimed-to-reduce-the-cancer-burden-in-africa-as-part-of-the-u-s-africa-leaders-summit/)
 
 \###

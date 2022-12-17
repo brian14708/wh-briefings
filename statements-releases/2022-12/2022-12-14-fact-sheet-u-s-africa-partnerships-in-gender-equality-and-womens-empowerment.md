@@ -1,6 +1,6 @@
 ---
 date: '2022-12-14'
-modified_time: 2022-12-14 12:03:12-05:00
+modified_time: 2022-12-16 18:18:43-05:00
 published_time: 2022-12-14 12:03:11-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnerships-in-gender-equality-and-womens-empowerment/
 tags: statements-releases
@@ -65,11 +65,11 @@ announced plans to provide $1 million for AWEP, which will provide small
 grants to train women entrepreneurs and support women-owned businesses
 in sub-Saharan Africa.  
   
-**Accelerating Women’s Participation in** **Green Jobs:** The Department
-of State will launch the Accelerating Women’s Empowerment in Energy
-(AWEE) project with an initial investment of $1 million to help secure
-women’s economic future through green jobs, with a focus on Kenya and
-South Africa.  The program will provide grants to local organizations to
+**Accelerating Women’s Participation in Green Jobs:** The Department of
+State will launch the Accelerating Women’s Empowerment in Energy (AWEE)
+project with an initial investment of $1 million to help secure women’s
+economic future through green jobs, with a focus on Kenya and South
+Africa.  The program will provide grants to local organizations to
 address barriers to women’s entry, promotion, and retention in the
 workforce.  USAID Power Africa is launching a new activity to support
 women’s participation in the energy sector in Nigeria through training
@@ -123,8 +123,9 @@ USAID Administrator Power announced at the Civil Society Forum the
 launch of the Transform Digital Spaces program. Working with Congress,
 the program plans to invest $1.3 million to pilot practical activities
 in Africa to prevent, respond to, and mitigate the risk of technology
-facilitated gender-based violence, including perpetrated against women
-in politics and public life.  
+facilitated gender-based violence, [including perpetrated against women
+in politics and public
+life](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-in-promoting-peace-security-and-democratic-governance/).  
   
 **Combating Gender-Based Violence in the Workplace: ** Earlier this
 year, MCC signed a new Compact with Malawi, which includes a $4 million
@@ -136,7 +137,7 @@ traders.  This program will work with market committees, NGOs, and
 various public sector stakeholders to identify effective regulatory
 mechanisms across the 5-year Compact period.  
   
-**Strengthening Respect for Human Rights of** **Women:** Working with
+**Strengthening Respect for Human Rights of Women:** Working with
 Congress, the State Department will launch the Holding Rights, Leading
 for Rights initiative with a $1 million investment to increase the
 resources and technical capacity of women with disabilities in West
@@ -159,18 +160,18 @@ the Administration plans to work with Congress to invest $1.33 billion
 annually from 2022 to 2024 in the health workforce in the Africa region,
 for a total of at least $4 billion by Fiscal Year 2025.  
   
-**Improving Health System Resilience by Investing in Women-Led**
-**Funds:**  DFC and USAID will partner with the Transform Health Fund, a
-majority women-led fund that brings together government, donor, and
-commercial investments under the leadership of AfricInvest and the
-Health Finance Coalition to finance enterprises that improve health
-system resilience and pandemic preparedness across the continent. DFC
-and USAID will finalize $10 million in equity financing and $1 million
-in catalytic grant funding respectively. The Fund will also promote
-women in leadership positions across its pipeline and target female
-consumers while ensuring that at least 30% of its portfolio is aligned
-with 2X criteria, DFCs flagship program to support women’s economic
-empowerment in emerging markets.  
+**Improving Health System Resilience by Investing in Women-Led Funds:** 
+DFC and USAID will partner with the Transform Health Fund, a majority
+women-led fund that brings together government, donor, and commercial
+investments under the leadership of AfricInvest and the Health Finance
+Coalition to finance enterprises that improve health system resilience
+and pandemic preparedness across the continent. DFC and USAID will
+finalize $10 million in equity financing and $1 million in catalytic
+grant funding respectively. The Fund will also promote women in
+leadership positions across its pipeline and target female consumers
+while ensuring that at least 30% of its portfolio is aligned with 2X
+criteria, DFCs flagship program to support women’s economic empowerment
+in emerging markets.  
   
 **<u>Women, Peace, and Security</u>**  
   

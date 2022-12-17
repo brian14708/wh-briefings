@@ -1,10 +1,10 @@
 ---
 date: '2022-12-14'
-modified_time: 2022-12-14 11:49:22-05:00
+modified_time: 2022-12-16 18:21:14-05:00
 published_time: 2022-12-14 12:02:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/
 tags: statements-releases
-title: "FACT SHEET:  U.S.- Africa Partnership in Promoting Two-Way Trade and Investment\
+title: "FACT SHEET: U.S.- Africa Partnership in Promoting Two-Way Trade and Investment\
   \ in\_Africa"
 ---
  
@@ -169,5 +169,9 @@ initiatives and investments to promote two-way trade and investment:
     encourage financing of commercial exports of U.S. agricultural
     products through the Export Credit Guarantee Program by reducing
     financial risk to lenders and facilitating trade.
+
+[*The full list of private sector commitments made at the U.S.-Africa
+Business Forum can be accessed
+here*](https://www.prosperafrica.gov/u-s-africa-leaders-summit-business-forum-comittments/)*.*
 
 \###
