@@ -1,6 +1,6 @@
 ---
 date: '2022-12-27'
-modified_time: 2022-12-27 13:42:43-05:00
+modified_time: 2022-12-28 14:16:04-05:00
 published_time: 2022-12-27 13:42:42-05:00
 source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/27/bills-signed/
 tags: legislation
@@ -416,8 +416,8 @@ of 2022,” which directs the Secretary of the Interior to establish a
 Saline Lake Ecosystems in the Great Basin States Assessment and
 Monitoring Program to assess and monitor saline lake ecosystems;  
   
-Thank you to Senators Merkley and Rosen, and Representatives Blake Moore
-and Huffman, and many others for their leadership.  
+Thank you to Senators Merkley, Rosen, and Romney, and Representatives
+Blake Moore and Huffman, and many others for their leadership.  
   
 S. 1687, the “Small Business Cyber Training Act of 2022,” which requires
 the Small Business Administration to establish a cyber counseling
