@@ -1,6 +1,6 @@
 ---
 date: '2022-12-27'
-modified_time: 2022-12-28 14:16:04-05:00
+modified_time: 2022-12-29 09:24:23-05:00
 published_time: 2022-12-27 13:42:42-05:00
 source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/27/bills-signed/
 tags: legislation
@@ -194,10 +194,11 @@ South Carolina, as the Caesar H. Wright Jr. Post Office Building;
 Thank you to Representative Nancy Mace, Senators Graham and Tim Scott,
 and the South Carolina delegation for their leadership.  
   
-H.R. 6064, which amends the method by which the Department of Veterans
-Affairs determines the effects of a closure or disapproval of an
-educational institution on individuals who do not transfer credits from
-such an institution;  
+H.R. 6064, which requires the Department of Veterans Affairs to seek to
+enter into an agreement with the National Academies of Sciences,
+Engineering, and Medicine for a review of VA’s examinations of
+disability compensation claims for mental and physical conditions linked
+to military sexual trauma;  
   
 Thank you to Representatives Nehls, Bost, Luria, Bergman, Ellzey,
 Miller-Meeks, and many others for their leadership.  
