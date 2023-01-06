@@ -1,6 +1,6 @@
 ---
 date: '2023-01-05'
-modified_time: 2023-01-05 14:11:16-05:00
+modified_time: 2023-01-05 19:23:12-05:00
 published_time: 2023-01-05 15:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/05/president-biden-announces-key-regional-appointments-for-gsa-hhs/
 tags: statements-releases
@@ -12,9 +12,9 @@ individuals to serve in key regional leadership roles at the General
 Services Administration (GSA) and the Department of Health and Human
 Services (HHS):
 
--   Elliot Doomes, GSA Regional Administrator, Zone B
--   Jason Shelton, GSA Regional Administrator, Zone C
--   Sukhee Kang, GSA Regional Administrator, Zone E
+-   Elliot Doomes, GSA Regional Administrator for Region 11
+-   Jason Shelton, GSA Regional Administrator for Regions 4 and 7
+-   Sukhee Kang, GSA Regional Administrator for Regions 9 and 10
 -   Everett Handford, HHS Regional Director, Region 1 
 -   Jeffrey Reynoso, HHS Regional Director, Region 9 
 
@@ -38,7 +38,7 @@ relationships that promote sustainability, strengthen American
 manufacturing and job creation, ensure equity for underrepresented
 populations and stakeholders, and more.
 
-**<u>Elliot Doomes, GSA Regional Administrator, Zone B</u>**
+**<u>Elliot Doomes, GSA Regional Administrator, Region 11</u>**
 
 Elliot Doomes previously served as Professional Staff on the Financial
 Services and General Government Subcommittee of the Appropriations
@@ -60,10 +60,10 @@ Columbia. Doomes graduated from Morehouse College with a Bachelor of
 Science in Chemistry and earned a Juris Doctorate from the Georgetown
 University Law Center in Washington, DC.
 
-Zone B serves Maryland, Virginia, DC, Europe, Africa, and the Middle
+Region 11 serves Maryland, Virginia, DC, Europe, Africa, and the Middle
 East.
 
-**<u>Jason Shelton, GSA Regional Administrator, Zone C</u>**
+**<u>Jason Shelton, GSA Regional Administrator, Regions 4 and 7</u>**
 
 Jason L. Shelton has been a licensed attorney for 23 years, with direct
 legal experience as a civil trial attorney, criminal prosecutor,
@@ -83,11 +83,11 @@ in office, Shelton’s tenure as mayor concluded in July 2021. Shelton is
 licensed to practice law in Mississippi and Alabama and is admitted to
 practice in multiple state and federal courts.
 
-Zone C serves Alabama, Florida, Georgia, Kentucky, Mississippi, North
-Carolina, South Carolina, Tennessee, Texas, Louisiana, Arkansas,
+Regions 4 and 7 serve Alabama, Florida, Georgia, Kentucky, Mississippi,
+North Carolina, South Carolina, Tennessee, Texas, Louisiana, Arkansas,
 Oklahoma, and New Mexico.
 
-**<u>Sukhee Kang, GSA Regional Administrator, Zone E</u>**
+**<u>Sukhee Kang, GSA Regional Administrator, Regions 9 and 10</u>**
 
 Sukhee Kang is a businessman, civic leader, and former city
 councilmember and two-term mayor of Irvine, California. Born and raised
@@ -109,8 +109,8 @@ Possibility — My American Journey* and was honored for his community
 leadership and citizenship by the Carnegie Corporation of New York with
 their annual “Immigrants: The Pride of America” designation.
 
-Zone E serves Arizona, California, Nevada, Alaska, Idaho, Oregon,
-Washington, American Samoa, East Asia, and Guam. 
+Regions 9 and 10 serve Arizona, California, Nevada, Alaska, Idaho,
+Oregon, Washington, American Samoa, East Asia, and Guam. 
 
 **<u>DEPARTMENT OF HEALTH AND HUMAN SERVICES (HHS)</u>** 
 
