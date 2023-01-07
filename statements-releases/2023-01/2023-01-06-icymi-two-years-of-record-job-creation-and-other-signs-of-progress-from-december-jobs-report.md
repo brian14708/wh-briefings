@@ -1,6 +1,6 @@
 ---
 date: '2023-01-06'
-modified_time: 2023-01-07 13:24:14-05:00
+modified_time: 2023-01-07 13:36:20-05:00
 published_time: 2023-01-06 12:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/
 tags: statements-releases
@@ -21,7 +21,7 @@ all the historic gains achieved for American workers. 
 -   The unemployment rate is at the **lowest level in 50 years.**
 -   Unemployment is **near record lows for Black and Hispanic
     Americans.**
--   The unemployment rate is **at a record low for people with
+-   The unemployment rate is at a** record low for people with
     disabilities.**
 -   Hourly **wages were up** 0.3% in December, following five months in
     which real wages rose.
