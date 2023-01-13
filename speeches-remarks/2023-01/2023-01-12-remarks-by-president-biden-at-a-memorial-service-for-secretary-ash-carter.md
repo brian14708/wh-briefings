@@ -1,14 +1,14 @@
 ---
 date: '2023-01-12'
-modified_time: 2023-01-12 16:28:59-05:00
+modified_time: 2023-01-12 17:37:21-05:00
 published_time: 2023-01-12 16:28:58-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/12/remarks-by-president-biden-at-a-memorial-service-for-secretary-ash-carter/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Memorial Service for Secretary Ash\_Carter"
 ---
  
-South Court Auditorium  
-Eisenhower Executive Office Building
+Washington National Cathedral  
+Washington, D.C.
 
 11:41 A.M. EST
 
