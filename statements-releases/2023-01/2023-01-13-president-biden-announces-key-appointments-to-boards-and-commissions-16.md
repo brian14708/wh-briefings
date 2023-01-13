@@ -1,6 +1,6 @@
 ---
 date: '2023-01-13'
-modified_time: 2023-01-13 10:52:03-05:00
+modified_time: 2023-01-13 16:37:08-05:00
 published_time: 2023-01-13 15:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/13/president-biden-announces-key-appointments-to-boards-and-commissions-16/
 tags: statements-releases
@@ -201,7 +201,7 @@ educational task of the Minority Leaders Program at Universal Technology
 Corporation co-located at AFRL Wright-Patterson Airforce Base, which
 fosters HBCU and Hispanic University Minority students’ graduate
 engineering degrees; and held a research faculty position at Georgia
-Tech University.
+Tech.
 
 She has authored more than 30 open literature publications, holds
 multiple U.S. patents, and has received numerous awards. She has served
