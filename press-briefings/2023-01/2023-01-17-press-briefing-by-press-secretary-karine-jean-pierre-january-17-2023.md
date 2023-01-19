@@ -1,5 +1,6 @@
 ---
 date: '2023-01-17'
+modified_time: 2023-01-18 22:56:18-05:00
 published_time: 2023-01-17 18:00:57-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/17/press-briefing-by-press-secretary-karine-jean-pierre-january-17-2023/
 tags: press-briefings
@@ -182,7 +183,7 @@ investors, and stop payments for border security, food safety, nursing
 homes, school lunches, the FAA, drug enforcement, and other programs
 Americans rely on every single day.   
   
-This so-called “privatization” scheme makes Republicans’ priorities
+This so-called “prioritization” scheme makes Republicans’ priorities
 pretty clear — crystal clear, if I may add.  They want to put wealthy
 bondholders over ordinary Americans who want safe food, safe skies, safe
 communities, and secure borders.   
