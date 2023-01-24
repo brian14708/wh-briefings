@@ -1,6 +1,6 @@
 ---
 date: '2023-01-23'
-modified_time: 2023-01-23 16:31:21-05:00
+modified_time: 2023-01-24 12:35:38-05:00
 published_time: 2023-01-23 16:45:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/23/president-biden-announces-key-nominees-36/
 tags: statements-releases
@@ -268,6 +268,9 @@ markets. The World Economic Forum named her a Young Global Leader in
 2013. She holds a B.A. in economics from Swarthmore College and an
 M.P.P. from the Harvard Kennedy School.
 
+*Escobari will continue serving in their Senate confirmed role while
+nominated and if confirmed*
+
 **<u>Maria Fabiana Jorge, Nominee for Member of the Inter-American
 Foundation</u>**
 
@@ -295,6 +298,9 @@ is fluent in Spanish and French and has working knowledge of Portuguese.
 She moved to the United States over 30 years ago and resides in
 Washington, DC with her husband Doug and three kids, Christopher,
 Phillip, and Nicole.
+
+*Fabiana Jorge will continue serving in their Senate confirmed role
+while nominated and if confirmed*
 
 **<u>Brian Nichols, Nominee for Member of the Inter-American
 Foundation</u>**
@@ -328,6 +334,9 @@ Island, Nichols has earned 27 awards during his diplomatic career,
 including a Presidential Distinguished Service Award, two Presidential
 Meritorious Service Awards, and the 2016 Charles E. Cobb, Jr. Award for
 Initiative and Success in Trade Development.
+
+*Nichols will continue serving in their Senate confirmed role while
+nominated and if confirmed*
 
 **<u>Julio Guity-Guevara, Nominee for Member of the Inter-American
 Foundation</u>**
