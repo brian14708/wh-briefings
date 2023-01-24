@@ -1,6 +1,6 @@
 ---
 date: '2023-01-24'
-modified_time: 2023-01-24 13:14:41-05:00
+modified_time: 2023-01-24 17:01:07-05:00
 published_time: 2023-01-24 13:30:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/24/fact-sheet-biden-harris-administration-expands-access-to-capital-and-support-for-small-businesses/
 tags: statements-releases
@@ -80,22 +80,21 @@ number of steps:
     employees to take ownership in a small business.  
 -   Implementing the State Small Business Credit Initiative (SSBCI): The
     Treasury Department has implemented the American Rescue Plan’s SSBCI
-    which provides $10 billion to states, the District of Columbia,
-    territories, and Tribal governments to expand access to capital for
-    small businesses, build ecosystems of opportunity and
+    which provides nearly $10 billion to states, the District of
+    Columbia, territories, and Tribal governments to expand access to
+    capital for small businesses, build ecosystems of opportunity and
     entrepreneurship, and create new jobs and economic
     opportunity—especially in underserved communities still reeling from
     the effects of the pandemic. SSBCI provides funding for credit and
     investment programs for existing small businesses, and technical
-    assistant to small businesses applying for SSBCI funding and other
-    government small business programs. With a focus on equity and
-    reaching underserved communities, SSBCI allocates $2.5 billion in
-    funding and incentives for businesses owned by socially and
-    economically disadvantaged individuals. These federal investments
-    are designed to catalyze $10 of small business lending and
-    investment for every $1 of SSBCI funding which will result in tens
-    of billions of new small business financing across the country
-    before 2030.
+    assistance to small businesses applying for SSBCI funding and other
+    government small business support programs. With a focus on equity
+    and reaching underserved communities, SSBCI allocates $2.5 billion
+    in funding and incentives for underserved businesses. These federal
+    investments are designed to catalyze up to $10 of small business
+    lending and investment for every $1 of SSBCI funding which will
+    result in tens of billions of new small business financing across
+    the country before 2030.
 
 **Making Historic Investments in Support Services for Small
 Businesses:**
@@ -110,10 +109,11 @@ That includes:
 -   Emergency Capital Investment Program (ECIP).  In 2022, Treasury
     closed and funded approximately $8.38 billion in investments with
     170 institutions through ECIP. ECIP investments are supporting the
-    efforts of community financial institutions to provide loans,
-    grants, and other assistance to small and minority-owned businesses
-    and consumers, especially in low-income and financially underserved
-    communities that struggled during the pandemic.  
+    efforts of community financial institutions — including CDFIs and
+    MDIs — to provide loans, grants, and other assistance to small and
+    minority-owned businesses and consumers, especially in low-income
+    and financially underserved communities that struggled during the
+    pandemic.  
 -   Wide Ranging Investments by the CDFI Fund. In 2022, the CDFI Fund
     deployed significant funds to provide capital to traditionally
     underserved communities including $5 billion in New Market Tax
@@ -128,11 +128,11 @@ That includes:
     announced the availability of $200 million specifically to support
     small business technical assistance for states, the District of
     Columbia, territories, and Tribal governments that are participating
-    in SSBCI. Treasury has also announced a nearly $100 million Capital
-    Readiness Program, a grant program funded as part of SSBCI to help
-    minority and other underserved entrepreneurs that will be
-    administered by the Minority Business Development Agency (MBDA) at
-    the Department of Commerce.   
+    in SSBCI. The Department of Commerce has also announced a nearly
+    $100 million Capital Readiness Program, a grant program funded as
+    part of SSBCI to help minority and other underserved entrepreneurs
+    that will be administered by the Minority Business Development
+    Agency (MBDA).   
 -   SBA Community Navigators Program: In 2021, SBA awarded a $100
     million in grant funding to organizations in all 50 states and
     Puerto Rico that are working to close resource gaps for U.S small
