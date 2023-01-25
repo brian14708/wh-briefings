@@ -1,6 +1,6 @@
 ---
 date: '2023-01-25'
-modified_time: 2023-01-25 12:16:05-05:00
+modified_time: 2023-01-25 17:19:06-05:00
 published_time: 2023-01-25 12:16:04-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/readout-of-roundtable-on-capital-access-for-small-businesses/
 tags: statements-releases
@@ -10,13 +10,13 @@ title: "Readout of Roundtable on Capital Access for Small\_Businesses"
 Yesterday, the Administrator of the Small Business Administration (SBA)
 Isabel Guzmán, the Deputy Secretary of the Treasury Wally Adeyemo,
 American Rescue Plan Coordinator Gene Sperling, and Deputy Director of
-the National Economic Council Bharat Ramamurti were joined by Senator
-Hickenlooper and small business leaders, advocates, and mission lenders
-with particular expertise in reaching minority small businesses to
-discuss the Biden-Harris Administration’s small business agenda to
-expand capital access, including newly proposed rules from the SBA and
-historic investments by the Treasury Department in CDFIs. The group
-included non-profit mission lender groups, Community Development
+the National Economic Council Bharat Ramamurti were joined by U.S.
+Senator John Hickenlooper (D-CO) and small business leaders, advocates,
+and mission lenders with particular expertise in reaching minority small
+businesses to discuss the Biden-Harris Administration’s small business
+agenda to expand capital access, including newly proposed rules from the
+SBA and historic investments by the Treasury Department in CDFIs. The
+group included non-profit mission lender groups, Community Development
 Financial Institutions (CDFIs), foundations, and advocacy groups all
 seasoned in meeting the needs of historically underserved small business
 owners.
@@ -39,19 +39,18 @@ as the primary lender for minority-owned businesses.
 Administrator Guzmán provided an overview of her capital access reform
 agenda for the SBA. This included the proposal to lift the moratorium on
 Small Business Lending Company (SBLC) licenses, proposed reforms to the
-Small Business Investment Company (SBIC), and proposed streamlining and
-modernization of the affiliation, lending criteria, and employee
-ownership requirements for the SBA’s Business Loan Programs. The
-proposed SBLC rule would allow SBA to pilot this expansion of lending
-activity while ensuring proper lender engagement and protection
+Small Business Investment Company (SBIC) Program, and proposed
+streamlining and modernization of the affiliation, lending criteria, and
+employee ownership requirements for the SBA’s Business Loan Programs.
+The proposed SBLC rule would allow SBA to pilot this expansion of
+lending activity while ensuring proper lender engagement and protection
 protocols. The Administrator identified the priority for these new SBLC
 licenses to focus on a diverse representation of lenders that
-responsibly meet particularly acute small business capital needs such as
-small dollar lenders, minority businesses, and rural communities. In
-addition, later this year SBA plans to launch significant technological
-improvements to their small business borrower-lender matching tool,
-improving the experience and ease of matching potential borrower and
-lenders.
+responsibly meet the capital needs of the smallest businesses, minority
+businesses, and rural communities. In addition, later this year SBA
+plans to launch significant technological improvements to its small
+business borrower-lender matching tool, improving the experience and
+ease of matching potential borrower and lenders.
 
 The Deputy Secretary spoke to the historic cooperation in the
 Biden-Harris Administration between agencies to support underserved
@@ -80,10 +79,10 @@ protections. Another leading small business advocate highlighted how the
 expansion of SBLC licenses would allow for a diversification of lending
 options, including mission lenders and responsible fintech options, to
 fill acute capital gaps and commended the SBA’s borrower protection
-principles. Multiple participants highlighted the important of making
+principles. Multiple participants highlighted the importance of making
 sure capital allocators reflect the diversity of America and its small
-businesses owners. The group discussed the critical opportunity presents
-to expand the use of technology to scale lending operations, alternative
+businesses owners. The group discussed the critical opportunity to
+expand the use of technology to scale lending operations, alternative
 underwriting models, and technical assistance delivery.
 
 \###

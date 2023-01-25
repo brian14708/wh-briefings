@@ -1,6 +1,6 @@
 ---
 date: '2023-01-25'
-modified_time: 2023-01-24 22:35:08-05:00
+modified_time: 2023-01-25 17:06:58-05:00
 published_time: 2023-01-25 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/
 tags: statements-releases
@@ -15,7 +15,7 @@ Today, the Biden-Harris Administration is announcing new actions to
 increase fairness in the rental market and further principles of fair
 housing. These actions align with a new *[Blueprint for a Renters Bill
 of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf)*
+Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*
 that the Administration is also releasing today. The Blueprint lays out
 a set of principles to drive action by the federal government, state and
 local partners, and the private sector to strengthen tenant protections
