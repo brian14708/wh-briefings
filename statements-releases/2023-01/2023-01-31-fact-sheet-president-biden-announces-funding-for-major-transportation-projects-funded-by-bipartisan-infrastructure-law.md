@@ -1,6 +1,6 @@
 ---
 date: '2023-01-31'
-modified_time: 2023-01-30 18:59:01-05:00
+modified_time: 2023-01-31 12:54:03-05:00
 published_time: 2023-01-31 05:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/31/fact-sheet-president-biden-announces-funding-for-major-transportation-projects-funded-by-bipartisan-infrastructure-law/
 tags: statements-releases
@@ -149,10 +149,10 @@ are receiving Mega grant awards including:
     corridor from the Addison to Fullerton rail bridges, replacing
     approximately 11 bridges, 4 miles of track structure, and more than
     1.75 miles of retaining walls along Metra’s UP-N line;
--   $110 to the North Carolina Department of Transportation to replace
-    **the Alligator River Bridge** on U.S. Highway 64 with a modern
-    high-rise fixed span bridge along the primary east-west route in
-    northeastern North Carolina between I-95 and the Outer Banks;
+-   $110 million to the North Carolina Department of Transportation to
+    replace **the Alligator River Bridge** on U.S. Highway 64 with a
+    modern high-rise fixed span bridge along the primary east-west route
+    in northeastern North Carolina between I-95 and the Outer Banks;
 -   $85 million to the Oklahoma Department of Transportation **for I-44
     and US-75 improvements** along a critical urban freight corridor
     near Tulsa, including vehicular, pedestrian and bicycle
