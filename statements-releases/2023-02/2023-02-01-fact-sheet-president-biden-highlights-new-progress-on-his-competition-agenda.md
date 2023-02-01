@@ -1,6 +1,6 @@
 ---
 date: '2023-02-01'
-modified_time: 2023-01-31 20:02:25-05:00
+modified_time: 2023-02-01 08:31:35-05:00
 published_time: 2023-02-01 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/
 tags: statements-releases
@@ -15,15 +15,20 @@ As part of the fourth meeting of the President’s Competition Council,
 the Biden-Harris Administration is announcing two actions that further
 advance the President’s agenda of promoting competition in the American
 economy. First, the Consumer Financial Protection Bureau (CFPB) is
-proposing a rule that would slash excessive credit card late fees,
-pursuant to its authority under the bipartisan Credit CARD Act of
-2009. **The rule is projected to reduce typical late fees from roughly
-$30 to $8, saving consumers as much as $9 billion a year in late fees**.
-Second, the Department of Commerce’s National Telecommunications and
-Information Administration (NTIA) is releasing a report assessing the
-barriers to competition in the current mobile app store ecosystem and
-providing recommendations to level the playing field for app developers
-and give consumers more control over their devices.
+[proposing a
+rule](https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-rein-in-excessive-credit-card-late-fees/)
+that would slash excessive credit card late fees, pursuant to its
+authority under the bipartisan Credit CARD Act of 2009. **The rule is
+projected to reduce typical late fees from roughly $30 to $8, saving
+consumers as much as $9 billion a year in late fees**. Second, the
+Department of Commerce’s National Telecommunications and Information
+Administration (NTIA) is [releasing a
+report](https://www.ntia.doc.gov/press-release/2023/ntia-calls-changes-boost-competition-mobile-app-markets)
+assessing the [barriers to
+competition](https://www.ntia.doc.gov/category/mobile-app-competition)
+in the current mobile app store ecosystem and providing recommendations
+to level the playing field for app developers and give consumers more
+control over their devices.
 
 The President will also highlight the Administration’s steady progress
 in eliminating or limiting junk fees: those hidden or unexpected fees
