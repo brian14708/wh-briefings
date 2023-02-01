@@ -1,5 +1,6 @@
 ---
 date: '2023-02-01'
+modified_time: 2023-02-01 16:04:25-05:00
 published_time: 2023-02-01 14:31:51-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/readout-of-white-house-state-legislative-convening-on-paid-leave/
 tags: statements-releases
@@ -36,7 +37,7 @@ family and medical leave throughout the country. 
 Participating state legislative leaders included:
 
 -   Illinois Representative Sonya Harper
--   Maine Representative Kristin Cloutier
+-   Maine Representative Kristen Cloutier
 -   Maine Senator Mattie Daughtry
 -   Michigan Representative Brenda Carter
 -   Michigan Representative Helena Scott
