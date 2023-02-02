@@ -1,6 +1,6 @@
 ---
 date: '2023-02-02'
-modified_time: 2023-02-02 00:47:25-05:00
+modified_time: 2023-02-02 07:49:58-05:00
 published_time: 2023-02-02 06:30:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-on-one-year-anniversary-of-reignited-cancer-moonshot-biden-harris-administration-announces-new-actions-to-end-cancer-as-we-know-it/
 tags: statements-releases
@@ -295,8 +295,7 @@ reignited Cancer Moonshot:**
     receiving screening for toxic exposure as of January 2023, and in
     November, VA announced it would expedite veterans’ benefits claims
     for cancers associated with the PACT Act, helping these veterans
-    gain more timely access to health care <s>benefits </s>and other
-    financial benefits.
+    gain more timely access to health care and other financial benefits.
 -   The Food and Drug Administration proposed rules prohibiting menthol
     cigarettes and flavored cigars that, if finalized, could avert up to
     654,000 smoking-related deaths, including approximately 238,000
