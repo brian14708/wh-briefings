@@ -1,6 +1,6 @@
 ---
 date: '2023-02-02'
-modified_time: 2023-02-02 22:52:09-05:00
+modified_time: 2023-02-03 11:37:05-05:00
 published_time: 2023-02-02 22:52:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-president-biden-announces-500-million-for-philadelphia-water-upgrades-and-lead-service-removal/
 tags: statements-releases
@@ -29,10 +29,8 @@ At the event in Philadelphia, the President will announce:
 -   The City of Philadelphia is slated to receive $160 million from the
     Commonwealth of Pennsylvania’s first of five years of Bipartisan
     Infrastructure Law water funding to help upgrade water facilities
-    and replace over 19 miles of lead service lines. To date, $240
-    million has been awarded to Pennsylvania to provide clean and safe
-    water across the state and improve water and wastewater
-    infrastructure through the Bipartisan Infrastructure Law;
+    and replace over 19 miles of water mains, and the lead service lines
+    and connections along those mains;
 -   A $340 million Water Infrastructure and Innovation Act (WIFIA) loan
     from EPA for the City of Philadelphia to upgrade its water system,
     including the first $19 million in financing that will help
