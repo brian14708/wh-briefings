@@ -1,6 +1,6 @@
 ---
 date: '2023-02-04'
-modified_time: 2023-02-04 14:45:16-05:00
+modified_time: 2023-02-05 00:41:26-05:00
 published_time: 2023-02-04 14:43:23-05:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2023/02/04/how-to-watch-president-bidens-2023-state-of-the-union-address/
 tags: blog
@@ -35,6 +35,6 @@ States Capitol on Tuesday, February 7, 2023 at 9 PM ET.
 
 ## What was in President Biden’s first State of the Union address?
 
-Visit [WH.gov/sotu](https://www.whitehouse.gov/sotu-2022) to view last
-year’s speech and full remarks. Or [read excerpts from his
+Visit [WH.gov/sotu-2022](https://www.whitehouse.gov/sotu-2022) to view
+last year’s speech and full remarks. Or [read excerpts from his
 address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery/).
