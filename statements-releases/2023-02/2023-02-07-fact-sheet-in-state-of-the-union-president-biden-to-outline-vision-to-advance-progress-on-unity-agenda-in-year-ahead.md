@@ -1,6 +1,6 @@
 ---
 date: '2023-02-07'
-modified_time: 2023-02-07 09:09:38-05:00
+modified_time: 2023-02-07 11:58:51-05:00
 published_time: 2023-02-07 10:30:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/
 tags: statements-releases
@@ -261,7 +261,7 @@ long-term dividends. The Biden-Harris Administration will:
     as geolocation and health information, and the burden must fall on
     companies – not consumers – to minimize how much information they
     collect. We must also demand [transparency about the
-    algorithms](https://www.whitehouse.gov/ostp/ai-bill-of-rights/notice-and-explanation/) companies
+    algorithm](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)[s](https://www.whitehouse.gov/ostp/ai-bill-of-rights/notice-and-explanation/) companies
     use that far too often discriminate against Americans and sow
     division. The President has called for imposing much stronger
     transparency requirements on Big Tech platforms and is calling for
