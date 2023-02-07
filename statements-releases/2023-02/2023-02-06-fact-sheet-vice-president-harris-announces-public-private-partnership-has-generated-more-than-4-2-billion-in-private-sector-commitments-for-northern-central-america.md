@@ -1,5 +1,6 @@
 ---
 date: '2023-02-06'
+modified_time: 2023-02-07 00:02:12-05:00
 published_time: 2023-02-06 11:15:17-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-vice-president-harris-announces-public-private-partnership-has-generated-more-than-4-2-billion-in-private-sector-commitments-for-northern-central-america/
 tags: statements-releases
@@ -114,7 +115,7 @@ commitments today:
 <!-- -->
 
 -   **Target** has committed to increase its spending by $300 million in
-    El Salvador, Guatemala, and Honduras by 2023. They will deepen
+    El Salvador, Guatemala, and Honduras by 2033. They will deepen
     existing relationships with vendors and intend to expand vendor
     relationships who have a presence in all three countries in the
     region.
