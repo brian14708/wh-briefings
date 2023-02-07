@@ -1,5 +1,6 @@
 ---
 date: '2023-02-07'
+modified_time: 2023-02-07 16:33:38-05:00
 published_time: 2023-02-07 13:18:22-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-the-biden-harris-administrations-work-to-make-our-communities-safer-and-advance-effective-accountable-policing/
 tags: statements-releases
@@ -93,7 +94,7 @@ systems that effectively integrate pre-trial services, judicial, and law
 enforcement records. In addition, the Plan would support
 district-specific violent crime strategies that involve close
 partnerships between federal, state, and local law enforcement, and
-would support crime-fighting technology such as ballistics matching
+would support crime-fighting technology such as ballistics matching and
 gunshot residue forensics technology.
 
 **<u>Investing in crime prevention and a fairer criminal justice

@@ -1,6 +1,6 @@
 ---
 date: '2023-02-07'
-modified_time: 2023-02-07 11:58:51-05:00
+modified_time: 2023-02-07 16:58:06-05:00
 published_time: 2023-02-07 10:30:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/
 tags: statements-releases
@@ -463,7 +463,7 @@ Administration will:
 
 -   Deliver more life-saving naloxone to communities hit hard by
     fentanyl. In late spring, HHS will take new steps to encourage and
-    aide states in their efforts to use existing funding to purchase
+    aid states in their efforts to use existing funding to purchase
     naloxone and distribute it in their communities. The Substance Abuse
     and Mental Health Services Administration (SAMHSA) will provide
     enhanced technical assistance to states who have existing State
@@ -515,10 +515,10 @@ the flow of illicit drugs like fentanyl. In his State of the Union
 today, President Biden will highlight a bipartisan effort that delivered
 on his promise by **passing the MAT Act**, which removed the X-waiver as
 a barrier for health care providers prescribing life-saving medications
-for opioid use disorder at a time when fewer than 1 out of Americans can
-access the treatment they need. President Biden also signed into law the
-Consolidated Appropriations Act that included a **two-year extension to
-classify fentanyl-related substances as Schedule I substances** under
+for opioid use disorder at a time when fewer than 1 out 10 of Americans
+can access the treatment they need. President Biden also signed into law
+the Consolidated Appropriations Act that included a **two-year extension
+to classify fentanyl-related substances as Schedule I substances** under
 the Controlled Substances Act, ensuring law enforcement has the tools
 they need to respond to the manufacture and trafficking of illicitly
 manufactured synthetic opioids driving the overdose epidemic.
