@@ -25,11 +25,11 @@
         },
         "aiofiles": {
             "hashes": [
-                "sha256:1142fa8e80dbae46bb6339573ad4c8c0841358f79c6eb50a493dceca14621bad",
-                "sha256:9107f1ca0b2a5553987a94a3c9959fe5b491fdf731389aa5b7b1bd0733e32de6"
+                "sha256:9312414ae06472eb6f1d163f555e466a23aed1c8f60c30cccf7121dba2e53eb2",
+                "sha256:edd247df9a19e0db16534d4baaf536d6609a43e1de5401d7a4c1c148753a1635"
             ],
             "index": "pypi",
-            "version": "==22.1.0"
+            "version": "==23.1.0"
         },
         "aiohttp": {
             "extras": [
