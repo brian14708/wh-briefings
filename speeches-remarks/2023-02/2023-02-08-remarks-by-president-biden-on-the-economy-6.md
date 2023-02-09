@@ -1,6 +1,6 @@
 ---
 date: '2023-02-08'
-modified_time: 2023-02-08 18:32:08-05:00
+modified_time: 2023-02-09 10:29:09-05:00
 published_time: 2023-02-08 18:32:07-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/08/remarks-by-president-biden-on-the-economy-6/
 tags: speeches-remarks
@@ -411,7 +411,7 @@ deal.”  (Applause.)  Well, I sure hope that’s true.  I’ll believe it
 when I see it and their budget is laid down with their cuts they’re
 proposing.
 
-But it looks like we negotiated a deal least night on the floor of the
+But it looks like we negotiated a deal last night on the floor of the
 House of Representatives.  (Laughter.)  Seriously.  You see them all
 standing up, saying, “We’re not going cut anything”?  Well, that’s
 good.  Because, by the way, we got a lot of good bipartisan stuff done
