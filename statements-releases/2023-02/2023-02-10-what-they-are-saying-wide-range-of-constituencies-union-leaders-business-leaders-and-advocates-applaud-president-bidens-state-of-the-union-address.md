@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-10 11:04:47-05:00
+modified_time: 2023-02-10 12:10:37-05:00
 published_time: 2023-02-10 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
@@ -386,8 +386,8 @@ economic downturn, as well as a wave of anti-Asian racism that left our
 community fearful and deeply hurt…”
 \[[Statement](https://www.ncapaonline.org/2023sotu/), 2/07/23\]
 
-**Juliet K. Choi, President and CEO, Asian & Pacific Islander Health
-Forum:** “asianWe echo President Biden’s declarations to continue the
+**Juliet K. Choi, President and CEO, Asian & Pacific Islander American
+Health Forum:** “We echo President Biden’s declarations to continue the
 path forward to expand health care access for all Americans, including
 protecting reproductive rights and the rights of LGBTQ+ Americans. This
 also includes support for the Cancer Moonshot, patients and their
