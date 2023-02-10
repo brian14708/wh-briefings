@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-10 12:10:37-05:00
+modified_time: 2023-02-10 14:00:09-05:00
 published_time: 2023-02-10 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
@@ -1160,16 +1160,6 @@ you @POTUS @JoeBiden ! For America to be Future Ready, we need to be
 Climate Ready…all while building economic prosperity and energy
 freedom/security for all”
 \[[Tweet](https://twitter.com/CLEOInstitute/status/1623149884256788481?cxt=HHwWgoC9xYmOy4YtAAAA),
-2/07/23\]
-
-***Immigration Advocates***
-
-**Jennie Murray, President and CEO, National Immigration Forum:** “We’re
-encouraged that the president addressed border challenges and the need
-for immigration reforms. Resources for the border and solutions for
-Dreamers, people with Temporary Protected Status and farmworkers are
-priorities for the president and Congress to address this year…”
-\[[Statement](https://immigrationforum.org/article/immigration-workforce-solutions-are-priorities-and-theyre-related/),
 2/07/23\]
 
 **Wisconsin Conservation Voters:** Deanna Branch is at tonight’s SOTU
