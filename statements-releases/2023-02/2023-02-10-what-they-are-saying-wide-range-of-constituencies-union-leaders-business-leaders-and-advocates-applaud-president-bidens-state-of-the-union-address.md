@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-11 12:21:23-05:00
+modified_time: 2023-02-11 15:16:19-05:00
 published_time: 2023-02-10 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
@@ -52,7 +52,7 @@ Bridge in Covington, Kentucky, a job supported by the Bipartisan
 Infrastructure Law. She had such an impact on the president and the Iron
 Workers Union she was invited to be a guest of First Lady Jill Biden at
 tonight’s address.”
-\[[Statement](http://ironworkers.org/press-room/2023/02/07/statement-from-general-president-eric-dean-on-ironworker-attending-the-state-of-the-union), 02/02/23\] 
+\[[Statement](http://ironworkers.org/press-room/2023/02/07/statement-from-general-president-eric-dean-on-ironworker-attending-the-state-of-the-union), 02/08/23\] 
 
 **Jimmy Williams, General President, Painters Union (IUPAT): “** In the
 first two years of the Biden Administration, we have seen what steady
@@ -135,7 +135,7 @@ that the Biden administration is delivering on those
 promises.” \[[Statement](https://smart-union.org/smart-statement-on-president-bidens-2023-state-of-the-union-address/),
 02/08/23\] 
 
-**Terry O’Sullivan, General President, LIUNA:** ” The Biden
+**Terry O’Sullivan, General President, LIUNA:** “The Biden
 Administration is delivering for working men and women through historic
 investments that are creating good, family-supporting jobs, measures
 reducing inflation reduction, and record-setting job growth, and wage
@@ -220,6 +220,15 @@ Congress have truly put working people first.”
 2/07/23\]
 
 ***Small Business***
+
+**Candace Waterman, President and CEO, Women Impacting Public Policy:**
+“Over the last two years, the Biden-Harris Administration has worked
+with Congress and across the aisle to advance important legislation,
+including the CHIPS & Science Act and the Bipartisan Infrastructure Law
+which have collectively authorized billions of dollars for federal
+contracting and procurement.”
+\[[Statement](https://www.publicprivatestrategies.com/national-business-leaders-small-business-owners-share-economic-outlook-after-sotu?emci=f1ede34f-54a7-ed11-994d-00224832eb73&emdi=c7ce58fe-63a7-ed11-994d-00224832eb73&ceid=354978),
+2/07/23\]
 
 **Chiling Tong, President and CEO, National Asian Pacific Islander
 American Chamber of Commerce and Entrepreneurship:** “National ACE
@@ -463,7 +472,7 @@ These policies are also a tremendous benefit for the Latino community…”
 \[[Statement](https://latinovictory.org/latino-victory-project-statement-following-president-bidens-state-of-the-union-address/),
 2/07/23\]
 
-**National Nat’l Hispanic Caucus of State Legislators:** “We support
+**National Hispanic Caucus of State Legislators:** “We support
 [@POTUS](https://twitter.com/POTUS)’s efforts to make Comprehensive
 Immigration Reform a reality and provide a pathway to citizenship for
 DREAMers.”
@@ -616,7 +625,7 @@ must give all forms of hate no safe harbor. We must all work together to
 push back against the normalization of hatred.”
 \[[Tweet](https://twitter.com/ADL/status/1623160341147385857), 2/07/23\]
 
-***National C0uncil of Jewish Women:***“We’re with you @POTUS. All
+***National Council of Jewish Women:***“We’re with you @POTUS. All
 Americans deserve reproductive freedom, full stop. \#SOTU2023
 \#JewsforAbortionAccess”
 \[[Tweet](https://twitter.com/NCJW/status/1623156880687222787),
@@ -775,7 +784,7 @@ reproductive freedom is a fundamental freedom. \#SOTU”
 \[[Tweet](https://twitter.com/NARAL/status/1623156150513373193),
 2/07/23\]
 
-**National Asian Women Pacific American Women’s Forum:** “We appreciate
+**National Asian Pacific American Women’s Forum:** “We appreciate
 President Biden bringing additional visibility to the heinous acts of
 violence in California that reverberated throughout the Asian American
 and Pacific Islander community…” \[[Press
@@ -815,18 +824,9 @@ can access abortion, in every community, across the country. \#SOTU23”
 \[[Tweet](https://twitter.com/ppact/status/1623161166317907968?s=46&t=LyUHjiNybllcPzPDJC-skw),
 2/07/23\]
 
-**Ultraviolet: “**It is thrilling to see @POTUS give credit where credit
+**UltraViolet: “**It is thrilling to see @POTUS give credit where credit
 is due. \#BlackWomenLead \#sotu2023”
 \[[Tweet](https://twitter.com/UltraViolet/status/1623152134282792962),
-2/07/23\]
-
-**Candace Waterman, President and CEO, Women Impacting Public Policy:**
-“Over the last two years, the Biden-Harris Administration has worked
-with Congress and across the aisle to advance important legislation,
-including the CHIPS & Science Act and the Bipartisan Infrastructure Law
-which have collectively authorized billions of dollars for federal
-contracting and procurement.”
-\[[Statement](https://www.publicprivatestrategies.com/national-business-leaders-small-business-owners-share-economic-outlook-after-sotu?emci=f1ede34f-54a7-ed11-994d-00224832eb73&emdi=c7ce58fe-63a7-ed11-994d-00224832eb73&ceid=354978),
 2/07/23\]
 
 ***Disability Advocates***
@@ -854,11 +854,12 @@ services to live and work in their community! \#SOTU @SOTU2023″
 \[[Tweet](https://twitter.com/TheArcUS/status/1623160220758298624?s=20&t=lY5XoMFiE0jlf1K2Utspig),
 2/07/23\]
 
-**Nicole Jorwic, Chief of Advocacy and Campaigns:** “Still a little
-tear-y thinking about the fact that @POTUSchighlighted ALL care pillars
-in \#sotu2023 \#PaidLeave \#ChildCare \#AgingAndDisabilityCare & good
-pay for \#CareWork So proud to be part of the \#CareCantWait coalition.
-We’ve shown we are \#StrongerTogether Let’s get it done”
+**Nicole Jorwic, Chief of Advocacy and Campaigns, **Caring Across
+Generations**:** “Still a little tear-y thinking about the fact that
+@POTUSchighlighted ALL care pillars in \#sotu2023 \#PaidLeave
+\#ChildCare \#AgingAndDisabilityCare & good pay for \#CareWork So proud
+to be part of the \#CareCantWait coalition. We’ve shown we are
+\#StrongerTogether Let’s get it done”
 \[[Tweet](https://twitter.com/NJorwic/status/1623314752641327105?s=20&t=9_vb9Gu4MKEdYy9DJzuopw),
 2/07/23\]
 
@@ -966,12 +967,11 @@ vote, not suppress that fundamental right.” Amen. \#BuildAnew” 
 \[[Tweet,](https://twitter.com/NETWORKLobby/status/1623159577255501825?cxt=HHwWgoCzgaTCz4YtAAAA)
 2/07/23\]
 
-**Rev. Dr. William J. Barber II, National President of Repairers the
-Breach and  Co-Chair of  Poor People’s Campaign National Call for Moral
-Revival:** “POTUS was brilliant last night. The old man, like Solomon,
-showed the difference b/w wisdom & foolishness, calling Republicans
-bluff & forcing them to publicly reject threats of cutting Social
-Security & Medicaid.”
+**Rev. Dr. William J. Barber II, Founding Director of the Center for
+Public Theology and Public Policy, Yale Divinity School:** “POTUS was
+brilliant last night. The old man, like Solomon, showed the difference
+b/w wisdom & foolishness, calling Republicans bluff & forcing them to
+publicly reject threats of cutting Social Security & Medicaid.”
 \[[Tweet](https://twitter.com/RevDrBarber/status/1623351455204646913?s=20&t=lLUpUsMPg-U0zvDQDC4yew),
 2/08/23\]
 
@@ -1075,7 +1075,9 @@ economic recovery for all. \#SOTU
 President Biden this evening, everyone was reminded of the historic
 progress made to grow a greener economy and reduce the effect of climate
 change in ways that ensure greater racial and economic justice and can
-lead to a safer, more livable planet…” \[Statement, 2/7/23\]
+lead to a safer, more livable planet…”
+\[[Statement](https://www.sierraclub.org/press-releases/2023/02/sierra-club-response-president-biden-s-state-union-address),
+2/7/23\]
 
 **Gene Karpinski, President, League of Conservation Voters: “**President
 Biden deserves immense credit for doing more to tackle the climate
@@ -1097,11 +1099,11 @@ this momentum going is critical for meeting the U.S. climate goals.
 Thread](https://twitter.com/WRIClimate/status/1623350989976920066?s=20&t=j2UxZH-9XZU0mmbA3cCyjw),
 2/08/23\]
 
-**Lisa Frank, Executive Director of Environment Campaigns Director, U.S.
-PIRG:** “The United States is blessed with some of the earth’s mightiest
-rivers and deepest lakes, but as our nation progressed, the cleanliness
-of our water regressed. We can thank President Biden for removing lead
-pipes so we can have safer drinking water…”
+**Lisa Frank, Washington Legislative Office, Environment America:** “The
+United States is blessed with some of the earth’s mightiest rivers and
+deepest lakes, but as our nation progressed, the cleanliness of our
+water regressed. We can thank President Biden for removing lead pipes so
+we can have safer drinking water…”
 \[[Statement](https://environmentamerica.org/media-center/statement-the-state-of-our-union-can-only-be-as-strong-as-the-state-of-our-environment/),
 2/07/23\]
 
@@ -1124,7 +1126,7 @@ clean energy economic boom all across the country”
 “From day one of his administration, President Biden has prioritized
 climate action and clean energy investment. Those efforts are paying
 dividends for people across the nation, in red states and blue…”
-\[Statement, 2/07/23\]
+\[[Statement](https://www.nrdc.org/media/2023/230208), 2/07/23\]
 
 **Climate Mayors:** “ClimateMayors are grateful to be working with an
 administration that is supportive of \#ClimateAction in our cities.
@@ -1153,8 +1155,8 @@ started. \#SOTU2023.”
 **Margie Alt, Director, Climate Action Campaign:** “We are thankful for
 the historic climate and clean energy investments President Biden
 achieved  – and we are excited about the president’s work to rebuild
-America to weather the next storms, droughts, and floods… \[Statement,
-2/07/23\]
+America to weather the next storms, droughts, and floods…
+\[[Statement](https://www.actonclimate.com/post/cac-sotu2023), 2/07/23\]
 
 **Yoca Arditi-Rocha, Executive Director, The CLEO Institute:** “Thank
 you @POTUS @JoeBiden ! For America to be Future Ready, we need to be
@@ -1213,7 +1215,7 @@ country…”
 \[[Statement](https://www.hrc.org/press-releases/sotu-human-rights-campaign-president-bidens-focus-on-supporting-transgender-young-people-highlights-that-anti-trans-legislative-attacks-are-an-emergency),
 2/07/23\]
 
-**Santiago Meyer, Executive Director, Voters of Tomorrow:** “… We know
+**Santiago Mayer, Executive Director, Voters of Tomorrow:** “… We know
 President Biden means it when he says he intends to ban assault weapons,
 protect LGBTQ+ and abortion rights, and ensure everyone can access
 affordable healthcare…”
@@ -1355,11 +1357,11 @@ families. Let’s finish the job…”
 \[[Tweet](https://twitter.com/PSEA/status/1623350955482791944),
 2/08/23\]
 
-**University of California President:** Promoting access to health care
-across California, including with our most vulnerable communities, is a
-top priority for @UofCalifornia, and initiatives such as the Cancer
-Moonshot and \#ARPAH make it easier to address some of the most pressing
-health challenges. \#SOTU
+****Michael V. Drake, President, University of California**:** Promoting
+access to health care across California, including with our most
+vulnerable communities, is a top priority for @UofCalifornia, and
+initiatives such as the Cancer Moonshot and \#ARPAH make it easier to
+address some of the most pressing health challenges. \#SOTU
 \[[Tweet](https://twitter.com/UCPrezDrake/status/1623162209349292037?s=20&t=4IfQD9Ua3G4NEdPtAX1q-w),
 2/08/23\]
 
