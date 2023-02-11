@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-10 14:00:09-05:00
+modified_time: 2023-02-11 11:12:47-05:00
 published_time: 2023-02-10 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
@@ -101,13 +101,6 @@ We agree with President Biden – let’s get the job done…”
 of the Union address renewed the administration’s commitment to
 investing in our families and our ability to care for one another…”
 \[[Statement](https://www.domesticworkers.org/press-releases/statement-on-president-joe-bidens-second-state-of-the-union-address/),
-2/07/23\]
-
-**Ramiro A. Cavazos, President and CEO, Hispanic Economic Opportunity:**
-“Hispanic-owned businesses across the country are getting stronger
-thanks to the generational bipartisan investments made in the past two
-years…” 
-\[[Statement](https://www.publicprivatestrategies.com/national-business-leaders-small-business-owners-share-economic-outlook-after-sotu?emci=f1ede34f-54a7-ed11-994d-00224832eb73&emdi=c7ce58fe-63a7-ed11-994d-00224832eb73&ceid=354978),
 2/07/23\]
 
 **Robert Martinez Jr., International President of International
@@ -488,6 +481,13 @@ just 3.9%. Hardworking Latinos showed up to elect President Biden,
 giving him the support he needed to pass his ambitious agenda and put
 America back to work! \#AmericaWinsWithBiden”
 \[[Tweet](https://twitter.com/SomosVotantes/status/1623134845416140800),
+2/07/23\]
+
+**Ramiro A. Cavazos, President and CEO, Hispanic Economic Opportunity:**
+“Hispanic-owned businesses across the country are getting stronger
+thanks to the generational bipartisan investments made in the past two
+years…” 
+\[[Statement](https://www.publicprivatestrategies.com/national-business-leaders-small-business-owners-share-economic-outlook-after-sotu?emci=f1ede34f-54a7-ed11-994d-00224832eb73&emdi=c7ce58fe-63a7-ed11-994d-00224832eb73&ceid=354978),
 2/07/23\]
 
 ***LGBTQI+ Leaders***
