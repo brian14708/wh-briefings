@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-11 11:12:47-05:00
+modified_time: 2023-02-11 12:21:23-05:00
 published_time: 2023-02-10 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
@@ -483,10 +483,10 @@ America back to work! \#AmericaWinsWithBiden”
 \[[Tweet](https://twitter.com/SomosVotantes/status/1623134845416140800),
 2/07/23\]
 
-**Ramiro A. Cavazos, President and CEO, Hispanic Economic Opportunity:**
-“Hispanic-owned businesses across the country are getting stronger
-thanks to the generational bipartisan investments made in the past two
-years…” 
+**Ramiro A. Cavazos, President and CEO, **United States Hispanic Chamber
+of Commerce**:** “Hispanic-owned businesses across the country are
+getting stronger thanks to the generational bipartisan investments made
+in the past two years…” 
 \[[Statement](https://www.publicprivatestrategies.com/national-business-leaders-small-business-owners-share-economic-outlook-after-sotu?emci=f1ede34f-54a7-ed11-994d-00224832eb73&emdi=c7ce58fe-63a7-ed11-994d-00224832eb73&ceid=354978),
 2/07/23\]
 
@@ -586,14 +586,6 @@ and restore trust in our institutions of democracy.” – @POTUS
 \#sotu2023.”
 \[[Tweet](https://twitter.com/NationalAction/status/1623160200524857347?s=20&t=wsjjprP1E2A_FW185oohaw),
 2/07/23\]
-
-**Rev. Dr. William J. Barber II, Former North Carolina NAACP President,
-Minister and Co-Chair of the Poor People’s Campaign:** “POTUS was
-brilliant last night. The old man, like Solomon, showed the difference
-b/w wisdom & foolishness, calling Republicans bluff & forcing them to
-publicly reject threats of cutting Social Security & Medicaid.”
-\[[Tweet](https://twitter.com/RevDrBarber/status/1623351455204646913?s=20&t=lLUpUsMPg-U0zvDQDC4yew),
-2/08/23\]
 
 **Sherrilyn Ifill, Former President & Director-Counsel of LDF (NAACP
 Legal Defense Fund). Sr Fellow, Ford Foundation:** “This THREAD of
@@ -917,7 +909,7 @@ Those benefits BELONG to the American people. WE earned them…”
 \[[Tweet](https://twitter.com/Ramsey_Alwin/status/1623151124583702528?s=20&t=ffi186zpQZAorNM3gHdHOg),
 2/07/23\]
 
-***Faith Based Organizations:***
+***Faith Based Organizations & Religious Leaders:***
 
 **American Muslim Health Professionals:** “A record-breaking 16M +
 people have signed up for high-quality, affordable health insurance
@@ -973,6 +965,15 @@ place for political violence in America. We must protect the right to
 vote, not suppress that fundamental right.” Amen. \#BuildAnew” 
 \[[Tweet,](https://twitter.com/NETWORKLobby/status/1623159577255501825?cxt=HHwWgoCzgaTCz4YtAAAA)
 2/07/23\]
+
+**Rev. Dr. William J. Barber II, National President of Repairers the
+Breach and  Co-Chair of  Poor People’s Campaign National Call for Moral
+Revival:** “POTUS was brilliant last night. The old man, like Solomon,
+showed the difference b/w wisdom & foolishness, calling Republicans
+bluff & forcing them to publicly reject threats of cutting Social
+Security & Medicaid.”
+\[[Tweet](https://twitter.com/RevDrBarber/status/1623351455204646913?s=20&t=lLUpUsMPg-U0zvDQDC4yew),
+2/08/23\]
 
 ***Gun Violence Prevention Advocates***
 
