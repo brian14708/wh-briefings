@@ -1,6 +1,6 @@
 ---
 date: '2023-02-10'
-modified_time: 2023-02-10 12:36:37-05:00
+modified_time: 2023-02-14 14:19:04-05:00
 published_time: 2023-02-10 12:36:36-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-resources-for-asian-american-native-hawaiian-and-pacific-islander-communities-in-the-aftermath-of-mass-violence/
 tags: statements-releases
@@ -96,7 +96,7 @@ or human-caused disasters, including incidents of mass violence.
 -   Call or text the hotline at 800–985–5990.
 -   Additional resources and guidance on how to address community needs
     after incidents of mass violence is also provided online
-    through [SAMHS](https://www.samhsa.gov/find-help/disaster-distress-helpline/disaster-types/incidents-mass-violence).
+    through [SAMHSA](https://www.samhsa.gov/find-help/disaster-distress-helpline/disaster-types/incidents-mass-violence).
 
 This web page from the SAMHSA Disaster Distress Helpline ([Incidents of
 Mass
@@ -258,9 +258,7 @@ Information Specialists can assist people in all languages and are
 trained to work with callers who are deaf and hard-of-hearing.
 
 -   Reach DIAL at (888) 677-1199, Monday through Friday, 9:00 a.m. to
-    8:00 p.m. ET or
-
-email <DIAL@usaginganddisability.org>.
+    8:00 p.m. ET or email <DIAL@usaginganddisability.org>.
 
 [The Eldercare
 Locator](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feldercare.acl.gov%2FPublic%2FIndex.aspx&data=05%7C01%7CKrystal.Kaai%40hhs.gov%7C3a854dd158904aedecf908db03d16794%7Cd58addea50534a808499ba4d944910df%7C0%7C0%7C638107970138497531%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HzpC6u0by7YjjWsgC%2Fl6IkHZ%2BU6dmGhg5axmerTj21I%3D&reserved=0)

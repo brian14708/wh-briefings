@@ -1,5 +1,6 @@
 ---
 date: '2023-02-14'
+modified_time: 2023-02-14 13:49:12-05:00
 published_time: 2023-02-14 13:25:19-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-100th-judicial-confirmation/
 tags: statements-releases
@@ -19,11 +20,11 @@ years. 
 Yesterday, for example, the Senate confirmed Cindy Chung to the U.S.
 Court of Appeals for the Third Circuit; in addition to previously
 serving as the U.S. Attorney for the Western District of Pennsylvania,
-she will be the first AAPI judge to serve on this circuit court.  Today,
-the Senate confirmed Judge Gina Mendez-Miro, who currently serves on the
-Puerto Rico Court of Appeals, to serve on the U.S. District Court for
-the District of Puerto Rico; she will be the first openly LGBT judge to
-serve on that court.  
+she will be the first AA and NHPI judge to serve on this circuit court. 
+Today, the Senate confirmed Judge Gina Mendez-Miro, who currently serves
+on the Puerto Rico Court of Appeals, to serve on the U.S. District Court
+for the District of Puerto Rico; she will be the first openly LGBTQI+
+judge to serve on that court.  
    
 We have made important progress in ensuring that the federal judiciary
 not only looks more like the nation as a whole, but also includes judges
