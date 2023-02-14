@@ -1,6 +1,6 @@
 ---
 date: '2023-02-13'
-modified_time: 2023-02-13 10:35:42-05:00
+modified_time: 2023-02-14 11:14:05-05:00
 published_time: 2023-02-13 15:30:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/13/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons-2/
 tags: statements-releases
@@ -223,18 +223,18 @@ protection, prosecution, and partnerships:
     and raise awareness among more than 1.3 million employees across all
     modes of transportation.  
      
--   The Department of Interior and DOJ’s Not Invisible Act Commission
-    (NIAC) is continuing its work to draft final recommendations to
-    combat the Missing and Murdered Indigenous Peoples (MMIP) crisis
-    through its six subcommittees, which are each focused on specific
-    public safety and justice issues, including addressing human
-    trafficking.  In the coming months, the NIAC will host in-person
-    hearings to gather public comments for inclusion in their final
-    report to Secretary of the Interior Deb Haaland, Attorney General
-    Merrick Garland, and the U.S. Congress.  The NIAC is a
-    cross-jurisdictional joint committee composed of law enforcement,
-    tribal leaders, federal partners, service providers, family members
-    of missing and murdered individuals, and survivors.
+-   The Department of the Interior and DOJ’s Not Invisible Act
+    Commission (NIAC) is continuing its work to draft final
+    recommendations to combat the Missing and Murdered Indigenous
+    Peoples (MMIP) crisis through its six subcommittees, which are each
+    focused on specific public safety and justice issues, including
+    addressing human trafficking.  In the coming months, the NIAC will
+    host in-person hearings to gather public comments for inclusion in
+    their final report to Secretary of the Interior Deb Haaland,
+    Attorney General Merrick Garland, and the U.S. Congress.  The NIAC
+    is a cross-jurisdictional joint committee composed of law
+    enforcement, tribal leaders, federal partners, service providers,
+    family members of missing and murdered individuals, and survivors.
 
 This fact sheet offers only a snapshot of the Administration’s
 accomplishments from 2022 and plans for 2023.  Numerous documents have
