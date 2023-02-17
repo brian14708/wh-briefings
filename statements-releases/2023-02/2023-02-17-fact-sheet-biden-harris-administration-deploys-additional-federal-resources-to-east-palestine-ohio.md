@@ -1,5 +1,6 @@
 ---
 date: '2023-02-17'
+modified_time: 2023-02-17 17:03:14-05:00
 published_time: 2023-02-17 12:06:15-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/fact-sheet-biden-harris-administration-deploys-additional-federal-resources-to-east-palestine-ohio/
 tags: statements-releases
@@ -72,6 +73,9 @@ tasked with:
     drinking water is safe. This includes surface water testing to
     monitor downstream impacts on the Ohio River.
 
+**National Transportation Safety Board and Department of
+Transportation**
+
 The National Transportation Safety Board (NTSB), an independent federal
 agency charged by Congress with investigating every civil aviation
 accident in the U.S. and significant accidents in other modes of
@@ -119,13 +123,13 @@ Control and Prevention**
 In response to Governor DeWine’s request on February 16 for additional
 federal public health support, HHS and the CDC are deploying a team of
 medical personnel and toxicologists to conduct public health testing and
-assessments. A team will be on the ground on Saturday, including a
-medical toxicologist and the Agency for Toxic Substances and Disease
-Registry (ATSDR) Region 5 lead, to support EPA and state health
-department efforts. ATSDR protects communities from harmful health
-effects related to exposure to natural and man-made hazardous substances
-and will send a team to interview people in the derailment area and
-conduct an Assessment of Chemical Exposure investigation.  
+assessments. The team will include a medical toxicologist and the Agency
+for Toxic Substances and Disease Registry (ATSDR) Region 5 lead to
+support EPA and state health department efforts. ATSDR protects
+communities from harmful health effects related to exposure to natural
+and man-made hazardous substances and will send a team to interview
+people in the derailment area and conduct an Assessment of Chemical
+Exposure investigation.  
   
 Since the derailment, HHS has been providing technical assistance to
 state and Federal partners on emergency response, emergency management,
