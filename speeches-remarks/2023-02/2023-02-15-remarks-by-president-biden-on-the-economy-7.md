@@ -1,5 +1,6 @@
 ---
 date: '2023-02-15'
+modified_time: 2023-02-16 19:17:39-05:00
 published_time: 2023-02-15 22:18:10-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/15/remarks-by-president-biden-on-the-economy-7/
 tags: speeches-remarks
@@ -400,13 +401,13 @@ bucks. It’s saving the taxpayer. Not a joke.
 Now, our Republican friends want to repeal the Inflation Reduction Act.
 They’d get rid of the savings on prescription drugs that we buy, like
 Medicare — I mean, we buy from — through — through Medicare. And it
-would eliminate, today, right now, $159,000 a year in savings on lowered
-drug costs.
+would eliminate, today, right now, <s>$159,000</s> \[$159 billion\] <s>a
+year</s> in savings on lowered drug costs.
 
 Now that just means your tax dollars are going to save — be saved
-$159,000 to do what we’re doing right now. In other words, it cuts the
-deficit. It doesn’t cut Medicare or Medicaid or drug — drugs available.
-It cuts the cost.
+<s>$159,000</s> \[$159 billion\] to do what we’re doing right now. In
+other words, it cuts the deficit. It doesn’t cut Medicare or Medicaid or
+drug — drugs available. It cuts the cost.
 
 And, by the way, while we’re on the topic of Medicare: The distinguished
 senator — and I mean — I shouldn’t be smart guy — Senator Rick Scott
