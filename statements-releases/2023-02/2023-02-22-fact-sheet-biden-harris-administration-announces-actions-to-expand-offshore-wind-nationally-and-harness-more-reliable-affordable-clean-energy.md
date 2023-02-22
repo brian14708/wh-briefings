@@ -1,6 +1,6 @@
 ---
 date: '2023-02-22'
-modified_time: 2023-02-21 22:46:13-05:00
+modified_time: 2023-02-22 10:11:30-05:00
 published_time: 2023-02-22 09:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/
 tags: statements-releases
@@ -29,11 +29,12 @@ offshore wind technologies, and create good-paying jobs for workers
 throughout the nation, by:
 
 -   **Advancing Offshore Wind in the Gulf of Mexico:** For the first
-    time, the Department of the Interior (DOI) is announcing a proposed
-    offshore wind lease sale for three areas in the Gulf of Mexico,
-    offshore Texas and Louisiana. These areas have the potential to
-    generate enough clean energy to power almost 1.3 million homes. The
-    proposed auction includes provisions that would incentivize new
+    time, the Department of the Interior (DOI) is
+    [announcing](https://www.doi.gov/pressreleases/interior-department-proposes-first-ever-offshore-wind-sale-gulf-mexico)
+    a proposed offshore wind lease sale for three areas in the Gulf of
+    Mexico, offshore Texas and Louisiana. These areas have the potential
+    to generate enough clean energy to power almost 1.3 million homes.
+    The proposed auction includes provisions that would incentivize new
     investments in workforce training and a domestic supply chain, to
     expand economic opportunities across offshore wind manufacturing,
     port operations, and more. DOI’s Bureau of Ocean Energy Management
@@ -71,9 +72,10 @@ throughout the nation, by:
     wide array of stakeholders working to advance innovation priorities,
     infrastructure buildout, community engagement, and other key aspects
     of floating offshore wind deployment. As part of this Summit, the
-    Department of Energy is announcing new efforts on transmission
-    planning and research partnerships to support floating offshore wind
-    on the West Coast.   
+    Department of Energy is
+    [announcing](https://www.energy.gov/articles/us-department-energy-announces-new-actions-accelerate-us-floating-offshore-wind-deployment)
+    new efforts on transmission planning and research partnerships to
+    support floating offshore wind on the West Coast.   
 
 President Biden has taken decisive action to jumpstart the American
 offshore wind industry, ushering in billions of dollars in investments
