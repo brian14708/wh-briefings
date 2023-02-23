@@ -1,6 +1,6 @@
 ---
 date: '2023-02-22'
-modified_time: 2023-02-22 10:11:30-05:00
+modified_time: 2023-02-23 08:47:49-05:00
 published_time: 2023-02-22 09:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/
 tags: statements-releases
@@ -123,7 +123,11 @@ offshore wind development, with key highlights including:
     [advanced](https://www.boem.gov/newsroom/press-releases/boem-announces-determination-no-competitive-interest-gulf-maine-research)
     the State of Maine’s application for a research lease that could
     help inform the deployment of floating offshore wind technology
-    nationwide.
+    nationwide. The National Oceanic and Atmospheric Administration also
+    recently published a proposed rule to further environmental
+    compliance for the Sunrise Wind project, the third such proposed
+    rule it has published for offshore wind projects in the last five
+    months.
 -   **Supply Chain Buildout:** The Department of Energy (DOE) and
     National Offshore Wind R&D Consortium
     [announced](https://www.energy.gov/eere/articles/national-offshore-wind-research-and-development-consortium-announces-us-offshore-wind)
