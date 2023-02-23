@@ -1,5 +1,6 @@
 ---
 date: '2023-02-22'
+modified_time: 2023-02-22 18:26:59-05:00
 published_time: 2023-02-22 13:14:30-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/president-biden-names-thirtieth-round-of-judicial-nominees/
 tags: statements-releases
@@ -63,7 +64,7 @@ from 2015 to 2016. Ms. Silfen was an associate at Finnegan, Henderson,
 Farabow, Garrett, and Dunner LLP from 2006 to 2008 and again from 2010
 to 2013. She served as a law clerk to Judge Alan D. Lourie on the United
 States Court of Appeals for the Federal Circuit from 2008 to 2010. Ms.
-Silfen received her J.D. from Harvard Law School in 2006 and her B.A.
+Silfen received her J.D. from Harvard Law School in 2006 and her B.S.
 from Yale University in 2002.
 
 \###
