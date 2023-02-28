@@ -1,6 +1,6 @@
 ---
 date: '2023-02-28'
-modified_time: 2023-02-27 23:40:12-05:00
+modified_time: 2023-02-28 13:16:06-05:00
 published_time: 2023-02-28 05:01:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/readout-of-the-trilateral-united-states-japan-republic-of-korea-economic-security-dialogue/
 tags: statements-releases
@@ -23,6 +23,6 @@ collaborate on critical and emerging technologies, including in quantum
 and space technologies; increase supply chain resilience, including in
 semiconductors, batteries, and critical minerals; coordinate on measures
 to protect sensitive technologies; and operationalize Data Free Flow
-with Trust. 
+with Trust; and coordinate responses to economic coercion. 
 
 \###
