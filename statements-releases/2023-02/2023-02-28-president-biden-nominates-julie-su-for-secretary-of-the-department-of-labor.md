@@ -1,5 +1,6 @@
 ---
 date: '2023-02-28'
+modified_time: 2023-02-28 17:03:13-05:00
 published_time: 2023-02-28 13:19:02-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/president-biden-nominates-julie-su-for-secretary-of-the-department-of-labor/
 tags: statements-releases
