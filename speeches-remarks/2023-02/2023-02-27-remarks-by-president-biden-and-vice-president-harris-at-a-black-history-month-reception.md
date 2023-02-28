@@ -1,6 +1,6 @@
 ---
 date: '2023-02-27'
-modified_time: 2023-02-27 21:32:36-05:00
+modified_time: 2023-02-28 08:17:08-05:00
 published_time: 2023-02-27 13:07:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/27/remarks-by-president-biden-and-vice-president-harris-at-a-black-history-month-reception/
 tags: speeches-remarks
@@ -566,4 +566,4 @@ it done.  And we’re going to do it again.
 So, as my moth- — my Irish Catholic mom would say, “God bless you,
 dear.  Let’s go get ‘em.”  Okay?  Thanks.  (Applause.)  
   
-END 5:57 P.M. EST
+5:57 P.M. EST
