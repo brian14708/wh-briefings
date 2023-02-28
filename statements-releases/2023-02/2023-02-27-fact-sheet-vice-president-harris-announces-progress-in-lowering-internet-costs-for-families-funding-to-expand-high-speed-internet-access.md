@@ -1,5 +1,6 @@
 ---
 date: '2023-02-27'
+modified_time: 2023-02-27 20:53:57-05:00
 published_time: 2023-02-27 06:58:51-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-vice-president-harris-announces-progress-in-lowering-internet-costs-for-families-funding-to-expand-high-speed-internet-access/
 tags: statements-releases
