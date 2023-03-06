@@ -1,6 +1,6 @@
 ---
 date: '2023-03-03'
-modified_time: 2023-03-03 13:32:18-05:00
+modified_time: 2023-03-06 10:43:59-05:00
 published_time: 2023-03-03 15:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/president-biden-announces-key-appointments-to-boards-and-commissions-19/
 tags: statements-releases
@@ -130,12 +130,12 @@ President. Enyart is blind and is a proud mother to two daughters.
 **Carmen Daniel Jones, Member, Architectural and Transportation Barriers
 Compliance Access Board**
 
-Carmen Daniels Jones is currently Vice President, Health Equity and
-Disability Inclusion at UnitedHealthCare Community & State. Synthesizing
-multidisciplinary thinking, marketing, and community engagement thought
-leadership with an understanding of change management, Jones has been
-instrumental in developing strategies that have transformed
-organizations from Fortune 100 companies to the federal government.
+Carmen Daniels Jones is a trusted leader for organizations across a
+variety of professional sectors. Synthesizing multidisciplinary
+thinking, marketing, and community engagement thought leadership with an
+understanding of change management, Jones has been instrumental in
+developing strategies that have transformed organizations from Fortune
+100 companies to the federal government.
 
 Jones’ expertise across the public sector, small business, and large
 corporations has been the catalyst for growth in industries as varied as
