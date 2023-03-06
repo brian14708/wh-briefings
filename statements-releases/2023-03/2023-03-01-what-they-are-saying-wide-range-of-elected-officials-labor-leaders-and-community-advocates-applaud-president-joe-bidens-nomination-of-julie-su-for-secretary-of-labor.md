@@ -1,5 +1,6 @@
 ---
 date: '2023-03-01'
+modified_time: 2023-03-06 15:47:33-05:00
 published_time: 2023-03-01 15:52:10-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/01/what-they-are-saying-wide-range-of-elected-officials-labor-leaders-and-community-advocates-applaud-president-joe-bidens-nomination-of-julie-su-for-secretary-of-labor/
 tags: statements-releases
@@ -558,7 +559,7 @@ confirm Julie Su as Secretary of Labor without delay.”
 \[[AAPCHO](https://aapcho.org/aapcho-statement-in-support-of-julie-su-as-secretary-of-labor/),
 2/28/2023\]  
   
-**Norman Chen, Chief Executive Officer, Asian American Foundation:**
+**Norman Chen, Chief Executive Officer, The Asian American Foundation:**
 “The Asian American Foundation congratulates Julie Su for her nomination
 to serve as Secretary of the Department of Labor. Julie has been a
 tireless advocate for labor and civil rights of historically
@@ -603,16 +604,16 @@ American history.”
 \[[Statement](https://aapivictoryalliance.com/updates/2023/2/28/statement-aapi-victory-alliance-applauds-white-house-nomination-of-julie-su-to-be-next-secretary-of-labor),
 2/28/23\]  
   
-**Organization of Chinese Americans – Asian Pacific American
-Advocates:** “We are encouraged to see that President Biden has
-announced his nomination of Julie A. Su to be the next Secretary of
-Labor. This shows the Administration’s continued commitment to ensuring
-that Asian Americans, Native Hawaiians, and Pacific Islanders (AANHPIs)
-are represented throughout the U.S. government. We congratulate Deputy
-Secretary Su, who if confirmed, will be the first Asian American Cabinet
-Secretary in the Biden Administration. We look forward to continuing our
-work together with the administration to empower and promote AANHPIs at
-the national, state, and local levels.”
+**OCA – Asian Pacific American Advocates:** “We are encouraged to see
+that President Biden has announced his nomination of Julie A. Su to be
+the next Secretary of Labor. This shows the Administration’s continued
+commitment to ensuring that Asian Americans, Native Hawaiians, and
+Pacific Islanders (AANHPIs) are represented throughout the U.S.
+government. We congratulate Deputy Secretary Su, who if confirmed, will
+be the first Asian American Cabinet Secretary in the Biden
+Administration. We look forward to continuing our work together with the
+administration to empower and promote AANHPIs at the national, state,
+and local levels.”
 \[[Statement](https://www.ocanational.org/press-releases/oca-commends-president-bidens-nomination-of-julie-sunbspfor-secretary-of-labornbsp),
 2/28/23\]  
   
@@ -622,7 +623,7 @@ since the beginning of her career. @WhiteHouse @WHIAANHPI”
 \[[Tweet](https://twitter.com/OCANational/status/1630650322774269963),
 2/28/2023\]  
   
-**Katrina Dizon Mariategue, Acting Executive Director, Southeast Asian
+**Katrina Dizon Mariategue, Acting Executive Director, Southeast Asia
 Resource Action Center (SEARAC):** “We applaud President Biden’s
 nomination of Julie Su as the 30th Secretary of Labor and as the first
 Asian American Cabinet Secretary to serve in the Biden Administration.
