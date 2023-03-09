@@ -1,6 +1,6 @@
 ---
 date: '2023-03-08'
-modified_time: 2023-03-08 12:59:14-05:00
+modified_time: 2023-03-09 15:23:06-05:00
 published_time: 2023-03-08 14:02:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/fact-sheet-biden-%e2%81%a0harris-administration-advances-cleaner-industrial-sector-to-boost-american-manufacturing-and-cut-emissions/
 tags: statements-releases
@@ -155,7 +155,7 @@ demand and supply side of the industrial sector:
     hydrogen electrolyzers. These initiatives are already showing
     payoffs: [private sector
     commitments](https://www.weforum.org/first-movers-coalition/members)
-    from the First Movers Coalition represent 1 million metrics tons per
+    from the First Movers Coalition represent 1 million metric tons per
     year of clean hydrogen demand, and recently announced projects
     amount to [2.2 million metric tons per
     year](https://energyfuturesinitiative.org/reports/the-u-s-hydrogen-demand-action-plan-2/)
@@ -170,7 +170,7 @@ demand and supply side of the industrial sector:
     (GSA)**, **Department of Transportation’s Federal Highway
     Administration ,** and the **Environmental Protection Agency** are
     collaborating and incorporating stakeholder feedback to establish
-    criteria for the procurement of [substantially low
+    criteria for the procurement of [low
     carbon](https://www.epa.gov/inflation-reduction-act/inflation-reduction-act-programs-fight-climate-change-reducing-embodied)
     steel, concrete, asphalt, and flat glass for Inflation Reduction
     Act-funded projects. **GSA** announced a contract for low-embodied
