@@ -1,5 +1,6 @@
 ---
 date: '2023-03-09'
+modified_time: 2023-03-10 11:10:04-05:00
 published_time: 2023-03-09 12:04:19-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/
 tags: statements-releases
@@ -72,21 +73,6 @@ education, child care, utilities, and more.
     have not adopted Medicaid expansion under the ACA, paired with
     financial incentives to ensure States maintain their existing
     expansions. 
--   **Reduces Prescription Drug Costs for All Americans.** The Budget
-    builds upon the Inflation Reduction Act to continue lowering the
-    cost of prescription drugs. For Medicare, this includes further
-    strengthening the newly established negotiation power by extending
-    it to more drugs and bringing drugs into negotiation sooner after
-    they launch. The Budget also proposes to limit Medicare Part D
-    cost-sharing for high-value generic drugs for certain chronic
-    conditions to no more than $2. For Medicaid, the Budget includes
-    proposals to ensure Medicaid and CHIP programs are prudent
-    purchasers of prescription drugs, authorizing HHS to negotiate
-    supplemental drug rebates on behalf of interested States in order to
-    pool purchasing power. For the commercial market, the Budget
-    includes proposals to curb inflation in prescription drug prices and
-    cap the prices of insulin products at $35 for a monthly
-    prescription. 
 
 <!-- -->
 
