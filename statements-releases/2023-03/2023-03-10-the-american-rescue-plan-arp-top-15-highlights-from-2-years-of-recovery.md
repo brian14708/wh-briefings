@@ -1,6 +1,6 @@
 ---
 date: '2023-03-10'
-modified_time: 2023-03-09 22:18:48-05:00
+modified_time: 2023-03-14 11:11:12-05:00
 published_time: 2023-03-10 10:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/the-american-rescue-plan-arp-top-15-highlights-from-2-years-of-recovery/
 tags: statements-releases
@@ -167,9 +167,10 @@ Could Design their Own Recovery:**
     cutting jobs. ****Today, cities and states have funds to invest in
     major challenges – like public safety, housing, workforce, and
     rehiring, instead of making dramatic cuts.*
--   ***ARP provided direct fiscal relief to every state & territory and
-    30,000 cities and towns –**** while previous plans reached only 154
-    local governments, or fewer, with direct flexible relief.*
+-   ***ARP provided direct fiscal relief to every state, territory,
+    ***tribal government******, ***and 30,000 cities and towns
+    –**** while previous plans reached only 154 local governments, or
+    fewer, with direct flexible relief.*
 
 *This has led to:*
 
@@ -192,6 +193,10 @@ Could Design their Own Recovery:**
         housing**** – expanding supply, investing in homeless services,
         and providing 3.7 million additional households rent, mortgage,
         and utility relief.*
+    -   *With **over $32 billion to help Tribal Nations and Native
+        Communities recover** from the pandemic, the American Rescue
+        Plan provided the largest single federal investment in Indian
+        Country in history.*
 
 **10.** **One of the Largest Federal Investments in Preventing Crime,
 Reducing Violence, and Investing in Public Safety in History.**
