@@ -1,17 +1,18 @@
 ---
 date: '2023-03-13'
+modified_time: 2023-03-13 19:11:37-04:00
 published_time: 2023-03-13 12:09:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/13/a-proclamation-on-national-equal-pay-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National Equal Pay Day,\_2023"
 ---
  
- Despite historic growth, rising wages, and unemployment at its lowest
-rate in over 50 years, women working full-time, year-round are paid an
-average 84 cents for every dollar paid to men.  Pay disparities are even
-more pronounced for Black women, Native American women, Latinas, many
-Asian American women, and women with disabilities.  On Equal Pay Day, we
-call attention to this injustice and the pay disparities that add up to
+     Despite historic growth, rising wages, and unemployment at a near
+record low, women working full-time, year-round are paid an average 84
+cents for every dollar paid to men.  Pay disparities are even more
+pronounced for Black women, Native American women, Latinas, many Asian
+American women, and women with disabilities.  On Equal Pay Day, we call
+attention to this injustice and the pay disparities that add up to
 hundreds of thousands of dollars in lost income over a lifetime,
 undermining financial security for women and families across our Nation.
  My Administration is working to change that.  
