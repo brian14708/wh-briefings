@@ -5,7 +5,7 @@ published_time: 2023-03-13 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/13/statement-by-press-secretary-kirsten-allen-on-vice-president-harriss-travel-to-ghana-tanzania-and-zambia/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on Vice President Harris\u2019\
-  s Travel to Ghana, Tanzania, and Zambia"
+  s Travel to Ghana, Tanzania, and\_Zambia"
 ---
  
 Vice President Kamala Harris and Second Gentleman Douglas Emhoff will
