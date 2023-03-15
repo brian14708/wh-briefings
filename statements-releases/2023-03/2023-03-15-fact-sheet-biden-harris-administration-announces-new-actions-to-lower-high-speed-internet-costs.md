@@ -1,6 +1,6 @@
 ---
 date: '2023-03-15'
-modified_time: 2023-03-15 11:54:38-04:00
+modified_time: 2023-03-15 16:13:26-04:00
 published_time: 2023-03-15 14:31:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-high-speed-internet-costs/
 tags: statements-releases
@@ -36,12 +36,12 @@ the Biden Administration’s Investing in America Agenda, including a
 record $65 billion in the Bipartisan Infrastructure Law to make sure all
 Americans finally have access to affordable, high-speed internet.  
   
-Already, **16.75 million households are saving $500 million per month on
-high-speed internet through the Affordable Connectivity Program**. Now,
-the Biden-Harris Administration is releasing an additional **$73 million
-in Affordable Connectivity Outreach Grants to help more Americans sign
-up for the program and save on internet costs**. These investments
-include:  
+Already, **16.75 million households are saving over $500 million per
+month on high-speed internet through the Affordable Connectivity
+Program**. Now, the Biden-Harris Administration is releasing an
+additional **$73 million in Affordable Connectivity Outreach Grants to
+help more Americans sign up for the program and save on internet
+costs**. These investments include:  
 
 -   **$66 million in the Affordable Connectivity Outreach Program** to
     drive awareness and enrollment in the country’s newest and largest
@@ -115,9 +115,9 @@ text messages, emails, letters and flyers sent directly to consumers to
 inform them about this opportunity.   
   
 Last month, Vice President Harris announced that the Affordable
-Connectivity Program is now reaching over 16.75 million households,
-saving Americans over half-a-billion dollars per month. This is a more
-than 40% increase since the announcement of GetInternet.gov.  
+Connectivity Program is now reaching over 16 million households, saving
+Americans over half-a-billion dollars per month. This is a more than 40%
+increase since the announcement of GetInternet.gov.  
   
 The Biden-Harris Administration’s [Internet for All
 Initiative](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=c4ed154e63&e=0ca263633c)
