@@ -1,6 +1,6 @@
 ---
 date: '2023-03-15'
-modified_time: 2023-03-15 21:15:04-04:00
+modified_time: 2023-03-16 16:02:40-04:00
 published_time: 2023-03-15 21:15:03-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/15/president-joseph-r-biden-jr-approves-new-york-disaster-declaration-3/
 tags: presidential-actions
@@ -14,7 +14,7 @@ winter storm and snowstorm from December 23 to December 28, 2022.
   
 The President’s action makes Federal funding available for Individual
 Assistance limited to Funeral Assistance under Other Needs Assistance
-for affected individuals in Erie and Genesee Counties.  
+for affected individuals in Erie and Niagara Counties.  
   
 Federal funding is available to state and eligible local governments and
 certain private nonprofit organizations on a cost-sharing basis for
