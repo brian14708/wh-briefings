@@ -1,5 +1,6 @@
 ---
 date: '2023-03-15'
+modified_time: 2023-03-17 10:06:04-04:00
 published_time: 2023-03-15 18:00:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/15/remarks-by-president-biden-on-lowering-prescription-drugs-costs/
 tags: speeches-remarks
@@ -429,12 +430,12 @@ And, by the way, you know everybody said, well, how was I able to have
 these new programs and still cut the deficit $1.7 trillion the last two
 years? 
 
-Well, it’s pretty — pretty straightforward.  There were 550 companies of
-the Fortune 500 that made $40 billion that didn’t pay a penny in tax —
-zero, nothing — in taxes.  So I said the — you know, outrageous.  And we
-got votes for it.  I said they ought to pay a minimum of 15 percent. 
-Fifteen percent.  That’s less than you all pay.  And guess what?  It
-allowed me to cut the deficit.
+Well, it’s pretty — pretty straightforward.  There were <s>550</s>
+\[55\] companies of the Fortune 500 that made $40 billion that didn’t
+pay a penny in tax — zero, nothing — in taxes.  So I said the — you
+know, outrageous.  And we got votes for it.  I said they ought to pay a
+minimum of 15 percent.  Fifteen percent.  That’s less than you all pay. 
+And guess what?  It allowed me to cut the deficit.
 
 So, folks, this is about just basic fairness and decency.  There’s
 nothing radical about what I’m proposing.  And if you look at the
