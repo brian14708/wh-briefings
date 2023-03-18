@@ -1,5 +1,6 @@
 ---
 date: '2023-03-17'
+modified_time: 2023-03-18 11:44:55-04:00
 published_time: 2023-03-17 19:47:21-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-shamrock-bowl-presentation/
 tags: speeches-remarks
@@ -18,7 +19,7 @@ Take a seat if you have one, Gov.
   
 I’m getting a little bit worried.  We were in here watching you, and the
 Taoiseach, when we were in — you’re on camera, the Taoiseach — “Isn’t
-that Senator Koons?”  What the hell you’ve been doing, Koons?  I don’t
+that Senator Coons?”  What the hell you’ve been doing, Coons?  I don’t
 know, man.  At any rate — he’s the senator from Delaware. 
 (Applause.)   
   
