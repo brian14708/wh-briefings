@@ -1,6 +1,6 @@
 ---
 date: '2023-03-19'
-modified_time: 2023-03-19 17:51:37-04:00
+modified_time: 2023-03-20 15:49:47-04:00
 published_time: 2023-03-19 17:51:36-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/19/readout-of-president-joe-bidens-call-with-prime-minister-benjamin-netanyahu-of-israel/
 tags: statements-releases
@@ -21,11 +21,11 @@ U.S.-Israel relationship, that democratic societies are strengthened by
 genuine checks and balances, and that fundamental changes should be
 pursued with the broadest possible base of popular support. The
 President offered support for efforts underway to forge a compromise on
-proposed judicial reforms consistent with those core principles. The two
-leaders also discussed tensions and violence in the West Bank. Finally,
-President Biden reiterated his unwavering commitment to Israel’s
-security and the ongoing cooperation between our national security
-teams, including to counter all threats posed by Iran. Both leaders
-agreed to stay in regular contact over the coming weeks. 
+proposed judicial reforms consistent with those core
+principles. Finally, President Biden reiterated his unwavering
+commitment to Israel’s security and the ongoing cooperation between our
+national security teams, including to counter all threats posed by
+Iran. Both leaders agreed to stay in regular contact over the coming
+weeks. 
 
 \###
