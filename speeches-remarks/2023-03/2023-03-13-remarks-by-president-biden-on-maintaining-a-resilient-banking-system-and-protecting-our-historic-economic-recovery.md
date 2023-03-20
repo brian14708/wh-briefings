@@ -1,5 +1,6 @@
 ---
 date: '2023-03-13'
+modified_time: 2023-03-19 20:22:00-04:00
 published_time: 2023-03-13 11:38:16-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-on-maintaining-a-resilient-banking-system-and-protecting-our-historic-economic-recovery/
 tags: speeches-remarks
@@ -61,8 +62,9 @@ money.  That’s how capitalism works. 
    
 And fourth, there are important questions of how these banks got into
 these circumstances in the first place.  We must get the full accounting
-of what happened and why those responsible can be held accountable.  In
-my administration, no one, in my view — no one is above the law.   
+of what happened and why \[so\] those responsible can be held
+accountable.  In my administration, no one, in my view — no one is above
+the law.   
    
 And finally, we must reduce the risks of this happening again.  During
 the Obama-Biden administration, we put in place tough requirements on
