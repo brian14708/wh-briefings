@@ -1,6 +1,6 @@
 ---
 date: '2023-03-21'
-modified_time: 2023-03-21 12:25:21-04:00
+modified_time: 2023-03-21 19:01:09-04:00
 published_time: 2023-03-21 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/21/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-on-the-economic-case-for-junk-fees-policies/
 tags: speeches-remarks
@@ -70,9 +70,10 @@ Consumer Financial Protection Bureau increased its oversight of banks’
 reliance on junk fees in late 2021, **leading 15 of the 20 largest banks
 to end bounced check fees**.  This month, the Department of
 Transportation launched a dashboard comparing family seating fee
-policies of major airlines.  I am pleased to see that **United,
-American, Alaska, and Frontier airlines have all made commitments** to
-provide fee-free family seating.
+policies of major airlines.  I am pleased to see that **American,
+Alaska, and Frontier airlines have all made commitments **to provide
+fee-free family seating, and **United** has taken initial steps to
+improve their policy.
 
 Many of you have played an integral role in these actions and are doing
 more work to address some of the most pervasive junk fees in your
