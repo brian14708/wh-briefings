@@ -1,6 +1,6 @@
 ---
 date: '2023-03-21'
-modified_time: 2023-03-20 21:40:45-04:00
+modified_time: 2023-03-22 19:45:29-04:00
 published_time: 2023-03-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/
 tags: statements-releases
@@ -120,15 +120,15 @@ Cocopah, Halchidhoma, Havasupai, Hopi, Hualapai, Kumeyaay, Maricopa, Pai
 Pai, Quechan, Yavapai, and Zuni Tribes. Its scenic peaks include Avi Kwa
 Ame (Spirit Mountain), which is designated as a Traditional Cultural
 Property on the National Register of Historic Places in recognition of
-its religious and cultural importance. The area is also home to the one
-of the world’s largest Joshua tree forests, and provides continuous
-habitat or migration corridors for species such as the desert bighorn
-sheep, desert tortoise, and Gila monster.
+its religious and cultural importance. The area is also home to one of
+the world’s largest Joshua tree forests, and provides continuous habitat
+or migration corridors for species such as the desert bighorn sheep,
+desert tortoise, and Gila monster.
 
 **<u>Establishing Castner Range National Monument in Texas</u>**
 
 President Biden will also sign a proclamation establishing the Castner
-Range National Monument, in El Paso, Texas. This action will protect the
+Range National Monument in El Paso, Texas. This action will protect the
 cultural, scientific, and historic objects found within the monument’s
 boundaries, honor our veterans, servicemembers, and Tribal Nations, and
 expand access to outdoor recreation on our public lands. 
@@ -162,12 +162,12 @@ U.S. jurisdiction around the islands, atolls, and reef of the Pacific
 Remote Islands will be protected.
 
 The potential new National Marine Sanctuary identified in the Memorandum
-would conserve 777,000 square miles, including the existing Pacific
-Remote Islands Marine National Monument and currently unprotected
-submerged lands and waters. The region has a rich ancestral tie to many
-Native Hawaiian and Pacific Island communities. The process for a
-potential sanctuary designation would allow the National Oceanic and
-Atmospheric Administration (NOAA) to further explore the area’s
+would conserve about 770,000 square miles, including the existing
+Pacific Remote Islands Marine National Monument and currently
+unprotected submerged lands and waters. The region has a rich ancestral
+tie to many Native Hawaiian and Pacific Island communities. The process
+for a potential sanctuary designation would allow the National Oceanic
+and Atmospheric Administration (NOAA) to further explore the area’s
 scientific, cultural, and ancestral linkages, and tailor its management
 accordingly.
 
@@ -188,7 +188,7 @@ the White House Council on Environmental Quality and the White House
 Office of Science and Technology Policy, is releasing the first-ever
 [United States Ocean Climate Action
 Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
-a groundbreaking roadmap to harnesses the power of the ocean to advance
+a groundbreaking roadmap to harness the power of the ocean to advance
 immediate, transformational steps to protect ocean health and address
 the climate crisis. Acknowledging that there is no path to a healthy and
 livable climate without the ocean, the plan outlines new actions on the

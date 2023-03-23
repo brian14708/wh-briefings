@@ -1,6 +1,6 @@
 ---
 date: '2023-03-21'
-modified_time: 2023-03-20 20:13:58-04:00
+modified_time: 2023-03-22 19:46:21-04:00
 published_time: 2023-03-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/
 tags: statements-releases
@@ -70,7 +70,7 @@ Franklin Mountains also contains a high concentration of natural
 springs. Along with creosote brush vegetation, it provides important
 habitat to wildlife that call Castner Range home, including the American
 peregrine falcon, Golden eagle, mountain plover, Texas horned lizard,
-Black-tailed prairie dog, Baird’s swallow, and the Western burrowing
+Black-tailed prairie dog, Baird’s sparrow, and the Western burrowing
 owl. The endangered Sneed pincushion cactus and a host of other rare or
 endemic plants also inhabit the area. Protecting Castner Range ensures
 connectivity with other protected areas and migratory corridors for
