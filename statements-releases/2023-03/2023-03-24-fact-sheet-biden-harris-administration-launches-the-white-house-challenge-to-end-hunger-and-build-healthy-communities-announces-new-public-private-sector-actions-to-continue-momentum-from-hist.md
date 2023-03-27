@@ -1,6 +1,6 @@
 ---
 date: '2023-03-24'
-modified_time: 2023-03-23 23:14:18-04:00
+modified_time: 2023-03-27 09:03:28-04:00
 published_time: 2023-03-24 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-end-hunger-and-build-healthy-communities-announces-new-public-private-sector-actions-to-continue-momentum-from-hist/
 tags: statements-releases
@@ -35,7 +35,7 @@ nutritious diet. It will also issue a proposed rule that, if finalized,
 would help reduce sodium in the food supply. The rule would provide
 flexibility for food manufacturers to use safe and suitable salt
 substitutes in foods like cheese and canned vegetables—many foods
-already can and do use salt substitutes.      
+already can and do use salt substitutes.  
   
 **White House Challenge to End Hunger and Build Healthy Communities**  
 To help secure a healthier future for all Americans, the Biden-Harris
@@ -185,10 +185,10 @@ up:
     nearly $40 million to support bringing their commitments to
     fruition. For example:
 -   **BENEFITS DATA TRUST **released
-    their [toolkit](https://who.sites.eop.gov/Domestic%20Policy%20Council/Shared%20Documents/Economic%20Mobility/_Rural%20&%20Agriculture/Nutrition%20IPC/Stakeholder%20engagement/External%20Commitments/Second%20Round/Challenge%20Kickoff/Comms/%3ehttps:/bdtrust.org/highered-toolkit-1/%3c) to
-    help higher education institutions identify college students
-    eligible for public benefit programs like SNAP, Medicaid, and the
-    new Affordable Connectivity Program.
+    their [toolkit](https://bdtrust.org/highered-toolkit-1/) to help
+    higher education institutions identify college students eligible for
+    public benefit programs like SNAP, Medicaid, and the new Affordable
+    Connectivity Program.
 -   **BOSTON MEDICAL CENTER** invested $1.4 million to open a local,
     minority-owned, healthy food market in a new affordable housing
     development this spring.
