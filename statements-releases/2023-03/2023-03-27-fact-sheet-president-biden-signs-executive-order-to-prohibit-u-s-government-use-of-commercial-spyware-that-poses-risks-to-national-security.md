@@ -1,6 +1,6 @@
 ---
 date: '2023-03-27'
-modified_time: 2023-03-27 11:54:52-04:00
+modified_time: 2023-03-29 08:43:37-04:00
 published_time: 2023-03-27 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/
 tags: statements-releases
@@ -142,7 +142,7 @@ the proliferation and misuse of commercial spyware: 
     employment with foreign governments or companies, to include foreign
     commercial spyware entities. Last week, the Director of National
     Intelligence [issued binding
-    guidance](https://www.dni.gov/files/documents/ICD/ICD_712_Employment_Activities_by_Former_Intelligence_Community_Employees.pdf)
+    guidance](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/item/2368-issuance-of-intelligence-community-directive-712-requirements-for-certain-employment-activities-by-former-intelligence-community-employees)
     to the U.S. Intelligence Community to implement these statutory
     requirements, which set an international standard that we hope will
     be followed by other countries.   

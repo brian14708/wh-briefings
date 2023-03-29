@@ -1,6 +1,6 @@
 ---
 date: '2023-03-28'
-modified_time: 2023-03-28 19:04:47-04:00
+modified_time: 2023-03-29 09:31:30-04:00
 published_time: 2023-03-28 19:04:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/28/remarks-by-president-biden-on-investing-in-america/
 tags: speeches-remarks
@@ -529,8 +529,8 @@ If we invest in America, we can change the country’s future.
   
 Thirty years ago — I’ll say it again — we invested 2 percent of our
 entire GDP in research and development.  By the time I came to office,
-that was under 10 percent.  If I’m not mistaken, it was <s>seven tenths
-of 1 percent</s> \[0.7 percent\].  
+that was under 10 percent.  If I’m not mistaken, it was seven tenths of
+1 percent.  
   
 We’re turning that around.  We’re proving it’s never been a good bet to
 bet against America.  I’ve never been more optimistic about our
