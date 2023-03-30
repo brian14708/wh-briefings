@@ -1,6 +1,6 @@
 ---
 date: '2023-03-29'
-modified_time: 2023-03-29 13:38:26-04:00
+modified_time: 2023-03-29 19:33:14-04:00
 published_time: 2023-03-29 11:27:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/
 tags: statements-releases
@@ -106,15 +106,16 @@ include:
 
 <!-- -->
 
--   . This Fund, created following the first Summit for Democracy, is
-    managed by the Department of State and designed to expand access to
-    anti-censorship technologies for those who most need critical tools
-    to access the free and open Internet in repressive environments. 
-    The Department of State and U.S. Agency for Global Media have
-    contributed over $17 million to the Open Technology Fund, an
-    independent 501(c)(3) non-profit organization, for this fund. The
-    United States welcomes a recent pledge from the Government of
-    Estonia to contribute to the Fund.  
+-   **Growing the Multilateral Surge and Sustain Fund for
+    Anti-Censorship Technology**. This Fund, created following the first
+    Summit for Democracy, is managed by the Department of State and
+    designed to expand access to anti-censorship technologies for those
+    who most need critical tools to access the free and open Internet in
+    repressive environments.  The Department of State and U.S. Agency
+    for Global Media have contributed over $17 million to the Open
+    Technology Fund, an independent 501(c)(3) non-profit organization,
+    for this fund. The United States welcomes a recent pledge from the
+    Government of Estonia to contribute to the Fund.  
 
 <!-- -->
 
@@ -155,15 +156,16 @@ include:
 
 <!-- -->
 
--   . On the margins of the Costa Rica’s Summit for Democracy event in
-    San José, the U.S. government will announce a new funding package to
-    strengthen the Government of Costa Rica’s cybersecurity. Following
-    damaging ransomware attacks, the assistance package will include a
-    combination of vulnerability assessments, capacity building, and the
-    provision of tools and services. This is an example of how the
-    United States works with partners around the world to build their
-    capacity to address shared threats in cyberspace and support a
-    secure, open, and reliable digital ecosystem.
+-   **Cybersecurity Support**. On the margins of the Costa Rica’s Summit
+    for Democracy event in San José, the U.S. government will announce a
+    new funding package to strengthen the Government of Costa Rica’s
+    cybersecurity. Following damaging ransomware attacks, the assistance
+    package will include a combination of vulnerability assessments,
+    capacity building, and the provision of tools and services. This is
+    an example of how the United States works with partners around the
+    world to build their capacity to address shared threats in
+    cyberspace and support a secure, open, and reliable digital
+    ecosystem.
 
 **<u>Countering the Misuse of Technology and Rise of Digital
 Authoritarianism</u>**
