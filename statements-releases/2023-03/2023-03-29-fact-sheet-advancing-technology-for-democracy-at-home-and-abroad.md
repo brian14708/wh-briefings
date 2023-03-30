@@ -1,6 +1,6 @@
 ---
 date: '2023-03-29'
-modified_time: 2023-03-29 19:33:14-04:00
+modified_time: 2023-03-30 16:00:50-04:00
 published_time: 2023-03-29 11:27:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/
 tags: statements-releases
@@ -54,9 +54,10 @@ for human rights and democratic principles.
 
 **<u>Advancing Democracy and Internet Freedom in the Digital Age</u>**
 
-Our affirmativevision forthe world’s technological and digital future is
-one that is free, open, secure, and aligned with respect for democratic
-principles and human rights. The [*Declaration for the Future of the
+Our affirmative vision for the world’s technological and digital future
+is one that is free, open, secure, and aligned with respect for
+democratic principles and human rights. The [*Declaration for the Future
+of the
 Interne*](https://www.whitehouse.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf)*t*,
 now affirmed by more than 65 countries, and the [*Blueprint for an AI
 Bill of Rights*](https://www.whitehouse.gov/ostp/ai-bill-of-rights/),
@@ -84,11 +85,13 @@ Key actions announced or highlighted at the second Summit for Democracy
 include:
 
 -   **Expanding the Advancing Digital Democracy Initiative**. This USAID
-    initiative launched at the first Summit aims to foster open, secure,
-    and inclusive digital societies in which technology advances
-    democratic principles and respect for human rights. In addition to
-    existing pilot programs in Serbia and Zambia, USAID is standing up
-    six more programs in Africa, Asia, Europe, and Latin America.
+    initiative
+    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    at the first Summit aims to foster open, secure, and inclusive
+    digital societies in which technology advances democratic principles
+    and respect for human rights. In addition to existing pilot programs
+    in Serbia and Zambia, USAID is standing up six more programs in
+    Africa, Asia, Europe, and Latin America.
 
 <!-- -->
 
@@ -107,15 +110,17 @@ include:
 <!-- -->
 
 -   **Growing the Multilateral Surge and Sustain Fund for
-    Anti-Censorship Technology**. This Fund, created following the first
-    Summit for Democracy, is managed by the Department of State and
-    designed to expand access to anti-censorship technologies for those
-    who most need critical tools to access the free and open Internet in
-    repressive environments.  The Department of State and U.S. Agency
-    for Global Media have contributed over $17 million to the Open
-    Technology Fund, an independent 501(c)(3) non-profit organization,
-    for this fund. The United States welcomes a recent pledge from the
-    Government of Estonia to contribute to the Fund.  
+    Anti-Censorship Technology**. This Fund,
+    [created](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    following the first Summit for Democracy, is managed by the
+    Department of State and designed to expand access to anti-censorship
+    technologies for those who most need critical tools to access the
+    free and open Internet in repressive environments.  The Department
+    of State and U.S. Agency for Global Media have contributed over $17
+    million to the Open Technology Fund, an independent 501(c)(3)
+    non-profit organization, for this fund. The United States welcomes a
+    recent pledge from the Government of Estonia to contribute to the
+    Fund.  
 
 <!-- -->
 
@@ -132,7 +137,7 @@ include:
 
 -   **Developing Donor Principles for the Digital Age**. USAID
     [announced](https://www.usaid.gov/news-information/press-releases/mar-28-2023-usaid-announces-new-initiatives-2023-summit-democracy-and-updates-progress-made-2021-summit)
-    that it will work with its partners to develop a voluntary,
+    that it will work with its partners to develop voluntary,
     non-binding *Donor Principles for the Digital Age* to advance human
     rights and democratic principles, as well as relevant safeguards for
     donor-supported programs.
@@ -142,7 +147,8 @@ include:
 -   **Promoting Information Integrity and Resilience (ProInfo)
     Initiative**. Building on the work of the Summit for Democracy
     Information Integrity Cohort, the ProInfo Initiative expands
-    existing efforts at USAID and the Department of State to strengthen
+    existing efforts at USAID and the Department of State to
+    [strengthen](https://www.usaid.gov/news-information/press-releases/mar-28-2023-usaid-announces-new-initiatives-2023-summit-democracy-and-updates-progress-made-2021-summit)
     information integrity and resilience globally by advancing
     private-public-civic partnerships and improving cooperation among
     key stakeholders, including by demonstrating leadership at the OECD
@@ -157,12 +163,14 @@ include:
 <!-- -->
 
 -   **Cybersecurity Support**. On the margins of the Costa Rica’s Summit
-    for Democracy event in San José, the U.S. government will announce a
-    new funding package to strengthen the Government of Costa Rica’s
-    cybersecurity. Following damaging ransomware attacks, the assistance
-    package will include a combination of vulnerability assessments,
-    capacity building, and the provision of tools and services. This is
-    an example of how the United States works with partners around the
+    for Democracy event in San José, the U.S. government announced a new
+    [funding
+    package](https://cr.usembassy.gov/united-states-announces-25-million-to-strengthen-costa-ricas-cybersecurity/)
+    to strengthen the Government of Costa Rica’s cybersecurity.
+    Following damaging ransomware attacks, the assistance package will
+    include a combination of vulnerability assessments, capacity
+    building, and the provision of tools and services. This is an
+    example of how the United States works with partners around the
     world to build their capacity to address shared threats in
     cyberspace and support a secure, open, and reliable digital
     ecosystem.
@@ -185,8 +193,9 @@ international cooperation on this issue; to championing new principles
 to guide governments’ use of surveillance technology; to announcing a
 new efforts to integrate a human rights lens into export controls so as
 to prevent dual-use technologies and goods from falling into the hands
-of those that may misuse them. The U.S. government is also calling on
-the private sector to combat authoritarian use of network-level
+of those that may misuse them. The U.S. government is also
+[calling](https://www.whitehouse.gov/wp-content/uploads/2023/03/USG-Public-Private-Sector-Call-Anti-Censorship.pdf)
+on the private sector to combat authoritarian use of network-level
 filtering technology for repressive censorship by supporting and
 furthering censorship-resistant technologies and technical standards.
 
@@ -212,11 +221,12 @@ include:
 -   **Joint Statement on Efforts to Counter the Proliferation and Misuse
     of Commercial Spyware**. Complementing the Executive Order, the
     United States is joining an initial group of nine partners in
-    endorsing the *Joint Statement*, which aims to deepen international
-    cooperation on countering the proliferation and misuse of commercial
-    spyware. The initial group of partners includes: Australia, Canada,
-    Denmark, France, New Zealand, Norway, Sweden, Switzerland, and the
-    United Kingdom.
+    endorsing the *[Joint
+    Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/)*,
+    which aims to deepen international cooperation on countering the
+    proliferation and misuse of commercial spyware. The initial group of
+    partners includes: Australia, Canada, Costa Rica, Denmark, France,
+    New Zealand, Norway, Sweden, Switzerland, and the United Kingdom.
 
 <!-- -->
 
@@ -237,11 +247,12 @@ include:
 
 -   **High Risk Community Protection Initiative**. The Cybersecurity and
     Infrastructure Security Agency (CISA) at the U.S. Department of
-    Homeland Security announced the next phase of its groundbreaking
-    High Risk Community Protection Initiative, which is dedicated to
-    strengthening the cybersecurity of high-risk communities—such as
-    civil society organizations—in the United States against
-    transnational repression.
+    Homeland Security
+    [announced](https://www.dhs.gov/news/2023/03/30/secretary-mayorkas-discusses-new-us-efforts-curb-authoritarian-regime-misuse)
+    the next phase of its groundbreaking High Risk Community Protection
+    Initiative, which is dedicated to strengthening the cybersecurity of
+    high-risk communities—such as civil society organizations—in the
+    United States against transnational repression.
 
 <!-- -->
 
@@ -249,83 +260,91 @@ include:
     of Transnational Repression**. In complement to CISA’s High Risk
     Community Protection Initiative, which focuses on actors within the
     United States, the United Kingdom and the United States will co-host
-    the *Strategic Dialogue* to facilitate greater international
-    cooperation among the cybersecurity agencies of likeminded countries
-    to strengthen the cybersecurity of civil society against
-    transnational repression within participating states’ respective
-    borders. The initial participants in this dialogue include the
-    United Kingdom, Australia, Canada, Denmark, Estonia, France, Japan,
-    New Zealand, and Norway.
+    the [*Strategic
+    Dialogue*](https://www.cisa.gov/news-events/news/joint-statement-strategic-dialogue-cybersecurity-civil-society-under-threat-transnational-repression)
+    to facilitate greater international cooperation among the
+    cybersecurity agencies of likeminded countries to strengthen the
+    cybersecurity of civil society against transnational repression
+    within participating states’ respective borders. The initial
+    participants in this dialogue include the United Kingdom, Australia,
+    Canada, Denmark, Estonia, France, Japan, New Zealand, and Norway.
 
 <!-- -->
 
--   **Guiding Principles on Government Use of Surveillance Technology**.
-    Drafted as a consensus document among the 36 members of the Freedom
-    Online Coalition, these principles outline how governments can
-    respect democratic values and protect human rights as they use
-    surveillance technologies in three key areas of concern. The
-    *Guiding Principles* draw a clear distinction between those
-    governments that adhere to appropriate behaviors and those who
-    misuse surveillance technologies for repression. The members of the
-    Freedom Online Coalition are Argentina, Australia, Austria, Canada,
-    Chile, Costa Rica, Czech Republic, Denmark, Estonia, Finland,
-    France, Georgia, Germany, Ghana, Ireland, Italy, Japan, Kenya,
-    Latvia, Lithuania, Luxembourg, Maldives, Mexico, Moldova, Mongolia,
-    Netherlands, New Zealand, Norway, Poland, Slovakia, Spain, Sweden,
-    Switzerland, Tunisia, the United Kingdom, and the United States. The
-    following additional states participating in the second Summit for
-    Democracy have endorsed the *Guiding Principles*: Albania, Bulgaria,
-    Croatia, Ecuador, Iceland, Kosovo, Malta, and North Macedonia.  
+-   **Guiding Principles on Government Use of Surveillance
+    Technologies**. Drafted as a consensus document among the 36 members
+    of the Freedom Online Coalition, these principles outline how
+    governments can respect democratic values and protect human rights
+    as they use surveillance technologies in three key areas of concern.
+    The *[Guiding
+    Principles](/www.state.gov/wp-content/uploads/2023/03/FOC-FINAL-Surveillance-Principles-03092023.pdf)*
+    draw a clear distinction between those governments that adhere to
+    appropriate behaviors and those who misuse surveillance technologies
+    for repression. The members of the Freedom Online Coalition are
+    Argentina, Australia, Austria, Canada, Chile, Costa Rica, Czech
+    Republic, Denmark, Estonia, Finland, France, Georgia, Germany,
+    Ghana, Ireland, Italy, Japan, Kenya, Latvia, Lithuania, Luxembourg,
+    Maldives, Mexico, Moldova, Mongolia, The Netherlands, New Zealand,
+    Norway, Poland, Slovakia, Spain, Sweden, Switzerland, Tunisia, the
+    United Kingdom, and the United States. The following additional
+    states participating in the second Summit for Democracy have
+    endorsed the *Guiding Principles*: Albania, Bulgaria, Croatia,
+    Ecuador, Iceland, Kosovo, Malta, and North Macedonia.  
 
 <!-- -->
 
 -   **Export Controls and Human Rights Initiative – Code of Conduct for
     Enhancing Export Controls of Goods and Technology That Could be
     Misused and Lead to Serious Violations or Abuses of Human Rights**.
-    This multilateral *Code of Conduct*, developed through the Export
-    Controls and Human Rights Initiative announced at the first Summit
-    for Democracy, commits subscribing states to better integrate human
-    rights criteria in their export control regimes. In addition to the
-    United States, the following governments that have endorsed the
-    voluntary code of conduct are:  Albania, Australia, Bulgaria,
-    Canada, Croatia, Czechia, Denmark, Ecuador, Estonia, Finland,
-    France, Germany, Japan, Kosovo, Latvia, The Netherlands, New
-    Zealand, North Macedonia, Norway, Republic of Korea, and the United
-    Kingdom.
+    This multilateral *[Code of
+    Conduct](/www.state.gov/wp-content/uploads/2023/03/230303-Updated-ECHRI-Code-of-Conduct-FINAL.pdf)*,
+    developed through the Export Controls and Human Rights Initiative
+    announced at the first Summit for Democracy, commits subscribing
+    states to better integrate human rights criteria in their export
+    control regimes. In addition to the United States, the following
+    governments that have endorsed the voluntary code of conduct are:
+     Albania, Australia, Bulgaria, Canada, Croatia, Czechia, Denmark,
+    Ecuador, Estonia, Finland, France, Germany, Japan, Kosovo, Latvia,
+    The Netherlands, New Zealand, North Macedonia, Norway, Republic of
+    Korea, and the United Kingdom.
 
 Complementing U.S. government efforts, a number of **private sector
-actors** have also taken specific action to countering the misuse of
-technology and rise of digital authoritarianism. For example, over 150
-companies, spearheaded by Microsoft, Meta, Cisco, Trend Micro and
-endorsed by Apple and Google, released a set of principles focused on
-minimizing the risk associated with commercial spyware. Among other
-corporate commitments, Cloudflare has committed to meaningful
-consultation with civil society as it works with Internet standards
-bodies and other Internet providers on the next generation of
-privacy-enhancing technologies and protocols. Meta has committed to
-helping people communicate freely and securely, including through a new
-feature that allows users to connect to WhatsApp by proxy when their
-Internet connection is disrupted or blocked. Microsoft, together with
-other cloud service providers, has developed and released the Trusted
-Cloud Principles. Google is launching a $2 million fund to support human
-rights defenders, and providing 100,000 security keys at no cost to
-individuals at higher risk of cyber attacks, such as journalists and
-human rights defenders.
+actors** have also taken [specific
+action](https://www.state.gov/private-sector-commitments-to-advance-democracy/)
+to counter the misuse of technology and rise of digital
+authoritarianism. For example, over 150 companies, spearheaded by
+Microsoft, Meta, Cisco, Trend Micro and endorsed by Apple and Google,
+released a set of principles focused on minimizing the risk associated
+with commercial spyware. Among other corporate commitments, Cloudflare
+has committed to meaningful consultation with civil society as it works
+with Internet standards bodies and other Internet providers on the next
+generation of privacy-enhancing technologies and protocols. Meta has
+committed to helping people communicate freely and securely, including
+through a new feature that allows users to connect to WhatsApp by proxy
+when their Internet connection is disrupted or blocked. Microsoft,
+together with other cloud service providers, has developed and released
+the Trusted Cloud Principles. Google is launching a $2 million fund to
+support human rights defenders, and providing 100,000 security keys at
+no cost to individuals at higher risk of cyber attacks, such as
+journalists and human rights defenders.
 
 Additionally, the Biden-Harris Administration announced, as part of the
 **Global Partnership for Action on Gender-Based Online Harassment and
-Abuse**, a series of actions to prevent and respond to
-technology-facilitated gender-based violence and counter its chilling
-effects on women leaders. This includes committing more than $13 million
-in targeted funding across USAID and the Department of State. The Global
-Partnership has grown to be a 12-country initiative bringing together
-governments, international organizations, civil society, and the private
-sector to prioritize, understand, prevent, and address the growing
-scourge of technology-facilitated gender-based violence, which
-disproportionately impacts women, girls, and LGBTQI+ political and
-public figures, leaders, journalists and activists. These actions and
-investments also include the release of the Global Partnership’s 2023
-Roadmap and several other initiatives.
+Abuse**, [a series of
+actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/)
+to prevent and respond to technology-facilitated gender-based violence
+and counter its chilling effects on women leaders. This includes
+committing more than $13 million in targeted funding across USAID and
+the Department of State. The Global Partnership has grown to be a
+12-country initiative bringing together governments, international
+organizations, civil society, and the private sector to prioritize,
+understand, prevent, and address the growing scourge of
+technology-facilitated gender-based violence, which disproportionately
+impacts women, girls, and LGBTQI+ political and public figures, leaders,
+journalists and activists. These actions and investments also include
+the release of the Global Partnership’s [2023
+Roadmap](https://www.state.gov/2023-roadmap-for-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/)
+and several other initiatives.
 
 Finally, in September 2022, the Administration released [**principles
 for reforms to enhance tech platform
@@ -380,43 +399,49 @@ Key deliverables announced or highlighted at the second Summit for
 Democracy include:
 
 -   **National Strategy to Advance Privacy-Preserving Data Sharing and
-    Analytics**. OSTP released a *National Strategy to Advance
-    Privacy-Preserving Data Sharing and Analytics*, a roadmap for
-    harnessing privacy-enhancing technologies, coupled with strong
-    governance, to enable data sharing and analytics in a way that
-    benefits individuals and society, while mitigating privacy risks and
-    harms and upholding democratic principles.  
+    Analytics**. OSTP released a *[National Strategy to Advance
+    Privacy-Preserving Data Sharing and
+    Analytics](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf)*,
+    a roadmap for harnessing privacy-enhancing technologies, coupled
+    with strong governance, to enable data sharing and analytics in a
+    way that benefits individuals and society, while mitigating privacy
+    risks and harms and upholding democratic principles.  
 
 <!-- -->
 
 -   **National Objectives for Digital Assets Research and Development**.
-    OSTP also released a set of *National Objectives for Digital Assets
-    Research and Development*, whichoutline its priorities for the
-    responsible research and development (R&D) of digital assets. These
-    objectives will help developers of digital assets better reinforce
-    democratic principles and protect consumers by default.
+    OSTP also released a set of *[National Objectives for Digital Assets
+    Research and
+    Development](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Objectives-for-Digital-Assets-Research-and-Development.pdf)*,
+    whichoutline its priorities for the responsible research and
+    development (R&D) of digital assets. These objectives will help
+    developers of digital assets better reinforce democratic principles
+    and protect consumers by default.
 
 <!-- -->
 
 -   **Launch of Trustworthy and Responsible AI Resource Center for Risk
-    Management**. NIST announced a new *Resource Center*, which is
-    designed as a one-stop-shop website for foundational content,
-    technical documents, and toolkits to enable responsible use of AI.
-    Government, industry, and academic stakeholders can access resources
-    such as a repository for AI standards, measurement methods and
-    metrics, and data sets. The website is designed to facilitate the
-    implementation and international alignment with the *AI Risk
-    Management Framework*. The Framework articulates the key building
-    blocks of trustworthy AI and offers guidance for addressing them.
+    Management**. NIST announced a new *[Resource
+    Center](https://airc.nist.gov/)*, which is designed as a
+    one-stop-shop website for foundational content, technical documents,
+    and toolkits to enable responsible use of AI. Government, industry,
+    and academic stakeholders can access resources such as a repository
+    for AI standards, measurement methods and metrics, and data sets.
+    The website is designed to facilitate the implementation and
+    international alignment with the *AI Risk Management Framework*. The
+    Framework articulates the key building blocks of trustworthy AI and
+    offers guidance for addressing them.
 
 <!-- -->
 
 -   **International Grand Challenges on Democracy-Affirming
-    Technologies**. Announced at the first Summit, the United States and
-    the United Kingdom carried out their joint *Privacy Enhancing
-    Technology Prize Challenges.* IE University, in partnership with the
-    U.S. Department of State, hosted the *Tech4Democracy Global
-    Entrepreneurship Challenge.* The winners, selected from around the
-    world, were featured at the second Summit.
-
-\###
+    Technologies**.
+    [Announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    at the first Summit, the United States and the United Kingdom
+    carried out their joint *Privacy Enhancing Technology Prize
+    Challenges.* IE University, in partnership with the U.S. Department
+    of State, hosted the *Tech4Democracy Global Entrepreneurship
+    Challenge.* The winners, selected from around the world, were
+    featured at the second Summit.  
+      
+    \###
