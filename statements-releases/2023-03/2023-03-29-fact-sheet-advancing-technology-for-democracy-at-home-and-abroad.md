@@ -1,6 +1,6 @@
 ---
 date: '2023-03-29'
-modified_time: 2023-03-30 16:00:50-04:00
+modified_time: 2023-03-31 10:45:30-04:00
 published_time: 2023-03-29 11:27:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/
 tags: statements-releases
@@ -277,7 +277,7 @@ include:
     governments can respect democratic values and protect human rights
     as they use surveillance technologies in three key areas of concern.
     The *[Guiding
-    Principles](/www.state.gov/wp-content/uploads/2023/03/FOC-FINAL-Surveillance-Principles-03092023.pdf)*
+    Principles](https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies)*
     draw a clear distinction between those governments that adhere to
     appropriate behaviors and those who misuse surveillance technologies
     for repression. The members of the Freedom Online Coalition are
@@ -297,7 +297,7 @@ include:
     Enhancing Export Controls of Goods and Technology That Could be
     Misused and Lead to Serious Violations or Abuses of Human Rights**.
     This multilateral *[Code of
-    Conduct](/www.state.gov/wp-content/uploads/2023/03/230303-Updated-ECHRI-Code-of-Conduct-FINAL.pdf)*,
+    Conduct](https://www.state.gov/export-controls-and-human-rights-initiative-code-of-conduct-released-at-the-summit-for-democracy/)*,
     developed through the Export Controls and Human Rights Initiative
     announced at the first Summit for Democracy, commits subscribing
     states to better integrate human rights criteria in their export

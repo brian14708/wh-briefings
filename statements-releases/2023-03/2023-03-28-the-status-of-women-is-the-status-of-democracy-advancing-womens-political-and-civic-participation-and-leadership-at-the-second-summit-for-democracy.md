@@ -1,5 +1,6 @@
 ---
 date: '2023-03-28'
+modified_time: 2023-03-31 10:46:39-04:00
 published_time: 2023-03-28 19:25:26-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/
 tags: statements-releases
@@ -130,7 +131,8 @@ technology-facilitated gender-based violence,  which disproportionately
 impacts women and LGBTQI+ political and public figures, leaders,
 journalists and activists.
 
-Today, alongside the release of the Global Partnership’s 2023 Roadmap,
+Today, alongside the release of the Global Partnership’s [2023
+Roadmap](https://www.state.gov/2023-roadmap-for-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/),
 the Biden-Harris Administration is announcing key actions and
 investments to prevent and respond to technology-facilitated
 gender-based violence and counter its chilling effects on women leaders

@@ -1,6 +1,6 @@
 ---
 date: '2023-03-29'
-modified_time: 2023-03-29 04:26:40-04:00
+modified_time: 2023-03-31 11:11:15-04:00
 published_time: 2023-03-29 04:26:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/
 tags: statements-releases
@@ -323,13 +323,13 @@ collectively announced $528 million in major new commitments today:•
 
 <!-- -->
 
--   **Kuramo Capital Management**, an investment management firm, in
-    collaboration with The Ford Foundation and 2X Global, has committed
-    to invest $140 million in capital by 2028 to catalyze the growth of
-    women-led and owned private equity and venture capita funds and
-    deliver up to $5 million in in-kind services to 25 women fund
-    managers by that date, thereby facilitating increased investment in
-    women entrepreneurs across sub-Saharan Africa
+-   **Kuramo Capital Management**, an investment management firm, is
+    working in collaboration with various partners to commit over $140
+    million in capital by 2028 to catalyze the growth of women-led and
+    owned private equity and venture capital funds and deliver up to $5
+    million in in-kind services to 25 women fund managers by that date,
+    thereby facilitating increased investment in women entrepreneurs
+    across sub-Saharan Africa
 
 <!-- -->
 
