@@ -1,11 +1,11 @@
 ---
 date: '2023-03-31'
-modified_time: 2023-03-30 20:44:50-04:00
+modified_time: 2023-03-31 09:13:09-04:00
 published_time: 2023-03-31 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/state-fact-sheets-how-president-bidens-investing-in-america-agenda-is-delivering-for-americans-in-all-50-states/
 tags: statements-releases
 title: "STATE FACT SHEETS: How President\_Biden\u2019s Investing in America agenda\
-  \ is delivering for Americans in all 50\_states"
+  \ is delivering for Americans in all 50 states and\_territories"
 ---
  
 For decades, the U.S. exported jobs and imported products, while other
@@ -21,10 +21,10 @@ including union jobs and jobs that don’t require a four-year degree in
 industries that will boost U.S. competitiveness, rebuild infrastructure,
 strengthen supply chains, and help build a clean energy economy.  
   
-To view the state-by-state impact the President’s Investing in America
-agenda is having, see below:  
+To view the state-by-state and territory-specific impact the President’s
+Investing in America agenda is having, see below:  
   
-**Fact Sheets by State:**
+**Fact Sheets by State and Territory:**
 
 -   [Alabama](https://www.whitehouse.gov/wp-content/uploads/2023/03/IIA-All-State-Fact-Sheets-Alabama.pdf)
 -   [Alaska](https://www.whitehouse.gov/wp-content/uploads/2023/03/IIA-All-State-Fact-Sheets-Alaska.pdf)
