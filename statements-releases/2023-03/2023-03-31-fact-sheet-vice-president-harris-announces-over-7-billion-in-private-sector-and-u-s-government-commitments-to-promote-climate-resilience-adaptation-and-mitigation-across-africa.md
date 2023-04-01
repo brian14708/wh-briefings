@@ -1,6 +1,6 @@
 ---
 date: '2023-03-31'
-modified_time: 2023-03-31 10:58:15-04:00
+modified_time: 2023-04-01 09:02:56-04:00
 published_time: 2023-03-31 10:58:14-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/
 tags: statements-releases
@@ -11,7 +11,7 @@ title: "FACT SHEET: Vice President Harris Announces Over $7 Billion in Private S
  
 In Lusaka, Zambia, in response to Vice President Kamala Harris’s call
 for the private sector to promote and enhance climate resilience,
-adaptation and migration across Africa, the private sector made over
+adaptation and mitigation across Africa, the private sector made over
 **$7 billion in new commitments**. Additionally, the U.S. Government is
 announcing new federal funding and initiatives to expand access to
 climate information services and enhance climate resilience and
