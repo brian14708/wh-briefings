@@ -1,6 +1,6 @@
 ---
 date: '2023-03-29'
-modified_time: 2023-03-31 11:11:15-04:00
+modified_time: 2023-04-04 14:30:32-04:00
 published_time: 2023-03-29 04:26:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/
 tags: statements-releases
@@ -298,7 +298,7 @@ Fund:
 -   **Arizona State University’s Thunderbird School of Global
     Management**, in partnership with the U.S. Department of State’s
     Bureau of Educational and Cultural Affairs (ECA), has announced a
-    five-year partnership to offer the Francis and Dionne Najafi100
+    five-year partnership to offer the Francis and Dionne Najafi 100
     Million Learners Global Initiative curriculum through the Academy
     for Women Entrepreneurs (AWE). The AWE program is currently
     implemented by 20 U.S. missions in sub-Saharan Africa, and ECA
