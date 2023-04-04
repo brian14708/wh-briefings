@@ -1,6 +1,6 @@
 ---
 date: '2023-04-04'
-modified_time: 2023-04-03 22:26:29-04:00
+modified_time: 2023-04-04 09:26:47-04:00
 published_time: 2023-04-04 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/
 tags: statements-releases
@@ -120,13 +120,15 @@ billion** in private sector investments to spur the creation and
 retention of good-paying jobs, strengthen our energy security, and lower
 energy costs for families. These investments include:
 
--   **Berkshire Hathaway Energy** recently broke ground on a $522
-    million project in Jackson County, West Virginia to establish an
-    aerospace manufacturing hub on the site of a former aluminum plant.
-    BHE will build a new solar energy microgrid and Our Next Energy, a
-    Michigan-based battery manufacturer, will build a large-scale
-    battery operation that will employ about 300 people and use 100%
-    renewable energy.  
+-   **Berkshire Hathaway Energy** recently broke ground on a new solar
+    energy microgrid in Jackson County, West Virginia that will power a
+    new aerospace manufacturing hub on the site of a former aluminum
+    plant. Precision Castparts Corp., a Berkshire Hathaway business,
+    will build a $500m state-of-the-art titanium melt plant powered by
+    100% renewable energy, which will bring 200 jobs to the site.
+    Additionally, Our Next Energy, a Michigan-based battery
+    manufacturer, will locate a $22m factory on the site that will
+    produce large-scale batteries and employ about 100 people.  
 -   **TerraPower** intends to invest $2 billion, in addition to $1.5
     billion in funding from the Bipartisan Infrastructure Law and annual
     appropriations, to build an advanced nuclear reactor on a retiring
