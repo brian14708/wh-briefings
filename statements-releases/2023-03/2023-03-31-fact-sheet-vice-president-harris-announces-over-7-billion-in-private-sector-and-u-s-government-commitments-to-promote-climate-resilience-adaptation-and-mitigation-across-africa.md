@@ -1,6 +1,6 @@
 ---
 date: '2023-03-31'
-modified_time: 2023-04-01 09:02:56-04:00
+modified_time: 2023-04-05 09:35:19-04:00
 published_time: 2023-03-31 10:58:14-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/
 tags: statements-releases
@@ -223,14 +223,17 @@ energy, and clean transportation.
 
 <!-- -->
 
--   The **Emissions Capture Company (ECCO),** an emissions management
-    platform utilizing AI-driven solutions that recycle industrial
-    emission and waste into valuable compounds to support the green
-    economy, commits at least **$550 million to reduce emissions and
-    plastic waste** from Nestlé sites in Africa between 2023 and 2029 by
-    deploying its proprietary technology that gathers emissions and
-    plastic waste from industrial processes and converts it into sodium
-    bicarbonate and other materials.
+-   **The Emissions Capture Company (ECCO)**, an emissions management
+    platform utilizing AI-driven solutions which process and refine
+    industrial emissions and waste streams into valuable compounds and
+    commodities to support the green economy, commits to reduce
+    emissions and waste from industrial sites starting in Africa. 
+    Having already delivered their first carbon capture site near
+    Pretoria in 2019, ECCO’s program between 2023 and 2029 commits at
+    least **$550 million to scaling within Africa and then globally**,
+    deploying its proprietary technologies to produce sustainable
+    commodities used in healthcare, household goods, agriculture, and
+    sustainable packaging.
 
 <!-- -->
 
