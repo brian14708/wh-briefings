@@ -1,6 +1,6 @@
 ---
 date: '2023-04-06'
-modified_time: 2023-04-05 22:04:31-04:00
+modified_time: 2023-04-09 14:22:23-04:00
 published_time: 2023-04-06 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/white-house-announces-theme-and-activities-for-the-2022-easter-egg-roll-2/
 tags: statements-releases
@@ -123,6 +123,8 @@ South Lawn, which are supported by (in alphabetical order):**
 -   Coca-Cola Company / DASANI Water
 -   D.C. Divas
 -   D.C. United
+-   Dinos Alive Experience/Exhibition Hub
+-   Divinity Roxx, singer and songwriter, Divinity Roxx Kids
 -   DJ Mel
 -   DJs and twin sisters, Amira and Kayla
 -   Dominique Dawes, former Team USA Olympic Gold Medalist in Gymnastics
@@ -181,7 +183,7 @@ South Lawn, which are supported by (in alphabetical order):**
 -   Washington Spirit
 -   West Springfield High School Chamber Orchestra
 -   White House Historical Association
--   Women in Sports Foundation
+-   Women’s Sports Foundation
 -   Women’s National Basketball Association
 -   YouTube Kids/Art for Kids Hub
 
