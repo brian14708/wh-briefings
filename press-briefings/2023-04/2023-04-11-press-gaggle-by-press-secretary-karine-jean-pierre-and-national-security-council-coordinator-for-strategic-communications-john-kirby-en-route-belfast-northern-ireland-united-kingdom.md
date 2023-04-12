@@ -1,6 +1,6 @@
 ---
 date: '2023-04-11'
-modified_time: 2023-04-11 16:26:55-04:00
+modified_time: 2023-04-12 09:38:44-04:00
 published_time: 2023-04-11 16:26:54-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/11/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-en-route-belfast-northern-ireland-united-kingdom/
 tags: press-briefings
@@ -426,8 +426,8 @@ are. 
 That’s it.  
    
 Q    Karine, any — any chance you guys have reconsidered the decision
-not to have a press conference while you’re in Ireland?  
-   
+not to have a press conference while you’re in Ireland?
+
 MS. JEAN-PIERRE:  So, look, I know and — and I appreciate the question. 
 I know you guys asked —  
    
@@ -444,8 +444,8 @@ from him directly on. 
    
 So, the informal and informative Q&A that the President Biden engages in
 the — in with the press corps is more than — more than the last three
-Presidents.  If you think about the informal questions and the formal
-questions.  
+Presidents \[as of.  If you think about the informal questions and the
+formal questions.  
    
 And I told — I mentioned to all of you yesterday that we actually had
 some — some data to share.  It’s more than Presidents Trump; it’s more
@@ -461,11 +461,13 @@ know.
 Q    Well, I would just ask — I mean, just — like, is it minutes spoken
 or —  
    
-MS. JEAN-PIERRE:  It’s questions.  I just said: questions.  
+MS. JEAN-PIERRE:  It’s questions.  I just said <s>questions</s>
+\[question-and-answer sessions\].  
    
 Q    Number of questions?   
    
-MS. JEAN-PIERRE:  Number of questions.  Yeah —  
+MS. JEAN-PIERRE:  Number of <s>questions</s> \[question-and-answer
+sessions\].  Yeah —  
    
 Q    So — so, that’s what I’m asking is what the metric is.   
    
@@ -473,14 +475,16 @@ MS. JEAN-PIERRE:  Okay.  No problem.  That’s what I — but I said —
    
 Q    Number of questions.   
    
-MS. JEAN-PIERRE:  — number of questions.  Just number of questions.   
+MS. JEAN-PIERRE:  — number of questions.  Just number of
+<s>questions</s> \[question-and-answer sessions\].  
    
 Let me — let me finish, and then we can continue —  
    
 Q    Oh, yeah, sure.  
    
-MS. JEAN-PIERRE:  So it’s more than President Trump and Obama combined,
-or President Obama and George W. Bush.   
+MS. JEAN-PIERRE:  So, \[in the first 20 months of their presidencies\],
+it’s more than President Trump and Obama combined, or President Obama
+and George W. Bush.   
    
 And here you go.  To your question, he has answered over 320 questions,
 and that’s not even including more — more formal press conference and
