@@ -1,5 +1,6 @@
 ---
 date: '2023-04-11'
+modified_time: 2023-04-12 14:43:50-04:00
 published_time: 2023-04-11 07:37:17-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/statement-from-president-joe-biden-on-the-55th-anniversary-of-the-fair-housing-act/
 tags: statements-releases
@@ -28,9 +29,8 @@ And during the first week of the Biden-Harris Administration, I directed
 the U.S. Department of Housing and Urban Development to fully implement
 that rule after it was weakened during the prior administration, and I
 am proud the proposed rule was published this past January.
-Additionally, my administration issued a rule change in 2021 to ensure
-that the Fair Housing Act finally guards against discrimination
-targeting LGBTQ+ Americans.  
+Additionally, my administration made clear in 2021 that the Fair Housing
+Act guards against discrimination targeting LGBTQ+ Americans.  
    
 As we celebrate the ways in which the Fair Housing Act has empowered
 millions of Americans with a fair shot at accessing housing

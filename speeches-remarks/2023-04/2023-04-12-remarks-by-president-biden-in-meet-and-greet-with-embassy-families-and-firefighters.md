@@ -1,5 +1,6 @@
 ---
 date: '2023-04-12'
+modified_time: 2023-04-12 15:07:45-04:00
 published_time: 2023-04-12 13:52:42-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-in-meet-and-greet-with-embassy-families-and-firefighters/
 tags: speeches-remarks
@@ -10,6 +11,8 @@ title: "Remarks by President\_Biden in Meet-and-Greet with Embassy Families and\
 Dublin Airport  
 Dublin, Republic of Ireland
 
+3:40 P.M. IST  
+  
 THE PRESIDENT:  Hello, hello, hello.  Is this working?  There you go. 
 Well, how are you?  (Applause.)  God love you.  
    
@@ -211,4 +214,6 @@ THE PRESIDENT:  I’m supposed to do the rope line? 
    
 MR. HUNTER BIDEN:  Just to say hi to everybody.  (Inaudible.)  
    
-THE PRESIDENT:  All right.  Well, guys, thank you.
+THE PRESIDENT:  All right.  Well, guys, thank you.  
+  
+3:45 P.M. IST
