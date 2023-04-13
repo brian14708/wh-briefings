@@ -1,6 +1,6 @@
 ---
 date: '2023-04-13'
-modified_time: 2023-04-13 14:19:15-04:00
+modified_time: 2023-04-13 14:32:15-04:00
 published_time: 2023-04-13 10:24:07-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/fact-sheet-fact-sheet-president-biden-announces-plan-to-expand-health-coverage-to-daca-recipients/
 tags: statements-releases
@@ -34,14 +34,14 @@ plan to expand health coverage for DACA recipients. The Department of
 Health and Human Services will shortly propose a rule amending the
 definition of “lawful presence,” for purposes of Medicaid and Affordable
 Care Act coverage, to include DACA recipients. We recognize that every
-day counts, and we expect to get this done by the end of the month. If
-finalized, the rule will make DACA recipients eligible for these
-programs for the first time.  Under the proposed rule, DACA recipients
-will be able to apply for coverage through the Health Insurance
-Marketplace, where they may qualify for financial assistance based on
-income, and through their state Medicaid agency.  Like all other
-enrollees, eligibility information will be verified electronically when
-individuals apply for coverage.  
+day counts, and we expect to get the proposed rule done by the end of
+the month. If finalized, the rule will make DACA recipients eligible for
+these programs for the first time.  Under the proposed rule, DACA
+recipients will be able to apply for coverage through the Health
+Insurance Marketplace, where they may qualify for financial assistance
+based on income, and through their state Medicaid agency.  Like all
+other enrollees, eligibility information will be verified electronically
+when individuals apply for coverage.  
   
 President Biden and Vice President Harris believe that health care
 should be a right, not a privilege. Together, they promised to protect
