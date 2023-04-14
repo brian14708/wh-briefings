@@ -1,6 +1,6 @@
 ---
 date: '2023-04-14'
-modified_time: 2023-04-14 12:51:31-04:00
+modified_time: 2023-04-14 15:55:44-04:00
 published_time: 2023-04-14 12:51:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/what-they-are-saying-members-of-congress-local-leaders-immigration-advocates-and-more-celebrate-the-biden-administrations-expansion-of-the-affordable-care-act-to-daca-recipients/
 tags: statements-releases
@@ -171,7 +171,7 @@ Dreamers deserve!”
 \[[Tweet](https://twitter.com/RepYvetteClarke/status/1646561284626710554?s=20),
 4/13/23\]
 
-**Rep. Emmanuel Cleaver:** “All of our neighbors deserve affordable
+**Rep. Emanuel Cleaver:** “All of our neighbors deserve affordable
 healthcare, including Dreamers who contribute so much to our
 communities. Thankful to @POTUS for taking this step. Now, let’s
 continue working to pass the American Dream and Promise Act into law!”
