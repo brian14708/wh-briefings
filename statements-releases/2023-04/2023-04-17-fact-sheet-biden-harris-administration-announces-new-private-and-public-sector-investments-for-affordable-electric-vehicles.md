@@ -1,6 +1,6 @@
 ---
 date: '2023-04-17'
-modified_time: 2023-04-17 10:10:34-04:00
+modified_time: 2023-04-17 10:43:44-04:00
 published_time: 2023-04-17 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/
 tags: statements-releases
@@ -48,7 +48,7 @@ to bring a clean, safe, affordable, and reliable transportation future
 to Americans even faster.
 
 Today companies and nonprofits including Blink Charging, the National
-Automobile Dealers Association, Pacific Gas & Electric, Uber, ZipCar and
+Automobile Dealers Association, Pacific Gas & Electric, Uber, Zipcar and
 others, are announcing new commitments to expand EV fleets, increase
 consumer education, and grow the availability of EV charging.   
 
