@@ -1,6 +1,6 @@
 ---
 date: '2023-04-18'
-modified_time: 2023-04-17 22:26:51-04:00
+modified_time: 2023-04-18 07:44:33-04:00
 published_time: 2023-04-18 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/
 tags: statements-releases
@@ -151,7 +151,7 @@ Specifically, his Executive Order will:
     Family Caregivers and provide more mental health support for
     caregivers enrolled in that program. These actions build on the
     [2022 National Strategy to Support
-    Caregivers](/Users/TLTanielian/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KYARQSED/2022%20National%20Strategy%20to%20Support%20Family%20Caregivers%20(acl.gov)).  
+    Caregivers](https://acl.gov/sites/default/files/RAISE_SGRG/NatlStrategyToSupportFamilyCaregivers.pdf).  
 -   **Advance domestic workers’ rights**. Care workers should be
     supported, valued, and fairly compensated, and care workers should
     have the free and fair choice to join a union. In particular,
