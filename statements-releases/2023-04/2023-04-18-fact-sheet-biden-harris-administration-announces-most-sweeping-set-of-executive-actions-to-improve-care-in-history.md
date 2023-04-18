@@ -1,6 +1,6 @@
 ---
 date: '2023-04-18'
-modified_time: 2023-04-18 07:44:33-04:00
+modified_time: 2023-04-18 09:09:12-04:00
 published_time: 2023-04-18 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/
 tags: statements-releases
@@ -13,7 +13,7 @@ executive actions any President has ever taken to improve care for
 hard-working families while supporting care workers and family
 caregivers. Joined by people with disabilities, family caregivers,
 long-term care workers, early educators, veterans, and aging advocates,
-the President signed an Executive Order that includes more than 50
+the President will sign an Executive Order that includes more than 50
 directives to nearly every cabinet-level agency to expand access to
 affordable, high-quality care, and provide support for care workers and
 family caregivers.  
