@@ -1,6 +1,6 @@
 ---
 date: '2023-04-18'
-modified_time: 2023-04-18 21:09:46-04:00
+modified_time: 2023-04-19 14:42:51-04:00
 published_time: 2023-04-18 20:49:12-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/what-they-are-saying-leaders-care-givers-advocates-and-more-applaud-president-bidens-executive-order-increasing-access-to-high-quality-care-and-supporting-caregivers/
 tags: statements-releases
@@ -311,18 +311,19 @@ the U.S. to reach its fullest potential.
 \[[Statement](https://info.childcareaware.org/media/white-house-announces-executive-actions-promoting-child-care-and-caregiving-economy),
 4/18/23\] 
 
-**Sarah Rittling, Executive Director, First Five Years Fund:** “The
-president’s message tonight was clear: Congress should prioritize child
-care and early learning and send a bill lowering families’ costs to his
-desk for signature. President Biden understands that the high cost and
-limited supply of child care and pre-K has held working families back
-for too long. We have an opportunity to provide relief to parents and
-build an early learning system that meets the needs of families,
-providers, and our economy.\[…\]The good news is that we have never been
-closer to passing strong, federal legislation to fortify America’s child
-care and early learning sector. We look forward to continuing to work
-with Congress and heed the President’s call this evening to enact these
-desperately-needed reforms and investments.”
+**Sarah Rittling, Executive Director, First Five Years Fund:**
+“President Biden knows that the key to building a stronger economic
+future for our country lies in investing in our nation’s child care
+sector. We are pleased President Biden has made child care a pillar of
+his domestic policy agenda, and that he continues to look for ways to
+help address the realities facing America’s working families and our
+youngest learners. Lawmakers have long understood that ensuring families
+have access to affordable child care will require action from every
+level of government. We look forward to continuing to work with the
+White House and Members of Congress to build on the long standing
+bipartisan support for child care, and enact solutions that address the
+daily challenges too many families across the country face in accessing
+the care they need.”
 \[[Statement](https://www.ffyf.org/ffyf-statement-on-child-care-in-state-of-the-union/),
 4/18/23\] 
 
@@ -969,6 +970,36 @@ improve access to home-based care for Veterans, enhance job quality for
 long-term care workers, and support family caregivers. \[…\]”
 \[[Statement](https://pva.org/news-and-media-center/recent-news/pva-issues-statement-applauding-executive-order-home-based-care-veterans-long-term-care-workers-family-caregivers/),
 4/18/23\]
+
+**Josephine Kalipeni, Executive Director, Family Values at Work:** “The
+President’s move to support caregivers and the families they support
+shows that this administration is listening to the demands of working
+caregivers. This is a significant win for our Network who has worked
+hard to ensure that the priorities of working families remain a priority
+for this Administration. We also know that without paid family and
+medical leave, and paid sick and safe days, our care workers’ needs are
+not fully met. The President cannot act alone. I fully expect that
+Congress will also act to demonstrate to their constituents that they
+care about their lives and needs.’ We celebrate this Executive Order and
+we are clear that Congress must act to pass legislation that will make
+working families’ lives easier. Without paid family and medical leave,
+and paid sick and safe days, our work is not yet done. We demand that
+our legislators––whom we employ––promote care in policy and practice.
+And we demand the actualization of a care economy that ensures that all
+of the resources needed to take time to care––including paid family and
+medical leave with job security and progressive wage replacement, paid
+sick and safe days, and affordable childcare––are available to all. We
+know these policies work because of our 20 years of advancing them in
+the states where more than 55 million have been impacted positively by
+our paid sick days and family leave wins, and over 16 million workers
+now have access to paid sick days laws as a result of our work. In a
+nation that underpays and undervalues caregivers, we are stronger as a
+community and a nation when we claim our right to care and when leaders
+make these issues a priority – as this administration continues to do.
+When we have time to care, our families are healthier, our communities
+are safer, and we advance toward equity.”
+\[[Statement](https://familyvaluesatwork.org/care-economy-executive-order-statement/),
+4/18/2023\]
 
   
   \###
