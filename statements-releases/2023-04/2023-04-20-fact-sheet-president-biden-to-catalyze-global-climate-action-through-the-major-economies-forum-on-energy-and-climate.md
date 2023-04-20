@@ -1,6 +1,6 @@
 ---
 date: '2023-04-20'
-modified_time: 2023-04-19 22:16:02-04:00
+modified_time: 2023-04-20 13:13:35-04:00
 published_time: 2023-04-20 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/
 tags: statements-releases
@@ -132,14 +132,16 @@ Inflation Reduction Act and Bipartisan Infrastructure Law as well as
 other actions the Administration is taking, the United States is on a
 clear path to achieve this goal, while reducing costs for consumers,
 lowering harmful pollutants, mitigating climate change, and creating new
-economic opportunities.  Today, the U.S. released a new National
-Innovation Pathway Report, highlighting the Biden-Harris
-Administration’s all-hands-on-deck strategy for accelerating key clean
-energy technology innovations.  The Administration is advancing a
-three-pronged approach that prioritizes innovation, demonstration, and
-deployment to scale the technologies the United States needs to achieve
-its goals of a carbon pollution-free electricity sector by no later than
-2035 and a net-zero emissions economy by no later than 2050.
+economic opportunities.  Today, the U.S. released a new [National
+Innovation Pathway
+Report](https://www.whitehouse.gov/wp-content/uploads/2023/04/US-National-Innovation-Pathway.pdf),
+highlighting the Biden-Harris Administration’s all-hands-on-deck
+strategy for accelerating key clean energy technology innovations.  The
+Administration is advancing a three-pronged approach that prioritizes
+innovation, demonstration, and deployment to scale the technologies the
+United States needs to achieve its goals of a carbon pollution-free
+electricity sector by no later than 2035 and a net-zero emissions
+economy by no later than 2050.
 
 To accelerate global progress, President Biden will invite leaders to
 announce steps they are taking to put their energy sectors on a path
