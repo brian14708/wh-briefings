@@ -1,6 +1,6 @@
 ---
 date: '2023-04-21'
-modified_time: 2023-04-21 17:21:08-04:00
+modified_time: 2023-04-26 18:20:59-04:00
 published_time: 2023-04-21 17:21:07-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/
 tags: statements-releases
@@ -94,17 +94,17 @@ participating in the MEF meeting):
     Partnership** to coordinate investment and support for ambitious
     forest, nature, and climate action in forest countries.  
 -   **<u>Reducing Methane Emissions</u>** – MEF participants Canada, the
-    European Union, France, Germany, and the United States, as well as
-    Ireland and Norway, joined in launching the **Methane Finance
-    Sprint,** which aims to scale up methane finance.  This includes
-    mobilizing, by COP 28, at least $200 million in new public and
-    philanthropic support for methane abatement activities, with a view
-    to developing a pipeline of projects.  Philanthropies have committed
-    $100 million in new funding through the Global Methane Hub towards
-    the $200 million goal.  
+    European Union, France, Germany, Japan, and the United States, as
+    well as Ireland and Norway, joined in launching the **Methane
+    Finance Sprint,** which aims to scale up methane finance.  This
+    includes mobilizing, by COP 28, at least $200 million in new public
+    and philanthropic support for methane abatement activities, with a
+    view to developing a pipeline of projects.  Philanthropies have
+    committed $100 million in new funding through the Global Methane Hub
+    towards the $200 million goal.  
 -   **<u>Phasing Down HFCs</u>** – Australia, Canada, the European
-    Union, France, Germany, the United Kingdom, and the United States
-    expressed support for a robust upcoming replenishment of the
+    Union, France, Germany, Japan, the United Kingdom, and the United
+    States expressed support for a robust upcoming replenishment of the
     Montreal Protocol Multilateral Fund to incentivize **early action on
     hydrofluorocarbon (HFC) reductions** and to maximize parallel
     cooling efficiency improvements. The Kigali Amendment will expedite
