@@ -1,6 +1,6 @@
 ---
 date: '2023-04-26'
-modified_time: 2023-04-26 20:54:41-04:00
+modified_time: 2023-04-27 13:09:57-04:00
 published_time: 2023-04-26 20:54:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/white-house-releases-state-dinner-guest-list/
 tags: statements-releases
@@ -23,7 +23,7 @@ Mr. Michael Arden
 The Honorable Lloyd Austin, Secretary of Defense, U.S. Department of
 Defense & Mrs. Charlene Austin  
   
-Mr. Joe Bae & Mrs. Janice Bae  
+Mr. Joe Bae & Mrs. Janice Lee  
   
 The Honorable Charlie Baker, Former Governor of Massachusetts  
   
