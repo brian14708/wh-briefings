@@ -1,6 +1,6 @@
 ---
 date: '2023-04-26'
-modified_time: 2023-04-26 17:25:42-04:00
+modified_time: 2023-04-28 11:39:36-04:00
 published_time: 2023-04-26 17:25:41-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/leaders-joint-statement-in-commemoration-of-the-70th-anniversary-of-the-alliance-between-the-united-states-of-america-and-the-republic-of-korea/
 tags: statements-releases
@@ -190,7 +190,7 @@ and peer-to-peer learning—and direct collaboration on programs,
 particularly in the Mekong sub-region. Both Presidents reaffirmed their
 commitment to contributing to the Pacific including through the Partners
 in the Blue Pacific initiative as well as the ROK’s decision to host the
-first ROK-Pacific Islands Summit in May.  
+first Korea-Pacific Islands Summit in May.  
    
 **Strengthening Ironclad Bilateral Collaboration**  
    
@@ -202,8 +202,9 @@ ROK committed to address trade concerns through the committees of the
 U.S.-Korea Free Trade Agreement and other relevant channels, including
 for semiconductors, steel, and other critical goods. The United States
 and the ROK will continue to consult closely on foreign exchange market
-developments to promote sustainable growth and financial stability,
-reaffirming their recognition of foreign exchange market cooperation.  
+developments to promote sustainable growth and financial stability, and
+the two Presidents reaffirmed recognition of foreign exchange market
+cooperation as discussed during meetings in May and September 2022.  
    
 President Biden and President Yoon affirmed the need to make bold
 investments to build clean energy economies and to build and strengthen
