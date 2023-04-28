@@ -1,13 +1,13 @@
 ---
 date: '2023-04-28'
-modified_time: 2023-04-28 12:32:22-04:00
+modified_time: 2023-04-28 12:48:32-04:00
 published_time: 2023-04-28 12:27:18-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/28/clemency-recipient-list-3/
 tags: statements-releases
 title: Clemency Recipient List
 ---
  
-Today, President Joseph R. Biden Jr. is granting commutations to 31
+Today, President Joseph R. Biden Jr. is commuting the sentences of 31
 individuals.
 
 **Chiquita Acker** – Pearlington, Mississippi  

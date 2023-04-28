@@ -1,6 +1,6 @@
 ---
 date: '2023-04-28'
-modified_time: 2023-04-28 12:18:12-04:00
+modified_time: 2023-04-28 12:49:15-04:00
 published_time: 2023-04-28 12:18:09-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/28/fact-sheet-biden-harris-administration-takes-action-during-second-chance-month-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/
 tags: statements-releases
@@ -60,8 +60,8 @@ employment and advancing their education. Many would have received a
 lower sentence if they were charged with the same offense today, due to
 changes in the law, including the bipartisan First Step Act.  
 Taken together, our collective efforts will move us toward a safer,
-stronger, and more just America. To read the full **White
-HouseAlternatives, Rehabilitation, and Reentry Strategic Plan**, [click
+stronger, and more just America. To read the full **White House
+Alternatives, Rehabilitation, and Reentry Strategic Plan**, [click
 here](https://www.whitehouse.gov/wp-content/uploads/2023/04/The-White-House-Alternatives-Rehabilitation-and-Reentry-Strategic-Plan.pdf).
 Its elements, reflecting the current and future work of the federal
 government, include:  
