@@ -1,6 +1,6 @@
 ---
 date: '2023-04-27'
-modified_time: 2023-04-27 17:50:15-04:00
+modified_time: 2023-04-27 18:40:35-04:00
 published_time: 2023-04-27 17:50:14-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/
 tags: speeches-remarks
@@ -325,9 +325,9 @@ the G7 Summit in Hiroshima next month.
   
 Now, our cooperation with partners is not limited to clean energy.  
   
-For example, we’re working with several countries—in Europe, the
-Republic of Korea, Japan, Taiwan, and India—and we’re also working with
-Taiwan—to coordinate our approaches to semiconductor incentives.  
+For example, we’re working with partners—in Europe, the Republic of
+Korea, Japan, Taiwan, and India—to coordinate our approaches to
+semiconductor incentives.  
   
 Analyst projections on where semiconductor investments will happen over
 the next three years have shifted dramatically, with the United States
