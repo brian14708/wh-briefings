@@ -1,12 +1,12 @@
 ---
 date: '2023-05-01'
-modified_time: 2023-04-30 21:31:59-04:00
+modified_time: 2023-05-01 07:43:33-04:00
 published_time: 2023-05-01 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-president-biden-delivers-update-on-his-strategy-to-build-on-americas-small-business-boom-while-speak-mccarthy-and-house-republicans-threaten-to-harm-small-businesses-and-eliminat/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Delivers Update on His Strategy to Build on America\u2019\
-  s Small Business Boom, while Speak McCarthy and House Republicans Threaten to Harm\
-  \ Small Businesses and Eliminate\_Jobs"
+  s Small Business Boom, while Speaker McCarthy and House Republicans Threaten to\
+  \ Harm Small Businesses and Eliminate\_Jobs"
 ---
  
 *New Report Card and Analysis Released On How the Biden-Harris
@@ -25,7 +25,7 @@ to capital and leveraging billions in federal dollars from the Investing
 in America agenda, this new report card lays out how the Biden-Harris
 Administration has taken action to support small businesses.
 Additionally, the Council of Economic Advisers is releasing a [new
-analysis](https://www.whitehouse.gov/cea/written-materials/2023/04/30/investing-in-small-businesses/)
+analysis](https://www.whitehouse.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
 that identifies the potential benefits to small businesses from the
 hundreds of billions being invested through the President’s Investing in
 America agenda.  
