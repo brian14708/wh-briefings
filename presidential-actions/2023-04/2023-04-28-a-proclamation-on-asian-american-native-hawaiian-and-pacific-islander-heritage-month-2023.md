@@ -1,5 +1,6 @@
 ---
 date: '2023-04-28'
+modified_time: 2023-05-01 15:05:48-04:00
 published_time: 2023-04-28 13:12:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/28/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islander-heritage-month-2023/
 tags: presidential-actions
@@ -33,20 +34,19 @@ frontlines during the COVID-19 pandemic. 
 
      Despite the immeasurable ways AA and NHPIs enrich this country, we
 continue to see persistent racism, harassment, and hate crimes against
-these communities.  Attacks on Asian American women and elders, have
-left too many families afraid to leave their homes and too many loved
-ones traumatized.  The devastating murder of eight victims in Atlanta,
-six of whom were women of Asian descent, pierced the soul of this
-Nation.  This year, after the shootings in Monterey Park and Half Moon
-Bay, both the Vice President and I visited California to honor the
-victims; grieve with the community; and witness their resilience,
-heroism, and courage.  Hate must have no safe harbor in America, and
-every person deserves to be treated with dignity and respect.  To
-address the rising tide of anti-Asian violence, I signed the bipartisan
-COVID-19 Hate Crimes Act into law — which included the Jabara-Heyer No
-HATE Act, making it easier for Americans to report hate crimes and to
-help State, local, and Tribal law enforcement agencies better track
-these hateful acts.
+these communities.  Attacks on Asian American women and elders have left
+too many families afraid to leave their homes and too many loved ones
+traumatized.  The devastating murder of eight victims in Atlanta, six of
+whom were women of Asian descent, pierced the soul of this Nation.  This
+year, after the shootings in Monterey Park and Half Moon Bay, both the
+Vice President and I visited California to honor the victims; grieve
+with the community; and witness their resilience, heroism, and courage. 
+Hate must have no safe harbor in America, and every person deserves to
+be treated with dignity and respect.  To address the rising tide of
+anti-Asian violence, I signed the bipartisan COVID-19 Hate Crimes Act
+into law — which included the Jabara-Heyer No HATE Act, making it easier
+for Americans to report hate crimes and to help State, local, and Tribal
+law enforcement agencies better track these hateful acts.
 
      This year I was proud to launch the first-ever National Strategy to
 Advance Equity, Justice, and Opportunity for Asian American, Native
