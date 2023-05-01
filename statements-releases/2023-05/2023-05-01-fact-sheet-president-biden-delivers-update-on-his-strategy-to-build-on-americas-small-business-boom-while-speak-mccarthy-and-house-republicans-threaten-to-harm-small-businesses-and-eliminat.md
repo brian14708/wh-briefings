@@ -1,6 +1,6 @@
 ---
 date: '2023-05-01'
-modified_time: 2023-05-01 07:43:33-04:00
+modified_time: 2023-05-01 14:26:01-04:00
 published_time: 2023-05-01 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-president-biden-delivers-update-on-his-strategy-to-build-on-americas-small-business-boom-while-speak-mccarthy-and-house-republicans-threaten-to-harm-small-businesses-and-eliminat/
 tags: statements-releases
@@ -62,12 +62,14 @@ White House and announce the following:
     momentum in fostering new business creation. The report card shows
     significant progress on all 35 initiatives, including delivering
     billions of dollars in loans and support services.  
--   **New Small Business Administration (SBA) guidance strengthening
-    more than 100 nonprofit, mission-driven lenders.** The Community
-    Advantage Pilot Program allows nonprofit lenders, with a proven
-    track record of higher rates of lending to Black, Hispanic, women,
-    and veteran-owned businesses, to make SBA-backed loans. A permanent
-    license will provide these lenders with long-term certainty.  
+-   **New Small Business Administration (SBA)
+    [guidance](https://www.sba.gov/document/information-notice-5000-846918-community-advantage-small-business-lending-company)
+    strengthening more than 100 nonprofit, mission-driven lenders.** The
+    Community Advantage Pilot Program allows nonprofit lenders, with a
+    proven track record of higher rates of lending to Black, Hispanic,
+    women, and veteran-owned businesses, to make SBA-backed loans. A
+    permanent license will provide these lenders with long-term
+    certainty.  
 -   **Applications will open in June 2023 for non-bank lenders applying
     for Small Business Lending Company (SBLC) licenses.** Last month,
     SBA finalized a rule that will allow the agency to issue new SBLC
