@@ -1,6 +1,6 @@
 ---
 date: '2023-04-27'
-modified_time: 2023-04-27 16:11:14-04:00
+modified_time: 2023-05-02 19:13:40-04:00
 published_time: 2023-04-27 16:11:13-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/27/background-press-call-by-senior-administration-officials-on-the-administrations-actions-to-punish-and-deter-wrongful-detention-and-hostage-taking/
 tags: press-briefings
@@ -181,7 +181,8 @@ of every U.S. hostage and wrongful detainee held captive abroad. 
 Bob’s legacy lives on in the Levinson Act and the actions taken here
 today.  He will never be forgotten.  Bob will never be forgotten.  
    
-Thanks.  I’ll turn it back over to you, Josh.  
+Thanks.  I’ll turn it back over to you, \[senior administration
+official\].  
    
 SENIOR ADMINISTRATION OFFICIAL:  Thanks so much.  \[Moderator\], should
 we open up for some questions?  
