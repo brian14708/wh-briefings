@@ -1,6 +1,6 @@
 ---
 date: '2023-05-04'
-modified_time: 2023-05-03 23:25:32-04:00
+modified_time: 2023-05-04 11:18:26-04:00
 published_time: 2023-05-04 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/
 tags: statements-releases
@@ -37,33 +37,39 @@ communities, international partners, and others on critical AI issues.
   
 This effort builds on the considerable steps the Administration has
 taken to date to promote responsible innovation. These include the
-landmark Blueprint for an AI Bill of Rights and related executive
-actions announced last fall, as well as the AI Risk Management Framework
-and a roadmap for standing up a National AI Research Resource released
+landmark [Blueprint for an AI Bill of
+Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and [related
+executive
+actions](https://www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/) announced
+last fall, as well as the [AI Risk Management
+Framework](https://www.nist.gov/itl/ai-risk-management-framework) and
+a [roadmap for standing up a National AI Research
+Resource](https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf) released
 earlier this year.  
   
 The Administration has also taken important actions to protect Americans
-in the AI age. In February, President Biden signed an Executive Order
-that directs federal agencies to root out bias in their design and use
-of new technologies, including AI, and to protect the public from
-algorithmic discrimination. Last week, the Federal Trade Commission,
-Consumer Financial Protection Bureau, Equal Employment Opportunity
-Commission, and Department of Justice’s Civil Rights Division issued a
-joint statement underscoring their collective commitment to leverage
-their existing legal authorities to protect the American people from
-AI-related harms.  
+in the AI age. In February, President Biden signed an [Executive
+Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) that
+directs federal agencies to root out bias in their design and use of new
+technologies, including AI, and to protect the public from algorithmic
+discrimination. Last week, the Federal Trade Commission, Consumer
+Financial Protection Bureau, Equal Employment Opportunity Commission,
+and Department of Justice’s Civil Rights Division issued a [joint
+statement](https://www.ftc.gov/system/files/ftc_gov/pdf/EEOC-CRT-FTC-CFPB-AI-Joint-Statement%28final%29.pdf) underscoring
+their collective commitment to leverage their existing legal authorities
+to protect the American people from AI-related harms.  
   
 The Administration is also actively working to address the national
 security concerns raised by AI, especially in critical areas like
 cybersecurity, biosecurity, and safety. This includes enlisting the
 support of government cybersecurity experts from across the national
 security community to ensure leading AI companies have access to best
-practices, including protection of AI models and networks.
-
-**Today’s announcements include:**
+practices, including protection of AI models and networks.  
+  
+**<u>Today’s announcements include:</u>**
 
 -   **New investments to power responsible American AI research and
-    development (R&D).** The National Science Foundation is announcing
+    development (R&D). **The National Science Foundation is announcing
     $140 million in funding to launch seven new National AI Research
     Institutes. This investment will bring the total number of
     Institutes to 25 across the country, and extend the network of
@@ -76,8 +82,9 @@ practices, including protection of AI models and networks.
     infrastructure and support the development of a diverse AI
     workforce. The new Institutes announced today will advance AI R&D to
     drive breakthroughs in critical areas, including climate,
-    agriculture, energy, public health, education, and cybersecurity.
--   **Public assessments of existing generative AI systems.** The
+    agriculture, energy, public health, education, and cybersecurity.  
+     
+-   **Public assessments of existing generative AI systems.** The
     Administration is announcing an independent commitment from leading
     AI developers, including Anthropic, Google, Hugging Face, Microsoft,
     NVIDIA, OpenAI, and Stability AI, to participate in a public
@@ -90,12 +97,12 @@ practices, including protection of AI models and networks.
     Bill of Rights and AI Risk Management Framework. This independent
     exercise will provide critical information to researchers and the
     public about the impacts of these models, and will enable AI
-    companies and developers take steps to fix issues found in those
+    companies and developers to take steps to fix issues found in those
     models. Testing of AI models independent of government or the
     companies that have developed them is an important component in
     their effective evaluation.
 -   **Policies to ensure the U.S. government is leading by example on
-    mitigating AI risks and harnessing AI opportunities.** The Office of
+    mitigating AI risks and harnessing AI opportunities.** The Office of
     Management and Budget (OMB) is announcing that it will be releasing
     draft policy guidance on the use of AI systems by the U.S.
     government for public comment. This guidance will establish specific

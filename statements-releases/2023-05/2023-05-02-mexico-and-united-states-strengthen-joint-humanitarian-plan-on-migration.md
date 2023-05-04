@@ -1,5 +1,6 @@
 ---
 date: '2023-05-02'
+modified_time: 2023-05-04 10:47:18-04:00
 published_time: 2023-05-02 22:22:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/mexico-and-united-states-strengthen-joint-humanitarian-plan-on-migration/
 tags: statements-releases
@@ -37,8 +38,9 @@ Fourth, Mexico and the United States commit to continue the successful
 joint initiative that President López Obrador and President Biden
 announced in January 2023 beyond May 11, 2023.  This initiative – which
 combines expanded legal pathways with consequences for irregular
-migration – achieved a 95 percent drop in border encounters at our
-shared border. Today, the United States committed to continue to welcome
+migration – achieved a 95 percent drop in border encounters of
+individuals from Cuba, Haiti, Nicaragua and Venezuela at our shared
+border. Today, the United States committed to continue to welcome
 individuals from Cuba, Haiti, Nicaragua and Venezuela under our
 parole process. For its part, Mexico will continue to accept back
 migrants on humanitarian grounds.   
