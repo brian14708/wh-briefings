@@ -1,10 +1,11 @@
 ---
 date: '2023-05-01'
+modified_time: 2023-05-04 14:54:26-04:00
 published_time: 2023-05-01 18:36:21-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/01/remarks-by-president-biden-and-president-ferdinand-marcos-jr-of-the-philippines-before/
 tags: speeches-remarks
-title: "Remarks by President\_Biden and President Ferdinand Marcos Jr. of the Philippines\_\
-  Before"
+title: "Remarks by President\_Biden and President Ferdinand Marcos Jr. of the Philippines\
+  \ Before Bilateral\_Meeting"
 ---
  
 Oval Office
