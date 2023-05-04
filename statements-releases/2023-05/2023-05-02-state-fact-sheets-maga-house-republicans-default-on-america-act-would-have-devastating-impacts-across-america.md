@@ -1,5 +1,6 @@
 ---
 date: '2023-05-02'
+modified_time: 2023-05-04 09:46:33-04:00
 published_time: 2023-05-02 15:56:57-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/state-fact-sheets-maga-house-republicans-default-on-america-act-would-have-devastating-impacts-across-america/
 tags: statements-releases
@@ -188,7 +189,7 @@ Training***
 -   [Missouri](https://www.whitehouse.gov/wp-content/uploads/2023/05/Missouri.pdf)
 -   [Montana](https://www.whitehouse.gov/wp-content/uploads/2023/05/Montana.pdf)
 -   [Nebraska](https://www.whitehouse.gov/wp-content/uploads/2023/05/Nebraska.pdf)
--   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2023/05/Nebraska.pdf)
+-   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2023/05/Nevada.pdf)
 -   [New
     Hampshire](https://www.whitehouse.gov/wp-content/uploads/2023/05/New-Hampshire.pdf)
 -   [New
