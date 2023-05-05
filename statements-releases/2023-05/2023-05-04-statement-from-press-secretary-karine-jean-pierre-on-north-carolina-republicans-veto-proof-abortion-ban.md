@@ -1,11 +1,11 @@
 ---
 date: '2023-05-04'
-modified_time: 2023-05-05 07:20:37-04:00
+modified_time: 2023-05-05 08:55:07-04:00
 published_time: 2023-05-04 23:07:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/statement-from-press-secretary-karine-jean-pierre-on-north-carolina-republicans-veto-proof-abortion-ban/
 tags: statements-releases
-title: "Statement from Press Secretary Karine Jean-Pierre on North Carolina Republicans\u2019\
-  \ Abortion\_Ban"
+title: "Statement from Press Secretary Karine Jean-Pierre on North Carolina\u2019\
+  s Abortion\_Ban"
 ---
  
 Today, North Carolina’s Republican supermajority-controlled legislature
