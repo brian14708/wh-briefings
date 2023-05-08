@@ -1,5 +1,6 @@
 ---
 date: '2023-05-07'
+modified_time: 2023-05-08 11:40:57-04:00
 published_time: 2023-05-07 19:46:35-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/07/readout-of-national-security-advisor-jake-sullivans-meeting-on-regional-integration/
 tags: statements-releases
@@ -17,12 +18,13 @@ Crown Prince, Sheikh Tahnoon, and Mr. Doval to discuss bilateral and
 regional matters. He looks forward to further consulting with Mr. Doval
 on the margins of the Quad Summit later this month in Australia.
 
-With Crown Prince Mohammed, he reviewed significant progress in talks to
-further consolidate the now 15-month long truce in Yemen and welcomed
-ongoing UN-led efforts to bring the war to a close, as well as covering
-a range of other issues. Mr. Sullivan thanked the Crown Prince for the
-support Saudi Arabia has provided to U.S. citizens during the evacuation
-from Sudan. The four delegations agreed to maintain regular
-consultations and follow up on the matters discussed throughout the day.
+With Prime Minister and Crown Prince Mohammed, he reviewed significant
+progress in talks to further consolidate the now 15-month long truce in
+Yemen and welcomed ongoing UN-led efforts to bring the war to a close,
+as well as covering a range of other issues. Mr. Sullivan thanked the
+Crown Prince for the support Saudi Arabia has provided to U.S. citizens
+during the evacuation from Sudan. The four delegations agreed to
+maintain regular consultations and follow up on the matters discussed
+throughout the day.
 
 \###
