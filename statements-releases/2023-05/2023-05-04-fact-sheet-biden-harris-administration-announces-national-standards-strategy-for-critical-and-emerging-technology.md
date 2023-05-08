@@ -1,6 +1,6 @@
 ---
 date: '2023-05-04'
-modified_time: 2023-05-04 08:30:54-04:00
+modified_time: 2023-05-07 20:04:17-04:00
 published_time: 2023-05-04 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-national-standards-strategy-for-critical-and-emerging-technology/
 tags: statements-releases
@@ -84,9 +84,9 @@ coordination among Federal agencies and communication from the Federal
 Government to the U.S. private sector. This engagement, coupled with the
 CHIPS and Science Act’s investments in pre-standardization research,
 will drive U.S. influence and leadership in international standards
-development. NIST [provides a portal with resources and standards
-information](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fwww.standards.gov.mcas.ms%3FMcasTsid%3D15600&McasCSRF=839bdf5899bd94d78b34c647ebe322ab73b6757c803008f2f0afa18c161abaf1) to
-government, academia, and the public; updates on the U.S. Government’s
+development. [NIST provides a portal with resources and standards
+information to government](https://www.nist.gov/standardsgov/usg-nss),
+academia, and the public; updates on the U.S. Government’s
 implementation efforts for the Strategy will also be posted to that
 portal.
 
