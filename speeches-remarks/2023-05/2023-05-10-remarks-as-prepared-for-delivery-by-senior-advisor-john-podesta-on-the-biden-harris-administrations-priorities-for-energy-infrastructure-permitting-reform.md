@@ -1,5 +1,6 @@
 ---
 date: '2023-05-10'
+modified_time: 2023-05-10 15:13:55-04:00
 published_time: 2023-05-10 11:49:51-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-senior-advisor-john-podesta-on-the-biden-harris-administrations-priorities-for-energy-infrastructure-permitting-reform/
 tags: speeches-remarks
@@ -55,8 +56,6 @@ our trajectory on clean energy and climate. But now, we need to up the
 pace and finish the job by lowering the remaining hurdles to achieve
 100% clean power by 2035.
 
-*The Permitting Challenge*
-
 One big hurdle—and a big opportunity—is permitting. Right now, the
 permitting process for clean energy infrastructure, including
 transmission, is plagued by delays and bottlenecks.
@@ -79,8 +78,6 @@ now.
 Most Americans agree—81% of voters support the development of new
 transmission lines, and a majority say that permitting reform should
 prioritize clean energy projects over fossil fuels.
-
-*Biden Permitting Actions*
 
 That’s why President Biden has elevated this issue to the highest levels
 of government for the first time by forming an Investing in America
@@ -120,8 +117,6 @@ forward.
 
 We’ve seen some recent wins—like the final approval of the TransWest
 transmission line that will send Wyoming wind energy to California.
-
-*Priorities for Congress*
 
 And this administration is doing all we can with the tools we have—but
 frankly, we could use more tools to go even further and faster.
@@ -222,8 +217,6 @@ memoirs of Ulysses S. Grant are still on recommended reading lists,
 mining legislation he signed more than 150 years ago is a little out of
 date.
 
-*Rebuke of McCarthy’s Agenda*
-
 **This administration is serious about building a secure energy future
 that strengthens America’s economy. If Congress is ready to do the
 same…**
@@ -253,8 +246,6 @@ Simply put, the House Republican plan would be catastrophic for our
 economy, our energy security, and our national security. They’re
 proposing to endanger the health of Americans and undo our clean energy
 progress as a ransom for not triggering a catastrophic default.
-
-*Conclusion*
 
 Right now, we’re in the midst of a climate crisis—one that demands that
 we build, build, build clean energy. We can do it in a way that protects
