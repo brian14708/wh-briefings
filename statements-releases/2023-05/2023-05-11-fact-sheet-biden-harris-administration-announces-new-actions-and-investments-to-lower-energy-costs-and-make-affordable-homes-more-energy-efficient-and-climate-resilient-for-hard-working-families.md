@@ -1,6 +1,6 @@
 ---
 date: '2023-05-11'
-modified_time: 2023-05-10 19:32:21-04:00
+modified_time: 2023-05-11 17:14:53-04:00
 published_time: 2023-05-11 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-lower-energy-costs-and-make-affordable-homes-more-energy-efficient-and-climate-resilient-for-hard-working-families/
 tags: statements-releases
@@ -37,56 +37,61 @@ during his first term.
 -   President Biden’s Inflation Reduction Act is bringing cost savings
     and health benefits of clean energy to hard-working families. Today,
     the Department of Housing and Urban Development (HUD) is releasing a
-    more than $830 million funding notice for the Inflation Reduction
+    more than [$830 million funding notice for the Inflation Reduction
     Act’s Green and Resilient Retrofit Program (GRRP) and $4 billion in
-    loan commitment authority for this new program. The bill also
-    included $42.5 million for a new HUD initiative launching later this
-    summer to collect and assess energy and water usage data from
-    assisted multifamily housing properties. The GRRP is the largest HUD
-    program to date that directly invests in energy efficiency and
-    emissions reductions, clean energy, and climate resilience
-    strategies across HUD-assisted multifamily housing. The GRRP is an
-    important program for preserving quality housing in our communities,
-    increasing resiliency to climate impacts, cutting energy waste,
-    tackling the climate crisis, and lowering costs for families.
+    loan commitment authority for this new
+    program.](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_23_093)
+    The bill also included $42.5 million for a new HUD initiative
+    launching later this summer to collect and assess energy and water
+    usage data from assisted multifamily housing properties. The GRRP is
+    the largest HUD program to date that directly invests in energy
+    efficiency and emissions reductions, clean energy, and climate
+    resilience strategies across HUD-assisted multifamily housing. The
+    GRRP is an important program for preserving quality housing in our
+    communities, increasing resiliency to climate impacts, cutting
+    energy waste, tackling the climate crisis, and lowering costs for
+    families.
 
 **<u>MAKING HOMES MORE ENERGY EFFICIENT, SAVING FAMILIES MONEY</u>**
 
--   HUD, the Federal Housing Administration (FHA), and the United States
-    Department of Agriculture (USDA) proposes to adopt the latest energy
-    codes to improve the performance and efficiency of new homes, and
-    help homeowners and renters save money. HUD estimates that
-    hard-working families will save over 35% on energy costs by building
-    homes using the latest energy codes. Through these actions, the
-    Biden-Harris Administration will give communities the tools to build
-    and retrofit safe, resilient, healthy, and efficient buildings that
-    are powered by clean energy and constructed with low-carbon
-    materials.  Energy efficiency, electrification, and clean energy
-    will make energy costs a smaller fraction of household expenses,
-    insulating hard-working families and underserved communities’
-    volatile energy prices. This builds on [President Biden’s National
-    Initiative to Advance Building
+-   [HUD, the Federal Housing Administration (FHA), and the United
+    States Department of Agriculture (USDA) proposes to adopt the latest
+    energy codes to improve the performance and efficiency of new homes,
+    and help homeowners and renters save
+    money.](https://www.hud.gov/program_offices/comm_planning/environment_energy/mes_notice)
+    HUD estimates that hard-working families will save over 35% on
+    energy costs by building homes using the latest energy codes.
+    Through these actions, the Biden-Harris Administration will give
+    communities the tools to build and retrofit safe, resilient,
+    healthy, and efficient buildings that are powered by clean energy
+    and constructed with low-carbon materials.  Energy efficiency,
+    electrification, and clean energy will make energy costs a smaller
+    fraction of household expenses, insulating hard-working families and
+    underserved communities’ volatile energy prices. This builds
+    on [President Biden’s National Initiative to Advance Building
     Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/),
     which supports modern building codes and standards that save lives,
     reduce property damage, and cut utility bills.
 -   **Reducing the embodied carbon in building materials.** In support
-    of the Federal Buy Clean Initiative, HUD will now prioritize the use
-    of building materials with lower embodied carbon for retrofits and
-    new construction. These efforts will help scale up demand for
-    American-made building materials that have less climate impact
-    associated with mining, manufacturing, and transportation.
+    of the [Federal Buy Clean
+    Initiative](https://www.sustainability.gov/buyclean/), HUD will now
+    prioritize the use of building materials with lower embodied carbon
+    for retrofits and new construction. These efforts will help scale up
+    demand for American-made building materials that have less climate
+    impact associated with mining, manufacturing, and transportation.
 
 **<u>MAKING SOLAR MORE AFFORDABLE</u>**
 
 -   **Connecting families to low-cost solar power**.  Building upon the
     national guidance last summer, HUD is helping families to subscribe
-    to local community solar where available. With new guidance for how
-    residents of master-metered HUD-assisted housing can benefit from
-    solar, HUD will continue to set the stage for 4.5 million families
-    to reap the benefits of community solar which, on average, can save
-    families 10% per year on their electric bills. This announcement
-    builds on Vice President’s recent trip to Dalton, Georgia, where
-    she [unveiled the largest community solar project in
+    to local community solar where available. With [new
+    guidance](https://www.hud.gov/sites/dfiles/Housing/documents/MF_Memo_re_Community_Solar_Credits_in_MM_Buildings.pdf)
+    for how residents of master-metered HUD-assisted housing can benefit
+    from solar, HUD will continue to set the stage for 4.5 million
+    families to reap the benefits of community solar which, on average,
+    can save families 10% per year on their electric bills. This
+    announcement builds on Vice President’s recent trip to Dalton,
+    Georgia, where she [unveiled the largest community solar project in
     history](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-on-investing-in-america/).
 
 **<u>SAVING FAMILIES MONEY ON ENERGY COSTS AND EXPANDING HOUSING FOR
@@ -132,10 +137,11 @@ VULNERABLE POPULATIONS</u>**
 
 **<u>ACCELERATING NET ZERO RETROFITS</u>**
 
--   Yesterday, the U.S. General Services Administration (GSA) issued its
-    biggest funding announcement to date to support net zero retrofits
-    of federal buildings, saving taxpayers’ dollars. These retrofits
-    advance the GSA’s efforts to achieve President
+-   [Yesterday, the U.S. General Services Administration (GSA) issued
+    its biggest funding announcement to date to support net zero
+    retrofits of federal buildings, saving taxpayers’
+    dollars.](https://www.gsa.gov/about-us/newsroom/news-releases/gsas-energy-retrofit-program-issues-largest-ever-call-to-accelerate-progress-toward-net-zero-buildings-through-president-bidens-investing-in-america-agenda-05102023)
+    These retrofits advance the GSA’s efforts to achieve President
     Biden’s [goal](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/) of
     net-zero emissions in the federal buildings portfolio by 2045 and
     his campaign commitment to building retrofits. IRA funding will
