@@ -1,5 +1,6 @@
 ---
 date: '2023-05-10'
+modified_time: 2023-05-12 10:46:28-04:00
 published_time: 2023-05-10 11:02:27-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/fact-sheet-biden-harris-administration-outlines-priorities-for-building-americas-energy-infrastructure-faster-safer-and-cleaner/
 tags: statements-releases
@@ -29,9 +30,11 @@ to adequately address the climate crisis requires strategic reforms that
 improve the way such projects are sited and permitted at the federal,
 state and local levels. The Administration is acting to move projects
 forward, using its existing authority to accelerate the federal
-permitting process. These actions include establishing a new interagency
-Memorandum of Understanding (MOU) to facilitate the timely, responsible,
-and equitable permitting of electric transmission infrastructure.  
+permitting process. These actions include establishing a [new
+interagency Memorandum of
+Understanding](https://www.whitehouse.gov/wp-content/uploads/2023/05/Final-Transmission-MOU-with-signatures-5-04-2023.pdf)
+(MOU) to facilitate the timely, responsible, and equitable permitting of
+electric transmission infrastructure.  
   
 But more reforms are needed to build out modern American energy
 infrastructure and supply chains with the speed and safety that the
