@@ -1,6 +1,6 @@
 ---
 date: '2023-05-12'
-modified_time: 2023-05-12 13:24:34-04:00
+modified_time: 2023-05-15 14:29:58-04:00
 published_time: 2023-05-12 16:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/12/president-biden-announces-key-appointments-to-boards-and-commissions-26/
 tags: statements-releases
@@ -100,14 +100,18 @@ safer communities, and a more just and equitable society.
 **Liz Simons, Member, Coordinating Council on Juvenile Justice and
 Delinquency Prevention**
 
-Liz Simons is Chair of the Board of the Heising-Simons Foundation. She
-is also Chair of the Board of The Marshall Project, a nonpartisan,
-nonprofit news organization that seeks to create and sustain a sense of
-national urgency about the U.S. criminal justice system. She is a
-founding pledger of One for Justice, a member of the advisory board of
-Smart Justice California, and a board member at the Learning Policy
-Institute, The Foundation for a Just Society, and Math for America.
-Additionally, she volunteers at *The Beat Within*, a magazine by and for
+Liz Simons is Chair of the Board of the Heising-Simons Foundation, a
+family foundation that supports a number of issues including reimagined
+approaches to justice that invest in communities rather than prisons and
+surveillance, and that promote practices of healing and community
+accountability rooted in our common humanity. She is also Chair of the
+Board of the Marshall Project, a nonpartisan, nonprofit news
+organization that seeks to create and sustain a sense of national
+urgency about the U.S. criminal justice system. Simons is a founding
+pledger of One for Justice and an advisory board member of Smart Justice
+California, in which she regularly lifts up her voice in support of
+bills and policies that systems-impacted youth are fighting for.
+Additionally, she volunteers at The Beat Within, a magazine by and for
 incarcerated youth.
 
 A former teacher, Simons worked in Spanish-bilingual and English as a
