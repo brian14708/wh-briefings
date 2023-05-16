@@ -1,6 +1,6 @@
 ---
 date: '2023-05-16'
-modified_time: 2023-05-15 22:17:12-04:00
+modified_time: 2023-05-16 11:45:13-04:00
 published_time: 2023-05-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/
 tags: statements-releases
@@ -240,6 +240,7 @@ Cities participating in the Good Jobs, Great Cities Academy:
 -   San Antonio, TX
 -   Santa Fe, NM
 -   Saint Louis, MO
+-   Tacoma, WA
 -   Tempe, AZ
 
 \###
