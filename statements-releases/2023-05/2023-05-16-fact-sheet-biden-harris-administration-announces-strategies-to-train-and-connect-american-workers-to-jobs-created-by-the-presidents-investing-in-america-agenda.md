@@ -1,6 +1,6 @@
 ---
 date: '2023-05-16'
-modified_time: 2023-05-16 11:45:13-04:00
+modified_time: 2023-05-16 13:55:10-04:00
 published_time: 2023-05-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/
 tags: statements-releases
@@ -62,7 +62,7 @@ The Investing in America Workforce Initiatives include:
     and robust manufacturing workforce ready to lead America’s
     manufacturing renaissance.  
 -   **Good Jobs, Great Cities Academy.** The Department of Labor is
-    announcing 15 cities as part of its Good Jobs, Great Cities Academy
+    announcing 16 cities as part of its Good Jobs, Great Cities Academy
     with the National League of Cities. The Good Jobs, Great Cities
     Academy will complement the Administration’s Workforce Hubs by
     providing technical assistance and support to a wide range of cities
@@ -208,7 +208,7 @@ communities, such as by providing supportive services.
 **Good Jobs, Great Cities Academy  
 **  
 To complement the White House’s Workforce Hubs, the Department of Labor
-is announcing the 15 cities that have been selected to join the Good
+is announcing the 16 cities that have been selected to join the Good
 Jobs, Great Cities Academy. Through partnership with the National League
 of Cities, the Academy will spur innovative and scalable city-led
 solutions that upskill and reskill all workers—including those who have
@@ -216,7 +216,7 @@ too often been left behind—into quality, high-demand jobs in
 infrastructure, clean energy, and advanced manufacturing, made possible
 by President Biden’s Investing in America agenda.
 
-The Academy will provide its 15-member cohort with in-depth technical
+The Academy will provide its 16-member cohort with in-depth technical
 assistance to accelerate each city’s efforts to design, develop, and
 launch a new workforce initiative. The initiative will leverage
 partnerships with local government, workforce boards, education and
