@@ -1,6 +1,6 @@
 ---
 date: '2023-05-17'
-modified_time: 2023-05-17 11:54:38-04:00
+modified_time: 2023-05-17 12:39:50-04:00
 published_time: 2023-05-17 11:54:37-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/17/what-they-are-saying-biden-harris-administration-announces-largest-investment-in-rural-electrification-since-the-new-deal/
 tags: statements-releases
@@ -87,7 +87,7 @@ create high-paying jobs.”
 
 ***Rural Electric Cooperatives***
 
-**Jim Matheson, CEO of National Electric Cooperative Association
+**Jim Matheson, CEO of National Rural Electric Cooperative Association
 (NRECA):** “This is an exciting and transformative opportunity for
 co-ops and their local communities, particularly as we look toward a
 future that depends on electricity to power more of the economy,”
@@ -116,11 +116,11 @@ in a way that makes the most sense for us and the communities we serve.”
 an opportunity to provide the kind of service that everybody deserves.”
 \[[Twitter](https://twitter.com/NRECANews/status/1658564711175147534)\]
 
-**Mike Partin, CEO of Shenandoah Valley Electric Cooperative**: “We mark
-when rural electrification started, we mark that on our calendar. That’s
-a big day for us. We celebrate that. And I think that’s where we’re
-seeing today, a point where we’re going to celebrate. It’s going to be
-marked on the calendar.”
+**Mike Partin, CEO of **Sequachee** Valley Electric Cooperative**: “We
+mark when rural electrification started, we mark that on our calendar.
+That’s a big day for us. We celebrate that. And I think that’s where
+we’re seeing today, a point where we’re going to celebrate. It’s going
+to be marked on the calendar.”
 \[[Statement](https://appvoices.org/2023/05/16/rural-electrification/)\]
 
 ***Climate and Environmental Groups***
