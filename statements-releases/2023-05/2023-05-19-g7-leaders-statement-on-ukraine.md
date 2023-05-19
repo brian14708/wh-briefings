@@ -1,5 +1,6 @@
 ---
 date: '2023-05-19'
+modified_time: 2023-05-19 09:52:48-04:00
 published_time: 2023-05-19 04:59:02-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/19/g7-leaders-statement-on-ukraine/
 tags: statements-releases
@@ -251,7 +252,7 @@ the assets of those individuals and entities that have been sanctioned
 in connection with Russia’s aggression. We are taking steps to fully map
 holdings of Russia’s sovereign assets immobilized in our jurisdictions.
 We reaffirm that, consistent with our respective legal systems, Russia’s
-sovereign assets in our jurisdictions will remain\] immobilized until
+sovereign assets in our jurisdictions will remain immobilized until
 Russia pays for the damage it has caused to Ukraine.
 
 **9. Accountability**
