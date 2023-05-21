@@ -1,6 +1,6 @@
 ---
 date: '2023-05-20'
-modified_time: 2023-05-20 10:53:09-04:00
+modified_time: 2023-05-21 08:31:48-04:00
 published_time: 2023-05-20 16:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/20/background-press-call-previewing-day-three-of-the-g7-summit/
 tags: press-briefings
@@ -290,7 +290,7 @@ own here in the weeks and months ahead.
 And so when you look back at the last several, it does include some of
 the things you listed — you know, artillery, small arms ammunition,
 maybe some additional HIMARS rounds,  
-breaching equipment.
+<s>breaching</s> \[bridging\]\* equipment.
 
 And so, again, without previewing or making an announcement tonight, I
 don’t think you should be surprised to see a similar approach, at least
