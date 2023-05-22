@@ -1,5 +1,6 @@
 ---
 date: '2023-05-20'
+modified_time: 2023-05-22 14:01:49-04:00
 published_time: 2023-05-20 04:34:51-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/g7-hiroshima-leaders-communique/
 tags: statements-releases
@@ -1640,7 +1641,7 @@ importance of the discussions of the International Law Commission’s
 draft articles on the prevention and punishment of crimes against
 humanity. We continue to work with the international community towards
 the second Global Refugee Forum in December 2023. We reaffirm our
-commitment to support the full inclusion of refugees, in the spirit of
+commitment to support the inclusion of refugees, in the spirit of
 international cooperation and in line with the Global Compact on
 Refugees, national policies, legislation, and circumstances, ensuring
 full respect for their human rights and fundamental freedoms.
