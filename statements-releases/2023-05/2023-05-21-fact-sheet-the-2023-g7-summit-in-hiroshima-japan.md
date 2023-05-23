@@ -1,6 +1,6 @@
 ---
 date: '2023-05-21'
-modified_time: 2023-05-21 17:38:46-04:00
+modified_time: 2023-05-23 11:12:10-04:00
 published_time: 2023-05-21 17:38:45-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/21/fact-sheet-the-2023-g7-summit-in-hiroshima-japan/
 tags: statements-releases
@@ -171,7 +171,7 @@ climate change.
     United States is committed to providing greater investments in
     health security to help break the cycle of panic and neglect in the
     wake of health emergencies.
--   **Launching the *Hiroshima Action Statement for Resilient Global
+-   **Announcing the *Hiroshima Action Statement for Resilient Global
     Food Security* with partner countries to address needs today and
     into the future. ** G7 Leaders reaffirmed their continued commitment
     to address global food insecurity and the need to build more
@@ -207,5 +207,24 @@ concrete progress.
     capital, play a matchmaking role between investors and opportunities
     that advance PGII, and hear feedback on how it can continue to
     refine the PGII model to maximize its effectiveness.
+
+**United on Nuclear Disarmament**
+
+G7 Leaders expressed their commitment to achieving a world without
+nuclear weapons with undiminished security for all, through a realistic,
+pragmatic, and responsible approach.
+
+-   **Announcing the *G7 Leaders’ Hiroshima Vision on Nuclear
+    Disarmament*.** G7 Leaders reaffirmed the importance of disarmament
+    and non-proliferation efforts to create a more stable and safer
+    world. They reaffirmed the Treaty on the Non-Proliferation of
+    Nuclear Weapons as the cornerstone of the global nuclear
+    non-proliferation regime, and as the foundation for the pursuit of
+    nuclear disarmament and the peaceful uses of nuclear energy. They
+    condemned Russia’s irresponsible nuclear rhetoric and expressed
+    concern about China’s opaque build-up of its nuclear arsenal. They
+    noted that a world without nuclear weapons cannot be achieved
+    without nuclear non-proliferation, expressing concern specifically
+    with regard to North Korea and Iran.
 
 \###
