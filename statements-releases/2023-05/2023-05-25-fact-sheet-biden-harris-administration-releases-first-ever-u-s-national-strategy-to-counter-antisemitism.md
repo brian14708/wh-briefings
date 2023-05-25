@@ -1,6 +1,6 @@
 ---
 date: '2023-05-25'
-modified_time: 2023-05-25 13:12:42-04:00
+modified_time: 2023-05-25 14:43:27-04:00
 published_time: 2023-05-25 11:34:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/
 tags: statements-releases
@@ -13,12 +13,13 @@ action to combat antisemitism, including new actions to counter
 antisemitism on college campuses and online; whole-of-society strategy
 includes new stakeholder commitments.*
 
-Today, the Biden-Harris Administration is releasing the first-ever U.S.
-National Strategy to Counter Antisemitism. This strategy includes over
-100 new actions the Administration will take to raise awareness of
-antisemitism and its threat to American democracy, protect Jewish
-communities, reverse the normalization of antisemitism, and build
-cross-community solidarity.    
+Today, the Biden-Harris Administration is releasing the first-ever [U.S.
+National Strategy to Counter
+Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
+This strategy includes over 100 new actions the Administration will take
+to raise awareness of antisemitism and its threat to American democracy,
+protect Jewish communities, reverse the normalization of antisemitism,
+and build cross-community solidarity.    
   
 President Biden decided to run for President after what we all saw in
 Charlottesville in 2017, when Neo-Nazis marched from the shadows spewing
