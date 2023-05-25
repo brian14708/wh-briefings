@@ -1,6 +1,6 @@
 ---
 date: '2023-05-25'
-modified_time: 2023-05-25 12:15:39-04:00
+modified_time: 2023-05-25 13:12:42-04:00
 published_time: 2023-05-25 11:34:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/
 tags: statements-releases
@@ -219,16 +219,18 @@ category in transparency reports; and more.
   
 The government will also **counter antisemitism in K-12 schools and on
 college campuses. The Department of Education (ED) will launch an
-Antisemitism Awareness Campaign in 2023**. **Today, ED is issuing a Dear
-Colleague Letter to schools**, reminding them of their legal obligation
-under Title VI of the Civil Rights Act of 1964 to address complaints of
-discrimination, including harassment, based on race, color, or national
-origin, including shared ancestry, such as Jewish ancestry, and ethnic
-characteristics. **Senior ED officials, along with other federal
-partners and influencers, will visit** **schools** and institutions of
-higher education (IHEs) that are effectively addressing antisemitism to
-amplify their efforts, as well as schools and IHEs that need help
-responding to an uptick in antisemitic activity.  
+[Antisemitism Awareness
+Campaign](https://www.ed.gov/news/press-releases/us-department-education-launches-antisemitism-awareness-campaign)
+in 2023**. **Today, ED is issuing a Dear Colleague Letter to schools**,
+reminding them of their legal obligation under Title VI of the Civil
+Rights Act of 1964 to address complaints of discrimination, including
+harassment, based on race, color, or national origin, including shared
+ancestry, such as Jewish ancestry, and ethnic characteristics. **Senior
+ED officials, along with other federal partners and influencers, will
+visit** **schools** and institutions of higher education (IHEs) that are
+effectively addressing antisemitism to amplify their efforts, as well as
+schools and IHEs that need help responding to an uptick in antisemitic
+activity.  
   
 Federal agencies also commit to using and **raising awareness about
 federal laws prohibiting antisemitic discrimination** to ensure that
