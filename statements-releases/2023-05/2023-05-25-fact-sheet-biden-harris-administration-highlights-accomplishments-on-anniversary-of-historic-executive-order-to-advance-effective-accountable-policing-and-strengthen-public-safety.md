@@ -1,5 +1,6 @@
 ---
 date: '2023-05-25'
+modified_time: 2023-05-25 18:49:07-04:00
 published_time: 2023-05-25 06:36:19-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-highlights-accomplishments-on-anniversary-of-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
 tags: statements-releases
@@ -66,12 +67,15 @@ enforcement accountability.**
     Ethnicity, and Other  Protected Characteristics**: DOJ updated its
     2014 Guidance on the Use of Race, Ethnicity, Gender, National
     Origin, Religion, Sexual Orientation, and Gender Identity.  The
-    updated guidance, which explains the restrictions on relying on race
-    and other protected characteristics, strengthens existing
-    protections, including by adding disability as a protected
-    category.     
--   **Deaths in Custody Investigations**: DOJ published guidance for
-    STLT law enforcement agencies for investigating deaths in custody.  
+    [updated
+    guidance](https://www.justice.gov/d9/2023-05/Sec.%209%28e%29%20-%20Guidance%20for%20Federal%20LEAs%20on%20the%20Use%20of%20Protected%20Characteristics_FINAL%205.25.23_508.pdf),
+    which explains the restrictions on relying on race and other
+    protected characteristics, strengthens existing protections,
+    including by adding disability as a protected category.     
+-   **Deaths in Custody Investigations**: DOJ published
+    [guidance](https://www.justice.gov/d9/2023-05/Sec.%202%28a%29%20-%20DOJ%20Guidance%20for%20STLT%20LEAs%20on%20Investigations%20of%20In-Custody%20Deaths_FINAL.pdf)
+    for STLT law enforcement agencies for investigating deaths in
+    custody.  
 -   **Pattern or Practice Investigations**: DOJ strengthened
     communication with State Attorneys General on pattern or practice
     investigations and enhanced protocols for federal investigations of
@@ -163,39 +167,45 @@ implement best practices.**
     incentivizing language in its discretionary grants to STLT law
     enforcement agencies beginning in FY 2024, where appropriate.  
 -   **Accreditation Standards**: DOJ created first-of-their-kind
-    accreditation standards to encourage STLT law enforcement agencies
-    to adopt policies consistent with those highlighted in the Executive
-    Order. These standards were developed in consultation with
-    accrediting bodies, law enforcement stakeholders, and civil rights
-    groups, and are designed to help ensure STLT law enforcement
-    agencies seeking accreditation are following best policing practices
-    in such areas as:  
+    [accreditation
+    standards](https://www.justice.gov/d9/2023-05/Sec.%2019%28b%29%20-%20DOJ%20National%20Accreditation%20Standards_FINAL.pdf)
+    to encourage STLT law enforcement agencies to adopt policies
+    consistent with those highlighted in the Executive Order. These
+    standards were developed in consultation with accrediting bodies,
+    law enforcement stakeholders, and civil rights groups, and are
+    designed to help ensure STLT law enforcement agencies seeking
+    accreditation are following best policing practices in such areas
+    as:  
     -   Hiring and performance evaluation of officers and supervisors;  
     -   Use of force policies in line with DOJ’s policy;  
     -   Directives on the use of in-car and body-worn cameras; and  
     -   Submission of important crime data to the FBI.   
--   **Officer Wellness**: DOJ and HHS published a report outlining best
-    practices for STLT law enforcement agencies regarding officer
-    wellness and will soon publish a second on preventing law
+-   **Officer Wellness**: DOJ and HHS published a
+    [report](https://www.justice.gov/d9/2023-05/Sec.%204%28a%29%20-Report%20on%20Best%20Practices%20to%20Advance%20Officer%20Wellness_FINAL.pdf)
+    outlining best practices for STLT law enforcement agencies regarding
+    officer wellness and will soon publish a second on preventing law
     enforcement suicide, both of which are based on engagement with
     dozens of stakeholder groups.  
 -   **Guidelines for Emergency Responses to People with Behavioral
     Health or Other Disabilities**: HHS and DOJ jointly developed
-    guidance regarding emergency responses to calls and interactions
-    with people in behavioral or mental health crisis or persons who
-    have disabilities. The guidance addresses response models and the
+    [guidance](https://www.justice.gov/d9/2023-05/Sec.%2014%28a%29%20-%20DOJ%20and%20HHS%20Guidance%20on%20Emergency%20Responses%20to%20Individuals%20with%20Behavioral%20Health%20or%20Other%20Disabilities_FINAL.pdf)
+    regarding emergency responses to calls and interactions with people
+    in behavioral or mental health crisis or persons who have
+    disabilities. The guidance addresses response models and the
     facilitation of post-crisis support services as well as federal
     resources, including Medicaid, that can be used to implement
     established and emerging best practices.  
--   **Notifications of Deaths in Custody**: DOJ published guidance for
-    STLT law enforcement agencies on best practices for notifications to
-    families of individuals who die in law enforcement custody,
-    including timely and appropriate notification of, and support to,
-    family members.  
+-   **Notifications of Deaths in Custody**: DOJ published
+    [guidance](https://www.justice.gov/d9/2023-05/Sec%2011%28d%29%20-%20DOJ%20Guidance%20on%20Best%20Practices%20for%20Providing%20Official%20Notificaition%20of%20Deaths%20in%20Cu.pdf)
+    for STLT law enforcement agencies on best practices for
+    notifications to families of individuals who die in law enforcement
+    custody, including timely and appropriate notification of, and
+    support to, family members.  
 -   **Studying the Impact of Use-of-Force Incidents on Communities.** 
-    HHS published a report examining the effects of use of force by law
-    enforcement officers on individual and community physical, mental,
-    and public health.
+    HHS published a
+    [report](https://aspe.hhs.gov/reports/eo-14074-section-11a-report)
+    examining the effects of use of force by law enforcement officers on
+    individual and community physical, mental, and public health.
 
 **<u>Improving Conditions of Persons Incarcerated or Under
 Supervision</u>**  
@@ -235,9 +245,10 @@ incarcerated or under supervision.**
     medical care and health outcomes, expand services for women in
     custody and Medication-Assisted Treatment for individuals with
     opioid use disorder.  
--   **First Step Act**: DOJ published a report on efforts to fully
-    implement the provisions and intent of the First Step Act, including
-    by:  
+-   **First Step Act**: DOJ published a
+    [report](https://www.justice.gov/d9/2023-05/Sec.%2017%28a%29%20-%20DOJ%20Efforts%20to%20Efforts%20to%20Fully%20Implement%20the%20Provisions%20and%20Intent%20of%20the%20First%20S.pdf)
+    on efforts to fully implement the provisions and intent of the First
+    Step Act, including by:  
     -   Maximizing the availability of time credits to eligible people
         in BOP custody;  
     -   Assessing and updating the PATTERN assessment;  
@@ -250,10 +261,11 @@ incarcerated or under supervision.**
 -   **Probation and Supervised Release Resources**: DOJ, in consultation
     with the Administrative Office of the U.S. Courts, the U.S.
     Sentencing Commission, and the Federal Defender Service, published a
-    report on the resources available to individuals on probation or
-    supervised release, including how DOJ has utilized resources to
-    facilitate successful outcomes for individuals on probation or
-    supervised release.  
+    [report](https://www.justice.gov/d9/2023-05/Sec.%2015%28h%29%20-%20DOJ%20Report%20on%20Resources%20and%20Demographic%20Data%20for%20Individuals%20on%20Federal%20Probation.pdf)
+    on the resources available to individuals on probation or supervised
+    release, including how DOJ has utilized resources to facilitate
+    successful outcomes for individuals on probation or supervised
+    release.  
          
 
 **<u>Strengthening Data Collection and Technology</u>**  
@@ -284,10 +296,11 @@ collection and analysis and assess the impact of new technologies.**
     on the efforts, led by the FBI and Bureau of Justice Assistance, to
     assist STLT law enforcement agencies transition to NIBRS.  
 -   **Review of Current Data Collections**: DOJ and OMB will publish a
-    report on efforts to improve current data collections, such as the
-    National Crime Victimization Survey, the Police-Public Contact
-    Survey Supplement, and the Law Enforcement Management and
-    Administrative Statistics Survey.  
+    [report](https://www.whitehouse.gov/wp-content/uploads/2023/05/EO14074_18b-Report.pdf)
+    on efforts to improve current data collections, such as the National
+    Crime Victimization Survey, the Police-Public Contact Survey
+    Supplement, and the Law Enforcement Management and Administrative
+    Statistics Survey.  
 -   **Data Reporting**: The Criminal Justice Statistics Interagency
     Working Group and Domestic Policy Council assessed data collection,
     use, and transparency practices with respect to law enforcement
