@@ -1,5 +1,6 @@
 ---
 date: '2023-05-29'
+modified_time: 2023-05-30 14:08:19-04:00
 published_time: 2023-05-29 21:19:39-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/29/remarks-by-president-biden-before-marine-one-departure-37/
 tags: speeches-remarks
@@ -130,7 +131,7 @@ Erdoğan’s part?
 THE PRESIDENT:  I raised that issue with him.  We’re going to talk more
 about it next week.
 
-Q    Is it time for aid package for Ukraine?  Aid package for Ukraine.
+Q    Is it time for ATACMS for Ukraine?  ATACMS for Ukraine.
 
 THE PRESIDENT:  That’s still in play.  
    
