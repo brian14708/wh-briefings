@@ -1,6 +1,6 @@
 ---
 date: '2023-05-26'
-modified_time: 2023-05-26 09:04:44-04:00
+modified_time: 2023-05-31 10:41:59-04:00
 published_time: 2023-05-26 08:56:10-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/26/what-they-are-saying-bipartisan-state-and-local-leaders-faith-based-organizations-and-advocates-applaud-release-of-white-house-national-strategy-to-counter-antisemitism/
 tags: statements-releases
@@ -259,11 +259,11 @@ plan to address the alarming rise in antisemitism nationwide.”
 \[[Tweet](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=03f8ee91a9&e=ce8fea7c33),
 5/25/23\]  
   
-**Jews in the Middle East and North Africa:** “We are thrilled that the
-@WhiteHouse antisemitism strategy centers the @TheIHRA definition and
-includes teaching Sephardi and Mizrahi history. This is an incredible
-step towards recognition of our communities. Dive into JIMENA’s work on
-antisemitism here..
+**JIMENA: Jews Indigenous to the Middle East and North Africa:** “We are
+thrilled that the @WhiteHouse antisemitism strategy centers the @TheIHRA
+definition and includes teaching Sephardi and Mizrahi history. This is
+an incredible step towards recognition of our communities. Dive into
+JIMENA’s work on antisemitism here..
 [https://jimena.org/combatting-anti-semitism/](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=46d4c8a40f&e=ce8fea7c33).”
 \[[Tweet](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=a26517b9c5&e=ce8fea7c33),
 5/25/23\]  
