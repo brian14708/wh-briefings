@@ -1,6 +1,6 @@
 ---
 date: '2023-06-02'
-modified_time: 2023-06-02 16:57:03-04:00
+modified_time: 2023-06-02 22:29:05-04:00
 published_time: 2023-06-02 16:53:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
 tags: statements-releases
