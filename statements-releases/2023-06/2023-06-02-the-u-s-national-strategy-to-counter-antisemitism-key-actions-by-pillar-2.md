@@ -1,6 +1,6 @@
 ---
 date: '2023-06-02'
-modified_time: 2023-06-03 10:47:10-04:00
+modified_time: 2023-06-03 13:13:33-04:00
 published_time: 2023-06-02 16:53:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
 tags: statements-releases
@@ -109,9 +109,9 @@ campuses.
     equitable access to government programs and religious
     accommodations. For example, the **Department of Housing and Urban
     Development issued
-    a **[letter](https://www.hud.gov/sites/dfiles/FHEO/documents/Ensuring%20Fair%20Housing%20Amidst%20Ongoing%20Religious%20Discrimination.pdf)** to
+    a** [letter](https://www.hud.gov/sites/dfiles/FHEO/documents/Ensuring%20Fair%20Housing%20Amidst%20Ongoing%20Religious%20Discrimination.pdf) to
     the over 200 federally-funded Fair Housing Initiatives Programs and
-    Fair Housing Assistance Programs** on how to identify and counter
+    Fair Housing Assistance Programs on how to identify and counter
     antisemitism, Islamophobia, and related forms of bias and
     discrimination in housing. 
 -   **The Department of Agriculture will** work to ensure equal access
