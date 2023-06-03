@@ -1,6 +1,6 @@
 ---
 date: '2023-06-02'
-modified_time: 2023-06-02 22:29:05-04:00
+modified_time: 2023-06-03 07:21:32-04:00
 published_time: 2023-06-02 16:53:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
 tags: statements-releases
@@ -62,23 +62,26 @@ improve data collection on antisemitism, ensure vigorous enforcement of
 hate crime laws, and increase federal funding for the physical security
 of Jewish institutions.
 
--   **the Department of Justice**, **and** **the Department of Homeland
-    Security** will undertake targeted engagements with the Jewish
-    community to understand and help address their security needs.
--   will launch an interagency effort to understand the barriers to
-    reporting hate incidents, to eliminate those barriers and improve
-    criminal justice data reporting.
--   and disseminated [a resource
+-   This summer, **the Department of Justice**, **and** **the Department
+    of Homeland Security** will undertake targeted engagements with the
+    Jewish community to understand and help address their security
+    needs.
+-   **The White House** will launch an interagency effort to understand
+    the barriers to reporting hate incidents, to eliminate those
+    barriers and improve criminal justice data reporting.
+-   **The Department of Homeland Security and Department of Justice
+    published** and disseminated [a resource
     guide](/Users/AJPascal/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/F7XFRSMY/resource%20guide)
     for houses of worship and other faith-based institutions to increase
     security while sustaining an open and welcoming environment.
--   offer risk assessments, planning assistance, and active shooter and
-    bomb prevention-related training to Jewish houses of worship,
-    community centers, and day schools.
--   **will** publish a report on telecommunications’ role in the
-    commission of hate crimes, including the use of social media in
-    antisemitic harassment.
--   **he Biden-Harris Administration calls** on Congress to fully fund
+-   **The Cybersecurity and Infrastructure Security Agency will** offer
+    risk assessments, planning assistance, and active shooter and bomb
+    prevention-related training to Jewish houses of worship, community
+    centers, and day schools.
+-   **The Department of Commerce** **will** publish a report on
+    telecommunications’ role in the commission of hate crimes, including
+    the use of social media in antisemitic harassment.
+-   **The Biden-Harris Administration calls** on Congress to fully fund
     its FY24 budget request of $360 million for the Nonprofit Security
     Grant Program (NSGP)—$55 million above the FY23 enacted amount.
 
@@ -100,44 +103,48 @@ campuses.
     aimed at raising awareness among educators, students, parents, and
     school communities about the alarming rise of antisemitism and
     giving them the tools to address it.
--   raise awareness about and fully enforce federal nondiscrimination
-    laws to counter antisemitic and related forms of discrimination as
-    well as promote religious communities’ equitable access to
-    government programs and religious accommodations. For example,
-    the **Department of Housing and Urban Development issued
+-   **Federal agencies will** raise awareness about and fully enforce
+    federal nondiscrimination laws to counter antisemitic and related
+    forms of discrimination as well as promote religious communities’
+    equitable access to government programs and religious
+    accommodations. For example, the **Department of Housing and Urban
+    Development issued
     a **[letter](https://www.hud.gov/sites/dfiles/FHEO/documents/Ensuring%20Fair%20Housing%20Amidst%20Ongoing%20Religious%20Discrimination.pdf)** to
     the over 200 federally-funded Fair Housing Initiatives Programs and
     Fair Housing Assistance Programs** on how to identify and counter
     antisemitism, Islamophobia, and related forms of bias and
     discrimination in housing. 
--   work to ensure equal access to all USDA feeding programs for USDA
-    customers with religious dietary needs, including kosher and halal
-    dietary needs. **The Department of Health and Human Services will**
-    similarly expand efforts to ensure kosher and halal foods are
-    provided in hospitals.
--   existing training to identify any gaps in coverage of antisemitic
-    conduct as a form of prohibited discrimination.
--   on Congress to hold social media platforms accountable for spreading
-    hate-fueled violence, including antisemitism, by requiring
-    fundamental reforms to Section 230 of the Communications Decency Act
-    and by removing special immunity for online platforms; to impose
-    much stronger transparency requirements on online platforms,
-    including their algorithmic recommendation systems, content
-    moderation decisions, and enforcement of community standards; and to
-    pass legislation requiring platforms to enable timely and robust
-    public interest research, including on the spread of antisemitism
-    and other forms of hate, using platforms’ data and analyzing their
-    algorithmic recommendation systems, while maintaining users’
-    privacy.
--   ensuring that terms of service and community standards explicitly
-    cover antisemitism; adopt zero-tolerance standards for hate speech,
-    including antisemitism; permanently ban repeat offenders, both
-    personal accounts and extremist websites; invest in the human and
-    technical resources necessary to enable vigorous and timely
-    enforcement of their terms of service and community standards;
-    improve capabilities to stop recommending and de-rank antisemitic
-    and other hateful content; and increase the transparency of their
-    algorithmic recommendation systems and data.
+-   **The Department of Agriculture will** work to ensure equal access
+    to all USDA feeding programs for USDA customers with religious
+    dietary needs, including kosher and halal dietary needs. **The
+    Department of Health and Human Services will** similarly expand
+    efforts to ensure kosher and halal foods are provided in hospitals.
+-   **The Department of Defense will evaluate all** existing training to
+    identify any gaps in coverage of antisemitic conduct as a form of
+    prohibited discrimination.
+-   **The Biden-Harris Administration calls** on Congress to hold social
+    media platforms accountable for spreading hate-fueled violence,
+    including antisemitism, by requiring fundamental reforms to Section
+    230 of the Communications Decency Act and by removing special
+    immunity for online platforms; to impose much stronger transparency
+    requirements on online platforms, including their algorithmic
+    recommendation systems, content moderation decisions, and
+    enforcement of community standards; and to pass legislation
+    requiring platforms to enable timely and robust public interest
+    research, including on the spread of antisemitism and other forms of
+    hate, using platforms’ data and analyzing their algorithmic
+    recommendation systems, while maintaining users’ privacy.
+-   **The Biden-Harris Administration encourages all online platforms to
+    independently commit to actions such as** ensuring that terms of
+    service and community standards explicitly cover antisemitism; adopt
+    zero-tolerance standards for hate speech, including antisemitism;
+    permanently ban repeat offenders, both personal accounts and
+    extremist websites; invest in the human and technical resources
+    necessary to enable vigorous and timely enforcement of their terms
+    of service and community standards; improve capabilities to stop
+    recommending and de-rank antisemitic and other hateful content; and
+    increase the transparency of their algorithmic recommendation
+    systems and data.
 
 **Pillar 4: Build cross-community solidarity and collective action to
 counter hate**
