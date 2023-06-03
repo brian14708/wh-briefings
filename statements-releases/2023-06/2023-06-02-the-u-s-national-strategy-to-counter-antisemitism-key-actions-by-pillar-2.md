@@ -1,6 +1,6 @@
 ---
 date: '2023-06-02'
-modified_time: 2023-06-03 07:21:32-04:00
+modified_time: 2023-06-03 10:47:10-04:00
 published_time: 2023-06-02 16:53:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
 tags: statements-releases
@@ -62,13 +62,13 @@ improve data collection on antisemitism, ensure vigorous enforcement of
 hate crime laws, and increase federal funding for the physical security
 of Jewish institutions.
 
--   This summer, **the Department of Justice**, **and** **the Department
+-   This summer, **the Department of Justice** **and** **the Department
     of Homeland Security** will undertake targeted engagements with the
     Jewish community to understand and help address their security
     needs.
 -   **The White House** will launch an interagency effort to understand
-    the barriers to reporting hate incidents, to eliminate those
-    barriers and improve criminal justice data reporting.
+    the barriers to reporting hate incidents, eliminate those barriers,
+    and improve criminal justice data reporting.
 -   **The Department of Homeland Security and Department of Justice
     published** and disseminated [a resource
     guide](/Users/AJPascal/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/F7XFRSMY/resource%20guide)
@@ -119,7 +119,7 @@ campuses.
     dietary needs, including kosher and halal dietary needs. **The
     Department of Health and Human Services will** similarly expand
     efforts to ensure kosher and halal foods are provided in hospitals.
--   **The Department of Defense will evaluate all** existing training to
+-   **The Department of Defense will** evaluate all existing training to
     identify any gaps in coverage of antisemitic conduct as a form of
     prohibited discrimination.
 -   **The Biden-Harris Administration calls** on Congress to hold social
