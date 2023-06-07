@@ -1,5 +1,6 @@
 ---
 date: '2023-05-31'
+modified_time: 2023-06-07 08:53:06-04:00
 published_time: 2023-05-31 21:22:16-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
 tags: statements-releases
@@ -1167,16 +1168,17 @@ call this country home.
     system and provide a pathway to citizenship to millions of
     undocumented individuals, including AA and NHPI noncitizens.
 
-****Building an Administration that Represents America.**** President
-Biden has assembled the most diverse Administration in our nation’s
-history and is proud to serve alongside Vice President Kamala Harris —
-the first Black American and South Asian American to be elected Vice
-President — as well as the 14 percent of all agency appointees that are
-AA and NHPI, exceeding their 7 percent share of the Census population.
-The Biden-Harris Administration has taken further action to ensure equal
-opportunity and inclusion is emphasized throughout the administration,
-including:  
-  
+**Building an Administration that Represents America.** President Biden
+has assembled the most diverse Administration in our nation’s history
+and is proud to serve alongside Vice President Kamala Harris—the first
+Black American and South Asian American to be elected Vice President— as
+well as the 14 percent of all agency appointees that are AA and NHPI,
+exceeding their 7 percent share of the Census population. In the White
+House itself, 17 percent of all staff and 26 percent of the President’s
+commissioned officer staff identify as AA and NHPI. The Biden-Harris
+Administration has taken further action to ensure equal opportunity and
+inclusion is emphasized throughout the administration, including:
+
 Appointing AA and NHPIs to lead critical agencies. AA and NHPIs are
 represented at the top level of the administration in the President’s
 Cabinet and as heads of agencies. This list of senior officials includes
@@ -1184,8 +1186,10 @@ United States Trade Representative Katherine Tai, Director of the
 Consumer Financial Protection Bureau Rohit Chopra, Surgeon General of
 the United States Vice Admiral Vivek Murthy, Chair of the Federal Trade
 Commission Lina Khan, Director of the Office of Personnel Management
-Kiran Ahuja, and Director of the Office of National Drug Control Policy
-Rahul Gupta.  
+Kiran Ahuja, Domestic Policy Advisor Neera Tanden, Director of the
+Office of National Drug Control Policy Rahul Gupta, Director of the
+Office of Science and Technology Policy Arati Prabhakar, and Acting
+Secretary of the Department of Labor Julie Su.  
   
 **Nominating AA and NHPIs to Federal Judicial Positions**.  The
 Biden-Harris Administration has nominated 27 AA and NHPI federal
