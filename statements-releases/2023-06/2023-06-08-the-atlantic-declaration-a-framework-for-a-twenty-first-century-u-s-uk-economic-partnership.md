@@ -1,6 +1,6 @@
 ---
 date: '2023-06-08'
-modified_time: 2023-06-08 15:23:01-04:00
+modified_time: 2023-06-08 17:02:59-04:00
 published_time: 2023-06-08 14:29:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/the-atlantic-declaration-a-framework-for-a-twenty-first-century-u-s-uk-economic-partnership/
 tags: statements-releases
@@ -114,8 +114,8 @@ century economic partnership should look like. Together the United
 States and the United Kingdom can lead in building a new form of
 economic partnership that advances economic growth and competitiveness,
 that builds capacity, resilience, and inclusiveness, and works for our
-workers and communities. A partnership that works for our businesses,
-works for our climate, and works for our national security.   
+workers and communities; works for our businesses; works for our
+climate; and works for our national security.   
   
 As the first steps in this new partnership, we are today announcing and
 taking concrete and coordinated actions to deepen this partnership
