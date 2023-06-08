@@ -1,5 +1,6 @@
 ---
 date: '2023-06-08'
+modified_time: 2023-06-08 15:23:01-04:00
 published_time: 2023-06-08 14:29:38-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/the-atlantic-declaration-a-framework-for-a-twenty-first-century-u-s-uk-economic-partnership/
 tags: statements-releases
@@ -82,8 +83,8 @@ across the world.
 The Atlantic Declaration and accompanying Action Plan form the basis of
 a new type of innovative partnership across the full spectrum of our
 economic, technological, commercial and trade relations; a first of its
-kind that has never been tried before, and which demands our joint
-leadership and imagination to realize in full.  
+kind, and which demands our joint leadership and imagination to realize
+in full.  
   
 It will constitute a new economic security framework covering
 ever-closer cooperation on critical and emerging technologies and
@@ -106,16 +107,15 @@ together.
 Deep economic ties between the United States and the United Kingdom have
 long been a source of mutual strength. The U.S.-UK bilateral investment
 relationship is the largest in the world, with over $1.5 trillion in
-stock \[£ 1.2 trillion\] supporting more than 2.7 million jobs in both
-countries. As we evolve our unparalleled economic relationship to
-reflect today’s challenges, we have an opportunity to exemplify what a
-twenty-first century economic partnership should look like. Together the
-United States and the United Kingdom can lead in building a new form of
+stock supporting more than 2.7 million jobs in both countries. As we
+evolve our unparalleled economic relationship to reflect today’s
+challenges, we have an opportunity to exemplify what a twenty-first
+century economic partnership should look like. Together the United
+States and the United Kingdom can lead in building a new form of
 economic partnership that advances economic growth and competitiveness,
 that builds capacity, resilience, and inclusiveness, and works for our
-workers and communities. A partnership that works for our hard-working
-businesses, works for our climate, and works for our national
-security.   
+workers and communities. A partnership that works for our businesses,
+works for our climate, and works for our national security.   
   
 As the first steps in this new partnership, we are today announcing and
 taking concrete and coordinated actions to deepen this partnership
@@ -188,7 +188,7 @@ months. ​
         institutes.  
     -   Accelerating our cooperation on **AI** with a focus on ensuring
         the safe and responsible development of the technology.​   
--   **Mobilising private capital towards strategic technologies.** We
+-   **Mobilizing private capital towards strategic technologies.** We
     intend to support the growth of companies in both countries across
     these critical and emerging technologies. We intend to work together
     to crowd in private capital to ensure companies in these areas have
