@@ -1,6 +1,6 @@
 ---
 date: '2023-06-08'
-modified_time: 2023-06-07 23:04:06-04:00
+modified_time: 2023-06-08 21:22:36-04:00
 published_time: 2023-06-08 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-caribbean-partnership/
 tags: statements-releases
@@ -269,11 +269,11 @@ financing for the Caribbean, a key pillar of PACC 2030:
     The United States aims to mobilize $200 billion globally by 2027
     towards PGII—delivering energy, physical, digital, health, and
     climate-resilient infrastructure.  
-    -   **Climate Resilient Debt Clauses:** The United States continues
-        to encourage all creditors—including the private sector and
-        multilateral development banks—to offer climate resilient debt
-        clauses in their lending.  The United States is preparing to do
-        so in our own bilateral lending where feasible.
+-   **Climate Resilient Debt Clauses:** The United States continues to
+    encourage all creditors—including the private sector and
+    multilateral development banks—to offer climate resilient debt
+    clauses in their lending.  The United States is preparing to do so
+    in our own bilateral lending where feasible.
 
 <!-- -->
 
