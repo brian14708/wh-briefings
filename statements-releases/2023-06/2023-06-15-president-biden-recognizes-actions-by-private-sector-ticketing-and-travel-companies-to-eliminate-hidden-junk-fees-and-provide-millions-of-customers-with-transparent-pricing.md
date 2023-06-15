@@ -1,6 +1,6 @@
 ---
 date: '2023-06-15'
-modified_time: 2023-06-15 09:27:23-04:00
+modified_time: 2023-06-15 12:18:20-04:00
 published_time: 2023-06-15 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/
 tags: statements-releases
@@ -101,6 +101,16 @@ business models:**
     Festival and Newport Jazz Festival, and has been displaying all-in
     pricing for the all 65,000 fans that attend their events each year
     since 2017.
+
+**The private sector actions recognized today are the latest progress in
+the President’s efforts to crackdown on junk fees.**
+
+-   Within weeks of the President’s State of the Union address and his
+    call to ban family seating fees on airlines, American, Alaska, and
+    Frontier Airlines [changed their
+    policies](https://flightrights.gov/) to guarantee fee-free family
+    seating and United Airlines took some preliminary steps to address
+    those fees as well.
 
 **The Administration has also taken a number of administrative actions
 to address junk fees in every sector of the economy, including:**
