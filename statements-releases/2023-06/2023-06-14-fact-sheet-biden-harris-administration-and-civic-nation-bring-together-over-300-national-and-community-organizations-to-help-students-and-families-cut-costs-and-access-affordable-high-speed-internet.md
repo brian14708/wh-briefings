@@ -1,6 +1,6 @@
 ---
 date: '2023-06-14'
-modified_time: 2023-06-14 09:50:38-04:00
+modified_time: 2023-06-14 20:25:14-04:00
 published_time: 2023-06-14 09:36:09-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administration-and-civic-nation-bring-together-over-300-national-and-community-organizations-to-help-students-and-families-cut-costs-and-access-affordable-high-speed-internet/
 tags: statements-releases
@@ -27,7 +27,7 @@ internet service providers across the country to offer high-speed
 internet plans that are fully covered by the Affordable Connectivity
 Program—meaning millions of working families can now get high-speed
 internet without paying a dime. Americans can check their eligibility
-and sign-up at [GetInternet.gov](mailto:getinternet.gov).  
+and sign-up at [GetInternet.gov](https://getinternet.gov/).  
   
 **Today, the Administration announced that Civic Nation and the U.S.
 Department of Education are launching** [***Online For
@@ -66,7 +66,7 @@ Americans, including:
     [**HERE**](https://twitter.com/VP/status/1668969605526593537).  
      
 -   The **FCC** and the **Universal Service Administration
-    Corporation** (USAC) have made significant improvements to the
+    Company** (USAC) have made significant improvements to the
     Affordable Connectivity Program application to enhance the consumer
     experience and make it easier for qualified applicants to enroll,
     including allowing Pell Grant recipients to apply without having to
