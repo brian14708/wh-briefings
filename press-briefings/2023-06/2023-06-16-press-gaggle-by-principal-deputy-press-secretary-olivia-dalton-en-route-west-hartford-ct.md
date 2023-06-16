@@ -1,5 +1,6 @@
 ---
 date: '2023-06-16'
+modified_time: 2023-06-16 16:49:58-04:00
 published_time: 2023-06-16 15:50:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/16/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-west-hartford-ct/
 tags: press-briefings
@@ -253,11 +254,11 @@ So, I’m wondering: Where does the President believe that his
 relationship with Xi stands right now?  And does a call seem likely
 after the Blinken visit?  
    
-MS. DALTON:  I think that the President did not have to be talked out of
-a call with President Xi.  We’ve been very clear and consistent about
-the need to maintain multiple lines of communication with China.  And
-that’s part of why Secretary Blinken is headed to the region very
-shortly.  
+MS. DALTON:  I want to be emphatic that the President did not have to be
+talked out of a call with President Xi.  We’ve been very clear and
+consistent about the need to maintain multiple lines of communication
+with China.  And that’s part of why Secretary Blinken is headed to the
+region very shortly.  
    
 Look, stepping back here, China is seeing that, right now, the United
 States is in a place where we are better positioned than ever before to
@@ -426,4 +427,5 @@ MS. DALTON:  I can’t speak to that.  I’d have to refer you to the DNC
 since it’s a political event.  But I’ll, on that note, leave it there. 
 See you guys later.   
    
-1:05 P.M. EDT
+1:05 P.M. EDT  
+ 
