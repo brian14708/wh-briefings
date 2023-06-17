@@ -1,5 +1,6 @@
 ---
 date: '2023-06-16'
+modified_time: 2023-06-16 22:55:27-04:00
 published_time: 2023-06-16 20:22:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/statement-by-nsc-spokesperson-adam-hodge-on-assisting-canada-in-responding-to-wildfires/
 tags: statements-releases
