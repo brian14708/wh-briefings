@@ -1,6 +1,6 @@
 ---
 date: '2023-06-23'
-modified_time: 2023-06-22 22:00:38-04:00
+modified_time: 2023-06-23 10:17:13-04:00
 published_time: 2023-06-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-biden-harris-administration-highlights-commitment-to-defending-reproductive-rights-and-actions-to-protect-access-to-reproductive-health-care-one-year-after-overturning-of-roe-v-wade/
 tags: statements-releases
@@ -57,7 +57,7 @@ Administration’s ongoing efforts to defend reproductive rights.
     protections for emergency medical care afforded under federal
     law—including abortion care when that is the stabilizing treatment
     required. HHS [issued
-    guidance](https://www.hhs.gov/about/news/2022/07/11/following-president-bidens-executive-order-protect-access-reproductive-health-care-hhs-announces-guidance-clarify-that-emergency-medical-care-includes-abortion-services.html)
+    guidance](https://www.cms.gov/medicareprovider-enrollment-and-certificationsurveycertificationgeninfopolicy-and-memos-states-and/reinforcement-emtala-obligations-specific-patients-who-are-pregnant-or-are-experiencing-pregnancy-0)
     affirming requirements under the Emergency Medical Treatment and
     Labor Act (EMTALA) and Secretary Becerra
     [sent](https://u7061146.ct.sendgrid.net/ls/click?upn=4tNED-2FM8iDZJQyQ53jATUQs-2BN3jQcVLX1PF2KeT0WHpjKuEGg9HmpTkm0U662e5MZPUxFHTPmAUcFbW4j1MvV724tEggkjCEA2ZX3gi-2FNyPGJFj8gYazBcTjCojRcpqq8BsK2ApNp1RFmFOQsiu6fA-3D-3DCFjw_gatHLOXVnjS-2Fys-2B7qAyVd81zv1Wap8yT25fZboq0-2BiJx32YthI2zl6rLINVJW-2BIntQ2xHKXC9-2BG6LAj91HsUVwh1AxFPJdA27CeTtZ70weukMTYQr8WctKfx-2BmGuVXIt7NBdKdc5BSZ0vWWNOejTWPEy2AgckfSiYxFle46ealnje2B4V4C0QYRTkcLdfsRU56JahbxdQ2uRxCBEsIaevThQ0x69QHjdNvp4laljWEcd4M0qNQNSgcwU24FhZ1w96ALZQHFywHGvRhge-2F9zNwNaJPGFGZQxR7GEUSGFO-2FX9y-2B1RcBuCXkeyu-2BDztuqiWbfnn1up39qkzdr48HwOg9C6DCFMqDsFLHFH4tFzwcYk-3D)
@@ -132,8 +132,10 @@ Administration’s ongoing efforts to defend reproductive rights.
     scope of their federal employment, VA employees [may
     provide](https://www.justice.gov/d9/2022-11/2022-09-21-va_immunity_for_abortion_services.pdf)
     authorized services regardless of state restrictions. DOJ will
-    defend any VA providers whom states attempt to prosecute for
-    violations of state abortion laws. 
+    support and provide representation to any VA providers whom states
+    attempt to prosecute for violations of state abortion laws where
+    those providers were appropriately carrying out their duties under
+    VA’s interim final rule. 
 -   **Support Access to Care for Service Members. ** The Department of
     Defense (DoD) has [taken
     action](https://www.defense.gov/News/News-Stories/Article/Article/3195298/dod-looks-to-ensure-access-to-reproductive-health-care/)
