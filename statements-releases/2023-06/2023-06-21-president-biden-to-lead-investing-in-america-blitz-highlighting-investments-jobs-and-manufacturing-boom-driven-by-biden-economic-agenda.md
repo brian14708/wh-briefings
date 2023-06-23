@@ -1,6 +1,6 @@
 ---
 date: '2023-06-21'
-modified_time: 2023-06-20 22:24:48-04:00
+modified_time: 2023-06-23 11:41:40-04:00
 published_time: 2023-06-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/21/president-biden-to-lead-investing-in-america-blitz-highlighting-investments-jobs-and-manufacturing-boom-driven-by-biden-economic-agenda/
 tags: statements-releases
@@ -119,7 +119,7 @@ A few highlights of the upcoming Investing in America tour include:
 
 -   **Senior Advisor and American Rescue Plan Coordinator Gene
     Sperling **will travel to** Detroit, Michigan **to celebrate the
-    reopening of Roosevelt Park, made possible by President Biden’s
+    grand opening of Roosevelt Park, made possible by President Biden’s
     American Rescue Plan.
 -   **Senior Advisor and Infrastructure Implementation Coordinator Mitch
     Landrieu **will travel to** New Mexico and Texas**, as well as
