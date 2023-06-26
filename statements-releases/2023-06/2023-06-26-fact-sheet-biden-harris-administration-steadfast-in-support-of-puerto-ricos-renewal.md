@@ -1,5 +1,6 @@
 ---
 date: '2023-06-26'
+modified_time: 2023-06-26 17:24:50-04:00
 published_time: 2023-06-26 16:01:42-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-steadfast-in-support-of-puerto-ricos-renewal/
 tags: statements-releases
