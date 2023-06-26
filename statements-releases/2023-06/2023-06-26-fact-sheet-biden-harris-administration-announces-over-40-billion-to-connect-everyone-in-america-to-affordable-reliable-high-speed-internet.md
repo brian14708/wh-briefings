@@ -1,6 +1,6 @@
 ---
 date: '2023-06-26'
-modified_time: 2023-06-26 11:04:09-04:00
+modified_time: 2023-06-26 15:05:10-04:00
 published_time: 2023-06-26 11:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-over-40-billion-to-connect-everyone-in-america-to-affordable-reliable-high-speed-internet/
 tags: statements-releases
@@ -50,7 +50,7 @@ Among the highlights:
 Details related to the BEAD allocation for the states, D.C., and
 territories, as well as the total Federal investment in high-speed
 internet in each State and Territory are available
-[here](https://www.internetforall.gov/funding-recipients).
+[here](https://internetforall.gov/news-media/biden-harris-administration-announces-state-allocations-4245-billion-high-speed-internet).
 
 In addition to helping connect everyone in America to high-speed
 internet, this funding will support manufacturing jobs and crowd in
