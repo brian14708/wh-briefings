@@ -1,6 +1,6 @@
 ---
 date: '2023-06-26'
-modified_time: 2023-06-26 17:24:50-04:00
+modified_time: 2023-06-27 11:05:09-04:00
 published_time: 2023-06-26 16:01:42-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-steadfast-in-support-of-puerto-ricos-renewal/
 tags: statements-releases
@@ -79,7 +79,7 @@ digital divide at institutions of higher education.
 **Delivered Unprecedented Relief and Made Lasting Investments for Puerto
 Rico’s Families, Workers, Municipalities, and Businesses**
 
-Puerto Rico’s territorial and 79 municipal governments received $4
+Puerto Rico’s territorial and 78 municipal governments received $4
 billion in American Rescue Plan (ARP) State and Local Fiscal Recovery
 Funds to respond to the public health and economic impacts of the
 pandemic. These historic investments included over $600 million to
