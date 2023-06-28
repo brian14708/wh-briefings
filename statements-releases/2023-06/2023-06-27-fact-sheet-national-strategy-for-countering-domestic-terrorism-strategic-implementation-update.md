@@ -1,6 +1,6 @@
 ---
 date: '2023-06-27'
-modified_time: 2023-06-27 14:00:35-04:00
+modified_time: 2023-06-27 20:52:36-04:00
 published_time: 2023-06-27 14:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/
 tags: statements-releases
@@ -226,8 +226,8 @@ actions that more than two dozen government agencies will take in the
 next year to counter antisemitism, as well as over 100 calls to action
 for Congress, state and local governments, companies, technology
 platforms, students, teachers and academics, civil society and faith
-leaders, and others to counter antisemitism. See[ this Fact
-Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/) for
+leaders, and others to counter antisemitism. See [this Fact
+Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/) for
 more information on the key strategy actions.  
 
 \###
