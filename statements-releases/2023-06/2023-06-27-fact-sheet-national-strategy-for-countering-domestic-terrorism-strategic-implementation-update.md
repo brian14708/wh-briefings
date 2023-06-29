@@ -1,6 +1,6 @@
 ---
 date: '2023-06-27'
-modified_time: 2023-06-27 20:52:36-04:00
+modified_time: 2023-06-28 21:32:36-04:00
 published_time: 2023-06-27 14:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/
 tags: statements-releases
@@ -9,14 +9,14 @@ title: "FACT SHEET: National Strategy for Countering Domestic Terrorism Strategi
 ---
  
 Two years ago this month, the Biden-Harris Administration released the
-first-ever *National Strategy for Countering Domestic Terrorism*. Since
-the strategy’s launch in June 2021, we have sharpened our understanding
-of the domestic terrorism threat, increased information sharing with
+first-ever *National Strategy for Countering Domestic Terrorism*. Since
+the strategy’s launch in June 2021, we have sharpened our understanding
+of the domestic terrorism threat, increased information sharing with
 state, local, Tribal, and territorial law enforcement and foreign
-partners, doubled our investigations into domestic extremism and
+partners, doubled our investigations into domestic extremism and
 terrorism, prioritized funding for research into the factors that
-influence domestic terrorism and extremism, strengthened local efforts
-to prevent acts of domestic terrorism, and expanded our capabilities to
+influence domestic terrorism and extremism, strengthened local efforts
+to prevent acts of domestic terrorism, and expanded our capabilities to
 disrupt and prosecute such acts, all while safeguarding privacy, civil
 rights and civil liberties.
 
