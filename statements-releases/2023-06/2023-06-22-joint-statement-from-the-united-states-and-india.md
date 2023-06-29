@@ -1,5 +1,6 @@
 ---
 date: '2023-06-22'
+modified_time: 2023-06-29 15:42:03-04:00
 published_time: 2023-06-22 15:46:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/joint-statement-from-the-united-states-and-india/
 tags: statements-releases
@@ -74,8 +75,8 @@ announcement by Micron Technology, Inc., to invest up to $825 million to
 build a new semiconductor assembly and test facility in India with
 support from the Indian government.  The combined investment valued at
 $2.75 billion would create up to 5,000 new direct and 15,000 community
-jobs opportunities in next five years.  The leaders also welcomed Lam
-Research’s proposal to train 60,000 Indian engineers through its
+jobs opportunities in the next five years.  The leaders also welcomed
+Lam Research’s proposal to train 60,000 Indian engineers through its
 Semiverse Solution virtual fabrication platform to accelerate India’s
 semiconductor education and workforce development goals, and an
 announcement by Applied Materials, Inc., to invest $400 million to

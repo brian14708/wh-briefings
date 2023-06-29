@@ -1,5 +1,6 @@
 ---
 date: '2023-06-29'
+modified_time: 2023-06-29 15:34:11-04:00
 published_time: 2023-06-29 13:01:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-president-biden-announces-actions-to-promote-educational-opportunity-and-diversity-in-colleges-and-universities/
 tags: statements-releases
@@ -55,7 +56,7 @@ Biden-Harris Administration is:
     Department of Education will host a national summit on equal
     opportunity in postsecondary education next month with advocates,
     student leaders, college and university administrators, researchers,
-    and state, local, and Tribal leaders to share lessons learned,
+    and state, local, and Tribal leaders to share lessons learned and
     innovative strategies, and develop additional resources for colleges
     and students to expand access to educational opportunity.
 -   **Releasing a report on strategies for increasing diversity and
@@ -86,7 +87,7 @@ Biden-Harris Administration is:
     educational opportunity for underserved communities.** The
     Department of Education will assist states and Tribal nations in
     marshaling their data to improve college recruitment, admissions,
-    and financial aid practices to devise strategies for increasing
+    and financial aid practices and devise strategies for increasing
     access to educational opportunity, such as partnerships to
     appropriately share and use education data, and direct admissions
     programs that proactively admit students based on factors such as
@@ -104,12 +105,12 @@ by:
 -   **Prioritizing college completion:** The Biden-Harris Administration
     has championed efforts to improve postsecondary outcomes,
     particularly for students who face the greatest barriers to
-    accessing and completing college. In response to the President
-    Biden’s budget, Congress established a new Postsecondary Student
-    Success Grant program to provide direct support to institutions to
-    engage in evidence-based activities that support college
-    re-enrollment, retention, and completion among individuals who are
-    close to graduation.
+    accessing and completing college. In response to the President’s
+    budget, Congress established a new Postsecondary Student Success
+    Grant program to provide direct support to institutions to engage in
+    evidence-based activities that support college re-enrollment,
+    retention, and completion among individuals who are close to
+    graduation.
 -   **Supporting America’s Minority-Serving Institutions: **President
     Biden has secured historic investments in institutions that enroll
     and graduate disproportionate shares of low-income students and

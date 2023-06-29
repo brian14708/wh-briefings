@@ -1,6 +1,6 @@
 ---
 date: '2023-06-22'
-modified_time: 2023-06-22 19:36:26-04:00
+modified_time: 2023-06-29 15:41:02-04:00
 published_time: 2023-06-22 15:54:17-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/fact-sheet-republic-of-india-official-state-visit-to-the-united-states/
 tags: statements-releases
@@ -21,11 +21,12 @@ title: "FACT SHEET: Republic of India Official State Visit to the United\_States
     Research](https://newsroom.lamresearch.com/2023-06-22-Lam-Research-Unveils-Plans-to-Advance-Indias-Semiconductor-Workforce-Development-Goals-at-White-House-Today)
     will train 60,000 Indian engineers through its “Semiverse Solution”
     to accelerate India’s semiconductor education and workforce
-    development goals.  The U.S. Semiconductor Industry Association and
-    India Electronics Semiconductor Association released an interim
-    readiness assessment to identify near-term industry opportunities
-    and facilitate the long-term strategic development of complementary
-    semiconductor ecosystems. 
+    development goals.  [The U.S. Semiconductor Industry Association and
+    India Electronics Semiconductor
+    Association](https://www.semiconductors.org/new-assessment-identifies-opportunities-for-strengthening-indias-role-in-semiconductor-ecosystem/)
+    released an interim readiness assessment to identify near-term
+    industry opportunities and facilitate the long-term strategic
+    development of complementary semiconductor ecosystems. 
 -   Critical Minerals Partnership:  The United States welcomes India as
     the newest partner of the Minerals Security Partnership (MSP),
     established to accelerate the development of diverse and sustainable
@@ -76,7 +77,7 @@ title: "FACT SHEET: Republic of India Official State Visit to the United\_States
     payloads for the NASA-ISRO Synthetic Aperture Radar (NISAR) have
     been delivered to India and will be launched in 2024, and will
     measure Earth’s changing ecosystems like natural hazards and sea
-    level rise.  The US Geological Survey and ISROare negotiating
+    level rise.  The US Geological Survey and ISRO are negotiating
     expanded bilateral data exchange that will enable greater insight
     about the earth, including for a range of applications, such as
     climate resiliency, sustainable development and management of
@@ -88,34 +89,43 @@ title: "FACT SHEET: Republic of India Official State Visit to the United\_States
     States also welcomed India’s participation in both the Quantum
     Entanglement Exchange and the Quantum Economic Development
     Consortium, which facilitates exchanges on quantum between nations.
-    Additionally, India and the United States signed an implanting
-    arrangement to further support joint research on quantum, Artificial
-    Intelligence (AI), and advanced wireless technologies—building off
-    of the U.S.-India Science and Technology Endowment Fund’s $2 million
-    grant for the joint development and commercialization of Artificial
-    Intelligence and quantum technologies. Through its AI Research
-    Center in Bengaluru, Google is building models to support over 100
-    Indian languages, and working with the Indian Institute of Science
-    to support open sourcing of speech data for AI models.  It has also
-    partnered with IIT Madras to establish a multidisciplinary Center
-    for Responsible AI.
--   Cutting-edge Research:  The U.S. National Science Foundation
+    Additionally, —the U.S.-India Science and Technology Endowment Fund
+    launched a $2 million grant for the joint development and
+    commercialization of Artificial Intelligence and quantum
+    technologies, building off of the Implementation Arrangements signed
+    by India and the United States to further support joint research on
+    quantum, Artificial Intelligence (AI), and advanced wireless
+    technologies. —The U.S.-India Science and Technology Endowment Fund
+    launched a $2 million grant for the joint development and
+    commercialization of Artificial Intelligence and quantum
+    technologies. Through its AI Research Center in Bengaluru, Google is
+    building models to support over 100 Indian languages, and working
+    with the Indian Institute of Science to support open sourcing of
+    speech data for AI models.  It has also partnered with IIT Madras to
+    establish a multidisciplinary Center for Responsible AI.
+-   Cutting-edge Research:    India’s Department of Atomic Energy (DAE)
+    is making a $140 million in-kind contribution to the U.S. Department
+    of Energy’s (DOE’s) Fermi National Laboratory toward collaborative
+    development of the Proton Improvement Plan-II Accelerator, for
+    the Long Baseline Neutrino Facility – the first and largest
+    international research facility on U.S. soil. 
+-   Innovation Handshake:  The U.S. National Science Foundation
     announced 35 joint research collaborations with the Indian
-    Department of Science and Technology and also signed a new
-    cooperative arrangement with the Indian Ministry of Electronics and
-    Information Technology on emerging technologies.  India’s Department
-    of Atomic Energy (DAE) is making a $140 million in-kind contribution
-    to the U.S. Department of Energy’s (DOE’s) Fermi National
-    Laboratory toward collaborative development of the Proton
-    Improvement Plan-II Accelerator, for the Long Baseline Neutrino
-    Facility – the first and largest international research facility on
-    U.S. soil. 
--   Innovation Handshake:  To support the U.S.-India Initiative on
-    Critical and Emerging Technology (iCET), the U.S.-India Commercial
-    Dialogue will launch a new “Innovation Handshake” to connect each
-    country’s start-up ecosystems. This program will address regulatory
-    hurdles to cooperation, promote job growth in emerging technologies,
-    and highlight opportunities for hi-tech upskilling. 
+    Department of Science and Technology (DST).  Under a new
+    implementation arrangement between NSF and DST, both sides will fund
+    joint research projects in computer and information science and
+    engineering, cyber physical systems, and secure and trustworthy
+    cyberspace. Furthermore, NSF and India’s Ministry of Electronics and
+    Information Technology will bring fresh funding for joint projects
+    in applied research areas such as semiconductors, next generation
+    communication, cyber security, sustainability and green technologies
+    and intelligent transportation systemsTo support the U.S.-India
+    Initiative on Critical and Emerging Technology (iCET),
+    the U.S.-India Commercial Dialogue will launch a new “Innovation
+    Handshake” to connect each country’s start-up ecosystems. This
+    program will address regulatory hurdles to cooperation, promote job
+    growth in emerging technologies, and highlight opportunities for
+    hi-tech upskilling. 
 -   Fiber Optics Investments:  India’s Sterlite Technologies Limited has
     invested $100 million in the construction of an optical fiber cable
     manufacturing unit near Columbia, South Carolina, which will
