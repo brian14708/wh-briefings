@@ -1,6 +1,6 @@
 ---
 date: '2023-06-29'
-modified_time: 2023-06-30 15:45:30-04:00
+modified_time: 2023-06-30 17:42:34-04:00
 published_time: 2023-06-29 13:01:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-president-biden-announces-actions-to-promote-educational-opportunity-and-diversity-in-colleges-and-universities/
 tags: statements-releases
@@ -56,7 +56,7 @@ Biden-Harris Administration is:
     Department of Education will host a national summit on equal
     opportunity in postsecondary education next month with advocates,
     student leaders, college and university administrators, researchers,
-    and state, local, and territorial Tribal leaders to share lessons
+    and state, local, territorial and Tribal leaders to share lessons
     learned and innovative strategies, and develop additional resources
     for colleges and students to expand access to educational
     opportunity.
