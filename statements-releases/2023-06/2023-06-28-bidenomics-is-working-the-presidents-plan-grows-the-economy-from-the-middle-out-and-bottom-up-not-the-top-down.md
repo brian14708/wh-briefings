@@ -1,6 +1,6 @@
 ---
 date: '2023-06-28'
-modified_time: 2023-06-27 22:50:02-04:00
+modified_time: 2023-06-30 14:25:21-04:00
 published_time: 2023-06-28 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/
 tags: statements-releases
@@ -267,8 +267,6 @@ $2,600 for 39 million families that include 62 million children by
 expanding the Child Tax Credit, cutting taxes by an average of $800 for
 19 million working individuals or couples by expanding the Earned Income
 Tax Credit, and continuing Premium Tax Credit plus-ups that are cutting
-health care premiums by an average of $800 for nearly 15 million
-people.  
-\###
+health care premiums by an average of $800 for nearly 15 million people.
 
 \###
