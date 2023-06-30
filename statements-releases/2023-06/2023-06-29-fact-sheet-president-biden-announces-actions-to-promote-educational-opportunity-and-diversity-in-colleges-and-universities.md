@@ -1,6 +1,6 @@
 ---
 date: '2023-06-29'
-modified_time: 2023-06-29 15:34:11-04:00
+modified_time: 2023-06-30 15:45:30-04:00
 published_time: 2023-06-29 13:01:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-president-biden-announces-actions-to-promote-educational-opportunity-and-diversity-in-colleges-and-universities/
 tags: statements-releases
@@ -56,9 +56,10 @@ Biden-Harris Administration is:
     Department of Education will host a national summit on equal
     opportunity in postsecondary education next month with advocates,
     student leaders, college and university administrators, researchers,
-    and state, local, and Tribal leaders to share lessons learned and
-    innovative strategies, and develop additional resources for colleges
-    and students to expand access to educational opportunity.
+    and state, local, and territorial Tribal leaders to share lessons
+    learned and innovative strategies, and develop additional resources
+    for colleges and students to expand access to educational
+    opportunity.
 -   **Releasing a report on strategies for increasing diversity and
     educational opportunity, including meaningful consideration of
     adversity.** Following the Summit, the Department of Education will
@@ -85,11 +86,11 @@ Biden-Harris Administration is:
     to college recruitment, admissions, and enrollment.
 -   **Supporting states in analyzing data to increase access to
     educational opportunity for underserved communities.** The
-    Department of Education will assist states and Tribal nations in
-    marshaling their data to improve college recruitment, admissions,
-    and financial aid practices and devise strategies for increasing
-    access to educational opportunity, such as partnerships to
-    appropriately share and use education data, and direct admissions
+    Department of Education will assist states, territories and Tribal
+    nations in marshaling their data to improve college recruitment,
+    admissions, and financial aid practices and devise strategies for
+    increasing access to educational opportunity, such as partnerships
+    to appropriately share and use education data, and direct admissions
     programs that proactively admit students based on factors such as
     academic performance and students’ geographic location – without
     requiring them to apply or pay an application fee. 
@@ -116,8 +117,10 @@ by:
     and graduate disproportionate shares of low-income students and
     students of color, including tens of billions of dollars in funding
     for Historically Black Colleges and Universities, Tribal Colleges
-    and Universities, and Minority Serving Institutions, including
-    Hispanic Serving Institutions through the Department of Education.
+    and Universities, Asian American and Native American Pacific
+    Islander-Serving Institutions and Minority Serving Institutions,
+    including Hispanic Serving Institutions through the Department of
+    Education.
 -   **Fixing the broken student loan system:** The Biden-Harris
     Administration has taken action to make the student loan system more
     manageable for current and future borrowers and reduce the burden of
@@ -133,11 +136,11 @@ by:
     -   Fixing the broken Public Service Loan Forgiveness (PSLF) program
         by ensuring that borrowers who have worked at a qualifying
         nonprofit organization, in the military, or in federal, state,
-        Tribal, or local government, receive appropriate credit towards
-        loan forgiveness. These regulatory changes build on temporary
-        changes the Department of Education made to PSLF, under which
-        roughly 616,000 public servants received more than $42 billion
-        in loan forgiveness.
+        territorial, Tribal, or local government, receive appropriate
+        credit towards loan forgiveness. These regulatory changes build
+        on temporary changes the Department of Education made to PSLF,
+        under which roughly 616,000 public servants received more than
+        $42 billion in loan forgiveness.
     -   Ensuring targeted student loan forgiveness programs work.
         Including its reforms to PSLF, the Department of Education has
         approved a total of more than $66 billion in relief to over 2.2
