@@ -1,6 +1,6 @@
 ---
 date: '2023-07-01'
-modified_time: 2023-06-30 22:49:19-04:00
+modified_time: 2023-07-01 13:39:30-04:00
 published_time: 2023-07-01 09:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/01/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-all-volunteer-force/
 tags: statements-releases
@@ -48,11 +48,7 @@ who were exposed to fumes from burn pits or other toxic substances
 during their service. The First Lady, through
 her *[Joining Forces](https://www.whitehouse.gov/joiningforces/)* initiative,
 continues to support those who serve alongside our active-duty military
-members, including their family members, caregivers and survivors. Last
-month, I signed an Executive Order that establishes the most
-comprehensive set of administrative actions in decades to support the
-economic security of military and veteran spouses, caregivers, and
-survivors.  
+members, including their family members, caregivers and survivors.  
   
 In a year when we are also honoring the 75<sup>th</sup> anniversary of
 the desegregation of our Armed Forces and the 75<sup>th</sup>
