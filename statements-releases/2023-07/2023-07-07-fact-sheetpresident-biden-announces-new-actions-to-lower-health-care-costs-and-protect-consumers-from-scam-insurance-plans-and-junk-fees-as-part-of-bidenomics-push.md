@@ -1,6 +1,6 @@
 ---
 date: '2023-07-07'
-modified_time: 2023-07-06 22:17:27-04:00
+modified_time: 2023-07-07 10:57:06-04:00
 published_time: 2023-07-07 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/fact-sheetpresident-biden-announces-new-actions-to-lower-health-care-costs-and-protect-consumers-from-scam-insurance-plans-and-junk-fees-as-part-of-bidenomics-push/
 tags: statements-releases
@@ -50,10 +50,11 @@ Today, the President is announcing:
     from unfair medical debt. **For the first time in history, the
     Consumer Financial Protection Bureau, HHS, and Treasury are
     collaborating to explore whether health care provider and
-    third-party efforts to encourage consumers to sign up for these
-    products are operating outside of existing consumer protections and
-    breaking the law. Medical credit cards and loans often lead to
-    higher costs without consumers fully understanding the risks.  
+    third-party efforts to encourage consumers to sign up for medical
+    credit cards and loans are operating outside of existing consumer
+    protections and breaking the law. Medical credit cards and loans
+    often lead to higher costs without consumers fully understanding the
+    risks.  
      
 -   **The Department of Health and Human Services is releasing a new
     report showing that nearly 19 million seniors and other Part D
@@ -206,7 +207,8 @@ with the highest drug costs will save an average of $2,500 per year
 starting in 2025. Overall, the law’s Part D benefits provisions will
 reduce enrollee out-of-pocket spending by about $7.4 billion annually.  
   
-To view data broken down by state and demographic, visit LINK.  
+To view data broken down by state and demographic, visit
+[here](https://www.hhs.gov/about/news/2023/07/07/hhs-announces-actions-protect-consumers-and-lower-health-care-costs.html).  
   
 Today’s actions follow significant milestones achieved last week in
 implementing President Biden’s historic law to lower health care and
