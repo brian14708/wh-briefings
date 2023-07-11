@@ -1,5 +1,6 @@
 ---
 date: '2023-07-11'
+modified_time: 2023-07-11 18:10:21-04:00
 published_time: 2023-07-11 05:02:13-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/readout-of-president-joe-bidens-meeting-with-prime-minister-president-gitanas-nauseda-of-lithuania/
 tags: statements-releases
