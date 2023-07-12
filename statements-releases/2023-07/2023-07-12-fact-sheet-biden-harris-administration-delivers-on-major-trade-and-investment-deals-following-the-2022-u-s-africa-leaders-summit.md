@@ -1,6 +1,6 @@
 ---
 date: '2023-07-12'
-modified_time: 2023-07-12 00:51:04-04:00
+modified_time: 2023-07-12 10:54:00-04:00
 published_time: 2023-07-12 08:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-delivers-on-major-trade-and-investment-deals-following-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
@@ -108,16 +108,16 @@ Key achievements include the following:
     leverage more than $150 million of private sector resources to
     install reliable, renewable power and provide mobile network and
     internet access for at least 10,000 health facilities across
-    sub-Saharan Africa.  CTEN**,**coordinated by **Power
+    sub-Saharan Africa.  CTEN**,** coordinated by **Power
     Africa** and **Prosper Africa**, launched at the U.S.-Africa Leaders
     Summit, links clean technology energy companies in the U.S. and
     Africa with the goal of closing $350 million of new clean energy
     deals over the next five years.  
--   Since December,** the U.S. Small Business Administration
-    (SBA)**approved over $9 million in export loans to support U.S.
-    small business exports to the continent.  These loans together
-    supported nearly $20 million in U.S. small business goods and
-    services sales to North and Sub-Saharan African customers.
+-   Since December,** the U.S. Small Business Administration (SBA)**
+    approved over $9 million in export loans to support U.S. small
+    business exports to the continent.  These loans together supported
+    nearly $20 million in U.S. small business goods and services sales
+    to North and Sub-Saharan African customers.
 
 *Since announcing their commitments at the U.S.-Africa Leaders Summit,
 businesses and investors have closed on deals across the continent.  A

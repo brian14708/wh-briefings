@@ -1,6 +1,6 @@
 ---
 date: '2023-07-12'
-modified_time: 2023-07-12 00:27:05-04:00
+modified_time: 2023-07-12 10:44:59-04:00
 published_time: 2023-07-12 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/
 tags: statements-releases
@@ -38,9 +38,9 @@ demand for labor driven by investments in and around Columbus
 Today, Hub partners are announcing the following commitments and goals
 to expand pathways into these good jobs:
 
--   SCC will work with partners across the state to quadruple the number
-    of students trained for engineering technology jobs over the next
-    five years.  
+-   CSCC will work with partners across the state to quadruple the
+    number of students trained for engineering technology jobs over the
+    next five years.  
      
 -   This fall, CSCC will launch a new certificate program for
     semiconductor technician roles that was developed in partnership
