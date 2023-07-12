@@ -1,5 +1,6 @@
 ---
 date: '2023-07-12'
+modified_time: 2023-07-12 13:28:01-04:00
 published_time: 2023-07-12 12:08:20-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/
 tags: speeches-remarks
@@ -7,6 +8,8 @@ title: "Remarks as Prepared for Delivery by NEC Director Lael Brainard at the Ec
   \ Club of New\_York"
 ---
  
+**The Outlook**  
+  
 It is good to be back at the Economic Club of New York to reflect on the
 U.S. outlook. Recent data suggest the current outlook for the U.S.
 economy is upbeat. From the data alone, it would be hard to find clues
@@ -59,6 +62,9 @@ with final goods prices going up by more than input prices – should
 unwind if customers become more price-sensitive and firms compete more
 intensely for customers.
 
+**Growing the Economy from the Middle Out and Bottom Up—Not the Top
+Down**  
+  
 In sum, this economy is delivering strong results for America’s middle
 class—creating good jobs and yielding real income gains, especially for
 workers whose earnings have too often not kept up. These economic gains
@@ -138,6 +144,8 @@ that is fiscally sustainable, by ensuring that our long-term investments
 are responsibly financed by a tax system that is fair. I’ll discuss each
 in turn.
 
+**Smart Public Investment**  
+  
 After years of declining public investment, the President has secured
 historic legislation that enables smart public investment in
 infrastructure, semiconductors, and clean energy in order to catalyze
@@ -222,6 +230,8 @@ deployed everywhere. The administration has already forged agreements to
 harmonize these clean energy incentives with foreign partners, and we
 will continue to look for opportunities to cooperate.
 
+**Investing in Workers and Communities**  
+  
 Second, President Biden’s economic strategy is centered around
 empowering and educating workers and ensuring a brighter future for
 communities that have been left behind.
@@ -309,6 +319,8 @@ the [prime-age labor force participation
 rate](https://beta.bls.gov/dataViewer/view/timeseries/LNS11300060) to a
 20-year high.
 
+**Promoting Competition and Lowering Costs**  
+  
 Promoting fair competition and lowering costs is the third vital pillar
 of the President’s agenda. When the President took office, concentration
 had increased in more
@@ -384,6 +396,8 @@ vital goods and services. Americans filed nearly 10.5 million
 applications to start new businesses in 2021 and 2022–the two highest
 years on record for new business formation.
 
+**Conclusion**  
+  
 In the weeks and months ahead, we will continue working diligently to
 support growth that benefits the middle class through smart public
 investments, educating and empowering workers, and lowering the cost of
