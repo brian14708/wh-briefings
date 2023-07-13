@@ -1,6 +1,6 @@
 ---
 date: '2023-07-13'
-modified_time: 2023-07-13 06:26:09-04:00
+modified_time: 2023-07-13 07:44:38-04:00
 published_time: 2023-07-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/fact-sheet-biden-harrisadministration-publishes-thenational-cybersecurity-strategyimplementation-plan/
 tags: statements-releases
@@ -82,7 +82,8 @@ which is organized by the NCS pillars and strategic objectives.
     guidance to external partners on the roles and capabilities of
     Federal agencies in incident response and recovery.
 
-**Pillar Two | Disrupting and Dismantling Threat Actors**
+**<span style="text-decoration: underline">Pillar Two | Disrupting and
+Dismantling Threat Actors</span>**
 
 -   Combat Ransomware (2.5.2 and 2.5.4): Through the Joint Ransomware
     Task Force, which is co-chaired by CISA and the FBI, the
@@ -99,8 +100,8 @@ which is organized by the NCS pillars and strategic objectives.
     them less likely to be affected and to reduce the scale and duration
     of impacts if they are attacked.
 
-**Pillar Three | Shaping Market Forces and Driving Security and
-Resilience**
+**<span style="text-decoration: underline">Pillar Three | Shaping Market
+Forces and Driving Security and Resilience</span>**
 
 -   Software Bill of Materials (3.3.2): Increasing software transparency
     allows market actors to better understand their supply chain risk
@@ -111,7 +112,8 @@ Resilience**
     globally-accessible database for end of life/end of support software
     and convene an international staff-level working group on SBOM.
 
-**Pillar Four | Investing in a Resilient Future**
+**<span style="text-decoration: underline">Pillar Four | Investing in a
+Resilient Future</span>**
 
 -   Drive Key Cybersecurity Standards (4.1.3, 4.3.3): Technical
     standards are foundational to the Internet, and U.S. leadership in
@@ -124,8 +126,8 @@ Resilience**
     process. NIST will also finish standardization of one or more
     quantum-resistant publickey cryptographic algorithms.
 
-**Pillar Five | Forging International Partnerships to Pursue Shared
-Goals**
+**<span style="text-decoration: underline">Pillar Five | Forging
+International Partnerships to Pursue Shared Goals</span>**
 
 -   International Cyberspace and Digital Policy Strategy (5.1.1 and
     5.1.2): Cyberspace is inherently global, and policy solutions must
