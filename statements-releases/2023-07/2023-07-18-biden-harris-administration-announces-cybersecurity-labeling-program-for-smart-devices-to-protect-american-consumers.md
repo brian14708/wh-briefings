@@ -1,6 +1,6 @@
 ---
 date: '2023-07-18'
-modified_time: 2023-07-17 22:56:42-04:00
+modified_time: 2023-07-18 14:50:13-04:00
 published_time: 2023-07-18 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/
 tags: statements-releases
@@ -95,7 +95,7 @@ and Congress to fully implement this program and work together to keep
 Americans safe.
 
 Participants in today’s announcement include: Amazon, Best Buy, Carnegie
-Mellow University, CyLab, Cisco Systems, Connectivity Standards
+Mellon University, CyLab, Cisco Systems, Connectivity Standards
 Alliance, Consumer Reports, Consumer Technology Association, Google,
 Infineon, the Information Technology Industry Council, IoXT, KeySight,
 LG Electronics U.S.A., Logitech, OpenPolicy, Qorvo, Qualcomm, Samsung
