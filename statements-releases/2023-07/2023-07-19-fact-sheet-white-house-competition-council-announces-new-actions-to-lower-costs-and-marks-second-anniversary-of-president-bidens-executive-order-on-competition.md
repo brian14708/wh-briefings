@@ -1,6 +1,6 @@
 ---
 date: '2023-07-19'
-modified_time: 2023-07-19 08:39:27-04:00
+modified_time: 2023-07-19 09:51:18-04:00
 published_time: 2023-07-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-white-house-competition-council-announces-new-actions-to-lower-costs-and-marks-second-anniversary-of-president-bidens-executive-order-on-competition/
 tags: statements-releases
@@ -79,11 +79,12 @@ lower costs:
     businesses, workers, and consumers clarity about how law enforcement
     agencies evaluate mergers under the antitrust laws on the books in
     the context of our modern economy. As the Council of Economic
-    Advisers explains in a forthcoming issue brief, this revised
-    guidance reflects an approach to antitrust enforcement that is
-    informed by the best, most up-to-date economic evidence available.
-    Robust enforcement can lower prices, raise wages, and promote
-    innovation.
+    Advisers explains in a new [issue
+    brief](https://www.whitehouse.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/),
+    this revised guidance reflects an approach to antitrust enforcement
+    that is informed by the best, most up-to-date economic evidence
+    available. Robust enforcement can lower prices, raise wages, and
+    promote innovation.
 
 Today’s new announcements build on the dozens of actions agencies have
 already taken in just the two years since President Biden signed his

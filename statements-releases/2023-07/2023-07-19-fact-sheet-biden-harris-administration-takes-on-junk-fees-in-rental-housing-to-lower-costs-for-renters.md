@@ -1,6 +1,6 @@
 ---
 date: '2023-07-19'
-modified_time: 2023-07-18 20:54:50-04:00
+modified_time: 2023-07-19 08:40:07-04:00
 published_time: 2023-07-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/
 tags: statements-releases
@@ -74,8 +74,9 @@ Secretary Marcia Fudge released an [open
 letter](https://www.hud.gov/sites/dfiles/PA/documents/Junk_Fees_Memo_SOHUD_signed.pdf) to
 housing providers and state and local governments to encourage them to
 adopt policies that promote greater fairness and transparency of fees
-specifically faced by renters.  
-Today’s actions include:  
+specifically faced by renters.
+
+*Today’s actions include:*  
   
 **<u>Commitments by rental housing platforms to show total costs up
 front</u>**. Each month, tens of millions of customers search online to
