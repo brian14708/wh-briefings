@@ -1,5 +1,6 @@
 ---
 date: '2023-07-18'
+modified_time: 2023-07-19 13:49:00-04:00
 published_time: 2023-07-18 15:21:45-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/18/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-at-the-30th-anniversary-of-the-national-guards-state-partnership-program/
 tags: speeches-remarks
@@ -7,7 +8,8 @@ title: "Remarks by Homeland Security Advisor Dr. Liz Sherwood-Randall at the 30t
   \ Anniversary of The National Guard\u2019s State Partnership\_Program"
 ---
  
-General Hokanson – thank you for your lifetime of leadership.
+General Hokanson – thank you for your lifetime of service and
+leadership.
 
 And to all the Army and Air National Guard personnel here – thank you
 for your continuing and critical service to our nation.
