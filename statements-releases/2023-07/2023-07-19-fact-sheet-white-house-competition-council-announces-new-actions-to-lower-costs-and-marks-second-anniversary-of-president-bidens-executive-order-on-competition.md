@@ -1,6 +1,6 @@
 ---
 date: '2023-07-19'
-modified_time: 2023-07-18 22:50:15-04:00
+modified_time: 2023-07-19 08:39:27-04:00
 published_time: 2023-07-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-white-house-competition-council-announces-new-actions-to-lower-costs-and-marks-second-anniversary-of-president-bidens-executive-order-on-competition/
 tags: statements-releases
@@ -219,13 +219,12 @@ The Biden-Harris Administration’s actions to date include:
 
 ***Technology and Internet Service***
 
--   **Broadband providers will soon be required to display “Broadband
-    Nutrition Labels” for consumers**—**simple labels that provide basic
+-   Broadband providers will soon be required to display “Broadband
+    Nutrition Labels” for consumers—simple labels that provide basic
     information about the internet service offered, including costs and
-    fees, so people can compare options more easily**—**thanks to a
-    rule**
+    fees, so people can compare options more easily—thanks to a rule
     [finalized](https://www.fcc.gov/document/fcc-requires-broadband-providers-display-labels-help-consumers)
-    **by** Federal Communications Commission (FCC).  
+    by Federal Communications Commission (FCC).  
 -   Tenants of office buildings and apartments can now access more
     options, thanks to FCC cracking down on “[sweetheart
     deals](https://www.fcc.gov/document/fcc-acts-increase-broadband-competition-apartment-buildings-0)”
@@ -401,20 +400,20 @@ The Biden-Harris Administration’s actions to date include:
     the merger of two larger insurance brokerages that would have left
     the market with just two dominant players and could have raised
     costs for millions of consumers and businesses.  
--   **A rule proposed by the Consumer Financial Protection Bureau (CFPB)
-    would** [lower typical credit card late
+-   A rule proposed by the Consumer Financial Protection Bureau (CFPB)
+    would [lower typical credit card late
     fees](https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-rein-in-excessive-credit-card-late-fees/)
-    **from approximately $30 to $8, saving consumers up to $9 billion
+    from approximately $30 to $8, saving consumers up to $9 billion
     annually if finalized as proposed. Additionally, as a result of the
     CFPB’s actions to address bounced check and overdraft fees,
-    consumers will save an estimated** [$5.5 billion a
+    consumers will save an estimated [$5.5 billion a
     year](https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-overdraft-nsf-revenue-in-q4-2022-down-nearly-50-versus-pre-pandemic-levels/full-report/)
-    going forward**.**  
--   **The CFPB launched a** [rulemaking
+    going forward.  
+-   The CFPB launched a [rulemaking
     process](https://www.consumerfinance.gov/personal-financial-data-rights/)
-    **to make it easier and cheaper for consumers to switch banks and
+    to make it easier and cheaper for consumers to switch banks and
     access credit, by allowing customers to take their financial
-    transaction data with them to a competitor.**  
+    transaction data with them to a competitor.  
 -   The CFPB is helping to spur technological advancement in financial
     services through its new office, the [Office of Competition and
     Innovation](https://www.consumerfinance.gov/about-us/newsroom/cfpb-lauches-new-effort-to-promote-competition-and-innovation-in-consumer-finance/),
