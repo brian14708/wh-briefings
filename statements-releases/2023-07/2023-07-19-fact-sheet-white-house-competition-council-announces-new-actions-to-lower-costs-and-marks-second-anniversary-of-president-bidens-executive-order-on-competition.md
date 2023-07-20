@@ -1,6 +1,6 @@
 ---
 date: '2023-07-19'
-modified_time: 2023-07-19 09:51:18-04:00
+modified_time: 2023-07-19 19:49:36-04:00
 published_time: 2023-07-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-white-house-competition-council-announces-new-actions-to-lower-costs-and-marks-second-anniversary-of-president-bidens-executive-order-on-competition/
 tags: statements-releases
@@ -64,7 +64,9 @@ lower costs:
     committing to launch new website features to show prospective
     renters all the fees up front—so they can comparison shop for the
     best deal and know what they are paying for upfront. In addition,
-    the Department of Housing and Urban Development [issued a new white
+    the [Department of Housing and Urban
+    Development](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_23_146)
+    [issued a new white
     paper](https://www.huduser.gov/portal/sites/default/files/pdf/policy-and-practice-publication-2023-july.pdf)
     on rental housing junk fees, including innovative policies to
     address them.  
@@ -280,6 +282,11 @@ The Biden-Harris Administration’s actions to date include:
     raise wages by nearly $300 billion annually. Non-compete agreements
     reduce workers’ mobility, thus suppressing wages and limiting
     opportunity.  
+-   The Treasury Department [issued a landmark
+    report](https://home.treasury.gov/system/files/136/State-of-Labor-Market-Competition-2022.pdf)
+    finding that a lack of competition in labor markets lowers wages by
+    roughly 20%, compared to what they would be in a fully competitive
+    market.  
 -   The Department of Labor published an [interim final
     rule](https://www.osha.gov/news/newsreleases/trade/02142023) in
     February establishing procedures and timeframes for handling
@@ -303,7 +310,7 @@ The Biden-Harris Administration’s actions to date include:
     exchange of ideas that also sets a landmark legal precedent that
     antitrust laws protect workers.
 
-***Healthcare***
+***Health Care***
 
 -   President Biden signed into law the Inflation Reduction Act, which
     lowers the cost of prescription drugs for Medicare beneficiaries.
@@ -385,7 +392,7 @@ The Biden-Harris Administration’s actions to date include:
     Program, which will provide funding to incubators and accelerators
     across the country to support minority and other underserved
     entrepreneurs who want to start or scale their businesses in
-    high-growth industries such as healthcare, climate resilient
+    high-growth industries such as health care, climate resilient
     technology, asset management, infrastructure, and more.  
 -   The Small Business Administration has [finalized
     rules](https://www.sba.gov/article/2023/04/12/us-small-business-administration-implements-rules-address-persistent-capital)

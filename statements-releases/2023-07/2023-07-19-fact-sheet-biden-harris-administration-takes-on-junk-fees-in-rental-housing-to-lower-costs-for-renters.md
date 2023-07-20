@@ -1,6 +1,6 @@
 ---
 date: '2023-07-19'
-modified_time: 2023-07-19 08:40:07-04:00
+modified_time: 2023-07-19 19:42:13-04:00
 published_time: 2023-07-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/
 tags: statements-releases
@@ -49,8 +49,11 @@ costs for renters, including:
     President’s call for transparency and will provide consumers with
     total, upfront cost information on rental properties, which can be
     hundreds of dollars on top of the advertised rent;  
--   **New research from the Department of Housing and Urban Development
-    (HUD),** which provides a blueprint for a nationwide effort to
+-   **[New
+    research](https://www.huduser.gov/portal/sites/default/files/pdf/policy-and-practice-publication-2023-july.pdf)
+    from the [Department of Housing and Urban
+    Development](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_23_146)
+    (HUD)**, which provides a blueprint for a nationwide effort to
     address rental housing junk fees; and  
 -   **Legislative action in states across the country**—**from
     Connecticut to California**—who are joining the Administration in
@@ -139,41 +142,47 @@ Since the President drew attention to the pervasive issue of junk fees
 throughout the economy, a number of states have already gotten to work
 to crack down on rental housing fees, including:
 
--   Colorado. Enacted House Bill 1099, which allows prospective renters
-    to reuse a rental application for up to 30 days without paying
-    additional fees; and House Bill 1095, which limits fees to tenants
-    when landlords fail to provide a nonrenewal notice that disguise
-    fees as “rent,” and limits the amount a landlord can mark up a
-    tenant for third-party services.  
--   Rhode Island. Enacted House Bill 6087 to limit rental application
-    fees beyond the actual cost of obtaining a background check or
-    credit report, if the prospective tenant does not provide their own
-    report.  
--   Minnesota. Enacted Senate File 2909, which includes a requirement
-    for landlords to clearly display the total monthly payment and all
-    nonoptional fees on the first page of the lease agreement and in all
+-   <span style="text-decoration: underline">Colorado</span>. Enacted
+    House Bill 1099, which allows prospective renters to reuse a rental
+    application for up to 30 days without paying additional fees; and
+    House Bill 1095, which limits fees to tenants when landlords fail to
+    provide a nonrenewal notice that disguise fees as “rent,” and limits
+    the amount a landlord can mark up a tenant for third-party
+    services.  
+-   <span style="text-decoration: underline">Rhode Island</span>.
+    Enacted House Bill 6087 to limit rental application fees beyond the
+    actual cost of obtaining a background check or credit report, if the
+    prospective tenant does not provide their own report.  
+-   <span style="text-decoration: underline">Minnesota</span>. Enacted
+    Senate File 2909, which includes a requirement for landlords to
+    clearly display the total monthly payment and all nonoptional fees
+    on the first page of the lease agreement and in all
     advertisements.  
--   Connecticut. Enacted Senate Bill 998 to prohibit a landlord from
-    requiring a fee for processing, reviewing, or accepting a rental
-    application, and set a cap of $50 on the amount that can be charged
-    for tenant screening reports. The law also prohibits move-in and
-    move-out fees, and certain fee-related lease provisions, including
-    certain late fees related to utility payments.  
--   Maine. Enacted Legislative Document 691 to prohibit a landlord from
-    charging a fee to submit a rental application that exceeds the
-    actual cost of a background check, a credit check, or another
-    screening process. The law also prohibits a landlord from charging
-    more than one screening fee in any 12-month period.   
--   Montana. Senate passed Senate Bill 320 to require landlords to
-    refund application fees to unsuccessful rental applicants except any
-    portion of the fee used to cover costs related to reviewing the
-    application, including conducting a background check. Landlords may
-    only charge candidates for the actual cost of obtaining a background
-    check or credit report.  
--   California. Senate passed Senate Bill 611 to require the mandatory
-    disclosure of monthly rent rates, including disclosure of a range of
-    payments, fees, deposits, or charges, and to prohibit certain fees
-    from being charged.
+-   <span style="text-decoration: underline">Connecticut</span>. Enacted
+    Senate Bill 998 to prohibit a landlord from requiring a fee for
+    processing, reviewing, or accepting a rental application, and set a
+    cap of $50 on the amount that can be charged for tenant screening
+    reports. The law also prohibits move-in and move-out fees, and
+    certain fee-related lease provisions, including certain late fees
+    related to utility payments.  
+-   <span style="text-decoration: underline">Maine</span>. Enacted
+    Legislative Document 691 to prohibit a landlord from charging a fee
+    to submit a rental application that exceeds the actual cost of a
+    background check, a credit check, or another screening process. The
+    law also prohibits a landlord from charging more than one screening
+    fee in any 12-month period.   
+-   <span style="text-decoration: underline">Montana</span>. Senate
+    passed Senate Bill 320 to require landlords to refund application
+    fees to unsuccessful rental applicants except any portion of the fee
+    used to cover costs related to reviewing the application, including
+    conducting a background check. Landlords may only charge candidates
+    for the actual cost of obtaining a background check or credit
+    report.  
+-   <span style="text-decoration: underline">California</span>. Senate
+    passed Senate Bill 611 to require the mandatory disclosure of
+    monthly rent rates, including disclosure of a range of payments,
+    fees, deposits, or charges, and to prohibit certain fees from being
+    charged.
 
 Earlier this year, the Consumer Financial Protection Bureau and the
 Federal Trade Commission, both independent agencies, [requested
@@ -204,6 +213,6 @@ In the coming months, the Biden-Harris Administration will work with
 Congress, state leaders, and the private sector to address rental junk
 fees and build a fairer rental housing market. On July 26, the Senate
 Committee on Banking, Housing, and Urban Affairs will host its
-first-ever hearing on junk fees, including in the rental housing
-market.  
+first-ever hearing on junk fees, including in the rental housing market.
+
 \###
