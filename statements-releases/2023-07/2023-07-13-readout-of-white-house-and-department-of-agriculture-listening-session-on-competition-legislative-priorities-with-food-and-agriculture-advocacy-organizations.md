@@ -4,7 +4,7 @@ published_time: 2023-07-13 18:51:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/readout-of-white-house-and-department-of-agriculture-listening-session-on-competition-legislative-priorities-with-food-and-agriculture-advocacy-organizations/
 tags: statements-releases
 title: "Readout of White\_House and Department of Agriculture Listening Session on\
-  \ Competition Legislative Priorities with Food and Agriculture Advocacy\_Organizations"
+  \ Competition Legislative Priorities with Food and Agriculture Advocacy Organizations"
 ---
  
 Promoting competition to lower costs and help small businesses thrive,

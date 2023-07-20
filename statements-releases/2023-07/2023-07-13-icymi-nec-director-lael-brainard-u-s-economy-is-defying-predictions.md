@@ -3,7 +3,7 @@ date: '2023-07-13'
 published_time: 2023-07-13 20:06:34-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/icymi-nec-director-lael-brainard-u-s-economy-is-defying-predictions/
 tags: statements-releases
-title: "ICYMI: NEC Director Lael Brainard: U.S. Economy is \u201CDefying\_Predictions\u201D"
+title: "ICYMI: NEC Director Lael Brainard: U.S. Economy is \u201CDefying Predictions\u201D"
 ---
  
 On Wednesday, National Economic Council Director Lael Brainard
