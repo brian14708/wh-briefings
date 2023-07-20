@@ -3,8 +3,8 @@ date: '2023-07-19'
 published_time: 2023-07-19 17:17:07-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/19/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-2/
 tags: presidential-actions
-title: "Message to the Congress on the Continuation of the National Emergency with\
-  \ Respect to Transnational Criminal\_Organizations"
+title: Message to the Congress on the Continuation of the National Emergency with
+  Respect to Transnational Criminal Organizations
 ---
  
 Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d))

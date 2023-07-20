@@ -3,8 +3,8 @@ date: '2023-07-19'
 published_time: 2023-07-19 17:16:29-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/19/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations/
 tags: presidential-actions
-title: "Press Release: Notice on the Continuation of the National Emergency with Respect\
-  \ to Transnational Criminal\_Organizations"
+title: 'Press Release: Notice on the Continuation of the National Emergency with Respect
+  to Transnational Criminal Organizations'
 ---
  
 On July 24, 2011, by Executive Order 13581, the President declared a
