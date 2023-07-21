@@ -1,6 +1,6 @@
 ---
 date: '2023-07-21'
-modified_time: 2023-07-20 22:23:09-04:00
+modified_time: 2023-07-21 09:26:56-04:00
 published_time: 2023-07-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/
 tags: statements-releases
@@ -23,8 +23,10 @@ tremendous promise and manage the risks posed by Artificial Intelligence
 commitment, President Biden is convening seven leading AI companies at
 the White House today – Amazon, Anthropic, Google, Inflection, Meta,
 Microsoft, and OpenAI – to announce that the Biden-Harris Administration
-has secured voluntary commitments from these companies to help move
-toward safe, secure, and transparent development of AI technology.     
+has [secured voluntary
+commitments](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf)
+from these companies to help move toward safe, secure, and transparent
+development of AI technology.     
   
 Companies that are developing these emerging technologies have a
 responsibility to ensure their products are safe. To make the most of
