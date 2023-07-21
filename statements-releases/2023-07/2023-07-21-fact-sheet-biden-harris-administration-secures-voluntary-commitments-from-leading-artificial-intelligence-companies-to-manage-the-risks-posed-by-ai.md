@@ -1,6 +1,6 @@
 ---
 date: '2023-07-21'
-modified_time: 2023-07-21 09:26:56-04:00
+modified_time: 2023-07-21 12:20:47-04:00
 published_time: 2023-07-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/
 tags: statements-releases
@@ -106,7 +106,8 @@ support and complement Japan’s leadership of the G-7 Hiroshima
 Process—as a critical forum for developing shared principles for the
 governance of AI—as well as the United Kingdom’s leadership in hosting a
 Summit on AI Safety, and India’s leadership as Chair of the Global
-Partnership on AI.   
+Partnership on AI. We also are discussing AI with the UN and Member
+States in various UN fora.  
   
 Today’s announcement is part of a broader commitment by the Biden-Harris
 Administration to ensure AI is developed safely and responsibly, and to
