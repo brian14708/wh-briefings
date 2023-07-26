@@ -1,5 +1,6 @@
 ---
 date: '2023-07-26'
+modified_time: 2023-07-26 11:42:55-04:00
 published_time: 2023-07-26 03:22:26-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-biden-harris-administration-takes-action-to-promote-access-to-behavioral-health-care-for-asian-american-native-hawaiian-and-pacific-islander-communities/
 tags: statements-releases
@@ -43,9 +44,10 @@ health care, including:
     AA and NHPIs compared to other racial and ethnic groups;
 -   A shortage of [clinicians with diverse racial/ethnic
     backgrounds](https://stacks.cdc.gov/view/cdc/53480/cdc_53480_DS1.pdf?);
+    and
 -   The lack of [culturally competent
     providers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6571328/) to
-    meet cultural, social, and language-related needs; and
+    meet cultural, social, and language-related needs
 
 Through the President’s [Mental Health
 Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) and [other
