@@ -1,6 +1,6 @@
 ---
 date: '2023-07-26'
-modified_time: 2023-07-26 19:12:53-04:00
+modified_time: 2023-07-27 09:15:52-04:00
 published_time: 2023-07-26 17:58:03-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/what-they-are-saying-members-of-congress-labor-leaders-business-groups-disability-advocacy-groups-and-more-celebrate-martin-omalleys-nomination-to-be-social-security-administrat/
 tags: statements-releases
@@ -108,6 +108,11 @@ Administration.”
 \[[Tweet](https://twitter.com/MayorBMScott/status/1684267741396492294?s=20),
 7/26/23\]
 
+**Brian Frosh, Former Maryland Attorney General:** “Gov. O’Malley is an
+inspired choice to lead Social Security Admin!!”
+\[[Tweet](https://twitter.com/BrianFrosh/status/1684258334474371081),
+7/26/23\]
+
 **Richmond, Virginia Mayor Levar Stoney:** “As a former mayor,
 @MartinOMalley is no stranger to solving complex problems. I know he
 will work hard to protect social security- a pillar of our country that
@@ -141,13 +146,6 @@ which so many Americans rely.”
 \[[Statement](https://www.linkedin.com/feed/update/urn:li:activity:7090038076294500352/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7090038076294500352%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29),
 7/26/23\]
 
-**Brian Frosh, Former Maryland Attorney General:** “Gov. O’Malley is an
-inspired choice to lead Social Security Admin!!”
-\[[Tweet](https://twitter.com/BrianFrosh/status/1684258334474371081),
-7/26/23\]
-
-**<u>Community, Advocacy and Labor Organizations</u>**
-
 **Mike Bloomberg, Co-Founder and CEO of Bloomberg and Former Mayor of
 New York City:** “Great choice by [@POTUS](https://twitter.com/POTUS) in
 picking Martin O’Malley to lead the Social Security Administration. As a
@@ -156,6 +154,8 @@ using data to improve government performance, transparency, and customer
 service. His nomination deserves strong bipartisan Senate support.”
 \[[Tweet](https://twitter.com/MikeBloomberg/status/1684245011733282818?s=20),
 7/26/23\]
+
+**<u>Community, Advocacy and Labor Organizations</u>**
 
 **Robert Shea, CEO, GovNavigators:** “I’m a longtime admirer of
 [@MartinOMalley](https://twitter.com/MartinOMalley)‘s public
@@ -367,6 +367,14 @@ with a permanent commissioner at the helm. The Senate should confirm
 Governor O’Malley in a timely manner when it returns from August
 recess.” \[[Press
 Release](https://www.ncpssm.org/documents/news-releases/biden-doing-right-thing-by-nominating-permanent-social-security-commissioner/),
+7/26/23\]
+
+**National Asian Pacific Center on Aging (NAPCA):** “NAPCA supports the
+nomination of former Maryland Gov. Martin O’Malley to be next
+Administrator of the Social Security Administration. We need strong
+leadership to ensure that AA & NH/PI older adults are receiving critical
+financial benefits.”
+\[[Tweet](https://twitter.com/NAPCA_aging/status/1684380111389491201?s=20),
 7/26/23\]
 
 *\###*
