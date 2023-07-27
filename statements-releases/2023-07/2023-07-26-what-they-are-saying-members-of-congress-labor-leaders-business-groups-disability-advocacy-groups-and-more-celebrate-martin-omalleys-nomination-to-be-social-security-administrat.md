@@ -1,5 +1,6 @@
 ---
 date: '2023-07-26'
+modified_time: 2023-07-26 19:12:53-04:00
 published_time: 2023-07-26 17:58:03-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/what-they-are-saying-members-of-congress-labor-leaders-business-groups-disability-advocacy-groups-and-more-celebrate-martin-omalleys-nomination-to-be-social-security-administrat/
 tags: statements-releases
@@ -28,6 +29,13 @@ a challenge. I’m excited by the news that
 Maryland’s most successful governors, to be the next Commissioner of the
 Social Security Administration.”
 \[[Tweet](https://twitter.com/SenatorCardin/status/1684220691728433152?s=20),
+7/26/23\]
+
+**Maryland Congressman Kweisi Mfume:** “Improving government service has
+always been a guiding principle and hallmark of the operational
+leadership Martin O’Malley provides. I commend
+[@POTUS](https://twitter.com/POTUS) on this very important nomination.”
+\[[Tweet](https://twitter.com/RepKweisiMfume/status/1684258787794747410?s=20),
 7/26/23\]
 
 **West Virginia Senator Joe Manchin:** “I applaud the Biden
@@ -139,6 +147,15 @@ inspired choice to lead Social Security Admin!!”
 7/26/23\]
 
 **<u>Community, Advocacy and Labor Organizations</u>**
+
+**Mike Bloomberg, Co-Founder and CEO of Bloomberg and Former Mayor of
+New York City:** “Great choice by [@POTUS](https://twitter.com/POTUS) in
+picking Martin O’Malley to lead the Social Security Administration. As a
+former mayor and governor, he has outstanding executive experience using
+using data to improve government performance, transparency, and customer
+service. His nomination deserves strong bipartisan Senate support.”
+\[[Tweet](https://twitter.com/MikeBloomberg/status/1684245011733282818?s=20),
+7/26/23\]
 
 **Robert Shea, CEO, GovNavigators:** “I’m a longtime admirer of
 [@MartinOMalley](https://twitter.com/MartinOMalley)‘s public
@@ -282,6 +299,18 @@ waste. We urge the Senate to confirm Gov. O’Malley without delay.”
 Release](https://retiredamericans.org/retirees-praise-biden-nomination-of-martin-omalley-to-be-social-security-commissioner/),
 7/26/23\]
 
+Matthew Biggs, President, International Federation of Professional and
+Technical Engineers (IFPTE): “As a native Marylander, I know well Gov.
+O’Malley’s record of advocating for workers, students, the poor, our
+retirees, and other people who too often get left behind. I also commend
+him and his family for their tradition of service and generations of
+thoughtful, effective leadership in all three branches of state
+government, including their support for working families and the unions
+that represent them. Maryland is a better place to work, live, learn and
+breathe, thanks to their contributions. Gov. O’Malley is ideally
+qualified to lead SSA and IFPTE enthusiastically endorses his
+nomination.” \[Statement, 7/26/23\]
+
 **National Council on Aging (@NCOAging):** “📣NCOA is pleased that
 [@POTUS](https://twitter.com/POTUS) nominated Martin O’Malley to be
 [@SocialSecurity](https://twitter.com/SocialSecurity) Commissioner. Gov.
@@ -308,9 +337,7 @@ Release](https://www.linkedin.com/posts/govnavigators_exclusive-biden-taps-ex-ma
 [@MartinOMalley](https://twitter.com/MartinOMalley) in this role. As
 governor, he expanded Medicaid, improved access to data & transparency,
 fought for Dreamers, and led efforts to make Maryland a more inclusive
-state. Great choice by
-
-[@POTUS](https://twitter.com/POTUS)!”
+state. Great choice by [@POTUS](https://twitter.com/POTUS)!”
 \[[Tweet](https://twitter.com/AdvanceMaryland/status/1684273523030646787),
 7/26/23\]
 
