@@ -1,6 +1,6 @@
 ---
 date: '2023-07-27'
-modified_time: 2023-07-27 10:44:35-04:00
+modified_time: 2023-07-27 13:11:46-04:00
 published_time: 2023-07-27 10:41:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-biden-harris-administration-takes-action-to-protect-renters/
 tags: statements-releases
@@ -47,22 +47,27 @@ and is announcing new actions on renters protections here.
   
 *Today’s actions include*:  
   
-**Ensuring fair tenant screening practices.** The U.S. [Department of
-Housing](https://www.hud.gov/www.hud.gov/program_offices/housing/mfh/hsgrent/Denial_of_Admission)[and
-Urban
-Development](https://www.hud.gov/sites/dfiles/PIH/documents/Adverse%20Action%20Notice.pdf)
-(HUD), the U.S. Department of Agriculture (USDA), and three independent
-agencies, the Consumer Financial Protection Bureau (CFPB), the [Federal
-Trade
-Commission](https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-landlords-need-know)
-(FTC) and the Federal Housing Financing Agency (FHFA) are each releasing
-guidance or best practices to landlords, operators, and stakeholders who
-rely on tenant screening reports when evaluating applications from
-renters. This guidance communicates the Administration’s expectations on
-informing renters of what information in their screening report is
-responsible for their application being denied. This information will
-help renters by giving them an opportunity to correct errors in their
-reports and address issues that impact their applications.  
+**Ensuring fair tenant screening practices.** The U.S. [Department of
+Housing](https://www.hud.gov/www.hud.gov/program_offices/housing/mfh/hsgrent/Denial_of_Admission)
+[and Urban
+Development](https://www.hud.gov/sites/dfiles/PIH/documents/Adverse%20Action%20Notice.pdf) (HUD),
+the [U.S. Department of
+Agriculture](https://www.rd.usda.gov/newsroom/news-release/biden-harris-administration-takes-action-advance-renters-rights)
+(USDA), and three independent agencies, the [Consumer Financial
+Protection
+Bureau](https://www.consumerfinance.gov/about-us/blog/federal-housing-agencies-strongly-encourage-landlords-to-provide-tenants-written-notice-of-their-rights/)
+(CFPB), the [Federal Trade
+Commission](https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-landlords-need-know) (FTC)
+and the [Federal Housing Financing
+Agency](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Director-Sandra-Thompson-Statement-on-Best-Practices-For-Adverse-Action-Notices-for-Renters.aspx)
+(FHFA) are each releasing guidance or best practices to landlords,
+operators, and stakeholders who rely on tenant screening reports when
+evaluating applications from renters. This guidance communicates the
+Administration’s expectations on informing renters of what information
+in their screening report is responsible for their application being
+denied. This information will help renters by giving them an opportunity
+to correct errors in their reports and address issues that impact their
+applications.  
 
 **Funding tenant education and outreach. **HUD [is
 announcing](https://www.hud.gov/program_offices/spm/gmomgmt/grantsinfo/fundingopps/tenanteducation)
