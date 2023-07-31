@@ -1,5 +1,6 @@
 ---
 date: '2023-07-27'
+modified_time: 2023-07-31 08:44:53-04:00
 published_time: 2023-07-27 16:00:59-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/readout-of-vice-president-harriss-call-with-president-tinubu-of-nigeria/
 tags: statements-releases
@@ -15,9 +16,10 @@ to defending democracy in West Africa and the Sahel and deep concern
 about the attempted takeover in Niger. The Vice President strongly
 condemned any efforts to seize power by force in Niger, and emphasized
 that our substantial cooperation with the Government of Niger is
-contingent on Niger’s continued commitment to democratic standards. The
-Vice President expressed support for President Tinubu’s steps to reform
-Nigeria’s economy, including ending the fuel subsidy and unifying
+contingent on Niger’s continued commitment to democratic standards.
+
+The Vice President expressed support for President Tinubu’s steps to
+reform Nigeria’s economy, including ending the fuel subsidy and unifying
 foreign currency exchange rates. Building on the investments announced
 during the Vice President’s trip to Ghana, Tanzania, and Zambia earlier
 this year—including more than $8 billion in private sector commitments
