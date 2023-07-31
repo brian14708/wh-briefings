@@ -1,6 +1,6 @@
 ---
 date: '2023-07-31'
-modified_time: 2023-07-31 05:36:40-04:00
+modified_time: 2023-07-31 12:56:20-04:00
 published_time: 2023-07-31 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-national-cyber-workforce-and-education-strategy-unleashing-americas-cyber-talent/
 tags: statements-releases
@@ -603,7 +603,7 @@ volunteers, the cyber clinics will receive access to the Google 
 Cybersecurity Certificate, Google Titan security keys, and student
 mentorship opportunities from  Google at no cost.  
 
-**Crowdstrike **
+**CrowdStrike **
 
 CrowdStrike will fill 300+ internship positions, fund ten $10,000
 scholarships, expand upon its  successful SkillBridge apprenticeship
@@ -624,7 +624,7 @@ College, and the  American Association of Community Colleges to achieve
 its 2021 goal of helping skill and  recruit into the cybersecurity
 workforce 250,000 people by 2025. To date, this effort has  supported
 over 379 community colleges in 48 out of 50 states (nearly a third of
-all community  colleges in the United States). This includes $1,1777,000
+all community  colleges in the United States). This includes $1,177,000
 in direct scholarship support to 2,378  students; $93,000 in additional
 voucher assistance; 50 faculty supported through capacity  building
 community of practice; 28 academic/workforce professionals trained; and
@@ -655,6 +655,18 @@ University, and the University of California at Davis. ConSol  USA is
 also engaged with USAA to reach military, veterans and their families.
 Through these  efforts, ConSol USA is committed to directly hire and
 deploy a minimum of 11,000 cyber  technologists nationally by 2027. 
+
+**American University**
+
+American University (AU) is committed to strengthening the cybersecurity
+workforce by continuing to expand access to hands-on cybersecurity
+training opportunities to all students, regardless of discipline.
+Through the newly launched Shahal M. Khan Institute for Cyber and
+Economic Security, and in collaboration with our global technology
+partner Cyber Range Solutions, AU is transforming cyber education by
+grounding technical cyber exercises in the context of national security
+and economic policy. In addition, AU announced its commitment to helping
+equip every American with foundational cyber skills.
 
 Coordinated by the Office of the National Cyber Director, the
 Administration’s implementation  of this Strategy is already underway.  
