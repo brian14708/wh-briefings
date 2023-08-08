@@ -1,6 +1,7 @@
 ---
 date: '2023-08-08'
-published_time: 2023-08-08 08:33:02-04:00
+modified_time: 2023-08-08 08:42:42-04:00
+published_time: 2023-08-08 09:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-vice-president-harris-announces-action-to-raise-wage-standards-over-time-for-more-than-one-million-construction-workers/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Action to Raise Wage Standards\
