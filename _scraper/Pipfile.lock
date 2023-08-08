@@ -398,11 +398,11 @@
         },
         "feedendum": {
             "hashes": [
-                "sha256:4b76e42d665779dba3b8a2d4651ff2d5418fbc933e550aaf497aa1559ad3891a",
-                "sha256:da2139a4e26b5d187a4007d7f61cc397e39b9ae583742e75585f5d62e3058d05"
+                "sha256:04449ce1394f558fe8fd747ed6399e68ad3b0d51168b7f073a9640db915301ec",
+                "sha256:d23ed2bd531b40cac2a9f5bb7e4c2294dc4c72fdbba521a0144e6e7d0cfdd768"
             ],
             "index": "pypi",
-            "version": "==0.2.0"
+            "version": "==0.3.0"
         },
         "frozenlist": {
             "hashes": [
