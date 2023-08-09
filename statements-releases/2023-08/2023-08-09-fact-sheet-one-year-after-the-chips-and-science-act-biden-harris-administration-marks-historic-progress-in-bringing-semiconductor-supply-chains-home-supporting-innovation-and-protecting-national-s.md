@@ -1,6 +1,6 @@
 ---
 date: '2023-08-09'
-modified_time: 2023-08-08 20:27:34-04:00
+modified_time: 2023-08-09 10:18:02-04:00
 published_time: 2023-08-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/
 tags: statements-releases
@@ -84,13 +84,7 @@ CHIPS include:
     rule](https://home.treasury.gov/news/press-releases/jy1534) in June
     2023 to allow companies to receive the full amount of the Advanced
     Manufacturing Investment Credit as a direct payment from the
-    Internal Revenue Service.
--   The Department of the Treasury released a [proposed
-    rule](https://home.treasury.gov/news/press-releases/jy1353) in March
-    2023 to provide guidance on implementing the Advanced Manufacturing
-    Investment Credit to assist companies engaged in semiconductor
-    manufacturing and producing semiconductor manufacturing equipment
-    with a 25% tax credit.  
+    Internal Revenue Service.  
      
 
 *Protecting National Security and Working with Allies and Partners*
