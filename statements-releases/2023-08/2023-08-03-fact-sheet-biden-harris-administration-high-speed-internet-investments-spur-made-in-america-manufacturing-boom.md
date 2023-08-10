@@ -1,5 +1,6 @@
 ---
 date: '2023-08-03'
+modified_time: 2023-08-08 13:11:28-04:00
 published_time: 2023-08-03 07:09:16-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/
 tags: statements-releases
@@ -15,11 +16,11 @@ Vice President Harris’ visit coincides with Nokia announcing the
 manufacturing of broadband network electronics products for the BEAD
 program in the U.S. that will add up to 200 new jobs at Sanmina
 Corporation’s state-of-the-art manufacturing facility in Pleasant
-Prairie, Kenosha County, Wisconsin. The announcement will make Nokia the
-first telecom company to begin manufacturing broadband
-electronics products in the United States in 2024. The Vice President
-will be joined by Commerce Secretary Gina Raimondo and Senator Tammy
-Baldwin.
+Prairie, Kenosha County, Wisconsin. This event makes Nokia the first
+telecom company to announce the manufacturing of broadband
+electronics products in the United States, which will be ready in 2024.
+The Vice President will be joined by Commerce Secretary Gina Raimondo
+and Senator Tammy Baldwin.
 
 The announcement is the latest in a string of domestic manufacturing
 announcements that have been spurred by the Biden-Harris
