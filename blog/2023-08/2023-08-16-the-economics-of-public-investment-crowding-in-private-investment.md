@@ -1,6 +1,6 @@
 ---
 date: '2023-08-16'
-modified_time: 2023-08-15 19:49:04-04:00
+modified_time: 2023-08-16 09:29:53-04:00
 published_time: 2023-08-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/
 tags: blog
@@ -444,7 +444,7 @@ financing institutions do not, the government carves a
 clean energy projects to scale, demonstrate viability, and eventually
 unlock private capital—spurring greater private investment.
 
-### Measuring the Success of Crowding in Private Investments
+## Measuring the Success of Crowding in Private Investments
 
 Measuring the success of President Biden’s Investing in America agenda
 in spurring private investment will be an ongoing effort. The
