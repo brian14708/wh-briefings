@@ -1,6 +1,6 @@
 ---
 date: '2023-08-16'
-modified_time: 2023-08-15 19:24:54-04:00
+modified_time: 2023-08-16 08:03:07-04:00
 published_time: 2023-08-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/
 tags: statements-releases
@@ -157,8 +157,8 @@ climate crisis. 
     to support projects that build the resilience of coastal and Great
     Lakes communities to extreme weather and other impacts of climate
     change.  
--   DOI’s Bureau of Reclamation has announced more than $514 million to
-    [address the historic
+-   The Department of the Interior’s (DOI) Bureau of Reclamation has
+    announced more than $514 million to [address the historic
     drought](https://www.doi.gov/pressreleases/biden-harris-administration-continues-commitment-protect-stability-sustainability)
     in the Colorado River Basin.  
 -   The U.S. Forest Service (USFS) [has
