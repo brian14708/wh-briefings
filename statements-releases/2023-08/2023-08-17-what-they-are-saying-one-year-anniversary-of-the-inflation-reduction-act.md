@@ -1,5 +1,6 @@
 ---
 date: '2023-08-17'
+modified_time: 2023-08-21 11:00:22-04:00
 published_time: 2023-08-17 17:43:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/17/what-they-are-saying-one-year-anniversary-of-the-inflation-reduction-act/
 tags: statements-releases
@@ -1948,7 +1949,7 @@ voted against it.”
 \[[Statement](https://buildingbacktogether.org/news/one-year-of-president-bidens-inflation-reduction-act/),
 8/16/23\]  
   
-**Elizabeth Reynolds, MIT Department of Urban Studies and
+**Elisabeth Reynolds, MIT Department of Urban Studies and
 Planning: **“The IRA is the most significant investment the country has
 made in terms of addressing climate change…I would just emphasize that
 we’re all part of making this transition happen. This is a
