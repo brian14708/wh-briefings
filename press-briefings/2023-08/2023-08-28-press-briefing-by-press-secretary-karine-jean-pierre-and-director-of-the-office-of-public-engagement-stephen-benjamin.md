@@ -1,6 +1,6 @@
 ---
 date: '2023-08-28'
-modified_time: 2023-08-28 19:14:51-04:00
+modified_time: 2023-08-28 21:19:40-04:00
 published_time: 2023-08-28 19:14:50-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/28/press-briefing-by-press-secretary-karine-jean-pierre-and-director-of-the-office-of-public-engagement-stephen-benjamin/
 tags: press-briefings
@@ -741,7 +741,7 @@ the safest protection for avoiding hospitalization, long-term health
 outcomes, and death, which is why we are — we are going to be
 encouraging Americans to stay up to date on their vaccines.
 
-I would refer you to DHS \[HHS\], as they have — as you — I just
+I would refer you to <s>DHS</s> \[HHS\], as they have — as you — I just
 mentioned, FDA and CDC mentioned that they will have the new vaccines by
 September — mid-September.
 
