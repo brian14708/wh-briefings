@@ -1,5 +1,6 @@
 ---
 date: '2023-08-29'
+modified_time: 2023-08-29 20:49:51-04:00
 published_time: 2023-08-29 20:20:13-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/readout-of-president-joe-bidens-meeting-with-president-rodrigo-chaves-robles-of-costa-rica/
 tags: statements-releases
@@ -15,7 +16,7 @@ During the meeting, the leaders committed to drive inclusive, equitable,
 and sustainable growth in the region through the [Americas Partnership
 for Economic
 Prosperity](https://www.state.gov/americas-partnership-for-economic-prosperity/).
-Within this context, they reiterated their commitment to build more a
+Within this context, they reiterated their commitment to build a more
 resilient, diversified, secure, and sustainable global semiconductor
 value chain in the Americas, including with support from a recently
 announced [partnership](https://cr.usembassy.gov/chips/) under the CHIPS
@@ -31,7 +32,7 @@ opportunities to migrants and refugees, the Department of State is
 contributing more than $12 million through international organization
 partners in Costa Rica. President Biden also recognized Costa Rica’s
 continued cooperation in regional efforts to promote safe, orderly, and
-regular migration, including through the Secure Mobility Office, which
+regular migration, including through the Safe Mobility Office, which
 aims to provide an alternative to migrants relying on smugglers by
 facilitating access to lawful pathways to the United States and other
 countries, reducing irregular migration. In addition, the Department of
