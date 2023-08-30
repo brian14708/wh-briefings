@@ -1,5 +1,6 @@
 ---
 date: '2023-08-30'
+modified_time: 2023-08-30 11:05:28-04:00
 published_time: 2023-08-30 09:56:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/what-they-are-saying-elected-officials-labor-leaders-aging-advocates-health-and-advocacy-groups-and-more-applaud-administrations-prescription-drug-announcement/
 tags: statements-releases
@@ -1416,7 +1417,9 @@ ability to make ends meet. I’m grateful to the members of our
 congressional delegation who passed the Inflation Reduction Act and to
 the Biden administration for placing a check on the pharmaceutical
 corporations to make these prescriptions more affordable.” \[Statement,
-8/29/23\]**Coalitions/Constituency**  
+8/29/23\]
+
+**COALITIONS/CONSTITUENCY**  
   
 **Juliet K. Choi, President and CEO, Asian & Pacific Islander American
 Health Forum:** “We applaud the Biden administration for taking decisive
@@ -1438,7 +1441,30 @@ will have lower prices for Medicare recipients, thanks to the Inflation
 Reduction Act which allows Medicare to negotiate prices with drug
 manufacturers. Here are the first 10 eligible drugs”
 \[[Tweet](https://twitter.com/latinovictoryus/status/1696558514540298500?s=20),
-8/29/23\]  
+8/29/23\]
+
+**Derrick Johnson, President and CEO, NAACP:** “Today, we celebrate a
+historic shift in healthcare. For far too long, Black, and other
+vulnerable Americans have had their health neglected by a system that is
+rooted in racism. The lowering of prescription drugs offers seniors and
+people living with disabilities a crucial lifeline and symbolizes a much
+needed step in the right direction to make healthcare more affordable
+for those who are most in need. The NAACP is committed to creating a
+system where everyone has access to the healthcare services they
+deserve. We applaud the Biden-Administration for their progress towards
+racial equity and look forward to our continued, collaborative work to
+ensure that Black voices are centered in all key policy decisions.”
+\[[Statement](https://naacp.org/articles/naacp-commends-biden-administration-historic-move-lower-prescription-drug-costs),
+8/30/23\]
+
+**Idris Robinson, National Director of Health and Well-Being, NAACP:**
+“This is great news for seniors, working people, and the millions of
+Americans still struggling to afford life-saving medications. But this
+is just the beginning. We must recognize the deep disparities that still
+exist and continue the fight for health equity. Our lives depend on
+it.” 
+\[[Statement](https://naacp.org/articles/naacp-commends-biden-administration-historic-move-lower-prescription-drug-costs),
+8/30/23\]  
   
 **UnidosUS**: “This is a great day for the 5 million Latinos on
 [\#Medicare](https://twitter.com/hashtag/Medicare?src=hashtag_click),
