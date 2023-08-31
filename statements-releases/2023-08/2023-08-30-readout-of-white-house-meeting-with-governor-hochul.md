@@ -1,5 +1,6 @@
 ---
 date: '2023-08-30'
+modified_time: 2023-08-30 22:32:33-04:00
 published_time: 2023-08-30 21:59:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/readout-of-white-house-meeting-with-governor-hochul/
 tags: statements-releases
@@ -35,7 +36,8 @@ authorization – with information on how to apply for employment
 authorization. The individuals will receive direct communication by SMS
 and email, in English, Spanish, Haitian Creole, and other
 languages. This effort will include sending teams working across several
-lines of effort to support eligible migrants to apply for work. 
+lines of effort to support eligible migrants to apply for work
+authorizations. 
 
 Second, the Administration officials and the Governor discussed a number
 of additional steps that federal Departments and Agencies – including
