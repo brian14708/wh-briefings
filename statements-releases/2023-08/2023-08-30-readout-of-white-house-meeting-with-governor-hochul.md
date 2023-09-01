@@ -1,6 +1,6 @@
 ---
 date: '2023-08-30'
-modified_time: 2023-08-30 22:32:33-04:00
+modified_time: 2023-09-01 11:30:06-04:00
 published_time: 2023-08-30 21:59:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/readout-of-white-house-meeting-with-governor-hochul/
 tags: statements-releases
@@ -43,7 +43,7 @@ Second, the Administration officials and the Governor discussed a number
 of additional steps that federal Departments and Agencies – including
 the Departments of Health and Human Services, the Department of
 Education, the Department of Housing and Urban Development, and the
-Department of Interior – will take to support New York – including
+Department of the Interior – will take to support New York – including
 support for the health, education, and housing of recent arrivals.  
 
 The Administration officials and the Governor reiterated
