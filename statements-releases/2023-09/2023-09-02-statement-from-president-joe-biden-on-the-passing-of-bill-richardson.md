@@ -1,6 +1,6 @@
 ---
 date: '2023-09-02'
-modified_time: 2023-09-02 18:27:15-04:00
+modified_time: 2023-09-03 11:00:14-04:00
 published_time: 2023-09-02 17:48:04-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/02/statement-from-president-joe-biden-on-the-passing-of-bill-richardson/
 tags: statements-releases
@@ -39,6 +39,6 @@ for America, and unflagging belief that, with respect and good faith,
 people can come together across any difference, no matter how vast. He
 was a patriot and true original, and will not be forgotten. Jill and I
 send our love to his family, including his wife of over 50 years,
-Barbara, and their daughter Heather.
+Barbara.
 
 \###
