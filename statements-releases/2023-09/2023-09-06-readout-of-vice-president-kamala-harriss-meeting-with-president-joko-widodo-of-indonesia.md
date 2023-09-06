@@ -1,5 +1,6 @@
 ---
 date: '2023-09-06'
+modified_time: 2023-09-06 14:20:46-04:00
 published_time: 2023-09-06 09:58:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/readout-of-vice-president-kamala-harriss-meeting-with-president-joko-widodo-of-indonesia/
 tags: statements-releases
@@ -8,7 +9,7 @@ title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with President J
 ---
  
 Vice President Kamala Harris met today with Indonesian President Joko
-Widodo in Jakarta, Indonesia.  The two leaders highlighted the strength
+Widodo in Jakarta, Indonesia. The two leaders highlighted the strength
 of U.S.-Indonesia ties and announced their intention to elevate the
 U.S.-Indonesia relationship to a Comprehensive Strategic Partnership. In
 the context of this expanded partnership, the leaders look forward to
@@ -31,7 +32,7 @@ growth. They discussed the importance of respect for human rights and
 democratic institutions.  
   
 The Vice President and President Widodo also expressed concerns
-regarding the coup in Burma, underscoringtheir commitment to supporting
+regarding the coup in Burma, underscoring their commitment to supporting
 the people of Burma in returning their country to the path of democratic
 transition. They also reviewed the importance of upholding international
 law and freedom of the seas in the South China Sea.
