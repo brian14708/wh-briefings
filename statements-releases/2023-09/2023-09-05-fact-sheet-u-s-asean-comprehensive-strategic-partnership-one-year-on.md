@@ -1,5 +1,6 @@
 ---
 date: '2023-09-05'
+modified_time: 2023-09-06 00:22:12-04:00
 published_time: 2023-09-05 20:45:08-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-u-s-asean-comprehensive-strategic-partnership-one-year-on/
 tags: statements-releases
@@ -88,25 +89,26 @@ U.S.-ASEAN cooperation on transportation infrastructure and the
 development of a regional electric vehicle (EV) ecosystem. Key
 U.S.-ASEAN economic initiatives include:
 
--   : At the ASEAN Indo-Pacific Forum in Jakarta, U.S. Trade and
-    Development Agency Director Enoh Ebong is announcing new activities
-    designed to leverage over $8 billion in financing across ASEAN to
-    promote the development of sustainable infrastructure and regional
-    connectivity. These initiatives catalyze $3 billion in climate
-    financing that advances ASEAN’s net zero goals, and $5 billion in
-    public and private financing for investment in digital
-    infrastructure, transportation, healthcare, and smart cities in
-    ASEAN countries.
--   The U.S. International Development Finance Corporation is announcing
-    nearly $600 million in new financing for private sector investments
-    across Southeast Asia that will spur economic growth, advance
-    financial inclusion, leverage technology to expand access to
-    education and healthcare, and support food and energy security. This
-    includes a $100 million loan portfolio guarantee to support lending
-    to micro, small, and medium-sized enterprises in Indonesia and a $15
-    million equity investment to support the creation and growth of
-    climate tech start-ups that improve energy efficiency and reduce
-    carbon emissions across Southeast Asia.
+-   Infrastructure Financing: At the ASEAN Indo-Pacific Forum in
+    Jakarta, U.S. Trade and Development Agency Director Enoh Ebong is
+    announcing new activities designed to leverage over $8 billion in
+    financing across ASEAN to promote the development of sustainable
+    infrastructure and regional connectivity. These initiatives catalyze
+    $3 billion in climate financing that advances ASEAN’s net zero
+    goals, and $5 billion in public and private financing for investment
+    in digital infrastructure, transportation, healthcare, and smart
+    cities in ASEAN countries.
+-   Catalyzing Private Sector Investment: The U.S. International
+    Development Finance Corporation is announcing nearly $600 million in
+    new financing for private sector investments across Southeast Asia
+    that will spur economic growth, advance financial inclusion,
+    leverage technology to expand access to education and healthcare,
+    and support food and energy security. This includes a $100 million
+    loan portfolio guarantee to support lending to micro, small, and
+    medium-sized enterprises in Indonesia and a $15 million equity
+    investment to support the creation and growth of climate tech
+    start-ups that improve energy efficiency and reduce carbon emissions
+    across Southeast Asia.
 
 <!-- -->
 
@@ -144,9 +146,14 @@ U.S.-ASEAN economic initiatives include:
 -   The new ASEAN SME Academy 2.0, jointly supported by ASEAN, USAID,
     and the U.S.-ASEAN Business Council, supports the growth of SMEs
     across Southeast Asia with over 95 courses and 375 online resources.
--   Already, these meetings have catalyzed numerous new commercial
-    partnerships and business deals between U.S. and Southeast Asian
-    companies.
+-   In March, the U.S. Department of Commerce convened its flagship
+    annual trade mission, Trade Winds, in Southeast Asia. Hundreds of
+    delegates representing U.S. companies and organizations joined 700
+    business-to-business and 630 business-to-government meetings in
+    Indonesia, Malaysia, the Philippines, Singapore, Thailand, and
+    Vietnam. Already, these meetings have catalyzed numerous new
+    commercial partnerships and business deals between U.S. and
+    Southeast Asian companies.
 
 <!-- -->
 
@@ -201,10 +208,10 @@ energy, and environment include:
     Service, are collaborating with their ASEAN counterparts to expand
     conservation, reverse deforestation, and collaborate in the
     establishment, management, and networking of national park systems.
--   , through the U.S. government and private sector, is partnering with
-    ASEAN to accelerate the deployment of clean energy technologies
-    including those related to solar, wind, and nuclear power;
-    development of carbon capture, utilization, and storage; and
+-   Clean EDGE Asia, through the U.S. government and private sector, is
+    partnering with ASEAN to accelerate the deployment of clean energy
+    technologies including those related to solar, wind, and nuclear
+    power; development of carbon capture, utilization, and storage; and
     strengthening of critical mineral supply chains, including through a
     2022 trade mission that catalyzed important deals on the deployment
     of small modular reactors, biofuels, and fuel cell technology in the
