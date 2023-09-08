@@ -1,5 +1,6 @@
 ---
 date: '2023-09-01'
+modified_time: 2023-09-08 11:30:08-04:00
 published_time: 2023-09-01 12:51:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-ahead-of-labor-day-biden-harris-administration-announces-new-actions-to-empower-workers-building-on-the-presidents-historic-support-for-workers-and-unions/
 tags: statements-releases
@@ -69,18 +70,18 @@ Jobs</u>**
     prioritize the review of applications for projects in locations with
     a long history of auto manufacturing and demonstrate strong
     workforce practices and labor standards.
-
-Strengthening electric vehicle (EV) battery supply chains and supporting
-high-quality jobs, including for auto workers.  The Department of Energy
-is releasing a second-round Notice of Intent for $3.5 billion for the
-Battery Manufacturing grant programs under the Bipartisan Infrastructure
-Law.  The program will help expand domestic manufacturing of batteries
-for electric vehicles and the nation’s grid, as well as for battery
-materials and components currently imported from other countries.  This
-Notice of Intent outlines the direction for the next phase of the
-program, which will support communities with experienced auto workers
-and a history of producing vehicles, applicants with strong workforce
-practices, and applicants who plan to create high-quality jobs.
+-   Strengthening electric vehicle (EV) battery supply chains and
+    supporting high-quality jobs, including for auto workers.  The
+    Department of Energy is releasing a second-round Notice of Intent
+    for $3.5 billion for the Battery Manufacturing grant programs under
+    the Bipartisan Infrastructure Law.  The program will help expand
+    domestic manufacturing of batteries for electric vehicles and the
+    nation’s grid, as well as for battery materials and components
+    currently imported from other countries.  This Notice of Intent
+    outlines the direction for the next phase of the program, which will
+    support communities with experienced auto workers and a history of
+    producing vehicles, applicants with strong workforce practices, and
+    applicants who plan to create high-quality jobs.
 
 **<u>Demonstrating the Union Advantage</u>**
 
