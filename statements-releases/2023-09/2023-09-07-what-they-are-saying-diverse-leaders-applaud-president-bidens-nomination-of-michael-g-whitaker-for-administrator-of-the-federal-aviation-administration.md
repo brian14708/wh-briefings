@@ -1,6 +1,6 @@
 ---
 date: '2023-09-07'
-modified_time: 2023-09-07 17:34:59-04:00
+modified_time: 2023-09-07 21:45:11-04:00
 published_time: 2023-09-07 17:34:58-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/07/what-they-are-saying-diverse-leaders-applaud-president-bidens-nomination-of-michael-g-whitaker-for-administrator-of-the-federal-aviation-administration/
 tags: statements-releases
@@ -27,19 +27,19 @@ Mr. Whitaker will use his substantial aviation experience and knowledge
 to meet these challenges. I look forward to working with him and his
 strong leadership at the agency.” \[Statement, 9/7/23\]
 
-**Airlines for America (A4A): President and CEO Nicholas E. Calio:** “We
-applaud the Administration’s action to submit a nomination to the U.S.
-Senate for FAA Administrator. The U.S. aviation industry is currently
-facing critical challenges and significant opportunities in management
-of the National Airspace System (NAS). As passenger travel continues to
-grow and Americans rely daily on cargo shipments, the system must keep
-up. New entrants, new technologies and innovations must be integrated
-into the system. A permanent, confirmed FAA Administrator is needed to
-provide leadership, stability and vision for the NAS, which is becoming
-more complex and more important every day. Michael Whitaker has
-extensive experience working on a range of priorities including NextGen
-modernization at both the FAA and at major airlines. He has a deep
-understanding of and appreciation for the collaborative partnership
+**Nicholas E. Calio**, **President and CEO**, **Airlines for America
+(A4A):** “We applaud the Administration’s action to submit a nomination
+to the U.S. Senate for FAA Administrator. The U.S. aviation industry is
+currently facing critical challenges and significant opportunities in
+management of the National Airspace System (NAS). As passenger travel
+continues to grow and Americans rely daily on cargo shipments, the
+system must keep up. New entrants, new technologies and innovations must
+be integrated into the system. A permanent, confirmed FAA Administrator
+is needed to provide leadership, stability and vision for the NAS, which
+is becoming more complex and more important every day. Michael Whitaker
+has extensive experience working on a range of priorities including
+NextGen modernization at both the FAA and at major airlines. He has a
+deep understanding of and appreciation for the collaborative partnership
 between industry and government that is necessary to ensure air travel
 remains the safest mode of transportation in the world.  We urge
 expeditious consideration of this important
@@ -215,19 +215,10 @@ our employees and customers. Mike has deep aviation expertise and a
 solid reputation as a problem solver. We urge the U.S. Senate to move
 swiftly on his confirmation process.” \[9/7/23\]
 
-**Rich Santa, President, National Air Traffic Controllers Association
-(NACTA):** “NATCA looks forward to working with Mr. Whitaker to address
-the FAA’s pressing challenges, from staffing and training, to runway
-safety, to modernization of technology and infrastructure, to the safe
-and efficient integration of new users into the National Airspace
-System.”
-\[[Statement](https://www.natca.org/2023/09/07/natca-congratulates-michael-whitaker-on-his-nomination-to-be-the-next-faa-administrator/),
-9/7/23\]
-
-***Richie Johnsen, Air Transport Territory General Vice President,***
-***The International Association of Machinists and Aerospace Workers
-(IAM):*** *“*As the largest airline union in the United States, the IAM
-is confident that Mike Whitaker will put air transport workers at the
+**Richie Johnsen, Air Transport Territory General Vice President, The
+International Association of Machinists and Aerospace Workers (IAM):**
+*“*As the largest airline union in the United States, the IAM is
+confident that Mike Whitaker will put air transport workers at the
 forefront of decision-making at the FAA. I commend Mr. Whitaker for
 reaching out to the IAM to have meaningful dialogue about the issues
 facing our more than 100,000 airline members. Together, we are committed
