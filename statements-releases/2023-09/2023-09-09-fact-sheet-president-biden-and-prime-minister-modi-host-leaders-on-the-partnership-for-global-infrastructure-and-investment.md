@@ -1,5 +1,6 @@
 ---
 date: '2023-09-09'
+modified_time: 2023-09-09 10:40:01-04:00
 published_time: 2023-09-09 10:20:56-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-president-biden-and-prime-minister-modi-host-leaders-on-the-partnership-for-global-infrastructure-and-investment/
 tags: statements-releases
@@ -55,7 +56,7 @@ ports, connected by the Middle East. This will create novel
 interconnections to facilitate global trade, expand reliable access to
 electricity, facilitate clean energy distribution, and strengthen
 telecommunications links.  The [founding
-partners](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-and-the-european-union-on-support-for-angola-zambia-and-the-democratic-republic-of-the-congos-commitment-to-further-develop-the-lobito-corridor-and-the/) intend
+partners](https://www.whitehouse.gov/wp-content/uploads/2023/09/Project-Gateway-Multilateral-MOU.pdf) intend
 to work with international partners and the private sector to:
 
 -   Connect India to Europe—linked by a railway line and existing ports
