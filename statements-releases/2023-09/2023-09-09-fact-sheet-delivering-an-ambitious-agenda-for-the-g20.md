@@ -1,5 +1,6 @@
 ---
 date: '2023-09-09'
+modified_time: 2023-09-11 11:41:48-04:00
 published_time: 2023-09-09 07:10:06-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-delivering-an-ambitious-agenda-for-the-g20/
 tags: statements-releases
@@ -246,12 +247,12 @@ the climate crisis.
 -   **Recognizing the need to peak global emissions by 2025**. President
     Biden successfully urged the G20 to join together in acknowledging,
     for the first time, the need to peak global emissions by no later
-    than 2025, and in recognizing the to reduce greenhouse gas emissions
-    by 43 percent by 2030, and 60 percent by 2035, relative to 2019
-    levels. The Intergovernmental Panel on Climate Change has said that
-    these actions are critical to achieving global net zero greenhouse
-    gas emissions/carbon neutrality by or around mid-century and
-    limiting warming to 1.5 degrees Celsius.
+    than 2025, and to reduce greenhouse gas emissions by 43 percent by
+    2030, and 60 percent by 2035, relative to 2019 levels. The
+    Intergovernmental Panel on Climate Change has said that these
+    actions are critical to achieving global net zero greenhouse gas
+    emissions/carbon neutrality by or around mid-century and limiting
+    warming to 1.5 degrees Celsius.
 -   **Encouraging countries to incorporate economy-wide targets covering
     all greenhouse gases into their nationally determined
     contributions.** G20 nations have the ability to reduce their
