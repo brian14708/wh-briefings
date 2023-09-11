@@ -1,6 +1,6 @@
 ---
 date: '2023-09-10'
-modified_time: 2023-09-10 10:57:24-04:00
+modified_time: 2023-09-11 00:57:21-04:00
 published_time: 2023-09-10 10:57:23-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/10/fact-sheet-president-joseph-r-biden-and-general-secretary-nguyen-phu-trong-announce-the-u-s-vietnam-comprehensive-strategic-partnership/
 tags: statements-releases
@@ -205,7 +205,7 @@ fruit, aquaculture, and fisheries products.
 **Expand Energy Storage Capacity: **The U.S. government, in
 collaboration with AMI AC Renewables, a Vietnamese company, and
 Honeywell, a U.S. company, will launch a new pilot project that develops
-Vietnam’s first event battery energy storage system in Khanh Hoa
+Vietnam’s first ever battery energy storage system in Khanh Hoa
 Province.  This pilot project demonstrates how energy storage can help
 Vietnam integrate more renewable energy into its power system to meet
 ambitious climate goals.    
@@ -319,7 +319,7 @@ collaboration with Saigon Hi-Tech Park.  California-based Marvell will
 announce that it will establish a world class semiconductor design
 center in Ho Chi Minh City.  
   
-**Furthering Technology Partnerships**:  Microsoft and Truthing Social
+**Furthering Technology Partnerships**:  Microsoft and Trusting Social
 will announce an agreement to develop a generative AI-based solution
 tailored for Vietnam and emerging markets.  NVIDIA is partnering with
 FPT, Viettel, and VinGroup to deploy AI in the cloud, automotive, and
