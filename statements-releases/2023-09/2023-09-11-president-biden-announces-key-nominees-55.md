@@ -1,6 +1,6 @@
 ---
 date: '2023-09-11'
-modified_time: 2023-09-11 13:34:48-04:00
+modified_time: 2023-09-11 22:30:58-04:00
 published_time: 2023-09-11 15:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/11/president-biden-announces-key-nominees-55/
 tags: statements-releases
@@ -16,9 +16,6 @@ the following individuals to serve as key leaders in his Administration:
     Development, Department of Agriculture
 -   Thomas G. Day, Nominee for Commissioner of the Postal Regulatory
     Commission
-
-<!-- -->
-
 -   Patrice J. Robinson, Nominee for Member of the Tennessee Valley
     Authority Board of Directors
 -   Colleen Duffy Kiko, Nominee for Member (Republican) of the Federal
