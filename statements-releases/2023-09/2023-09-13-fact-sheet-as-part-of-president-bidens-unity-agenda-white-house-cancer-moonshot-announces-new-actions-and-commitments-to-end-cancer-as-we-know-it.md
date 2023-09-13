@@ -1,6 +1,6 @@
 ---
 date: '2023-09-13'
-modified_time: 2023-09-12 21:05:18-04:00
+modified_time: 2023-09-13 09:45:34-04:00
 published_time: 2023-09-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-as-part-of-president-bidens-unity-agenda-white-house-cancer-moonshot-announces-new-actions-and-commitments-to-end-cancer-as-we-know-it/
 tags: statements-releases
@@ -39,9 +39,7 @@ country—smoking. Today’s actions build on the progress the Cancer
 Moonshot has delivered since then, and at today’s Cancer Cabinet
 meeting, the President and First Lady will hear from Cabinet leaders on
 the progress made and the important work ahead.  
-<img
-src="https://www.whitehouse.gov/cdf33c25-8588-4e43-bed7-cb1fcd6ded54"
-decoding="async" alt="Anchor" />  
+  
 **<u>Today’s announcements from the Biden Cancer Moonshot include:</u>**
 
 -   **$240 million in additional investment this year to accelerate new
@@ -78,28 +76,26 @@ decoding="async" alt="Anchor" />
     21<sup>st</sup> century by transforming our health care system for
     cancer into a learning system, ensuring that knowledge gained
     through research is available to as many experts as possible, and
-    delivering discovery and breakthroughs to patients sooner.  
--   <img
-    src="https://www.whitehouse.gov/19db436d-5c61-4e3f-b56b-7e11788cd4bc"
-    decoding="async" alt="Anchor" />**A new nationwide health innovation
-    network to bring cancer clinical trials to underserved communities
-    and drive research progress.** ARPA-H is announcing that it’s new
-    ARPANET-H, a nationwide health innovation network to tackle pressing
-    health challenges, will be deployed to accelerate clinical trials
-    for cancer and other diseases. This new network will reach all 50
-    states and the District of Columbia, and create a continuous
-    feedback loop with patients, providers, researchers, and others that
-    improves the goals, reach, and data sharing capabilities across
-    ARPA-H programs to foster breakthrough collaborations and advance
-    equitable health outcomes. ARPANET-H will comprise Customer
-    Experience, Investor Catalyst, and Stakeholder and Operations hubs,
-    along with a network of supporting spokes that connect local
-    organizations, health providers, companies, and others to ARPA-H’s
-    work. This new network will enable historically underserved
-    populations to actively participate in clinical trials, improve
-    equity in access to innovative cancer interventions and accelerate
-    the agency’s work to drive breakthroughs in preventing, detecting,
-    and treating cancer and other diseases.  
+    delivering discovery and breakthroughs to patients sooner.
+-   **A new nationwide health innovation network to bring cancer
+    clinical trials to underserved communities and drive research
+    progress.** ARPA-H is announcing that its new ARPANET-H, a
+    nationwide health innovation network to tackle pressing health
+    challenges, will be deployed to accelerate clinical trials for
+    cancer and other diseases. This new network will reach all 50 states
+    and the District of Columbia, and create a continuous feedback loop
+    with patients, providers, researchers, and others that improves the
+    goals, reach, and data sharing capabilities across ARPA-H programs
+    to foster breakthrough collaborations and advance equitable health
+    outcomes. ARPANET-H will comprise Customer Experience, Investor
+    Catalyst, and Stakeholder and Operations hubs, along with a network
+    of supporting spokes that connect local organizations, health
+    providers, companies, and others to ARPA-H’s work. This new network
+    will enable historically underserved populations to actively
+    participate in clinical trials, improve equity in access to
+    innovative cancer interventions and accelerate the agency’s work to
+    drive breakthroughs in preventing, detecting, and treating cancer
+    and other diseases.  
 -   **New investments to reduce the impact of menthol and other flavored
     commercial tobacco products in communities that experience health
     disparities.** The Centers for Disease Control and Prevention is

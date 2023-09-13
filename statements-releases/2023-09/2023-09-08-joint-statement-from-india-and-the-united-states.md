@@ -1,5 +1,6 @@
 ---
 date: '2023-09-08'
+modified_time: 2023-09-13 09:08:42-04:00
 published_time: 2023-09-08 11:46:37-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/joint-statement-from-india-and-the-united-states/
 tags: statements-releases
@@ -240,7 +241,7 @@ of investment platforms to lower the cost of capital and accelerate the
 deployment of greenfield renewable energy, battery storage and emerging
 green technology projects in India. Towards this end, India’s National
 Investment and Infrastructure Fund and the U.S. Development Finance
-Corporation exchanged letters of intent to each provide up to US$500
+Corporation exchanged letters of interest to each provide up to US$500
 million to anchor a renewable infrastructure investment fund.  
   
 25.        The leaders lauded the settlement of the seventh and last
