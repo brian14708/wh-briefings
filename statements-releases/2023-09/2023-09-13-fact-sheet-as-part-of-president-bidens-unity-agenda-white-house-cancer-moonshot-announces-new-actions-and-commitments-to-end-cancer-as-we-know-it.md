@@ -1,6 +1,6 @@
 ---
 date: '2023-09-13'
-modified_time: 2023-09-13 09:45:34-04:00
+modified_time: 2023-09-13 15:51:47-04:00
 published_time: 2023-09-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-as-part-of-president-bidens-unity-agenda-white-house-cancer-moonshot-announces-new-actions-and-commitments-to-end-cancer-as-we-know-it/
 tags: statements-releases
@@ -164,7 +164,7 @@ the progress made and the important work ahead.
 -   **New resources and actions to reduce exposures to environmental
     carcinogens.** The Environmental Protection Agency (EPA) is
     launching
-    [epa.gov/cancer](/Users/RLSmith/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TI7UWMJR/epa.gov/cancer),
+    [epa.gov/cancer](https://www.epa.gov/aboutepa/epa-efforts-reduce-exposure-carcinogens-and-prevent-cancer),
     with new information and prominently featured resources from EPA and
     other federal agencies about secondhand smoke, smoking cessation,
     and other cancer-related topics. New regulatory efforts, through
@@ -225,7 +225,7 @@ from non-governmental organizations:**
     an integral component to improving cancer outcomes in the United
     States, helping to ensure every cancer patient has access to timely,
     quality, and culturally competent care, especially in historically
-    marginalized communities. Additionally, ACS with will work with key
+    marginalized communities. Additionally, ACS will work with key
     partners to establish new programs such as navigator certification
     to support evaluation and adherence to best practices that align
     with improved outcomes.  
@@ -276,8 +276,8 @@ from non-governmental organizations:**
     major, geographically diverse cancer centers and surrounding local
     cancer care delivery settings, to bring blood cancer treatment
     studies into more communities. As part of the investment, LLS’s
-    Equity in Access Research Program will spend $2.5 million withing
-    the next year to initiate multi-year studies addressing systemic,
+    Equity in Access Research Program will spend $2.5 million within the
+    next year to initiate multi-year studies addressing systemic,
     institutional, clinician, and patient-related barriers to trial
     participation. In the next five years, LLS aims to improve the speed
     of innovation and expand equitable access to treatments that have
