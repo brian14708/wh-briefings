@@ -1,6 +1,6 @@
 ---
 date: '2023-09-13'
-modified_time: 2023-09-13 21:24:43-04:00
+modified_time: 2023-09-14 08:17:36-04:00
 published_time: 2023-09-13 21:24:42-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-bahraini-crown-prince-and-prime-minister-salman-bin-hamad-al-khalifa/
 tags: statements-releases
@@ -25,7 +25,7 @@ will serve as a cornerstone for enhanced bilateral cooperation between
 the United States and Bahrain, and is in line with President Biden’s
 vision for a more stable and prosperous Middle East region forged
 through security and economic integration between allies and partners. 
-Mr. Sullivan and the Crown Prince-Prime Minster pledged to stay in
+Mr. Sullivan and the Crown Prince-Prime Minister pledged to stay in
 regular contact in the coming weeks and months to oversee implementation
 of the agreement.  They also welcomed the announcement at the G-20 of
 the India-Middle-East-Europe-Economic Corridor, a game-changing
