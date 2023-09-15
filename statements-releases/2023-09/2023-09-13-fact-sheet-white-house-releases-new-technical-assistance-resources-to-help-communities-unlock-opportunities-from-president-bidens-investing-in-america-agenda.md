@@ -1,6 +1,6 @@
 ---
 date: '2023-09-13'
-modified_time: 2023-09-13 12:24:04-04:00
+modified_time: 2023-09-15 13:51:01-04:00
 published_time: 2023-09-13 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-white-house-releases-new-technical-assistance-resources-to-help-communities-unlock-opportunities-from-president-bidens-investing-in-america-agenda/
 tags: statements-releases
@@ -255,7 +255,7 @@ infrastructure funding, including:
 
 -   Bloomberg Philanthropies, Emerson Collective, Ballmer Group, Ford
     Foundation, and the Kresge Foundation, launched the [Local
-    Infrastructure Hub](/localinfrastructure.org/%3c), a national
+    Infrastructure Hub](https://localinfrastructure.org), a national
     program to ensure that all U.S. cities and towns can access federal
     infrastructure funding to drive local recovery, improve communities,
     and deliver results for residents. The $55 million commitment of
