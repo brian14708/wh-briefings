@@ -1,6 +1,6 @@
 ---
 date: '2023-09-17'
-modified_time: 2023-09-18 12:39:15-04:00
+modified_time: 2023-09-18 15:27:47-04:00
 published_time: 2023-09-17 22:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/17/background-press-call-by-senior-administration-officials-on-the-return-of-american-detainees-from-iran/
 tags: press-briefings
@@ -741,11 +741,11 @@ that’s not something the President wants from us.  That’s not something
 the country, in our view, wants from us.  And so, we believe that the
 message to them is: We will find a way to bring you home.  
   
-Wrongful detentions didn’t begin under the last administration, but many
-of the people we’re proud to be bringing home tomorrow were detained —
-or when Paul Whelan, for example, as you mentioned, were detained — they
-certainly didn’t begin under this administration.  Indeed, they’ve been
-going on for decades and, in a sense, centuries.   
+Wrongful detentions didn’t begin under the last administration, when
+many of the people we’re proud to be bringing home tomorrow were
+detained — or when Paul Whelan, for example, as you mentioned, were
+detained — and they certainly didn’t begin under this administration. 
+Indeed, they’ve been going on for decades and, in a sense, centuries.   
   
 We do believe it’s an awful practice, an inhumane practice, a barbaric
 practice, and one that we can begin to stamp out through some of the
