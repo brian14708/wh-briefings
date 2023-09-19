@@ -1,6 +1,6 @@
 ---
 date: '2023-09-18'
-modified_time: 2023-09-18 23:06:32-04:00
+modified_time: 2023-09-19 01:09:57-04:00
 published_time: 2023-09-18 23:06:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/18/declaration-on-atlantic-cooperation/
 tags: statements-releases
