@@ -1,6 +1,6 @@
 ---
 date: '2023-09-18'
-modified_time: 2023-09-19 11:49:28-04:00
+modified_time: 2023-09-19 13:27:36-04:00
 published_time: 2023-09-18 23:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/18/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-3/
 tags: speeches-remarks
@@ -174,7 +174,7 @@ democracy is on the ballot once again.
    
 And let there be no question.  Donald Trump and his MAGA Republicans are
 determined to destroy American democracy.  And I will always defend,
-protect, and fight for our democracy.  That’s why I running. 
+protect, and fight for our democracy.  That’s why I’m running. 
 (Applause.)  
    
 In my entire career, I never thought I’d ever have to say anything like
