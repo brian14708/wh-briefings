@@ -1,6 +1,6 @@
 ---
 date: '2023-09-20'
-modified_time: 2023-09-19 21:40:28-04:00
+modified_time: 2023-09-20 10:29:38-04:00
 published_time: 2023-09-20 08:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/
 tags: statements-releases
@@ -85,7 +85,7 @@ The American Climate Corps will:
     members. Moreover, to ensure Federal agencies are working together
     to implement the American Climate Corps, the Department of Labor,
     Department of the Interior, U.S. Department of Agriculture, National
-    Oceanic and Atmospheric Association, Department of Energy, and
+    Oceanic and Atmospheric Administration, Department of Energy, and
     AmeriCorps will sign a memorandum of understanding to formalize this
     new initiative, and AmeriCorps will stand up a new “American Climate
     Corps hub,” which will support the American Climate Corps.  
