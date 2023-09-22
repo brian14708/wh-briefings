@@ -1,12 +1,15 @@
 ---
 date: '2023-09-20'
-modified_time: 2023-09-21 13:06:17-04:00
+modified_time: 2023-09-21 22:05:55-04:00
 published_time: 2023-09-20 22:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-september-20-2023-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | New York,\_NY"
 ---
  
+Intercontinental Barclay Hotel  
+New York, New York
+
 5:43 P.M. EDT  
    
 THE PRESIDENT:  Thank you, Brad.  (Applause.)  Thank you, thank you,

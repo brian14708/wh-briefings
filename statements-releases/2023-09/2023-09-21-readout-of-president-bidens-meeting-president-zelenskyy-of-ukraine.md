@@ -1,6 +1,6 @@
 ---
 date: '2023-09-21'
-modified_time: 2023-09-21 19:47:51-04:00
+modified_time: 2023-09-21 22:20:39-04:00
 published_time: 2023-09-21 19:47:50-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/readout-of-president-bidens-meeting-president-zelenskyy-of-ukraine/
 tags: statements-releases
@@ -32,9 +32,9 @@ and officials from both governments to explore options for joint
 ventures and co-production.  
   
 President Biden and President Zelenskyy discussed U.S. support to
-Ukraine’s energy and economic recovery. They talked about efforts to
-increase energy generation and transmission capacity, and welcomed their
-governments’ signing of a Memorandum of Understanding to
+Ukraine’s energy sector and economic recovery. They talked about efforts
+to increase energy generation and transmission capacity, and welcomed
+their governments’ signing of a Memorandum of Understanding to
 strengthen Ukraine’s energy resilience.  President Biden introduced
 Special Representative for Ukraine’s Economic Recovery Penny Pritzker,
 who will focus on engaging the private sector, partner countries, and
