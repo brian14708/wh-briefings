@@ -1,5 +1,6 @@
 ---
 date: '2023-09-25'
+modified_time: 2023-09-26 10:53:07-04:00
 published_time: 2023-09-25 14:22:02-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/fact-sheet-enhancing-the-u-s-pacific-islands-partnership/
 tags: statements-releases
@@ -61,10 +62,12 @@ architecture led by the Pacific Islands Forum.
     visa services in the new embassies in Solomon Islands and Tonga and
     the future embassy in Vanuatu.  Consular services will promote
     deeper people-to-people ties through two-way travel.   
--   **Sustaining High-Level Engagement:** To build on increased
-    high-level engagement under the Biden-Harris Administration, we
-    announced our intention to hold the next U.S.-Pacific Islands Forum
-    Summit in 2025.  
+-   **Sustaining High-Level Engagement:** To build on increased
+    high-level engagement under the Biden-Harris
+    Administration, Ambassador Linda Thomas-Greenfield will lead the
+    U.S. delegation to the Pacific Islands Forum Leaders Meeting in
+    November 2023.  We also announced our intention to hold the next
+    U.S.-Pacific Islands Forum Summit in 2025.  
 -   **Strengthening Regional Institutions: ** The United States believes
     it is important to be guided by Pacific priorities and needs, and
     values a strong, unified, and resilient Pacific Islands Forum.  To
