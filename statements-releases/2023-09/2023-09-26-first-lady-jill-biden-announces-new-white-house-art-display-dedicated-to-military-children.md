@@ -1,6 +1,6 @@
 ---
 date: '2023-09-26'
-modified_time: 2023-09-26 05:47:00-04:00
+modified_time: 2023-09-26 09:05:18-04:00
 published_time: 2023-09-26 06:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/first-lady-jill-biden-announces-new-white-house-art-display-dedicated-to-military-children/
 tags: statements-releases
@@ -87,7 +87,11 @@ reflect their journeys as military-connected families. Building on Dr.
 Biden’s previous art installations, *The Military Children’s
 Corner* provides a dedicated display at the White House to celebrate our
 nation’s military children all year
-round.*[ ](https://www.flickr.com/photos/whitehouse/)*  
+round.*[ ](https://www.flickr.com/photos/whitehouse/)*
+
+*Images of The Military Children’s Corner are available via the First
+Lady’s social media
+[here](https://twitter.com/FLOTUS/status/1706648977163137162)*  
    
 ***Background on the First Lady’s Joining Forces initiative ***  
 [*Joining Forces*](http://whitehouse.gov/joiningforces) is Dr. Biden’s
