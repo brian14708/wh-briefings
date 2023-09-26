@@ -1,6 +1,6 @@
 ---
 date: '2023-09-26'
-modified_time: 2023-09-26 12:28:18-04:00
+modified_time: 2023-09-26 13:08:37-04:00
 published_time: 2023-09-26 12:15:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/president-biden-announces-the-inaugural-members-of-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/
 tags: statements-releases
@@ -157,12 +157,10 @@ Patrick Gaspard is the president and CEO of the Center for American
 Progress, a leading public policy think tank working to build an
 inclusive and just nation. He has been a leader in government,
 philanthropy, labor, and global diplomacy, with an insistent focus on
-equity.
-
-Gaspard most recently served as the president of the Open Society
-Foundations (OSF), one of the largest private philanthropies in the
-world, where he confronted significant global threats to democracy and
-rights. He shaped the foundation’s $220 million commitment to civil
+equity. Gaspard most recently served as the president of the Open
+Society Foundations (OSF), one of the largest private philanthropies in
+the world, where he confronted significant global threats to democracy
+and rights. He shaped the foundation’s $220 million commitment to civil
 rights groups in the wake of the national reckoning on race following
 the murder of George Floyd, and refashioned investments in global health
 infrastructure in the context of the COVID 19 pandemic. He is proud to
@@ -184,7 +182,7 @@ as Executive Vice President for the Service Employees International
 Union / Local 1199. Gaspard attended Columbia University and is the
 recipient of honorary doctorates from Columbia University and Bard
 College. He has also been awarded the Spingarn Medal, the highest honor
-bestowed by the NAACP
+bestowed by the NAACP.
 
 #### C.D. Glin, Member
 
@@ -264,30 +262,29 @@ remittances and extend to sustainable investments on the continent.
 Chinenye “Chiney” Ogwumike is a 2-Time WNBA All-Star for the Los Angeles
 Sparks and a full-time, multi-platform ESPN host and NBA analyst. Chiney
 stars on ESPN daily on ESPN’s NBA Today and NBA Countdown, and also
-stars on the court as a forward for the Sparks.
-
-Chiney is a proud first generation Nigerian-American, born in Cypress,
-Texas. The 1<sup>st</sup> overall pick in the 2014 WNBA Draft, she
-graduated from Stanford University with an International Relations
-degree under the mentorship of Dr. Condoleezza Rice. Chiney led Stanford
-to three Final Fours while distinguishing herself in academics, earning
-multiple honors for her academic success, including being named the 2014
-Capital One Academic All-American of the Year and the Pac-12 Women’s
-Basketball Scholar-Athlete of the Year. Chiney Ogwumike was the 2014
-WNBA Rookie of the Year and is a 2-Time WNBA All-Star (2014, 2018). She
-served as the vice president of the WNBA Players Association (WNBPA)
-from 2018 to 2022, instrumentally helping negotiate the groundbreaking
-2020 collective bargaining agreement. In August 2020, Chiney became the
-first Black woman to host a national, daily sports-talk radio show. The
-2021 Forbes 30 Under 30 honoree also holds the title of Executive
-Producer, producing an ESPN Films documentary “144” on the 2020 WNBA
-season. In 2018, Chiney became a full-time multi-platform ESPN NBA
-Analyst, becoming one of the youngest national sports studio analysts
-and one of the only full-time professional athletes to currently hold a
-regular national sports media position. She has made numerous trips to
-Nigeria, Rwanda, Kenya, and South Africa with NBA Africa and other
-nonprofits to help launch youth empowerment and education initiatives,
-using basketball as a tool for development.
+stars on the court as a forward for the Sparks. Chiney is a proud first
+generation Nigerian-American, born in Cypress, Texas. The 1<sup>st</sup>
+overall pick in the 2014 WNBA Draft, she graduated from Stanford
+University with an International Relations degree under the mentorship
+of Dr. Condoleezza Rice. Chiney led Stanford to three Final Fours while
+distinguishing herself in academics, earning multiple honors for her
+academic success, including being named the 2014 Capital One Academic
+All-American of the Year and the Pac-12 Women’s Basketball
+Scholar-Athlete of the Year. Chiney Ogwumike was the 2014 WNBA Rookie of
+the Year and is a 2-Time WNBA All-Star (2014, 2018). She served as the
+vice president of the WNBA Players Association (WNBPA) from 2018 to
+2022, instrumentally helping negotiate the groundbreaking 2020
+collective bargaining agreement. In August 2020, Chiney became the first
+Black woman to host a national, daily sports-talk radio show. The 2021
+Forbes 30 Under 30 honoree also holds the title of Executive Producer,
+producing an ESPN Films documentary “144” on the 2020 WNBA season. In
+2018, Chiney became a full-time multi-platform ESPN NBA Analyst,
+becoming one of the youngest national sports studio analysts and one of
+the only full-time professional athletes to currently hold a regular
+national sports media position. She has made numerous trips to Nigeria,
+Rwanda, Kenya, and South Africa with NBA Africa and other nonprofits to
+help launch youth empowerment and education initiatives, using
+basketball as a tool for development.
 
 #### Ham Serunjogi, Member
 
