@@ -1,6 +1,6 @@
 ---
 date: '2023-09-26'
-modified_time: 2023-09-25 22:20:18-04:00
+modified_time: 2023-09-27 14:56:08-04:00
 published_time: 2023-09-26 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/extreme-republican-shutdown-would-force-troops-to-work-without-getting-paid-and-undermine-our-national-security/
 tags: statements-releases
@@ -31,8 +31,8 @@ open and address emergency needs for the American people. House
 Republicans have turned their backs on the bipartisan budget deal that
 two-third of them voted for just a few months ago and have instead
 proposed [devastating
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
-to programs that millions of hardworking Americans count on.  
+cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
+programs that millions of hardworking Americans count on.  
   
 **<u>Below is a state-by-state breakdown of the 1.3 million active-duty
 servicemembers at risk of not getting paid during an Extreme Republican
