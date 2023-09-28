@@ -1,6 +1,6 @@
 ---
 date: '2023-09-28'
-modified_time: 2023-09-27 22:24:19-04:00
+modified_time: 2023-09-28 10:14:44-04:00
 published_time: 2023-09-28 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/
 tags: statements-releases
@@ -51,11 +51,13 @@ Resilience
 which builds climate resilience in developing countries.
 
 In conjunction with the Summit, the Administration is releasing the
-**National Climate Resilience Framework**, a vision for a climate
-resilient Nation designed to guide and align climate resilience
-investments and activities by the federal government and its partners.
-The Framework identifies common principles and specific actions to
-expand and accelerate progress towards six objectives:
+**[National Climate Resilience
+Framework](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf)**,
+a vision for a climate resilient Nation designed to guide and align
+climate resilience investments and activities by the federal government
+and its partners. The Framework identifies common principles and
+specific actions to expand and accelerate progress towards six
+objectives:
 
 Additionally, the Administration is announcing today more than a dozen
 new actions – including the awarding or availability of more than **$500
