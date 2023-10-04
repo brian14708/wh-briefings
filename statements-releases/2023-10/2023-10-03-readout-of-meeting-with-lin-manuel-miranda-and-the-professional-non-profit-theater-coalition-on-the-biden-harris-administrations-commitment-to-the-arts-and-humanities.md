@@ -1,6 +1,6 @@
 ---
 date: '2023-10-03'
-modified_time: 2023-10-03 20:13:01-04:00
+modified_time: 2023-10-04 08:00:23-04:00
 published_time: 2023-10-03 20:11:47-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/readout-of-meeting-with-lin-manuel-miranda-and-the-professional-non-profit-theater-coalition-on-the-biden-harris-administrations-commitment-to-the-arts-and-humanities/
 tags: statements-releases
@@ -14,8 +14,8 @@ Public Engagement Stephen Benjamin, Domestic Policy Council
 Director Neera Tanden, Office of Management and Budget Director Shalanda
 Young, National Economic Council Director Lael Brainard, Senior Advisor
 and Infrastructure Coordinator Mitch Landrieu, and National Endowment
-for the Arts (NEA) Chair Maria Jackson met with Lin-Manuel Miranda and
-the Professional Non-Profit Theater Coalition. 
+for the Arts (NEA) Chair Maria Rosario Jackson met with Lin-Manuel
+Miranda and the Professional Non-Profit Theater Coalition. 
 
 This National Arts and Humanities Month, the Biden-Harris
 Administration reaffirms its commitment to promoting the arts and
