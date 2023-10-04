@@ -1,6 +1,6 @@
 ---
 date: '2023-10-02'
-modified_time: 2023-10-02 19:04:55-04:00
+modified_time: 2023-10-04 12:33:19-04:00
 published_time: 2023-10-02 19:01:36-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/02/remarks-by-president-biden-at-a-campaign-reception-atherton-ca-2/
 tags: speeches-remarks
