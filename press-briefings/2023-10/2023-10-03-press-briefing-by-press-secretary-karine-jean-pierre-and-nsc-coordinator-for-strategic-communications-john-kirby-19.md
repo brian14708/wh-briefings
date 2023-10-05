@@ -1,5 +1,6 @@
 ---
 date: '2023-10-03'
+modified_time: 2023-10-05 11:58:36-04:00
 published_time: 2023-10-03 18:31:41-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/03/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-19/
 tags: press-briefings
@@ -429,10 +430,10 @@ supplemental request —
 Q    But if it’s tied in one, you would be satisfied if that’s the
 vehicle that it happens?  
    
-MS. JEAN-PIERRE:  We don’t — we don’t believe they need — they should be
-tied or one dependent on the other.  But both are important.  Both can
-be and both are important.  And that’s why in our supplemental request,
-in addition to some $12- to $13 billion for defense-related support,
+MR. KIRBY:  We don’t — we don’t believe they need — they should be tied
+or one dependent on the other.  But both are important.  Both can be and
+both are important.  And that’s why in our supplemental request, in
+addition to some $12- to $13 billion for defense-related support,
 there’s also $4 billion in there for border security enhancements.  
    
 Q    Can I ask a quick follow-up on that?  You say that you’re confident
