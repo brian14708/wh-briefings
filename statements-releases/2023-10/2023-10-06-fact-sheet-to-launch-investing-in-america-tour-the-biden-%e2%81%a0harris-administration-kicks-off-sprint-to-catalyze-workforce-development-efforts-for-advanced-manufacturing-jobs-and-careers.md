@@ -1,6 +1,6 @@
 ---
 date: '2023-10-06'
-modified_time: 2023-10-05 23:25:58-04:00
+modified_time: 2023-10-06 11:54:40-04:00
 published_time: 2023-10-06 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%e2%81%a0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/
 tags: statements-releases
@@ -85,8 +85,8 @@ including:
     manufacturing jobs and careers.  
      
 -   The AFL-CIO Working for America Institute has created a [new
-    brief](https://www.workingforamerica.org/system/files/brief/_advancing/_partnerships/_final.pdf) to
-    offer best practices and real-world examples of workforce
+    brief](https://www.workingforamerica.org/system/files/brief_advancing_partnerships_final.pdf)
+    to offer best practices and real-world examples of workforce
     development—including union-community college collaborations—within
     the building trades and manufacturing industries.  
      
