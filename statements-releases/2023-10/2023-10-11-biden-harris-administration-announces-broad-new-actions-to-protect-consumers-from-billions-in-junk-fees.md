@@ -1,6 +1,6 @@
 ---
 date: '2023-10-11'
-modified_time: 2023-10-10 20:41:54-04:00
+modified_time: 2023-10-11 08:26:03-04:00
 published_time: 2023-10-11 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/biden-harris-administration-announces-broad-new-actions-to-protect-consumers-from-billions-in-junk-fees/
 tags: statements-releases
@@ -98,7 +98,7 @@ down on junk fees is already saving consumers billions of dollars:</u>**
 all-of-government approach to competition:</u>**
 
 -   The [Office of Information and Regulatory Affairs
-    (OIRA)](https://us19.admin.mailchimp.com/campaigns/Office%20of%20Information%20and%20Regulatory%20Affairs%20(OIRA)%20is%20publishing%20new%20guidance) is
+    (OIRA)](https://www.whitehouse.gov/omb/briefing-room/2023/10/11/promoting-competitive-markets-through-regulatory-design/) is
     publishing new guidance to help agencies better develop and analyze
     regulations with competition in mind. Developed in collaboration
     with the National Economic Council, the Council of Economic
