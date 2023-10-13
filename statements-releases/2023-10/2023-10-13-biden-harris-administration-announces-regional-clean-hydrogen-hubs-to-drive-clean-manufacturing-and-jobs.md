@@ -1,6 +1,6 @@
 ---
 date: '2023-10-13'
-modified_time: 2023-10-12 23:01:54-04:00
+modified_time: 2023-10-13 10:56:07-04:00
 published_time: 2023-10-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/13/biden-harris-administration-announces-regional-clean-hydrogen-hubs-to-drive-clean-manufacturing-and-jobs/
 tags: statements-releases
@@ -34,7 +34,7 @@ investment are associated with green (electrolysis based) production,
 within the hubs. Several of the hubs were developed in close
 partnerships with unions, with three requiring project labor agreements
 (PLAs). In addition to job creation and creating healthier air for
-communities, the hydrogen selected hubs are committed to robust
+communities, the selected hydrogen hubs are committed to robust
 Community Benefit Plans to ensure local priorities are at the forefront
 and all communities share in the benefits of the clean energy
 transition.  
