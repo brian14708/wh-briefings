@@ -1,6 +1,6 @@
 ---
 date: '2023-10-11'
-modified_time: 2023-10-11 17:36:03-04:00
+modified_time: 2023-10-16 17:57:20-04:00
 published_time: 2023-10-11 17:35:56-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-girls-leading-change-celebration/
 tags: statements-releases

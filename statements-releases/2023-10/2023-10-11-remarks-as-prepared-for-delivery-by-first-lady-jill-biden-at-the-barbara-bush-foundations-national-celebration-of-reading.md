@@ -1,5 +1,6 @@
 ---
 date: '2023-10-11'
+modified_time: 2023-10-16 17:57:09-04:00
 published_time: 2023-10-11 19:39:58-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-barbara-bush-foundations-national-celebration-of-reading/
 tags: statements-releases
