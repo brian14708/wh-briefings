@@ -1,6 +1,6 @@
 ---
 date: '2023-10-19'
-modified_time: 2023-10-18 22:49:38-04:00
+modified_time: 2023-10-19 10:22:44-04:00
 published_time: 2023-10-19 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/fact-sheet-biden-harris-administration-takes-action-to-cut-energy-bills-housing-costs-and-climate-pollution/
 tags: statements-releases
@@ -53,15 +53,15 @@ and advance fair housing by increasing housing options for
 communities.  
   
 In addition, the **Department of the Treasury and the Department of
-Energy today opened applications for the Low-Income Communities Bonus
-Credit program**, which will spur up to 1.8 gigawatts of clean energy
-investments annually in underserved communities. The program, also
-created by the Inflation Reduction Act, provides a bonus credit amount
-on top of the Investment Tax Credit for building clean energy projects,
-which is up to 30% of qualifying investments. The Low-Income Communities
-Bonus provides up to a 10 or 20- percentage point tax credit boost for
-small solar and wind projects placed in service in low- income or Tribal
-communities.  
+Energy today [opened applications](https://eco.energy.gov/ejbonus/s/)
+for the Low-Income Communities Bonus Credit program**, which will spur
+up to 1.8 gigawatts of clean energy investments annually in underserved
+communities. The program, also created by the Inflation Reduction Act,
+provides a bonus credit amount on top of the Investment Tax Credit for
+building clean energy projects, which is up to 30% of qualifying
+investments. The Low-Income Communities Bonus provides up to a 10 or 20-
+percentage point tax credit boost for small solar and wind projects
+placed in service in low- income or Tribal communities.  
   
 Today’s announcements build on key actions taken by the Administration
 to boost climate resilience in buildings and deliver lower home energy

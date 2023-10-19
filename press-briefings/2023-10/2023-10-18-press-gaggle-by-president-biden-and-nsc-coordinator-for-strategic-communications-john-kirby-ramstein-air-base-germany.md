@@ -1,6 +1,6 @@
 ---
 date: '2023-10-18'
-modified_time: 2023-10-18 20:26:22-04:00
+modified_time: 2023-10-19 09:25:12-04:00
 published_time: 2023-10-18 20:26:21-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/18/press-gaggle-by-president-biden-and-nsc-coordinator-for-strategic-communications-john-kirby-ramstein-air-base-germany/
 tags: press-briefings
@@ -178,17 +178,19 @@ humanitarian aid to Gaza — or what exactly?
    
 THE PRESIDENT:  On everything.  (Laughs.)  We — no, I was very blunt
 about the need to support getting humanitarian aid to Gaza — get it to
-Gaza and do it quickly.  And —  
-   
-MS. JEAN-PIERRE:  All right.  
-   
-THE PRESIDENT:  And that —  
-   
-Q    Any more about the hospital, sir?  
-   
-(Inaudible.)  
-   
-THE PRESIDENT:  Don’t.  Okay?   
+Gaza and do it quickly.  And —
+
+MS. JEAN-PIERRE:  All right.
+
+THE PRESIDENT:  And that —
+
+MS. JEAN-PIERRE:  Oops, sorry, sir.  I almost stepped on you.
+
+Q    Any more about the hospital, sir?
+
+MS. JEAN-PIERRE:  (Inaudible.)
+
+THE PRESIDENT:  Well, don’t.  Okay?   
    
 Q    May I ask you about — there’s a report in the Times of Israel that
 says “Biden officials have indicated to Israel in recent days that if
