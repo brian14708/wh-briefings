@@ -1,6 +1,6 @@
 ---
 date: '2023-10-19'
-modified_time: 2023-10-19 10:22:44-04:00
+modified_time: 2023-10-19 11:26:27-04:00
 published_time: 2023-10-19 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/fact-sheet-biden-harris-administration-takes-action-to-cut-energy-bills-housing-costs-and-climate-pollution/
 tags: statements-releases
@@ -34,17 +34,19 @@ from operating, constructing and renovating our buildings, while
 protecting people’s health and lowering energy and housing costs for
 hardworking families, a key pillar of Bidenomics.  
   
-That’s why today, the Administration **announced awards of more than
-$100 million from the Department of Housing and Urban Development (HUD)
-through the Inflation Reduction Act – the largest investment in clean
-energy and climate action ever – to help renovate the homes of more than
-1,500 low-income families to be zero energy and climate resilient.**
-These energy-saving renovations will demonstrate the potential to
-preserve quality, affordable housing in our communities by cutting
-energy waste down to zero, increasing resiliency to extreme weather
-events worsened by climate change, and lowering costs for families. All
-the investments will be made in affordable housing communities serving
-low-income families in alignment with President Biden’s [Justice40
+That’s why today, the Administration
+**[announced](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_23_239)
+awards of more than $100 million from the Department of Housing and
+Urban Development (HUD) through the Inflation Reduction Act – the
+largest investment in clean energy and climate action ever – to help
+renovate the homes of more than 1,500 low-income families to be zero
+energy and climate resilient.** These energy-saving renovations will
+demonstrate the potential to preserve quality, affordable housing in our
+communities by cutting energy waste down to zero, increasing resiliency
+to extreme weather events worsened by climate change, and lowering costs
+for families. All the investments will be made in affordable housing
+communities serving low-income families in alignment with President
+Biden’s [Justice40
 Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
 and the Biden-Harris Administration’s commitment to environmental
 justice. These investments will also preserve the long-term viability
