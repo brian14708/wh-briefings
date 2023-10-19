@@ -1,5 +1,6 @@
 ---
 date: '2023-10-18'
+modified_time: 2023-10-19 16:36:18-04:00
 published_time: 2023-10-18 16:37:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/18/readout-of-president-joseph-r-biden-jr-call-with-president-abdel-fattah-al-sisi-of-egypt-3/
 tags: statements-releases
