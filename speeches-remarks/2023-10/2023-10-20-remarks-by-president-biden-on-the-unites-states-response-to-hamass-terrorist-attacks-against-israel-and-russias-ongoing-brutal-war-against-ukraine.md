@@ -1,10 +1,10 @@
 ---
 date: '2023-10-20'
-modified_time: 2023-10-20 01:27:15-04:00
+modified_time: 2023-10-20 09:44:14-04:00
 published_time: 2023-10-20 01:27:14-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/20/remarks-by-president-biden-on-the-unites-states-response-to-hamass-terrorist-attacks-against-israel-and-russias-ongoing-brutal-war-against-ukraine/
 tags: speeches-remarks
-title: "Remarks by President\_Biden on the Unites States\u2019 Response to Hamas\u2019\
+title: "Remarks by President\_Biden on the United\_States\u2019 Response to Hamas\u2019\
   s Terrorist Attacks Against Israel and Russia\u2019s Ongoing Brutal War Against\_\
   Ukraine"
 ---

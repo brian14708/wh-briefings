@@ -1,6 +1,6 @@
 ---
 date: '2023-10-19'
-modified_time: 2023-10-19 11:26:27-04:00
+modified_time: 2023-10-20 09:55:52-04:00
 published_time: 2023-10-19 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/fact-sheet-biden-harris-administration-takes-action-to-cut-energy-bills-housing-costs-and-climate-pollution/
 tags: statements-releases
@@ -20,11 +20,11 @@ Since Day One, the Biden-Harris Administration has advanced the most
 ambitious climate agenda in history, leading a whole-of-government
 approach to reduce emissions across every sector of the economy,
 including the buildings sector, and expand affordable clean energy to
-every American. Last week, **the Biden-Harris Administration set a bold
-target to reduce the cost to decarbonize new and existing housing by 50%
-within a decade,** while delivering energy bill savings for Americans
-and curbing greenhouse gas emissions that come from operating,
-constructing, and renovating buildings.  
+every American. Last week, **the Biden-Harris Administration set a bold
+target to reduce the cost to decarbonize affordable housing by 50%
+within a decade, **while delivering energy bill savings for Americans
+and curbing greenhouse gas emissions that come from operating and
+renovating buildings.  
   
 In the United States, more than a third of greenhouse gas emissions
 comes from the buildings sector – with 20 percent from heating, cooling,
@@ -75,19 +75,19 @@ housing supply and safer, healthier housing.
 -   Last week, the Department of Energy launched its eighth Energy
     Earthshot – the [**“Affordable Home Energy
     Shot”**](https://www.energy.gov/eere/affordable-home-energy-shot#%3A%7E%3Atext%3DThe%20Affordable%20Home%20Energy%20Shot%20directs%20DOE%E2%80%99s%20research%2Cthe%20area%20median%20income%E2%80%94will%20benefit%20from%20decarbonization%20solutions)
-    **–** which sets a bold target to reduce the cost to decarbonize new
-    and existing housing by 50%, save Americans money on their energy
+    **–** which sets a bold target to reduce the cost to decarbonize
+    affordable housing by 50%, save Americans money on their energy
     bills, and help address the persistent burdens faced by low-income
     households and communities of color. The initiative will advance the
     Biden-Harris Administration’s environmental justice and equity
     goals, including the President’s Justice40 Initiative, by lowering
     the cost of energy-efficient retrofits while reducing overall energy
-    costs and carbon intensity of homes across the country. Reducing the
-    cost of building will also contribute to the Administration’s
-    efforts to increase the nation’s affordable housing supply through
-    the [President’s Housing Supply Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/)
-    by expanding the production of affordable housing and ensuring the
+    costs and carbon intensity of homes across the country. Additional
+    efforts to reduce the cost of building will also contribute to the
+    Administration’s commitment to increase the nation’s affordable
+    housing supply through the [President’s Housing Supply Action
+    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/) by
+    expanding the production of affordable housing and ensuring the
     long-term viability of existing units.  
 -   The Biden-Harris Administration recently **announced a goal of
     making zero emissions, resilient new construction and retrofits
