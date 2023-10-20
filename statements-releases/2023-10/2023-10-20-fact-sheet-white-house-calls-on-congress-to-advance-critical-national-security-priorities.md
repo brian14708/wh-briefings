@@ -1,6 +1,6 @@
 ---
 date: '2023-10-20'
-modified_time: 2023-10-20 10:19:16-04:00
+modified_time: 2023-10-20 14:14:50-04:00
 published_time: 2023-10-20 10:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/fact-sheet-white-house-calls-on-congress-to-advance-critical-national-security-priorities/
 tags: statements-releases
