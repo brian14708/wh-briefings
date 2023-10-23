@@ -1,6 +1,6 @@
 ---
 date: '2023-10-16'
-modified_time: 2023-10-15 22:48:24-04:00
+modified_time: 2023-10-22 21:02:53-04:00
 published_time: 2023-10-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/white-house-announces-new-actions-on-homeownership/
 tags: statements-releases
@@ -150,8 +150,11 @@ capital for first time homebuyers.  And this work builds on efforts by
 the Administration’s Interagency Task Force on Property Appraisal and
 Valuation Equity (PAVE), which is making [critical
 progress](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/23/fact-sheet-biden-harris-administration-tackles-racial-and-ethnic-bias-in-home-valuations/) toward
-ensuring there is equity in the home appraisal process. However, the
-White House calls on Congress to pass the President’s proposals so that
-we can ensure homeownership is a possibility for all Americans.
+ensuring there is equity in the home appraisal process. The
+Administration is committed to affirmatively furthering fair housing in
+its work, because everyone should have fair housing choice and access to
+housing opportunities. However, the White House calls on Congress to
+pass the President’s proposals so that we can ensure homeownership is a
+possibility for all Americans.
 
 \###
