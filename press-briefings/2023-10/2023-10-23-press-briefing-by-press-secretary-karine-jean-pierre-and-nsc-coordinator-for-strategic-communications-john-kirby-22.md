@@ -1,6 +1,6 @@
 ---
 date: '2023-10-23'
-modified_time: 2023-10-23 18:52:01-04:00
+modified_time: 2023-10-23 22:50:42-04:00
 published_time: 2023-10-23 18:52:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/23/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-22/
 tags: press-briefings
