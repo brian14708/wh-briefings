@@ -1,6 +1,6 @@
 ---
 date: '2023-10-21'
-modified_time: 2023-10-21 12:11:03-04:00
+modified_time: 2023-10-24 13:26:14-04:00
 published_time: 2023-10-21 12:11:02-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/21/readout-of-white-house-meeting-on-mental-health-in-the-entertainment-industry/
 tags: statements-releases
@@ -44,7 +44,6 @@ resources.
 -   Dr. Eric Butter, Chief of Psychology at Nationwide Children’s
     Hospital
 -   Michael Costigan, Producer
--   Alexandra Daddario, Actor
 -   Robert Disney, Organizer
 -   Dr. Laura Erickson-Schroth, Chief Medical Officer, The JED
     Foundation
