@@ -1,6 +1,6 @@
 ---
 date: '2023-10-17'
-modified_time: 2023-10-18 14:46:15-04:00
+modified_time: 2023-10-23 19:14:49-04:00
 published_time: 2023-10-17 20:23:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/17/remarks-by-vice-president-harris-in-a-moderated-conversation-with-maria-theresa-kumar-and-jay-ellis-during-the-national-fight-for-our-freedoms-college-tour/
 tags: speeches-remarks
