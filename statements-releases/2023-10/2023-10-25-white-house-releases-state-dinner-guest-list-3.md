@@ -1,6 +1,6 @@
 ---
 date: '2023-10-25'
-modified_time: 2023-10-25 18:18:12-04:00
+modified_time: 2023-10-25 19:37:39-04:00
 published_time: 2023-10-25 18:18:11-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/white-house-releases-state-dinner-guest-list-3/
 tags: statements-releases
@@ -142,8 +142,7 @@ Dr. Juliet V. Garcia
 
 Mr. Timothy Gartrell, Chief of Staff, Office of the Prime Minister
 
-Mr. Rory Gates & The Honorable Don Harmon, President of the Illinois
-State Senate
+Mr. Rory Gates & Mr. Don Harmon
 
 Mr. Craig Gering & Mrs. Jane Gering
 

@@ -1,6 +1,6 @@
 ---
 date: '2023-10-25'
-modified_time: 2023-10-24 21:29:19-04:00
+modified_time: 2023-10-25 17:57:27-04:00
 published_time: 2023-10-25 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/
 tags: statements-releases
@@ -46,7 +46,7 @@ in the Investing in America agenda will provide a path to economic
 prosperity and intergenerational wealth for countless Americans in
 underserved communities.
 
-That is why the Administration has awarded a record-breaking [$70
+That is why the Administration has awarded a record-breaking nearly [$70
 billion](https://www.sba.gov/article/2023/07/18/biden-harris-administration-sets-record-breaking-163-billion-federal-procurement-opportunities-small)
 in Fiscal Year (FY) 2022—a new record—on federal contracts awarded to
 small, disadvantaged businesses (SDBs). And it has invested $12 billion
