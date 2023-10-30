@@ -1,6 +1,6 @@
 ---
 date: '2023-10-30'
-modified_time: 2023-10-30 11:11:40-04:00
+modified_time: 2023-10-30 13:33:32-04:00
 published_time: 2023-10-30 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
@@ -262,6 +262,7 @@ Congress to pursue bipartisan legislation to help America lead the way
 in responsible innovation.  
   
 For more on the Biden-Harris Administration’s work to advance AI, and
-for opportunities to join the Federal AI workforce, visit AI.gov.
+for opportunities to join the Federal AI workforce, visit
+[AI.gov](https://ai.gov/).
 
 \###
