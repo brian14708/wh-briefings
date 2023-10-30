@@ -1,6 +1,6 @@
 ---
 date: '2023-10-29'
-modified_time: 2023-10-29 00:21:51-04:00
+modified_time: 2023-10-30 11:15:34-04:00
 published_time: 2023-10-29 08:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/
 tags: statements-releases
@@ -103,6 +103,11 @@ As part of the Investing in Rural America Event Series:
     will travel to rural Southwest Georgia to speak about affordable
     housing and promote broadband connectivity for HUD-assisted
     families.
+-   **GSA Administrator Carnahan and Senior Advisor to the President
+    John Podesta** will travel to Kansas to tout the Biden-Harris
+    Administration’s work to spur demand for lower-carbon construction
+    materials, invest in American innovation, and create good-paying
+    jobs.
 
 The Investing in Rural America Event Series will focus on existing and
 new investments the Biden-Harris Administration has made to grow the

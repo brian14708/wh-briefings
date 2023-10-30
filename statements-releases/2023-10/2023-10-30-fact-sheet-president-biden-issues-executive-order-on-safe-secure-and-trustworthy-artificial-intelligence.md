@@ -1,6 +1,6 @@
 ---
 date: '2023-10-30'
-modified_time: 2023-10-29 19:58:34-04:00
+modified_time: 2023-10-30 11:11:40-04:00
 published_time: 2023-10-30 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
@@ -8,9 +8,9 @@ title: "FACT SHEET: President\_Biden Issues Executive Order on Safe, Secure, and
   \ Artificial\_Intelligence"
 ---
  
-Today, President Biden issued a landmark Executive Order to ensure that
-America leads the way in seizing the promise and managing the risks of
-artificial intelligence (AI). The Executive Order establishes new
+Today, President Biden is issuing a landmark Executive Order to ensure
+that America leads the way in seizing the promise and managing the risks
+of artificial intelligence (AI). The Executive Order establishes new
 standards for AI safety and security, protects Americans’ privacy,
 advances equity and civil rights, stands up for consumers and workers,
 promotes innovation and competition, advances American leadership around
