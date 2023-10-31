@@ -1,5 +1,6 @@
 ---
 date: '2023-10-31'
+modified_time: 2023-10-31 13:09:20-04:00
 published_time: 2023-10-31 10:12:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/what-they-are-saying-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
@@ -76,8 +77,8 @@ efforts to ensure the safe, secure, and trustworthy development of AI.”
 \[[Tweet](https://x.com/RepDonBeyer/status/1719081682752467161?s=20),
 10/30/23\]  
   
-**Washington Congressman Suzan DelBene:** “The United States must be in
-the driver’s seat as artificial intelligence expands around the world
+**Washington Congresswoman Suzan DelBene:** “The United States must be
+in the driver’s seat as artificial intelligence expands around the world
 and President Biden clearly understands that. I welcome the president’s
 executive order to ensure AI is implemented in a safe and secure way,
 especially his focus on consumer privacy protections. But executive
@@ -105,12 +106,12 @@ technology.”
 \[[Tweet](https://twitter.com/BradSmi/status/1719006411089449166),
 10/30/23\]
 
-**Kent Walker, President, Google: “**The G7 Code of Conduct marks an
-important step toward responsibly developing and deploying AI in ways
-that benefit everyone. We support the Code and look forward to working
-with governments, industry, and civil society to get this critical
-moment right.”
-\[[Tweet](https://twitter.com/Kent_Walker/status/1719010885392552054),
+**Kent Walker, President of Global Affairs & Chief Legal Officer,
+Alphabet: “**AI should benefit everyone in America. We’re reviewing
+today’s Executive Order, and we are confident that our long-standing AI
+responsibility practices will align with its principles. We’ll continue
+working together to maximize AI’s potential for good.”
+\[[Tweet](https://twitter.com/Kent_Walker/status/1719008916389204466),
 10/30/23\]
 
 **Riley McCormack, President & Chief Executive Officer, Digimarc**:
@@ -272,7 +273,7 @@ milestone in the Biden Admin’s efforts to advance safe and trustworthy
 \[[Tweet](https://twitter.com/CenDemTech/status/1718957631161663858),
 10/30/23\]  
   
-**Alondra Nelson, Distinguished Senior Fellow, Center for America
+**Alondra Nelson, Distinguished Senior Fellow, Center for American
 Progress: **“This ambitious executive order offers the guidance we need
 to ensure that AI will be developed and used in a safe and effective
 manner. The Biden administration should be commended for acting quickly,

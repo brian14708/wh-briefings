@@ -1,5 +1,6 @@
 ---
 date: '2023-10-30'
+modified_time: 2023-10-31 13:20:51-04:00
 published_time: 2023-10-30 17:05:39-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/g7-leaders-statement-on-the-hiroshima-ai-process/
 tags: statements-releases
@@ -19,12 +20,12 @@ Ministers’ Statement issued on September 7, 2023, we welcome the
 Hiroshima Process International Guiding Principles for Organizations
 Developing Advanced AI Systems and the Hiroshima Process International
 Code of Conduct for Organizations Developing Advanced AI Systems
-(Attached).  In order to ensure both documents remain fit for purpose
-and responsive to this rapidly evolving technology, they will be
-reviewed and updated as necessary, including through ongoing inclusive
-multistakeholder consultations. We call on organizations developing
-advanced AI systems to commit to the application of the International
-Code of Conduct.
+([Link](https://www.mofa.go.jp/ecm/ec/page5e_000076.html)).  In order to
+ensure both documents remain fit for purpose and responsive to this
+rapidly evolving technology, they will be reviewed and updated as
+necessary, including through ongoing inclusive multistakeholder
+consultations. We call on organizations developing advanced AI systems
+to commit to the application of the International Code of Conduct.
 
 We instruct relevant ministers to accelerate the process toward
 developing the Hiroshima AI Process Comprehensive Policy Framework,
