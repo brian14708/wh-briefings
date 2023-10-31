@@ -1,6 +1,6 @@
 ---
 date: '2023-10-31'
-modified_time: 2023-10-30 17:49:19-04:00
+modified_time: 2023-10-31 10:07:01-04:00
 published_time: 2023-10-31 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-to-announce-new-actions-to-protect-retirement-security-by-cracking-down-on-junk-fees-in-retirement-investment-advice/
 tags: statements-releases
@@ -35,14 +35,14 @@ retirement savings—potentially tens or even hundreds of thousands of
 dollars per impacted middle-class saver that could otherwise have been
 lost to junk fees. For example, advice rooted in conflicts of interest
 regarding the sale of just one investment product—fixed index
-annuities—may [cost retirees as much as $5 billion per
-year](https://www.whitehouse.gov/cea/written-materials/2023/10/30/fiduciary-rule/).
+annuities—may [cost savers as much as $5 billion per
+year](https://www.whitehouse.gov/cea/written-materials/2023/10/31/retirement-rule/).
 This hurts workers, families, and the American economy.  
   
 **That’s why today, as part of his broader Bidenomics agenda to grow the
 economy from the middle out and bottom up, President Biden is announcing
 that the Department of Labor will propose a new rule to close loopholes
-and** **require that financial advisers provide retirement advice in the
+and require that financial advisers provide retirement advice in the
 best interest of the saver, rather than chasing the highest payday.**
 This step would minimize junk fees in retirement products, promote
 competition, and protect American workers’ retirements. Specifically,
@@ -102,7 +102,7 @@ significant changes to their flight.
   
 Today’s announcement also builds on important actions the Biden-Harris
 Administration has taken to protect the retirement of hardworking
-Americans. In December 2022, President Biden signed Secure 2.0 into law,
+Americans. In December 2022, President Biden signed SECURE 2.0 into law,
 which encourages more employers to offer retirement plan benefits to
 their workers and makes it easier for Americans to save. Additionally,
 as part of the American Rescue Plan, President Biden signed the
