@@ -1,5 +1,6 @@
 ---
 date: '2023-10-30'
+modified_time: 2023-11-01 08:03:38-04:00
 published_time: 2023-10-30 18:32:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/30/remarks-by-president-biden-and-vice-president-harris-on-the-administrations-commitment-to-advancing-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
 tags: speeches-remarks
@@ -89,7 +90,7 @@ Thank you, Kamala, for that introduction and for your leadership on this
 issue.   
   
 Before I begin, I want to explain why I was delayed a few minutes.  I
-have just spoken with President Fein of the United Auto Workers.  And
+have just spoken with President Fain of the United Auto Workers.  And
 let me say a few words about the UAW and the Big Three Automakers —
 Ford, General Motors, and Stellantis.  They have reached a
 historic agreement and a hard-fought fai- — agreement that was really
