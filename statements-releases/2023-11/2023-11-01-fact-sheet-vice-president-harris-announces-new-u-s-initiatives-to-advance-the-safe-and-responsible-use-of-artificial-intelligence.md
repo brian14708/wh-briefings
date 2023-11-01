@@ -1,6 +1,6 @@
 ---
 date: '2023-11-01'
-modified_time: 2023-10-31 19:15:33-04:00
+modified_time: 2023-11-01 09:37:16-04:00
 published_time: 2023-11-01 02:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/fact-sheet-vice-president-harris-announces-new-u-s-initiatives-to-advance-the-safe-and-responsible-use-of-artificial-intelligence/
 tags: statements-releases
@@ -91,16 +91,16 @@ announcing the following initiatives.
     mitigate AI risks, sufficiently train AI operators, conduct public
     notice and consultation for the use of AI, and offer options to
     appeal harms caused by AI. More details on this policy and how to
-    comment can be found at ai.gov/input.
+    comment can be found at [ai.gov/input](http://ai.gov/inp).
 
 <!-- -->
 
 -   **Political Declaration on the Responsible Military Use of
     Artificial Intelligence and Autonomy:** In February, the United
-    States made a [Political Declaration on the Responsible Use of
-    Artificial Intelligence and
+    States made a [Political Declaration on the Responsible Military Use
+    of Artificial Intelligence and
     Autonomy](https://www.state.gov/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/).
-    The Vice President is announcing that 30 nations have joined the
+    The Vice President is announcing that 31 nations have joined the
     United States in endorsing this Declaration and is calling on others
     to join. This Declaration establishes a set of norms for responsible
     development, deployment, and use of military AI capabilities that
@@ -113,12 +113,12 @@ announcing the following initiatives.
     rigorous testing and legal review.  The Declaration marked the
     beginning of a crucial dialogue among responsible states regarding
     the implementation of these foundational principles and practices.
-    Countries joining the declaration include: Albania, Australia,
-    Belgium, Bulgaria, Czech Republic, Denmark, Estonia, Finland,
-    France, Georgia Germany, Hungary, Iceland, Ireland, Italy, Japan,
-    Kosovo, Latvia, Liberia, Malawi, Montenegro, Morocco, North
-    Macedonia, Portugal, Romania, Singapore, Slovenia, Spain, Sweden,
-    and the United Kingdom. 
+    As of November 1, countries joining the Declaration include:
+    Albania, Australia, Belgium, Bulgaria, Canada, Czech Republic,
+    Denmark, Estonia, Finland, France, Georgia, Germany, Hungary,
+    Iceland, Ireland, Italy, Japan, Kosovo, Latvia, Liberia, Malawi,
+    Montenegro, Morocco, North Macedonia, Portugal, Romania, Singapore,
+    Slovenia, Spain, Sweden, and the United Kingdom. 
 
 <!-- -->
 
