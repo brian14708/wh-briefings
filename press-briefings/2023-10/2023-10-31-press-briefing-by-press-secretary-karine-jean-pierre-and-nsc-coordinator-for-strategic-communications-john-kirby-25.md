@@ -1,5 +1,6 @@
 ---
 date: '2023-10-31'
+modified_time: 2023-11-01 10:58:48-04:00
 published_time: 2023-10-31 22:56:16-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/31/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-25/
 tags: press-briefings
@@ -879,7 +880,7 @@ something that the — the White House is asking Tehran to do, to pressure
 — let me start over.   
   
 Is that something that the White House is doing: asking Riyadh to lean
-on Teheran to show restraint?  And how receptive are the Saudis?  
+on Tehran to show restraint?  And how receptive are the Saudis?  
   
 MR. KIRBY:  Yeah, I don’t want to talk about our diplomatic
 conversations with the — with the Saudis.   
