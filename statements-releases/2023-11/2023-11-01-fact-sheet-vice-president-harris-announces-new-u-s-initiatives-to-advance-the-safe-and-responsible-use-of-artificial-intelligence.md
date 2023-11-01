@@ -1,6 +1,6 @@
 ---
 date: '2023-11-01'
-modified_time: 2023-11-01 09:37:16-04:00
+modified_time: 2023-11-01 17:35:43-04:00
 published_time: 2023-11-01 02:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/fact-sheet-vice-president-harris-announces-new-u-s-initiatives-to-advance-the-safe-and-responsible-use-of-artificial-intelligence/
 tags: statements-releases
@@ -91,7 +91,7 @@ announcing the following initiatives.
     mitigate AI risks, sufficiently train AI operators, conduct public
     notice and consultation for the use of AI, and offer options to
     appeal harms caused by AI. More details on this policy and how to
-    comment can be found at [ai.gov/input](http://ai.gov/inp).
+    comment can be found at [ai.gov/input](https://ai.gov/input/).
 
 <!-- -->
 
