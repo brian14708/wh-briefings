@@ -1,6 +1,6 @@
 ---
 date: '2023-11-01'
-modified_time: 2023-11-02 09:12:21-04:00
+modified_time: 2023-11-02 11:44:25-04:00
 published_time: 2023-11-01 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/2024-2025-white-house-fellowship/
 tags: statements-releases
@@ -51,14 +51,14 @@ Selection criteria include:
     Government and the ability to work effectively as part of a team.
 
 Interested individuals may apply
-at: [https://fellows.whitehouse.gov/](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=d9e92e0d9f&e=dc8fc53d83)[.](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=d9e92e0d9f&e=dc8fc53d83)
+at: <https://fellows.whitehouse.gov/>[.](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=d9e92e0d9f&e=dc8fc53d83)
 The application is available as of November 1, 2023, and will remain
 open until January 5, 2024, at 3:00 p.m. ET. Any applications received
 after the deadline will not be accepted.
 
 For more information, including details about the Fellowship, its
 history, and the selection process, please
-visit: [https://www.whitehouse.gov/get](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[–](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[involved/fellows/](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83).
+visit: [https://www.whitehouse.gov/get–involved/fellows/](https://www.whitehouse.gov/get-involved/fellows/).
 Any questions regarding the White House Fellows Program can be directed
 to
 [whitehousefellows@who.eop.gov.](mailto:whitehousefellows@who.eop.gov)
