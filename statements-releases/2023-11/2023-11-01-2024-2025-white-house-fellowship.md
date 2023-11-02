@@ -1,6 +1,6 @@
 ---
 date: '2023-11-01'
-modified_time: 2023-11-01 08:09:44-04:00
+modified_time: 2023-11-02 09:12:21-04:00
 published_time: 2023-11-01 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/2024-2025-white-house-fellowship/
 tags: statements-releases
