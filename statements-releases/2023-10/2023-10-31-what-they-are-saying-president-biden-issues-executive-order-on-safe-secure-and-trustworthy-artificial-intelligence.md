@@ -1,6 +1,6 @@
 ---
 date: '2023-10-31'
-modified_time: 2023-10-31 13:09:20-04:00
+modified_time: 2023-11-03 10:20:51-04:00
 published_time: 2023-10-31 10:12:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/what-they-are-saying-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
@@ -306,5 +306,13 @@ Center: **“The Biden-Harris administration has taken strong action with
 the comprehensive executive order on safe, secure, and trustworthy AI.”
 \[[Statement](https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react/experts-react-what-does-bidens-new-executive-order-mean-for-the-future-of-ai/),
 10/30/23\]
+
+**Omkhar Arasaratnam, General Manager, Open Source Security Foundation
+(OpenSSF):** “The OpenSSF supports the Biden-Harris Administration’s
+Executive Order (EO) on Artificial Intelligence. The EO provides a
+framework that fosters innovation in AI, like the DARPA AI Cyber
+Challenge, while ensuring secure, and equitable outcomes for everyone.”
+\[[Statement](https://openssf.org/blog/2023/11/01/us-white-house-executive-order-on-safe-secure-and-trustworthy-ai/%3c%3c),
+11/1/23\]
 
 *\###*
