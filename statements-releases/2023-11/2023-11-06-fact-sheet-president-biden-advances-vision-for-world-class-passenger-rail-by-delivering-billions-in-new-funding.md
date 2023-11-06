@@ -1,6 +1,6 @@
 ---
 date: '2023-11-06'
-modified_time: 2023-11-05 18:55:36-05:00
+modified_time: 2023-11-06 08:58:35-05:00
 published_time: 2023-11-06 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/
 tags: statements-releases
@@ -59,33 +59,36 @@ agreements.
   
 Major awarded projects include:
 
-**Gateway Hudson River Tunnel (NY/NJ)** will receive **$3.8 billion** in
-a phased funding agreement to rehabilitate and expand the Hudson River
-Tunnel between New York and New Jersey, which is over 100 years old,
-serves 200,000 passengers daily, and was damaged by Superstorm Sandy.
-The overall Gateway Hudson River Tunnel project will improve resiliency,
-reliability, and redundancy for New Jersey Transit (NJ Transit) and
-Amtrak passengers traveling on the Northeast Corridor between New York
-and New Jersey. Combined with other investments, the total Biden
-Administration commitment to the tunnel project will be a record **$11
-billion**. President Biden visited this project in January to announce a
-$292 million DOT MEGA program grant for the Hudson Yards Concrete
-Casing, which supports the critical connection between the new Hudson
-River Tunnel and New York Penn Station. In June, the Hudson Tunnel
-Project received a $25 million grant through DOT’s RAISE program to
-support construction of the new tunnel portal through the Tonnelle
-Avenue Bridge and utility relocation project in North Bergen, NJ. On
-Friday, Administration officials participated in a groundbreaking to
-officially begin construction on the New York side of the tunnel. The
-Hudson Tunnel Project is a critical component of the Gateway Program — a
-comprehensive rail investment program that will improve commuter and
-intercity services, add needed resiliency and create new capacity for
-the busiest section of the Northeast Corridor. The project is critical
-to the northeast regional economy — not only will the project generate
-$19 billion in economic activity over the Project’s construction period,
-addressing this critical chokepoint on the Northeast Corridor supports
-the $50 billion that workers riding on the NEC contribute to the economy
-annually.
+-   **Gateway Hudson River Tunnel (NY/NJ)** will receive **$3.8
+    billion** in a phased funding agreement to rehabilitate and expand
+    the Hudson River Tunnel between New York and New Jersey, which is
+    over 100 years old, serves 200,000 passengers daily, and was damaged
+    by Superstorm Sandy. The overall Gateway Hudson River Tunnel project
+    will improve resiliency, reliability, and redundancy for New Jersey
+    Transit (NJ Transit) and Amtrak passengers traveling on the
+    Northeast Corridor between New York and New Jersey. Combined with
+    other investments, the total Biden Administration commitment to the
+    tunnel project will be a record **$11 billion**. President Biden
+    visited this project in January to announce a $292 million DOT MEGA
+    program grant for the Hudson Yards Concrete Casing, which supports
+    the critical connection between the new Hudson River Tunnel and New
+    York Penn Station. In June, the Hudson Tunnel Project received a $25
+    million grant through DOT’s RAISE program to support construction of
+    the new tunnel portal through the Tonnelle Avenue Bridge and utility
+    relocation project in North Bergen, NJ. On Friday, Administration
+    officials participated in a groundbreaking to officially begin
+    construction on the New York side of the tunnel. The Hudson Tunnel
+    Project is a critical component of the Gateway Program — a
+    comprehensive rail investment program that will improve commuter and
+    intercity services, add needed resiliency and create new capacity
+    for the busiest section of the Northeast Corridor. The project is
+    critical to the northeast regional economy — not only will the
+    project generate $19 billion in economic activity over the Project’s
+    construction period, addressing this critical chokepoint on the
+    Northeast Corridor supports the $50 billion that workers riding on
+    the NEC contribute to the economy annually.
+
+<!-- -->
 
 -   **Frederick Douglass Tunnel (MD)** will receive **$4.7 billion** in
     a phased funding agreement to replace the 150-year-old Baltimore and
