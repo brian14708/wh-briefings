@@ -1,6 +1,6 @@
 ---
 date: '2023-11-09'
-modified_time: 2023-11-09 14:40:44-05:00
+modified_time: 2023-11-09 16:47:50-05:00
 published_time: 2023-11-09 14:40:43-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/09/remarks-by-president-biden-before-air-force-one-departure-joint-base-andrews-md-2/
 tags: speeches-remarks
@@ -41,11 +41,11 @@ already made some proposals.  But there’s just no need for any of
 this.  
    
 Q    Will you be bringing up the issue of an endorsement, Mr. President,
-with Shawn Fein?  
+with Shawn Fain?  
    
 THE PRESIDENT:  Pardon me?  
    
-Q    Will you be bringing up the issue of an endorsement with Shawn Fein
+Q    Will you be bringing up the issue of an endorsement with Shawn Fain
 when you meet him?  
    
 THE PRESIDENT:  Will I bring up the endorsement?  
