@@ -1,10 +1,11 @@
 ---
 date: '2023-11-14'
+modified_time: 2023-11-14 11:42:00-05:00
 published_time: 2023-11-14 11:26:03-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/14/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-november-13-2023/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
-  \ Advisor Jake Sullivan, November 13,\_2023"
+  \ Advisor Jake\_Sullivan"
 ---
  
 James S. Brady Press Briefing Room
