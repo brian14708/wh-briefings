@@ -1,6 +1,6 @@
 ---
 date: '2023-11-10'
-modified_time: 2023-11-09 13:33:40-05:00
+modified_time: 2023-11-14 17:29:10-05:00
 published_time: 2023-11-10 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/
 tags: statements-releases
@@ -35,24 +35,25 @@ million disability claims. VA delivered more than 116 million health
 care appointments, over 5.5 million dental procedures, and provided
 services and assistance to more than 74,000 family caregivers. The
 Administration is building on this historic progress and announcing new
-actions to lower health care costs for veterans – including no-cost
-health care for all living World War II veterans. And the Administration
-will also announce the launch a new Veteran Scam and Fraud Evasion
-(VSAFE) campaign and Task Force to better protect veterans and their
-families from scams and predatory actors. The announcements include:  
+actions to lower health care costs for veterans – including low- or
+no-cost health care for all living World War II veterans. And the
+Administration will also announce the launch a new Veteran Scam and
+Fraud Evasion (VSAFE) campaign and Task Force to better protect veterans
+and their families from scams and predatory actors. The announcements
+include:  
   
 **Lowering health care costs and expanding health care eligibility for
 veterans**. President Biden believes access to health care is a right
 not a privilege. Beginning this month, VA will expand eligibility for
-no-cost health care, including nursing home care, to all living World
-War II veterans. VA will also now cover health care costs associated
-with Parkinson’s disease under the Camp Lejeune Family Member Program.
-And, to ensure all toxic exposed veterans get the health care they
-deserve, President Biden is directing the Secretary of Veterans Affairs
-to accelerate the eligibility timeline for veterans under the
-authorities granted by the PACT Act. Under this accelerated timeline,
-all remaining cohorts of toxic exposed veterans will be eligible to
-enroll in VA health care in early 2024.  
+low- or no-cost health care to all living World War II veterans. VA will
+also now cover health care costs associated with Parkinson’s disease
+under the Camp Lejeune Family Member Program. And, to ensure all toxic
+exposed veterans get the health care they deserve, President Biden is
+directing the Secretary of Veterans Affairs to accelerate the
+eligibility timeline for veterans under the authorities granted by the
+PACT Act. Under this accelerated timeline, all remaining cohorts of
+toxic exposed veterans will be eligible to enroll in VA health care in
+early 2024.  
   
 **Protecting veterans and their families from predatory actors and
 scams. **In 2022, veterans, military personnel, and their families
