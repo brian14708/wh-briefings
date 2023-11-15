@@ -1,6 +1,6 @@
 ---
 date: '2023-11-14'
-modified_time: 2023-11-13 21:17:39-05:00
+modified_time: 2023-11-15 10:32:07-05:00
 published_time: 2023-11-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-releases-fifth-national-climate-assessment-and-announces-more-than-6-billion-to-strengthen-climate-resilience-across-the-country/
 tags: statements-releases
@@ -129,7 +129,8 @@ provide essential grid services.
     and provide more detailed information and guidance to consider
     climate change factors and impacts in all relevant and applicable
     decisions.  
--   In addition, the White House is publishing a **synthesis of insights
+-   In addition, the White House is publishing a **[synthesis of
+    insights](https://www.whitehouse.gov/wp-content/uploads/2023/11/PROCEEDINGS_White-House-Summit-on-Building-Climate-Resilient-Communities_092823.pdf)
     from the 13 roundtable** discussions on climate resilience that the
     Administration hosted earlier this year as part of the [White House
     Summit on Building Climate Resilient
