@@ -1,6 +1,6 @@
 ---
 date: '2023-11-15'
-modified_time: 2023-11-15 10:01:09-05:00
+modified_time: 2023-11-15 12:00:17-05:00
 published_time: 2023-11-15 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2023/11/15/job-gains-in-construction-after-two-years-of-the-bipartisan-infrastructure-law/
 tags: blog
@@ -184,9 +184,9 @@ investments in workforce development will help meet this demand and
 increase access to the industry for underrepresented groups. President
 Biden’s Bipartisan Infrastructure Law newly enabled states to invest in
 workforce development using their highway formula funds, which total
-nearly $250 billion over 5 years. More than half of states are already
-taking advantage of this flexibility, investing $39 million to prepare
-their workforces for high-quality jobs in construction and other
+nearly $250 billion over five years. More than half of states are
+already taking advantage of this flexibility, investing $39 million to
+prepare their workforces for high-quality jobs in construction and other
 transportation-related occupations.
 
 Moreover, developments in construction employment are just one measure
