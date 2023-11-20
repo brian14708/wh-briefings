@@ -1,5 +1,6 @@
 ---
 date: '2023-11-16'
+modified_time: 2023-11-20 08:11:09-05:00
 published_time: 2023-11-16 17:07:06-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-the-apec-ceo-summit-san-francisco-ca/
 tags: speeches-remarks
@@ -251,7 +252,7 @@ they will.
 I know you all know better than I our work is not yet done.  This
 framework will be a platform for ongoing economic cooperation.  And we
 will continue working to better facilitate high-standard trade that
-advances workers’ rights through strong enforceable of labor
+advances workers’ rights through strong enforcement of labor
 standards.  
    
 And every step — at every step, we have upheld our commitment to
