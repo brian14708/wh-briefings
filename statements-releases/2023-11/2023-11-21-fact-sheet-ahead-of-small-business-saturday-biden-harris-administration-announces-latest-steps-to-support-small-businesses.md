@@ -1,6 +1,6 @@
 ---
 date: '2023-11-21'
-modified_time: 2023-11-20 22:42:48-05:00
+modified_time: 2023-11-21 15:37:14-05:00
 published_time: 2023-11-21 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/fact-sheet-ahead-of-small-business-saturday-biden-harris-administration-announces-latest-steps-to-support-small-businesses/
 tags: statements-releases
@@ -40,18 +40,6 @@ growth in Black business ownership in over 30 years.
 <img
 src="https://mcusercontent.com/c97630621baff8c44fe607661/images/03f2753d-bdbf-e32c-e116-e87bcff5db50.png"
 decoding="async" loading="lazy" width="535" height="337" />
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><em>Source: U.S. Census Bureau</em><br />
-<em>2023 data has been annualized</em></td>
-</tr>
-</tbody>
-</table>
 
 <img
 src="https://mcusercontent.com/c97630621baff8c44fe607661/images/2d151fe3-714b-6a96-ca5d-2e6493c50415.png"

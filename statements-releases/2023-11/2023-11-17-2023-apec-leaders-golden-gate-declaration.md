@@ -1,6 +1,6 @@
 ---
 date: '2023-11-17'
-modified_time: 2023-11-17 21:09:56-05:00
+modified_time: 2023-11-21 15:55:15-05:00
 published_time: 2023-11-17 21:08:27-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/
 tags: statements-releases
@@ -223,8 +223,9 @@ and State of California for the warm welcome extended to us.
 
 **Annex:**
 
--   San Francisco Principles on Integrating Inclusivity and
-    Sustainability into Trade and Investment Policy
+-   [San Francisco Principles on Integrating Inclusivity and
+    Sustainability into Trade and Investment
+    Policy](https://apec.sitefinity.cloud/meeting-papers/leaders-declarations/2023/2023-leaders-declaration/san-francisco-principles-on-integrating-inclusivity-and-sustainability-into-trade-and-investment-policy)
 
 **See Also:**  
 *[Accompanying Chair’s
