@@ -1,6 +1,6 @@
 ---
 date: '2023-11-26'
-modified_time: 2023-11-27 18:52:31-05:00
+modified_time: 2023-11-28 18:14:35-05:00
 published_time: 2023-11-26 18:52:23-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/26/background-press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-on-supply-chain-announcements/
 tags: press-briefings
@@ -20,7 +20,7 @@ the announcements that the President will be announcing tomorrow.  If
 you have not received them, I will be resending that in — in a second to
 everyone who has registered for this call.   
    
-The first person of our call is on the record and will include remarks
+The first portion of our call is on the record and will include remarks
 from National Economic Adviser Lael Brainard.  The second portion of our
 call will have questions and answers from Joelle Gamble and Monica
 Gorman from our National Economic Council.   
