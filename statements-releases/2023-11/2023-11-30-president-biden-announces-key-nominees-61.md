@@ -1,6 +1,6 @@
 ---
 date: '2023-11-30'
-modified_time: 2023-11-30 13:43:17-05:00
+modified_time: 2023-11-30 16:00:03-05:00
 published_time: 2023-11-30 15:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/president-biden-announces-key-nominees-61/
 tags: statements-releases
@@ -72,8 +72,8 @@ He received a B.A. and M.A. in Sociology from the College of William and
 Mary in Williamsburg, Virginia, and an M.S. and Ph.D. in Computer
 Science from the University of California, Irvine.
 
-**Juan Carlos Iturregui, Nominee to be Ambassador Extraordinary and
-Plenipotentiary to the Dominican Republic**  
+****<u>Juan Carlos Iturregui, Nominee to be Ambassador Extraordinary and
+Plenipotentiary to the Dominican Republic</u>****  
   
 Juan Carlos Iturregui currently is the Managing Partner of Milan
 Americas, LLC, his consulting practice specializing in business,
@@ -92,8 +92,8 @@ Science from the University of Massachusetts at Amherst and a J.D from
 The Catholic University of America in Washington, D.C. He is fully
 bilingual (English/Spanish) and lives with his family in Maryland.
 
-**Deven Parekh, Nominee to be a Member on the Development Finance
-Corporation Board of Directors**
+****<u>Deven Parekh, Nominee to be a Member on the Development Finance
+Corporation Board of Directors</u>****
 
 Deven Parekh is a Managing Director at Insight Partners, a growth equity
 investment fund based in New York City. Since joining Insight in 2000,
