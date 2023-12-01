@@ -1,6 +1,6 @@
 ---
 date: '2023-11-30'
-modified_time: 2023-11-30 22:18:42-05:00
+modified_time: 2023-12-01 07:52:23-05:00
 published_time: 2023-11-30 22:18:41-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/30/background-press-call-by-a-senior-administration-official-to-preview-the-bilateral-engagement-of-president-joao-lourenco-of-angola/
 tags: press-briefings
@@ -39,7 +39,7 @@ invest in this partnership through high-level engagements, major
 infrastructure and economic deals, and collaboration across a range of
 global and regional priorities.   
   
-Our relationship has gone from strength is strength.  And today, the
+Our relationship has gone from strength to strength.  And today, the
 President looks forward to building on this impressive record.   
   
 So, if I may, I’d like to share just a few highlights.  President
