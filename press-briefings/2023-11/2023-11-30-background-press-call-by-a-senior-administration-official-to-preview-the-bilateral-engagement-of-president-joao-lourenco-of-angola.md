@@ -1,6 +1,6 @@
 ---
 date: '2023-11-30'
-modified_time: 2023-12-01 07:52:23-05:00
+modified_time: 2023-12-01 12:15:14-05:00
 published_time: 2023-11-30 22:18:41-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/30/background-press-call-by-a-senior-administration-official-to-preview-the-bilateral-engagement-of-president-joao-lourenco-of-angola/
 tags: press-briefings
@@ -110,9 +110,23 @@ engagements. 
 With respect to the President’s trip to Africa, I don’t have anything to
 announce today.
 
-Q    Thank you.  I wanted to ask regarding — I know the Lobito Corridor
-project is (inaudible) to connect regarding global supply chain and, as
-you mentioned, to bring Africa into the global market. 
+OPERATOR:  Hi, please state your name and outlet.
+
+Q    Hi.  Good morning.  This is Kemi Osukoya with the Africa Bazaar
+magazine.
+
+Hello?
+
+OPERATOR:  Yes, and your question?
+
+Q    Hello?
+
+OPERATOR:  Yes, and your question?       
+  
+Q    Oh, okay.  I wasn’t sure if you could hear me. Thank you.  I wanted
+to ask regarding — I know the Lobito Corridor project is (inaudible) to
+connect regarding global supply chain and, as you mentioned, to bring
+Africa into the global market. 
 
 So, the presidents have been talking about supply chain within the U.S. 
 How can American businesses — small businesses take advantage of the
@@ -144,6 +158,7 @@ And the United States has a series of tools through our economic
 agencies, like the Development Finance Corporation and the U.S. ex- and
 import bank, that are available to help companies — U.S. companies
 looking to invest in this exciting corridor.  
+  
 Q    My name is Chase Winter, reporter with Energy Intelligence.  I was
 — can you comment a little bit on how you kind of view this Lobito
 Corridor and — as far as, you know, expanding U.S. access to critical
