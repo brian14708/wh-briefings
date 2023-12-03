@@ -1,6 +1,6 @@
 ---
 date: '2023-12-02'
-modified_time: 2023-12-02 04:02:38-05:00
+modified_time: 2023-12-03 15:53:43-05:00
 published_time: 2023-12-02 04:02:37-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/
 tags: statements-releases
@@ -356,7 +356,8 @@ COP28, the United States announced new initiatives to:
     private sector finance to build out safe, secure, and reliable
     global nuclear energy supply chains.
 
-o **Launching a U.S. Fusion Energy International Partnership Strategy.**
+o **[Launching a U.S. Fusion Energy International Partnership
+Strategy](https://www.whitehouse.gov/ostp/news-updates/2023/12/02/international-partnerships-in-a-new-era-of-fusion-energy-development/).**
 This strategy will support the timely development, demonstration, and
 deployment of commercial fusion energy in strategic areas like research
 and development and harmonization of regulatory frameworks.  
