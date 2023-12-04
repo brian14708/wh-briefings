@@ -1,6 +1,6 @@
 ---
 date: '2023-12-02'
-modified_time: 2023-12-03 15:53:43-05:00
+modified_time: 2023-12-04 16:55:02-05:00
 published_time: 2023-12-02 04:02:37-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/
 tags: statements-releases
@@ -70,15 +70,16 @@ dioxide emitted by the power sector in 2021. In 2030 alone, the expected
 reductions are equivalent to 130 million metric tons of carbon dioxide –
 more than the annual emissions of 28 million gasoline cars. This builds
 on more than 100 additional actions that U.S. federal agencies have
-taken this year to dramatically reduce methane emissions under the U.S.
-Methane Emissions Reduction Action Plan, including plugging wells and
-leaks in the oil and gas sector, reclaiming abandoned coal mines,
-reducing food waste and agricultural emissions, investing in cleaner
-buildings and industrial processes, and launching innovative
-technologies to detect and halt large methane emissions. These actions,
-which further deliver on the Global Methane Pledge, will cut consumer
-costs, protect workers and communities, maintain and create high
-quality, union-friendly jobs, and promote U.S. innovation and
+taken this year to dramatically reduce methane emissions under the [U.S.
+Methane Emissions Reduction Action
+Plan](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf),
+including plugging wells and leaks in the oil and gas sector, reclaiming
+abandoned coal mines, reducing food waste and agricultural emissions,
+investing in cleaner buildings and industrial processes, and launching
+innovative technologies to detect and halt large methane emissions.
+These actions, which further deliver on the Global Methane Pledge, will
+cut consumer costs, protect workers and communities, maintain and create
+high quality, union-friendly jobs, and promote U.S. innovation and
 manufacturing of critical new technologies.  
   
 At COP28, the Biden-Harris Administration will demonstrate how it is
