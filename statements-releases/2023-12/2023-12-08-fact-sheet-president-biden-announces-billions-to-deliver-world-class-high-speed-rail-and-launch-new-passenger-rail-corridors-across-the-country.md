@@ -1,6 +1,6 @@
 ---
 date: '2023-12-08'
-modified_time: 2023-12-07 21:18:23-05:00
+modified_time: 2023-12-08 09:14:56-05:00
 published_time: 2023-12-08 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/
 tags: statements-releases
@@ -22,7 +22,7 @@ vision to rebuild America and win the global competition for the
   
 Today, the Biden-Harris Administration is announcing **$8.2 billion** in
 new funding for 10 major passenger rail projects across the country,
-including **the first world-class high-speed rail projectsin our
+including **the first world-class high-speed rail projects in our
 country’s history.** Key selected projects include: building a new
 high-speed rail system between **California and Nevada,** which will
 serve more than 11 million passengers annually; creating a high-speed
