@@ -1,6 +1,6 @@
 ---
 date: '2023-12-08'
-modified_time: 2023-12-08 16:55:52-05:00
+modified_time: 2023-12-08 18:36:54-05:00
 published_time: 2023-12-08 16:55:51-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-white-house-event-on-inclusive-approaches-to-education-in-artificial-intelligence-and-computer-science/
 tags: statements-releases
@@ -92,8 +92,7 @@ AI education in America’s classrooms.
     Foundation
 -   Erwin Gianchandani, Assistant Director, Directorate for Technology,
     Innovation, and Partnerships, U.S. National Science Foundation
--   Michael Littman, Division Director, Information and Intelligence
-    Systems, Directorate for Computer and Information Science and
-    Engineering, U.S. National Science Foundation
 
-\###
+Michael Littman, Division Director, Information and Intelligence
+Systems, Directorate for Computer and Information Science and
+Engineering, U.S
