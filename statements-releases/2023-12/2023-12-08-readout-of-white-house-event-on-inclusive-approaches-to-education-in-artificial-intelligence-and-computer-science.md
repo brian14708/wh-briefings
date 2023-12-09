@@ -1,6 +1,6 @@
 ---
 date: '2023-12-08'
-modified_time: 2023-12-08 18:36:54-05:00
+modified_time: 2023-12-08 21:00:25-05:00
 published_time: 2023-12-08 16:55:51-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-white-house-event-on-inclusive-approaches-to-education-in-artificial-intelligence-and-computer-science/
 tags: statements-releases
@@ -12,11 +12,12 @@ On Tuesday, December 5, the Biden-Harris Administration hosted an event
 convening roughly 60 teachers, advocates, officials, and other education
 leaders to discuss inclusive approaches to artificial intelligence (AI)
 education in computer science. The event, held during Computer Science
-Education Week, acknowledged the work of educators teaching AI in
-computer science to students around the country, including from
-underserved communities. Participants also discussed these efforts’
-importance for skills development, the need for inclusive teaching in
-this field, and ways to support educators.
+Education Week—an annual week of celebration organized by the Computer
+Science Teachers Association— acknowledged the work of educators
+teaching AI in computer science to students around the country,
+including from underserved communities. Participants also discussed
+these efforts’ importance for skills development, the need for inclusive
+teaching in this field, and ways to support educators.
 
 The event was co-hosted by the National Economic Council and U.S.
 National Science Foundation (NSF), and it was attended by officials from
@@ -58,6 +59,9 @@ AI education in America’s classrooms.
     postgraduate levels. NSF has published a [Dear Colleague
     Letter](https://www.nsf.gov/pubs/2024/nsf24025/nsf24025.jsp) seeking
     funding proposals for such projects.
+-   **The Computer Science Teachers Association (CSTA) will develop new
+    K-12 computer science standards** that incorporate AI into
+    foundational computer science education.
 -   **The National Science Foundation, Amazon, Google, and Microsoft,
     committed to support the development of new standards**
     incorporating AI into foundational computer science education.
@@ -92,7 +96,6 @@ AI education in America’s classrooms.
     Foundation
 -   Erwin Gianchandani, Assistant Director, Directorate for Technology,
     Innovation, and Partnerships, U.S. National Science Foundation
-
-Michael Littman, Division Director, Information and Intelligence
-Systems, Directorate for Computer and Information Science and
-Engineering, U.S
+-   Michael Littman, Division Director, Information and Intelligence
+    Systems, Directorate for Computer and Information Science and
+    Engineering, U.S. National Science Foundation
