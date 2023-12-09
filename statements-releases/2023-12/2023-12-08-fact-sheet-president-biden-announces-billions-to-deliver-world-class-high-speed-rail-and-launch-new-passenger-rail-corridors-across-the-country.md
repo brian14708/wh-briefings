@@ -1,6 +1,6 @@
 ---
 date: '2023-12-08'
-modified_time: 2023-12-08 09:14:56-05:00
+modified_time: 2023-12-08 20:15:28-05:00
 published_time: 2023-12-08 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/
 tags: statements-releases
@@ -54,13 +54,16 @@ of thousands of good-paying union jobs in construction and related
 industries – adding to over 100,000 jobs that the President is creating
 through historic investments in world-class rail.    
   
-Today’s investment includes $8.2 billion through the Federal Railroad
+Today’s investment includes [$8.2 billion through the Federal Railroad
 Administration’s Federal-State Partnership for Intercity Passenger Rail
-Program, as well as $34.5 million through the Corridor Identification
-and Development program to guide passenger rail development on 69 rail
-corridors across 44 states, ensuring that intercity rail projects are
-ready for implementation. President Biden will travel to Las Vegas,
-Nevada to make this announcement.  
+Program](https://railroads.dot.gov/elibrary/fy22-23-FSP-National-rail-program-project-fact-sheets),
+as well as [$34.5 million through the Corridor Identification and
+Development
+program](https://railroads.dot.gov/elibrary/fy22-CID-program-selections)
+to guide passenger rail development on 69 rail corridors across 44
+states, ensuring that intercity rail projects are ready for
+implementation. President Biden will travel to Las Vegas, Nevada to make
+this announcement.  
   
 To date, President Biden has announced **$30 billion** for rail projects
 across the country – including $16.4 billion on the Northeast Corridor,
