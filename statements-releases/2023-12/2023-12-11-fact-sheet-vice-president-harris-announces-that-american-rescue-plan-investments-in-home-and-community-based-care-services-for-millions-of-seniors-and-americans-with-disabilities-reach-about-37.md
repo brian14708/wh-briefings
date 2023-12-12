@@ -1,6 +1,6 @@
 ---
 date: '2023-12-11'
-modified_time: 2023-12-11 19:14:08-05:00
+modified_time: 2023-12-11 21:56:09-05:00
 published_time: 2023-12-11 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-vice-president-harris-announces-that-american-rescue-plan-investments-in-home-and-community-based-care-services-for-millions-of-seniors-and-americans-with-disabilities-reach-about-37/
 tags: statements-releases
@@ -60,9 +60,10 @@ and investing in our direct care workforce:
     care executive order in April. Today’s guidance details best
     practices for states in developing worker registries and how they
     can receive enhanced federal funding to develop and maintain them.  
--   **White House convening on Tuesday to highlight the current results
-    of this American Rescue Plan funding:** The convening will feature
-    speakers including:  
+-   [**White House Convening on the American Rescue Plan’s Major
+    Investment in Home & Community-Based
+    Care**](https://www.youtube.com/watch?v=a3_8_JA9sFI): The convening
+    will feature speakers including:
     -   HHS Secretary Xavier Becerra
     -   Senator Bob Casey (PA)
     -   Governor Josh Shapiro (PA)
@@ -73,7 +74,7 @@ and investing in our direct care workforce:
     -   Domestic Policy Advisor Neera Tanden
     -   American Rescue Plan Coordinator Gene Sperling
     -   National Council on Independent Living Executive Director Theo
-        Braddy
+        Braddy  
 
 **New Data Shows How American Rescue Plan Investments are Delivering
 Stronger and Expanded HCBS for Millions of Seniors and Americans with
