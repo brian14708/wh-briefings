@@ -1,6 +1,6 @@
 ---
 date: '2023-12-13'
-modified_time: 2023-12-13 09:38:09-05:00
+modified_time: 2023-12-13 14:09:25-05:00
 published_time: 2023-12-13 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-accelerating-the-u-s-africa-partnership-after-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
@@ -197,10 +197,10 @@ than half of which has been provided to African partners in response to
 the ongoing food security crisis.  During the U.S.-Africa Leaders
 Summit, President Biden with the African Union (AU) launched a new
 strategic partnership on food security to drive our work with the
-African Union and our African countries to accelerate progress in
-tackling food insecurity, building stronger food systems and more
-diversified supply chains, and expanding African countries’ access to
-agricultural markets. 
+African Union and African countries to accelerate progress in tackling
+food insecurity, building stronger food systems and more diversified
+supply chains, and expanding African countries’ access to agricultural
+markets. 
 
 1.  Over the last year, we have worked together to develop of a
     long-term plan to: (1) build diversified and resilient food
