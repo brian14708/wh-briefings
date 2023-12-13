@@ -1,6 +1,6 @@
 ---
 date: '2023-12-13'
-modified_time: 2023-12-12 22:39:57-05:00
+modified_time: 2023-12-13 09:38:09-05:00
 published_time: 2023-12-13 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-accelerating-the-u-s-africa-partnership-after-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
@@ -55,19 +55,19 @@ in the United States and Africa, with highlights that include: 
     fifteen project preparation grants designed to help leverage more
     than $3.4 billion in infrastructure finance for projects across the
     continent. 
-3.  Between June and October 2023, the U.S. Department of Commerce, in
-    concert with the launch of its department-wide Africa engagement
-    strategy to leverage the full range of agency capabilities,
-    facilitated nearly $3.6 billion in U.S. exports to Africa, and
-    committed to fostering long-term commercial partnerships with a
-    focus on priority sectors such as digitization, clean tech, creative
-    industries, climate-smart agriculture, and infrastructure – all of
-    which are driving inclusive growth, supply chain resilience, and
-    quality jobs on both sides of the Atlantic.  The U.S. Department of
-    Commerce has also launched new bilateral commercial dialogues with
-    Tanzania and Zambia, renewed several existing engagements with other
-    countries, led several trade missions, and is opening new Foreign
-    Commercial Service offices in Côte d’Ivoire and Zambia.
+3.  In 2023, the U.S. Department of Commerce, in concert with the launch
+    of its department-wide Africa engagement strategy to leverage the
+    full range of agency capabilities, facilitated nearly $3.6 billion
+    in U.S. exports to Africa, and committed to fostering long-term
+    commercial partnerships with a focus on priority sectors such as
+    digitization, clean tech, creative industries, climate-smart
+    agriculture, and infrastructure – all of which are driving inclusive
+    growth, supply chain resilience, and quality jobs on both sides of
+    the Atlantic.  The U.S. Department of Commerce has also launched new
+    bilateral commercial dialogues with Tanzania and Zambia, renewed
+    several existing engagements with other countries, led several trade
+    missions, and is opening new Foreign Commercial Service offices in
+    Côte d’Ivoire and Zambia.
 4.  In March, Prosper Africa mobilized $274 million in long-term
     financing for West Africa’s rapidly growing housing sector, opening
     new opportunities for U.S. investment in Africa’s emerging markets
