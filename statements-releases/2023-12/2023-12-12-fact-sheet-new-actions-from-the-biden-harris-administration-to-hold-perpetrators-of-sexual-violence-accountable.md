@@ -1,6 +1,6 @@
 ---
 date: '2023-12-12'
-modified_time: 2023-12-12 16:00:28-05:00
+modified_time: 2023-12-12 23:11:31-05:00
 published_time: 2023-12-12 16:00:27-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/fact-sheet-new-actions-from-the-biden-harris-administration-to-hold-perpetrators-of-sexual-violence-accountable/
 tags: statements-releases
@@ -47,6 +47,8 @@ Department issued sanctions against thirteen targets from four countries
 for their connection to acts of sexual violence—the largest set of
 financial sanctions and visa restrictions the United States has issued
 against individuals connected to this abhorrent abuse of human rights.
+
+This includes designations against:
 
 -   Two individuals from armed rebel groups in the Central African
     Republic, who forced girls into sexual slavery and perpetrated rape
