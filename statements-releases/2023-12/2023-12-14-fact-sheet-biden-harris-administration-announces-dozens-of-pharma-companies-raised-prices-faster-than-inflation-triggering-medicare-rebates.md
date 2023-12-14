@@ -1,6 +1,6 @@
 ---
 date: '2023-12-14'
-modified_time: 2023-12-14 09:41:28-05:00
+modified_time: 2023-12-14 13:42:35-05:00
 published_time: 2023-12-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-dozens-of-pharma-companies-raised-prices-faster-than-inflation-triggering-medicare-rebates/
 tags: statements-releases
@@ -51,52 +51,58 @@ Today, the Biden-Harris Administration is announcing the following:
     will have lower coinsurance than what they would have paid
     otherwise, and their out-of-pocket costs may decrease by $1 to as
     much as $2,786 per average dose.
+-   **Over the last four quarters, 64 drugs in total had prices that
+    increased faster than inflation and may be subject to inflation
+    rebates because of the Inflation Reduction Act.** Some drugs, such
+    as Signifor, used to treat an endocrine disorder, raised prices
+    faster than inflation every quarter since the Inflation Reduction
+    Act’s inflation rebate provision went into effect. Some Medicare
+    beneficiaries who take Signifor could save $311 per monthly dose
+    starting January because of the law.
+-   **The Administration is focused on making sure medications developed
+    with taxpayer funds are available to Americans at reasonable
+    prices.** On average, Americans pay 2 to 3 times more than consumers
+    in other developed countries for prescription drugs. Last week, the
+    Administration announced a proposal to put drug companies on notice
+    if products developed using federal funds are not made available to
+    the public on reasonable terms, including based on price. The
+    proposal would promote the federal government’s ability to license a
+    patent — such as those used to create life-saving drugs — to a
+    competitor with the goal of increasing competition and bringing
+    costs down for families.
+-   Building off last week’s announcement, today HHS announced that the
+    Administration for Strategic Preparedness and Response (ASPR) is
+    making fair pricing a standard part of contract negotiations for
+    medical products developed or purchased as part of its commitment to
+    obtain best value for the US taxpayer. In September 2023, ASPR
+    finalized a Project NextGen contract agreement for a potentially
+    life-saving COVID-19 treatment being developed by Regeneron stating
+    if the product is commercialized, its list price in the United
+    States will be equal to or less than its retail price in comparable
+    global markets. Since then, ASPR has also included similar language
+    in recent agreements with CastleVax, Codagenix and Gritstone Bio,
+    developers of the first three vaccines selected for development
+    within Project NextGen. These clauses will be in effect if and when
+    a company’s candidate vaccine is selected to move into
+    ASPR-supported Phase 2b trials to evaluate clinical safety and
+    efficacy.  These actions are the result of a successful and
+    collaborative approach by ASPR and its industry partners and show
+    HHS’s commitment to keep Americans from paying unfair prices for the
+    care they need.
 
-**Over the last four quarters, 64 drugs in total had prices that
-increased faster than inflation and may be subject to inflation rebates
-because of the Inflation Reduction Act.** Some drugs, such as Signifor,
-used to treat an endocrine disorder, raised prices faster than inflation
-every quarter since the Inflation Reduction Act’s inflation rebate
-provision went into effect. Some Medicare beneficiaries who take
-Signifor could save $311 per monthly dose starting January because of
-the law.
+<!-- -->
 
-**The Administration is focused on making sure medications developed
-with taxpayer funds are available to Americans at reasonable prices.**
-On average, Americans pay 2 to 3 times more than consumers in other
-developed countries for prescription drugs. Last week, the
-Administration announced a proposal to put drug companies on notice if
-products developed using federal funds are not made available to the
-public on reasonable terms, including based on price. The proposal would
-promote the federal government’s ability to license a patent — such as
-those used to create life-saving drugs — to a competitor with the goal
-of increasing competition and bringing costs down for families.
-
-Building off last week’s announcement, today HHS announced that the
-Administration for Strategic Preparedness and Response (ASPR) is making
-fair pricing a standard part of contract negotiations for medical
-products developed or purchased as part of its commitment to obtain best
-value for the US taxpayer. In September 2023, ASPR finalized a Project
-NextGen contract agreement for a potentially life-saving COVID-19
-treatment being developed by Regeneron stating if the product is
-commercialized, its list price in the United States will be equal to or
-less than its retail price in comparable global markets. Since then,
-ASPR has also included similar language in recent agreements with
-CastleVax, Codagenix and Gritstone Bio, developers of the first three
-vaccines selected for development within Project NextGen. These clauses
-will be in effect if and when a company’s candidate vaccine is selected
-to move into ASPR-supported Phase 2b trials to evaluate clinical safety
-and efficacy.  These actions are the result of a successful and
-collaborative approach by ASPR and its industry partners and show HHS’s
-commitment to keep Americans from paying unfair prices for the care they
-need.
-
--   The report shows that total Medicare spending on the 10 drugs more
-    than doubled from 2018 to 2022 – a rate that was 3 times faster than
-    all Part D drugs over the same period.The report also shows that 7
-    of the 10 drugs selected received direct at least one form of
-    federal support towards their drug development or utilized a
-    federal-funded invention for their development.
+-   **HHS is releasing new data on the ten drugs selected for Medicare
+    Drug Price Negotiation. For Medicare enrollees who take these drugs,
+    their out-of-pocket spending on the 10 drugs selected for
+    negotiation represents, on average, over half of their total Part D
+    out-of-pocket spending.** The report shows that total Medicare
+    spending on the 10 drugs more than doubled from 2018 to 2022 – a
+    rate that was 3 times faster than all Part D drugs over the same
+    period.The report also shows that 7 of the 10 drugs selected
+    received direct at least one form of federal support towards their
+    drug development or utilized a federal-funded invention for their
+    development.
 
 After decades and hundreds of billions of dollars spent by Big Pharma to
 block Medicare from directly negotiating lower prescription drug prices
