@@ -1,6 +1,6 @@
 ---
 date: '2023-12-14'
-modified_time: 2023-12-13 21:37:13-05:00
+modified_time: 2023-12-14 09:41:28-05:00
 published_time: 2023-12-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-dozens-of-pharma-companies-raised-prices-faster-than-inflation-triggering-medicare-rebates/
 tags: statements-releases
@@ -13,7 +13,7 @@ price gouging, saving some seniors thousands of dollars per dose of
 medication*
 
 Today, President Biden will visit the National Institutes of Health
-Clinical Center in Washington, D.C. to announce that dozens of
+Clinical Center in Bethesda, Maryland to announce that dozens of
 pharmaceutical companies will be required to pay rebates to Medicare for
 outrageous price hikes on prescription drugs that over 750,000 seniors
 take per year. For the last quarter of 2023, 48 Medicare Part B drugs
