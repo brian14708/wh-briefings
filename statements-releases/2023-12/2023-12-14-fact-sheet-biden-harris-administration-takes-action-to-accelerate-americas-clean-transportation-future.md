@@ -1,6 +1,6 @@
 ---
 date: '2023-12-14'
-modified_time: 2023-12-14 08:42:35-05:00
+modified_time: 2023-12-15 09:04:02-05:00
 published_time: 2023-12-14 11:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-takes-action-to-accelerate-americas-clean-transportation-future/
 tags: statements-releases
@@ -84,7 +84,7 @@ Federal agencies are being directed through an [Office of Management and
 Budget (OMB)
 Memorandum](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/)
 and [U.S. General Services Administration Travel
-Bulletin](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation/ftr-and-related-files#TravelPerDiemBulletins)
+Bulletin](https://www.gsa.gov/system/files/FTR%20Bulletin%2024-02_%20Sustainable%20Transportation%20for%20Official%20Travel.pdf)
 to take a comprehensive series of steps to ensure sustainable travel
 options are easily accessible to employees when booking travel
 arrangements. Agencies will have 120 days from today’s announcement to
@@ -97,8 +97,8 @@ guidance by June 2024 to state employees, encouraging the use of Zero
 Emission Vehicle commercial rentals on official travel where available
 and operationally feasible.  
   
-**<u>Private Sector</u>** **<u>Commitments to Catalyze a Clean
-Transportation Future</u>**  
+**<u>Private Sector Commitments to Catalyze a Clean Transportation
+Future</u>**  
   
 In order to grow sustainable travel options nationwide, the Federal
 government, the travel industry, major corporations, and state, local,
