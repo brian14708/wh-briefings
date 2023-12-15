@@ -1,5 +1,6 @@
 ---
 date: '2023-12-13'
+modified_time: 2023-12-15 13:53:51-05:00
 published_time: 2023-12-13 17:51:47-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-white-house-hosts-american-rescue-plan-funded-community-navigators-and-small-business-owners-reiterates-call-for-continued-support/
 tags: statements-releases
@@ -29,12 +30,14 @@ provided competitive funding to 51 organizations that worked with
 hundreds of local groups to connect entrepreneurs to resources to help
 their small businesses recover and thrive. 
 
-SBA analysis illustrates how the program is meeting small businesses
-where they are and helping to close resource, capital, and educational
-gaps for historically underserved small businesses by connecting
-entrepreneurs to trusted and culturally competent service providers in
-their communities. It demonstrates key features of the Community
-Navigator program’s success:
+[SBA
+analysis](https://www.sba.gov/sites/default/files/2023-12/2023-December-SBA%20Community%20Navigator%20Q7%20Snapshot-Public%20Facing-FINAL508.pdf)
+illustrates how the program is meeting small businesses where they are
+and helping to close resource, capital, and educational gaps for
+historically underserved small businesses by connecting entrepreneurs to
+trusted and culturally competent service providers in their communities.
+It demonstrates key features of the Community Navigator program’s
+success:
 
 -   <span style="text-decoration: underline">Wide-reaching:</span> In
     less than two years Community Navigator grantees have successfully
