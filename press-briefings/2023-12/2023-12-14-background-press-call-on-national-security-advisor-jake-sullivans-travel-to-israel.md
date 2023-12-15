@@ -1,6 +1,6 @@
 ---
 date: '2023-12-14'
-modified_time: 2023-12-15 11:12:22-05:00
+modified_time: 2023-12-15 12:27:23-05:00
 published_time: 2023-12-14 21:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/14/background-press-call-on-national-security-advisor-jake-sullivans-travel-to-israel/
 tags: press-briefings
@@ -201,10 +201,11 @@ MODERATOR:  For those interested in asking a question, you can use the
 Our first question will go to Aamer with the AP.  Aamer, you should be
 able to unmute yourself.  
   
-Q    Thank you, Brett.  You mentioned that some of the reporting on the
-timetable has been inaccurate.  Was there any specific ask or call for
-when the President would like to see the high-intensity combat wind
-down?  Is there a specific timetable that the administration sees?  
+Q    Thank you, \[senior administration official\].  You mentioned that
+some of the reporting on the timetable has been inaccurate.  Was there
+any specific ask or call for when the President would like to see the
+high-intensity combat wind down?  Is there a specific timetable that the
+administration sees?  
   
 And then, secondly, if you can just talk a little bit more to the visit
 to Ramallah tomorrow.  What makes you think that the Gazans want the PA,
