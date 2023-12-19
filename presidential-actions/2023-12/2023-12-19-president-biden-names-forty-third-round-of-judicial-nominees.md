@@ -1,6 +1,6 @@
 ---
 date: '2023-12-19'
-modified_time: 2023-12-18 18:24:22-05:00
+modified_time: 2023-12-19 15:09:34-05:00
 published_time: 2023-12-19 08:15:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/19/president-biden-names-forty-third-round-of-judicial-nominees/
 tags: presidential-actions
@@ -32,8 +32,8 @@ The President has now announced 26 nominees to serve as U.S. Marshals.
   
 **<u>United States District Court Announcements</u>**
 
-1.  **<u>Judge Ann Marie McIff Allen: Nominee for the United States
-    District Court for the District of Utah</u>**
+1\. **<u>Judge Ann Marie McIff Allen: Nominee for the United States
+District Court for the District of Utah</u>**
 
 Judge Ann Marie McIff Allen has been a judge on Utah’s Fifth District
 Court in Cedar City since 2020. She previously worked at Southern Utah
@@ -47,8 +47,8 @@ after working in private practice at Jensen, Graff and Barnes, LLP from
 received her J.D. from Brigham Young University’s J. Reuben Clark Law
 School in 1997 and her B.A. from Brigham Young University in 1994.
 
-1.  **<u>Judge Susan M. Bazis: Nominee for the United States District
-    Court for the District of Nebraska</u>**
+2\. **<u>Judge Susan M. Bazis: Nominee for the United States District
+Court for the District of Nebraska</u>**
 
 Judge Susan M. Bazis has been a United States Magistrate Judge on the
 U.S. District Court for the District of Nebraska since 2017. From 2007
@@ -62,8 +62,8 @@ Office from 1994 to 1996. She received her J.D. from Creighton
 University School of Law in 1993 and her B.S., *magna cum laude*, from
 the University of Nebraska at Omaha in 1990.
 
-1.  **<u>Ernesto “Ernest” Gonzalez: Nominee for the United States
-    District Court for the Western District of Texas</u>**
+3\. **<u>Ernesto “Ernest” Gonzalez: Nominee for the United States
+District Court for the Western District of Texas</u>**
 
 Ernest Gonzalez has been a Senior Attorney Advisor in the U.S.
 Department of Justice’s Criminal Division, Narcotics and Dangerous Drugs
@@ -77,8 +77,8 @@ from the Thurgood Marshall School of Law at Texas Southern University in
 Houston in 1993 and his B.A. from the University of Texas at San Antonio
 in 1987.
 
-1.  **<u>Judge Kelly H. Rankin: Nominee for the United States District
-    Court for the District of Wyoming</u>**
+4\. **<u>Judge Kelly H. Rankin: Nominee for the United States District
+Court for the District of Wyoming</u>**
 
 Judge Kelly H. Rankin has been the Chief United States Magistrate Judge
 for the District of Wyoming since 2012. Previously, Judge Rankin served
@@ -95,8 +95,8 @@ Attorney’s Office from 1994 to 1995. Judge Rankin received his J.D. from
 the University of Wyoming College of Law in 1994 and his B.S. from the
 University of Wyoming in 1990.
 
-1.  **<u>Judge Leon Schydlower: Nominee for the United States District
-    Court for the Western District of Texas</u>**
+5\. **<u>Judge Leon Schydlower: Nominee for the United States District
+Court for the Western District of Texas</u>**
 
 Judge Leon Schydlower has been a United States Magistrate Judge on the
 U.S. District Court for the Western District of Texas since 2015. He
@@ -115,8 +115,8 @@ University of Texas at Austin in 1993.
 
 **United States Court of Federal Claims Announcement**
 
-1.  **<u>Judge Robin M. Meriweather: Nominee for the United States Court
-    of Federal Claims</u>**
+1\. **<u>Judge Robin M. Meriweather: Nominee for the United States Court
+of Federal Claims</u>**
 
 Judge Robin M. Meriweather has been a United States Magistrate Judge on
 the U.S. District Court for the District of Columbia since 2017. Judge
@@ -132,8 +132,8 @@ School in 1998 and her B.A. from the University of Michigan in 1995.
   
 **United States Marshal Announcements**
 
-1.  **<u>Joseph R. “Joe” Adams: Nominee for United States Marshal for
-    the Northern District of West Virginia</u>**
+1\. **<u>Joseph R. “Joe” Adams: Nominee for United States Marshal for
+the Northern District of West Virginia</u>**
 
 Joe R. Adams has been Chief of Police in Westover, West Virginia, since
 2020. He previously served in the West Virginia State Police from 1990
@@ -143,8 +143,8 @@ Criminal Justice in 1992, his Associate’s Degree in Police Science in
 1991, and his B.S. in Criminal Justice in 1988, all from Marshall
 University in Huntington, West Virginia.
 
-1.  **<u>Gary D. Grimes: Nominee for United States Marshal for the
-    Western District of Arkansas</u>**
+2\. **<u>Gary D. Grimes: Nominee for United States Marshal for the
+Western District of Arkansas</u>**
 
 Gary D. Grimes has been the principal owner of Grimes & Associates, LLC,
 a law enforcement, security, and government affairs consultancy, since
