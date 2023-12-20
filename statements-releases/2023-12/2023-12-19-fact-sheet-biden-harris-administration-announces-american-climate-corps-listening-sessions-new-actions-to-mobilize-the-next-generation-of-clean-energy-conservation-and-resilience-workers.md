@@ -1,6 +1,6 @@
 ---
 date: '2023-12-19'
-modified_time: 2023-12-19 13:56:29-05:00
+modified_time: 2023-12-19 17:50:16-05:00
 published_time: 2023-12-19 12:31:23-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-announces-american-climate-corps-listening-sessions-new-actions-to-mobilize-the-next-generation-of-clean-energy-conservation-and-resilience-workers/
 tags: statements-releases
@@ -54,12 +54,12 @@ will convene a series of virtual listening sessions to hear directly
 from prospective American Climate Corps applicants and implementing
 partners, including conservation and service corps partners, labor
 unions, educational institutions, employer partners, and state, local,
-and Tribal governments about their priorities for the American Climate
-Corps. Each listening session will last roughly 90 minutes and will
-provide participants with the opportunity to engage directly with
-Administration officials who are overseeing the initiative, as the
-Administration works to establish the first cohort of American Climate
-Corps members by next summer.   
+territorial and Tribal governments about their priorities for the
+American Climate Corps. Each listening session will last roughly 90
+minutes and will provide participants with the opportunity to engage
+directly with Administration officials who are overseeing the
+initiative, as the Administration works to establish the first cohort of
+American Climate Corps members by next summer.   
   
 More information about the virtual listening sessions can be found
 [here](http://www.whitehouse.gov/climatecorps).   
