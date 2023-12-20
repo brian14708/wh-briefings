@@ -1,6 +1,6 @@
 ---
 date: '2023-12-20'
-modified_time: 2023-12-20 11:44:33-05:00
+modified_time: 2023-12-20 13:50:55-05:00
 published_time: 2023-12-20 12:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-strengthening-u-s-international-space-partnerships/
 tags: statements-releases
@@ -194,7 +194,7 @@ The Vice President is announcing the following initiatives:
     collaboration, grow and diversify space-related STEM education and
     the workforce, and strengthen the U.S. industrial base.  The report
     will be posted
-    [here](https://www.nasa.gov/wp-content/uploads/2023/12/nspc-space-manufacturing-technology-report-rev-12.20.23-final.pdf.).
+    [here](https://www.nasa.gov/wp-content/uploads/2023/12/nspc-space-manufacturing-technology-report-rev-12.20.23-final.pdf).
 -   **New Public-Private Partnership:** NSF will launch a new
     public-private partnership through NSF’s Geodetic Facility for the
     Advancement of Geoscience that has developed a commercial data
