@@ -1,6 +1,6 @@
 ---
 date: '2023-12-20'
-modified_time: 2023-12-20 16:14:57-05:00
+modified_time: 2023-12-20 21:31:28-05:00
 published_time: 2023-12-20 16:14:56-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-at-the-wisconsin-black-chamber-of-commerce/
 tags: speeches-remarks
@@ -315,8 +315,8 @@ educate people.
   
 And, folks, by the way, I — I went to the Supreme Court my — to
 eliminate student debt that was out there.  And guess what? 
-(Applause.)  The Supreme Court ruled against it.  But I still got 136
-million people’s debt relieved.  (Applause.)  
+(Applause.)  The Supreme Court ruled against it.  But I still got
+<s>136</s> \[3.6\] million people’s debt relieved.  (Applause.)  
   
 Because guess what?  The interest they’re paying on that debt is
 something that prevents them from buying a home, starting a busi- — all
