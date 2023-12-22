@@ -1,5 +1,6 @@
 ---
 date: '2023-12-22'
+modified_time: 2023-12-22 11:20:39-05:00
 published_time: 2023-12-22 07:51:47-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/fact-sheet-biden-administration-expands-u-s-sanctions-authorities-to-target-financial-facilitators-of-russias-war-machine/
 tags: statements-releases
@@ -7,13 +8,13 @@ title: "FACT SHEET: Biden Administration Expands U.S. Sanctions Authorities to T
   \ Financial Facilitators of Russia\u2019s War\_Machine"
 ---
  
-Today, President Biden intends to sign a new Executive Order (E.O.) that
+Today, President Biden signed a new Executive Order (E.O.) that
 strengthens U.S. sanctions authorities against financial facilitators of
-Russia’s war machine.  The E.O. will make clear to foreign financial
+Russia’s war machine.  The E.O. makes clear to foreign financial
 institutions that they risk losing access to the U.S. financial system
 if they facilitate significant transactions relating to Russia’s
-military industrial base.  The E.O. will also provide authority to
-broaden U.S. import bans on certain Russian goods.   
+military industrial base.  The E.O. also provides authority to broaden
+U.S. import bans on certain Russian goods.   
   
 In response to Russia’s unprovoked war on Ukraine, the Biden
 Administration has worked actively with our allies and partners around
@@ -46,8 +47,8 @@ industrial base</u>**
 As Russia creates cutouts and front companies to circumvent our
 restrictions and uses both witting and unwitting financial
 intermediaries, the new E.O. provides additional tools to root out
-Russia’s procurement networks.  This E.O. will amend Executive Order
-14024 to expand U.S. authority to sanction:
+Russia’s procurement networks.  This E.O. amends Executive Order 14024
+to expand U.S. authority to sanction:
 
 -   Financial institutions determined to have conducted or facilitated
     any significant transaction for or on behalf of companies or
@@ -81,8 +82,8 @@ products are then transformed in a third country. 
   
 **<u>Seafood imports</u>**  
   
-Similarly, the amendment to E.O. 14068 will provide the authority to
-ban, following a determination from appropriate U.S. departments and
+Similarly, the amendment to E.O. 14068 provides the authority to ban,
+following a determination from appropriate U.S. departments and
 agencies, the importation of certain products harvested in Russian
 waters or by Russia-flagged vessels, even if these products are then
 transformed in a third country.  The Department of the Treasury intends
