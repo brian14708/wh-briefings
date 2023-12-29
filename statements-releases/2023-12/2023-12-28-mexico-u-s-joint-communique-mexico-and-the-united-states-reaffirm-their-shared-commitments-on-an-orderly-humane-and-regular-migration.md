@@ -1,6 +1,6 @@
 ---
 date: '2023-12-28'
-modified_time: 2023-12-28 14:18:42-05:00
+modified_time: 2023-12-28 17:57:55-05:00
 published_time: 2023-12-28 14:18:41-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/28/mexico-u-s-joint-communique-mexico-and-the-united-states-reaffirm-their-shared-commitments-on-an-orderly-humane-and-regular-migration/
 tags: statements-releases
@@ -19,13 +19,13 @@ telephone conversation last week focused on migration management.
 The two countries reaffirmed their existing commitments on fostering an
 orderly, humane, and regular migration. This includes reinforcing our
 partnership to address the root causes of migration, such as poverty,
-inequality, democratic decline, and violence, and for the two countries’
-initiative for Cubans, Haitians, Nicaraguans and Venezuelans. Ongoing
-cooperation also includes enhanced efforts to disrupt human smuggling,
-trafficking, and criminal networks, and continuing the work to promote
-legal instead of irregular migration pathways. Also, both delegations
-agreed on the importance of maintaining and facilitating the vital
-bilateral trade at our shared border.
+inequality, and violence, and for the two countries’ initiative for
+Cubans, Haitians, Nicaraguans and Venezuelans. Ongoing cooperation also
+includes enhanced efforts to disrupt human smuggling, trafficking, and
+criminal networks, and continuing the work to promote legal instead of
+irregular migration pathways. Also, both delegations agreed on the
+importance of maintaining and facilitating the vital bilateral trade at
+our shared border.
 
 President López Obrador highlighted the commitment of President Biden to
 pursue regular, orderly, and secure migration. He stressed the need to
