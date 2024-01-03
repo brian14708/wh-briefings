@@ -1,12 +1,12 @@
 ---
 date: '2024-01-03'
-modified_time: 2024-01-03 12:39:17-05:00
+modified_time: 2024-01-03 15:22:38-05:00
 published_time: 2024-01-03 12:38:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/03/a-joint-statement-from-the-governments-of-the-united-states-australia-bahrain-belgium-canada-denmark-germany-italy-japan-netherlands-new-zealand-and-the-united-kingdom/
 tags: statements-releases
 title: "A Joint Statement from the Governments of the United\_States, Australia, Bahrain,\
-  \ Belgium, Canada, Denmark, Germany, Italy, Japan, Netherlands, New Zealand, and\
-  \ the United\_Kingdom"
+  \ Belgium, Canada, Denmark, Germany, Italy, Japan, Netherlands, New Zealand, Singapore,\
+  \ and the United\_Kingdom"
 ---
  
 Recognizing the broad consensus as expressed by 44 countries around the
