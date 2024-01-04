@@ -1,6 +1,6 @@
 ---
 date: '2023-12-30'
-modified_time: 2023-12-30 13:59:27-05:00
+modified_time: 2024-01-04 14:47:51-05:00
 published_time: 2023-12-30 13:59:26-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/30/fact-sheet-biden-%e2%81%a0harris-administration-releases-global-health-security-partnerships-annual-progress-report-demonstrating-results-from-united-states-investments/
 tags: statements-releases
@@ -26,7 +26,7 @@ across the world. 
 To show the American people the impact of these life-saving investments,
 the Administration is releasing its annual report, *[Progress and Impact
 of U.S. Government Investments in Global Health
-Security](https://www.whitehouse.gov/wp-content/uploads/2023/12/Strengthening-Health-Security-Across-the-Globe.pdf) *today. This
+Security](https://www.whitehouse.gov/wp-content/uploads/2024/01/GHS-FY-22-Annual-Progress-Report-010423.pdf) *today. This
 report highlights the Administration’s bold actions to accelerate
 implementation of the [National Biodefense Strategy and Implementation
 Plan for Countering Biological Threats, Enhancing Pandemic Preparedness,
