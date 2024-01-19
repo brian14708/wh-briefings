@@ -1,6 +1,6 @@
 ---
 date: '2024-01-19'
-modified_time: 2024-01-18 18:43:35-05:00
+modified_time: 2024-01-19 10:29:48-05:00
 published_time: 2024-01-19 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/
 tags: statements-releases
@@ -27,14 +27,16 @@ chargers across the country**, putting us on track to deploy 500,000
 chargers by 2026 – achieving the President’s goal four years early.
 
 To continue building on this unprecedented progress, today, **the
-Department of Treasury and the Department of Energy **are releasing
-intended definitions for eligible census tracts that will **confirm
-thatthe Inflation Reduction Act’s 30C EV charging tax credit is
-available to approximately two-thirds of Americans**. This tax credit
-provides up to 30% off the cost of the charger to individuals and
-businesses in low-income communities and non-urban areas, making it more
-affordable to install EV charging infrastructure and increasing access
-to EV charging in underserved communities.
+Department of Treasury and the Department of Energy **are [releasing
+intended
+definitions](https://www.anl.gov/esia/refueling-infrastructure-tax-credit)
+for eligible census tracts that will **confirm that the Inflation
+Reduction Act’s 30C EV charging tax credit is available to approximately
+two-thirds of Americans**. This tax credit provides up to 30% off the
+cost of the charger to individuals and businesses in low-income
+communities and non-urban areas, making it more affordable to install EV
+charging infrastructure and increasing access to EV charging in
+underserved communities.
 
 In addition, **the Departments of Transportation and Energy are
 announcing $325 million in new investments this week across three
@@ -93,9 +95,10 @@ benefits communities everywhere:</span>
     credit to approximately two-thirds of the U.S. population – focusing
     on those in low-income communities and non-urban areas. Alongside
     Treasury’s guidance, the Department of Energy (DOE) is releasing a
-    mapping tool to help households and businesses quickly identify
-    whether they are eligible for the tax credit under the proposed
-    regulations.  
+    [mapping
+    tool](https://experience.arcgis.com/experience/3f67d5e82dc64d1589714d5499196d4f/page/Page/)
+    to help households and businesses quickly identify whether they are
+    eligible for the tax credit under the proposed regulations.  
 -   **Strengthening the Foundation for the EV Charging
     Industry: **Today, the Joint Office of Energy and Transportation
     announced over $46 million in awards through their Ride and Drive
