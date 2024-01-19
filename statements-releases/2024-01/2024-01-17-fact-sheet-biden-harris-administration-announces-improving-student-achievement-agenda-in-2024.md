@@ -1,6 +1,6 @@
 ---
 date: '2024-01-17'
-modified_time: 2024-01-17 15:47:10-05:00
+modified_time: 2024-01-19 11:36:29-05:00
 published_time: 2024-01-17 15:34:25-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/
 tags: statements-releases
@@ -88,7 +88,8 @@ and
 [Greensboro](https://studentsupportaccelerator.com/news/greensboro-tutoring-collaborative-aims-reverse-pandemic-learning-losses),
 have leveraged American Rescue Plan funding to scale strategies with
 promising evidence of positive impact as the Department of Education has
-[long](https://bestpracticesclearinghouse.ed.gov/events.aspx)[promoted](https://www.partnershipstudentsuccess.org/a-year-in-review-the-national-partnership-for-student-success/).
+[long](https://bestpracticesclearinghouse.ed.gov/events.aspx)
+[promoted](https://www.partnershipstudentsuccess.org/a-year-in-review-the-national-partnership-for-student-success/).
 When implemented well, high-dosage tutoring can reduce burdens on
 teachers and complement other school-based activities such as building
 educator capacity through the use of math and literacy coaches, which
@@ -137,6 +138,10 @@ commitments</u>:**
     philanthropic organizations, , and others on:
 
 <table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><strong>Strategy</strong></td>
@@ -144,30 +149,32 @@ commitments</u>:**
 </tr>
 <tr class="even">
 <td>Reducing Absenteeism</td>
-<td># parents reached with letters, texts, or calls to encourage
-consistent attendance# home visits and other evidence-based
-interventions for students</td>
+<td>– # parents reached with letters, texts, or calls to encourage
+consistent attendance<br />
+– # home visits and other evidence-based interventions for students</td>
 </tr>
 <tr class="odd">
 <td>High-Dosage Tutoring</td>
-<td># tutors delivering and # and % of students receiving evidence-based
-tutoring between January and June 2024# tutors delivering and # and % of
-students receiving evidence-based tutoring in 2024-2025 school year</td>
+<td>– # tutors delivering and # and % of students receiving
+evidence-based tutoring between January and June 2024<br />
+– # tutors delivering and # and % of students receiving evidence-based
+tutoring in 2024-2025 school year</td>
 </tr>
 <tr class="even">
 <td>Summer Learning and Extended or Afterschool Learning Time</td>
-<td># weeks of evidence-based summer learning and enrichment for # and %
-of students# days of extended school day or year for # and % of
-students# days of afterschool programs for # and % of students</td>
+<td>– # weeks of evidence-based summer learning and enrichment for # and
+% of students<br />
+– # days of extended school day or year for # and % of students<br />
+– # days of afterschool programs for # and % of students</td>
 </tr>
 </tbody>
 </table>
 
-1.  **Using Data and School Improvement Requirements under the
-    Elementary and Secondary Education Act (ESEA) to Advance the
-    Improving Student Success Agenda.** To complement these State and
-    local actions, the Department of Education will work with States to
-    improve school performance by:
+2\. **Using Data and School Improvement Requirements under the
+Elementary and Secondary Education Act (ESEA) to Advance the Improving
+Student Success Agenda.** To complement these State and local actions,
+the Department of Education will work with States to improve school
+performance by:
 
 -   **Conducting additional monitoring so that States more effectively
     implement evidence-based responses to challenges.** Under ESEA, as
@@ -238,18 +245,17 @@ the greatest need.
     districts with faster rates of recovery with schools and districts
     struggling more as part of a professional learning community.
 
-1.  **Enabling States to Continue Spending Pandemic Relief Funds on
-    Academic Achievement into the 2024-25 School Year and Directing
-    Resources to Support Stronger Outcomes.** The Department has issued
-    a
-    [letter](/Users/Sarah.Mehrotra/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6MX2QTLT/ARP-Liquidation-Extension-Letter-1.9.24-final-for-signature-v3.pdf%20(ed.gov)),
-    [Frequently Asked
-    Questions](/Users/Sarah.Mehrotra/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6MX2QTLT/Updated-Technical-FAQs-for-Liquidation-Extensions-1.9.24-v-2-for-posting.pdf),
-    and
-    [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Foese.ed.gov%2Ffiles%2F2024%2F01%2FARP-ESSER-EANS-Liquidation-Extension-Request-1.10.24-v3.xlsx&wdOrigin=BROWSELINK)
-    to support States and provide **a critical pathway to continue to
-    use ARP dollars in the 2024-2025 school year on academic supports
-    like high-dosage tutoring.** Additionally, the Department is:
+2\. **Enabling States to Continue Spending Pandemic Relief Funds on
+Academic Achievement into the 2024-25 School Year and Directing
+Resources to Support Stronger Outcomes.** The Department has issued a
+[letter](https://oese.ed.gov/files/2024/01/ARP-Liquidation-Extension-Letter-1.9.24-final-for-signature-v3.pdf),
+[Frequently Asked
+Questions](https://oese.ed.gov/files/2024/01/Updated-Technical-FAQs-for-Liquidation-Extensions-1.9.24-v-2-for-posting.pdf),
+and
+[template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Foese.ed.gov%2Ffiles%2F2024%2F01%2FARP-ESSER-EANS-Liquidation-Extension-Request-1.10.24-v3.xlsx&wdOrigin=BROWSELINK)
+to support States and provide **a critical pathway to continue to use
+ARP dollars in the 2024-2025 school year on academic supports like
+high-dosage tutoring.** Additionally, the Department is:
 
 -   Advising States to use other Federal funding, including Title I and
     Title IV funding under ESEA, to support tutoring, afterschool and
@@ -320,10 +326,9 @@ the greatest need.
 **Today, several philanthropic and national organizations are announcing
 commitments to support academic achievement. The Administration will
 continue to work with these kinds of organizations to further build on
-these commitments.
-[R](https://www.whitehouse.gov/wp-content/uploads/2024/01/Philanthropic-and-Organization-Commitments-Final.pdf)[ead
-about the commitments from the organizations below
-here:](https://www.whitehouse.gov/wp-content/uploads/2024/01/EMBARGOED-Philanthropic-and-Organization-Committments.pdf)**
+these commitments. [Read about the commitments from the organizations
+below
+here:](https://www.whitehouse.gov/wp-content/uploads/2024/01/R-Philanthropic-Commitments-FINAL.pdf)**
 
 -   Afterschool Alliance
 -   Attendance Works
