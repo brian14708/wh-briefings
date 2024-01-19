@@ -1,10 +1,10 @@
 ---
 date: '2024-01-19'
-modified_time: 2024-01-18 18:58:02-05:00
+modified_time: 2024-01-19 07:34:44-05:00
 published_time: 2024-01-19 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/statement-by-president-joe-biden-on-nearly-5-billion-in-additional-student-debt-cancellation-for-74000-borrowers/
 tags: statements-releases
-title: "Statement by President Joe\_Biden on Nearly $5 Billion in Additional Student\
+title: "Statement from President Joe\_Biden on Nearly $5 Billion in Additional Student\
   \ Debt Cancellation for 74,000\_Borrowers"
 ---
  
