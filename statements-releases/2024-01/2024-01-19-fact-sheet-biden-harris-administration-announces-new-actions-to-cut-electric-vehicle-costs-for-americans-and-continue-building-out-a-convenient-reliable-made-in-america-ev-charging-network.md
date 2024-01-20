@@ -1,6 +1,6 @@
 ---
 date: '2024-01-19'
-modified_time: 2024-01-19 10:29:48-05:00
+modified_time: 2024-01-19 18:45:04-05:00
 published_time: 2024-01-19 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/
 tags: statements-releases
@@ -29,7 +29,7 @@ chargers by 2026 – achieving the President’s goal four years early.
 To continue building on this unprecedented progress, today, **the
 Department of Treasury and the Department of Energy **are [releasing
 intended
-definitions](https://www.anl.gov/esia/refueling-infrastructure-tax-credit)
+definitions](https://www.irs.gov/credits-deductions/alternative-fuel-vehicle-refueling-property-credit)
 for eligible census tracts that will **confirm that the Inflation
 Reduction Act’s 30C EV charging tax credit is available to approximately
 two-thirds of Americans**. This tax credit provides up to 30% off the
