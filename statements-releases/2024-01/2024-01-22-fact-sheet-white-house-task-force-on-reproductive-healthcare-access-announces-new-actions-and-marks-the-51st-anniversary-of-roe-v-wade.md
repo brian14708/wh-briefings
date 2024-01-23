@@ -1,6 +1,6 @@
 ---
 date: '2024-01-22'
-modified_time: 2024-01-21 18:54:12-05:00
+modified_time: 2024-01-23 08:51:41-05:00
 published_time: 2024-01-22 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/fact-sheet-white-house-task-force-on-reproductive-healthcare-access-announces-new-actions-and-marks-the-51st-anniversary-of-roe-v-wade/
 tags: statements-releases
@@ -39,12 +39,13 @@ announce new steps to:
     important in the wake of the Supreme Court’s decision to overturn
     *Roe v. Wade*—and reducing barriers that women face in accessing
     contraception prescribed by their provider. The Departments of the
-    Treasury, Labor, and Health and Human Services (HHS) are issuing new
-    guidance to clarify standards and support expanded coverage of a
-    broader range of FDA-approved contraceptives at no cost under the
-    Affordable Care Act. This action builds on the progress already made
-    by the Affordable Care Act to expand access to affordable
-    contraception for millions of women nationwide.  
+    Treasury, Labor, and Health and Human Services (HHS) are issuing
+    [new guidance](https://www.cms.gov/files/document/faqs-part-64.pdf)
+    to clarify standards and support expanded coverage of a broader
+    range of FDA-approved contraceptives at no cost under the Affordable
+    Care Act. This action builds on the progress already made by the
+    Affordable Care Act to expand access to affordable contraception for
+    millions of women nationwide.  
       
     In addition, the Office of Personnel Management will strengthen
     access to contraception for federal workers, retirees, and family
@@ -54,16 +55,17 @@ announce new steps to:
     the Federal Employee Health Benefits Program to take additional
     steps to educate enrollees about their contraception benefits.  
 -   **Reinforce Obligations to Cover Affordable Contraception.** The
-    Secretary of HHS is issuing a letter to private health insurers,
-    state Medicaid and Children’s Health Insurance Programs, and
-    Medicare plans about their obligations to cover contraception for
-    those they serve. The letter targets a wide range of payers to
-    advance compliance with existing standards and underscore the
-    Administration’s commitment to ensuring that women across the
-    country can access affordable contraception. The letter also
-    highlights recent HHS action to expand coverage and improve payment
-    for contraceptives for Medicare beneficiaries, improving access for
-    women with disabilities.  
+    Secretary of HHS is [issuing a
+    letter](https://www.hhs.gov/about/news/2024/01/22/hhs-secretary-xavier-becerra-announces-new-actions-increase-contraceptive-care-coverage-51st-anniversary-roe-v-wade.html)
+    to private health insurers, state Medicaid and Children’s Health
+    Insurance Programs, and Medicare plans about their obligations to
+    cover contraception for those they serve. The letter targets a wide
+    range of payers to advance compliance with existing standards and
+    underscore the Administration’s commitment to ensuring that women
+    across the country can access affordable contraception. The letter
+    also highlights recent HHS action to expand coverage and improve
+    payment for contraceptives for Medicare beneficiaries, improving
+    access for women with disabilities.  
 -   **Educate Patients and Health Care Providers on Their Rights and
     Obligations for Emergency Medical Care.** The Administration is
     committed to helping ensure all patients, including women who are
@@ -78,17 +80,20 @@ announce new steps to:
     To increase awareness of EMTALA and improve the procedures for
     ensuring that patients facing all types of medical emergencies
     receive the care to which they are entitled, HHS is announcing today
-    a comprehensive plan to educate all patients about their rights and
-    to help ensure hospitals meet their obligations under federal law.
-    This effort will include the launch of new accessible and
-    understandable resources about rights and protections for patients
-    under EMTALA and the process for submitting a complaint. HHS will
-    also disseminate training materials for health care providers and
-    establish a dedicated team of experts who will increase the
-    Department’s capacity to support hospitals and providers across the
-    country in complying with federal requirements—to help ensure that
-    every patient receives the emergency medical care required under
-    federal law.  
+    [a comprehensive
+    plan](https://www.cms.gov/newsroom/press-releases/cms-announces-new-actions-help-hospitals-meet-obligations-under-emtala)
+    to educate all patients about their rights and to help ensure
+    hospitals meet their obligations under federal law. This effort will
+    include the launch of [new accessible and understandable
+    resources](https://www.cms.gov/priorities/your-patient-rights/emergency-room-rights)
+    about rights and protections for patients under EMTALA and the
+    process for submitting a complaint. HHS will also disseminate
+    training materials for health care providers and establish a
+    dedicated team of experts who will increase the Department’s
+    capacity to support hospitals and providers across the country in
+    complying with federal requirements—to help ensure that every
+    patient receives the emergency medical care required under federal
+    law.  
 -   **Protect Access to Safe and Legal Medication Abortion.** One year
     ago today, President Biden issued a Presidential Memorandum
     directing further efforts to support patients, providers, and
