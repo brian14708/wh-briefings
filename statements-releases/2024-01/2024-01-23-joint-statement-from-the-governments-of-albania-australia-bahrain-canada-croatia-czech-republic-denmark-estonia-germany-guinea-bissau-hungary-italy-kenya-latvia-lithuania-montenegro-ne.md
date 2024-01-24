@@ -1,5 +1,6 @@
 ---
 date: '2024-01-23'
+modified_time: 2024-01-23 18:22:32-05:00
 published_time: 2024-01-23 17:07:02-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/joint-statement-from-the-governments-of-albania-australia-bahrain-canada-croatia-czech-republic-denmark-estonia-germany-guinea-bissau-hungary-italy-kenya-latvia-lithuania-montenegro-ne/
 tags: statements-releases
@@ -12,9 +13,9 @@ title: "Joint Statement from the Governments of Albania, Australia, Bahrain, Can
 In response to continued illegal and reckless Houthi attacks against
 vessels transiting the Red Sea and surrounding waterways, the armed
 forces of the United States and United Kingdom, with support from
-Australia, Bahrain, Canada, the Netherlands, and New Zealand, conducted
-additional strikes against eight targets in Houthi-controlled areas of
-Yemen in accordance with the inherent right of individual and collective
+Australia, Bahrain, Canada, and the Netherlands, conducted additional
+strikes against eight targets in Houthi-controlled areas of Yemen in
+accordance with the inherent right of individual and collective
 self-defense, consistent with the UN Charter.  These strikes were
 designed to disrupt and degrade the capability of the Houthis to
 continue their attacks on global trade and innocent mariners from around
