@@ -1,6 +1,6 @@
 ---
 date: '2024-01-25'
-modified_time: 2024-01-24 22:55:19-05:00
+modified_time: 2024-01-25 11:28:34-05:00
 published_time: 2024-01-25 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/
 tags: statements-releases
@@ -70,14 +70,14 @@ actions to help further promote safe storage and protect children:
 
 -   The U.S. Department of Education will take new action on safe
     firearm storage by sending [a letter to school
-    principals](https://www.whitehouse.gov/wp-content/uploads/2024/01/Safe-Firearm-Storage-Letter-to-School-Administrators.pdf) across
+    principals](https://www2.ed.gov/policy/gen/guid/secletter/012524.html) across
     the country explaining the importance of safe storage and
     encouraging them to communicate with parents, families, caregivers,
     and the broader community about how safe storage can protect
     students in school and in their communities.
 -   The U.S. Department of Education will also issue a [new
-    communication
-    template](https://www.whitehouse.gov/wp-content/uploads/2024/01/Safe-Firearm-Storage-Communications-Template.pdf) that
+    communications
+    template](https://rems.ed.gov/docs/Safe-Firearm-Storage) that
     principals and school leaders can use to engage with parents and
     families about the importance of safe firearm storage, and encourage
     more people to take preventive action by safely storing firearms.
