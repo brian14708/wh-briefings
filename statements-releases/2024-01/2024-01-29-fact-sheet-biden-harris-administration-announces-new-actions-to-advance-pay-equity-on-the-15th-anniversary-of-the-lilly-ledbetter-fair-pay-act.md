@@ -1,6 +1,6 @@
 ---
 date: '2024-01-29'
-modified_time: 2024-01-28 15:18:55-05:00
+modified_time: 2024-01-29 16:45:06-05:00
 published_time: 2024-01-29 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-pay-equity-on-the-15th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
 tags: statements-releases
@@ -33,19 +33,21 @@ Today, to implement those Executive Orders, the Biden-Harris
 Administration is announcing new actions to:
 
 -   **Advance pay equity for federal workers.** The Office of Personnel
-    Management (OPM) is issuing a final rule ensuring that more than 80
-    federal agencies will no longer consider an individual’s current or
-    past pay when determining the salaries of federal employees. Ending
-    the use of salary history in pay-setting decisions is a proven way
-    to help curb pay discrimination that can follow workers from job to
-    job and ensure that salaries are based on applicants’ skills,
-    experience, and expertise.
+    Management (OPM) is [issuing a final
+    rule](https://www.opm.gov/news/releases/2024/01/release-opm-finalizes-regulation-to-prohibit-use-of-non-federal-salary-history/#:~:text=The%20gender%20pay%20gap%20for,from%2024.5%25%20to%205.6%25.)
+    ensuring that more than 80 federal agencies will no longer consider
+    an individual’s current or past pay when determining the salaries of
+    federal employees. Ending the use of salary history in pay-setting
+    decisions is a proven way to help curb pay discrimination that can
+    follow workers from job to job and ensure that salaries are based on
+    applicants’ skills, experience, and expertise.
 
 <!-- -->
 
 -   **Promote economy, efficiency, and effectiveness in federal
     contracting by advancing pay equity and pay transparency.** The
-    Federal Acquisition Regulatory (FAR) Council is issuing a proposal
+    Federal Acquisition Regulatory (FAR) Council is [issuing a
+    proposal](https://www.federalregister.gov/public-inspection/2024-01343/acquisition-regulation-pay-equity-and-transparency-in-federal-contracting)
     to prohibit federal contractors and subcontractors from seeking and
     considering information about job applicants’ compensation history
     when hiring or setting pay for personnel working on or in connection
@@ -62,12 +64,13 @@ Administration is announcing new actions to:
 
 -   **Affirm equal pay obligations for federal contractors.** The
     Department of Labor’s (DOL’s) Office of Federal Contract Compliance
-    Programs is issuing guidance clarifying existing protections against
-    discrimination in hiring or pay decisions. The new guidance will
-    help federal contractors and current and prospective contractor
-    employees understand when reliance on an individual’s compensation
-    history for hiring or pay decisions may result in unlawful
-    discrimination.
+    Programs is [issuing
+    guidance](https://www.dol.gov/agencies/ofccp/faqs/compensationhistory)
+    clarifying existing protections against discrimination in hiring or
+    pay decisions. The new guidance will help federal contractors and
+    current and prospective contractor employees understand when
+    reliance on an individual’s compensation history for hiring or pay
+    decisions may result in unlawful discrimination.
 
 Today’s announcements build on previous actions the Biden-Harris
 Administration has taken to close wage gaps and strengthen women’s

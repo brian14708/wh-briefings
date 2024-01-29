@@ -1,6 +1,6 @@
 ---
 date: '2024-01-27'
-modified_time: 2024-01-27 16:06:03-05:00
+modified_time: 2024-01-29 16:52:30-05:00
 published_time: 2024-01-27 16:06:02-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/27/what-they-are-saying-leaders-praise-biden-harris-administration-pause-on-pending-decisions-of-liquefied-natural-gas-exports/
 tags: statements-releases
@@ -775,11 +775,11 @@ protect American communities from pollution and profiteering.”
 \[[Tweet](https://twitter.com/SenMarkey/status/1750876945988870495),
 1/26/2024\]
 
-**Missouri Congressman Jared Huffman:** “Thanks to @POTUS and Democrats,
-we’ve made historic progress in transitioning to clean energy and
-getting off our planet killing addiction to fossil fuels.  But we can’t
-talk out of both sides of our mouths here – that progress only works if
-we stop sending oil and gas overseas.”
+**California Congressman Jared Huffman:** “Thanks to @POTUS and
+Democrats, we’ve made historic progress in transitioning to clean energy
+and getting off our planet killing addiction to fossil fuels.  But we
+can’t talk out of both sides of our mouths here – that progress only
+works if we stop sending oil and gas overseas.”
 \[[Tweet](https://x.com/RepHuffman/status/1750690075900342533?s=20),
 1/26/24\]
 
