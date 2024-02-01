@@ -1,10 +1,11 @@
 ---
 date: '2024-02-01'
-modified_time: 2024-01-31 19:19:43-05:00
+modified_time: 2024-02-01 09:56:19-05:00
 published_time: 2024-02-01 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/president-biden-takes-on-big-pharma-and-is-lowering-prescription-drug-prices/
 tags: statements-releases
-title: "President\_Biden Takes On Big Pharma and Is Lowering Prescription Drug\_Prices"
+title: "Interested Parties Memo: President\_Biden Takes On Big Pharma and Is Lowering\
+  \ Prescription Drug\_Prices"
 ---
  
 After decades of opposition, President Biden enacted a law that finally
