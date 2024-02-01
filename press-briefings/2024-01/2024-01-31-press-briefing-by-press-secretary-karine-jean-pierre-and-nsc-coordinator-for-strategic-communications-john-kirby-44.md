@@ -1,6 +1,6 @@
 ---
 date: '2024-01-31'
-modified_time: 2024-01-31 16:57:05-05:00
+modified_time: 2024-01-31 19:27:38-05:00
 published_time: 2024-01-31 16:57:04-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/31/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-44/
 tags: press-briefings
@@ -99,8 +99,8 @@ We hope, for the sake of the country, House Republicans challen- —
 change course from their years of playing politics with this issue.  
   
 So, now , yesterday, a new IMF report found that the United States is
-leading the global economic recovery.  As Axios put it, the U.S. is
-winning the world economic war.  The United States economy grew faster
+leading the global economic recovery.  As Axios put it, “the U.S. is
+winning the world economic war.”  The United States economy grew faster
 than any other large, advanced econo- — economy last year by a wide
 margin and is on track to do so again in 2024.  
   
