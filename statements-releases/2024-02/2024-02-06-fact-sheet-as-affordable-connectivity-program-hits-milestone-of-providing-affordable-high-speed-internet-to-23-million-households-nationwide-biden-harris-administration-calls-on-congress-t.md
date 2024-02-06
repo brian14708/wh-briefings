@@ -1,6 +1,6 @@
 ---
 date: '2024-02-06'
-modified_time: 2024-02-05 19:06:06-05:00
+modified_time: 2024-02-06 07:46:12-05:00
 published_time: 2024-02-06 05:15:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-as-affordable-connectivity-program-hits-milestone-of-providing-affordable-high-speed-internet-to-23-million-households-nationwide-biden-harris-administration-calls-on-congress-t/
 tags: statements-releases
@@ -40,8 +40,8 @@ critical in order to access education, healthcare, and work, engage in
 precision agriculture, and keep in touch with loved ones. Still, too
 many are left without high-speed internet because they lack the
 infrastructure or are inhibited by high costs. In particular, these
-inequities impact communities of color, rural communities, veterans, and
-older Americans where the lack of affordable, reliable high-speed
+inequities impact underserved communities, rural communities, veterans,
+and older Americans where the lack of affordable, reliable high-speed
 internet contributes to significant economic, health and other
 disparities.  
   
