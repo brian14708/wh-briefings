@@ -1,6 +1,6 @@
 ---
 date: '2024-02-08'
-modified_time: 2024-02-07 23:10:28-05:00
+modified_time: 2024-02-08 16:07:51-05:00
 published_time: 2024-02-08 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/fact-sheet-the-biden-harris-administration-announces-historic-partnership-with-major-sports-leagues-and-players-unions/
 tags: statements-releases
@@ -76,16 +76,18 @@ commitments today:
     all young people and taking action to combat food insecurity –
     building upon activities at the All-Star Game in Indianapolis this
     month.  
--   **Major League Soccer (MLS)**: MLS will build on its work on
-    nutrition security for communities by expanding food recovery to
-    every MLS stadium and by surpassing last year’s 400,000 meal
-    donations during community service events.   
+-   **Major League Soccer (MLS)**: MLS is committed to supporting
+    nutrition security and helping to build healthy communities.  In
+    2024, the League will provide over 2.5 million meals to local
+    communities through MLS stadium food recovery programs and tentpole
+    League events.  
 -   **PGA Tour**: The PGA Tour will promote the physical and nutrition
-    benefits of the [Physical Activity Guidelines for
-    Americans](https://health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines)
-    and the [Dietary Guidelines for
-    Americans](https://www.dietaryguidelines.gov/) through events with
-    its charitable beneficiaries such as First Tee.  
+    benefits of the [Physical Activity Guidelines for
+    Americans](https://urldefense.com/v3/__https:/health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines__;!!EuSotcx3mN0!Jp5draVXbGIT598zYEGJt4ibUZDyknkz-Ley6tI6c5eqWcFCBNoyCBkcaMtWqvJ-HxW2ABCgOdV9pw-UBPvcaEIcRDeat5UDfw$) and
+    the [Dietary Guidelines for
+    Americans](https://urldefense.com/v3/__https:/www.dietaryguidelines.gov/__;!!EuSotcx3mN0!Jp5draVXbGIT598zYEGJt4ibUZDyknkz-Ley6tI6c5eqWcFCBNoyCBkcaMtWqvJ-HxW2ABCgOdV9pw-UBPvcaEIcRDdSQ9Ql8A$) with
+    charitable beneficiaries in its host communities who share a
+    commitment to health and wellness.  
 -   **National Women’s Soccer League (NWSL)**: The NWSL will leverage
     its 15 teams with players from across the globe to promote healthy
     eating, physical activity, nutrition messaging through their
