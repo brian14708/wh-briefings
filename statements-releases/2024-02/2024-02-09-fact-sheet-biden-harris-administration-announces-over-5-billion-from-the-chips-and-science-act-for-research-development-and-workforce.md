@@ -1,6 +1,6 @@
 ---
 date: '2024-02-09'
-modified_time: 2024-02-08 18:28:32-05:00
+modified_time: 2024-02-09 09:47:30-05:00
 published_time: 2024-02-09 06:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/fact-sheet-biden-harris-administration-announces-over-5-billion-from-the-chips-and-science-act-for-research-development-and-workforce/
 tags: statements-releases
@@ -57,12 +57,15 @@ including:
 -   **Planning to invest at least $5 billion in the NSTC**, which is now
     formally established as a Public-Private Consortium by the
     Secretaries of Commerce, Defense, and Energy, the Director of the
-    National Science Foundation, and Natcast CEO Deirdre Hanford;  
--   **Announcing NSTC research priorities for 2024,** laying the
-    groundwork to ensure the NSTC supports the U.S. in developing the
-    next generation of semiconductor technologies by supporting design,
-    prototyping, and piloting and through ensuring innovators have
-    access to critical capabilities; and  
+    National Science Foundation, and Natcast CEO Deirdre Hanford. The
+    NSTC will ensure the U.S. leads the way in the next generation of
+    semiconductor technologies by supporting the design, prototyping,
+    and piloting of the latest semiconductor technologies; leveraging
+    shared facilities and expertise to ensure innovators have access to
+    critical capabilities; and building and sustaining a skilled and
+    diverse semiconductor workforce;  
+-   **Announcing research priorities for the NSTC for 2024**, including
+    identifying early start research programs; and  
 -   **Launching the NSTC Community of Interest**, a no-cost,
     pre-membership program for interested stakeholders to provide input
     into the program offerings and structure of the NSTC.
