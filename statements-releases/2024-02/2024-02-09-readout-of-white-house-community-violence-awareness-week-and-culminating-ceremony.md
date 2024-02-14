@@ -1,6 +1,6 @@
 ---
 date: '2024-02-09'
-modified_time: 2024-02-09 22:29:27-05:00
+modified_time: 2024-02-14 13:42:05-05:00
 published_time: 2024-02-09 22:29:26-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/readout-of-white-house-community-violence-awareness-week-and-culminating-ceremony/
 tags: statements-releases
@@ -12,56 +12,60 @@ Today, the Vice President and the White House Office of Gun Violence
 Prevention (OGVP) hosted Community Violence Intervention leaders from
 across the country to recognize their efforts in reducing and preventing
 violence, and ultimately, saving lives. Community Violence Intervention
-programs are a key piece of the [President’s Safer America
+programs are a key piece of the [President’s Safer America
 Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/),
-with some behavioral science-informed CVI programs proven to [reduce
+with some behavioral science-informed CVI programs proven to [reduce
 violence by close to
 50%](https://crimelab.uchicago.edu/wp-content/uploads/sites/2/2023/06/ChoosetoChangeResearchBrief.pdf).
 
-The event at the White House included a recognition of including a
-recognition of the inaugural graduating cohort of the University of
-Chicago Crime Lab’s Community Violence Intervention Leadership Academy
-(CVILA), which provides Community Violence Intervention (CVI) leaders
-with the skills and resources they need to improve their organizations
-and support their mission to prevent and reduce gun violence and save
-lives in communities disproportionately harmed by the direct and
-indirect consequences of gun violence. 
+The event at the White House included a recognition of the inaugural
+graduating cohort of the University of Chicago Crime Lab’s Community
+Violence Intervention Leadership Academy (CVILA), which provides
+Community Violence Intervention (CVI) leaders with the skills and
+resources they need to improve their organizations and support their
+mission to prevent and reduce gun violence and save lives in communities
+disproportionately harmed by the direct and indirect consequences of gun
+violence. 
 
 In recognizing the CVILA cohort, Vice President Harris remarked, “The
 brilliance of this inaugural class and its leaders is the ability to see
 what can be, unburdened by what has been, and then to make it real in a
 way that will be replicated around our country. I congratulate everyone
 here and the graduates for all you have put into this and all you do for
-your communities.
+your communities.”
 
-**The Vice President’s full remarks can be viewed here: **[**Community
+**The Vice President’s full remarks can be viewed here:** [**Community
 Violence Awareness Week Culminating Ceremony
 (youtube.com)**](https://www.youtube.com/watch?v=8wzoLTM4tQk)
 
 The Community Violence Awareness Week culminating ceremony followed a
-week of activity by the Office of Gun Violence Prevention, which kicked
+week of activity by the Office of Gun Violence Prevention, which kicked
 off its Community Violence Awareness Week with a message from the
-President to gun violence prevention stakeholders nationwide. 
+President to gun violence prevention stakeholders nationwide.
 
-Other events for the week included. 
+Other events for the week included.
 
--   **Tuesday**: a virtual convening of Black leaders from across the
+-   **Tuesday**: a convening of Black elected officials from across the
     nation to discuss the unique impacts of gun violence on the Black
     community and the significance of evidence-informed and
     community-centered initiatives to disrupt violence
--   **Wednesday**: a virtual briefing with state legislators, local
-    leaders, and gun violence advocates on the various community safety
-    programs that are available through the Departments of Labor,
+-   **Wednesday**: a virtual briefing with over 800 state legislators,
+    local leaders, and gun violence advocates on the various community
+    safety programs that are available through the Departments of Labor,
     Education, and Justice to support community violence intervention,
     ensuring all interested stakeholders have an opportunity to learn
     about the plethora of resources available to them thanks to
     President Biden’s American Rescue Plan (ARP) and the Bipartisan
     Safer Communities Act (BSCA), as well as other federal programs.
--    **Thursday**: Youth Violence Prevention AmeriCorps Site visit with
-    OGVP Deputy Directors in Philadelphia Pennsylvania. 
+-    **Thursday**: the White House Office of Gun Violence Prevention
+    travelled to Philadelphia and joined leaders from the Mayor’s
+    Office, local law enforcement and survivors to see CVI strategies in
+    action, including the New Options, More Opportunities (NOMO)
+    Foundation, PowerCorpsPHL (an affiliate of AmeriCorps) and the
+    Temple University Hospital Victims Advocate program.  
 -   **Friday**: a national call with Black leaders to discuss the
     actions taken by OGVP and the President to reduce gun violence in
-    Black communities. 
+    Black communities.
 
 Biden-Harris Administration continues to make major investments in
 community violence intervention and other proven solutions to end the
@@ -121,3 +125,5 @@ assault weapons and high-capacity magazines, an end to the gun
 industry’s immunity from liability, and the passing of a national red
 flag law. As the President has said, this senseless violence is not
 normal and it is fully within our power to stop it.
+
+\###
