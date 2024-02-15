@@ -1,6 +1,6 @@
 ---
 date: '2024-02-14'
-modified_time: 2024-02-14 19:28:24-05:00
+modified_time: 2024-02-14 19:49:35-05:00
 published_time: 2024-02-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
@@ -14,7 +14,7 @@ ambitious equity and racial justice agenda to ensure the full and fair
 participation of all communities in American life. Despite progress
 being made, entrenched disparities in our laws and public policies have
 often denied equal opportunity to historically underserved communities,
-including rural communities, Black, Latino and Asian American and Native
+including rural communities, Black, Latino, Asian American, Native
 Hawaiian, and Pacific Islander (AA and NHPI) communities, Tribal
 communities, LGBTQI+ individuals, religious minorities, people with
 disabilities, women and girls, and other communities impacted by
