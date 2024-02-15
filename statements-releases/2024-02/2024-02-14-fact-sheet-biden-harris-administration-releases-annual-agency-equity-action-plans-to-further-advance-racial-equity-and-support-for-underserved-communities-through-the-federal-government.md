@@ -1,6 +1,6 @@
 ---
 date: '2024-02-14'
-modified_time: 2024-02-15 09:30:10-05:00
+modified_time: 2024-02-15 11:07:18-05:00
 published_time: 2024-02-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
@@ -366,7 +366,8 @@ Plans at www.performance.gov/equity.
     access DOJ programs, communicate public safety concerns, and
     vindicate their rights. For example, DOJ recently published its FY
     2022-2026 Strategic Plan in Spanish. DOJ also published key excerpts
-    in Chinese, Vietnamese, Korean, and Tagalog including more AA and
+    in Chinese, Vietnamese, Korean, and Tagalog in order to reach more
+    limited English proficient communities, including those in AA and
     NHPI communities. In August 2023, the Department also released its
     updated Language Access Plan, which improves translation and
     interpretation services, promotes quality assurance of those
