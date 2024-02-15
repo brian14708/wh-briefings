@@ -1,6 +1,6 @@
 ---
 date: '2024-02-14'
-modified_time: 2024-02-14 15:52:37-05:00
+modified_time: 2024-02-14 19:28:24-05:00
 published_time: 2024-02-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
@@ -14,14 +14,15 @@ ambitious equity and racial justice agenda to ensure the full and fair
 participation of all communities in American life. Despite progress
 being made, entrenched disparities in our laws and public policies have
 often denied equal opportunity to historically underserved communities,
-including rural communities, communities of color, Tribal communities,
-LGBTQI+ individuals, religious minorities, people with disabilities,
-women and girls, and other communities impacted by persistent poverty.
-Redressing these opportunity gaps can drive stronger economic growth for
-all Americans. For example, research finds that the gaps in labor market
-opportunities for women and people of color cost the U.S. $2.6 trillion
-in foregone GDP in 2019; closing these gaps would increase economic
-output by an additional $3.1 trillion in 2029 alone. A
+including rural communities, Black, Latino and Asian American and Native
+Hawaiian, and Pacific Islander (AA and NHPI) communities, Tribal
+communities, LGBTQI+ individuals, religious minorities, people with
+disabilities, women and girls, and other communities impacted by
+persistent poverty. Redressing these opportunity gaps can drive stronger
+economic growth for all Americans. For example, research finds that the
+gaps in labor market opportunities for women and people of color cost
+the U.S. $2.6 trillion in foregone GDP in 2019; closing these gaps would
+increase economic output by an additional $3.1 trillion in 2029 alone. A
 [report](https://www.brookings.edu/articles/strategic-sector-investments-are-poised-to-benefit-distressed-us-counties/)
 released this week from Brookings and MIT illustrated the success of
 these efforts – supporting economic comebacks in communities across the
@@ -39,11 +40,11 @@ Today, marking the first anniversary of the signing of President Biden’s
 Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 on equity, federal agencies, including all Cabinet-level agencies, [are
 releasing their 2023 Equity Action
-Plans](http://www.performance.gov/equity) , which include over 100
+Plans](http://www.performance.gov/equity), which include over 100
 community-informed strategies and actions to address systemic barriers
 in our Nation’s policies and programs. The Biden-Harris Administration
 also released a new [White House Progress Report on
-Equity](https://www.whitehouse.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf)[\[OAME2\]](#_msocom_2) ,
+Equity](https://www.whitehouse.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf),
 which highlights examples of the more than 650 actions agencies have
 undertaken since the release of their 2022 Equity Action Plans. Agencies
 acted to increase access to federal contracting dollars, capital, and
@@ -192,7 +193,10 @@ including by:
     postpartum period and about one-third occurs between 7 and 365 days
     post-delivery. Additionally, pregnancy-related deaths are three to
     four times more common among Black or African American and American
-    Indian/Alaska Native women than among white women.
+    Indian/Alaska Native women than among white women. Asian American
+    and Native Hawaiian and Pacific Islander women, experience
+    [disparities in delivering at
+    term](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7547364/).
 -   **Combatting Child Food Insecurity.** The **Department of
     Agriculture** (USDA) will help close the summer hunger gap for
     children eligible for free and reduced price school meals by
@@ -213,7 +217,7 @@ including by:
     a multi-year demonstration project showed that summer grocery
     benefits decreased the number of kids with very low food security by
     about one-third and supported healthier diets featuring more fruits,
-    vegetables and whole grains.
+    vegetables and whole grains.  
 
 **Addressing Inequity through Environmental and Climate Justice**
 
@@ -318,9 +322,11 @@ Plans at www.performance.gov/equity.
     high-needs school. The Department estimates these 5-year grants will
     result in an increase of 14,000 mental health professionals. In FY
     2023, nearly 50% of the MHSPD grants include a partnership with
-    Minority Serving Institutions, Historically Black Colleges and
-    Universities (HBCUs), or Tribal Colleges. Additionally, the
-    Department aims to ensure that school districts serving historically
+    Historically Black Colleges and Universities (HBCUs), Tribal
+    Colleges, and Minority Serving Institutions, including
+    Hispanic-Serving Institutions and Asian American and Native Hawaiian
+    Pacific Islander-Serving Institutions. Additionally, the Department
+    aims to ensure that school districts serving historically
     underserved student groups, including students of color, students
     from low-income backgrounds, students who are English learners,
     students experiencing homelessness, and others have the resources
@@ -348,6 +354,33 @@ Plans at www.performance.gov/equity.
     Center,](https://news.va.gov/126268/women-veterans-experience-action-center/)
     helping more than 340 women veterans apply for the care and benefits
     they deserve.
+
+<!-- -->
+
+-   **Expanding Language Access.** In May 2022, the Department of
+    Justice hired its first-ever Language Access Coordinator and has
+    reestablished the Language Access Working Group, which is comprised
+    of representatives from various DOJ components, and meets regularly
+    to provide a platform to support, guide, and oversee components’
+    efforts to increase meaningful access so that communities can better
+    access DOJ programs, communicate public safety concerns, and
+    vindicate their rights. For example, DOJ recently published its FY
+    2022-2026 Strategic Plan in Spanish. DOJ also published key excerpts
+    in Chinese, Vietnamese, Korean, and Tagalog in order to reach more
+    Asian American, Native Hawaiian, and Pacific Islander (AA and NHPI)
+    communities. In August 2023, the Department also released its
+    updated Language Access Plan, which improves translation and
+    interpretation services, promotes quality assurance of those
+    services, and expands the range of tools available to serve the
+    public. Additionally, the **General Services Administration** also
+    worked to expand access to voter registration information in
+    communities that face voter participation difficulties due to
+    language barriers. Vote.gov added several Asian, Native Hawaiian,
+    and Pacific Islander languages including: Bengali, Khmer, Korean,
+    Hindi, Tagalog, and Vietnamese, with Chinese (both simplified and
+    traditional) and its first Alaska Native language, Yup’ik-Akuzipik.
+    Vote.gov is also accessible in Arabic, Spanish, French, Haitian
+    Creole, Navajo, Portuguese, and Russian languages.
 
 <!-- -->
 
