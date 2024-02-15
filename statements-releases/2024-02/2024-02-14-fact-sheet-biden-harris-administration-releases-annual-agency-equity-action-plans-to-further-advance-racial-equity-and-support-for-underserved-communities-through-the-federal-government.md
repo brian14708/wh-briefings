@@ -1,6 +1,6 @@
 ---
 date: '2024-02-14'
-modified_time: 2024-02-14 19:49:35-05:00
+modified_time: 2024-02-15 09:30:10-05:00
 published_time: 2024-02-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
@@ -357,8 +357,8 @@ Plans at www.performance.gov/equity.
 
 <!-- -->
 
--   **Expanding Language Access.** In May 2022, the Department of
-    Justice hired its first-ever Language Access Coordinator and has
+-   **Expanding Language Access.** In May 2022, the **Department of
+    Justice** hired its first-ever Language Access Coordinator and has
     reestablished the Language Access Working Group, which is comprised
     of representatives from various DOJ components, and meets regularly
     to provide a platform to support, guide, and oversee components’
@@ -366,9 +366,8 @@ Plans at www.performance.gov/equity.
     access DOJ programs, communicate public safety concerns, and
     vindicate their rights. For example, DOJ recently published its FY
     2022-2026 Strategic Plan in Spanish. DOJ also published key excerpts
-    in Chinese, Vietnamese, Korean, and Tagalog in order to reach more
-    Asian American, Native Hawaiian, and Pacific Islander (AA and NHPI)
-    communities. In August 2023, the Department also released its
+    in Chinese, Vietnamese, Korean, and Tagalog including more AA and
+    NHPI communities. In August 2023, the Department also released its
     updated Language Access Plan, which improves translation and
     interpretation services, promotes quality assurance of those
     services, and expands the range of tools available to serve the
