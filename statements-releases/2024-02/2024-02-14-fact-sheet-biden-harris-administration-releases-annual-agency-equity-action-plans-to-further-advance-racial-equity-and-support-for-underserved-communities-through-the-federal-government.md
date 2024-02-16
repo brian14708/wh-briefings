@@ -1,6 +1,6 @@
 ---
 date: '2024-02-14'
-modified_time: 2024-02-15 11:07:18-05:00
+modified_time: 2024-02-16 11:29:34-05:00
 published_time: 2024-02-14 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
@@ -303,11 +303,10 @@ Plans at www.performance.gov/equity.
 
 -   **Ensuring Contracting Opportunities for Small Disadvantaged
     Businesses (SDBs).** The **Department of** **Treasury** awarded $1.2
-    billion in FY 2023 to SDBs, representing for the first almost 12% of
-    eligible small business dollars available for Treasury contracts. In
-    addition, Treasury awarded a total of over $2 billion to businesses
-    of all sizes, including to Women-Owned Businesses and Minority-Owned
-    Businesses. These steps further President Biden’s goal of ensuring
+    billion in FY 2023 to SDBs, representing almost 12% of Treasury’s
+    contract dollars.  In addition, Treasury awarded a total of over $2
+    billion to Women-Owned Businesses and Minority-Owned Businesses of
+    all sizes. These steps further President Biden’s goal of ensuring
     15% of federal contracts go to SDBs by 2025.
 
 <!-- -->
