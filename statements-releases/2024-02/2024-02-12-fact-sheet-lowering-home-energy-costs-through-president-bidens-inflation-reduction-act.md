@@ -1,6 +1,6 @@
 ---
 date: '2024-02-12'
-modified_time: 2024-02-12 12:26:51-05:00
+modified_time: 2024-02-16 12:21:58-05:00
 published_time: 2024-02-12 12:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/12/fact-sheet-lowering-home-energy-costs-through-president-bidens-inflation-reduction-act/
 tags: statements-releases
@@ -98,9 +98,10 @@ Inflation Reduction Act’s home energy savings programs:
 
 -   This Friday, February 16, the Environmental Protection
     Agency’s [ENERGY STAR program](https://www.energystar.gov/) will
-    launch a new **Incentive Finder** to help consumers determine which
-    home energy products qualify for federal benefits, including
-    Inflation Reduction Act programs.
+    launch a new **[Incentive
+    Finder](https://www.energystar.gov/productfinder/homesavings)** to
+    help consumers determine which home energy products qualify for
+    federal benefits, including Inflation Reduction Act programs.
 
 <!-- -->
 
