@@ -1,6 +1,6 @@
 ---
 date: '2024-02-19'
-modified_time: 2024-02-19 14:01:59-05:00
+modified_time: 2024-02-19 18:02:22-05:00
 published_time: 2024-02-19 14:01:58-05:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/19/remarks-by-president-biden-during-press-gaggle-rehoboth-beach-de/
 tags: speeches-remarks
