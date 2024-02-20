@@ -1,16 +1,16 @@
 ---
 date: '2024-02-20'
-modified_time: 2024-02-20 14:42:17-05:00
+modified_time: 2024-02-20 15:59:50-05:00
 published_time: 2024-02-20 13:45:36-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/20/president-joseph-r-biden-jr-approves-washington-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Washington Disaster\_Declaration"
 ---
  
-Today, President Joseph R. Biden, Jr. declared that a major disaster
-exists in the State of Washington and ordered Federal assistance to
-supplement state, tribal, and local recovery efforts in the areas
-affected by wildfires from August 18 to August 25, 2023.  
+On February 15, President Joseph R. Biden, Jr. declared that a major
+disaster exists in the State of Washington and ordered Federal
+assistance to supplement state, tribal, and local recovery efforts in
+the areas affected by wildfires from August 18 to August 25, 2023.  
    
 The President’s action makes Federal funding available to affected
 individuals in Spokane County.  
