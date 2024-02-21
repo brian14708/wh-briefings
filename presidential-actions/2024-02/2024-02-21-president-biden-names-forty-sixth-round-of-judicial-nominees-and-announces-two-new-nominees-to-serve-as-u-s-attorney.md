@@ -1,6 +1,6 @@
 ---
 date: '2024-02-21'
-modified_time: 2024-02-20 20:39:25-05:00
+modified_time: 2024-02-21 09:35:48-05:00
 published_time: 2024-02-21 09:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/21/president-biden-names-forty-sixth-round-of-judicial-nominees-and-announces-two-new-nominees-to-serve-as-u-s-attorney/
 tags: presidential-actions
@@ -36,20 +36,9 @@ Attorneys.
   
 **United States Circuit Court Announcement**
 
-1.  **<u>Judge Nancy L. Maldonado: Nominee for the United States Court
-    of Appeals for the Seventh Circuit</u>**  
-      
-    Judge Nancy L. Maldonado has been a United States District Judge for
-    the Northern District of Illinois since 2022. Judge Maldonado was
-    previously a partner at Miner, Barnhill & Galland, P.C. in Chicago
-    from 2010 to 2022 and an associate at the firm from 2003 to 2009.
-    From 2001 to 2003, Judge Maldonado served as a law clerk for Judge
-    Rubén Castillo on the U.S. District Court for the Northern District
-    of Illinois. She received her J.D. from Columbia Law School in 2001
-    and her A.B., *cum laude*, from Harvard University in 1997.
-2.  **<u>Georgia N. Alexakis: Nominee for the United States District
-    Court for the Northern District of Illinois</u>**
-
+1\. **<u>Judge Nancy L. Maldonado: Nominee for the United States Court
+of Appeals for the Seventh Circuit</u>**  
+  
 Judge Nancy L. Maldonado has been a United States District Judge for the
 Northern District of Illinois since 2022. Judge Maldonado was previously
 a partner at Miner, Barnhill & Galland, P.C. in Chicago from 2010 to
@@ -58,8 +47,11 @@ Judge Maldonado served as a law clerk for Judge Rubén Castillo on the
 U.S. District Court for the Northern District of Illinois. She received
 her J.D. from Columbia Law School in 2001 and her A.B., *cum laude*,
 from Harvard University in 1997.  
-**  
-United States District Court Announcements**
+  
+**United States District Court Announcements**  
+  
+1. **<u>Georgia N. Alexakis: Nominee for the United States District
+Court for the Northern District of Illinois</u>**
 
 Georgia N. Alexakis has been an Assistant United States Attorney and the
 Chief of Appeals for the Criminal Division in the U.S. Attorney’s Office
@@ -75,9 +67,10 @@ Ninth Circuit from 2006 to 2007. She received her J.D., *magna cum
 laude*, from Northwestern Pritzker School of Law in 2006 and her A.B.,
 *magna cum laude*, from Harvard University in 2000. Between college and
 law school, from 2000 to 2003, Ms. Alexakis worked as an associate and
-then as a consultant at the Boston Consulting Group in Chicago.
+then as a consultant at the Boston Consulting Group in Chicago.**  
+**
 
-1\. **<u>Krissa M. Lanham: Nominee for the United States District Court
+2\. **<u>Krissa M. Lanham: Nominee for the United States District Court
 for the District of Arizona</u>**
 
 Krissa M. Lanham has been an Assistant United States Attorney in the
@@ -91,7 +84,7 @@ Connecticut from 2007 to 2008. She received her J.D. from Yale Law
 School in 2007 and her B.A., *summa cum laude*, from Yale University in
 2002.
 
-2\. **<u>Judge Angela M. Martinez: Nominee for the United States
+3\. **<u>Judge Angela M. Martinez: Nominee for the United States
 District Court for the District of Arizona</u>**
 
 Judge Angela M. Martinez has been a United States Magistrate Judge for
@@ -110,7 +103,7 @@ Martinez received her J.D. from the University of Arizona James E.
 Rogers College of Law in 2000 and her B.A. from the University of
 Arizona in 1995.
 
-3\. **<u>Sparkle L. Sooknanan: Nominee for the United States District
+4\. **<u>Sparkle L. Sooknanan: Nominee for the United States District
 Court for the District of Columbia</u>**
 
 Sparkle L. Sooknanan has been the Principal Deputy Assistant Attorney
