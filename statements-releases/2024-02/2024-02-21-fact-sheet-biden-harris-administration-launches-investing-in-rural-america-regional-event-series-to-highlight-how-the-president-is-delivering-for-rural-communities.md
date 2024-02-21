@@ -1,5 +1,6 @@
 ---
 date: '2024-02-21'
+modified_time: 2024-02-21 13:57:53-05:00
 published_time: 2024-02-21 13:15:24-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-launches-investing-in-rural-america-regional-event-series-to-highlight-how-the-president-is-delivering-for-rural-communities/
 tags: statements-releases
@@ -55,6 +56,6 @@ rural Americans do not have to leave their hometowns to find
 opportunity. Next month, White House Senior Advisor and Director of the
 Office of Public Engagement Steve Benjamin will travel to New Mexico to
 participate in a Rural Partners Network Forum and highlight how the
-President in investing in rural America.
+President is investing in rural America.
 
 \###
