@@ -1,6 +1,6 @@
 ---
 date: '2024-02-21'
-modified_time: 2024-02-20 21:07:19-05:00
+modified_time: 2024-02-27 11:50:24-05:00
 published_time: 2024-02-21 06:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/
 tags: statements-releases
@@ -67,21 +67,22 @@ directive and take a series of actions on these cranes and associated
 Information Technology (IT) and Operational Technology (OT) systems.
 This action is a vital step to securing our maritime infrastructure’s
 digital ecosystem and addresses several vulnerabilities that have been
-identified in the updated U.S. Maritime Advisory, 2024-00X – Worldwide
-Foreign Adversarial Technological, Physical, and Cyber Influence, that
-was released today.
+identified in the updated [U.S. Maritime Advisory, 2024-00X – Worldwide
+Foreign Adversarial Technological, Physical, and Cyber
+Influence](https://www.maritime.dot.gov/msci/2024-002-worldwide-foreign-adversarial-technological-physical-and-cyber-influence),
+that was released today.
 
-**The U.S. Coast Guard has issued a Notice of Proposed Rulemakingon
-Cybersecurity in the Marine Transportation System. ** Every day
-malicious cyber actors attempt to gain unauthorized access to MTS
-control systems and networks throughout the nation. The Proposed Rule
-will strengthen these digital systems by establishing minimum
-cybersecurity requirements that meet international and
-industry-recognized standards to best manage cyber threats. These
-actions build on prior actions by DHS including those taken by the
-Transportation Security Administration, and reflect the Administration’s
-commitment to leverage regulatory requirements in pursuit of
-safeguarding critical infrastructure.
+**The U.S. Coast Guard has issued a [Notice of Proposed Rulemaking on
+Cybersecurity](https://www.federalregister.gov/documents/2024/02/22/2024-03075/cybersecurity-in-the-marine-transportation-system)
+in the Marine Transportation System. ** Every day malicious cyber actors
+attempt to gain unauthorized access to MTS control systems and networks
+throughout the nation. The Proposed Rule will strengthen these digital
+systems by establishing minimum cybersecurity requirements that meet
+international and industry-recognized standards to best manage cyber
+threats. These actions build on prior actions by DHS including those
+taken by the Transportation Security Administration, and reflect the
+Administration’s commitment to leverage regulatory requirements in
+pursuit of safeguarding critical infrastructure.
 
 **The Administration continues to deliver for the American people by
 rebuilding the U.S.’s industrial capacity to produce port cranes with
