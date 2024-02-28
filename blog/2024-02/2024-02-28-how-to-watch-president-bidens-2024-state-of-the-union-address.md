@@ -1,13 +1,13 @@
 ---
 date: '2024-02-28'
-modified_time: 2024-02-27 15:52:06-05:00
+modified_time: 2024-02-28 15:40:52-05:00
 published_time: 2024-02-28 09:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2024/02/28/how-to-watch-president-bidens-2024-state-of-the-union-address/
 tags: blog
 title: "How to Watch President\_Biden\u2019s 2024 State of the Union\_Address"
 ---
  
-Tuesday, March 7th, 2024, 9 PM ET
+Thursday, March 7th, 2024, 9 PM ET
 
 ------------------------------------------------------------------------
 
