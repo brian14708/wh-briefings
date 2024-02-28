@@ -1,6 +1,6 @@
 ---
 date: '2024-02-28'
-modified_time: 2024-02-27 22:07:02-05:00
+modified_time: 2024-02-28 13:01:33-05:00
 published_time: 2024-02-28 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-biden-issues-sweeping-executive-order-to-protect-americans-sensitive-personal-data/
 tags: statements-releases
@@ -101,6 +101,12 @@ Administration will continue its engagements with stakeholders,
 including technology companies and advocates for privacy, safety,
 competition, labor, and human rights, to move forward in a way that
 appropriately balances all these objectives.
+
+The President has encouraged the Consumer Financial Protection Bureau to
+consider taking steps, consistent with CFPB’s existing legal
+authorities, to protect Americans from data brokers that are illegally
+assembling and selling extremely sensitive data, including that of U.S.
+military personnel.
 
 Additionally, President Biden continues to urge Congress to do its part
 and pass comprehensive bipartisan privacy legislation, especially to
