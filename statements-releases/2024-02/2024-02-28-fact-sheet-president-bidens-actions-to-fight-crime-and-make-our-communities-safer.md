@@ -1,5 +1,6 @@
 ---
 date: '2024-02-28'
+modified_time: 2024-02-28 13:43:20-05:00
 published_time: 2024-02-28 10:18:25-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-bidens-actions-to-fight-crime-and-make-our-communities-safer/
 tags: statements-releases
@@ -65,7 +66,7 @@ Rescue Plan to reduce crime:
     state of Pennsylvania to devote $45 million more to upgrade the
     city’s crime lab, reduce gun violence, and investigate and prosecute
     violent gun crimes, as well as further support violence intervention
-    and prevention. In 2023, Philadelphia experienced record crime
+    and prevention. In 2023, Philadelphia experienced significant crime
     declines, including a 20% drop in homicides and a 28% decline in
     nonfatal shootings.
 -   Chicago invested $100 million for public safety, including $16
