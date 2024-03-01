@@ -1,6 +1,6 @@
 ---
 date: '2024-02-29'
-modified_time: 2024-02-29 21:50:28-05:00
+modified_time: 2024-03-01 08:33:19-05:00
 published_time: 2024-02-29 20:44:53-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-celebrates-third-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 tags: statements-releases
@@ -90,23 +90,23 @@ aspects of religious freedom**
 
 <!-- -->
 
--   **Released updated**
+-   Released updated
     [guidance](https://www2.ed.gov/policy/gen/guid/religionandschools/prayer_guidance.html)
-    **on protected prayer and other religious expression in public
-    elementary and secondary schools.**
+    on protected prayer and other religious expression in public
+    elementary and secondary schools.
 -   Launched [Building Bridges in Development: USAID’s Strategic
     Religious Engagement
     Policy](https://www.usaid.gov/policy/strategicreligiousengagement)
     to affirm the important role religious leaders play in locally led
     development and humanitarian assistance.
--   **Celebrated the 25<sup>th</sup> anniversary of the** [International
+-   Celebrated the 25<sup>th</sup> anniversary of the [International
     Religious Freedom
     Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-international-religious-freedom-act/)
-    and continued to use its **tools to give voice to the persecuted,
-    empower advocates, and promote religious freedom around the world.**
--   **Reestablished the Department of Justice’s Center for Faith-Based
-    and Neighborhood Partnerships and installed Sim Singh Attariwala as
-    director, the first Sikh American to lead an agency Center.**
+    and continued to use its tools to give voice to the persecuted,
+    empower advocates, and promote religious freedom around the world.
+-   Reestablished the Department of Justice’s Center for Faith-Based and
+    Neighborhood Partnerships and installed Sim Singh Attariwala as
+    director, the first Sikh American to lead an agency Center.
 -   Launched the [Free to
     Learn](https://safesupportivelearning.ed.gov/free-learn) campaign to
     help educational institutions [prevent hate-based threats and
@@ -165,8 +165,9 @@ aspects of religious freedom**
     create [veteran welcome
     centers](https://www.va.gov/CFBNP/VeteransMinistry_WelcomeCenter.asp)
     to connect veterans, family members, caregivers, and survivors to
-    Department of Veterans Affairs services.
--   **Expanding opportunity for all Americans**
+    Department of Veterans Affairs services.  
+      
+    **Expanding opportunity for all Americans**
 -   Assisted more than 113,000 low-income Americans with tax preparation
     through [AmeriCorps
     programs](https://americorps.gov/newsroom/press-release/low-income-americans-receive-record-84-million-tax-relief-nationwide),
