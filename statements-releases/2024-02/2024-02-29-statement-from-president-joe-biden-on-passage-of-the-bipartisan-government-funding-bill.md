@@ -1,5 +1,6 @@
 ---
 date: '2024-02-29'
+modified_time: 2024-03-01 10:40:55-05:00
 published_time: 2024-02-29 20:52:25-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/statement-from-president-joe-biden-on-passage-of-the-bipartisan-government-funding-bill/
 tags: statements-releases
@@ -34,3 +35,5 @@ on the line.
 
 It is time for House Republicans to put our national security first and
 move with urgency to get this bipartisan bill to my desk.
+
+\###

@@ -1,6 +1,6 @@
 ---
 date: '2024-02-29'
-modified_time: 2024-03-01 08:33:19-05:00
+modified_time: 2024-03-01 10:44:19-05:00
 published_time: 2024-02-29 20:44:53-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-celebrates-third-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 tags: statements-releases
@@ -165,9 +165,10 @@ aspects of religious freedom**
     create [veteran welcome
     centers](https://www.va.gov/CFBNP/VeteransMinistry_WelcomeCenter.asp)
     to connect veterans, family members, caregivers, and survivors to
-    Department of Veterans Affairs services.  
-      
-    **Expanding opportunity for all Americans**
+    Department of Veterans Affairs services.
+
+**Expanding opportunity for all Americans**
+
 -   Assisted more than 113,000 low-income Americans with tax preparation
     through [AmeriCorps
     programs](https://americorps.gov/newsroom/press-release/low-income-americans-receive-record-84-million-tax-relief-nationwide),
