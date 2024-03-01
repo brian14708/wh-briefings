@@ -1,6 +1,6 @@
 ---
 date: '2024-03-01'
-modified_time: 2024-02-29 21:47:31-05:00
+modified_time: 2024-03-01 15:15:32-05:00
 published_time: 2024-03-01 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/vice-president-harris-announces-tens-of-millions-of-dollars-for-historically-underserved-entrepreneurs-in-north-carolina-as-part-of-administrations-strategy-to-invest-in-american-small-busine/
 tags: statements-releases
@@ -53,9 +53,9 @@ awardees have committed to raising and investing at least an additional
 $60 million alongside the $32 million from the American Rescue Plan, for
 a total of more than $90 million directed to promising early-stage small
 businesses in the state. North Carolina has selected ten women- and
-minority led venture capital firms \[LINK TO NC-authored one pager on
-all 10 funds\] with a focus on supporting underserved founders
-including:
+minority led [venture capital
+firms](https://www.ncruralcenter.org/wp-content/uploads/2024/02/NC-Invest-Event-Investor-Info-Sheet-030124v3.pdf)
+with a focus on supporting underserved founders including:
 
 -   **Nex Cubed**, which has a Historically Black Colleges and
     Universities (HBCU) Founders Fund that helps to launch and scale
