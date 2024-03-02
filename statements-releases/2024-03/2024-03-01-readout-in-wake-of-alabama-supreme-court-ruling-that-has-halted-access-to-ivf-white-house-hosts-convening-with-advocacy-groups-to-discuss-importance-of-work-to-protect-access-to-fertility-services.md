@@ -1,5 +1,6 @@
 ---
 date: '2024-03-01'
+modified_time: 2024-03-01 19:02:40-05:00
 published_time: 2024-03-01 08:06:49-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/readout-in-wake-of-alabama-supreme-court-ruling-that-has-halted-access-to-ivf-white-house-hosts-convening-with-advocacy-groups-to-discuss-importance-of-work-to-protect-access-to-fertility-services/
 tags: statements-releases
@@ -48,7 +49,7 @@ Participants in yesterday’s discussion included representatives from:
 -   American Society for Reproductive Medicine
 -   Family Equality
 -   Leukemia & Lymphoma Society
--   National Center for Lesbian Rights
+-   NCLR
 -   RESOLVE: the National Infertility Association
 -   Sickle Cell Reproductive Health Education Directive
 
