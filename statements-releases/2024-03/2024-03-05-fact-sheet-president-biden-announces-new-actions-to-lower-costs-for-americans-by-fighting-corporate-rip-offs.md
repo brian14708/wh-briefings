@@ -1,6 +1,6 @@
 ---
 date: '2024-03-05'
-modified_time: 2024-03-05 00:10:31-05:00
+modified_time: 2024-03-05 09:38:05-05:00
 published_time: 2024-03-05 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-president-biden-announces-new-actions-to-lower-costs-for-americans-by-fighting-corporate-rip-offs/
 tags: statements-releases
@@ -76,19 +76,20 @@ junk fees will save Americans more than $20 billion each year:**
     more.
 -   **Cracking down on bulk billing junk fees to lower costs and promote
     competition.** The Federal Communications Commission (FCC) is
-    circulating a proposed [rule](https://www.fcc.gov/) that would lower
-    costs and increase choice for consumers by banning “bulk billing”
-    arrangements, a practice by which landlords or providers charge
-    everyone living or working in a building for a particular internet,
-    cable, or satellite service, even if they don’t want it or haven’t
-    opted in. These arrangements limit consumer choice by preventing
-    tenants from choosing the services at the price point and level that
-    are best for their needs, and can impose fees for unnecessary
-    services and deter competition. In addition, the proposed rule seeks
-    to address other exclusive arrangements between service providers
-    and landlords that impede competition and drive-up prices, such as
-    exclusive wiring arrangements, exclusive marketing arrangements, and
-    certain revenue sharing agreements.
+    circulating a proposed
+    [rule](https://www.fcc.gov/document/fcc-chairwoman-lower-broadband-costs-apartment-buildings)
+    that would lower costs and increase choice for consumers by banning
+    “bulk billing” arrangements, a practice by which landlords or
+    providers charge everyone living or working in a building for a
+    particular internet, cable, or satellite service, even if they don’t
+    want it or haven’t opted in. These arrangements limit consumer
+    choice by preventing tenants from choosing the services at the price
+    point and level that are best for their needs, and can impose fees
+    for unnecessary services and deter competition. In addition, the
+    proposed rule seeks to address other exclusive arrangements between
+    service providers and landlords that impede competition and drive-up
+    prices, such as exclusive wiring arrangements, exclusive marketing
+    arrangements, and certain revenue sharing agreements.
 -   **Promoting competitive agricultural markets and ensuring fairness
     for farmers and ranchers.** Fair competition is key to making sure
     America’s food markets operate effectively and producers and
