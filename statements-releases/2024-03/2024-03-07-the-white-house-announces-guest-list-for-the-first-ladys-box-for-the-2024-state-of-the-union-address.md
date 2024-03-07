@@ -1,6 +1,6 @@
 ---
 date: '2024-03-07'
-modified_time: 2024-03-06 22:02:30-05:00
+modified_time: 2024-03-07 09:41:44-05:00
 published_time: 2024-03-07 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/the-white-house-announces-guest-list-for-the-first-ladys-box-for-the-2024-state-of-the-union-address/
 tags: statements-releases
@@ -221,17 +221,21 @@ advocacy has been integral to the initiative and she continues to advise
 and collaborate with Dr. Biden.  
    
 **Dawn Simms (Davis Junction, Illinois)**  
-Simms is a member of United Auto Workers Local 126 and third-generation
-autoworker on the Belvidere, Illinois assembly line. When Stellantis
-shuttered their local auto plant in February 2023, her son had just
-started his junior year in high school and she feared she may need to
-relocate her family. The historic UAW-Big Three contract secured with
-Stellantis reopened the plant in Belvidere and saved jobs, stabilizing
-her family. Today, she is gainfully employed at Belvidere’s auto
-distribution center, waiting to return to the new auto plant once it is
-finished. In November 2023, Simms joined President Biden in Belvidere to
-mark the reopening of the assembly plant and the return of 1,200 jobs
-and higher wages.   
+Simms has been a member of the United Auto Workers (UAW) Local 1268 for
+more than two decades. She’s a third-generation autoworker on at
+Belvidere Assembly (IL), where she started work in 1999. When Stellantis
+idled Belvidere Assembly in February 2023, Simms’ son was in the middle
+of his sophomore year in high school and forced her into an impossible
+decision: lose her job or relocate to another plant far away from her
+home (and either move her son or leave him in Illinois). Thanks to the
+strength and the solidarity of the UAW members, the UAW-Big Three
+contract secured a commitment from Stellantis to reopen Belvidere
+Assembly and bring thousands of good-paying middle-class jobs back to
+Belvidere, stabilizing her family’s future. Today, she is gainfully
+employed at Stellantis’ auto distribution center in Belvidere. In
+November 2023, Simms joined President Biden in Belvidere to highlight
+the reopening of the assembly plant and the return of thousands of
+good-paying UAW jobs.  
    
 **Rashawn Spivey (Milwaukee, Wisconsin)**  
 Spivey is the founder and owner of Hero Plumbing in Milwaukee,
