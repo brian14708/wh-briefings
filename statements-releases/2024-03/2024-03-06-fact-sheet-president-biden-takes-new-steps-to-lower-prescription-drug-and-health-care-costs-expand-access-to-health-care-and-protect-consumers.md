@@ -1,5 +1,6 @@
 ---
 date: '2024-03-06'
+modified_time: 2024-03-06 22:59:35-05:00
 published_time: 2024-03-06 15:41:12-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/
 tags: statements-releases
@@ -81,7 +82,7 @@ lower health care costs for more Americans.
 -   **Capping Medicare Cost-Sharing at $2 for Common Generic Drugs.**
     Medicare will be launching a new model to limit Medicare Part D
     cost-sharing for certain generic drugs to $2. As Medicare prepares
-    to launch the model, today HHS published a list of dozens of generic
+    to launch the model, HHS will publish a list of dozens of generic
     drugs for the model, including drugs like statins to treat high
     cholesterol, beta-blockers for high blood pressure, and platelet
     inhibitors to prevent blood clots. In his budget, the President is
@@ -93,7 +94,7 @@ lower health care costs for more Americans.
     with manufacturers on behalf of state Medicaid programs to increase
     affordable access to potentially lifesaving and life-changing
     treatment, and lower health care costs for some of the nation’s most
-    vulnerable populations. Today, CMS is releasing the Request for
+    vulnerable populations. CMS will release the Request for
     Applications for drug manufacturers of cell and gene therapies to
     participate in the model.  
 -   **Expand the IRA’s Requirement that Drug Companies Pay Rebates When
