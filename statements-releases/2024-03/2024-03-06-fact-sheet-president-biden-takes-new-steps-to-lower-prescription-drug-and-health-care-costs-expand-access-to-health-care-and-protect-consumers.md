@@ -1,6 +1,6 @@
 ---
 date: '2024-03-06'
-modified_time: 2024-03-06 22:59:35-05:00
+modified_time: 2024-03-07 22:15:24-05:00
 published_time: 2024-03-06 15:41:12-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/
 tags: statements-releases
@@ -139,15 +139,23 @@ isn’t stopping there and is building on this incredible success by:
     President wants to make sure that children can never lose coverage
     due to red tape from birth until they turn age 6, and that families
     only have to submit Medicaid paperwork once every three years.  
--   **Closing Research Gaps in Women’s Health Research. **In November
+-   **Closing Research Gaps in Women’s Health Research.** In November
     2023, the President and the First Lady launched the first-ever White
     House Initiative on Women’s Health Research to fundamentally change
     how our nation approaches and funds women’s health research. Women
     make up more than half the population but have been understudied and
-    underrepresented in health research for far too long. As part of the
-    initiative, the President during the State of the Union will call on
-    Congress to make bold, transformational investments in women’s
-    health research.   
+    underrepresented in health research for far too long. Tonight, the
+    President is calling on Congress to make a bold, transformative
+    investment of $12 billion in new funding for women’s health
+    research**. **These investments will support a new fund at the
+    National Institutes of Health to advance an interdisciplinary
+    research agenda and create a new nationwide network of research
+    centers of excellence and innovation in women’s health. The
+    Initiative will also catalyze private and philanthropic commitments
+    to increase funding for women’s health research. These new resources
+    will make investments that maximize our ability to prevent,
+    diagnose, and treat health conditions in women and ensure women get
+    the answers they need when it comes to their health.   
 -   **Making Home Care More Available.** Thanks to the American Rescue
     Plan, President Biden delivered $37 billion to all states to expand
     access to home care and improve the quality of caregiving jobs. The
