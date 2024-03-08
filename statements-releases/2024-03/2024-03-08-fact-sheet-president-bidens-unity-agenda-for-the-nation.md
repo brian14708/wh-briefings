@@ -1,5 +1,6 @@
 ---
 date: '2024-03-08'
+modified_time: 2024-03-08 14:49:55-05:00
 published_time: 2024-03-08 11:13:53-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/
 tags: statements-releases
@@ -356,10 +357,11 @@ education and workforce opportunity for veterans and their families. 
 
 <!-- -->
 
--   ***Expanding Cancer Care for Veterans.*  Under the PACT Act, the
+-   ***Expanding Cancer Care for Veterans.* ** Under the PACT Act, the
     Biden Administration is making care and benefits available to
     veterans battling over 300 medical conditions, including more than
-    100 cancers.  With President Biden’s leadership, VA** is expanding
+    100 cancers.  With President Biden’s leadership, [VA is
+    expanding](https://news.va.gov/press-room/va-expands-health-care-benefits-veterans-cancer/)
     the types of cancers for which veterans can get disability benefits
     if exposed to radiation, burn pits, or water contamination.* * In
     addition, this year VA will offer genetic testing to every veteran
@@ -469,13 +471,12 @@ States by at least half – preventing more than 4 million cancer deaths
 by 2047 – and improving the experience of people who are touched by
 cancer.  The President also established a Cancer Cabinet to mobilize
 action in advancing these goals.  In the time since, the [Cancer
-Moonshot has
-announced](/Users/DMCarnival/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/HEXUZNLB/whitehouse.gov/cancermoonshot)
-more than 60 new programs, policies, and resources, and more than 120
-private companies, non-profit organizations, patient groups, and
-academic institutions have stepped up with new actions in support of
-these goals.  In his State of the Union Address, President Biden will
-announce a new advance in the fight to end cancer as we know it:
+Moonshot has announced](https://www.whitehouse.gov/cancermoonshot/) more
+than 60 new programs, policies, and resources, and more than 120 private
+companies, non-profit organizations, patient groups, and academic
+institutions have stepped up with new actions in support of these
+goals.  In his State of the Union Address, President Biden will announce
+a new advance in the fight to end cancer as we know it:
 
 -   ***A New Revolutionary Treatment Program to Transform Outcomes for
     Americans Facing Cancer. *** Two years ago, President Biden and
@@ -538,7 +539,7 @@ announce a new advance in the fight to end cancer as we know it:
     steps](https://www.whitehouse.gov/ostp/news-updates/2023/11/27/cancer-navigation-improves-equity-outcomes-paying-for-it-matters-too/)
     to deliver cancer navigation services across America.  With the
     First Lady’s leadership, today the Administration announced [new
-    commitments](https://www.whitehouse.gov/ostp/news-updates/2024/03/07/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
+    commitments](https://www.whitehouse.gov/ostp/news-updates/2024/03/08/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
     from seven leading insurance companies which cover more than 150
     million Americans to reimburse for navigation services and new
     actions from 40 comprehensive cancer centers and community oncology
@@ -562,15 +563,18 @@ announce a new advance in the fight to end cancer as we know it:
     Infrastructure Law, the Biden-Harris Administration is cleaning up
     toxic Superfund sites, an important step toward environmental
     justice and cancer prevention.  In addition, the Department of
-    Health and Human Services is releasing a Framework to Support and
-    Accelerate Smoking Cessation, setting out an agenda and actions to
-    expand equitable access and effectiveness of smoking cessation
-    services to more Americans.  As an early step in the execution of
-    this roadmap, CMS is supporting efforts [to reach Medicaid and CHIP
+    Health and Human Services is releasing a [Framework to Support and
+    Accelerate Smoking
+    Cessation](https://www.hhs.gov/about/news/2024/03/08/hhs-announces-new-smoking-cessation-framework-support-quitting.html),
+    setting out an agenda and actions to expand equitable access and
+    effectiveness of smoking cessation services to more Americans.  As
+    an early step in the execution of this roadmap, CMS is supporting
+    efforts [to reach Medicaid and CHIP
     beneficiaries](https://www.medicaid.gov/sites/default/files/2024-03/cib03072024.pdf)
-    with effective support to quit smoking and the Department of
-    Veterans Affairs is expanding its capacity to offer tobacco-use
-    treatment to Veterans receiving lung cancer screening and through
-    outreach.
+    with effective support to quit smoking and the [Department of
+    Veterans Affairs is
+    expanding](https://news.va.gov/press-room/va-expands-health-care-benefits-veterans-cancer/)
+    its capacity to offer tobacco-use treatment to Veterans receiving
+    lung cancer screening and through outreach.
 
 \###
