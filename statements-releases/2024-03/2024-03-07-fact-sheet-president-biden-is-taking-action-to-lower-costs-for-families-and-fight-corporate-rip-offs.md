@@ -1,6 +1,6 @@
 ---
 date: '2024-03-07'
-modified_time: 2024-03-07 09:31:00-05:00
+modified_time: 2024-03-08 08:19:30-05:00
 published_time: 2024-03-07 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/
 tags: statements-releases
@@ -256,5 +256,16 @@ is a pathway to the middle class, and not a barrier to opportunity, by:
     20 or 25 years ago; borrowers who attended low quality programs; and
     borrowers who would be eligible for loan forgiveness through
     income-driven repayment programs like SAVE but have not applied.
+-   **Reduces the Cost of Education Pathways that Connect to Growing
+    Jobs.** The President’s upcoming budget includes a $12 billion
+    mandatory Reducing the Costs of College Fund that will support
+    strategies to lower college costs for students, including a new
+    program, Classroom to Career, to enable students to more affordably
+    obtain postsecondary degrees and certificates. Classroom to Career
+    provides states with matching funds to offer at least 12 no-cost
+    postsecondary credits through career-connected dual enrollment to
+    all interested students. Research shows that when done well,
+    high-quality career-related dual enrollment programs improve both
+    high school and postsecondary education outcomes.
 
 \###

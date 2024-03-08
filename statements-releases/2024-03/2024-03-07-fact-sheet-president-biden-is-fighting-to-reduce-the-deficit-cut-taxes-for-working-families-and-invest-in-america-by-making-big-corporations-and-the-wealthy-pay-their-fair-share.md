@@ -1,6 +1,6 @@
 ---
 date: '2024-03-07'
-modified_time: 2024-03-07 17:13:48-05:00
+modified_time: 2024-03-08 08:19:08-05:00
 published_time: 2024-03-07 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-fighting-to-reduce-the-deficit-cut-taxes-for-working-families-and-invest-in-america-by-making-big-corporations-and-the-wealthy-pay-their-fair-share/
 tags: statements-releases
@@ -271,16 +271,5 @@ tax plan would:
     are fighting to repeal the estate tax—even though it does not apply
     to middle-class families—in order to give more tax relief to
     billionaire families.
--   **Reduces the Cost of Education Pathways that Connect to Growing
-    Jobs.** The President’s upcoming budget includes a $12 billion
-    mandatory Reducing the Costs of College Fund that will support
-    strategies to lower college costs for students, including a new
-    program, Classroom to Career, to enable students to more affordably
-    obtain postsecondary degrees and certificates. Classroom to Career
-    provides states with matching funds to offer at least 12 no-cost
-    postsecondary credits through career-connected dual enrollment to
-    all interested students. Research shows that when done well,
-    high-quality career-related dual enrollment programs improve both
-    high school and postsecondary education outcomes.
 
 \###
