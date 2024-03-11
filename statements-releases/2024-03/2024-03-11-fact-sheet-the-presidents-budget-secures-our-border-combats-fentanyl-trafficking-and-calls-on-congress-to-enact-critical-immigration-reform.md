@@ -1,6 +1,6 @@
 ---
 date: '2024-03-11'
-modified_time: 2024-03-11 11:55:37-04:00
+modified_time: 2024-03-11 16:02:12-04:00
 published_time: 2024-03-11 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-secures-our-border-combats-fentanyl-trafficking-and-calls-on-congress-to-enact-critical-immigration-reform/
 tags: statements-releases
@@ -75,8 +75,8 @@ legislation that would make additional investments in DHS and provide
 authorities to bolster the Department’s efforts to secure and manage the
 border.
 
-Continues to Invest in Critical Capabilities Needed for Border and
-Immigration Enforcement.  Strengthening border security and providing
+**Continues to Invest in Critical Capabilities Needed for Border and
+Immigration Enforcement.**  Strengthening border security and providing
 safe, lawful pathways for migration remain top priorities for the
 Administration. The Budget builds on the Administration’s October
 supplemental request to include an additional $25.9 billion for CBP and
@@ -90,8 +90,8 @@ funds to support 34,000 ICE immigration detention beds; $225 million to
 address increased transportation and removal costs; and $34 million to
 combat child exploitation, forced labor, and human trafficking.
 
-Enables Access to Resources to Scale Border Enforcement Capacity for
-Conditions on the Southwest Border. Given the uncertainty surrounding
+**Enables Access to Resources to Scale Border Enforcement Capacity for
+Conditions on the Southwest Border.** Given the uncertainty surrounding
 border conditions in any given year, the Budget proposes a $4.7 billion
 contingency fund to aid the Department and its components when
 responding to migration surges along the Southwest border. Modeled on a
@@ -119,17 +119,17 @@ contingency fund that would provide additional resources, beyond the
 $9.3 billion, when there are unanticipated increases in the number of
 unaccompanied children.
 
-Improves Immigration Courts. The Budget builds on the Administration’s
-October supplemental request and invests $981 million, an increase of
-$121 million above the 2023 enacted level, in the Executive Office for
-Immigration Review (EOIR) to enhance America’s immigration courts and
-help address the backlog of over 2.4 million currently pending cases.
-This funding supports 25 new immigration judge teams, which includes the
-support personnel necessary to ensure efficient case processing. The
-Budget also invests $30 million for EOIR to partner to with the U.S.
-Digital Service to develop and implement digital court operations
-strategies that will maximize each judge’s adjudicatory capacity and
-help reduce the case backlog.
+**Improves Immigration Courts.** The Budget builds on the
+Administration’s October supplemental request and invests $981 million,
+an increase of $121 million above the 2023 enacted level, in the
+Executive Office for Immigration Review (EOIR) to enhance America’s
+immigration courts and help address the backlog of over 2.4 million
+currently pending cases. This funding supports 25 new immigration judge
+teams, which includes the support personnel necessary to ensure
+efficient case processing. The Budget also invests $30 million for EOIR
+to partner to with the U.S. Digital Service to develop and implement
+digital court operations strategies that will maximize each judge’s
+adjudicatory capacity and help reduce the case backlog.
 
 **Addresses the Root Causes of Migration.** The Budget provides
 approximately $1 billion for Central American programming to meet the

@@ -1,6 +1,6 @@
 ---
 date: '2024-03-11'
-modified_time: 2024-03-10 18:30:46-04:00
+modified_time: 2024-03-11 14:54:00-04:00
 published_time: 2024-03-11 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-advances-president-bidens-unity-agenda/
 tags: statements-releases
@@ -179,20 +179,20 @@ use for public good.
 **Invests in New AI Safety Institute to Protect the American Public’s
 Safety, Security, and Rights.** The Budget invests $65 million with the
 Department of Commerce to support the AI Safety Institute’s ambitious
-mandate to ensure AI models are safe, secure, and trustworthy. This
-funding would allow the Department to successfully implement central
-components of the Administration’s Executive Order. Specifically, the
-National Institute of Standards and Technology (NIST) U.S. AI Safety
-Institute will create guidelines, tools, benchmarks, and best practices
-to evaluate and mitigate risks using red-teaming and other methods. The
-Institute will develop technical guidance on issues such as
-authenticating content created by humans, watermarking AI-generated
-content, identifying and mitigating against harmful algorithmic
-discrimination and the creation of harmful synthetic content (such as
-deepfake image-based abuse), ensuring transparency, and enabling
-adoption of privacy-preserving AI, and would support the development of
-safe and trusted AI and support enforcement agencies’ efforts to protect
-the American public’ rights and safety.
+mandate to ensure AI models are safe, secure, and trustworthy, as well
+as other critical AI work. This funding would allow the Department to
+successfully implement central components of the Administration’s
+Executive Order. Specifically, the National Institute of Standards and
+Technology (NIST) U.S. AI Safety Institute will create guidelines,
+tools, benchmarks, and best practices to evaluate and mitigate risks
+using red-teaming and other methods. The Institute will develop
+technical guidance on issues such as authenticating content created by
+humans, watermarking AI-generated content, identifying and mitigating
+against harmful algorithmic discrimination and the creation of harmful
+synthetic content (such as deepfake image-based abuse), ensuring
+transparency, and enabling adoption of privacy-preserving AI, and would
+support the development of safe and trusted AI and support enforcement
+agencies’ efforts to protect the American public’ rights and safety.
 
 **Strengthens U.S. Leadership in AI by Democratizing AI innovation.**
 The Budget also includes $30 million for the National AI Research
