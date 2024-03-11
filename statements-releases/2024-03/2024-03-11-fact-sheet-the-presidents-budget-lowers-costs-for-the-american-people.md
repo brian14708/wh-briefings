@@ -1,6 +1,6 @@
 ---
 date: '2024-03-11'
-modified_time: 2024-03-10 17:56:14-04:00
+modified_time: 2024-03-11 13:02:52-04:00
 published_time: 2024-03-11 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/
 tags: statements-releases
@@ -122,7 +122,7 @@ and cut taxes by an average of $2,600 for 39 million low- and
 middle-income families that include 66 million children. The President
 also calls on Congress to make permanent the American Rescue Plan’s
 Earned Income Tax Credit expansion for workers not raising children in
-their homes, which would boost the income of \[19 million\] low-paid
+their homes, which would boost the income of 19 million low-paid
 workers.
 
 **Supports a Strong Nutrition Safety Net.** The Budget provides $8.5
