@@ -1,6 +1,6 @@
 ---
 date: '2024-03-06'
-modified_time: 2024-03-06 16:25:56-05:00
+modified_time: 2024-03-12 09:39:11-05:00
 published_time: 2024-03-06 16:25:55-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/readout-of-the-sixth-meeting-of-the-white-house-competition-council/
 tags: statements-releases
@@ -87,8 +87,8 @@ Chair Martin Oberman, Surface Transportation Board
 Assistant Secretary for Policy Raj Nayak, Department of Labor  
 Assistant Attorney General Jonathan Kanter, Antitrust Division,
 Department of Justice  
-Acting Assistant Secretary for Economic Policy Eric van Nostrand,
-Department of Treasury  
+Assistant Secretary for Economic Policy (P.D.O.) Eric Van Nostrand,
+Department of the Treasury  
 Administrator Richard Revesz, Office of Information and Regulatory
 Affairs, Office of Management and Budget  
 Director Nellie Abernathy, Office of Policy and Strategic Planning,
