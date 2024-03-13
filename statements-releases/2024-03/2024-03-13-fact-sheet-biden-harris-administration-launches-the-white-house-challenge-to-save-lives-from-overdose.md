@@ -1,6 +1,6 @@
 ---
 date: '2024-03-13'
-modified_time: 2024-03-12 19:37:20-04:00
+modified_time: 2024-03-13 08:05:11-04:00
 published_time: 2024-03-13 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-save-lives-from-overdose/
 tags: statements-releases
@@ -13,10 +13,10 @@ overdose
 crisis](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/),
 the Biden-Harris Administration is announcing the White House Challenge
 to Save Lives from Overdose. The
-[Challenge](whitehouse.gov/savelivesfromoverdose) is a nationwide
-call-to-action to stakeholders across all sectors to save lives by
-committing to increase training on and access to lifesaving opioid
-overdose reversal medications.
+[Challenge](https://www.whitehouse.gov/savelivesfromoverdose) is a
+nationwide call-to-action to stakeholders across all sectors to save
+lives by committing to increase training on and access to lifesaving
+opioid overdose reversal medications.
 
 An overdose can happen anywhere, to anyone. That’s why President Biden
 has worked to strengthen not only the whole-of-government response, but
@@ -43,11 +43,12 @@ medications to employees and customers so they might save a life at
 home, work, or in their communities.
 
 Organizations may make a commitment
-[*here*](whitehouse.gov/savelivesfromoverdose) and share a story of how
-their efforts saved a life
-[*here*](whitehouse.gov/savelivesfromoverdose). Several organizations
-and businesses are already stepping up across industries by taking the
-following actions and making the following commitments:
+[*here*](https://www.whitehouse.gov/savelivesfromoverdose/make-a-commitment/)
+and share a story of how their efforts saved a life
+[*here*](https://www.whitehouse.gov/savelivesfromoverdose/tell-your-story/).
+Several organizations and businesses are already stepping up across
+industries by taking the following actions and making the following
+commitments:
 
 Air Travel
 
@@ -197,8 +198,8 @@ Schools & Other Places of Learning
 
 State & Local Transit Systems
 
--   **Denver Regional Transportation District (RTD)¸ Massachusetts Bay
-    Transportation Authority (MBTA)**, **New Jersey Transit Police
+-   **Denver Regional Transportation District (RTD)**, **Massachusetts
+    Bay Transportation Authority (MBTA)**, **New Jersey Transit Police
     Department**, **San Francisco Bay Area Rapid Transit (BART)**,
     **Southeastern Pennsylvania Transportation Authority (SEPTA)**, and
     **Washington Metropolitan Area Transit Authority (WMATA)** train and
@@ -332,4 +333,4 @@ commitment to beating this crisis, and doubling down on efforts to
 empower all Americans to save lives.
 
 Join us at
-[whitehouse.gov/SaveLivesFromOverdose](/Users/MKHole1/Work%20Folders/Desktop/whitehouse.gov/SaveLivesFromOverdose).
+[whitehouse.gov/SaveLivesFromOverdose](http://www.whitehouse.gov/savelivesfromoverdose/).
