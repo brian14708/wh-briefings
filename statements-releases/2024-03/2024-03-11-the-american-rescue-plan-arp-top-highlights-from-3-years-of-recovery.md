@@ -1,11 +1,22 @@
 ---
 date: '2024-03-11'
+modified_time: 2024-03-14 12:53:27-04:00
 published_time: 2024-03-11 14:19:48-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/the-american-rescue-plan-arp-top-highlights-from-3-years-of-recovery/
 tags: statements-releases
 title: "The American Rescue Plan (ARP): Top Highlights from 3 Years of\_Recovery"
 ---
  
+The American Rescue Plan has led to a historic recovery across the
+country, with 15 million jobs created and the longest streak of sub-4%
+unemployment in more than 50 years. It’s led to a recovery where more
+Americans are working than ever before and more Americans are taking the
+act of faith of starting a business, with a record 16 million small
+business applications over the past three years. In addition to the
+highlights below, here’s a breakdown of how the American Rescue Plan has
+helped every state across the nation: [ARP State-by-State
+Highlights](https://www.whitehouse.gov/wp-content/uploads/2024/03/State-by-State-ARP-3.11.24-Final.pdf)
+
 1.  ***Led to the Strongest Jobs Recovery on Record and the Strongest
     Recovery in the World: When President Biden came into office, there
     was tremendous economic uncertainty.*** *Unemployment was at 6.4%
