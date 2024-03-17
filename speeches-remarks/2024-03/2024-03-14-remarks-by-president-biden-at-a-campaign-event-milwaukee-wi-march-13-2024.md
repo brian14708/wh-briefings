@@ -1,5 +1,6 @@
 ---
 date: '2024-03-14'
+modified_time: 2024-03-17 12:23:42-04:00
 published_time: 2024-03-14 12:03:17-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/14/remarks-by-president-biden-at-a-campaign-event-milwaukee-wi-march-13-2024/
 tags: speeches-remarks
@@ -9,6 +10,7 @@ title: "Remarks by President\_Biden at a Campaign Event | Milwaukee, WI (March 1
  
 Wisconsin Coordinated Campaign Headquarters  
 Milwaukee, Wisconsin  
+  
 (March 13, 2024)
 
 4:19 P.M. CDT
