@@ -1,6 +1,6 @@
 ---
 date: '2024-03-18'
-modified_time: 2024-03-17 23:01:40-04:00
+modified_time: 2024-03-19 16:43:55-04:00
 published_time: 2024-03-18 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/
 tags: statements-releases
@@ -146,10 +146,11 @@ Skin Diseases.
     for women’s health research, including in endometriosis, rheumatoid
     arthritis, and chronic fatigue.  
 -   **Call for New Proposals on Emerging Women’s Health Issues**. Today,
-    NSF is calling for new research and education proposals to advance
-    discoveries and innovations related to women’s health. To promote
-    multidisciplinary solutions to women’s health disparities, NSF
-    invites applications that would improve women’s health through a
+    NSF is [calling for new research and education
+    proposals](https://www.nsf.gov/pubs/2024/nsf24068/nsf24068.jsp) to
+    advance discoveries and innovations related to women’s health. To
+    promote multidisciplinary solutions to women’s health disparities,
+    NSF invites applications that would improve women’s health through a
     wide range of disciplines—from computational research to engineering
     biomechanics. This is the first time that NSF has broadly called for
     novel and transformative research that is focused entirely on
@@ -218,13 +219,15 @@ Skin Diseases.
     uniquely or disproportionately impact women.  
 -   **Use Biomarkers to Improve the Health of Women Through Early
     Detection and Treatment of Conditions, such as Endometriosis.** NIH
-    will launch a new initiative dedicated to research on biomarker
-    discovery and validation to help improve our ability to prevent,
-    diagnose, and treat conditions that affect women uniquely, including
-    endometriosis. This NIH initiative will accelerate our ability to
-    identify new pathways for diagnosis and treatment by encouraging
-    multi-sector collaboration and synergistic research that will speed
-    the transfer of knowledge from bench to bedside.  
+    will [launch a new
+    initiative](https://grants.nih.gov/grants/guide/notice-files/NOT-HD-24-016.html)
+    dedicated to research on biomarker discovery and validation to help
+    improve our ability to prevent, diagnose, and treat conditions that
+    affect women uniquely, including endometriosis. This NIH initiative
+    will accelerate our ability to identify new pathways for diagnosis
+    and treatment by encouraging multi-sector collaboration and
+    synergistic research that will speed the transfer of knowledge from
+    bench to bedside.  
 -   **Leverage Engineering Research to Improve Women’s Health**. The NSF
     Engineering Research Visioning Alliance (ERVA) is
     [convening](https://www.ervacommunity.org/event/visioning-event-transforming-womens-health-outcomes-through-engineering/)
@@ -239,11 +242,12 @@ Skin Diseases.
     issue a report and roadmap on critical areas where engineering
     research can impact women’s health across the lifespan.  
 -   **Drive Engineering Innovations in Women’s Health Discovery**. NSF
-    awardees at Texas A&M University will hold a conference in summer
-    2024 to collectively identify challenges and opportunities in
-    improving women’s health through engineering. Biomedical engineers
-    and scientists will explore and identify how various types of
-    engineering tools, including biomechanics and immuno-engineering,
+    awardees at Texas A&M University will [hold a
+    conference](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422973&HistoricalAwards=false)
+    in summer 2024 to collectively identify challenges and opportunities
+    in improving women’s health through engineering. Biomedical
+    engineers and scientists will explore and identify how various types
+    of engineering tools, including biomechanics and immuno-engineering,
     can be applied to women’s health and spark promising new research
     directions.
 
@@ -341,15 +345,16 @@ Women’s Health Research**
 **Improve Women’s Health Across the Lifespan**
 
 -   **Create a Comprehensive Research Agenda on Menopause.** To help
-    women get the answers they need about menopause, NIH will launch its
-    first-ever Pathways to Prevention series on menopause and the
-    treatment of menopausal symptoms. Pathways to Prevention is an
-    independent, evidence-based process to synthesize the current state
-    of the evidence, identify gaps in existing research, and develop a
-    roadmap that can be used to help guide the field forward. The
-    report, once completed, will help guide innovation and investments
-    in menopause-related research and care across the federal government
-    and research community.  
+    women get the answers they need about menopause, NIH will [launch
+    its first-ever Pathways to Prevention
+    series](https://prevention.nih.gov/research-priorities/research-needs-and-gaps/pathways-prevention)
+    on menopause and the treatment of menopausal symptoms. Pathways to
+    Prevention is an independent, evidence-based process to synthesize
+    the current state of the evidence, identify gaps in existing
+    research, and develop a roadmap that can be used to help guide the
+    field forward. The report, once completed, will help guide
+    innovation and investments in menopause-related research and care
+    across the federal government and research community.  
 -   **Improve Primary Care and Preventive Services for Women**. The
     Agency for Healthcare Research and Quality (AHRQ) will issue a
     Notice of Intent to publish a funding opportunity announcement for
