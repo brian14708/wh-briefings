@@ -1,6 +1,6 @@
 ---
 date: '2024-03-20'
-modified_time: 2024-03-19 23:29:28-04:00
+modified_time: 2024-03-20 09:49:30-04:00
 published_time: 2024-03-20 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-president-biden-announces-up-to-8-5-billion-preliminary-agreement-with-intel-under-the-chips-science-act/
 tags: statements-releases
@@ -32,9 +32,11 @@ the world’s chips and none of the most advanced ones. Thanks to
 President Biden’s CHIPS and Science Act, that is changing. Companies
 have announced over $240 billion in investments to bring semiconductor
 manufacturing back to the United States since the President took office.
-Semiconductor jobs are making a comeback. And thanks to CHIPS
-investments like the one today, America will produce roughly 20% of the
-world’s leading-edge chips by the end of the decade.  
+Semiconductor jobs are [making a
+comeback.](https://www.whitehouse.gov/cea/written-materials/2024/03/20/u-s-semiconductor-jobs-are-making-a-comeback/)
+And thanks to CHIPS investments like the one today, America will produce
+roughly 20% of the world’s leading-edge chips by the end of the
+decade.  
   
 Today’s announcement is critical to realizing President Biden’s vision
 to reestablish America’s leadership in chip manufacturing. In
