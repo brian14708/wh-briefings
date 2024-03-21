@@ -1,6 +1,6 @@
 ---
 date: '2024-03-21'
-modified_time: 2024-03-20 19:58:07-04:00
+modified_time: 2024-03-21 09:28:12-04:00
 published_time: 2024-03-21 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/fact-sheet-80-of-house-republicans-release-plan-targeting-medicare-social-security-and-the-affordable-care-act-raising-costs-and-cutting-taxes-for-the-wealthy/
 tags: statements-releases
@@ -16,7 +16,7 @@ and give more tax cuts to the wealthy,” that they continue to oppose the
 Affordable Care Act, and that they are siding with Big Pharma over
 hardworking families.     
 
-On Wednesday, Republican Study Committee – which represents 100% of
+On Wednesday, the Republican Study Committee – which represents 100% of
 House Republican leadership and nearly 80% of their members – just
 proposed yet another budget that would cut Medicare, Social Security,
 and the Affordable Care Act , as well as increase prescription drug,
