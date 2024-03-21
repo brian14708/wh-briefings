@@ -1,6 +1,6 @@
 ---
 date: '2024-03-19'
-modified_time: 2024-03-18 22:41:43-04:00
+modified_time: 2024-03-21 11:25:14-04:00
 published_time: 2024-03-19 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/
 tags: statements-releases
@@ -244,12 +244,13 @@ Housing:**
     build or rehabilitate at least 20,000 units of affordable housing
     and support an additional 23,000 households with rental assistance,
     non-congregate shelter, or supportive services. 
--   New data released today shows that since the ARP’s passage, states,
-    Tribal governments, and territories have distributed $6.6 billion
-    HAF award funds to over 500,000 homeowners for past due mortgage
-    payments, utility expenses, and property taxes, as well as other
-    housing related expenses. As a result of this program and the strong
-    economic recovery, foreclosure starts are well below pre-pandemic
-    levels.
+-   [New data released
+    today](https://home.treasury.gov/news/press-releases/jy2188) shows
+    that since the ARP’s passage, states, Tribal governments, and
+    territories have distributed $6.6 billion HAF award funds to
+    over 500,000 homeowners for past due mortgage payments, utility
+    expenses, and property taxes, as well as other housing related
+    expenses. As a result of this program and the strong economic
+    recovery, foreclosure starts are well below pre-pandemic levels.
 
 \###
