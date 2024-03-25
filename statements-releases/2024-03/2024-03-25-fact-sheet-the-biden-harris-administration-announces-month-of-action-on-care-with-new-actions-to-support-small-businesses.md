@@ -1,6 +1,6 @@
 ---
 date: '2024-03-25'
-modified_time: 2024-03-25 15:48:26-04:00
+modified_time: 2024-03-25 17:56:55-04:00
 published_time: 2024-03-25 16:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-the-biden-harris-administration-announces-month-of-action-on-care-with-new-actions-to-support-small-businesses/
 tags: statements-releases
@@ -20,7 +20,7 @@ Business Administrator Isabel Guzman. The new actions include: 
     Care Sector**. In the coming months, SBA will make available new
     funding opportunities to support small businesses in the child care
     sector through SBA’s Women Business Center (WBC) program.  WBCs are
-    a part a national network of entrepreneurship centers designed to
+    a part of a national network of entrepreneurship centers designed to
     assist women in starting and growing small businesses. The
     additional funds will support the expansion of child care delivery
     systems, increase child care slots, and improve child care access,
