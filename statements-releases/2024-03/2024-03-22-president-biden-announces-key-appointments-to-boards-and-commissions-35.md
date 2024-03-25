@@ -1,6 +1,6 @@
 ---
 date: '2024-03-22'
-modified_time: 2024-03-22 14:21:07-04:00
+modified_time: 2024-03-25 16:09:20-04:00
 published_time: 2024-03-22 15:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/president-biden-announces-key-appointments-to-boards-and-commissions-35/
 tags: statements-releases
@@ -315,7 +315,7 @@ Adelaide, which in 2019 established the Jeff Bleich Centre in his honor.
 Board**
 
 Patrick Mendis is a former American diplomat and military professor in
-the North Atlantic Trading Organization (NATO) and Indo-Pacific Commands
+the North Atlantic Treaty Organization (NATO) and Indo-Pacific Commands
 during the Clinton, Bush, and Obama Administrations. Mendis has held
 many senior government positions in the U.S. Departments of Agriculture,
 Defense, Energy, and State. He is currently located in Washington,
