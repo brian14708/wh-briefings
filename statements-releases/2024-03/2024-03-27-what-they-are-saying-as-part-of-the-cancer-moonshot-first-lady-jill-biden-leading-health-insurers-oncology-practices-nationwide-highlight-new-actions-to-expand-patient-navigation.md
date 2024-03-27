@@ -1,6 +1,6 @@
 ---
 date: '2024-03-27'
-modified_time: 2024-03-27 12:09:29-04:00
+modified_time: 2024-03-27 17:24:36-04:00
 published_time: 2024-03-27 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/27/what-they-are-saying-as-part-of-the-cancer-moonshot-first-lady-jill-biden-leading-health-insurers-oncology-practices-nationwide-highlight-new-actions-to-expand-patient-navigation/
 tags: statements-releases
@@ -125,7 +125,17 @@ to medical care that is affordable, effective, and of the highest
 quality. We are excited about this opportunity to advance our support
 for those facing cancer. Ensuring pathways to cancer navigation services
 is an important step in addressing barriers to care and improving
-overall health equity.”  
+overall health equity.”
+
+**<u>Stacy Borans, Board Member, The Self Insurance Institute of
+America:</u>**  
+“The Self Insurance Institute of America (SIIA) is proud to support the
+Biden Cancer Moonshot’s initiative to expand navigation services access.
+A cancer diagnosis is incredibly overwhelming and extremely complicated
+for patients to wind through alone. The navigation codes will positively
+impact patient engagement and communication exponentially. SIIA is
+committed to educating our membership on the coverage and usage of these
+codes.”  
    
 **<u>Alliance of Community Health Plans</u>**  
 “ACHP supports the Biden Cancer Moonshot & Patient Navigation
