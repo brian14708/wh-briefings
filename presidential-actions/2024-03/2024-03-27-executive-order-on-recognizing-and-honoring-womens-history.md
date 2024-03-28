@@ -1,5 +1,6 @@
 ---
 date: '2024-03-27'
+modified_time: 2024-03-27 19:03:27-04:00
 published_time: 2024-03-27 18:26:42-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/
 tags: presidential-actions
@@ -47,7 +48,7 @@ equal and equitable present and future.
 
      Sec. 2.  Definitions.  For purposes of this order:
 
-     (a)  The term “sites of national importance” includes National Park
+(a)  The term “sites of national importance” includes National Park
 “System units” as defined in 54 U.S.C. 100102 (by reference to 54 U.S.C.
 100501), national monuments designated by the Congress or by the
 President pursuant to 54 U.S.C. 320301, and National Historic Landmarks
@@ -58,10 +59,11 @@ Park Service pursuant to 36 C.F.R. 65.5(a) to identify historic
 properties in the United States that are nationally significant to a
 specific area of American history.
 
-     Sec. 3.  Recognizing and Honoring Women’s History.  (a)  Within 180
-days of the date of this order, to strengthen the Federal Government’s
-recognition of women’s history, the Secretary of the Interior shall
-submit a report to the President that:
+     Sec. 3.  Recognizing and Honoring Women’s History.  
+
+\(a\)  Within 180 days of the date of this order, to strengthen the
+Federal Government’s recognition of women’s history, the Secretary of
+the Interior shall submit a report to the President that:
 
 (i)   includes an assessment of existing sites of national importance
 that are directly related to women’s history, whether managed by the
@@ -72,7 +74,7 @@ entity; and
 (ii)  identifies opportunities within sites of national importance to
 highlight important figures and chapters in women’s history.
 
-     (b)  To strengthen the Federal Government’s recognition of women’s
+(b)  To strengthen the Federal Government’s recognition of women’s
 history:
 
 (i)    The Secretary of the Interior shall conduct an overview theme
@@ -114,12 +116,12 @@ the National Park System Advisory Board produce interim recommendations
 to the Secretary within 270 days of the date of this order and produce
 final recommendations within 1 year of the date of this order.
 
-     (c)  The Secretary of the Interior shall make available the
-findings from the overview theme study and series of subsequent theme
-studies conducted pursuant to subsection (b)(i) of this section to the
-Director of the Smithsonian American Women’s History Museum and the
-corresponding council established in 20 U.S.C. 80t-2, for consideration,
-as appropriate, in developing their own exhibits.
+\(c\)  The Secretary of the Interior shall make available the findings
+from the overview theme study and series of subsequent theme studies
+conducted pursuant to subsection (b)(i) of this section to the Director
+of the Smithsonian American Women’s History Museum and the corresponding
+council established in 20 U.S.C. 80t-2, for consideration, as
+appropriate, in developing their own exhibits.
 
 <u>Sec</u>. 4.  Implementation.  The Secretary of the Interior shall
 consult with the Assistant to the President and Director of the White
@@ -127,8 +129,10 @@ House Gender Policy Council, the Assistant to the President and Director
 of the Domestic Policy Council, and the Chair of the Council on
 Environmental Quality in implementing this order.
 
-     Sec. 5.  General Provisions.  (a)  Nothing in this order shall be
-construed to impair or otherwise affect:
+     Sec. 5.  General Provisions. 
+
+(a)  Nothing in this order shall be construed to impair or otherwise
+affect:
 
 (i)   the authority granted by law to an executive department or agency,
 or the head thereof; or
@@ -136,12 +140,12 @@ or the head thereof; or
 (ii)  the functions of the Director of the Office of Management and
 Budget relating to budgetary, administrative, or legislative proposals.
 
-     (b)  This order shall be implemented consistent with applicable law
-and subject to the availability of appropriations.
+(b)  This order shall be implemented consistent with applicable law and
+subject to the availability of appropriations.
 
-     (c)  This order is not intended to, and does not, create any right
-or benefit, substantive or procedural, enforceable at law or in equity
-by any party against the United States, its departments, agencies, or
+(c)  This order is not intended to, and does not, create any right or
+benefit, substantive or procedural, enforceable at law or in equity by
+any party against the United States, its departments, agencies, or
 entities, its officers, employees, or agents, or any other person.
 
                              JOSEPH R. BIDEN JR.
