@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28'
-modified_time: 2024-03-28 13:03:14-04:00
+modified_time: 2024-03-28 16:16:01-04:00
 published_time: 2024-03-28 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/white-house-announces-theme-and-activities-for-the-2024-easter-egg-roll/
 tags: statements-releases
@@ -104,8 +104,6 @@ South Lawn, which are supported by (in alphabetical order):**
 -   American Egg Board Farmers Jana Zweering and Molly Weaver
 -   American Society of Plant Biologists
 -   “Art of the Brick,” LEGO artist Nathan Sawaya
--   Apple TV+ and Gobo Fraggle and Red Fraggle from Fraggle Rock: Back
-    to the Rock
 
 <!-- -->
 
@@ -134,6 +132,7 @@ South Lawn, which are supported by (in alphabetical order):**
 -   Five Below, Inc.
 -   Founding Farmers
 -   George Mason University Green Machine, Fairfax, VA
+-   Gobo Fraggle and Red Fraggle from Fraggle Rock: Back to the Rock
 -   Independence High School Marching Band, Brambleton, VA
 -   INDYCAR
 -   Lawrence Hall of Science: University of California, Berkeley
