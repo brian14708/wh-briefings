@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28'
-modified_time: 2024-03-27 23:20:54-04:00
+modified_time: 2024-03-28 13:03:14-04:00
 published_time: 2024-03-28 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/white-house-announces-theme-and-activities-for-the-2024-easter-egg-roll/
 tags: statements-releases
@@ -135,7 +135,7 @@ South Lawn, which are supported by (in alphabetical order):**
 -   Founding Farmers
 -   George Mason University Green Machine, Fairfax, VA
 -   Independence High School Marching Band, Brambleton, VA
--   INDYCAR SERIES
+-   INDYCAR
 -   Lawrence Hall of Science: University of California, Berkeley
 -   Lauren Quigley Creations
 -   Monet The Immersive Experience / Exhibition Hub
