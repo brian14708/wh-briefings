@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28'
-modified_time: 2024-03-28 09:08:32-04:00
+modified_time: 2024-03-28 17:53:39-04:00
 published_time: 2024-03-28 07:12:47-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
 tags: statements-releases
@@ -58,9 +58,9 @@ employment and housing.
 
 For example, by adopting these safeguards, agencies can ensure that:
 
--   When at the airport, travelers will have the ability to opt out from
-    the use of TSA facial recognition without any delay or losing their
-    place in line.
+-   When at the airport, travelers will continue to have the ability to
+    opt out from the use of TSA facial recognition without any delay or
+    losing their place in line.
 -   When AI is used in the Federal healthcare system to support critical
     diagnostics decisions, a human being is overseeing the process to
     verify the tools’ results and avoids disparities in healthcare
