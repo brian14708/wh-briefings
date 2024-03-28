@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28'
-modified_time: 2024-03-28 07:14:16-04:00
+modified_time: 2024-03-28 09:08:32-04:00
 published_time: 2024-03-28 07:12:47-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
 tags: statements-releases
@@ -13,10 +13,12 @@ title: "FACT SHEET: Vice President Harris Announces OMB Policy to Advance Govern
 *President Biden’s landmark Executive Order on AI*
 
 Today, Vice President Kamala Harris announced that the White House
-Office of Management and Budget (OMB) is issuing OMB’s first
-government-wide policy to mitigate risks of artificial intelligence (AI)
-and harness its benefits – delivering on a core component of the
-President Biden’s [landmark AI Executive
+Office of Management and Budget (OMB) is issuing [OMB’s first
+government-wide
+policy](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
+to mitigate risks of artificial intelligence (AI) and harness its
+benefits – delivering on a core component of the President Biden’s
+[landmark AI Executive
 Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). 
 The Order directed sweeping action to strengthen AI safety and security,
 protect Americans’ privacy, advance equity and civil rights, stand up
@@ -33,8 +35,9 @@ announced that the President’s Budget invests in agencies’ ability to
 responsibly develop, test, procure, and integrate transformative AI
 applications across the Federal Government.
 
-In line with the President’s Executive Order, OMB’s new policy directs
-the following actions:
+In line with the President’s Executive Order, [OMB’s new
+policy](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
+directs the following actions:
 
 **Address Risks from the Use of AI**
 
@@ -104,8 +107,9 @@ transparency in their use of AI by requiring agencies to publicly:
 -   Release government-owned AI code, models, and data, where such
     releases do not pose a risk to the public or government operations.
 
-Today, OMB is also releasing detailed draft instructions to agencies
-detailing the contents of this public reporting.
+Today, OMB is also releasing [detailed draft
+instructions](https://www.whitehouse.gov/wp-content/uploads/2024/03/DRAFT-Guidance-for-Agency-Artificial-Intelligence-Reporting-per-EO14110.pdf)
+to agencies detailing the contents of this public reporting.
 
 **Advance Responsible AI Innovation**
 
