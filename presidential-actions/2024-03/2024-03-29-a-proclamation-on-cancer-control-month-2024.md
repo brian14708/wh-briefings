@@ -1,18 +1,19 @@
 ---
 date: '2024-03-29'
-modified_time: 2024-03-29 10:27:53-04:00
+modified_time: 2024-03-29 10:59:59-04:00
 published_time: 2024-03-29 10:27:52-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-cancer-control-month-2024/
 tags: presidential-actions
-title: "A Proclamation on Cancer Control Month,\_2024"
+title: "A Proclamation on National Cancer Prevention and Early Detection Month,\_\
+  2024"
 ---
  
-     Cancer has touched nearly every American family.  During Cancer
-Control Month, we honor the enormous courage and strength of the
-millions of Americans facing the disease today and of the many millions
-of survivors, whose resilience inspires us all.  Together, we will end
-cancer as we know it and get patients and families the quality care and
-support that they deserve.
+     Cancer has touched nearly every American family.  During National
+Cancer Prevention and Early Detection Month, we honor the enormous
+courage and strength of the millions of Americans facing the disease
+today and of the many millions of survivors, whose resilience inspires
+us all.  Together, we will end cancer as we know it and get patients and
+families the quality care and support that they deserve.
 
 In recent decades, we have made enormous progress toward beating
 cancer.  In addition to new medicines and therapies, we have developed
@@ -88,11 +89,11 @@ the lives we have lost, and the lives we can save, let us recommit to
 this vital work.
 
 NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States
-of America, do hereby proclaim April 2024 as Cancer Control Month. 
-I encourage citizens, government agencies, private businesses, nonprofit
-organizations, and other interested groups to join in activities that
-will increase awareness of what Americans can do to prevent, detect, and
-beat cancer.
+of America, do hereby proclaim April 2024 as National Cancer Prevention
+and Early Detection Month. I encourage citizens, government agencies,
+private businesses, nonprofit organizations, and other interested groups
+to join in activities that will increase awareness of what Americans can
+do to prevent, detect, and beat cancer.
 
      IN WITNESS WHEREOF, I have hereunto set my hand this twenty-ninth
 day of March, in the year of our Lord two thousand twenty-four, and of
