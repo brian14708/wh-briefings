@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28'
-modified_time: 2024-03-28 17:53:39-04:00
+modified_time: 2024-03-29 16:46:20-04:00
 published_time: 2024-03-28 07:12:47-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
 tags: statements-releases
@@ -161,8 +161,8 @@ advance AI risk management, innovation, and governance including:
     Government.
 -   The Fiscal Year 2025 President’s Budget includes an additional $5
     million to expand General Services Administration’s government-wide
-    AI training program, which last year had over 7,500 participants
-    across from across 85 Federal agencies.  
+    AI training program, which last year had over 4,800 participants
+    from across 78 Federal agencies.  
 
 **Strengthen AI Governance**
 
