@@ -1,6 +1,6 @@
 ---
 date: '2024-03-29'
-modified_time: 2024-03-29 19:59:51-04:00
+modified_time: 2024-03-30 17:03:48-04:00
 published_time: 2024-03-29 20:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/readout-of-latest-supply-chain-disruptions-task-force-meeting/
 tags: statements-releases
@@ -21,9 +21,10 @@ session](https://www.transportation.gov/briefing-room/readout-secretary-buttigie
 by Secretary Buttigieg, where ports, labor groups, and industry
 partners offered strategies for navigating shipping and transportation
 diversions on a temporary basis. The Department of
-Agriculture discussed today’s convening of federal, state, agricultural,
-and food industry stakeholders to assess potential short-term impacts to
-the agriculture and food sectors.
+Agriculture discussed today’s [convening of federal, state,
+agricultural, and food industry
+stakeholders](https://www.usda.gov/media/press-releases/2024/03/29/readout-meeting-agricultural-stakeholders-port-baltimore-and) to assess potential short-term
+impacts to the agriculture and food sectors.
 
 Agency participants discussed progress made by shippers, businesses, and
 ocean carriers to successfully divert cargo to alternative ports with
