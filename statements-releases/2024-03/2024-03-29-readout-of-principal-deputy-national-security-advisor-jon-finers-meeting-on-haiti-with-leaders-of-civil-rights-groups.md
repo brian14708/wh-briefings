@@ -1,5 +1,6 @@
 ---
 date: '2024-03-29'
+modified_time: 2024-04-01 09:46:55-04:00
 published_time: 2024-03-29 20:43:11-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-on-haiti-with-leaders-of-civil-rights-groups/
 tags: statements-releases
@@ -47,9 +48,9 @@ The roundtable participants included:
 -   Rev. Al Sharpton, Founder & President, National Action Network
 -   Derrick Johnson, President, NAACP
 -   Raymond Audain, Senior Council, NAACP Legal Defense Fund
--   Dr. Ron Daniels, President, Institute of the Black World
--   Jocelyn McCalla, Executive Director, National Coalition for Haitian
-    Rights
+-   Dr. Ron Daniels, Founder, Haiti Support Project
+-   Jocelyn McCalla, Senior Policy Advisor, Haitian-American Foundation
+    for Democracy
 -   Gen. Russel Honoré (Ret.), Advisor, National Urban League
 -   Tara Murray, Executive Director Washington Bureau, Senior Vice
     President Policy & Advocacy, National Urban League
