@@ -1,6 +1,6 @@
 ---
 date: '2024-04-05'
-modified_time: 2024-04-05 09:37:28-04:00
+modified_time: 2024-04-05 13:11:33-04:00
 published_time: 2024-04-05 06:48:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/
 tags: statements-releases
@@ -263,15 +263,17 @@ efforts. These efforts include: 
     and strengthen Maryland’s economy in the wake of these
     disruptions.  
 -   **Providing relief for displaced workers.** The U.S. Department of
-    Labor (DOL) released an initial tranche of $3.5 million from its
-    Dislocated Worker Grants Program for employment services and
-    temporary jobs to assist with clean-up in the wake of the Key Bridge
-    disaster—and approve up to $25 million in overall funding. These
-    funds can be used for worker training, and to pay or subsidize wages
-    for those who lost their jobs and are engaged in post-disaster
-    relief employment. This initial tranche of funding is in response to
-    the State of Maryland’s request, and DOL expects to release
-    additional funds as Maryland implements its grant activities.  
+    Labor (DOL) released an initial tranche of [$3.5 million from its
+    Dislocated Worker Grants
+    Program](https://www.dol.gov/newsroom/releases/eta/eta20240405) for
+    employment services and temporary jobs to assist with clean-up in
+    the wake of the Key Bridge disaster—and approve up to $25 million in
+    overall funding. These funds can be used for worker training, and to
+    pay or subsidize wages for those who lost their jobs and are engaged
+    in post-disaster relief employment. This initial tranche of funding
+    is in response to the State of Maryland’s request, and DOL expects
+    to release additional funds as Maryland implements its grant
+    activities.  
 -   **Assisting workers in accessing benefits:** DOL is working closely
     with the State of Maryland to launch ‘Worker Support
     Centers’—in-person services that will offer support to port workers
