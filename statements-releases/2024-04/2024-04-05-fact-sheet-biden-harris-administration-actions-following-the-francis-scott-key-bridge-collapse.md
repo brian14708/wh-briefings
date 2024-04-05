@@ -1,5 +1,6 @@
 ---
 date: '2024-04-05'
+modified_time: 2024-04-05 09:37:28-04:00
 published_time: 2024-04-05 06:48:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/
 tags: statements-releases
@@ -122,8 +123,10 @@ bridge daily.
     since day one about his commitment that the Federal government
     should cover any needed costs for reconstructing the bridge. While
     we continue to assess those costs alongside our Federal and state
-    partners, the Biden-Harris Administration is asking Congress to join
-    us in demonstrating our commitment to aid in recovery efforts by
+    partners, [the Biden-Harris Administration is asking Congress to
+    join
+    us](https://www.whitehouse.gov/omb/briefing-room/2024/04/05/letter-regarding-authorizing-language-for-rebuilding-francis-scott-key-bridge/)
+    in demonstrating our commitment to aid in recovery efforts by
     authorizing a 100 percent Federal cost share for rebuilding the
     bridge. This authorization would be consistent with past
     catastrophic bridge collapses, including in 2007, when Congress
