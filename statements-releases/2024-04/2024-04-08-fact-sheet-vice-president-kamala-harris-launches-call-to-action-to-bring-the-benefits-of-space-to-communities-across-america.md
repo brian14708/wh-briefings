@@ -1,6 +1,6 @@
 ---
 date: '2024-04-08'
-modified_time: 2024-04-08 21:45:40-04:00
+modified_time: 2024-04-09 14:54:18-04:00
 published_time: 2024-04-08 20:45:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-harris-launches-call-to-action-to-bring-the-benefits-of-space-to-communities-across-america/
 tags: statements-releases
@@ -35,10 +35,9 @@ For America, space is a source of strength, inspiration, and innovation.
 Space activities have become critical to our way of life and provide
 numerous benefits to society. That’s why more than 100 organizations are
 coming together  to support the first-ever [Find Your Place in Space
-Week](/Users/QBrown1/Work%20Folders/Documents/Space%20STEM%20&%20Workforce/Space_OpenHouse_Week/Fact%20Sheet/nasa.gov/spaceweek),
-which includes more than 200 events across all 50 states, Puerto Rico,
-and Washington, D.C.. Each event will provide opportunities for people
-to learn about space.  
+Week](https://www.nasa.gov/spaceweek/), which includes more than 200
+events across all 50 states, Puerto Rico, and Washington, D.C.. Each
+event will provide opportunities for people to learn about space.  
 
 *<u>Space4All</u>*
 
