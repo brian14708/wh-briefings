@@ -1,6 +1,6 @@
 ---
 date: '2024-04-09'
-modified_time: 2024-04-08 23:05:07-04:00
+modified_time: 2024-04-09 12:22:23-04:00
 published_time: 2024-04-09 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/
 tags: statements-releases
@@ -173,7 +173,7 @@ others over the past year to improve family caregiving, long-term care,
 and child care. A full list can be found
 [here](https://www.whitehouse.gov/wp-content/uploads/2024/04/Progress-Summary.pdf).
 
-**<u>Republican Officials Want to Provide Massive Taxes to the Rich
+**<u>Republican Officials Want to Provide Massive Taxes Cuts to the Rich
 while Making Devastating Cuts to Programs Working Families Count
 On</u>**
 
