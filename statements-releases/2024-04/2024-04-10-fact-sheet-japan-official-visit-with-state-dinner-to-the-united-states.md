@@ -1,5 +1,6 @@
 ---
 date: '2024-04-10'
+modified_time: 2024-04-11 09:01:09-04:00
 published_time: 2024-04-10 14:57:32-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-japan-official-visit-with-state-dinner-to-the-united-states/
 tags: statements-releases
@@ -264,10 +265,10 @@ and vibrant economic ties:
 -   Honda Aircraft Company has announced an additional investment of
     $55.7 million for production of its new HondaJet 2600 model in North
     Carolina. It brings the total investment in the HondaJet business in
-    North Carolina to $573.4 million. UBE Corporation has invested $500
-    million in its Waggaman, Louisiana, a Justice40 community,
-    electrolyte solvent facility project for batteries which it expects
-    to create 60 new jobs.
+    North Carolina to $573.4 million.
+-   UBE Corporation has invested $500 million in its Waggaman,
+    Louisiana, a Justice40 community, electrolyte solvent facility
+    project for batteries which it expects to create 60 new jobs.
 -   Yaskawa Electric Corporation is investing approximately $200 million
     in new manufacturing facilities for robotics and semiconductor
     motion solutions in the states of Wisconsin and Ohio which is
