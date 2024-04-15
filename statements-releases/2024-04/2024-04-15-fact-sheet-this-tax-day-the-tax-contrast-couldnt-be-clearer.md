@@ -1,6 +1,6 @@
 ---
 date: '2024-04-15'
-modified_time: 2024-04-14 19:06:50-04:00
+modified_time: 2024-04-15 10:41:14-04:00
 published_time: 2024-04-15 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/
 tags: statements-releases
@@ -26,7 +26,7 @@ agenda.
 In sharp contrast, the Republican Study Committee—which represents 80%
 of House Republicans and 100% of their leadership—just released an
 extreme budget that sides with the wealthy and large corporations, with
-$5.5 trillionin tax cuts skewed to the richest Americans, doubling down
+$5.5 trillion in tax cuts skewed to the richest Americans, doubling down
 on the failed approach of the Trump tax cuts. If their extreme proposals
 became law, millions of families would face higher taxes and higher
 costs, and receive worse customer service from the IRS. Meanwhile,
@@ -64,13 +64,14 @@ proposals to:
     fully paid for by making the wealthy and big corporations pay their
     fair share.
 -   Make sure the IRS works for Americans by continuing to improve
-    customer service and crack down on wealthy tax cheats. This filing
-    season, the IRS has achieved a 3-minute call wait time, saved
-    taxpayers 1.4 million hours of hold times with expanded call back
-    availability, increased in-person tax preparation support by more
-    than 200,000 returns, and successfully launched a Direct File pilot
-    that lets Americans file their taxes online easily and for free,
-    directly with the IRS. The IRS has also
+    customer service and crack down on wealthy tax cheats. [This filing
+    season](https://home.treasury.gov/news/press-releases/jy2250), the
+    IRS has achieved a 3-minute call wait time, saved taxpayers 1.4
+    million hours of hold times with expanded call back availability,
+    increased in-person tax preparation support by more than 200,000
+    returns, and successfully launched a Direct File pilot that lets
+    Americans file their taxes online easily and for free, directly with
+    the IRS. The IRS has also
     [collected](https://www.irs.gov/newsroom/irs-launches-new-effort-aimed-at-high-income-non-filers-125000-cases-focused-on-high-earners-including-millionaires-who-failed-to-file-tax-returns-with-financial-activity-topping-100-billion)
     more than $500 million in unpaid taxes from around 1,000 delinquent
     millionaires and billionaires,
