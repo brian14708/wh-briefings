@@ -1,5 +1,6 @@
 ---
 date: '2024-04-09'
+modified_time: 2024-04-16 14:14:19-04:00
 published_time: 2024-04-09 16:22:53-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/09/remarks-by-president-biden-on-the-care-economy-washington-d-c/
 tags: speeches-remarks
@@ -119,8 +120,8 @@ It’s overwhelming.
 Take paid leave.  We’re the only ad- — (applause) — we’re — we’re the —
 we’re the only advanced economy in the world not to guarantee paid
 leave.  We’re going to change that.  (Applause.)  That means to help a
-loved one, many folks have to leave work to \[or\] find out later that
-they’ve been fired.
+loved one, many folks have to leave work <s>to</s> \[or\] find out later
+that they’ve been fired.
 
 In the United States of America, no one — no one should choose between
 caring for a parent who’s raised them, a child who depends on them, or a

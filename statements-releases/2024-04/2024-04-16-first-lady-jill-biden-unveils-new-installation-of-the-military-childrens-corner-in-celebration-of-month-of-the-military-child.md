@@ -1,6 +1,6 @@
 ---
 date: '2024-04-16'
-modified_time: 2024-04-15 22:34:42-04:00
+modified_time: 2024-04-16 12:41:18-04:00
 published_time: 2024-04-16 08:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/first-lady-jill-biden-unveils-new-installation-of-the-military-childrens-corner-in-celebration-of-month-of-the-military-child/
 tags: statements-releases
@@ -38,8 +38,8 @@ educational tool to help Americans learn about the experiences of the
 four million military-connected children whose parents are active-duty
 service members, National Guard or reservists, or veterans. *A View from
 my Window* was created in partnership with the [National Military Family
-Association](/%3Ewww.militaryfamily.org/%3c%3C) (NMFA)
-and [Bloom](/%3Ewww.bloommilitaryteens.org/%3c%3C), a program of NMFA
+Association](https://www.militaryfamily.org/) (NMFA)
+and [Bloom,](https://www.bloommilitaryteens.org/) a program of NMFA
 dedicated to elevating the voices of military teens.
 
 *The Military Children’s Corner *features artwork from the following
@@ -49,17 +49,11 @@ military children:
 -   **Ayslin**, age 15, White Sands Missile Range – Farmington, NM
 -   **Elisabeth**, age 16, Fort Leavenworth – Leavenworth, KS
 -   **Elyse**, age 13, Army Garrison Wiesbaden – Wiesbaden, Germany 
-
-<!-- -->
-
 -   **Evelyn**, age 17, United Nations Command Korea – Seoul, South
     Korea 
 -   **Gabriella**, age 17, U.S. Army – Flower Mound, TX
 -   **Hannah**, age 16, Naval Base Kitsap – Silverdale, WA 
 -   **Lara**, age 15, Pentagon – Arlington, VA 
-
-<!-- -->
-
 -   **Sammi**, age 13, Pentagon – Arlington, VA
 -   **Scarlett**, age 12, Fort Knox – Fort Knox, KY
 
