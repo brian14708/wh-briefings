@@ -1,6 +1,6 @@
 ---
 date: '2024-04-22'
-modified_time: 2024-04-22 07:36:17-04:00
+modified_time: 2024-04-22 09:13:09-04:00
 published_time: 2024-04-22 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-vice-president-harris-announces-historic-advancements-in-long-term-care-to-support-the-care-economy/
 tags: statements-releases
@@ -23,13 +23,15 @@ Americans and people with disabilities, have access to care – including
 home-based care – that is safe, reliable, and of high quality is an
 important part of the President’s agenda and a part of the President’s
 broader commitment to care. Today’s announcements deliver on the
-President’s promise in the State of the Union to crack down on nursing
-homes that endanger resident safety as well as his historic Executive
-Order on Increasing Access to High-Quality Care and Supporting
-Caregivers, which included the most comprehensive set of executive
-actions any President has taken to improve care for millions of seniors
-and people with disabilities while supporting care workers and family
-caregivers.
+President’s [promise in the State of the
+Union](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=0ab70a8ab3&e=cc7d33f825)
+to crack down on nursing homes that endanger resident safety as well as
+his historic [Executive Order on Increasing Access to High-Quality Care
+and Supporting
+Caregivers](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=9dc98972a1&e=cc7d33f825),
+which included the most comprehensive set of executive actions any
+President has taken to improve care for millions of seniors and people
+with disabilities while supporting care workers and family caregivers.
 
   
 **Cracking Down on Inadequate Nursing Home Care**
@@ -98,10 +100,12 @@ long-term care needs in their own homes and communities. This critical
 care is provided by a dedicated home care workforce, made up
 disproportionately by women of color, that often struggles to make ends
 meet due to low wages and few benefits. At the same time, home care is
-still very inaccessible for many Medicaid enrollees, with more than
-threequarters of home care providers not accepting new clients, leaving
-hundreds of thousands of older Americans and Americans with disabilities
-on waiting lists or struggling to afford the care they need.  
+still very inaccessible for many Medicaid enrollees, with [more than
+threequarters](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=6771650b2b&e=cc7d33f825)
+of home care providers not accepting new clients, leaving [hundreds of
+thousands](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=5195709570&e=cc7d33f825)
+of older Americans and Americans with disabilities on waiting lists or
+struggling to afford the care they need.  
 
 The “Ensuring Access to Medicaid Services” final rule, finalized today,
 will help improve access to home care services as well as improve the
@@ -114,21 +118,24 @@ providers and providers in rural areas face while ensuring their
 employees receive their fair share of Medicaid payments and continued
 training as well as the delivery of quality care. Higher wages will
 likely reduce turnover, leading to higher quality of care for older
-adults and people with disabilities across the nation, as studies have
-shown. States will also be required to be more transparent in how much
-they pay for home care services and how they set those rates, increasing
-the accountability for home care providers. Finally, states will have to
-create a home care rate-setting advisory group made up of beneficiaries,
-home care workers and other key stakeholders to advise and consult on
-provider payment rates and direct compensation for direct care workers.
+adults and people with disabilities across the nation, as
+[studies](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=3ac325feb3&e=cc7d33f825)
+have shown. States will also be required to be more transparent in how
+much they pay for home care services and how they set those rates,
+increasing the accountability for home care providers. Finally, states
+will have to create a home care rate-setting advisory group made up of
+beneficiaries, home care workers and other key stakeholders to advise
+and consult on provider payment rates and direct compensation for direct
+care workers.
 
   
 **Strong Record on Improving Access to Care and Supporting Caregivers**
 
   
-Today’s new final rules are in addition to an already impressive track
-record on delivering on the President’s Executive Order on Care. Over
-the last year, the Biden-Harris Administration has:
+Today’s new final rules are in addition to an already [impressive track
+record](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=8cc82b0542&e=cc7d33f825)
+on delivering on the President’s Executive Order on Care. Over the last
+year, the Biden-Harris Administration has:
 
 -   Increased pay for care workers, including by proposing a rule to
     gradually increase pay for Head Start teachers by about $10,000, to
