@@ -1,6 +1,6 @@
 ---
 date: '2024-04-19'
-modified_time: 2024-04-19 21:13:41-04:00
+modified_time: 2024-04-22 11:48:34-04:00
 published_time: 2024-04-19 21:13:40-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/19/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-morongo-band-of-mission-indians/
 tags: presidential-actions
@@ -11,7 +11,7 @@ title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Mor
 Today, President Joseph R. Biden, Jr. declared that a major disaster
 exists for the Morongo Band of Mission Indians and ordered federal aid
 to supplement the Tribal Nation’s efforts in the areas affected by
-severe storms and flooding from January 29 to  
+severe storms and flooding from January 31 to  
 February 9, 2024.  
    
 Federal funding is available to the Morongo Band of Mission Indians and
