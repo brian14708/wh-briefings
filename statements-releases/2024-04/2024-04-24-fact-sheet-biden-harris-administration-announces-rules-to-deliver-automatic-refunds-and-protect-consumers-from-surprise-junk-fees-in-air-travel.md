@@ -1,6 +1,6 @@
 ---
 date: '2024-04-24'
-modified_time: 2024-04-23 16:12:08-04:00
+modified_time: 2024-04-24 11:45:12-04:00
 published_time: 2024-04-24 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-announces-rules-to-deliver-automatic-refunds-and-protect-consumers-from-surprise-junk-fees-in-air-travel/
 tags: statements-releases
@@ -29,7 +29,9 @@ Competition](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/
 in 2021 that encouraged DOT to take steps to promote fairer, more
 transparent, and competitive markets.  
    
-**<u>Requiring Automatic Cash Airline Refunds</u>**  
+**<u>[Requiring Automatic Cash Airline
+Refunds](https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-requiring-automatic-refunds-airline)</u>**
+
 **The first rule requires airlines to promptly provide passengers with
 automatic cash refunds when owed because their flights are cancelled or
 significantly changed, their checked bags are significantly delayed, or
@@ -63,7 +65,9 @@ the money they are owed. The final rule requires refunds to be:
     of transportation already used. The refunds must include all
     government-imposed taxes and fees and airline-imposed fees.
 
-**<u>Protecting Against Surprise Airline Junk Fees</u>**  
+**<u>**<u>[Protecting Against Surprise Airline Junk
+Fees](https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-protect-consumers-surprise-airline)</u>**</u>**
+
 **Secondly, DOT is requiring airlines and ticket agents to tell
 consumers upfront what fees they charge for checked bags, a carry-on
 bag, for changing a reservation, or cancelling a reservation. This
