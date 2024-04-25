@@ -1,6 +1,6 @@
 ---
 date: '2024-04-25'
-modified_time: 2024-04-24 23:35:23-04:00
+modified_time: 2024-04-25 11:19:29-04:00
 published_time: 2024-04-25 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/
 tags: statements-releases
@@ -22,16 +22,17 @@ Philadelphia, Pennsylvania, Milwaukee, Wisconsin, and the state of
 Michigan.  
   
 Since the beginning of the Biden-Harris Administration, private
-companies have announced over $825 billion in manufacturing and clean
-energy investments, on top of $478 billion already announced by the
-Administration for clean energy and infrastructure projects funded by
-the Bipartisan Infrastructure Law and Inflation Reduction Act. These
-investments are projected to create hundreds of thousands of good
-jobs—many of which do not require a college degree. The Biden-Harris
-Administration is committed to ensuring that all workers—including
-women, people of color, veterans, and those that have been historically
-left behind–have equitable access to those job opportunities and the
-training and skills needed to fill them.  
+companies have announced over [$825
+billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+in manufacturing and clean energy investments, on top of $478 billion
+already announced by the Administration for clean energy and
+infrastructure projects funded by the Bipartisan Infrastructure Law and
+Inflation Reduction Act. These investments are projected to create
+hundreds of thousands of good jobs—many of which do not require a
+college degree. The Biden-Harris Administration is committed to ensuring
+that all workers—including women, people of color, veterans, and those
+that have been historically left behind–have equitable access to those
+job opportunities and the training and skills needed to fill them.  
    
 Today’s announcement also builds on the inaugural five Investing in
 America Workforce Hubs in Columbus, Baltimore, Pittsburgh, Augusta, and
