@@ -1,6 +1,6 @@
 ---
 date: '2024-04-29'
-modified_time: 2024-04-28 22:39:27-04:00
+modified_time: 2024-04-29 13:48:22-04:00
 published_time: 2024-04-29 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/biden-harris-administration-announces-key-ai-actions-180-days-following-president-bidens-landmark-executive-order/
 tags: statements-releases
@@ -203,3 +203,42 @@ and writing policy for the use of AI in government.
     to the
     President**](https://ai.gov/wp-content/uploads/2024/04/AI-Talent-Surge-Progress-Report.pdf)**.**
     To explore opportunities, visit <https://ai.gov/apply>  
+      
+    The table below summarizes many of the activities that federal
+    agencies have completed in response to the Executive Order.
+
+<figure>
+<img
+src="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?w=640"
+class="wp-image-98094" decoding="async" loading="lazy"
+sizes="(max-width: 1248px) 100vw, 1248px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png 1248w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=529,615 529w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=768,894 768w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=1092,1270 1092w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=275,320 275w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=550,640 550w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=1100,1280 1100w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture1_735ae4.png?resize=731,850 731w"
+width="1248" height="1452" />
+</figure>
+
+<figure>
+<img
+src="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?w=640"
+class="wp-image-98095" decoding="async" loading="lazy"
+sizes="(max-width: 1248px) 100vw, 1248px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png 1248w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=509,615 509w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=768,928 768w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=1051,1270 1051w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=265,320 265w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=530,640 530w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=1059,1280 1059w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture2_3b5e1e.png?resize=703,850 703w"
+width="1248" height="1508" />
+</figure>
+
+<figure>
+<img
+src="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?w=640"
+class="wp-image-98096" decoding="async" loading="lazy"
+sizes="(max-width: 1248px) 100vw, 1248px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png 1248w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=530,615 530w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=768,892 768w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=1094,1270 1094w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=276,320 276w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=551,640 551w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=1102,1280 1102w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture3_eff5d9.png?resize=732,850 732w"
+width="1248" height="1449" />
+</figure>
+
+<figure>
+<img
+src="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png"
+class="wp-image-98097" decoding="async" loading="lazy"
+sizes="(max-width: 1248px) 100vw, 1248px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png 1248w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png?resize=615,585 615w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png?resize=768,731 768w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png?resize=336,320 336w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png?resize=672,640 672w, https://www.whitehouse.gov/wp-content/uploads/2024/04/Picture4_f94b36.png?resize=893,850 893w"
+width="1248" height="1188" />
+</figure>
