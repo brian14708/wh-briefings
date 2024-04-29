@@ -1,6 +1,6 @@
 ---
 date: '2024-04-29'
-modified_time: 2024-04-28 23:23:22-04:00
+modified_time: 2024-04-29 16:15:30-04:00
 published_time: 2024-04-29 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/
 tags: statements-releases
@@ -44,11 +44,13 @@ his agenda. Today, the Biden-Harris Administration announced:
 
 **New Records for Federal Procurement Dollars Awarded to Small
 Businesses, Including Small Disadvantaged Businesses (SDBs).** The Small
-Business Administration (SBA) released its Procurement Scorecard showing
-that in Fiscal Year 2023, the Biden-Harris Administration awarded an
-all-time high in federal contracts to small businesses across federal
-agencies. In total, a record-high of $178.6 billion, or 28.4 percent, of
-all contracting dollars went to small businesses. This includes:
+Business Administration (SBA) released its [Procurement
+Scorecard](https://www.sba.gov/article/2024/04/29/biden-harris-administration-awards-record-breaking-178-billion-federal-procurement-opportunities)
+showing that in Fiscal Year 2023, the Biden-Harris Administration
+awarded an all-time high in federal contracts to small businesses across
+federal agencies. In total, a record-high of $178.6 billion, or 28.4
+percent, of all contracting dollars went to small businesses. This
+includes:
 
 -   <u>$76.2 billion to SDBs</u>, totaling 12.1 percent of federal
     contracting dollars and surpassing the 12% goal for FY23
