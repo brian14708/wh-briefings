@@ -1,12 +1,13 @@
 ---
 date: '2024-04-30'
+modified_time: 2024-04-30 11:13:26-04:00
 published_time: 2024-04-30 10:00:36-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/30/national-security-memorandum-on-critical-infrastructure-security-and-resilience/
 tags: presidential-actions
 title: "National Security Memorandum on Critical Infrastructure Security and\_Resilience"
 ---
  
-NATIONAL SECURITY MEMORANDUM/nSM-22  
+NATIONAL SECURITY MEMORANDUM/NSM-22  
   
 MEMORANDUM FOR THE VICE PRESIDENT  
               THE SECRETARY OF STATE  
