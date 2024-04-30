@@ -1,6 +1,6 @@
 ---
 date: '2024-04-30'
-modified_time: 2024-04-29 21:07:38-04:00
+modified_time: 2024-04-30 07:50:50-04:00
 published_time: 2024-04-30 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-biden-harris-administration-delivers-on-permitting-progress-to-build-americas-infrastructure-and-clean-energy-future-faster-safer-and-cleaner/
 tags: statements-releases
@@ -87,7 +87,7 @@ Rule</u>**
    
 **Modernizing federal environmental reviews.** The [Bipartisan
 Permitting Reform Implementation
-Rule](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure-and-strengthen-public-engagement/(opens%20in%20a%20new%20tab)
+Rule](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
 fully implements new efficiencies in agency environmental reviews under
 the National Environmental Policy Act (NEPA) that the Administration
 negotiated on a bipartisan basis and secured in the Fiscal
