@@ -1,6 +1,6 @@
 ---
 date: '2024-04-30'
-modified_time: 2024-05-01 09:23:15-04:00
+modified_time: 2024-05-01 12:36:13-04:00
 published_time: 2024-04-30 16:24:52-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/30/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islanders-heritage-month-2024/
 tags: presidential-actions
@@ -62,7 +62,7 @@ in loans to AA and NHPI entrepreneurs.  We have seen the results:
 employment and entrepreneurship rates in over a decade.
 
       Last year, the First Lady and I witnessed the absolute courage of
-the Native Hawaiian people and Hawaiʻi’s Asian American and Pacific
+the Native Hawaiian people and Hawaii’s Asian American and Pacific
 Islander communities when we visited Maui in the wake of the devastating
 fires.  The destruction upended so many lives, and yet the community
 showed up ready to help rebuild stronger than before.  My Administration
