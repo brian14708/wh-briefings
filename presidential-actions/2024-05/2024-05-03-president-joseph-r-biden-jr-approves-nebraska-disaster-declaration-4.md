@@ -1,5 +1,6 @@
 ---
 date: '2024-05-03'
+modified_time: 2024-05-03 13:09:51-04:00
 published_time: 2024-05-03 12:13:12-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/03/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-4/
 tags: presidential-actions
@@ -7,7 +8,7 @@ title: "President Joseph R. Biden, Jr. Approves Nebraska Disaster\_Declaration"
 ---
  
 Today, President Joseph R. Biden, Jr. declared that a major disaster
-exists in the State of Oklahoma and ordered Federal aid to supplement
+exists in the State of Nebraska and ordered Federal aid to supplement
 State, tribal, and local recovery efforts in the areas affected by
 severe storms, straight-line winds, and tornadoes during the period of
 April 25 to April 27, 2024.
