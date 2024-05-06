@@ -1,6 +1,6 @@
 ---
 date: '2024-05-02'
-modified_time: 2024-05-02 14:40:45-04:00
+modified_time: 2024-05-06 17:54:44-04:00
 published_time: 2024-05-02 14:36:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/02/a-proclamation-on-expanding-the-san-gabriel-mountains-national-monument-2024/
 tags: presidential-actions
@@ -332,7 +332,7 @@ objects, reserve as part thereof all lands and interests in lands that
 are owned or controlled by the Federal Government within the boundaries
 described on the accompanying map, which is attached hereto and forms a
 part of this proclamation.  The reserved Federal lands and interests in
-lands within the expansion area encompass approximately 150,919 acres.
+lands within the expansion area encompass approximately 105,919 acres.
  As a result of the distribution of the objects throughout the area, the
 boundaries described on the accompanying map are confined to the
 smallest area compatible with the proper care and management of the

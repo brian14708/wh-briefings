@@ -1,6 +1,6 @@
 ---
 date: '2024-05-06'
-modified_time: 2024-05-06 14:48:16-04:00
+modified_time: 2024-05-06 17:27:29-04:00
 published_time: 2024-05-06 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/
 tags: statements-releases
@@ -14,7 +14,8 @@ the auto sector to ensure U.S. leadership in the clean vehicle future*
 
 Today, as part of her Economic Opportunity Tour, Vice President Harris
 will join Secretary of Energy Jennifer Granholm, Acting Secretary of
-Labor Julie Su, Deputy Secretary of Commerce Don Graves, and Michigan
+Labor Julie Su, Deputy Secretary of Commerce Don Graves, Small Business
+Administration Deputy Administrator Dilawar Syed, and Michigan
 Lieutenant Governor Garlin Gilchrist II in Detroit, Michigan to announce
 new funding and resources for small- and medium-sized auto manufacturers
 and autoworkers.  
