@@ -1,11 +1,11 @@
 ---
 date: '2024-05-07'
-modified_time: 2024-05-06 21:25:53-04:00
+modified_time: 2024-05-07 08:49:36-04:00
 published_time: 2024-05-07 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/biden-harris-administration-ramps-up-actions-to-counter-antisemitism-on-college-campuses-and-protect-jewish-communities/
 tags: statements-releases
-title: "Biden-\u2060Harris Administration Ramps Up Actions to Counter Antisemitism\
-  \ on College Campuses and Protect Jewish\_Communities"
+title: "FACT SHEET: Biden-\u2060Harris Administration Ramps Up Actions to Counter\
+  \ Antisemitism on College Campuses and Protect Jewish\_Communities"
 ---
  
 Today, during Holocaust Remembrance Day, the Biden-Harris Administration
@@ -59,13 +59,14 @@ counter Antisemitism in Year Two of the Strategy, building on its work
 over the past year:
 
 -   Today, the Department of Education’s (ED) Office for Civil Rights
-    (OCR) issued new guidance through a Dear Colleague Letter to every
-    school district and college in the country, providing examples of
-    Antisemitic discrimination, as well as other forms of hate, that
-    could lead to investigations for violations of Title VI of the Civil
-    Rights Act of 1964 (Title VI). This guidance is meant to ensure that
-    colleges and universities do a better job of protecting both Jewish
-    students and all of their students.  
+    (OCR) issued new guidance through a [Dear Colleague
+    Letter](https://www.whitehouse.gov/wp-content/uploads/2024/05/colleague-202405-shared-ancestry.pdf)
+    to every school district and college in the country, providing
+    examples of Antisemitic discrimination, as well as other forms of
+    hate, that could lead to investigations for violations of Title VI
+    of the Civil Rights Act of 1964 (Title VI). This guidance is meant
+    to ensure that colleges and universities do a better job of
+    protecting both Jewish students and all of their students.  
 -   The Department of Homeland Security (DHS) will work with interagency
     partners to build an online campus safety resources guide and
     landing page to provide the range of financial, educational, and

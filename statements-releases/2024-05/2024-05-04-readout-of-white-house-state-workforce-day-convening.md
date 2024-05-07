@@ -1,5 +1,6 @@
 ---
 date: '2024-05-04'
+modified_time: 2024-05-07 09:01:51-04:00
 published_time: 2024-05-04 12:54:56-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/04/readout-of-white-house-state-workforce-day-convening/
 tags: statements-releases
@@ -43,7 +44,7 @@ students to work-based learning and career scholarship accounts.
 Administration officials called on states to invest at least 0.5% of
 their eligible [federal highway formula
 funds](https://www.fhwa.dot.gov/innovativeprograms/centers/workforce_dev/504e_state_core_programs_guidance_0318.aspx),
-which nearly $50 billion per year, to expand and diversify their
+which total nearly $50 billion per year, to expand and diversify their
 construction workforces. States can follow the examples of Maryland and
 Pennsylvania by investing highway funds in [high-quality workforce
 approaches](https://www.transportation.gov/sites/dot.gov/files/2024-02/Best%20Practices%20to%20Expand%20Accessto%20Jobs%20and%20Economic%20Opportunity%20final_.pdf)
