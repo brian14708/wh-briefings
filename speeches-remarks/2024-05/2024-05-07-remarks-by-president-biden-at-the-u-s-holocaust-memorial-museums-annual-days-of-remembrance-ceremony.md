@@ -1,5 +1,6 @@
 ---
 date: '2024-05-07'
+modified_time: 2024-05-07 22:54:25-04:00
 published_time: 2024-05-07 16:38:41-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-at-the-u-s-holocaust-memorial-museums-annual-days-of-remembrance-ceremony/
 tags: speeches-remarks
@@ -83,7 +84,7 @@ endured.  Hundreds taken hostage, including survivors of the Shoah.  
 
 Now, here we are, not 75 years later but just seven and a half months
 later, and people are already forgetting.  They’re already forgetting
-that Hamas unleased this terror, that it was Hamas that brutalized
+that Hamas unleashed this terror, that it was Hamas that brutalized
 Israelis, that it was Hamas who took and continues to hold hostages.  I
 have not forgotten, nor have you, and we will not forget.  (Applause.)  
  
