@@ -1,6 +1,6 @@
 ---
 date: '2024-05-07'
-modified_time: 2024-05-07 16:54:33-04:00
+modified_time: 2024-05-08 10:20:30-04:00
 published_time: 2024-05-07 16:51:05-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-and-president-iohannis-of-romania-before-bilateral-meeting/
 tags: speeches-remarks
@@ -36,9 +36,10 @@ in the Black Sea.  You’ve been incredible.  You’ve stood up, and the
 help you’ve provided for Ukraine is — is real.  It’s significant.   
    
 The — the unified support for the people of Ukraine — you’ve allowed a
-number of refugees to come across, be in your country — about 8,000,
-they tell me.  A whole lot.  And that’s really something.  And, also,
-your security assistance to Ukraine, moving Ukrainian grain.   
+number of refugees to come across, be in your country — about
+<s>8,000</s>\[80,000\], they tell me.  A whole lot.  And that’s really
+something.  And, also, your security assistance to Ukraine, moving
+Ukrainian grain.   
    
 And I want you to know the United States is committed to standing with
 you.   
