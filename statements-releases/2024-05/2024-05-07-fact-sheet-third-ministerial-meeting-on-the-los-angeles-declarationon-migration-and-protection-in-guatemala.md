@@ -1,6 +1,6 @@
 ---
 date: '2024-05-07'
-modified_time: 2024-05-07 16:34:07-04:00
+modified_time: 2024-05-07 20:50:57-04:00
 published_time: 2024-05-07 19:15:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-third-ministerial-meeting-on-the-los-angeles-declarationon-migration-and-protection-in-guatemala/
 tags: statements-releases
@@ -180,7 +180,7 @@ Migration and Protection</span>
 -   Costa Rica committed to continue modernizing its asylum system
     through digitalization, data-driven solutions, and adopting
     practices to streamline refugee status determination with support
-    from UNCHR and the international community.   
+    from UNHCR and the international community.   
 
 <!-- -->
 
