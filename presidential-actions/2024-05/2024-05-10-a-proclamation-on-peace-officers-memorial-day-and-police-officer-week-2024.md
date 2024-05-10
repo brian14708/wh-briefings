@@ -1,6 +1,6 @@
 ---
 date: '2024-05-10'
-modified_time: 2024-05-10 12:09:50-04:00
+modified_time: 2024-05-10 14:41:25-04:00
 published_time: 2024-05-10 12:09:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-peace-officers-memorial-day-and-police-officer-week-2024/
 tags: presidential-actions
@@ -12,7 +12,7 @@ door, rushing into harm’s way to keep the rest of us safe.  Being a
 police officer is more than what they do — it is who they are.  On Peace
 Officers Memorial Day and during Police Week, we recognize the
 incredible courage of our Nation’s police officers and honor the fallen
-heroes, whose ultimate sacrifice we can never repay.|
+heroes, whose ultimate sacrifice we can never repay.
 
      During the pandemic, States and cities saw violent crime rising as
 they faced deep cuts in law enforcement and public safety budgets.  That
