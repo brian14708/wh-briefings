@@ -1,5 +1,6 @@
 ---
 date: '2024-05-16'
+modified_time: 2024-05-17 09:08:58-04:00
 published_time: 2024-05-16 15:09:08-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-announces-record-over-16-billion-in-support-for-historically-black-colleges-and-universities-hbcus/
 tags: statements-releases
@@ -24,7 +25,8 @@ institutions. President Biden and Vice President Harris are committed to
 ensuring whole-of-government investment efforts in HBCUs continue at
 full momentum through the rest of FY 2024.  
    
-These historic funding levels demonstrate the Administration’s ongoing
+These historic funding levels – the most by any administration –
+demonstrate President Biden and Vice President Harris’s ongoing
 commitment to HBCUs, which serve as an engine for upward economic
 mobility in our country. The Administration is also focused on work to
 ensure HBCUs have the resources to provide a high-quality postsecondary
