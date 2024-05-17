@@ -1,5 +1,6 @@
 ---
 date: '2024-05-17'
+modified_time: 2024-05-17 16:49:26-04:00
 published_time: 2024-05-17 09:13:59-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/statement-from-president-joe-biden-marking-international-day-against-homophobia-transphobia-and-biphobia/
 tags: statements-releases
@@ -61,7 +62,7 @@ shared moral responsibility to fight back against homophobia, biphobia,
 and transphobia, just as we must fight back against all hate-fueled
 violence, at home and abroad.
 
-Today marks the 30<sup>th</sup> anniversary of when the World Health
+Today marks the 34<sup>th</sup> anniversary of when the World Health
 Organization made the wise and overdue decision to declassify
 ‘homosexuality’ as a mental disorder. That was a victory for LGBTQI+
 people and human rights defenders everywhere. 30 years later, the work

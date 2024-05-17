@@ -1,10 +1,10 @@
 ---
 date: '2024-05-17'
-modified_time: 2024-05-17 11:12:35-04:00
+modified_time: 2024-05-17 17:18:22-04:00
 published_time: 2024-05-17 11:12:34-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/17/a-proclamation-on-national-emergency-services-week-2024/
 tags: presidential-actions
-title: "A Proclamation on National Emergency Services Week,\_2024"
+title: "A Proclamation on National Emergency Medical Services Week,\_2024"
 ---
  
         During National Emergency Medical Services (EMS) Week, we honor
