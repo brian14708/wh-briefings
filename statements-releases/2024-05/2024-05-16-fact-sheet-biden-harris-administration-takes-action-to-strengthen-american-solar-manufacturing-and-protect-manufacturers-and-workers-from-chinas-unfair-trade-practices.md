@@ -1,6 +1,6 @@
 ---
 date: '2024-05-16'
-modified_time: 2024-05-16 10:06:40-04:00
+modified_time: 2024-05-17 10:55:05-04:00
 published_time: 2024-05-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-takes-action-to-strengthen-american-solar-manufacturing-and-protect-manufacturers-and-workers-from-chinas-unfair-trade-practices/
 tags: statements-releases
@@ -39,11 +39,11 @@ than 50 percent increase over 2022 installations.
    
 President Biden believes that American workers and manufacturers can
 compete with anyone—as long as the competition is fair. Earlier this
-week, the Biden-Harris Administration directed the U.S. Trade
-Representative Katherine Tai to increase tariffs under Section 301 of
-the Trade Act of 1974 on $18 billion of imports from China to protect
-American workers and businesses – including by doubling the tariff rate
-on solar cells and modules from 25% to 50%.  
+week, President Biden directed his U.S. Trade Representative Katherine
+Tai to increase tariffs under Section 301 of the Trade Act of 1974 on
+$18 billion of imports from China to protect American workers and
+businesses – including by doubling the tariff rate on solar cells and
+modules from 25% to 50%.  
    
 **<u>Today, the Biden-Harris Administration is announcing new actions to
 strengthen American solar manufacturing and protect businesses and
@@ -87,11 +87,11 @@ workers from China’s unfair trade actions:</u>**
     modules from Southeast Asia, where PRC manufacturers have been found
     to be circumventing antidumping and countervailing duties, have
     surged over the last year. PRC companies have recently built new
-    capacity in these countries, targeting the U.S. market. The
-    Department of Energy and the Department of Commerce will closely
-    monitor import patterns to ensure the U.S. market does not become
-    oversaturated and will explore all available measures to take action
-    against unfair practices.
+    capacity in these countries, targeting the U.S. market. The U.S.
+    Trade Representative, the Department of Energy and the Department of
+    Commerce will closely monitor import patterns to ensure the U.S.
+    market does not become oversaturated and will explore all available
+    measures to take action against unfair practices.
 
 <!-- -->
 
