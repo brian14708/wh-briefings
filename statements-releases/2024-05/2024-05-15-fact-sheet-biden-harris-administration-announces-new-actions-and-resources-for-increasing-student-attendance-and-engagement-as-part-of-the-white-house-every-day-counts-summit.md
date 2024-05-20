@@ -1,6 +1,6 @@
 ---
 date: '2024-05-15'
-modified_time: 2024-05-15 00:24:12-04:00
+modified_time: 2024-05-20 09:41:02-04:00
 published_time: 2024-05-15 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/
 tags: statements-releases
@@ -156,10 +156,10 @@ of the country will be announced at the Summit:**
     Backpack – “Resources to Address Chronic Absenteeism in Your
     Community” ](https://www.partnershipstudentsuccess.org/chronic-absence-digital-backpack/)–
     that includes a curated set of publicly available resources for easy
-    reference. The Annenberg Center at Brown University and Research for
-    Action are releasing a new [Ed Research for Action
-    Brief](https://edresearchforaction.org/research-briefs/strengthening-school-connectedness-to-increase-student-success) designed
-    to support an evidence-based approach to increasing school
+    reference. The Annenberg Institute at Brown University and Results
+    for America  are releasing a new [EdResearch for Action
+    Brief ](https://edresearchforaction.org/research-briefs/strengthening-school-connectedness-to-increase-student-success)
+    designed to support an evidence-based approach to increasing school
     connectedness. The GRAD Partnership is also releasing a
     [resource ](https://www.gradpartnership.org/resources/chronic-absenteeism-response/)with
     guiding questions and action planning templates that schools and
