@@ -1,13 +1,13 @@
 ---
 date: '2024-05-17'
-modified_time: 2024-05-17 10:16:20-04:00
+modified_time: 2024-05-20 15:45:43-04:00
 published_time: 2024-05-17 11:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/17/national-security-memorandum-on-united-states-policy-on-the-antarctic-region/
 tags: presidential-actions
 title: "National Security Memorandum on United\_States Policy on the Antarctic\_Region"
 ---
  
-NATIONAL SECURITY MEMORANDUM/nSM-23
+NATIONAL SECURITY MEMORANDUM/NSM-23
 
 MEMORANDUM FOR THE VICE PRESIDENT
 
