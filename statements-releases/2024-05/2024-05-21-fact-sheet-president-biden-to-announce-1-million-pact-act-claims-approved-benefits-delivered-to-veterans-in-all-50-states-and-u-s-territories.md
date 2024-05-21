@@ -1,6 +1,6 @@
 ---
 date: '2024-05-21'
-modified_time: 2024-05-20 22:16:29-04:00
+modified_time: 2024-05-21 10:58:43-04:00
 published_time: 2024-05-21 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/21/fact-sheet-president-biden-to-announce-1-million-pact-act-claims-approved-benefits-delivered-to-veterans-in-all-50-states-and-u-s-territories/
 tags: statements-releases
@@ -154,7 +154,8 @@ If you are a veteran, visit www.va.gov/PACT or go to your local VA
 hospital to see if you are eligible for PACT Act benefits and
 services.  
   
-For a state-by-state breakdown of PACT Act data, click here.  
+For a state-by-state breakdown of PACT Act data,
+click [here](https://www.whitehouse.gov/wp-content/uploads/2024/05/Embargoed-PACT-Act-Geographic-Impact-Table.pdf).  
  
 
 \###
