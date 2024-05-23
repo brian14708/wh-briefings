@@ -1,6 +1,6 @@
 ---
 date: '2024-05-23'
-modified_time: 2024-05-23 07:27:05-04:00
+modified_time: 2024-05-23 15:05:31-04:00
 published_time: 2024-05-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
 tags: statements-releases
@@ -1159,10 +1159,10 @@ challenges.
     Naivasha, Kenya.  The data center will be run on Microsoft Azure
     cloud services and offer access to cloud-based applications and
     services to organizations and individuals in Kenya and East Africa –
-    allowing the Government of Kenya to move its data and services away
-    from Huawei-owned data centers.  The data center will be powered
-    entirely by geothermal energy and will feature state-of-the-art
-    water conservation technology to minimize water use. 
+    allowing the Government of Kenya to move its data and services to
+    trusted vendors.  The data center will be powered entirely by
+    geothermal energy and will feature state-of-the-art water
+    conservation technology to minimize water use. 
 
 <!-- -->
 
