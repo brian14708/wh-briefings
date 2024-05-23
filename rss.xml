@@ -8,11 +8,28 @@
    The White House Briefing Room
   </description>
   <pubDate>
-   Thu, 23 May 2024 09:00:00 -0400
+   Thu, 23 May 2024 12:01:42 -0400
   </pubDate>
   <link>
    https://www.whitehouse.gov/briefing-room/
   </link>
+  <item>
+   <title>
+    President Biden Names Fiftieth Round of Judicial Nominees
+   </title>
+   <guid>
+    https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/23/president-biden-names-fiftieth-round-of-judicial-nominees/
+   </guid>
+   <pubDate>
+    Thu, 23 May 2024 12:01:42 -0400
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/23/president-biden-names-fiftieth-round-of-judicial-nominees/
+   </link>
+   <category>
+    presidential-actions
+   </category>
+  </item>
   <item>
    <title>
     Statement by President Joe Biden on Vesak
@@ -195,6 +212,23 @@
    </pubDate>
    <link>
     https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/statement-from-president-joe-biden-on-confirming-200-federal-judges/
+   </link>
+   <category>
+    statements-releases
+   </category>
+  </item>
+  <item>
+   <title>
+    ICYMI: “Biden to Release 1 Million Barrels of Gasoline to Reduce Prices at the Pump Ahead of July 4”
+   </title>
+   <guid>
+    https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/icymi-biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4/
+   </guid>
+   <pubDate>
+    Wed, 22 May 2024 12:00:00 -0400
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/icymi-biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4/
    </link>
    <category>
     statements-releases
@@ -487,40 +521,6 @@
    </link>
    <category>
     presidential-actions
-   </category>
-  </item>
-  <item>
-   <title>
-    Statement from White House Press Secretary Karine Jean-Pierre on Senate Plans to Vote on the Bipartisan Border Security Agreement
-   </title>
-   <guid>
-    https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-senate-plans-to-vote-on-the-bipartisan-border-security-agreement/
-   </guid>
-   <pubDate>
-    Mon, 20 May 2024 07:11:14 -0400
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-senate-plans-to-vote-on-the-bipartisan-border-security-agreement/
-   </link>
-   <category>
-    statements-releases
-   </category>
-  </item>
-  <item>
-   <title>
-    Remarks by President Biden at a Campaign Event | Detroit, MI
-   </title>
-   <guid>
-    https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-a-campaign-event-detroit-mi/
-   </guid>
-   <pubDate>
-    Sun, 19 May 2024 18:56:31 -0400
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-a-campaign-event-detroit-mi/
-   </link>
-   <category>
-    speeches-remarks
    </category>
   </item>
  </channel>
