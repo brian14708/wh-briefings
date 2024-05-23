@@ -1,6 +1,6 @@
 ---
 date: '2024-05-23'
-modified_time: 2024-05-22 20:42:09-04:00
+modified_time: 2024-05-23 07:27:05-04:00
 published_time: 2024-05-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
 tags: statements-releases
@@ -33,7 +33,7 @@ areas of cooperation to safeguard rights and freedoms in the face of
 rising authoritarianism, expand avenues for dialogue, and elevate our
 shared global commitment to protecting democracy.
 
-1.  **Delivering Democracy:**  The United States has programed nearly
+-   **Delivering Democracy:**  The United States has programed nearly
     $40 million for democracy, human rights, and governance programming
     in Kenya, including through [Presidential Initiative for Democratic
     Renewal](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.whitehouse.gov%2Fbriefing-room%2Fstatements-releases%2F2021%2F12%2F09%2Ffact-sheet-announcing-the-presidential-initiative-for-democratic-renewal%2F&data=05%7C02%7CGignilliatAH%40state.gov%7C702b619408ea423d3dac08dc69471346%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638501001705486461%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=35DGFWTk29g%2BgCmbdsRQfuIgjk7bPkiflH34W1HgTuA%3D&reserved=0)
@@ -51,7 +51,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Supporting Independent Civil Society:**  President Ruto executed
+-   **Supporting Independent Civil Society:**  President Ruto executed
     on May 9 the legal instruments required to operationalize the 2013
     Public Benefits Organization Act, which institutionalizes
     groundbreaking, global best practices for civil society
@@ -66,7 +66,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Bringing Transparency to Government: ** The United States and
+-   **Bringing Transparency to Government: ** The United States and
     Kenya commit to strengthening the Open Government Partnership (OGP),
     which Kenya co-leads and the United States co-founded, including
     through robustly fulfilling our open government commitments at
@@ -79,7 +79,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Promoting Human Rights:**  The United States and Kenya affirm
+-   **Promoting Human Rights:**  The United States and Kenya affirm
     their commitment to upholding the human rights of all.  Together
     they stand with people around the world defending their rights
     against the forces of autocracy.  Kenya and the United States commit
@@ -92,7 +92,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Combatting Corruption:**  The Administration intends to provide
+-   **Combatting Corruption:**  The Administration intends to provide
     $500,000 for a new Fiscal Integrity Program to make county budget
     processes more transparent and inclusive and increase citizen
     engagement, and $500,000 to broaden the reach and effectiveness of
@@ -109,7 +109,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Gathering Anti-Corruption Professionals:**  With support from the
+-   **Gathering Anti-Corruption Professionals:**  With support from the
     U.S. Department of State’s Bureau of International Narcotics and Law
     Enforcement Affairs, the UN Office on Drugs and Crime and the East
     African Association of Anti-Corruption Authorities convened a
@@ -120,7 +120,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Strengthening Police Reform Efforts:**  Building on a longstanding
+-   **Strengthening Police Reform Efforts:**  Building on a longstanding
     partnership to further police capacity building and reform efforts,
     the United States and Kenya announced a new $7 million partnership
     to advance and strengthen the modernization and professionalization
@@ -129,7 +129,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Reducing Prison Overcrowding and Improving Detention
+-   **Reducing Prison Overcrowding and Improving Detention
     Conditions:**  The United States and Kenya are committed to further
     advancing Kenyan-led efforts to improve the oversight of and
     conditions within Kenya’s prison service.  The United States
@@ -138,7 +138,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Combatting Transnational Organized Crime and Supporting Criminal
+-   **Combatting Transnational Organized Crime and Supporting Criminal
     Justice Sector Reform:**  Recognizing the regional role Kenya plays
     in combating transnational organized crime, the United States
     intends to provide $4.9 million in new funding for Kenya and other
@@ -149,7 +149,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Supporting Investigative Journalism:**  The United States seeks to
+-   **Supporting Investigative Journalism:**  The United States seeks to
     amplify Kenya’s leadership in building Africa’s digital resilience
     by supporting linkages between well-known international
     investigative organizations and select Kenyan NGOs, media outlets,
@@ -163,7 +163,7 @@ shared global commitment to protecting democracy.
 
 <!-- -->
 
-1.  **Strengthening Kenya’s Frameworks for Free and Fair Elections:** 
+-   **Strengthening Kenya’s Frameworks for Free and Fair Elections:** 
     Working with Congress, the Administration intends to provide $1.5
     million in new technical assistance to support Kenya’s electoral
     legal framework reform process aimed at strengthening the election
@@ -187,7 +187,7 @@ manufacturing capacity in Kenya that can serve Africa and the world. 
 The efforts showcased during the State Visit build upon these successes
 to ensure a healthier, more prosperous future for all.
 
-1.  **Continuing the Fight against HIV/AIDS:**  The United States and
+-   **Continuing the Fight against HIV/AIDS:**  The United States and
     Kenya are developing a “Sustainability Roadmap” to integrate HIV
     service delivery into primary health care, ensuring quality and
     impact are retained.  With more than $7 billion in support from the
@@ -202,7 +202,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Partnering for Global Health Security:**  Kenya and the United
+-   **Partnering for Global Health Security:**  Kenya and the United
     States announced a formal proclamation between the U.S. Center for
     Disease Control and Prevention (CDC) and Government of Kenya for
     sharing information, identifying best practices, and defining steps
@@ -216,7 +216,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Reducing the Impacts of Malaria:**  Through the President’s
+-   **Reducing the Impacts of Malaria:**  Through the President’s
     Malaria Initiative (PMI), the United States contributed $33.5
     million in 2023 to fight malaria in Kenya, providing vital financial
     and technical assistance to the Government of Kenya.  The United
@@ -233,7 +233,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Growing Health Manufacturing:**  Kenya committed to working with
+-   **Growing Health Manufacturing:**  Kenya committed to working with
     lawmakers to advance the Kenyan Pharmacy and Poisons Board (PPB)
     Act, a necessary step to boost local manufacturing of medical
     products and expand private American investment in the sector. 
@@ -255,7 +255,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Partnering with the Private Sector in Healthcare:**  The U.S.
+-   **Partnering with the Private Sector in Healthcare:**  The U.S.
     International Development Finance Corporation (DFC) is investing in
     Kenya’s vibrant private sector by making a $10 million direct loan
     to Kenyan company Hewa Tele, which provides an affordable and
@@ -267,7 +267,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Expanding Joint Research:**  Kenya and the United States
+-   **Expanding Joint Research:**  Kenya and the United States
     recommitted to our long-standing partnership through a Memorandum of
     Understanding (MoU) between the CDC and the Kenyan Medical Research
     Institute (KEMRI) to support Kenya’s Applied Science Hub, building
@@ -288,7 +288,7 @@ to ensure a healthier, more prosperous future for all.
 
 <!-- -->
 
-1.  **Meeting Kenya’s Digital Health Goals:**  The United States
+-   **Meeting Kenya’s Digital Health Goals:**  The United States
     announced over $31 million to advance Kenya’s efforts to set up a
     digital superhighway to enable a holistic view of health care
     delivery.  The United States has worked closely with the Kenyan
@@ -318,12 +318,12 @@ of leaders, entrepreneurs, and visionaries.  The State Visit builds on
 this fundamental strength, catalyzing stronger partnerships through a
 series of groundbreaking education and exchange programs. 
 
-1.  **Strengthening Connections Between U.S. and Kenyan Educational
+-   **Strengthening Connections Between U.S. and Kenyan Educational
     Institutions: **
 
 <!-- -->
 
-1.  *Kennedy-Mboya Partnerships:*** ** As the United States and Kenya
+-   *Kennedy-Mboya Partnerships:*** ** As the United States and Kenya
     celebrate 60 years of bilateral relations, and recalling the
     positive and enduring impact of the Kennedy-era student airlift, the
     newly announced Kennedy-Mboya Partnerships support a new scholarship
@@ -333,14 +333,20 @@ series of groundbreaking education and exchange programs. 
     students to study for a semester in the United States, with a focus
     on STEM.  This program supports the development and success of the
     next generation of Kenyan scientists, researchers, and engineers.
-2.  *Partnership 2024*:  The Administration intends to provide $500,000
+
+<!-- -->
+
+-   *Partnership 2024*:  The Administration intends to provide $500,000
     for Partnership 2024 to support the development of Kenyan students,
     scientists, researchers, and engineers by encouraging U.S.
     universities to increase investment in relationships with Kenyan
     universities and research institutions.  Faculty and research
     collaboration are planned to bolster the program, supported by
     Fulbright Specialists to provide additional expertise.
-3.  *EDTECH Africa:*  The Governments of Kenya and the United States, in
+
+<!-- -->
+
+-   *EDTECH Africa:*  The Governments of Kenya and the United States, in
     collaboration with Microsoft, Mastercard’s Center for Inclusive
     Growth, Howard University, Spelman College, Clark Atlanta
     University, and Morehouse College announced the establishment of
@@ -360,19 +366,28 @@ series of groundbreaking education and exchange programs. 
     Consortium Data Science Initiative to establish a network of data
     science faculty across HBCUs.  USAID intends to invest $850,000 to
     facilitate this partnership between HBCUs and Kenyan universities.
-4.  *National Science Foundation (NSF) International Activities*:  NSF
+
+<!-- -->
+
+-   *National Science Foundation (NSF) International Activities*:  NSF
     has committed to offering workshops, planning grants, or supplements
     to U.S. universities to strengthen connections between U.S. and
     Kenyan universities, jointly identify research foci, and facilitate
     collaboration in research, education, and workforce development.
-5.  *Employment Pathways for Youth*:  USAID announced $6.5 million to
+
+<!-- -->
+
+-   *Employment Pathways for Youth*:  USAID announced $6.5 million to
     support a partnership between Edison State Community College in
     Piqua, Ohio, and Kenya’s United States International University of
     Africa to strengthen up to 40 Kenyan technical vocational education
     and training institutions in the high-growth sectors of information
     and communications technology (ICT) and manufacturing of
     pharmaceuticals and textiles.
-6.  *Framework for Cooperation:*** ** The United States and Kenya signed
+
+<!-- -->
+
+-   *Framework for Cooperation:*** ** The United States and Kenya signed
     a [Framework for
     Cooperation](https://www.usaid.gov/news-information/press-releases/may-21-2024-united-states-announces-new-partnership-kenya-support-stem-education)
     to support higher education partnerships for STEM education.  The
@@ -387,7 +402,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Collaboration with the National Museums of Kenya: ** The
+-   **Collaboration with the National Museums of Kenya: ** The
     Smithsonian Institution announced a $150,000 project funded by the
     U.S. Department of State to assess opportunities, challenges, and
     possible enhancements to support the National Museums of Kenya
@@ -399,7 +414,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Supporting Primary Education:**  USAID intends to provide $24.5
+-   **Supporting Primary Education:**  USAID intends to provide $24.5
     million for the Kenya Primary Literacy Program (KPLP), a new
     nationwide early grade literacy activity implemented in close
     partnership with Kenya’s Ministry of Education.  KPLP programs are
@@ -410,7 +425,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Bolstering Kenya’s Creative Workforce:**  The United States and
+-   **Bolstering Kenya’s Creative Workforce:**  The United States and
     Kenya announced new initiatives and programs to strengthen the
     creative economies between our two countries.  In partnership with
     the Recording Academy, the University of Southern California School
@@ -426,7 +441,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Expanding Emerging Technology Training Program: ** The Johns
+-   **Expanding Emerging Technology Training Program: ** The Johns
     Hopkins School of Advanced International Studies intends to launch a
     new fellowship program this fall bringing together high-achieving
     mid-career government officials from select African countries.  This
@@ -441,7 +456,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Increasing Diplomatic Exchange:**  The United States Foreign
+-   **Increasing Diplomatic Exchange:**  The United States Foreign
     Service Institute and the Kenyan Foreign Service Academy plan
     consultations with the intention of enhancing cooperation and
     further exchanges between the two institutions.  Sharing a mutual
@@ -452,7 +467,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Strengthening U.S.-Kenya Research Ties with Kenya’s Health
+-   **Strengthening U.S.-Kenya Research Ties with Kenya’s Health
     Workforce:**  The Academic Model Providing Access to Healthcare
     (AMPATH) Kenya is a partnership between Moi University, Moi Teaching
     and Referral Hospital, and the AMPATH Consortium of global
@@ -465,7 +480,7 @@ series of groundbreaking education and exchange programs. 
 
 <!-- -->
 
-1.  **Increasing Consular Capacity:**  The U.S. Embassy in Nairobi
+-   **Increasing Consular Capacity:**  The U.S. Embassy in Nairobi
     expanded the number of staff working in the Consular Section to
     expedite the review and issuance of visas for travel of Kenyan
     citizens to the United States.  The Consular Section issues visas
@@ -485,7 +500,7 @@ clean energy economy.  Closer partnership is generating greater advances
 in clean energy supply chains, mobilizing climate-related investment,
 sustainable agriculture, adaptation, and resilience.
 
-1.  **Launching the U.S.-Kenya Climate and Clean Energy Industrial
+-   **Launching the U.S.-Kenya Climate and Clean Energy Industrial
     Partnership:**  During the State Visit, we announced the launch of a
     U.S.-Kenya Climate and Clean Energy Industrial Partnership to
     elevate climate action and green industrialization as a critical
@@ -508,7 +523,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Humanitarian Disaster Response: ** To date in FY 2024, USAID has
+-   **Humanitarian Disaster Response: ** To date in FY 2024, USAID has
     provided $42 million in emergency humanitarian assistance to Kenya. 
     Including this assistance, USAID’s Bureau of Humanitarian Assistance
     has provided nearly $1.3 billion over the last 12 years to respond
@@ -517,7 +532,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Connecting Homes, Businesses, and Institutions to Reliable Clean
+-   **Connecting Homes, Businesses, and Institutions to Reliable Clean
     Energy: ** USAID, through the Power Africa Initiative, announced
     $300,000 to support women’s entrepreneurship and gender-equity in
     the Kenyan energy sector and committed $3.6 million in to support
@@ -531,7 +546,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Investing in Hydropower**:  Virunga Power, a U.S. company and
+-   **Investing in Hydropower**:  Virunga Power, a U.S. company and
     Power Africa partner, announced a pipeline of six run-of-river
     hydropower projects in advanced stages of development in Kenya. 
     With a total expected investment of $100 million, the hydropower
@@ -544,7 +559,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Deepening Government-to-Government Cooperation on Clean Energy and
+-   **Deepening Government-to-Government Cooperation on Clean Energy and
     Carbon Management: ** The U.S. Department of Energy and Kenyan
     Ministry of Energy announced their intent to sign a MOU in June in
     Nairobi intended to enhance bilateral collaboration and partnership
@@ -558,7 +573,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Investing in Electric Vehicle Startups:**  DFC announced a $10
+-   **Investing in Electric Vehicle Startups:**  DFC announced a $10
     million direct loan to BasiGo, an electric vehicle company that
     leases and sells electric buses to public transport bus operators in
     Kenya.  The loan facilitates procurement of buses and batteries for
@@ -574,7 +589,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Growing Kenya’s E-mobility Sector:**  DFC recently announced a $10
+-   **Growing Kenya’s E-mobility Sector:**  DFC recently announced a $10
     million loan to Mogo Auto Kenya to support affordable financing for
     cars, motorcycle taxis, and logbook loans in Kenya.  The transaction
     supports President Ruto’s Africa Green Industrialization Initiative,
@@ -583,7 +598,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Launching the MCC-Kenya Urban Mobility and Growth Threshold
+-   **Launching the MCC-Kenya Urban Mobility and Growth Threshold
     Program:**  The United States and Kenya are scheduled to launch a
     seminal partnership to deliver a more connected, mobile, and green
     Nairobi.  The $60 million grant from the Millennium Challenge
@@ -595,7 +610,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Increasing Plastic Recycling:**  USAID recently expanded its
+-   **Increasing Plastic Recycling:**  USAID recently expanded its
     support for the Kenyan recycling company T3, now totaling over $2
     million.  T3 plans to leverage nearly $13 million in additional
     private investment to expand plastic collection and acquire a
@@ -608,7 +623,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Supporting Community-Led Conservation: ** The Southern Kenya
+-   **Supporting Community-Led Conservation: ** The Southern Kenya
     Conservation Project (SOK) and the Kenya Rhino Range Expansion
     Project (KRRE) are building partnerships for the conservation of the
     southern Kenya landscape and the expansion of rhino range in Kenya. 
@@ -622,7 +637,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Promoting Wildlife Conservation:**  To assist the Government of
+-   **Promoting Wildlife Conservation:**  To assist the Government of
     Kenya with combatting wildlife trafficking and other nature crimes,
     the U.S. Department of State and the U.S. Department of the Interior
     have collaborated to station a permanent U.S. Fish and Wildlife
@@ -635,7 +650,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Amplifying Scientific Partnership:**  The United States welcomes
+-   **Amplifying Scientific Partnership:**  The United States welcomes
     Kenya’s leadership in hosting the upcoming Smithsonian’s ForestGEO
     international analytical gathering in Nanyuki, Kenya, co-hosted by
     the Mpala Research Centre, the National Museums of Kenya, and the
@@ -646,7 +661,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Improving Weather Forecasting:**  DFC recently announced a $1
+-   **Improving Weather Forecasting:**  DFC recently announced a $1
     million loan to Ignitia AB, a tropical weather forecasting service
     designed for smallholder farmers in Kenya, Ghana, and the Democratic
     Republic of the Congo.  This loan was part of the Africa Small
@@ -655,7 +670,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Fostering High-Integrity Carbon Markets:**  The United States and
+-   **Fostering High-Integrity Carbon Markets:**  The United States and
     Kenya established a partnership to support Kenya’s efforts to be a
     global leader in delivering high-integrity and high-quality carbon
     credits.  In support of this partnership, the U.S. State Department
@@ -666,7 +681,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Investing in Carbon Capture: ** The U.S. Department of Energy,
+-   **Investing in Carbon Capture: ** The U.S. Department of Energy,
     through Pacific Northwest National Laboratory, announced a one-year
     project to accelerate the commercial readiness of carbon dioxide
     (CO2) removal approaches that leverage the reactive CO2
@@ -682,7 +697,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Announcing New Scientific Collaboration: ** The Smithsonian
+-   **Announcing New Scientific Collaboration: ** The Smithsonian
     Institution announced a new research fellowship program in Kenya,
     funded by education entrepreneurs Dennis and Connie Keller, to build
     capacity, train, and exchange knowledge.  Alongside Smithsonian
@@ -696,7 +711,7 @@ sustainable agriculture, adaptation, and resilience.
 
 <!-- -->
 
-1.  **Deepening U.S.-Africa Nuclear Industry Cooperation: ** The U.S.
+-   **Deepening U.S.-Africa Nuclear Industry Cooperation: ** The U.S.
     Department of Energy, in partnership with Kenya and Ghana, plans to
     host the second installment of the U.S.-Africa Nuclear Energy Summit
     (USANES) on Industry Readiness in Nairobi, Kenya in August 2024. 
@@ -723,7 +738,7 @@ with the private sector to further strengthen these economic ties,
 including in the critical areas of clean energy technology, agriculture,
 and affordable housing.
 
-1.  **Advancing a U.S.-Kenya Strategic Trade and Investment
+-   **Advancing a U.S.-Kenya Strategic Trade and Investment
     Partnership:**  The U.S. and Kenya have made significant progress on
     the [U.S.-Kenya Strategic Trade and Investment Partnership
     (STIP)](https://ustr.gov/about-us/policy-offices/press-office/press-releases/2024/may/united-states-and-kenya-joint-statement-after-fifth-round-us-kenya-strategic-trade-and-investment). 
@@ -738,7 +753,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Signing a U.S.-Kenya Commercial and Investment Partnership: ** The
+-   **Signing a U.S.-Kenya Commercial and Investment Partnership: ** The
     United States and Kenya intend to sign a Commercial and Investment
     Partnership, affirming a mutual commitment to deepening commercial
     and investment ties between our two countries.  This Partnership,
@@ -749,7 +764,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Opening a DFC Nairobi Office: ** DFC announced it plans to open an
+-   **Opening a DFC Nairobi Office: ** DFC announced it plans to open an
     office in Nairobi, playing a key role in driving DFC’s pipeline
     development across key sectors in Kenya such as agriculture, health,
     e-mobility, energy, infrastructure, and financial inclusion,
@@ -758,7 +773,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Establishing A Framework Agreement with Coca-Cola:**  In Atlanta,
+-   **Establishing A Framework Agreement with Coca-Cola:**  In Atlanta,
     President Ruto visited Coca-Cola HQ to sign a framework agreement
     focused on policy engagement, mango juice production, and plastic
     recycling.  His visit also celebrated 70 years of Coca-Cola in
@@ -769,7 +784,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Reaping Benefits from AGOA:**  Vivo Fashion, a leading Kenyan
+-   **Reaping Benefits from AGOA:**  Vivo Fashion, a leading Kenyan
     women’s fashion brand in East Africa, announced the opening of its
     first retail storefront in the United States in Atlanta, Georgia. 
     Vivo Fashion is part of a growing Kenyan apparel industry that
@@ -778,7 +793,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Improving Food Security through Jobs:**  USAID is investing in the
+-   **Improving Food Security through Jobs:**  USAID is investing in the
     future with $15 million for new activities designed to reduce
     poverty and malnutrition and address global food security by
     expanding investment opportunities.  By creating over 50,000 new
@@ -789,11 +804,11 @@ and affordable housing.
 
 <!-- -->
 
-1.  **Investing in Kenyan Businesses:**
+-   **Investing in Kenyan Businesses:**
 
 <!-- -->
 
-1.  *Acorn Green Housing Project:*  DFC recently approved an
+-   *Acorn Green Housing Project:*  DFC recently approved an
     approximately $180 million loan to Acorn, a real estate developer
     that constructs and operates affordable student housing in Kenya. 
     The DFC investment is expected to catalyze an additional $360
@@ -802,7 +817,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  *Pezesha Africa Limited:* ** **DFC announced a $500,000 technical
+-   *Pezesha Africa Limited:* ** **DFC announced a $500,000 technical
     assistance grant to build a proprietary credit scoring model to
     improve Kenyan company Pezesha Africa Limited’s underwriting
     capabilities for small and medium sized enterprise clients.  Pezesha
@@ -813,7 +828,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  *Keep IT Cool:*  DFC recently announced a $500,000 loan to
+-   *Keep IT Cool:*  DFC recently announced a $500,000 loan to
     Kenyan-based Keep IT Cool, a business-to-business aggregation and
     sales platform to connect fish farmers with buyers utilizing cold
     chain technology.  This loan was part of the Africa Small Business
@@ -821,7 +836,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  *African Fertilizer and Agribusiness Partnership, Inc.:*** ** DFC
+-   *African Fertilizer and Agribusiness Partnership, Inc.:*** ** DFC
     recently announced a $10 million second loss guarantee to African
     Fertilizer and Agribusiness Partnership, Inc. to expand the sale of
     fertilizer on credit to small and medium-sized enterprise agri-input
@@ -832,7 +847,7 @@ and affordable housing.
 
 <!-- -->
 
-1.  *Kentegra Biotechnology:*** ** DFC recently announced a $10 million
+-   *Kentegra Biotechnology:*** ** DFC recently announced a $10 million
     loan to Kentegra Biotechnology in Kenya to support the construction
     of a new facility to scale up its production capacity of pale
     refined pyrethrum extract, a key ingredient in organic pesticides. 
@@ -854,7 +869,7 @@ out of reach.  Countries should not have to make the difficult choice
 between paying back creditors and investing in their people, economy,
 and future.  
 
-1.  **Launching theNairobi-Washington Vision:**  The United States and
+-   **Launching theNairobi-Washington Vision:**  The United States and
     Kenya are launching the *Nairobi-Washington Vision* as a call to
     action to the international community to bring together all its
     tools to support countries with high ambition with respect to
@@ -872,7 +887,7 @@ and future.  
 
 <!-- -->
 
-1.  **Expanding Support to Developing Countries through the
+-   **Expanding Support to Developing Countries through the
     International Financial Institutions**:  To make this vision a
     reality, the United States is stepping up support to international
     financial institutions.  Through efforts to evolve the multilateral
@@ -895,7 +910,7 @@ and future.  
 
 <!-- -->
 
-1.  **Enhancing Support for Kenya from the International Financial
+-   **Enhancing Support for Kenya from the International Financial
     Institutions:**  The United States has been a leading voice
     advocating for international financial institutions to step up
     support to Kenya to achieve development and climate ambitions.  With
@@ -931,11 +946,11 @@ committed to seizing the opportunities of a new digital era and driving
 innovative approaches to solving some of the most consequential global
 challenges.
 
-1.  **Building Secure and Resilient Supply Chains:**
+-   **Building Secure and Resilient Supply Chains:**
 
 <!-- -->
 
-1.  *Establishing a New Semiconductor and Technology Partnership to
+-   *Establishing a New Semiconductor and Technology Partnership to
     Support U.S. and Kenyan Industry, Consumers, and Workers:* ** **The
     United States views Kenya as a strong emergent partner in building
     resilient semiconductor supply chains, and we share a commitment to
@@ -955,7 +970,10 @@ challenges.
     ecosystems, and complement U.S. domestic manufacturing capacity. 
     This would make Kenya the first country in Africa to benefit from
     funding through the CHIPS and Science Act.
-2.  *Partnership to Expand Semiconductor Supply Chain:*  The United
+
+<!-- -->
+
+-   *Partnership to Expand Semiconductor Supply Chain: * The United
     States is working with Congress to establish a partnership with
     Kenya to expand and diversify its emerging semiconductor industry in
     support of global supply chains.  Programs to expand Kenya’s
@@ -963,7 +981,10 @@ challenges.
     assist in attracting further private investment and build linkages
     to the U.S. semiconductor supply chain, specifically in the
     assembly, testing and packaging sectors.
-3.  *Diversifying the Semiconductor Workforce*:  NSF intends to partner
+
+<!-- -->
+
+-   *Diversifying the Semiconductor Workforce*:  NSF intends to partner
     with Micron and Global Foundries to launch new funding opportunities
     to support investments in a diverse semiconductor workforce –
     including through investing in Historically Black Colleges and
@@ -974,7 +995,10 @@ challenges.
     offering workshops, planning grants, and providing supplements to
     U.S. universities for research and education to strengthen
     connections between U.S. and Kenyan universities.
-4.  *Semiconductor Network and Welcome Corps at Work*:  The United
+
+<!-- -->
+
+-   *Semiconductor Network and Welcome Corps at Work*:  The United
     States welcomes Micron’s launch of its MSI Semiconductor Network
     comprised of 16 leading universities across the United States, which
     seeks to feature collaboration between select MSIs with universities
@@ -989,15 +1013,21 @@ challenges.
     individuals from refugee and immigrant communities across East
     Africa, including Kenya, to fill semiconductor technician and
     engineer roles.
-5.  *Expanding Semiconductor Fabrication: * USTDA signed an MOU with the
+
+<!-- -->
+
+-   *Expanding Semiconductor Fabrication: * USTDA signed an MOU with the
     Government of Kenya and committed $1.3 million to support
     Semiconductor Technologies Limited’s expansion of its fabrication of
     legacy semiconductor chips at commercial scale.
 
 <!-- -->
 
-1.  **Enhancing Cybersecurity Cooperation:**
-2.  *Improving Cybersecurity*:  The United States, Kenya, and Google
+-   **Enhancing Cybersecurity Cooperation:**
+
+<!-- -->
+
+-   *Improving Cybersecurity*:  The United States, Kenya, and Google
     announced a joint effort to help launch a cybersecurity operations
     platform to improve the security of Kenya’s digital infrastructure,
     including an initial pilot project to enhance the resilience of
@@ -1012,12 +1042,18 @@ challenges.
     the African continent.  The Center is supporting the East African
     digital ecosystem, providing critical cybersecurity skills for
     future tech leaders. 
-3.  *Kenya Regional Cyber Sector Collaboration Symposium:*  The United
+
+<!-- -->
+
+-   *Kenya Regional Cyber Sector Collaboration Symposium:*  The United
     States and Kenya, in collaboration with the Software Engineering
     Institute, plan to hold a regional event later this year focused on
     enhancing information sharing between cybersecurity incident
     response teams to enable a more resilient cyberspace in East Africa.
-4.  *Commercial Law Development Program Advisory Support:*  As a
+
+<!-- -->
+
+-   *Commercial Law Development Program Advisory Support:*  As a
     collaborative effort between the Departments of State and Commerce,
     the United States intends to provide policy and regulatory advisory
     services to support secure and trusted ICT ecosystems in Kenya. 
@@ -1027,21 +1063,22 @@ challenges.
 
 <!-- -->
 
-1.  **Promoting Digital Connectivity:**
+-   **Promoting Digital Connectivity:**
 
 <!-- -->
 
-1.  *Expanding Digital Connectivity:*** ** Google announced plans to
-    open a new office in Kenya this year, including its first Product
-    Development Center in Africa.  Google announced an investment in
-    digital connectivity for Africa Connect, creating the first
-    intercontinental fiber optic route in the southern hemisphere
+-   *Expanding Digital Connectivity:*** ** Google announced an
+    investment in digital connectivity for Africa Connect, creating the
+    first intercontinental fiber optic route in the southern hemisphere
     between Kenya and the Asia Pacific region.  The terrestrial portion
     of Africa Connect has regional breakout points which enable trusted
     connectivity from Kenya to Uganda, Rwanda, Democratic Republic of
     Congo, Zambia, Zimbabwe, South Africa and Google’s Africa Cloud
     Region. 
-2.  *Fiber Backbone and Access Network Expansion*:  USTDA recently
+
+<!-- -->
+
+-   *Fiber Backbone and Access Network Expansion: * USTDA recently
     announced funding for a $1.13 million feasibility study to help
     Bandwidth and Cloud Services Group (BCS) expand its operations to
     provide new and affordable broadband network access to thousands of
@@ -1051,14 +1088,20 @@ challenges.
     turn, the expansion should enable other internet service providers
     to make new investments that can provide affordable fixed wireless
     access for an even larger consumer market.
-3.  *Affordable Urban Internet Connectivity:*  USTDA recently announced
+
+<!-- -->
+
+-   *Affordable Urban Internet Connectivity:*  USTDA recently announced
     $1.26 million in funding for a feasibility study to assess market
     opportunities across Africa in support of Kenya-based Poa Internet’s
     delivery of affordable fixed wireless internet access.  The grant
     aims to evaluate the viability of expanding internet access to an
     additional one million households in low-income urban communities
     across the continent.
-4.  *Bridging the Digital Divide Reverse Trade Mission Series:*  USTDA
+
+<!-- -->
+
+-   *Bridging the Digital Divide Reverse Trade Mission Series:*  USTDA
     announced two upcoming reverse trade missions to introduce public
     and private sector representatives from Kenya and Tanzania to the
     latest U.S. technologies, services, and financing solutions for
@@ -1067,13 +1110,19 @@ challenges.
     cybersecurity governance, while increasing the likelihood that these
     digital transformation projects are implemented using U.S.
     technologies and services.
-5.  *Mombasa to Malaba Fiber and Tower Infrastructure*:  At the 2024
+
+<!-- -->
+
+-   *Mombasa to Malaba Fiber and Tower Infrastructure*:  At the 2024
     AmCham East Africa Business Summit, USTDA announced $1.2 million to
     address Kenya’s internet affordability gap.  USTDA’s grant to the
     Wilken Group enables evaluation of the development of fiber optic
     infrastructure and a series of 5G-capable towers along the Meter
     Gauge Railway between the cities of Mombasa and Malaba.
-6.  *Africa Cross-Continental Fiber Backbone*:  At the 2024 AmCham East
+
+<!-- -->
+
+-   *Africa Cross-Continental Fiber Backbone*:  At the 2024 AmCham East
     Africa Business Summit, USTDA announced $1.3 million in funding for
     a feasibility study for CSquared to assess plans for a
     cross-continent fiber optic backbone from East Africa to the
@@ -1082,12 +1131,18 @@ challenges.
     broadband for the first time.  USTDA’s grant also aims to establish
     city-level fiber networks and last-mile connectivity to commercial
     buildings and homes.
-7.  *Last-Mile Internet: * The Government of Kenya and Microsoft
+
+<!-- -->
+
+-   *Last-Mile Internet: * The Government of Kenya and Microsoft
     continue to collaborate to increase internet connectivity in Kenya
     and throughout the region, including by bringing last-mile wireless
     internet access to 20 million Kenyans and 50 million people across
     East Africa by the end of 2025.
-8.  *Digital Transformation with Africa (DTA) Partnership with the Young
+
+<!-- -->
+
+-   *Digital Transformation with Africa (DTA) Partnership with the Young
     African Leaders Initiative (YALI):*  DTA intends to provide $1
     million to YALI’s Regional Leadership Center (RLC) in Kenya to
     expand digital skills and literacy, support digital entrepreneurs
@@ -1095,7 +1150,10 @@ challenges.
     Africa.  This activity should inform additional DTA-YALI activities
     with other RLCs in Ghana, Senegal, and South Africa, benefiting
     young African leaders in 49 countries.
-9.  *Construction of Green Data Center for Cloud Services*:  The
+
+<!-- -->
+
+-   *Construction of Green Data Center for Cloud Services*:  The
     government of Kenya and Microsoft announced they are joining a
     partnership that plans to construct a 1-gigawatt datacenter in
     Naivasha, Kenya.  The data center will be run on Microsoft Azure
@@ -1105,11 +1163,17 @@ challenges.
     from Huawei-owned data centers.  The data center will be powered
     entirely by geothermal energy and will feature state-of-the-art
     water conservation technology to minimize water use. 
-10. *M-KOPA:*  DFC announced a $51 million loan to Kenyan company M-KOPA
+
+<!-- -->
+
+-   *M-KOPA:*  DFC announced a $51 million loan to Kenyan company M-KOPA
     to support the financing of up to $210 million of smartphone
     receivables, and cash loans, increasing the affordability of devices
     to low-income borrowers.
-11. *Establishing Strategic Dialogue on AI*:  The governments of the
+
+<!-- -->
+
+-   *Establishing Strategic Dialogue on AI*:  The governments of the
     United States and Kenya established a Strategic Dialogue on AI to
     discuss deepening our collaboration to ensure the development and
     deployment of safe, secure, and trustworthy AI systems.  This
@@ -1121,7 +1185,10 @@ challenges.
     implications of AI and associated technologies.  The inaugural
     Strategic Dialogue on AI meeting is scheduled to take place in late
     2024.
-12. *Collaboration between the U.S. AI Safety Institute and Kenya’s
+
+<!-- -->
+
+-   *Collaboration between the U.S. AI Safety Institute and Kenya’s
     Imagine Tech and Action Lab*:  The U.S. AI Safety Institute and
     Kenya’s equivalent Imagine Tech and Action Lab plan on future
     collaboration to advance scientific research for AI safety, develop
@@ -1146,7 +1213,7 @@ firmly committed to supporting Kenya in its deployment to lead the
 Multinational Security Support (MSS) mission to Haiti, providing much
 needed security assistance to the Haitian people.
 
-1.  **Elevating our Bilateral Relationship:**  In a powerful symbol of
+-   **Elevating our Bilateral Relationship:**  In a powerful symbol of
     the close relationship between the United States and Kenya, today
     President Biden is informing Congress he intends to designate Kenya
     as a Major Non-NATO Ally.  This designation is granted by the United
@@ -1158,7 +1225,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Promoting Peace and Security: ** To further strengthen and amplify
+-   **Promoting Peace and Security: ** To further strengthen and amplify
     Kenya’s regional role in peace negotiations and mediation, the U.S.
     Department of State’s Bureau of Conflict and Stabilization
     Operations is funding the Public International Law and Policy
@@ -1168,7 +1235,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Leading on Refugee Response:**  The United States and Kenya
+-   **Leading on Refugee Response:**  The United States and Kenya
     reiterate the importance of building a strong asylum system,
     partnering on social and economic integration of refugees and host
     communities, and supporting the U.S. Refugee Admissions Program. 
@@ -1184,7 +1251,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Investing in the Security Sector: ** The United States is making
+-   **Investing in the Security Sector: ** The United States is making
     long-term investments in Kenya’s defense capabilities, including by
     building border security capabilities, increasing maritime security
     awareness, improving peacekeeping capacity, supporting humanitarian
@@ -1198,7 +1265,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Working Together to Bring Peace to Haiti: ** The United States
+-   **Working Together to Bring Peace to Haiti: ** The United States
     reaffirmed its support for Kenya’s plan to deploy 1,000 police to
     Haiti as part of the MSS mission to Haiti to help bring security and
     stability to the Caribbean nation.  Answering the call from Haiti
@@ -1208,7 +1275,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Bolstering Criminal Justice System Response to Counter
+-   **Bolstering Criminal Justice System Response to Counter
     Terrorism:**  Consistent with the vision President Biden laid out at
     the U.S.-Africa Leaders Summit, the State Department Bureau of
     Counterterrorism announced $18.7 million to help build the Kenyan
@@ -1224,7 +1291,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Countering Terrorism: ** Underscoring our shared commitment in the
+-   **Countering Terrorism: ** Underscoring our shared commitment in the
     fight against terrorism, U.S. and Kenyan officials plan to sign a
     Memorandum of Understanding to expand the Manda Bay Airfield in
     coastal Kenya by building a 10,000-foot runway.  The expanded
@@ -1233,7 +1300,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Deepening Cooperation on Information Sharing:**  The two countries
+-   **Deepening Cooperation on Information Sharing:**  The two countries
     have committed to deepen cooperation on counterterrorism information
     sharing to constitute a comprehensive response to the international
     terrorist threat.  Additionally, Kenya is in the process of joining
@@ -1246,7 +1313,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Refurbishing and Delivering Helicopters: ** Kenya is scheduled to
+-   **Refurbishing and Delivering Helicopters: ** Kenya is scheduled to
     receive 16 U.S.-manufactured helicopters between late 2024 and
     summer 2025 to bolster its ability to provide regional peace and
     security (8 Hueys) and participate in peacekeeping missions (8
@@ -1254,7 +1321,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Continuing Military Procurement:**  Kenya has one of the largest
+-   **Continuing Military Procurement:**  Kenya has one of the largest
     U.S. Foreign Military Sales portfolios in Africa.  Kenya selected
     approximately 150 M1117 Armored Security Vehicles from U.S. Excess
     Defense Article stocks, which are projected to arrive in Kenya
@@ -1262,7 +1329,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Collaborating in Military Exercises: ** The United States
+-   **Collaborating in Military Exercises: ** The United States
     welcomesKenya’s hosting of and participation in some of the largest
     U.S. military exercises in Africa, including Exercise JUSTIFIED
     ACCORD – the second largest U.S. military exercise in Africa – and
@@ -1271,7 +1338,7 @@ needed security assistance to the Haitian people.
 
 <!-- -->
 
-1.  **Deepening A Legacy of Military Training and Capacity Building: **
+-   **Deepening A Legacy of Military Training and Capacity Building: **
     In summer 2024, for the first time the Kenya Defence Forces have
     candidates starting courses at the U.S. Military Academy, the U.S.
     Naval Academy, and the U.S. Air Force Academy, building on a long
