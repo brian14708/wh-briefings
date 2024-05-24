@@ -1,6 +1,6 @@
 ---
 date: '2024-05-23'
-modified_time: 2024-05-23 15:05:31-04:00
+modified_time: 2024-05-24 14:05:20-04:00
 published_time: 2024-05-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
 tags: statements-releases
@@ -813,7 +813,12 @@ and affordable housing.
     that constructs and operates affordable student housing in Kenya. 
     The DFC investment is expected to catalyze an additional $360
     million in local Kenyan investment in one of the largest green
-    housing portfolios in Africa.
+    housing portfolios in Africa. With early-stage support from USAID
+    and Prosper Africa and financing from DFC, this transaction is
+    designed to address a critical need and is a strong example of the
+    power of whole of U.S.-government support to the private sector as
+    it pursues projects with an emphasis on development impact that
+    delivers for the people of Kenya.
 
 <!-- -->
 
