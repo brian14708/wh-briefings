@@ -1,6 +1,6 @@
 ---
 date: '2024-05-23'
-modified_time: 2024-05-24 14:05:20-04:00
+modified_time: 2024-05-24 17:19:34-04:00
 published_time: 2024-05-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
 tags: statements-releases
@@ -443,16 +443,16 @@ series of groundbreaking education and exchange programs. 
 
 -   **Expanding Emerging Technology Training Program: ** The Johns
     Hopkins School of Advanced International Studies intends to launch a
-    new fellowship program this fall bringing together high-achieving
-    mid-career government officials from select African countries.  This
-    program equips the next generation of leaders across the continent
-    with the policy and technical expertise needed to help their
-    governments translate the digital transformations underway –
-    including in AI and other emerging technologies – into broadly
-    shared growth for their societies.  In recognition of the technology
-    sector leadership demonstrated by both the Kenyan public and private
-    sector, Kenya is the first country to be added the inaugural
-    fellowship cohort.
+    new fellowship program this fall, funded in part by Meta, bringing
+    together high-achieving mid-career government officials from select
+    African countries.  This program equips the next generation of
+    leaders across the continent with the policy and technical expertise
+    needed to help their governments translate the digital
+    transformations underway – including in AI and other emerging
+    technologies – into broadly shared growth for their societies.  In
+    recognition of the technology sector leadership demonstrated by both
+    the Kenyan public and private sector, Kenya is the first country to
+    be added the inaugural fellowship cohort.
 
 <!-- -->
 
