@@ -1,6 +1,6 @@
 ---
 date: '2024-05-28'
-modified_time: 2024-05-26 16:21:38-04:00
+modified_time: 2024-05-28 14:12:52-04:00
 published_time: 2024-05-28 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-announces-new-principles-for-high-integrity-voluntary-carbon-markets/
 tags: statements-releases
@@ -151,11 +151,12 @@ potential. These include:
 
 -   **Creating New Climate Opportunities for America’s Farmers and
     Forest Landowners.** Today, The Department of Agriculture’s (USDA)
-    Agricultural Marketing Service (AMS) published a Request for
-    Information (RFI) in the Federal Register asking for public input
-    relating to the protocols used in VCMs. This RFI is USDA’s next step
-    in implementing the [Greenhouse Gas Technical Assistance Provider
-    and
+    Agricultural Marketing Service (AMS) published a [Request for
+    Information
+    (RFI)](https://www.usda.gov/media/press-releases/2024/05/28/usda-publishes-request-information-support-next-steps-implementing)
+    in the Federal Register asking for public input relating to the
+    protocols used in VCMs. This RFI is USDA’s next step in implementing
+    the [Greenhouse Gas Technical Assistance Provider and
     Third-Party](https://www.usda.gov/media/press-releases/2024/02/27/usda-announces-progress-newly-authorized-climate-programs)
     [Verifier
     Program](https://www.usda.gov/media/press-releases/2024/02/27/usda-announces-progress-newly-authorized-climate-programs)
@@ -184,8 +185,9 @@ potential. These include:
     also supporting rural economies and maintaining land ownership for
     future generations through participation in VCMs.
 -   **Conducting First-of-its-kind Credit Purchases.** Today, the
-    Department of Energy (DOE) announced the semifinalists for its $35
-    million [Carbon Dioxide
+    Department of Energy (DOE) [announced the
+    semifinalists](https://www.energy.gov/articles/doe-announces-12-million-accelerate-americas-carbon-dioxide-removal-industry)
+    for its $35 million [Carbon Dioxide
     Removal](https://www.energy.gov/fecm/articles/doe-announces-35-million-accelerate-carbon-dioxide-removal?utm_medium=email&utm_source=govdelivery)
     [Purchase Pilot
     Prize](https://www.energy.gov/fecm/articles/doe-announces-35-million-accelerate-carbon-dioxide-removal?utm_medium=email&utm_source=govdelivery)
