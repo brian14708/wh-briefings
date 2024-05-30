@@ -1,6 +1,6 @@
 ---
 date: '2024-05-30'
-modified_time: 2024-05-29 21:14:27-04:00
+modified_time: 2024-05-30 10:15:56-04:00
 published_time: 2024-05-30 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/fact-sheet-biden-harris-administration-takes-action-to-expand-access-to-capital-for-small-and-medium-sized-climate-businesses/
 tags: statements-releases
@@ -90,7 +90,7 @@ estate or equipment. Previously, this program was capped at three loans
 per company, allowing each company to receive a total of $16.5 million
 in loans backed by the Small Business Administration.  This month, the
 Small Business Administration [is lifting its
-cap](https://www.sba.gov/sites/default/files/2024-05/Procedural%20Notice%205000-856984_504%20Program%20Updates%20Removing%20Cap%20on%20EPPP%20and%20Extensions%20on%20Debenture%20%281%29.pdf)
+cap](https://www.sba.gov/article/2024/05/30/biden-harris-administration-announces-new-actions-resources-advanceclean-energy-economy)
 on the number of 504 loans that small businesses may receive for “energy
 public policy projects,” which include projects that reduce energy
 consumption such as retrofits and/or renewable energy projects such as
