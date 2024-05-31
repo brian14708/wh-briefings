@@ -1,6 +1,6 @@
 ---
 date: '2024-05-30'
-modified_time: 2024-05-30 08:05:13-04:00
+modified_time: 2024-05-31 07:17:33-04:00
 published_time: 2024-05-30 09:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-france/
 tags: statements-releases
@@ -18,7 +18,7 @@ brave Americans landed at Utah and Omaha beaches in Normandy on June 6,
 members while in France to honor their sacrifice. On June 7, the
 President will deliver remarks at Pointe du Hoc, France about the
 importance of defending freedom and democracy. Then in Paris on June 8,
-President Emmanuel Macron of France and Mrs. Brigitte Macron with host
+President Emmanuel Macron of France and Mrs. Brigitte Macron will host
 President Biden and Dr. Biden for a State Visit. The State Visit will
 reflect the enduring and comprehensive relationship between the United
 States and France, our oldest ally, founded on shared democratic values,
