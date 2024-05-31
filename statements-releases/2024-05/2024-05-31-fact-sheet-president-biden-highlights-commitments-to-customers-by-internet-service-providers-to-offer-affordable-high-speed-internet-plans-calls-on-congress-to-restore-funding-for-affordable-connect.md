@@ -1,6 +1,6 @@
 ---
 date: '2024-05-31'
-modified_time: 2024-05-30 21:48:05-04:00
+modified_time: 2024-05-31 10:03:59-04:00
 published_time: 2024-05-31 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/fact-sheet-president-biden-highlights-commitments-to-customers-by-internet-service-providers-to-offer-affordable-high-speed-internet-plans-calls-on-congress-to-restore-funding-for-affordable-connect/
 tags: statements-releases
@@ -56,7 +56,8 @@ month or less, with no fees and data caps, until the end of 2024:
 -   [Mediacom](https://mediacomcable.com/xtream-connect/)
 -   [MLGC](https://mlgc.com/)
 -   [Optimum](https://www.optimum.com/advantageplus)
--   [Spectrum (Charter Communications)](http://spectrum.com/acp)\*
+-   [Spectrum (Charter
+    Communications](http://spectrum.com/acp)[)](https://www.spectrum.com/internet/spectrum-internet-assist?cmp=dotcom_sia_041224)
 -   [Starry](https://starry.com/)
 -   [Verizon](https://www.verizon.com/discounts/verizon-forward/)
 -   [Vermont Telephone Company](https://www.vermontel.com/)
