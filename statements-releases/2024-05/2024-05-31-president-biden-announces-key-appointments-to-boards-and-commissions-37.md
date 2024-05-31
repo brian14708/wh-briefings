@@ -1,6 +1,6 @@
 ---
 date: '2024-05-31'
-modified_time: 2024-05-31 08:46:09-04:00
+modified_time: 2024-05-31 18:23:15-04:00
 published_time: 2024-05-31 15:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/president-biden-announces-key-appointments-to-boards-and-commissions-37/
 tags: statements-releases
@@ -18,8 +18,8 @@ following individuals to serve in key roles:
     Advisory Board
 -   Calvin Smyre, to be a Member of the President’s Intelligence
     Advisory Board
--   John F. Cordisco, to be a Commissioner of the United States
-    Commission for the Preservation of America’s Heritage Abroad
+-   John F. Cordisco, to be a Member of the United States Commission for
+    the Preservation of America’s Heritage Abroad
 
 **<u>President’s Export Council</u>**
 
@@ -201,8 +201,8 @@ is mostly comprised of immigrants and their descendants, and that the
 United States has an interest in the preservation of sites in other
 countries related to the heritage of these Americans.
 
-**John F. Cordisco, to be a Commissioner of the United States Commission
-for the Preservation of America’s Heritage Abroad**
+**John F. Cordisco, to be a Member of the United States Commission for
+the Preservation of America’s Heritage Abroad**
 
 John F. Cordisco began practicing law in 1987 and has spent the last 37
 years representing victim’s rights. He is currently a partner at the law
@@ -231,4 +231,4 @@ J.D. from Temple School of Law. Cordisco is the father of three children
 and six grandchildren. He currently resides in Newtown, Bucks County,
 Pennsylvania.
 
-\###
+\# \# \#
