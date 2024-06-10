@@ -1,6 +1,6 @@
 ---
 date: '2024-06-08'
-modified_time: 2024-06-08 13:10:03-04:00
+modified_time: 2024-06-10 08:57:40-04:00
 published_time: 2024-06-08 13:10:02-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/08/french-american-roadmap/
 tags: statements-releases
@@ -790,9 +790,9 @@ Architecture***
     2025.  
       
     France and the United States affirm their support for sexual and
-    reproductive health and rights.  Women can access reproductive
-    health care, including contraception and safe abortion. Both
-    countries defend sexual and reproductive health and rights in
+    reproductive health and rights.  Women should be able to access
+    reproductive health care, including contraception and safe abortion.
+    Both countries defend sexual and reproductive health and rights in
     multilateral and bilateral relations, advocate for ambitious
     language in international negotiating bodies, and engage in existing
     coalitions, such as Generation Equality Forum coalition of action on
