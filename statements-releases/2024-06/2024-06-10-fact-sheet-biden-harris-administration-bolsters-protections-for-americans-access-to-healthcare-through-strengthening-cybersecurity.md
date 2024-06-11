@@ -1,6 +1,6 @@
 ---
 date: '2024-06-10'
-modified_time: 2024-06-10 09:14:22-04:00
+modified_time: 2024-06-11 09:20:36-04:00
 published_time: 2024-06-10 09:14:21-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/10/fact-sheet-biden-harris-administration-bolsters-protections-for-americans-access-to-healthcare-through-strengthening-cybersecurity/
 tags: statements-releases
@@ -83,9 +83,11 @@ following:
     Additionally, Microsoft will extend security updates for Window 10
     to participating hospitals for one year at no cost.  
 -   Google will provide endpoint security advice to rural hospitals and
-    non-profit organizations at no cost and a pool of funding to support
-    software migration. In addition, Google is committing to launch a
-    pilot program with rural hospitals to develop a packaging of
-    security capabilities that fit these hospitals’ unique needs. 
+    non-profit organizations at no cost, and eligible customers can get
+    discounted pricing for communication and collaboration tools and
+    security support and a pool of funding to support software
+    migration. In addition, Google is committing to launch a pilot
+    program with rural hospitals to develop a packaging of security
+    capabilities that fit these hospitals’ unique needs. 
 
 \###
