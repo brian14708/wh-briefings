@@ -1,5 +1,6 @@
 ---
 date: '2024-06-15'
+modified_time: 2024-06-15 17:46:42-04:00
 published_time: 2024-06-15 12:49:49-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/15/remarks-by-vice-president-harris-at-summit-on-peace-in-ukraine-opening-plenary/
 tags: speeches-remarks
@@ -53,9 +54,9 @@ Russia is a permanent member of the United Nations Security Council. 
 Nevertheless, for nearly two and a half years, it has shamelessly
 violated the core tenets of that charter.  If the world fails to respond
 when an aggressor invades its neighbor, other aggressors will
-undoubtably become emboldened.  It leads to the potential of a war of
-conquest and chaos, not order and stability, which threatens all
-nations.  
+undoubtably become emboldened. It leads to the potential of a
+<s>war</s> \[world\] of conquest and chaos, not order and stability,
+which threatens all nations.  
   
 President Joe Biden and I will continue to support Ukraine and continue
 to impose costs on Russia.  
