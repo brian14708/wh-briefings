@@ -1,5 +1,6 @@
 ---
 date: '2024-06-16'
+modified_time: 2024-06-16 21:07:12-04:00
 published_time: 2024-06-16 20:05:34-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/16/fact-sheet-biden-%e2%81%a0harris-administration-takes-action-to-counter-islamophobia/
 tags: statements-releases
@@ -59,8 +60,7 @@ actions: 
     President Biden secured an additional $400 million for the Nonprofit
     Security Grant Program, which funds security improvements and
     training to nonprofits and houses of worship, including mosques. The
-    **Department of Homeland Security (DHS) and DOJ** published
-    a [resource
+    Department of Homeland Security (DHS) and DOJ published a [resource
     guide](https://www.cisa.gov/resources-tools/resources/protecting-places-worship-six-steps-enhance-security-against-targeted-violence) titled,
     “Protecting Places of Worship: Six Steps to Enhance Security Against
     Targeted Violence,” outlining actions Muslim and other faith-based
