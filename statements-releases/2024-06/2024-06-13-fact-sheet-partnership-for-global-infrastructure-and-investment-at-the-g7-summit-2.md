@@ -1,6 +1,6 @@
 ---
 date: '2024-06-13'
-modified_time: 2024-06-13 12:08:45-04:00
+modified_time: 2024-06-20 13:39:31-04:00
 published_time: 2024-06-13 12:08:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/
 tags: statements-releases
@@ -82,11 +82,7 @@ coming years. This includes:**
     consortium, committing at least $320 million of grant, equity and
     debt capital to finance a new 800-kilometer greenfield rail section
     of the envisioned first open-access trans-continental rail network,
-    that will help spur economic development. The United Kingdom also
-    announced new commitments of more than $50 million to contribute to
-    African clean energy infrastructure and transmission projects, as
-    well as geological surveying along the length of the Lobito
-    Corridor.
+    that will help spur economic development.
 
 <!-- -->
 
