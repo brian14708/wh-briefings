@@ -1,6 +1,6 @@
 ---
 date: '2024-07-03'
-modified_time: 2024-07-03 07:19:57-04:00
+modified_time: 2024-07-03 11:57:54-04:00
 published_time: 2024-07-03 09:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/03/president-biden-names-fifty-second-round-of-judicial-nominees/
 tags: presidential-actions
@@ -19,8 +19,7 @@ backgrounds.
 
 This will be President Biden’s fifty-second round of nominees for
 federal judicial positions, bringing the number of announced federal
-judicial nominees to 251.  
-  
+judicial nominees to 251.
 
 **<u>United States Circuit Court Announcement</u>**
 
@@ -39,8 +38,7 @@ to 2012, and for Judge Jed S. Rakoff on the U.S. District Court for the
 Southern District of New York from 2010 to 2011. Mr. Park received his
 J.D., *summa cum laude*, from Harvard Law School in 2010 and his B.A.,
 with distinction, from Amherst College in 2005. Before attending law
-school, he taught English in South Korea on a Fulbright Scholarship.  
-  
+school, he taught English in South Korea on a Fulbright Scholarship.
 
 **<u>United States District Court Announcements</u>**
 
@@ -56,7 +54,7 @@ School in 2002 and his B.A. from Santa Clara University in 1998. Mr.
 Conway was recommended by the bipartisan Wisconsin Federal Nominating
 Commission established by Senators Ron Johnson and Tammy Baldwin.
 
--   **<u>Judge Jonathan E. Hawley: Nominee for the United States
+1.  **<u>Judge Jonathan E. Hawley: Nominee for the United States
     District Court for the Central District of Illinois</u>**
 
 Judge Jonathan E. Hawley has been a United States Magistrate Judge for
@@ -69,10 +67,10 @@ Heiple on the Illinois Supreme Court from 1998 to 1999, for Judge
 Michael P. McCuskey on the U.S. District Court for the Central District
 of Illinois in 1998, and for Judge McCuskey on the Illinois Third
 District Appellate Court from 1997 to 1998. He received his J.D., *cum
-laude*, from DePaul University College of Law in 1992 and his B.A, *cum
+laude*, from DePaul University College of Law in 1997 and his B.A, *cum
 laude*, from the University of Illinois at Chicago in 1992.
 
--   **<u>Judge Gail A. Weilheimer: Nominee for the United State District
+1.  **<u>Judge Gail A. Weilheimer: Nominee for the United State District
     Court for the Eastern District of Pennsylvania</u>**
 
 Judge Gail A. Weilheimer has been a judge on the Montgomery County Court
