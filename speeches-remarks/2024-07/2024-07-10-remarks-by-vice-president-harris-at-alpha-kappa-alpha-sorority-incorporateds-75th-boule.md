@@ -1,11 +1,11 @@
 ---
 date: '2024-07-10'
-modified_time: 2024-07-10 15:21:21-04:00
+modified_time: 2024-07-10 19:32:50-04:00
 published_time: 2024-07-10 15:21:20-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/10/remarks-by-vice-president-harris-at-alpha-kappa-alpha-sorority-incorporateds-75th-boule/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Alpha Kappa Alpha Sorority, Incorporated\u2019\
-  s 75th\_Boul\xE9"
+  s 71st\_Boul\xE9"
 ---
  
 Kay Bailey Hutchison Convention Center
