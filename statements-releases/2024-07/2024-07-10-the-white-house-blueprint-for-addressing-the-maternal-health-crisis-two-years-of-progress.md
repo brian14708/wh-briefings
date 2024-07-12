@@ -1,5 +1,6 @@
 ---
 date: '2024-07-10'
+modified_time: 2024-07-12 13:18:34-04:00
 published_time: 2024-07-10 12:54:04-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/the-white-house-blueprint-for-addressing-the-maternal-health-crisis-two-years-of-progress/
 tags: statements-releases
@@ -217,9 +218,10 @@ Administration has:
     Institutions](https://mchb.hrsa.gov/data-research/research-investments/maternal-health-research-colloborative-minority-serving-institutions) that
     provides funding for research to 16 institutions of higher education
     that serve a large percentage of underrepresented or disadvantaged
-    students across the country. Lastly, three community implementation
-    projects were also funded with $3.6 million to pilot approaches to
-    reducing maternal health disparities.  
+    students across the country. Lastly, [three community implementation
+    projects](https://nihceal.org/program-teams/meet-improve-cip-teams) were
+    also funded with $3.6 million to pilot approaches to reducing
+    maternal health disparities.  
      
 -   **Worked to protect pregnant workers and nursing women while on the
     job. **In 2022, President Biden signed into law the Pregnant Workers
