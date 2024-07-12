@@ -1,6 +1,6 @@
 ---
 date: '2024-07-11'
-modified_time: 2024-07-11 18:10:38-04:00
+modified_time: 2024-07-12 11:46:17-04:00
 published_time: 2024-07-11 18:10:37-04:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/11/president-joe-biden-launches-the-ukraine-compact/
 tags: presidential-actions
@@ -28,7 +28,7 @@ the President of the European Council, the President of the European
 Commission, and the President of Ukraine:  
    
 Commend the security agreements and arrangements finalized with Ukraine
-by 20 countries and the European Union (EU) under the framework of the
+by 22 countries and the European Union (EU) under the framework of the
 Joint Declaration of Support for Ukraine (Joint Declaration) released on
 the margins of the 2023 Vilnius North Atlantic Treaty Organization
 (NATO) Summit, and welcome all the remaining Joint Declaration
@@ -83,7 +83,7 @@ a credible defense and deterrence capability, including by convening
 within 6 months at the level of Defense Ministers through the UDCG to
 review and approve roadmaps prepared by the leaders of the Capability
 Coalitions — each a Compact Signatory — on future force development
-through 2027, in coordination with and EUMAM Ukraine, with a view to
+through 2027, in coordination with EUMAM Ukraine, with a view to
 continue strengthening the force into the 2030s; and  
    
 (3)  In the event of future Russian armed attack against Ukraine
