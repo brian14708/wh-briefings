@@ -1,5 +1,6 @@
 ---
 date: '2024-07-11'
+modified_time: 2024-07-13 16:04:57-04:00
 published_time: 2024-07-11 09:25:44-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%e2%81%a0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/
 tags: statements-releases
@@ -103,9 +104,9 @@ The new policy will apply to:
 ***Expanding Pre-Apprenticeship and Apprenticeship Programs***  
   
 New investments in high-quality pre-apprenticeship programs will double
-the current number of people moving into Registered Apprenticeships, and
-additional investments will increase the supports and retention rates
-for apprentices:  
+the current number of people moving into Registered Apprenticeships in
+Philadelphia, and additional investments will increase the supports and
+retention rates for apprentices:  
 
 -   Today, the Department of Labor announced the largest single federal
     investment in Registered Apprenticeships in US history. These
