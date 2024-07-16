@@ -1,6 +1,6 @@
 ---
 date: '2024-07-16'
-modified_time: 2024-07-15 21:41:51-04:00
+modified_time: 2024-07-16 09:53:11-04:00
 published_time: 2024-07-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/16/fact-sheet-president-biden-announces-major-new-actions-to-lower-housing-costs-by-limiting-rent-increases-and-building-more-homes/
 tags: statements-releases
@@ -121,10 +121,11 @@ local lands and waters.
   
 ***The Bureau of Land Management (BLM) is announcing new actions to
 create thousands of affordable housing units on BLM land in
-Nevada.* **BLM is opening a public comment period on a sale of 20 acres
-of public land to Clark County, Nevada for below market value at just
-$100 per acre—the largest-ever sale for affordable housing under the
-Southern Nevada Public Lands Management
+Nevada.* **BLM is opening a public comment period on a sale of [20 acres
+of public land to Clark County,
+Nevada](https://www.blm.gov/press-release/blm-seeks-input-proposed-sale-public-lands-affordable-housing)
+for below market value at just $100 per acre—the largest-ever sale for
+affordable housing under the Southern Nevada Public Lands Management
 Act [program](https://www.blm.gov/sites/default/files/documents/files/SNPLMA_3%20PROGRAM%20STATISTICS.pdf),
 which the county estimates will enable the development of nearly 150
 affordable homes for households making less than 80% of area median
@@ -201,8 +202,9 @@ their land for housing.
 <span style="text-decoration: underline">  
 **Investing $325 Million in Housing and Community Development**</span>  
   
-***HUD is announcing $325 million in Choice Neighborhoods grants to
-build new deeply-affordable homes, spur economic development, and
+***HUD is announcing [$325 million in Choice Neighborhoods
+grants](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_24_182)
+to build new deeply-affordable homes, spur economic development, and
 revitalize neighborhoods in communities across the country.*** The
 awards will build over 6,500 units of new housing, support small
 businesses, build childcare centers and new parks, and will be used to
