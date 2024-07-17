@@ -1,6 +1,6 @@
 ---
 date: '2024-07-11'
-modified_time: 2024-07-10 16:24:26-04:00
+modified_time: 2024-07-17 12:43:57-04:00
 published_time: 2024-07-11 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-united-states-welcomes-growing-contributions-to-global-security-from-natos-indo-pacific-partners/
 tags: statements-releases
@@ -70,19 +70,29 @@ Indo-Pacific Partners are strongly investing in global security.
 
 The Australian Government has been a vital contributor to Euro-Atlantic
 security through provision of military and humanitarian assistance to
-Ukraine. The Australian Government has committed over AUD 1.1 billion to
-Ukraine since March 2022, including AUD 880 million in military and AUD
-85 million in humanitarian assistance. This includes ongoing
-contributions by the Australian Defence Force to multinational efforts
-to train Ukrainian personnel in the United Kingdom and support of
-partners’ efforts in Europe via embedded personnel. Australia has also
+Ukraine. In July 2024, Australia continued its steadfast support to
+Ukraine with the announcement of Australia’s largest single military
+support package of $250 million. This latest package takes Australia’s
+military assistance to Ukraine to more than $1.1 billion since the start
+of Russia’s full‑scale invasion in February 2022, and overall
+assistance, including humanitarian support, to more than $1.3 billion.
+ This includes ongoing contributions by the Australian Defence Force to
+multinational efforts to train Ukrainian personnel in the United Kingdom
+and support of partners’ efforts in Europe via embedded personnel.
+Building on Australia’s reputation as a highly regarded partner, in July
+2024 Australia also agreed to join NATO’s new security and training
+initiative for Ukraine as an operational partner. Australia has also
 helped protect a vital gateway for international assistance to Ukraine
 through its six-month deployment of an E-7A Wedgetail airborne early
 warning aircraft that concluded in April 2024. Additionally, the
 Government has imposed a suite of measures against Russia, including
 over 1,200 targeted sanctions. Australia has been steadfast in
 supporting Ukraine’s sovereignty and territorial integrity, upholding
-the UN Charter, international law, and the rules-based order.
+the UN Charter, international law, and the rules-based order. In July
+2024, Australia also joined other partners in signing the Memorandum of
+Understanding on the Drone Capability Coalition. This follows
+Australia’s $30 million commitment to provide drones to Ukraine, as part
+of this important Coalition. 
 
 *Japan*
 
@@ -203,14 +213,15 @@ non-commissioned officers.
 
 NATO and Australia have been engaged in dialogue and cooperation since
 2005, and Australia has been a leading contributor to NATO missions
-around the world for two decades.
+around the world for two decades, including the International Security
+Assistance Force and the Resolute Support Mission in Afghanistan.
 
 In a joint political declaration in June 2012, NATO and Australia
 signaled their commitment to strengthening cooperation.  Since
 formalizing cooperation through a NATO-Australia Individual Partnership
 and Cooperation Program in 2013, this cooperation has undertaken
 different iterations. Approved in July 2023, the NATO-Australia
-relationship is now guided by the *NATO-Australia Individually Tailored
+relationship is now guided by the *NATO-Australia Individually Tailored
 Partnership Programme for 2023-26*.
 
 Priorities in NATO-Australia relations include upholding agreed norms,
