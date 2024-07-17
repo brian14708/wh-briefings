@@ -1,14 +1,15 @@
 ---
 date: '2024-07-17'
+modified_time: 2024-07-17 18:23:05-04:00
 published_time: 2024-07-17 13:14:56-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/readout-of-interagency-delegation-travel-to-papua-new-guinea/
 tags: statements-releases
 title: "Readout of Interagency Delegation Travel to Papua New\_Guinea"
 ---
  
-A U.S. interagency delegation comprising of senior members of the
-National Security Council staff, the Departments of State and Defense,
-U.S. Agency for International Development (USAID), and U.S. Indo-Pacific
+A U.S. interagency delegation comprising senior members of the National
+Security Council staff, the Departments of State and Defense, U.S.
+Agency for International Development (USAID), and U.S. Indo-Pacific
 Command (INDOPACOM) traveled to Papua New Guinea, July 14-16, 2024, for
 meetings with senior Papua New Guinea officials focused on deepening our
 bilateral relationship, including through the US-PNG Defense Cooperation
