@@ -1,6 +1,6 @@
 ---
 date: '2024-07-17'
-modified_time: 2024-07-16 23:19:15-04:00
+modified_time: 2024-07-17 16:00:18-04:00
 published_time: 2024-07-17 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-opportunities-for-latino-communities-and-ensure-every-family-has-a-fair-shot-at-the-american-dream/
 tags: statements-releases
@@ -30,7 +30,7 @@ Hispanic-Serving Institutions (HSIs) play a critical role in shaping the
 future of our Nation. With more than 500 HSIs across 27 states, the
 District of Columbia, and Puerto Rico, HSIs make an extraordinary
 contribution to our Nation’s higher education system, including
-educating more than 4.7 million students. More than 65 percent of
+educating more than 4.7 million students. More than 55 percent of
 Hispanic and Latino college students in the U.S. attend an HSI, and
 nearly 40 percent of those students attend a two-year HSI.
 
