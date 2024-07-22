@@ -1,6 +1,6 @@
 ---
 date: '2024-07-17'
-modified_time: 2024-07-17 16:00:18-04:00
+modified_time: 2024-07-22 17:14:11-04:00
 published_time: 2024-07-17 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-opportunities-for-latino-communities-and-ensure-every-family-has-a-fair-shot-at-the-american-dream/
 tags: statements-releases
@@ -220,8 +220,8 @@ including:</u>**
 
 -   Canceling $167 billion in student loan debt for 4.75 million
     borrowers. Student loan debt disproportionately burdens Latino
-    borrowers who are more likely to take on student loans than their
-    white peers and who also end up holding nearly twice as much debt as
-    their white peers four years after graduation.
+    borrowers who are more likely to default on their student loans
+    compared to white borrowers, with 15% of those in repayment in
+    default and 29% in serious delinquency.
 
 \###
