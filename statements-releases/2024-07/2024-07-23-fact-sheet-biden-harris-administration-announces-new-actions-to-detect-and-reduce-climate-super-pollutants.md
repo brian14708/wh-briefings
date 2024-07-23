@@ -1,6 +1,6 @@
 ---
 date: '2024-07-23'
-modified_time: 2024-07-22 16:11:55-04:00
+modified_time: 2024-07-23 15:26:52-04:00
 published_time: 2024-07-23 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/23/fact-sheet-biden-harris-administration-announces-new-actions-to-detect-and-reduce-climate-super-pollutants/
 tags: statements-releases
@@ -54,7 +54,8 @@ including:**
 Pollutants</u>**
 
 -   **The National Oceanic and Atmospheric Administration (NOAA)’s
-    Global Monitoring Lab and United Airlines **announced an agreement
+    Global Monitoring Lab and United Airlines **[announced an
+    agreement](https://www.noaa.gov/news-release/noaa-and-united-airlines-partner-to-measure-greenhouse-gases-pollutants)
     on a pioneering collaboration that will use commercial aircraft to
     significantly enhance monitoring of climate pollutants, including
     carbon dioxide and methane, and carbon monoxide and water vapor,
