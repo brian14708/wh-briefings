@@ -1,6 +1,6 @@
 ---
 date: '2024-07-24'
-modified_time: 2024-07-23 18:07:29-04:00
+modified_time: 2024-07-24 17:22:23-04:00
 published_time: 2024-07-24 16:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/president-biden-announces-a-presidential-emergency-board-names-members/
 tags: statements-releases
@@ -15,14 +15,10 @@ is required under the Railway Labor Act because a party to the dispute
 has requested a Board.
 
 The Presidential Emergency Board will provide a structure that allows
-the two sides to attempt to resolve their disagreements. In the 60 days
+the two sides to attempt to resolve their disagreements. Within 30 days
 following its establishment, the Presidential Emergency Board will
-obtain final offers for settlement of the dispute from each side, and
-then produce a report to the President that selects the offer that the
-Board finds to be the most reasonable. The Board’s report is not
-binding, but the party whose offer is not selected would be prohibited
-by law from receiving certain benefits if a work stoppage subsequently
-occurs.
+produce a report to the President with its recommendations for settling
+the dispute.
 
 President Biden also announced that he intends to appoint the following
 members to Presidential Emergency Board No. 251:
