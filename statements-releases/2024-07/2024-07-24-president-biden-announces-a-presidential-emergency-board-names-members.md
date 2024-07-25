@@ -1,6 +1,6 @@
 ---
 date: '2024-07-24'
-modified_time: 2024-07-24 17:22:23-04:00
+modified_time: 2024-07-24 18:35:00-04:00
 published_time: 2024-07-24 16:30:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/president-biden-announces-a-presidential-emergency-board-names-members/
 tags: statements-releases
@@ -25,7 +25,7 @@ members to Presidential Emergency Board No. 251:
 
 -   Elizabeth C. Wesman, Chair, Presidential Emergency Board No. 251
 -   Barbara C. Deinhardt, Member, Presidential Emergency Board No. 251
--   Lisa SalkovitzKohn, Member, Presidential Emergency Board No. 251
+-   Lisa Salkovitz Kohn, Member, Presidential Emergency Board No. 251
 
 **Elizabeth C. Wesman, Chair, Presidential Emergency Board No. 251**
 
