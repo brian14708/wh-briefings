@@ -1,5 +1,6 @@
 ---
 date: '2024-07-29'
+modified_time: 2024-07-29 11:41:34-04:00
 published_time: 2024-07-29 05:39:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-president-biden-announces-bold-plan-to-reform-the-supreme-court-and-ensure-no-president-is-above-the-law/
 tags: statements-releases
@@ -57,7 +58,7 @@ restore trust and accountability:
 <!-- -->
 
 1.  **Binding Code of Conduct for the Supreme Court:** President Biden
-    believesthat Congress should pass binding, enforceable conduct and
+    believes that Congress should pass binding, enforceable conduct and
     ethics rules that require Justices to disclose gifts, refrain from
     public political activity, and recuse themselves from cases in which
     they or their spouses have financial or other conflicts of interest.

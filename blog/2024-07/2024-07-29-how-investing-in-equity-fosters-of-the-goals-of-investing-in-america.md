@@ -1,10 +1,10 @@
 ---
 date: '2024-07-29'
-modified_time: 2024-07-27 09:50:13-04:00
+modified_time: 2024-07-29 10:36:03-04:00
 published_time: 2024-07-29 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/blog/2024/07/29/how-investing-in-equity-fosters-of-the-goals-of-investing-in-america/
 tags: blog
-title: "How Investing in Equity Fosters of the Goals of Investing in\_America"
+title: "How Investing in Equity Fosters the Goals of Investing in\_America"
 ---
  
 *Heather Boushey, Chief Economist, Investing in America Cabinet*
