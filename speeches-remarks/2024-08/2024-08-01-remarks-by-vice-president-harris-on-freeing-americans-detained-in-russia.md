@@ -1,6 +1,6 @@
 ---
 date: '2024-08-01'
-modified_time: 2024-08-01 17:18:42-04:00
+modified_time: 2024-08-01 20:13:46-04:00
 published_time: 2024-08-01 17:18:41-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-vice-president-harris-on-freeing-americans-detained-in-russia/
 tags: speeches-remarks
@@ -17,7 +17,7 @@ Houston, Texas*
      Okay.  You ready?  
   
 As President Biden announced earlier today, American citizens Paul,
-Evan, Aslu, and green-card holder Vladimir, who were unjustly held in
+Evan, Alsu, and green-card holder Vladimir, who were unjustly held in
 Russia, will soon be re- — reunited with their loved ones.
 
      They and their families have shown incredible courage in the face
