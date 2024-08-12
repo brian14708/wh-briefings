@@ -1,6 +1,6 @@
 ---
 date: '2024-08-12'
-modified_time: 2024-08-11 18:55:05-04:00
+modified_time: 2024-08-12 10:22:18-04:00
 published_time: 2024-08-12 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/
 tags: statements-releases
@@ -93,17 +93,18 @@ save Americans time and money. Key actions include:
     call center hours that force them to step away from work to talk to
     an agent. Today, Department of Health and Human Services (HHS)
     Secretary Becerra and Department of Labor (DOL) Acting Secretary Su
-    are calling on \[insert link to letter\] health insurance companies
-    and group health plans to take concrete actions to save people time
-    and money when interacting with their health coverage, and in the
-    coming months will identify additional opportunities to improve
-    consumers’ interactions with the health care system. In addition,
-    the Office of Personnel Management plans to require Federal
-    Employees Health Benefits and Postal Service Health Benefits plans,
-    covering eight million Americans, to make it easier to submit out of
-    network claims online, provide clear information about what health
-    plan providers are in-network, and make it easier to find
-    information on how to appeal claim denials.
+    are calling on \[[insert link to
+    letter](https://www.hhs.gov/about/news/2024/08/12/letter-to-health-insurance-ceos.html)\]
+    health insurance companies and group health plans to take concrete
+    actions to save people time and money when interacting with their
+    health coverage, and in the coming months will identify additional
+    opportunities to improve consumers’ interactions with the health
+    care system. In addition, the Office of Personnel Management plans
+    to require Federal Employees Health Benefits and Postal Service
+    Health Benefits plans, covering eight million Americans, to make it
+    easier to submit out of network claims online, provide clear
+    information about what health plan providers are in-network, and
+    make it easier to find information on how to appeal claim denials.
 
 <!-- -->
 
@@ -119,8 +120,9 @@ save Americans time and money. Key actions include:
     jurisdiction to let customers talk to a human by pressing a single
     button. The FCC will launch an inquiry into considering similar
     requirements for phone, broadband, and cable companies.  HHS and DOL
-    will similarly call on health plan providers to make it easier to
-    talk to a customer service agent.
+    will similarly [call on health plan
+    providers](https://www.hhs.gov/about/news/2024/08/12/letter-to-health-insurance-ceos.html)
+    to make it easier to talk to a customer service agent.
 
 <!-- -->
 
