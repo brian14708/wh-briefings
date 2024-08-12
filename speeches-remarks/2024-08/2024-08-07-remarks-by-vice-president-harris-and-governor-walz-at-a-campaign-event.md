@@ -1,10 +1,11 @@
 ---
 date: '2024-08-07'
-modified_time: 2024-08-08 13:49:13-04:00
+modified_time: 2024-08-12 14:12:55-04:00
 published_time: 2024-08-07 23:55:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/07/remarks-by-vice-president-harris-and-governor-walz-at-a-campaign-event/
 tags: speeches-remarks
-title: "Remarks by Vice President Harris and Governor Walz at a Campaign\_Event"
+title: "Remarks by Vice President Harris and Governor Walz at a Campaign Event in\
+  \ Detroit,\_MI"
 ---
  
 *Detroit Metropolitan Wayne County Airport  

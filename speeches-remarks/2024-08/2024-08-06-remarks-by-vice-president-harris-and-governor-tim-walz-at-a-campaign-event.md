@@ -1,6 +1,6 @@
 ---
 date: '2024-08-06'
-modified_time: 2024-08-07 12:05:47-04:00
+modified_time: 2024-08-12 14:14:53-04:00
 published_time: 2024-08-06 19:02:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/06/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event/
 tags: speeches-remarks
