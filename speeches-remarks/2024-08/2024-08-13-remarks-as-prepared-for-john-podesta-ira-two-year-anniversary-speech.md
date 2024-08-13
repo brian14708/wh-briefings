@@ -1,17 +1,16 @@
 ---
 date: '2024-08-13'
-modified_time: 2024-08-13 10:04:02-04:00
+modified_time: 2024-08-13 13:59:20-04:00
 published_time: 2024-08-13 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/13/remarks-as-prepared-for-john-podesta-ira-two-year-anniversary-speech/
 tags: speeches-remarks
-title: "Remarks as Prepared for John Podesta IRA Two-Year Anniversary\_Speech"
+title: "Remarks as Prepared for John Podesta at Third Way on Inflation Reduction Act\u2019\
+  s Two-Year\_Anniversary"
 ---
  
 Thanks so much, Josh, and thanks to Third Way for hosting today’s event
 and for your years of advocacy for a clean energy future. It’s great to
 be here with all of you.
-
-1.  ***Climate Crisis***
 
 We’re gathering during a summer that’s been defined by the climate
 crisis.
@@ -30,8 +29,6 @@ Tropical Storm Debby that have already pummeled the Gulf and East Coasts
 this summer…to the extreme heat affecting workers in the Southwest…to
 the wildfires that are raging in California.
 
-1.  ***Largest Climate Investment***
-
 To combat this existential threat, President Biden and Vice President
 Harris set a bold vision to build a clean energy economy by creating
 good-paying, union jobs and spreading opportunity to every corner of
@@ -47,8 +44,6 @@ It tackles climate pollution in every economic sector—power,
 transportation, buildings, industry, agriculture and forestry.
 
 And it does all this by investing in workers, communities, and families.
-
-1.  ***Investing in Workers***
 
 The IRA invests in workers by catalyzing a clean energy boom that’s
 creating good-paying, union jobs all across America.
@@ -77,8 +72,6 @@ organize and bargain collectively.  
 The IRA effectively makes strong labor standards an offer the private
 sector can’t refuse by providing five times the value of tax credits
 when developers pay prevailing wages and hire registered apprentices.  
-
-1.  ***Investing in Communities***
 
 In addition to investing in workers, the IRA is aiming to build more
 clean energy—in the right places*—*by investing in underserved
@@ -121,8 +114,6 @@ And HUD has now awarded 70% of its IRA funds through the Green and
 Resilient Retrofit Program…which translates to more than 20,000
 cost-saving home energy upgrades for seniors and low-income families.
 
-**V.** ***Investing in Families***
-
 That brings me to the third category of people benefitting from the IRA:
 American families.
 
@@ -154,8 +145,6 @@ That’s millions of Americans that are now saving money every month on
 their energy bills…on top of the millions of Americans whose communities
 are benefitting from IRA grant dollars or seeing new clean energy
 projects bringing good-paying jobs and opportunity to their hometowns.
-
-**VI.** ***Durability of the IRA***
 
 Have we solved every challenge facing the clean energy economy? *Of
 course not*.
@@ -207,8 +196,6 @@ have spent billions of taxpayer dollars and received next to nothing in
 return.”
 
 These guys get it.
-
-***VII.*** ***Calling Out House Republicans***
 
 But there are others who are trying to claw back jobs, raise costs, and
 take away opportunity—and hoping the American people won’t notice.
@@ -283,8 +270,6 @@ back overseas.
 
 It’s why the White House issued veto threats last month for four House
 appropriations bills.
-
-***VIII.*** ***Call to Action***
 
 President Biden and Vice President Harris will continue to fight these
 bad-faith attempts to roll back the clock on our growing clean energy
