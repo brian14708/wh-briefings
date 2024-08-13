@@ -1,6 +1,6 @@
 ---
 date: '2024-08-13'
-modified_time: 2024-08-12 20:35:53-04:00
+modified_time: 2024-08-13 09:39:39-04:00
 published_time: 2024-08-13 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/
 tags: statements-releases
@@ -39,8 +39,9 @@ Action Plan:
 
 **Making funding available to help communities break down barriers to
 housing.** The Department of Housing and Urban Development (HUD) is
-announcing the availability of $100 million through its landmark
-[Pathways to Removing Obstacles to Housing (PRO
+[announcing the availability of $100
+million](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_24_205)
+through its landmark [Pathways to Removing Obstacles to Housing (PRO
 Housing)](https://www.hud.gov/program_offices/comm_planning/pro_housing)
 program, which provides grants to communities to identify and remove
 barriers to affordable housing production and preservation. Grantees may
@@ -54,22 +55,23 @@ states with funding to identify and overcome barriers to building more
 affordable housing.
 
 **Providing interest rate predictability to spur housing development.**
-The Department of the Treasury and HUD are announcing a major
+The Department of the Treasury and HUD are [announcing a major
 improvement to the Federal Financing Bank (FFB) Multifamily Risk Sharing
-Program that would provide greater interest rate predictability for
-state and local housing finance agencies that finance housing projects
-through the FFB. This program already dramatically reduces costs for
-state and local housing finance agencies by allowing them to borrow
-funds at just above the rate at which the US government borrows. This
-new action will expand the reach of the Risk Sharing program, especially
-for new construction projects, by providing housing finance agencies
-with greater certainty about the interest rate that they will face after
-the construction period ends, making more housing developments
-financially viable. Treasury and HUD indefinitely extended the Risk
-Sharing Program earlier this year, after the previous Administration
-allowed it to lapse. The program has already supported more than 16,000
-units since restarting in 2021 and is expected to help create or
-preserve tens-of-thousands of units over the next decade.
+Program](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_24_204)
+that would provide greater interest rate predictability for state and
+local housing finance agencies that finance housing projects through the
+FFB. This program already dramatically reduces costs for state and local
+housing finance agencies by allowing them to borrow funds at just above
+the rate at which the US government borrows. This new action will expand
+the reach of the Risk Sharing program, especially for new construction
+projects, by providing housing finance agencies with greater certainty
+about the interest rate that they will face after the construction
+period ends, making more housing developments financially viable.
+Treasury and HUD indefinitely extended the Risk Sharing Program earlier
+this year, after the previous Administration allowed it to lapse. The
+program has already supported more than 16,000 units since restarting in
+2021 and is expected to help create or preserve tens-of-thousands of
+units over the next decade.
 
 **Streamlining requirements for transit-oriented development projects.**
 The U.S. Department of Transportation (DOT) is announcing new guidance
