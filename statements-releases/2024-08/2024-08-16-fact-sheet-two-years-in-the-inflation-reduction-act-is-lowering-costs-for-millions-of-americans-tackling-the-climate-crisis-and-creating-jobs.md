@@ -1,6 +1,6 @@
 ---
 date: '2024-08-16'
-modified_time: 2024-08-16 09:46:17-04:00
+modified_time: 2024-08-16 12:26:26-04:00
 published_time: 2024-08-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-two-years-in-the-inflation-reduction-act-is-lowering-costs-for-millions-of-americans-tackling-the-climate-crisis-and-creating-jobs/
 tags: statements-releases
@@ -187,13 +187,12 @@ Act into law:
     technologies.
 -   New York and Wisconsin have now launched home energy rebate
     programs, with more states expected to launch later this summer and
-    fall. Already, [22
-    states](/Users/ECHutchinson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/DWHF39NC/energy.gov/save/rebates)
-    have submitted their applications to DOE to receive their full
-    rebate funding. These rebate programs help low- and middle-income
-    families afford cost-saving electric appliances and energy
-    efficiency improvements by providing rebates up to $14,000 per
-    household. In total, the [IRA rebates
+    fall. Already, [22 states](https://www.energy.gov/save/rebates) have
+    submitted their applications to DOE to receive their full rebate
+    funding. These rebate programs help low- and middle-income families
+    afford cost-saving electric appliances and energy efficiency
+    improvements by providing rebates up to $14,000 per household. In
+    total, the [IRA rebates
     programs](https://www.energy.gov/articles/biden-harris-administration-announces-first-state-nation-launch-historic-home-energy#:~:text=New%20York%20State%27s%20Home%20Energy%20Rebate%20Program&text=The%20first%20phase%20of%20New,is%20%2414%2C000%20per%20housing%20unit.)
     are expected to save consumers up to $1 billion annually in energy
     costs and support an estimated 50,000 U.S. jobs in residential
