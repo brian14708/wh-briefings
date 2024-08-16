@@ -1,6 +1,6 @@
 ---
 date: '2024-08-16'
-modified_time: 2024-08-15 19:13:28-04:00
+modified_time: 2024-08-16 09:46:17-04:00
 published_time: 2024-08-16 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-two-years-in-the-inflation-reduction-act-is-lowering-costs-for-millions-of-americans-tackling-the-climate-crisis-and-creating-jobs/
 tags: statements-releases
@@ -172,9 +172,8 @@ Act into law:
     analysis](https://home.treasury.gov/news/press-releases/jy2176),
     many of these investments are happening in underserved
     communities—since the IRA passed, 75% of private sector clean energy
-    investments made since the Inflation Reduction Act passed have
-    occurred in counties with lower than median household incomes,  and
-    clean energy investment in [energy
+    investments have occurred in counties with lower than median
+    household incomes,  and clean energy investment in [energy
     communities](https://energycommunities.gov/) has doubled.
 
 <!-- -->
