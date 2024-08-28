@@ -1,6 +1,6 @@
 ---
 date: '2024-08-27'
-modified_time: 2024-08-27 20:13:46-04:00
+modified_time: 2024-08-27 22:21:45-04:00
 published_time: 2024-08-27 20:13:45-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/27/fact-sheet-following-through-on-the-u-s-pacific-islands-partnership-53rd-pacific-islands-forum-pif-leaders-meeting-in-nukualofa-tonga-august-26-30-2024/
 tags: statements-releases
