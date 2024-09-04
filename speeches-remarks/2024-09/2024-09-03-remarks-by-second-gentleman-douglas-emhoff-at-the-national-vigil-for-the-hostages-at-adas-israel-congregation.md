@@ -1,6 +1,6 @@
 ---
 date: '2024-09-03'
-modified_time: 2024-09-04 10:04:04-04:00
+modified_time: 2024-09-04 10:39:56-04:00
 published_time: 2024-09-03 23:59:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/03/remarks-by-second-gentleman-douglas-emhoff-at-the-national-vigil-for-the-hostages-at-adas-israel-congregation/
 tags: speeches-remarks
@@ -16,9 +16,10 @@ SECOND GENTLEMAN DOUGLAS EMHOFF: Thank you, Ted, and thank you to the
 many leaders here tonight from the AJC, ADL, JCRC, Federation,
 Washington Hebrew, and all the others who are here.   
   
-It is thanks in part to the help of organizations and others we have a
-National Strategy to Combat Antisemitism, an effort that is even more
-urgent today than when we announced it in May of 2023.  
+It is thanks in part to the help of some of these organizations and
+others we have a National Strategy to Combat Antisemitism, an effort
+that is even more urgent today than when we announced it in May of
+2023.  
   
 It is good to be together this evening. There is comfort in community.  
   
