@@ -1,5 +1,6 @@
 ---
 date: '2024-09-12'
+modified_time: 2024-09-13 13:58:25-04:00
 published_time: 2024-09-12 17:38:24-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-roundtable-on-u-s-leadership-in-ai-infrastructure/
 tags: statements-releases
@@ -113,7 +114,7 @@ Arshad Mansoor, President and CEO, Electric Power Research Institute
 Calvin Butler, President and CEO, Exelon  
 Javier Olivan, Chief Operating Officer, Meta  
 Brad Smith, President and Vice Chairman, Microsoft  
-Jensen Huang, President and CEO, Nvidia  
+Jensen Huang, Founder and CEO, Nvidia  
 Sam Altman, CEO, OpenAI  
 Chad Williams, Chairman and CEO, Quality Technology Services (QTS)  
    
