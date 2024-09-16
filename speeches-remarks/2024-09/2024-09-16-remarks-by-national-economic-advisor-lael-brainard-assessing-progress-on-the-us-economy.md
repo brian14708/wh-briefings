@@ -1,6 +1,6 @@
 ---
 date: '2024-09-16'
-modified_time: 2024-09-16 12:18:23-04:00
+modified_time: 2024-09-16 18:27:45-04:00
 published_time: 2024-09-16 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-national-economic-advisor-lael-brainard-assessing-progress-on-the-us-economy/
 tags: speeches-remarks
@@ -240,6 +240,15 @@ width="1210" height="1795" />
 <img
 src="https://mcusercontent.com/c97630621baff8c44fe607661/images/f9155e8c-9673-447e-d7ac-aafadc04f72d.png"
 decoding="async" />
+</figure>
+
+<figure>
+<img
+src="https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?w=640"
+class="wp-image-105567" decoding="async" loading="lazy"
+sizes="(max-width: 1980px) 100vw, 1980px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png 1980w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=615,461 615w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=768,576 768w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1270,953 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1536,1152 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=427,320 427w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=853,640 853w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1707,1280 1707w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1038,779 1038w"
+width="1980" height="1485" />
 </figure>
 
 \###
