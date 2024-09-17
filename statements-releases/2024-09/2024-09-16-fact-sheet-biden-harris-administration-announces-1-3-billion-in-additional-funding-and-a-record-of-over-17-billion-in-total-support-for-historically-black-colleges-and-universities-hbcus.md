@@ -1,6 +1,6 @@
 ---
 date: '2024-09-16'
-modified_time: 2024-09-16 12:20:13-04:00
+modified_time: 2024-09-17 09:33:45-04:00
 published_time: 2024-09-16 12:20:12-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/16/fact-sheet-biden-harris-administration-announces-1-3-billion-in-additional-funding-and-a-record-of-over-17-billion-in-total-support-for-historically-black-colleges-and-universities-hbcus/
 tags: statements-releases
@@ -62,11 +62,11 @@ significant role in the research and development (R&D) that drives vital
 progress in science, technology, engineering, and math (STEM). As such,
 the Biden-Harris Administration has made it a priority to expand the
 capacity of HBCUs to offer high quality STEM education programs and to
-compete for federal R&D dollars. In the first six months of the
-Administration, President Biden signed the CHIPS and Science Act – which
-requires federal research agencies to provide funding and other support
-for expanding the R&D capacity of HBCUs. The Biden-Harris Administration
-has worked diligently to implement this law.
+compete for federal R&D dollars. In August 2022, President Biden signed
+the CHIPS and Science Act – which requires federal research agencies to
+provide funding and other support for expanding the R&D capacity of
+HBCUs. The Biden-Harris Administration has worked diligently to
+implement this law.
 
 The Biden Harris Administration has [advanced racial
 equity](http://www.whitehouse.gov/equity), economic opportunity, and
