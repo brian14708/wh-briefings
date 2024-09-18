@@ -1,5 +1,6 @@
 ---
 date: '2024-09-17'
+modified_time: 2024-09-17 21:09:17-04:00
 published_time: 2024-09-17 20:41:50-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/17/statement-from-president-joe-biden-on-sudan/
 tags: statements-releases
@@ -50,10 +51,11 @@ have committed crimes against humanity and ethnic cleansing. The U.S.
 Treasury Department has sanctioned sixteen entities and individuals for
 contributing to the conflict, exacerbating instability, or serious human
 rights abuses. And we will continue to evaluate further atrocity
-allegations and potential additional sanctions. Let it be clear: the
-United States will not abandon our commitment to the people of Sudan who
-deserve freedom, peace, and justice. We call for all parties to this
-conflict to end this violence and refrain from fueling it, for the
-future of Sudan and for all of the Sudanese people.
+allegations and potential additional sanctions.
+
+Let it be clear: the United States will not abandon our commitment to
+the people of Sudan who deserve freedom, peace, and justice. We call for
+all parties to this conflict to end this violence and refrain from
+fueling it, for the future of Sudan and for all of the Sudanese people.
 
 \###
