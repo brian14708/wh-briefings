@@ -1,6 +1,6 @@
 ---
 date: '2024-09-16'
-modified_time: 2024-09-16 18:27:45-04:00
+modified_time: 2024-09-19 12:51:25-04:00
 published_time: 2024-09-16 13:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-national-economic-advisor-lael-brainard-assessing-progress-on-the-us-economy/
 tags: speeches-remarks
@@ -63,7 +63,9 @@ whether it was primarily attributable to overall excess demand or to
 shocks that would dissipate over time. This had important implications
 for the stance of government policy.
 
-In 2022, I highlighted three sets of shocks: shocks to supply chains and
+In
+[2022](https://www.federalreserve.gov/newsevents/speech/brainard20221128a.htm),
+I highlighted three sets of shocks: shocks to supply chains and
 commodities; shifts in the ability of workers to participate in the
 labor force; and changes in the composition of demand. It now seems
 clear that these shocks played an outsized role in the inflation surge.
@@ -76,14 +78,16 @@ appliances, and electronics. The resulting inflation was exacerbated
 when Russia’s invasion of Ukraine sent global food and energy prices
 soaring.
 
-At the sectoral level, it is now clear that price increases were
-concentrated in the sectors that had lower or even negative output
-growth between 2021 and 2023. This is what we’d expect to find if supply
-shocks, rather than overall excess demand, were the major driver of
-inflation. And this is corroborated at the aggregate level, where supply
-chain disruptions spiked and then moved back down to pre-pandemic
-levels, and inflation followed the same pattern with a lag, as we can
-see in Figure 3.
+At the sectoral level, it is now
+[clear](https://www.kansascityfed.org/Jackson%20Hole/documents/9775/Syverson_2023_JH_Symposium_Remarks.pdf)
+that price increases were concentrated in the sectors that had lower or
+even negative output growth between 2021 and 2023. This is what we’d
+expect to find if [supply
+shocks](https://www.brookings.edu/articles/wage-price-spirals/), rather
+than overall excess demand, were the major driver of inflation. And this
+is corroborated at the aggregate level, where supply chain disruptions
+spiked and then moved back down to pre-pandemic levels, and inflation
+followed the same pattern with a lag, as we can see in Figure 3.
 
 As inflation rose, many argued that the surge in inflation was caused by
 excessive growth, but we saw the opposite. Inflation skyrocketed in 2022
@@ -93,24 +97,29 @@ growth and productivity took off.
 
 *Shift from Services to Goods*
 
-Inflation was exacerbated by a shift in demand away from services
-sectors to the goods sectors that were experiencing severe supply
-constraints. Due to the pandemic, people went out to eat less and bought
-more kitchen appliances, they relied on transportation services less and
-bought cars, and they went out to gyms less and bought exercise
-equipment. In response, prices rose rapidly for those goods where supply
-struggled to catch up. And the price of services did not fall to
-compensate for the surge in goods prices, so the overall rate of
-inflation rose. Later, as the share of spending on services moved back
-up towards pre-pandemic levels, the prices of services rose as the
-supply of services took time to respond, especially since capacity had
-contracted in areas like flights, hotels, and restaurants.
+Inflation was exacerbated by a
+[shift](https://www.kansascityfed.org/documents/8322/JH_Guerrieri.pdf)
+in demand away from services sectors to the goods sectors that were
+experiencing severe supply constraints. Due to the pandemic, people went
+out to eat less and bought more kitchen appliances, they relied on
+transportation services less and bought cars, and they went out to gyms
+less and bought exercise equipment. In response, prices rose rapidly for
+those goods where supply struggled to catch up. And the price of
+services did not [fall
+to](https://academic.oup.com/qje/article-abstract/110/1/161/1893948)
+[compensate](https://www.sciencedirect.com/science/article/pii/S030439322400103X)
+for the surge in goods prices, so the overall rate of inflation
+rose.Later, as the share of spending on services moved back up towards
+pre-pandemic levels, the prices of services rose as the supply of
+services took time to respond, especially since capacity had contracted
+in areas like flights, hotels, and restaurants.
 
 Housing saw a large shift in demand that put strains on existing supply.
 The jump in people working from home shifted demand to larger homes and
 changed the geography of many cities. Some estimates suggest that
-pandemic shifts account for more than half of the housing inflation we
-observed.
+pandemic shifts account for [more than
+half](https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/09/remote-work-and-housing-demand/)
+of the housing inflation we observed.
 
 *Labor Supply Shifts*
 
@@ -148,10 +157,13 @@ It helped bolster household and small business balance sheets, instead
 of saddling them with unmanageable debts due to circumstances beyond
 their control, which would have held the economy back.
 
-Second, the President made a clear commitment to respect the
-independence of the Federal Reserve in fighting inflation. This was an
-important contrast to his predecessor, who repeatedly criticized Federal
-Reserve monetary policy during the previous administration.
+Second, the President made a clear
+[commitment](https://www.wsj.com/articles/my-plan-for-fighting-inflation-joe-biden-gas-prices-economy-unemployment-jobs-covid-11653940654)
+to respect the independence of the Federal Reserve in fighting
+inflation. This was an important contrast to his predecessor, who
+repeatedly
+[criticized](https://www.reuters.com/article/business/analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed-idUSKBN28Q1CY/)
+Federal Reserve monetary policy during the previous administration.
 
 Third, the Administration mounted a comprehensive effort to address
 price pressures by fixing supply chains, addressing commodities price
