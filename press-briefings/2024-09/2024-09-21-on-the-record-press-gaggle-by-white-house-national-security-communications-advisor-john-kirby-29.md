@@ -1,6 +1,6 @@
 ---
 date: '2024-09-21'
-modified_time: 2024-09-21 07:49:51-04:00
+modified_time: 2024-09-21 18:03:05-04:00
 published_time: 2024-09-21 07:49:50-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/21/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-29/
 tags: press-briefings
@@ -316,8 +316,8 @@ a hostages deal that went into effect for some time and produced
 tangible results, and the subsequent failure over many, many months of
 different iterations of proposals and negotiations. 
 
-So I wonder if you could, with the benefit of that hindsight, say for us
-what conditions were present, do you think, in November that made a
+So I wonder if you could, with the benefit of that hindsight, assay for
+us what conditions were present, do you think, in November that made a
 breakthrough possible at that time that apparently are no longer
 present.  Or how do you account for the fact that you were able to do it
 once and just have not been able to do it again?  What are the
@@ -355,7 +355,7 @@ rose-colored glasses — I mean, we know what’s before us; we know how
 hard this is going to be — it doesn’t diminish our hope that we can
 actually get there.  And so, that work continues.
 
-MODERATOR:  Next up, we’ll go to Lucas Thompson.
+MODERATOR:  Next up, we’ll go to Lucas Tomlinson.
 
 Q    John, Secretary Blinken, when he was in the region, did not visit
 Israel.  And now, Secretary of Defense Lloyd Austin is not visiting
