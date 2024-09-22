@@ -1,6 +1,6 @@
 ---
 date: '2024-09-21'
-modified_time: 2024-09-21 21:07:08-04:00
+modified_time: 2024-09-22 08:40:00-04:00
 published_time: 2024-09-21 21:07:07-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/
 tags: statements-releases
@@ -10,8 +10,8 @@ title: "Fact Sheet: 2024 Quad Leaders\u2019\_Summit"
 On September 21, 2024, President Joseph R. Biden, Jr. hosted Prime
 Minister Anthony Albanese of Australia, Prime Minister Kishida Fumio of
 Japan, and Prime Minister Narendra Modi of India in Wilmington,
-Delaware, for the fourth Quad Leaders’ Summit.  
-   
+Delaware, for the fourth Quad Leaders’ Summit.
+
 The Quad was established to be a global force for good. This year, the
 Quad is proudly executing tangible projects that benefit partner
 countries across the Indo-Pacific—including in the Pacific, Southeast
@@ -23,10 +23,10 @@ strengthen their maritime domain awareness and maritime security;
 mobilize and build high-standard physical and digital infrastructure;
 invest in and benefit from critical and emerging technologies; confront
 the threat of climate change; bolster cyber security; and cultivate the
-next generation of technology leaders.  
-   
-**ENDURING PARTNERS FOR THE INDO-PACIFIC**  
-   
+next generation of technology leaders.
+
+**ENDURING PARTNERS FOR THE INDO-PACIFIC**
+
 Over the past four years, Quad Leaders have met six times, including
 twice virtually. Quad Foreign Ministers have met eight times, most
 recently in Tokyo in July. Quad country representatives convene on a
@@ -36,8 +36,7 @@ Indo-Pacific region. All Quad governments have institutionalized the
 Quad at all levels and across a diverse array of departments and
 agencies. Today, Quad Leaders announced new initiatives to solidify
 these habits of cooperation and to set up the Quad to endure for the
-long-term.  
- 
+long-term.
 
 -   Each Quad government has committed to work through their respective
     budgetary processes to secure robust funding for Quad priorities in
@@ -74,16 +73,16 @@ long-term.
 -   The United States will host the 2025 Quad Foreign Ministers Meeting,
     and India will host the 2025 Quad Leaders Summit.
 
-**GLOBAL HEALTH & HEALTH SECURITY**  
-  
+**GLOBAL HEALTH & HEALTH SECURITY**
+
 In 2023, the Quad announced the Quad Health Security Partnership to
 strengthen coordination and collaboration in support of health security
 in the Indo-Pacific. The Quad Health Security Partnership is delivering
 on its commitments to strengthen the Indo-Pacific’s ability to detect
 and respond to outbreaks of diseases with epidemic or pandemic
-potential, including through a set of new initiatives announced today.  
-  
-**Quad Cancer Moonshot**  
+potential, including through a set of new initiatives announced today.
+
+**Quad Cancer Moonshot**
 
 -   The Quad is launching the historic Quad Cancer Moonshot, a
     collective effort to leverage public and private resources to reduce
@@ -91,9 +90,9 @@ potential, including through a set of new initiatives announced today.
     initial focus on cervical cancer. Altogether, the Quad Cancer
     Moonshot announced today is projected to save hundreds of thousands
     of lives over the coming decades. More information can be found
-    [here.](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific/)
+    [here.](http://fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific)
 
-**Pandemic Preparedness**  
+**Pandemic Preparedness**
 
 -   Quad countries are committed to supporting health security and
     resiliency efforts across the region, including continued support
@@ -131,7 +130,7 @@ potential, including through a set of new initiatives announced today.
     Indo-Pacific region to strengthen capacity to prevent, detect, and
     respond to infectious disease threats.
 
-**Mpox**  
+**Mpox**
 
 -   In response to the current clade I mpox outbreak, as well as the
     ongoing clade II mpox outbreak, the Quad plans to coordinate our
@@ -139,8 +138,8 @@ potential, including through a set of new initiatives announced today.
     quality-assured mpox vaccines, including where appropriate expanding
     vaccine manufacturing in low and middle-income countries.
 
-**HUMANITARIAN ASSISTANCE AND DISASTER RELIEF (HADR)**  
-  
+**HUMANITARIAN ASSISTANCE AND DISASTER RELIEF (HADR)**
+
 Twenty years ago, the Quad first came together to respond to the
 devastating 2004 Indian Ocean earthquake and tsunami, surging
 humanitarian assistance to affected countries. In 2022, Quad Foreign
@@ -151,7 +150,7 @@ these guidelines. The Quad collectively provided over $5 million in
 humanitarian assistance. Quad partners continue to support Papua New
 Guinea in its longer-term resiliency efforts. The Quad continues to
 deepen HADR coordination and support partners in the region in their
-longer-term resiliency efforts.  
+longer-term resiliency efforts.
 
 -   Quad governments are working to ensure readiness to rapidly respond,
     including through pre-positioning of essential relief supplies, in
@@ -169,14 +168,14 @@ longer-term resiliency efforts.
     humanitarian assistance to support the people of Vietnam in light of
     the devastating consequences of Typhoon Yagi.
 
-**MARITIME SECURITY**  
-  
+**MARITIME SECURITY**
+
 Quad partners are working side-by-side with partners throughout the
 region to bolster maritime security, improve maritime domain awareness,
-and uphold a free and open Indo-Pacific.  
-  
+and uphold a free and open Indo-Pacific.
+
 **Indo-Pacific Partnership for Maritime Domain Awareness and Maritime
-Training**  
+Training**
 
 -   Quad Leaders launched the Indo-Pacific Partnership for Maritime
     Domain Awareness (IPMDA) at the 2022 Quad Leaders’ Summit in Tokyo.
@@ -225,7 +224,7 @@ Training**
     law enforcement fora, share best practices, and improve civil
     maritime cooperation.
 
-**Indo-Pacific Logistics Network**  
+**Indo-Pacific Logistics Network**
 
 -   The Quad launches today a Quad Indo-Pacific Logistics Network pilot
     project, to pursue shared airlift capacity among the four nations
@@ -234,7 +233,7 @@ Training**
     across the Indo-Pacific region. This effort will complement existing
     efforts with Indo-Pacific partners.
 
-**Coast Guard Cooperation**  
+**Coast Guard Cooperation**
 
 -   The U.S. Coast Guard, Japan Coast Guard, Australian Border Force,
     and Indian Coast Guard plan to launch a first-ever Quad-at-Sea Ship
@@ -244,18 +243,16 @@ Training**
     board a U.S. Coast Guard vessel operating in the Indo-Pacific.  The
     Quad intends to continue with further missions in the Indo-Pacific.
 
-**QUALITY INFRASTRUCTURE**  
-  
+**QUALITY INFRASTRUCTURE**
+
 The Quad is delivering quality, resilient infrastructure to the region
 to increase connectivity, build regional capacity, and meet critical
-needs.  
+needs.
 
 -   This year, the Quad countries’ export credit agencies (ECAs) signed
     and are implementing a Memorandum of Cooperation, which supports
     supply chain resilience, critical and emerging technologies,
     renewable energy, and other high-quality projects in the
-    Indo-Pacific. Quad ECAs are strengthening communication on pipeline
-    information and provision of relevant financing for projects in the
     Indo-Pacific region, and will pursue joint business promotion
     efforts that involve industry experts, project developers, and other
     major market players.
@@ -274,7 +271,7 @@ needs.
     workshop in India to empower partners across the Indo-Pacific to
     strengthen power sector resilience.
 
-**Quad Ports of the Future Partnership**  
+**Quad Ports of the Future Partnership**
 
 -   The Quad Ports of the Future Partnership will harness the Quad’s
     expertise to support sustainable and resilient port infrastructure
@@ -294,7 +291,7 @@ needs.
     sector investments in quality port infrastructure across the
     Indo-Pacific region.
 
-**Quad Infrastructure Fellows**  
+**Quad Infrastructure Fellows**
 
 -   The Quad Infrastructure Fellowship was announced at the 2023 Quad
     Leaders’ Summit to improve capacity and deepen professional networks
@@ -303,7 +300,7 @@ needs.
     than 2,200 experts, and Quad partners have already provided well
     over 1,300 fellowships.
 
-**Undersea Cables and Digital Connectivity**  
+**Undersea Cables and Digital Connectivity**
 
 -   Through the Quad Partnership for Cable Connectivity and Resilience,
     Quad partners continue to support and strengthen quality undersea
@@ -350,15 +347,15 @@ needs.
     commissioned a feasibility study to examine expansion of undersea
     cable maintenance and repair capabilities in the Indo-Pacific.
 
-**CRITICAL AND EMERGING TECHNOLOGY**  
-  
+**CRITICAL AND EMERGING TECHNOLOGY**
+
 The Quad is working in lockstep to stay at the forefront of technology
 innovation, and remains committed to harnessing emerging technologies
 for the benefit of people across the Indo-Pacific, and deploying these
 technologies to facilitate economic prosperity, openness, and
-connectivity.  
-  
-**Open Radio Access Network (RAN) and 5G**  
+connectivity.
+
+**Open Radio Access Network (RAN) and 5G**
 
 -   In 2023, Quad partners announced the first-ever Open RAN deployment
     in the Pacific, in Palau, to support a secure, resilient, and
@@ -392,7 +389,7 @@ connectivity.
     Telecommunications Corporation to ensure the country’s readiness for
     nationwide 5G deployment.
 
-**Artificial Intelligence (AI)**  
+**Artificial Intelligence (AI)**
 
 -   Through the Advancing Innovations for Empowering NextGen Agriculture
     (AI-ENGAGE) initiative announced at the 2023 Quad Leaders’ Summit,
@@ -425,7 +422,7 @@ connectivity.
     promote international standardization cooperation, including
     frameworks for AI conformity assessment.
 
-**Biotechnology**  
+**Biotechnology**
 
 -   The Quad partners look forward to launching the BioExplore
     Initiative – a joint effort supported by an initial $2 million in
@@ -445,24 +442,27 @@ connectivity.
     safe and secure collaborations in biotechnologies and other critical
     technologies among the Quad and across the region.
 
-**Semiconductors**  
+**Semiconductors**
 
 -   Quad Leaders welcome the finalization of a Memorandum of Cooperation
     for the Semiconductor Supply Chains Contingency Network to
     facilitate collaboration in addressing semiconductor supply chain
     risks.  
+      
 
-**The Quad Investors Network**  
-  
+**The Quad Investors Network**
+
 The Quad Investors Network (QUIN) is a nonprofit initiative launched at
 the 2023 Quad Leaders’ Summit. The QUIN aims to accelerate investments
 in critical and emerging technologies across the Indo-Pacific region,
 bringing together investors, entrepreneurs, technologists, and public
 institutions from the Quad countries to support innovation that aligns
 with the Quad’s shared values and promotes economic growth, resilience,
-and regional stability. This year, the QUIN supported ten major
-strategic investments and partnerships across the Quad in the critical
-minerals, renewable energy, cybersecurity, and aerospace sectors.  
+and regional stability. This year, the QUIN supported [ten major
+strategic investments and
+partnerships](https://quadinvestorsnetwork.org/news/report-to-the-quad-leaders:-accelerating-investment-in-critical-and-emerging-technologies)
+across the Quad in the critical minerals, renewable energy,
+cybersecurity, and aerospace sectors.
 
 -   The QUIN has advanced additional frameworks to foster the
     development of new technologies and facilitate investment
@@ -487,15 +487,15 @@ minerals, renewable energy, cybersecurity, and aerospace sectors.
     Quantum ecosystems can work together to collectively leverage
     capital and expertise.
 
-**CLIMATE AND CLEAN ENERGY**  
-  
+**CLIMATE AND CLEAN ENERGY**
+
 The Quad recognizes the existential threat climate change poses to the
 world, the Indo-Pacific, and in particular island nations in the Pacific
 and in the Indian Ocean region, and is taking ambitious steps to
 mitigate and adapt to the effects of climate change, promote clean
-energy innovation and adoption, and support sustainable development.  
-  
-**Climate Adaptation**  
+energy innovation and adoption, and support sustainable development.
+
+**Climate Adaptation**
 
 -   The Quad intends to expand its Early Warning Systems and the Climate
     Information Services Initiative (CIS), announced at the 2023
@@ -533,7 +533,7 @@ energy innovation and adoption, and support sustainable development.
     floods, for timely and accurate warnings, reducing human and
     economic losses from flash floods.
 
-**Clean Energy**  
+**Clean Energy**
 
 -   Our countries intend to strengthen our cooperation to align
     policies, incentives, standards, and investments around creating
@@ -594,16 +594,16 @@ energy innovation and adoption, and support sustainable development.
     to invest an initial $1.25 million of technical assistance financing
     to this effort.
 
-**CYBER SECURITY**  
-  
+**CYBER SECURITY**
+
 The Quad is working together to build a more resilient, secure, and
 complementary cyber security environment for Quad countries and
-partners.  
+partners.
 
--   The Quad has \[developed/released\] the Quad Action Plan to Protect
-    Commercial Undersea Telecommunications Cables, to advance the Quad’s
-    shared vision for future digital connectivity, global commerce, and
-    prosperity.
+-   The Quad is constructively engaging on the Quad Action Plan to
+    Protect Commercial Undersea Telecommunications Cables, to advance
+    the Quad’s shared vision for future digital connectivity, global
+    commerce, and prosperity.
 
 <!-- -->
 
@@ -648,24 +648,24 @@ partners.
     policy responses to sharing of cyber threat information on
     significant cybersecurity incidents affecting shared priorities.
 
-**COUNTERING DISINFORMATION**  
-  
+**COUNTERING DISINFORMATION**
+
 The Quad is working together to foster a resilient information
 environment, including through its Countering Disinformation Working
 Group, by supporting media freedom and addressing foreign information
 manipulation and interference, including disinformation, which
-undermines trust and sows discord in the international community.  
-  
-**PEOPLE-TO-PEOPLE TIES**  
-  
+undermines trust and sows discord in the international community.
+
+**PEOPLE-TO-PEOPLE TIES**
+
 Quad countries are building enduring ties between their peoples.
 Stakeholders from Quad countries have participated in International
 Visitor Leadership Program (IVLP) and other exchanges, on topics related
 to cyber security, workforce development for critical and emerging
 technologies, women in STEM, government transparency and accountability,
-combating disinformation, and regional maritime governance.  
-  
-**The Quad Fellowship**  
+combating disinformation, and regional maritime governance.
+
+**The Quad Fellowship**
 
 -   Together with the Institute of International Education, which leads
     implementation of the Quad Fellowship, Quad governments welcome the
@@ -689,14 +689,14 @@ combating disinformation, and regional maritime governance.
     undergraduate engineering program at a Government of India-funded
     technical institution.
 
-**SPACE**  
-  
+**SPACE**
+
 The Quad recognizes the essential contribution of space-related
 applications and technologies in the Indo-Pacific. The four countries
 plan to continue delivering Earth Observation data and other
 space-related applications to assist nations across the Indo-Pacific to
 strengthen climate early warning systems and better manage the impacts
-of extreme weather events.  
+of extreme weather events.
 
 -   The Quad welcomes India’s establishment of a space-based web portal
     for Mauritius to support the concept of open science for space-based
@@ -711,9 +711,8 @@ of extreme weather events.
     civil domain, including to help avoid collisions in outer space and
     manage debris.
 
-   
-**COUNTERING TERRORISM**  
-   
+**COUNTERING TERRORISM**
+
 The Quad hosted its first Counter Terrorism Working Group (CTWG) in 2023
 and will meet annually to discuss CT threats, Quad CT good practices,
 and ways the Quad can work together to mitigate acts of terrorism
