@@ -1,6 +1,6 @@
 ---
 date: '2024-09-23'
-modified_time: 2024-09-22 22:24:58-04:00
+modified_time: 2024-09-23 13:58:17-04:00
 published_time: 2024-09-23 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-taking-action-to-support-auto-workers-and-manufacturers-including-in-michigan/
 tags: statements-releases
@@ -51,12 +51,13 @@ small- and medium-sized suppliers employ more than 250,000 workers
 across the country—serving as economic engines in Michigan, Ohio, and
 other historic auto communities.  
   
-Today, the Department of the Treasury is announcing a **$9.1 million
-grant to launch the Michigan Auto Supplier Transition Program to help
-small and underserved automotive manufacturers and aftermarket
-suppliers** secure financing to scale and shift to supplying the
-electric vehicle supply chain. Made possible by Treasury’s State Small
-Business Credit Initiative (SSBCI), the Michigan Auto Supplier
+Today, the Department of the Treasury is
+[announcing](https://home.treasury.gov/news/press-releases/jy2600) a
+**$9.1 million grant to launch the Michigan Auto Supplier Transition
+Program to help small and underserved automotive manufacturers and
+aftermarket suppliers** secure financing to scale and shift to supplying
+the electric vehicle supply chain. Made possible by Treasury’s State
+Small Business Credit Initiative (SSBCI), the Michigan Auto Supplier
 Transition Program will provide financial, legal, accounting, and other
 support services to underserved and very small businesses, including
 helping these firms access the over $230 million in additional lending
