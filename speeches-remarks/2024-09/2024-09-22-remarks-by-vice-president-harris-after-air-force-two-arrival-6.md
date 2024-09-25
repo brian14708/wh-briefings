@@ -1,6 +1,6 @@
 ---
 date: '2024-09-22'
-modified_time: 2024-09-23 11:57:17-04:00
+modified_time: 2024-09-24 21:38:06-04:00
 published_time: 2024-09-22 23:59:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/22/remarks-by-vice-president-harris-after-air-force-two-arrival-6/
 tags: speeches-remarks
@@ -12,9 +12,9 @@ Prince George’s County, Maryland
 
 THE VICE PRESIDENT:  Hi, guys.
 
-Well, you’ve probably heard I would like another debate.  So, I’m hoping
-the former president will agree to that, but we have a lot more to
-discuss. 
+Well, you’ve probably heard: I would like another debate.  So, I’m
+hoping the former <s>vice</s> president will agree to that, but we have
+a lot more to discuss. 
 
 Q    You — you raised $27 million from this fundraiser. That’s the
 largest since you raised — since you were at the top of the ticket. 

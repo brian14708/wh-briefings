@@ -1,6 +1,6 @@
 ---
 date: '2024-09-21'
-modified_time: 2024-09-21 18:01:09-04:00
+modified_time: 2024-09-24 22:21:34-04:00
 published_time: 2024-09-21 16:53:30-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/joint-fact-sheet-the-united-states-and-india-continue-to-expand-comprehensive-and-global-strategic-partnership/
 tags: statements-releases
@@ -266,7 +266,7 @@ development of small modular reactor technologies.
 
 -   President Biden and Prime Minister Modi welcomed the [U.S.-India
     Roadmap to Build Safe and Secure Global Clean Energy Supply
-    Chains](http://roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains),
+    Chains](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains/),
     which launched a new initiative to accelerate the expansion of safe
     and secure clean energy supply chains through U.S. and Indian
     manufacturing of clean energy technologies and components.  In its
