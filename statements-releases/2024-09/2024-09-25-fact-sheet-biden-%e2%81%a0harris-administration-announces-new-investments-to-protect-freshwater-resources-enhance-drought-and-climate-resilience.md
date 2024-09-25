@@ -1,6 +1,6 @@
 ---
 date: '2024-09-25'
-modified_time: 2024-09-24 18:34:23-04:00
+modified_time: 2024-09-25 13:07:50-04:00
 published_time: 2024-09-25 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-investments-to-protect-freshwater-resources-enhance-drought-and-climate-resilience/
 tags: statements-releases
@@ -67,41 +67,34 @@ and address climate impacts felt across the nation:
         additional water savings for the Basin’s long-term
         sustainability.
 
-    <!-- -->
-
-    -   The Bureau of Reclamation is working with the following sponsors
-        in the Lower Colorado Basin to negotiate water conservation
-        contracts for ten additional proposed projects, including:
-        -   City of Phoenix
-
-        <!-- -->
-
-        -   City of Tucson
-
-        <!-- -->
-
-        -   Coachella Valley Water District
-
-        <!-- -->
-
-        -   Salt River Valley Water Users’ Association & Salt River
-            Project Agricultural Improvement and Power District
-
-        <!-- -->
-
-        -   San Diego County Water Authority
-
-        <!-- -->
-
-        -   Southern Nevada Water Authority
-
-        <!-- -->
-
-        -   The Metropolitan Water District of Southern California
-
-        <!-- -->
-
-        -   Town of Gilbert
+    .
+-   **Investing in Long-Term Colorado River Basin Resilience:** The
+    Biden-Harris Administration is leading a comprehensive effort to
+    make Western communities more resilient to climate change and
+    address the ongoing megadrought across the region, including the
+    Colorado River Basin, by [harnessing the full
+    resources](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
+    of President Biden’s historic Investing in America agenda. The
+    Administration’s investments in the Lower Colorado River Basin
+    bridge the immediate need for water conservation while moving toward
+    improved system efficiency and more durable long-term solutions.
+    Overall, the funding for long-term water conservation initiatives in
+    the Lower Basin is expected to save more than 1 million acre-feet of
+    water, putting the Basin on a path to a more resilient and
+    sustainable water future.
+    -   The Department of the Interior’s Bureau of Reclamation is
+        announcing the execution of the first three contracts for
+        long-term water conservation under the Lower Colorado Basin
+        System Conservation and Efficiency Program. Totaling
+        approximately $107 million, taken together these first three
+        projects – all with the Gila River Indian Community in the Lower
+        Colorado River Basin of Arizona – will provide over 73,000
+        acre-feet of water conservation to support the sustainability of
+        Lake Mead while also helping ensure long-term water resilience
+        for the Community. The Bureau of Reclamation is also working on
+        the companion program for the Upper Basin, which will provide
+        additional water savings for the Basin’s long-term
+        sustainability.
 -   The Department of the Interior’s Bureau of Reclamation is also
     signing agreements with the Imperial Irrigation District and the
     Bard Water District in partnership with the Metropolitan Water
@@ -145,8 +138,8 @@ and address climate impacts felt across the nation:
 
     <!-- -->
 
-    -   The Department of the Interior today is announcing an
-        additional $92 million in new resources from the Bureau of
+    -   The Department of the Interior is announcing an additional $92
+        million in new resources from the Bureau of
         Reclamation’s WaterSMART [Aquatic Ecosystem Restoration
         Program](https://www.usbr.gov/watersmart/) to help restore
         important salmon and other native fish habitat across the West.
@@ -169,6 +162,39 @@ and address climate impacts felt across the nation:
     and 79 private sector members.**  
       
     **
+-   The Bureau of Reclamation is working with the following sponsors in
+    the Lower Colorado Basin to negotiate water conservation contracts
+    for ten additional proposed projects, including:
+    -   City of Phoenix
+
+    <!-- -->
+
+    -   City of Tucson
+
+    <!-- -->
+
+    -   Coachella Valley Water District
+
+    <!-- -->
+
+    -   Salt River Valley Water Users’ Association & Salt River Project
+        Agricultural Improvement and Power District
+
+    <!-- -->
+
+    -   San Diego County Water Authority
+
+    <!-- -->
+
+    -   Southern Nevada Water Authority
+
+    <!-- -->
+
+    -   The Metropolitan Water District of Southern California
+
+    <!-- -->
+
+    -   Town of Gilbert
 
 Today’s announcements build on recent actions that deliver on the
 Biden-Harris Administration’s commitment to ensuring safe drinking

@@ -1,6 +1,6 @@
 ---
 date: '2024-09-24'
-modified_time: 2024-09-23 19:04:48-04:00
+modified_time: 2024-09-25 12:59:46-04:00
 published_time: 2024-09-24 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/statement-from-president-joe-biden-on-chips-and-science-act-final-award-for-polar-semiconductor/
 tags: statements-releases
@@ -23,7 +23,7 @@ over the last 24 years combined.
 Today’s announcement that the Department of Commerce has finalized the
 first commercial CHIPS Incentives award with Polar Semiconductor marks
 the next phase of the implementation of the CHIPS and Science Act, and
-demonstrates how we continue to deliver on the Investing in American
+demonstrates how we continue to deliver on the Investing in America
 agenda. Polar’s new facility will also be completed under a Project
 Labor Agreement to support its construction workforce, creating
 good-quality union jobs in Bloomington, Minnesota. Today’s announcement

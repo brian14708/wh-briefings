@@ -1,6 +1,6 @@
 ---
 date: '2024-09-24'
-modified_time: 2024-09-24 11:17:49-04:00
+modified_time: 2024-09-25 14:24:31-04:00
 published_time: 2024-09-24 12:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/
 tags: statements-releases
@@ -219,23 +219,22 @@ wellbeing of people living in the affected countries.
     Commitment; 3) an annual contribution to Gavi’s core budget,
     including $300 million in 2024 ; 4) and pledged at least $1.58
     billion towards USG’s first-ever five-year pledge to Gavi’s next
-    replenishment cycle, subject to Congressional approval. U.S. funding
-    is included in Gavi’s $500 million [First Response
-    Fund](https://www.gavi.org/news/media-room/gavi-signs-agreement-bavarian-nordic-rapidly-secure-500000-doses-mpox-vaccines),
-    which is supporting procurement, delivery, and deployment of 500,000
-    JYNNEOS doses in response to the mpox outbreak. Finally, affected
-    countries, WHO, Africa CDC, and Gavi recently established the
-    [Access and Allocation Mechanism (AAM) as a platform to increase
-    equitable
+    replenishment cycle, subject to Congressional approval. Gavi has
+    mobilized $50M from the [First Response
+    Fund](https://www.gavi.org/news/media-room/gavi-signs-agreement-bavarian-nordic-rapidly-secure-500000-doses-mpox-vaccines)
+    to support procurement, delivery, and deployment of 500,000 JYNNEOS
+    doses in response to the mpox outbreak. Finally, affected countries,
+    WHO, Africa CDC, and Gavi recently established the [Access and
+    Allocation Mechanism (AAM) as a platform to increase equitable
     access](https://www.who.int/news/item/13-09-2024-who-and-partners-establish-an-access-and-allocation-mechanism-for-mpox-vaccines--treatments--tests)
     to mpox response resources and contributions.
 
 <!-- -->
 
--   **The Quad.** The Quad partnership was established in 2020 between
-    the United States, India, Japan and Australia as a global force for
-    good, including working together to help partners address pandemics
-    and disease. During a [September 21 Quad
+-   **The Quad.** President Biden elevated the Quad to the leader-level
+    in 2021 as a global force for good, including working together to
+    help partners address pandemics and disease. During a [September 21
+    Quad
     Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/),
     leaders agreed to coordinate efforts to promote equitable access to
     safe, effective, quality-assured mpox vaccines, including where

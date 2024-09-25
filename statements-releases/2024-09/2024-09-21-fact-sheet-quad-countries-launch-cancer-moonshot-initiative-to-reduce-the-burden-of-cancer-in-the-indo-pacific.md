@@ -1,5 +1,6 @@
 ---
 date: '2024-09-21'
+modified_time: 2024-09-25 14:30:40-04:00
 published_time: 2024-09-21 21:02:34-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific/
 tags: statements-releases
@@ -15,7 +16,7 @@ disease that continues to be a major health crisis in the region, and
 laying the groundwork to address other forms of cancer as well. This
 initiative is part of a broader set of announcements made at the [Quad
 Leaders
-Summit.](http://the-wilmington-declaration-joint-statement-from-the-leaders-of-australia-india-japan-and-the-united-states)  
+Summit.](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/the-wilmington-declaration-joint-statement-from-the-leaders-of-australia-india-japan-and-the-united-states/)  
   
 The Quad Cancer Moonshot will serve to strengthen the overall cancer
 care ecosystem in the Indo-Pacific by improving health infrastructure,
