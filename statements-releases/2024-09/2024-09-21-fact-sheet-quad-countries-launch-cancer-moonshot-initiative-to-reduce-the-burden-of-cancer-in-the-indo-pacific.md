@@ -1,6 +1,6 @@
 ---
 date: '2024-09-21'
-modified_time: 2024-09-25 14:30:40-04:00
+modified_time: 2024-09-25 16:27:03-04:00
 published_time: 2024-09-21 21:02:34-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific/
 tags: statements-releases
