@@ -1,11 +1,21 @@
 ---
 date: '2024-09-25'
+modified_time: 2024-09-25 22:07:45-04:00
 published_time: 2024-09-25 17:09:31-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/joint-declaration-of-support-for-recovery-and-reconstruction-of-ukraine/
 tags: statements-releases
 title: "Joint Declaration of Support for Recovery and Reconstruction of\_Ukraine"
 ---
  
+*More than 30 counties and the European Union have agreed to join the
+Joint Declaration of Support for the Recovery and Reconstruction of
+Ukraine. Those countries are Albania, Bulgaria, Canada, Croatia,
+Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Iceland,
+Italy, Japan, Kosovo, Latvia, Lithuania, Luxembourg, the Netherlands,
+North Macedonia, Norway, Poland, Portugal, Republic of Ireland, Romania,
+Slovenia, Spain, Sweden, Ukraine, the United Kingdom, and the United
+States of America.*
+
 We, the Leaders of the Group of Seven (G7), reaffirm our unwavering
 support for Ukraine today and in the future, in war and in peace. As
 stated in the Apulia-G7 Leaders’ Communiqué, together with international
