@@ -1,6 +1,6 @@
 ---
 date: '2024-09-25'
-modified_time: 2024-09-25 13:07:50-04:00
+modified_time: 2024-09-25 19:13:53-04:00
 published_time: 2024-09-25 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-investments-to-protect-freshwater-resources-enhance-drought-and-climate-resilience/
 tags: statements-releases
@@ -118,23 +118,24 @@ and address climate impacts felt across the nation:
     opportunities, and improved fish and wildlife habitat, driving
     change across the landscape for people, communities, species, and
     ecosystems.
-    -   The Administration is announcing a suite of 10 transformational
-        fish passage projects that to date have received over $150
-        million from eight Federal agencies. When completed, these fish
-        passage and aquatic connectivity projects – located in
-        communities from Maine to Ohio to California – will reconnect
-        nearly 5,000 miles of rivers and streams across the United
-        States. Reconnecting waterways allows natural functions to be
-        restored in freshwater systems, improving their climate
-        resilience and water quality, and therefore their ability to
-        protect communities from catastrophic floods, droughts,
-        catastrophic wildfire, and water pollution. Improving fish
-        passage and reconnecting aquatic systems is one of the most
-        effective ways to help conserve vulnerable species, while
-        building safer infrastructure for communities and improving
-        climate resilience. To date, the Administration has spent over
-        $970 million on more than 600 fish passage projects in 45 states
-        across the country.
+    -   [The Administration is announcing a suite of 10 transformational
+        fish passage
+        projects](https://www.whitehouse.gov/ceq/news-updates/2024/09/25/historic-conservation-progress-transformational-fish-passage-projects-to-rejuvenate-ecosystems-bolster-climate-resilience-and-support-cleaner-water-for-communities-across-the-nation/)
+        that to date have received over $150 million from eight Federal
+        agencies. When completed, these fish passage and aquatic
+        connectivity projects – located in communities from Maine to
+        Ohio to California – will reconnect nearly 5,000 miles of rivers
+        and streams across the United States. Reconnecting waterways
+        allows natural functions to be restored in freshwater systems,
+        improving their climate resilience and water quality, and
+        therefore their ability to protect communities from catastrophic
+        floods, droughts, catastrophic wildfire, and water pollution.
+        Improving fish passage and reconnecting aquatic systems is one
+        of the most effective ways to help conserve vulnerable species,
+        while building safer infrastructure for communities and
+        improving climate resilience. To date, the Administration has
+        spent over $970 million on more than 600 fish passage projects
+        in 45 states across the country.
 
     <!-- -->
 
