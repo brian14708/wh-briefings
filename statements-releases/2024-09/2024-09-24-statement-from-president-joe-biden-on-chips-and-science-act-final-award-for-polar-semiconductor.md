@@ -1,6 +1,6 @@
 ---
 date: '2024-09-24'
-modified_time: 2024-09-25 12:59:46-04:00
+modified_time: 2024-09-27 09:16:07-04:00
 published_time: 2024-09-24 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/statement-from-president-joe-biden-on-chips-and-science-act-final-award-for-polar-semiconductor/
 tags: statements-releases
@@ -16,9 +16,9 @@ national security, and advance American competitiveness. And over the
 last three and a half years, we have done just that, catalyzing over
 $400 billion in private sector investments in semiconductors and
 electronics that are creating over 115,000 construction and
-manufacturing jobs. This year alone, the United States is on pace to see
-more investment in electronics manufacturing construction than it did
-over the last 24 years combined.
+manufacturing jobs. Since the start of my Administration, the United
+States has seen more investment in electronics manufacturing
+construction than it did over the prior 24 years combined. 
 
 Today’s announcement that the Department of Commerce has finalized the
 first commercial CHIPS Incentives award with Polar Semiconductor marks
