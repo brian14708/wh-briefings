@@ -1,5 +1,6 @@
 ---
 date: '2024-09-26'
+modified_time: 2024-09-27 22:22:53-04:00
 published_time: 2024-09-26 14:00:29-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection/
 tags: statements-releases
@@ -105,14 +106,13 @@ initiatives:
     individuals and entities, to hold accountable those responsible for
     the exploitation of migrants.  On September 24, 2024, for example,
     the U.S. Department of the Treasury’s Office of Foreign Assets
-    Control (OFAC) [sanctioned five Colombian nationals and two
-    Mexican-based
-    businesses](https://home.treasury.gov/news/press-releases/jy2605),
-    including two individuals affiliated with the Clan del Golfo
-    transnational criminal organization, who are responsible for the
-    control of migrant flows through the Darien Gap. Colombian
-    authorities are offering a reward of 50 million Colombian pesos for
-    the capture of both wanted criminals.  
+    Control (OFAC) [sanctioned
+    individuals](https://home.treasury.gov/news/press-releases/jy2605)
+    affiliated with the Clan del Golfo transnational criminal
+    organization, who are responsible for the control of migrant flows
+    through the Darien Region. Colombian authorities are offering a
+    reward of 50 million Colombian pesos for the capture of both wanted
+    criminals.  
 -   The United States has enhanced **biometric sharing capabilities**
     throughout the region, enabling law enforcement actions against
     criminal actors before they enter any of our countries. Guatemala,
