@@ -1,6 +1,6 @@
 ---
 date: '2024-09-23'
-modified_time: 2024-09-23 12:10:42-04:00
+modified_time: 2024-09-29 09:08:18-04:00
 published_time: 2024-09-23 11:10:57-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-preisdent-biden-and-vice-president-harris-issue-report-on-progress-made-to-reduce-gun-violence-one-year-after-creating-white-house-office-of-gun-violence-prevention/
 tags: statements-releases
@@ -16,9 +16,9 @@ something.’ Vice President Harris and I responded to their call: I
 signed the most significant gun safety legislation in nearly 30 years,
 and we announced dozens of executive actions to reduce gun violence. But
 we knew more was needed. That’s why I established the first-ever White
-Office of Gun Violence Prevention, overseen by the Vice President. In
-just one year, it has accelerated my Administration’s efforts to reduce
-gun violence and save lives.”
+House Office of Gun Violence Prevention, overseen by the Vice President.
+In just one year, it has accelerated my Administration’s efforts to
+reduce gun violence and save lives.”
 
 *Statement from the Vice President:* “President Biden and I have worked
 to address the epidemic of gun violence with the urgency it demands by
