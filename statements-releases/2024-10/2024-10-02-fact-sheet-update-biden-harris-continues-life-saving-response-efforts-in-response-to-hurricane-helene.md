@@ -1,6 +1,6 @@
 ---
 date: '2024-10-02'
-modified_time: 2024-10-02 11:09:54-04:00
+modified_time: 2024-10-03 09:00:04-04:00
 published_time: 2024-10-02 10:59:58-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-update-biden-harris-continues-life-saving-response-efforts-in-response-to-hurricane-helene/
 tags: statements-releases
@@ -123,9 +123,9 @@ state medical needs shelters in Hickory and Mills Springs, North
 Carolina. An HHS Incident Management Team is working closely with state
 officials to identify health care needs including in rural communities
 and areas which may be cut off from transportation systems. HHS has also
-deployed two Disaster Mortuary Assistance Team (DMAT) to assist state
+deployed two Disaster Mortuary Assistance Team (DMORT) to assist state
 mortuary services in mortuary care of victim identification. HHS has
-made 9 DMAT teams available nationwide. Additionally, 200 Federal
+made 9 DMORT teams available nationwide. Additionally, 200 Federal
 ambulances have been provided to North Carolina.
 
 In total, FEMA has shipped over 8.5 million meals, more than 7 million
