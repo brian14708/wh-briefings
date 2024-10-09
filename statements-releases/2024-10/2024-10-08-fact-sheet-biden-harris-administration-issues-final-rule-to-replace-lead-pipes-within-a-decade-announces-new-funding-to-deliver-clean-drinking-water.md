@@ -1,6 +1,6 @@
 ---
 date: '2024-10-08'
-modified_time: 2024-10-07 16:26:48-04:00
+modified_time: 2024-10-09 09:48:50-04:00
 published_time: 2024-10-08 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/
 tags: statements-releases
@@ -60,7 +60,7 @@ birthweight, stop up to 200,000 IQ points lost in children, and reduce
 up to 1,500 cases of premature death from heart disease.
 
 To build on these commitments, today, the Department of Housing and
-Urban Development is investing over $416 million in new grants,
+Urban Development is investing over $420 million in new grants,
 prioritizing lead hazard reduction to protect children, alongside
 efforts to improve home health, energy efficiency, and community safety.
 HUD will provide funding to address lead-based paints in homes, develop
