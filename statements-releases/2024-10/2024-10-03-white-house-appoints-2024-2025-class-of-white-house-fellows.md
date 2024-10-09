@@ -1,5 +1,6 @@
 ---
 date: '2024-10-03'
+modified_time: 2024-10-09 18:15:25-04:00
 published_time: 2024-10-03 17:25:46-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/03/white-house-appoints-2024-2025-class-of-white-house-fellows/
 tags: statements-releases
@@ -28,7 +29,7 @@ available at: <https://www.whitehouse.gov/get-involved/fellows/>.
 
 Class of 2024-2025 White House Fellows  
   
-**Patrick Branco** **is from Kailua, Hawai‘i, and is placed at the
+**Patrick Branco is from Kailua, Hawai‘i, and is placed at the
 Department of the Navy.** He has been the Director of External Affairs
 with Hawai‘i Green Growth, a United Nations (UN) hub catalyzing action
 on the UN Sustainable Development Goals for the Asia-Pacific region.
@@ -67,7 +68,7 @@ partnership with HRSA and NICHQ. She also serves as the executive
 director of the Conference of Educational Administrators of Schools and
 Programs for the Deaf.  
   
-**DeAnna** **Hoskins is from Cincinnati, Ohio, and is placed at the
+**DeAnna Hoskins is from Cincinnati, Ohio, and is placed at the
 Department of the Army.** She has served as President/CEO of
 JustLeadershipUSA (JLUSA), a national nonprofit that empowers people
 directly impacted by the criminal justice system. DeAnna is a
@@ -91,7 +92,7 @@ Adult-Gerontological Acute Care NP and Post-DNP Psychiatric-Mental
 Health NP at Duke University. Michael is a Great 100 Nurse and Bonnie
 Jones Friedman Humanitarian Award recipient.  
   
-**Hoa Nguyen** **is from Silver Spring, Maryland, and is placed at the
+**Hoa Nguyen is from Silver Spring, Maryland, and is placed at the
 National Economic Council and the United States Coast Guard.** At
 Montgomery College, she is an associate professor and chair of the
 business department, where she helped implement a zero-textbook-cost
@@ -124,8 +125,8 @@ vaccination, immunity, and the disproportionate impact of the pandemic
 on vulnerable communities. Padmini received her Ph.D. in immunobiology
 from Yale University and a B.A. in biochemistry from Regis College.  
   
-**Maddy Sharp is from San Diego, California, and is placed at the Office
-of the Second Gentleman.** She is a physician leader committed to
+**Madison Sharp is from San Diego, California, and is placed at the
+Office of the Second Gentleman.** She is a physician leader committed to
 securing a healthier and more equitable future for all Americans. She
 has served as a health policy fellow for Senator Amy Klobuchar and a
 policy research fellow for Secretary John Kerry. Madison has performed
@@ -136,7 +137,7 @@ residency at the Hospital of the University of Pennsylvania. Madison
 holds an M.D. from the Yale School of Medicine and B.A. from Yale
 University, where she captained the NCAA Division I field hockey team.  
   
-**Jason Spencer** **is from Medford, New York, and is placed at the
+**Jason Spencer is from Medford, New York, and is placed at the
 Department of Commerce.** Jason is a Lieutenant Commander in the U.S.
 Navy serving as an Information Warfare and Intelligence Officer. At sea,
 he was assigned to aircraft carriers and destroyers deployed to the
@@ -151,9 +152,9 @@ Institute, an M.A. from the Department of War Studies at King’s College
 London, and an M.P.A. from the Kennedy School of Government at Harvard
 University.  
   
-**Nalini Tata** **is from New York City, New York, and is placed at the
+**Nalini Tata is from New York City, New York, and is placed at the
 White House Office of Cabinet Affairs.** She is a neurosurgery resident
-at New York-Presbyterian Weill Cornell Medical Center/Memorial Sloan
+at NewYork-Presbyterian Weill Cornell Medical Center/Memorial Sloan
 Kettering Cancer Center, where she helps treat the spectrum of emergency
 and elective neurosurgical conditions between a level I trauma center
 and a world-renowned cancer institute. Her published work spans clinical
@@ -189,20 +190,20 @@ sciences from the University of Alabama at Birmingham. He received his
 M.D. from the University of South Alabama, where he served as class
 president.  
   
-**Ryan Wisz** **is from Aiken, South Carolina, and is placed at the
-Central Intelligence Agency.** He is a Lieutenant Commander in the
-United States Navy serving as a Submarine Warfare officer. At sea, he
-has served aboard Attack and Ballistic Missile submarines and has
-deployed seven times, including missions vital to national security.
-Ashore, he has served as aide-de-camp to the Commander Submarine Force,
-U.S. Pacific Fleet, and as the Submarine Squadron Engineer in San Diego,
-California. Prior to military service, he was a Page in the South
-Carolina House of Representatives and Senate. He received his B.S. in
-economics from the University of South Carolina and is a Distinguished
-Graduate from the Naval Postgraduate School with his MBA and published
-master’s thesis. He has received numerous personal and unit awards
-during his Navy service, is active in local tutoring, and passionate
-about financial education and physical fitness.  
+**Ryan Wisz is from Aiken, South Carolina, and is placed at the Central
+Intelligence Agency.** He is a Lieutenant Commander in the United States
+Navy serving as a Submarine Warfare officer. At sea, he has served
+aboard Attack and Ballistic Missile submarines and has deployed seven
+times, including missions vital to national security. Ashore, he has
+served as aide-de-camp to the Commander Submarine Force, U.S. Pacific
+Fleet, and as the Submarine Squadron Engineer in San Diego, California.
+Prior to military service, he was a Page in the South Carolina House of
+Representatives and Senate. He received his B.S. in economics from the
+University of South Carolina and is a Distinguished Graduate from the
+Naval Postgraduate School with his MBA and published master’s thesis. He
+has received numerous personal and unit awards during his Navy service,
+is active in local tutoring, and passionate about financial education
+and physical fitness.  
   
 **Mark York is a seventh-generation farmer from Lake Wilson, Minnesota,
 and is placed at the Department of Defense Office of Strategic
