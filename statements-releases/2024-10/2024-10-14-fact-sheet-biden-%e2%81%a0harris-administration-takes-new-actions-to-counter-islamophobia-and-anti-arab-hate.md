@@ -1,5 +1,6 @@
 ---
 date: '2024-10-14'
+modified_time: 2024-10-15 09:30:54-04:00
 published_time: 2024-10-14 15:58:26-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/14/fact-sheet-biden-%e2%81%a0harris-administration-takes-new-actions-to-counter-islamophobia-and-anti-arab-hate/
 tags: statements-releases
@@ -96,13 +97,13 @@ Strategy include:
 
 <!-- -->
 
--   Attorney General Garand directed the Federal Bureau of Investigation
-    (FBI) and all 94 USAOs across the country to work with local law
-    enforcement and community leaders to protect communities from
-    hate-fueled violence in the last year and recently reaffirmed DOJ’s
-    commitment to combat the disturbing rise in the volume and frequency
-    of threats against Muslim, Arab, and Palestinian as well as Jewish
-    communities here in the United States. DOJ created [a
+-   Attorney General Garland directed the Federal Bureau of
+    Investigation (FBI) and all 94 USAOs across the country to work with
+    local law enforcement and community leaders to protect communities
+    from hate-fueled violence in the last year and recently reaffirmed
+    DOJ’s commitment to combat the disturbing rise in the volume and
+    frequency of threats against Muslim, Arab, and Palestinian as well
+    as Jewish communities here in the United States. DOJ created [a
     webpage](https://www.justice.gov/hatecrimes/addressing-jewish-arab-muslim-palestinian-hate)
     aimed at raising awareness of resources for addressing these
     threats, and it will continue to publicize its efforts.  
