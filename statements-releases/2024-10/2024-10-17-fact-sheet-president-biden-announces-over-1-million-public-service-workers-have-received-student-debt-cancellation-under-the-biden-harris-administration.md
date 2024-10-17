@@ -1,6 +1,6 @@
 ---
 date: '2024-10-17'
-modified_time: 2024-10-16 22:29:37-04:00
+modified_time: 2024-10-17 13:18:58-04:00
 published_time: 2024-10-17 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/fact-sheet-president-biden-announces-over-1-million-public-service-workers-have-received-student-debt-cancellation-under-the-biden-harris-administration/
 tags: statements-releases
@@ -86,7 +86,7 @@ Administration.
 **Economic Benefits of Student Debt Relief for Public Service Workers**
 
 Today, the Council of Economic Advisers (CEA) [published a new
-analysis](https://www.whitehouse.gov/cea/written-materials/2024/10/09/making-public-service-loan-forgiveness-work-for-borrowers-and-the-american-people/)
+analysis](https://www.whitehouse.gov/cea/written-materials/2024/10/17/making-public-service-loan-forgiveness-work-for-borrowers-and-the-american-people/)
 underscoring that the Biden-Harris Administration’s student debt
 policies not only benefit borrowers, but also the entire economy.
 
@@ -119,12 +119,13 @@ Employees International Union (SEIU), are amplifying today’s
 announcement through member-to-member outreach, social media campaigns,
 and more, and are encouraging people to sign up for PSLF:
 
--   **AFT** will be encouraging its members to sign up for [student debt
-    clinics](https://www.aft.org/student-debt-clinics) to help members
-    get on track with PSLF, with a goal of reaching another 500 teachers
-    and nurses by the end of the year. This is on top of the 34,000
-    members AFT has reached since starting their student debt clinic
-    series.
+-   For over a decade, AFT has been fighting to help
+    teachers, nurses and school staff access PSLF. AFT ‘s student debt
+    clinics, advocacy and outreach have resulted in members saving an
+    estimated $400 million. AFT will continue to host weekly national
+    student debt clinics, and help members apply for PSLF through a free
+    union membership benefit called Summer, saving AFT members over
+    $60,000 each
 -   **NEA** will continue to help its members with the [NEA Student Debt
     Navigator](https://neamb.com/savi), a tool that provides 1-on-1
     support for NEA’s members who need additional support with their

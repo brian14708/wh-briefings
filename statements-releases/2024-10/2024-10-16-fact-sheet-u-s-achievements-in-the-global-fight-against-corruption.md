@@ -1,6 +1,6 @@
 ---
 date: '2024-10-16'
-modified_time: 2024-10-16 08:58:05-04:00
+modified_time: 2024-10-17 13:23:55-04:00
 published_time: 2024-10-16 08:58:04-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/
 tags: statements-releases
@@ -19,7 +19,7 @@ officials were laundering stolen assets through the U.S. and global
 financial systems, while local investigators were ill-equipped to follow
 the money. Reformers in countries saddled with corruption had scarce
 public resources to actually address development needs. The Biden-Harris
-Administration tacked these challenges starting Day One, to ensure
+Administration tackled these challenges starting Day One, to ensure
 democracy delivers and corrupt actors are held to account.
 
 The first [National Security Study

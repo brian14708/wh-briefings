@@ -1,6 +1,6 @@
 ---
 date: '2024-10-16'
-modified_time: 2024-10-17 08:29:48-04:00
+modified_time: 2024-10-17 12:48:43-04:00
 published_time: 2024-10-16 12:28:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/16/press-briefing-by-press-secretary-karine-jean-pierre-71/
 tags: press-briefings
