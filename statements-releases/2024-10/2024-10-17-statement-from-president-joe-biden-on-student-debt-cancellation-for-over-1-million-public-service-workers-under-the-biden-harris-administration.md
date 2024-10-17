@@ -1,6 +1,6 @@
 ---
 date: '2024-10-17'
-modified_time: 2024-10-16 22:22:47-04:00
+modified_time: 2024-10-17 09:36:25-04:00
 published_time: 2024-10-17 05:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/statement-from-president-joe-biden-on-student-debt-cancellation-for-over-1-million-public-service-workers-under-the-biden-harris-administration/
 tags: statements-releases
@@ -8,7 +8,7 @@ title: "Statement from President Joe\_Biden on Student Debt Cancellation for Ove
   \ 1 Million Public Service Workers Under the Biden-\u2060Harris Administration"
 ---
  
-Today, my Administration is approving another $4.7 billion in student
+Today, my Administration is approving another $4.5 billion in student
 debt cancellation for over 60,000 public service workers – bringing the
 total number of Americans who have had their debt cancelled under Public
 Service Loan Forgiveness during my Administration to over 1 million
