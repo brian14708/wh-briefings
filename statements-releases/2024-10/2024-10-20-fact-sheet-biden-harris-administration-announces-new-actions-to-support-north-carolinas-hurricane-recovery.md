@@ -1,5 +1,6 @@
 ---
 date: '2024-10-20'
+modified_time: 2024-10-21 10:18:50-04:00
 published_time: 2024-10-20 21:12:01-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/20/fact-sheet-biden-harris-administration-announces-new-actions-to-support-north-carolinas-hurricane-recovery/
 tags: statements-releases
@@ -48,20 +49,20 @@ additional resources and funding, including:
     opening in the coming days. Survivors can visit Disaster Recovery
     Centers in the following cities/towns: Asheville, Bakersville,
     Boone, Brevard, Hendersonville, Jefferson, Lenoir, Marion,
-    Morgantown, Newland, Old Fort, Sparta, Sylva, and Waynesville.
+    Morganton, Newland, Old Fort, Sparta, Sylva, and Waynesville.
 -   FEMA is providing temporary hotel stays to more than 2,500
     households through Transitional Sheltering Assistance.
 -   FEMA inspectors have performed more than 21,000 home inspections to
     help survivors assess damage and apply for financial assistance.
--   Active-duty troops and National Guard members remain on the ground
-    in their state capacity to **support search-and-rescue operations,
-    route clearance, and commodities distribution across western North
-    Carolina.** The Department of Defense is also employing additional
-    capabilities to assist with increasing situational awareness across
-    the remote terrain of Western North Carolina. The Army Corps of
-    Engineers continues missions supporting debris removal, temporary
-    emergency power installation, water and wastewater assessments with
-    the Environmental Protection Agency.
+-   Active-duty troops and National Guard members in their state
+    capacity remain on the ground to support search-and-rescue
+    operations, route clearance, and commodities distribution across
+    western North Carolina. The Department of Defense is also employing
+    additional capabilities to assist with increasing situational
+    awareness across the remote terrain of Western North Carolina. The
+    Army Corps of Engineers continues missions supporting debris
+    removal, temporary emergency power installation, water and
+    wastewater assessments with the Environmental Protection Agency.
 -   Power has been restored to 99 percent of impacted North Carolina
     customers due to thousands of utility personnel working around the
     clock.
