@@ -1,6 +1,6 @@
 ---
 date: '2024-10-23'
-modified_time: 2024-10-22 17:33:20-04:00
+modified_time: 2024-10-23 15:34:41-04:00
 published_time: 2024-10-23 09:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/23/fact-sheet-biden-harris-administration-announces-110-million-in-awards-from-arpa-hs-sprint-for-womens-health-to-accelerate-new-discoveries-and-innovation/
 tags: statements-releases
@@ -22,8 +22,9 @@ conditions that affect women uniquely, disproportionately, and
 differently.
 
 Today in Las Vegas, Nevada, the First Lady will announce $110 million in
-awards from the Advanced Research Projects Agency for Health (ARPA-H) to
-accelerate transformative research and development in women’s health.
+[awards from the Advanced Research Projects Agency for Health
+(ARPA-H)](https://arpa-h.gov/news-and-events/sprint-womens-health-awards-aim-close-gaps-womens-health-research)
+to accelerate transformative research and development in women’s health.
 President Biden established ARPA-H, a new research and development
 funding agency, with bipartisan Congressional support to generate
 high-impact biomedical and health breakthroughs. In February 2024, the
