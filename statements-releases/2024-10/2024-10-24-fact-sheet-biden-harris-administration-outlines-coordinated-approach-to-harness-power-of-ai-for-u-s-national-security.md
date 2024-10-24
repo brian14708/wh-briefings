@@ -1,6 +1,6 @@
 ---
 date: '2024-10-24'
-modified_time: 2024-10-23 21:47:12-04:00
+modified_time: 2024-10-24 08:58:12-04:00
 published_time: 2024-10-24 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/
 tags: statements-releases
@@ -61,7 +61,7 @@ secure, and trustworthy AI:**
 -   In order for the United States to benefit maximally from AI,
     Americans must know when they can trust systems to perform safely
     and reliably. For this reason, **the NSM formally designates the AI
-    Safety Institute** asU.S. industry’s primary port of contact in the
+    Safety Institute** as U.S. industry’s primary port of contact in the
     U.S. Government, one staffed by technical experts who understand
     this quickly evolving technology. It also lays out strengthened and
     streamlined mechanisms for the AI Safety Institute to partner with
