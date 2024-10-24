@@ -1,6 +1,6 @@
 ---
 date: '2024-10-24'
-modified_time: 2024-10-24 08:58:12-04:00
+modified_time: 2024-10-24 14:34:39-04:00
 published_time: 2024-10-24 06:00:00-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/
 tags: statements-releases
@@ -148,5 +148,11 @@ The release of today’s NSM is part of the Biden-Harris Administration’s
 comprehensive strategy for responsible innovation, and builds on
 previous actions that President Biden and Vice President Harris have
 taken.
+
+Read the NSM
+[here](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/).
+
+Read the frame work
+[here](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf).
 
 \###
