@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01'
-modified_time: 2024-11-01 08:02:34-04:00
+modified_time: 2024-11-01 08:58:45-04:00
 published_time: 2024-11-01 08:02:33-04:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/01/fact-sheet-president-biden-announces-1-2-million-pensions-protected-under-biden-harris-administration-celebrates-historic-support-for-unions/
 tags: statements-releases
@@ -55,8 +55,10 @@ to ARP, the plan will now pay full benefits to workers and retirees into
 at least the 2050s.
 
 The President also will highlight new data from the Department of
-Labor’s report showing the historic progress in delivering pension
-security for union workers and retirees that finds:
+Labor’s
+[report](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/arp/sfa-report-on-special-finacial-assistance.pdf)
+showing the historic progress in delivering pension security for union
+workers and retirees that finds:
 
 -   More than 120,000 retirees who otherwise would have continued to
     suffer or would have seen new reductions in their earned pension
@@ -152,7 +154,7 @@ protected under the Biden-Harris Administration, through October 2024:**
 </tr>
 <tr class="even">
 <td>Michigan</td>
-<td>More than 809,000</td>
+<td>More than 80,000</td>
 </tr>
 <tr class="odd">
 <td>New York</td>
@@ -233,4 +235,5 @@ protected under the Biden-Harris Administration, through October 2024:**
 </tbody>
 </table>
 
-*Source: Department of Labor, “Report on Special Financial Assistance”*
+*Source: Department of Labor, “[Report on Special Financial
+Assistance](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/arp/sfa-report-on-special-finacial-assistance.pdf)”*
