@@ -1,6 +1,6 @@
 ---
 date: '2024-11-11'
-modified_time: 2024-11-10 16:47:07-05:00
+modified_time: 2024-11-12 12:28:04-05:00
 published_time: 2024-11-11 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/11/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families-2/
 tags: statements-releases
@@ -35,16 +35,19 @@ benefits to 6.7 million veterans and survivors, and processed a record
 2.51 million disability claims. VA delivered more than 131 million
 health care appointments, over 6 million dental procedures, and provided
 services and assistance to more than 88,095 family caregivers. Veterans’
-trust in VA also reached an all-time high in 2024.  
+trust in VA also reached an all-time high in 2024. 
 
 The Administration is building on this historic progress and announcing
 new actions to address toxic exposures for veterans, including by
 expanding the types of cancers considered presumptive for VA disability
-benefits. Today, new data were also released showing that veteran
-homelessness has reached its lowest point on record, marking a 7.5%
-reduction in veteran homelessness in the last year alone and 55.6%
-percent reduction since 2010. Additionally, the Department of Education
-is announcing $9 million in funding to support student veterans.
+benefits. Today, [new data were also
+released](https://www.usich.gov/news-events/news/under-biden-harris-administration-veteran-homelessness-drops-lowest-record)
+showing that veteran homelessness has reached its lowest point on
+record, marking a 7.5% reduction in veteran homelessness in the last
+year alone and 55.6% percent reduction since 2010. Additionally, the
+Department of Education is
+[announcing](https://www.ed.gov/grants-and-programs/grants-higher-education/improvement-postsecondary-education/center-of-excellence-for-veteran-student-success)
+$9 million in funding to support student veterans.
 
 **Expanding benefits for toxic exposed veterans.** For far too long it
 has taken too much time for the government to acknowledge and address
@@ -68,19 +71,21 @@ for K2 veterans.
 
 **Ending veteran homelessness.** Thanks to the efforts of the Department
 of Housing and Urban Development and VA, the number of veterans
-experiencing homelessness has reached a record low since measurement
-began in 2009. This reflects a 7.5% reduction in veterans experiencing
-homelessness since 2023, an 11.7% decrease since 2020, and a 55.6%
-reduction since 2010.  In 2024 alone, VA has permanently housed nearly
-48,000 veterans and awarded over $800 million in grants to help veterans
-experiencing homelessness. VA also [expanded access to legal assistance
-for homeless veterans](https://www.va.gov/HOMELESS/LSV-H_Toolkit.asp)
-and helped more than 158,000 veterans and their families retain their
-homes or otherwise avoid foreclosure. Additionally, so far in 2024,
-nearly 90,000 veterans were under lease with vouchers through the HUD-VA
-Supportive Housing Program (HUD-VASH) – the most veterans served at any
-point in the program’s history. President Biden has also called on
-Congress to [triple the number of
+experiencing homelessness [has reached a record
+low](https://www.usich.gov/news-events/news/under-biden-harris-administration-veteran-homelessness-drops-lowest-record)
+since measurement began in 2009. This reflects a 7.5% reduction in
+veterans experiencing homelessness since 2023, an 11.7% decrease since
+2020, and a 55.6% reduction since 2010.  In 2024 alone, VA has
+permanently housed nearly 48,000 veterans and awarded over $800 million
+in grants to help veterans experiencing homelessness. VA also [expanded
+access to legal assistance for homeless
+veterans](https://www.va.gov/HOMELESS/LSV-H_Toolkit.asp) and helped more
+than 158,000 veterans and their families retain their homes or otherwise
+avoid foreclosure. Additionally, so far in 2024, nearly 90,000 veterans
+were under lease with vouchers through the HUD-VA Supportive Housing
+Program (HUD-VASH) – the most veterans served at any point in the
+program’s history. President Biden has also called on Congress
+to [triple the number of
 veterans](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/) who
 receive housing vouchers – a critical tool to help prevent veteran
 homelessness in the first place.
@@ -120,8 +125,10 @@ Gulf War, Iraq, Afghanistan, or any other combat zone after 9/11. In
 addition to expanding care, veterans trust in VA reached 80.4% this
 year, an all-time record and an increase of 25% since 2016. Survey data
 also found that veteran trust in VA outpatient care increased to 91.8%,
-an all-time high. And, today, VA announced it plans to eliminate
-copayments for all telehealth care visits, building upon its September
+an all-time high. And, today, VA
+[announced](https://news.va.gov/press-room/va-proposes-to-eliminate-copays-for-telehealth-expand-access-to-telehealth-for-rural-veterans/)
+it plans to eliminate copayments for all telehealth care visits,
+building upon its September
 [announcement](https://news.va.gov/press-room/va-makes-tele-emergency-care-available-nationwide-offering-veterans-more-virtual-care-options/#:~:text=This%20expansion%20is%20a%20part,the%20VA%20Health%20Chat%20app.)
 which made tele-emergency care available nationwide, making it easier
 for veteran to receive timely access to virtual care when needed. These
