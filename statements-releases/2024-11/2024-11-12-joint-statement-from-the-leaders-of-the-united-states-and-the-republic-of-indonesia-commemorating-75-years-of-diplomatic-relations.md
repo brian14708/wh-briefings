@@ -1,6 +1,6 @@
 ---
 date: '2024-11-12'
-modified_time: 2024-11-12 22:43:49-05:00
+modified_time: 2024-11-13 11:36:21-05:00
 published_time: 2024-11-12 22:43:48-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-indonesia-commemorating-75-years-of-diplomatic-relations/
 tags: statements-releases
@@ -12,7 +12,9 @@ Today, President Joseph R. Biden, Jr. is honored to welcome Indonesian
 President Prabowo Subianto to Washington, D.C. As we commemorate 75
 years of diplomatic relations, we reflect on our shared experiences,
 from which we have emerged as the world’s second- and third-largest
-democracies.  
+democracies.
+
+  
 As part of this growing relationship, one year ago, Indonesia and the
 United States elevated bilateral relations to a Comprehensive Strategic
 Partnership (CSP) and institutionalized efforts to expand cooperation
@@ -349,11 +351,10 @@ facilitate the medical evacuation of Palestinian children in order to
 receive critical care, and committed to support humanitarian and early
 recovery activities on the ground in Gaza. President Biden conveyed his
 appreciation for Indonesia’s role in the United Nations Interim Force in
-Lebanon (UNIFIL) peacekeeping mission and joined [Indonesia in calling
+Lebanon (UNIFIL) peacekeeping mission and joined Indonesia in calling
 for all to respect the inviolability of UN premises, as well as calling
-for](https://www.kemlu.go.id/berita/indonesia-kecam-keras-serangan-idf-yang-melukai-2-personil-pbb-asal-indonesia?type=publication)
-the protection of and to avoid military activity that might risk harming
-UNIFIL personnel.
+for the protection of and to avoid military activity that might risk
+harming UNIFIL personnel.
 
 The leaders discussed the war against Ukraine and reaffirmed our respect
 for sovereignty, political independence, territorial integrity, and the

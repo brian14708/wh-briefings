@@ -1,6 +1,6 @@
 ---
 date: '2024-11-12'
-modified_time: 2024-11-12 22:50:07-05:00
+modified_time: 2024-11-13 11:35:35-05:00
 published_time: 2024-11-12 22:50:06-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-president-joseph-r-biden-and-president-prabowo-subianto-commemorate-75-years-of-diplomatic-relations/
 tags: statements-releases
@@ -182,10 +182,9 @@ following new programs to further strengthen these ties:
     languages through community engagement and open-source digital
     platforms.**   **
 -   Interfaith Dialogue: The United States and Indonesia engaged in
-    interfaith dialogues, including the [Cross-Cultural Religious
-    Literacy Conference](https://conference.leimena.org/) to strengthen
-    tolerance, promote inclusivity, and encourage interfaith
-    collaboration.
+    interfaith dialogues, including the Cross-Cultural Religious
+    Literacy Conference to strengthen tolerance, promote inclusivity,
+    and encourage interfaith collaboration.
 -   Increased Access to Higher Education: In 2023, USAID trained over
     700 staff members and over 6,000 students from more than 55
     Indonesian universities in soft skills development, applied STEM
