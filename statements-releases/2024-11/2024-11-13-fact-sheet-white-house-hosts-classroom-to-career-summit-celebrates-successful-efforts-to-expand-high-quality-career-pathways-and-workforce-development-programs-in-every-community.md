@@ -1,6 +1,6 @@
 ---
 date: '2024-11-13'
-modified_time: 2024-11-12 20:18:56-05:00
+modified_time: 2024-11-14 14:44:52-05:00
 published_time: 2024-11-13 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/13/fact-sheet-white-house-hosts-classroom-to-career-summit-celebrates-successful-efforts-to-expand-high-quality-career-pathways-and-workforce-development-programs-in-every-community/
 tags: statements-releases
@@ -55,29 +55,32 @@ During today’s Summit, Administration officials will highlight efforts
 to expand access to evidence-based, high-quality CTE programs and
 affordable community college pathways:
 
--   **First Lady Jill Biden** will announce that 34 states and
-    Washington, DC now have a free community college program. In total,
-    over 400 colleges, cities, and states now offer tuition-free college
-    and job training—up from about 50 programs when she, President
-    Obama, and then-Vice President Biden launched the America’s College
-    Promise Initiative in 2015. Several of the newest free community
-    college plans were launched with support from American Rescue Plan
-    funds. As First Lady, Dr. Biden has championed community colleges
-    and workforce training programs, traveling the country to highlight
-    evidence-based models and promising practices that connect high
-    school and community college students to good-paying jobs.
+-   **First Lady Jill Biden** will
+    [announce](https://sites.ed.gov/ous/2024/11/expanding-free-community-college-to-develop-americas-workforce-progress-over-a-decade/)
+    that 34 states and Washington, DC now have a free community college
+    program. In total, over 400 colleges, cities, and states now offer
+    tuition-free college and job training—up from about 50 programs when
+    she, President Obama, and then-Vice President Biden launched the
+    America’s College Promise Initiative in 2015. Several of the newest
+    free community college plans were launched with support from
+    American Rescue Plan funds. As First Lady, Dr. Biden has championed
+    community colleges and workforce training programs, traveling the
+    country to highlight evidence-based models and promising practices
+    that connect high school and community college students to
+    good-paying jobs.
 
 <!-- -->
 
--   **The Department of Education (ED)** will publish new analysis of ED
-    data on postsecondary programs that provide pathways to jobs created
-    or fueled by the Investing in America agenda. The Department will
-    also release a mapping tool to help the public find those programs
-    and a public-use data set that will allow researchers and
-    policymakers to further explore these connections. This analysis
-    comes on the heels of a years-long effort to better connect both
-    high schools and postsecondary programs to career pathways through
-    the Unlocking Career Success Initiative, which
+-   **The Department of Education (ED)** will
+    [publish](https://sites.ed.gov/ous/2024/11/investing-in-america-agenda-translates-into-educational-investment/)
+    new analysis of ED data on postsecondary programs that provide
+    pathways to jobs created or fueled by the Investing in America
+    agenda. The Department will also release a mapping tool to help the
+    public find those programs and a public-use data set that will allow
+    researchers and policymakers to further explore these connections.
+    This analysis comes on the heels of a years-long effort to better
+    connect both high schools and postsecondary programs to career
+    pathways through the Unlocking Career Success Initiative, which
     [invested](https://cte.ed.gov/unlocking-career-success/news-and-guidance/CCHS-grants)
     $31 million in building model career-connected programs in high
     schools that will provide up to 120,000 students with pathways to
@@ -150,7 +153,7 @@ to develop high-quality training programs.
 -   **The Department of Labor (DOL)** will announce that more than one
     million Americans have started a Registered Apprenticeship since
     President Biden took office—and this month, the number of women in
-    apprenticeships will surpass 100,000for the first time ever.
+    apprenticeships will surpass 100,000 for the first time ever.
 
 <!-- -->
 
@@ -161,10 +164,11 @@ to develop high-quality training programs.
 
 <!-- -->
 
--   **DOC** will announce that 12,000 participants have been
-    successfully trained and placed into good jobs in the first wave of
-    the Good Jobs Challenge, a flagship sector strategies program funded
-    by President Biden’s American Rescue Plan.
+-   **DOC** will announce that [12,000
+    participants](https://www.commerce.gov/news/press-releases/2024/11/us-department-commerce-announces-12000-american-workers-placed-jobs)
+    have been successfully trained and placed into good jobs in the
+    first wave of the Good Jobs Challenge, a flagship sector strategies
+    program funded by President Biden’s American Rescue Plan.
 
 <!-- -->
 
@@ -351,7 +355,7 @@ college programs.
     hires. The company now commits to mapping capabilities and skills of
     an additional 4,000 employees by the end of 2025, and will expand
     upskilling opportunities to over 5,000 existing employees, focusing
-    initially on sales and technical solutions roles.     
+    initially on sales and technical solutions roles.    
 
 <!-- -->
 
@@ -504,5 +508,7 @@ as:
     establish the program at the Hub’s January convening. TSMC
     anticipates expanding the program to hundreds of apprentices in
     2025.
+
+------------------------------------------------------------------------
 
 \###
