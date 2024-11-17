@@ -1,6 +1,6 @@
 ---
 date: '2024-11-16'
-modified_time: 2024-11-16 18:27:52-05:00
+modified_time: 2024-11-16 21:38:37-05:00
 published_time: 2024-11-16 18:27:51-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/16/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-3/
 tags: statements-releases
@@ -46,10 +46,11 @@ Building on a candid and constructive dialogue on AI and co-sponsorship
 of each other’s resolutions on AI at the United Nations General
 Assembly, the two leaders affirmed the need to address the risks of AI
 systems, improve AI safety and international cooperation, and promote AI
-for the good of all. The two leaders affirmed the need to maintain human
-control over the decision to use nuclear weapons.  The two leaders also
-stressed the need to consider carefully the potential risks and develop
-AI technology in the military field in a prudent and responsible manner.
+for the good for all. The two leaders affirmed the need to maintain
+human control over the decision to use nuclear weapons.  The two leaders
+also stressed the need to consider carefully the potential risks and
+develop AI technology in the military field in a prudent and responsible
+manner.
 
 The two leaders also exchanged views on key regional and global
 challenges.  President Biden condemned the deployment of thousands of
