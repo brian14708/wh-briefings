@@ -1,6 +1,6 @@
 ---
 date: '2024-11-19'
-modified_time: 2024-11-19 13:49:35-05:00
+modified_time: 2024-11-19 16:54:30-05:00
 published_time: 2024-11-19 13:49:34-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/readout-of-president-joe-bidens-meeting-with-president-luiz-inacio-lula-da-silva-of-brazil/
 tags: statements-releases
@@ -46,12 +46,13 @@ Facility.  
    
 Building on their commitment to addressing the climate crisis and
 seizing the opportunity to promote decent work in essential industries,
-the two leaders announced a new Brazil-U.S. Partnership for the Energy
-Transition.  The Partnership will accelerate clean energy deployment,
-expand energy and mineral supply chain development, and decarbonize the
-manufacturing and industrial sectors.  President Biden expressed his
-confidence in the durability of this partnership, which builds on
-longstanding bilateral cooperation, such as the U.S.-Brazil Energy Forum
-and the Strategic Minerals Dialogue.
+the two leaders [announced a new Brazil-U.S. Partnership for the Energy
+Transition](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/). 
+The Partnership will accelerate clean energy deployment, expand energy
+and mineral supply chain development, and decarbonize the manufacturing
+and industrial sectors.  President Biden expressed his confidence in the
+durability of this partnership, which builds on longstanding bilateral
+cooperation, such as the U.S.-Brazil Energy Forum and the Strategic
+Minerals Dialogue.
 
 \###
