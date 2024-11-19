@@ -1,10 +1,10 @@
 ---
 date: '2024-11-19'
-modified_time: 2024-11-19 08:15:07-05:00
+modified_time: 2024-11-19 15:07:10-05:00
 published_time: 2024-11-19 08:15:06-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-continuing-a-legacy-of-leadership-at-the-g20/
 tags: statements-releases
-title: "FACT SHEET: Continuing a Legacy of Leadership at the\_G20"
+title: "Continuing a Legacy of Leadership at the\_G20"
 ---
  
 From day one of his Administration, President Biden pledged
@@ -122,7 +122,8 @@ leaders in Rio to raise their climate ambition and develop innovative
 solutions to support the clean energy transition.
 
 **Launching the Brazil-U.S. Partnership for the Energy
-Transition.**  Presidents Biden and Lula announced a new partnership
+Transition.**  Presidents Biden and Lula announced [a new
+partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/)
 to elevate ongoing bilateral efforts in clean energy production, clean
 energy supply chain development, and green industrialization.
  This partnership builds on longstanding efforts under the U.S.-Brazil
