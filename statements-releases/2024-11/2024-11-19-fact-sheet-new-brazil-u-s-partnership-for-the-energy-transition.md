@@ -1,10 +1,10 @@
 ---
 date: '2024-11-19'
-modified_time: 2024-11-19 07:01:41-05:00
+modified_time: 2024-11-19 18:33:39-05:00
 published_time: 2024-11-19 07:01:40-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/
 tags: statements-releases
-title: "FACT SHEET: New Brazil-U.S. Partnership for the Energy\_Transition"
+title: "New Brazil-U.S. Partnership for the Energy\_Transition"
 ---
  
 *Establishing a Climate-Forward Clean Energy Industrial Partnership*
