@@ -1,6 +1,6 @@
 ---
 date: '2024-11-21'
-modified_time: 2024-11-21 15:55:22-05:00
+modified_time: 2024-11-22 08:55:18-05:00
 published_time: 2024-11-21 16:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/president-biden-announces-a-presidential-emergency-board-names-members-2/
 tags: statements-releases
@@ -29,7 +29,7 @@ members to Presidential Emergency Board No. 252:
 -   Sidney Moreland, Member, Presidential Emergency Board No. 252
 -   Thomas Pontolillo, Member, Presidential Emergency Board No. 252
 
-**Ira F. Jaffee, Chair, Presidential Emergency Board No. 252**
+**Ira F. Jaffe, Chair, Presidential Emergency Board No. 252**
 
 Ira F. Jaffe has served as a full-time arbitrator and mediator of labor
 and employment disputes since 1981 and has presided over more than 6,000
