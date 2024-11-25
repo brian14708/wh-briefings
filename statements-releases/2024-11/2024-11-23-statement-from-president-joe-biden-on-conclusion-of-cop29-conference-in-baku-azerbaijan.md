@@ -1,6 +1,6 @@
 ---
 date: '2024-11-23'
-modified_time: 2024-11-23 21:04:26-05:00
+modified_time: 2024-11-24 21:37:47-05:00
 published_time: 2024-11-23 21:01:09-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-on-conclusion-of-cop29-conference-in-baku-azerbaijan/
 tags: statements-releases
@@ -30,7 +30,7 @@ better future. 
 
 Together, countries set an ambitious 2035 international climate finance
 goal. It will help mobilize the level of finance – from all sources –
-that developingcountries need to accelerate the transition to clean,
+that developing countries need to accelerate the transition to clean,
 sustainable economies, while opening up new markets for
 American-made electric vehicles, batteries, and other products. 
 
