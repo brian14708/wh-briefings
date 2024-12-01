@@ -1,6 +1,6 @@
 ---
 date: '2024-11-30'
-modified_time: 2024-11-30 19:18:16-05:00
+modified_time: 2024-11-30 20:11:50-05:00
 published_time: 2024-11-30 19:18:15-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/30/statement-by-nsc-spokesperson-sean-savett-on-syria/
 tags: statements-releases
@@ -13,7 +13,7 @@ regime’s ongoing refusal to engage in the political process outlined in
 UNSCR 2254, and its reliance on Russia and Iran, created the conditions
 now unfolding, including the collapse of Assad regime lines in northwest
 Syria. At the same time, the United States has nothing to do with this
-offensive, which is led by Hay’at Tahir al-Sham (HTS), a designated
+offensive, which is led by Hay’at Tahrir al-Sham (HTS), a designated
 terrorist organization. The United States, together with its partners
 and allies, urge de-escalation, protection of civilians and minority
 groups, and a serious and credible political process that can end this
