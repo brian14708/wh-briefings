@@ -1,6 +1,6 @@
 ---
 date: '2024-11-29'
-modified_time: 2024-11-29 13:10:16-05:00
+modified_time: 2024-12-03 10:54:04-05:00
 published_time: 2024-11-29 13:10:12-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/29/fact-sheet-the-biden-harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad-2/
 tags: statements-releases
@@ -218,15 +218,15 @@ Over the past year the Administration acted to:
 
 **Increase Awareness and End Stigma and Discrimination**
 
--   **CDC Updates HIV Testing Guidance to Remove Age Limit.** CDC
-    updated its HIV testing guidance, removing the previous upper age
-    limit of 64 for routine HIV screening. Under the new guidance, all
-    patients aged 15 and older are encouraged to get tested for HIV at
-    least once as part of routine healthcare. This change is a
-    significant step toward addressing HIV testing stigma by normalizing
-    HIV screening as a lifelong practice and helps promote earlier
-    diagnosis and treatment across all age groups, ultimately supporting
-    efforts to end the HIV epidemic.
+-   **CDC Updating HIV Testing Guidance.** CDC will publish draft
+    updated HIV screening guidelines recommending at least one HIV test
+    in a lifetime for all persons 15 years of age or older. These draft
+    recommendations update the ages for HIV screening including
+    eliminating an upper age limit, a change that would be a significant
+    step toward addressing HIV testing stigma by normalizing HIV
+    screening as a lifelong practice and help promote earlier diagnosis
+    and treatment across all age groups, ultimately supporting efforts
+    to end the HIV epidemic.
 -   **Reform of HIV Criminalization Laws.** For the first time, the
     proposed Fiscal Year 2025 budget invests in state and local efforts
     to promote equity and protect civil rights through a new $10 million
