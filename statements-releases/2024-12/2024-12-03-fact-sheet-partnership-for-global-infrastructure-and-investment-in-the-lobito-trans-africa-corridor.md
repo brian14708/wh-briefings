@@ -1,6 +1,6 @@
 ---
 date: '2024-12-03'
-modified_time: 2024-12-04 05:39:04-05:00
+modified_time: 2024-12-04 10:15:55-05:00
 published_time: 2024-12-03 23:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/
 tags: statements-releases
@@ -110,7 +110,7 @@ the long-term.
     intelligence to develop a critical minerals site in Zambia, signed
     Memorandum of Understanding (MOU) with AFC committing to anchor the
     commercial viability of the Zambia-Lobito rail project with more
-    than 300,000 tons of copper per year from its Mingoma mine.  AFC
+    than 300,000 tons of copper per year from its Mingomba mine.  AFC
     will collaborate with KoBold to support the Mingomba project,
     through a combination of project development funding, equity, or
     debt financing as required.
