@@ -1,6 +1,6 @@
 ---
 date: '2024-12-03'
-modified_time: 2024-12-03 16:41:43-05:00
+modified_time: 2024-12-04 05:39:04-05:00
 published_time: 2024-12-03 23:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/
 tags: statements-releases
@@ -45,16 +45,17 @@ also celebrated the signing of the concession agreement, which allows
 the next phase of development to continue.  The target date to break
 ground is early 2026.  
    
-Today, President Biden is announcing $600 million in new funding for
-infrastructure projects along the Corridor, bringing the total for U.S.
-investments to more than $4 billion. With these announcements and
-together with G7 partners and regional development banks, international
-investment in the Lobito Corridor has exceeded $6 billion. These
-investments will be  mobilized towards new and continuing projects that
-support the economic potential and development impacts of the Corridor
-across multiple interconnected sectors, including transportation and
-logistics, agriculture, clean energy and associated supply chains,
-health, and digital access.  
+Today, President Biden is announcing over $560 million in new funding,
+including commitments expected to generate at least $200 million in
+additional private sector capital, for infrastructure projects along the
+Corridor, bringing the total for U.S. investments to more than $4
+billion. With these announcements and together with G7 partners and
+regional development banks, international investment in the Lobito
+Corridor has exceeded $6 billion. These investments will be  mobilized
+towards new and continuing projects that support the economic potential
+and development impacts of the Corridor across multiple interconnected
+sectors, including transportation and logistics, agriculture, clean
+energy and associated supply chains, health, and digital access.  
    
 **Transportation and Logistics  
 **   
