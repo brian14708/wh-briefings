@@ -1,6 +1,6 @@
 ---
 date: '2024-12-11'
-modified_time: 2024-12-11 08:55:14-05:00
+modified_time: 2024-12-11 12:15:55-05:00
 published_time: 2024-12-11 08:55:13-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/11/fact-sheet-for-human-rights-day-highlighting-the-biden-harris-administration-global-human-rights-accomplishments/
 tags: statements-releases
@@ -187,7 +187,7 @@ Political Prisoners</u>*
     and
     [Bosnia](https://www.justice.gov/opa/pr/man-charged-torturing-prisoners).
 -   On December 9, 2024, DOJ
-    [unsealed](/Users/MMBrinkman/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/CJHUNXYY/oOn%20December%209,%202024,%20DOJ%20unsealed%20an%20indictment%20in%20the%20Northern%20District%20of%20Illinois%20charging%20two%20high-ranking%20Syrian%20officials%20under%20former%20President%20Bashar%20al-Assad%20with%20war%20crimes.%20The%20indictment%20charges%20the%20former%20Syrian%20intelligence%20officials%20with%20engaging%20in%20a%20conspiracy%20to%20commit%20cruel%20and%20inhuman%20treatment%20of%20civilian%20detainees,%20including%20U.S.%20citizens,%20during%20the%20course%20of%20the%20Syrian%20civil%20war.)
+    [unsealed](https://www.justice.gov/opa/pr/criminal-charges-unsealed-against-two-former-high-ranking-syrian-government-intelligence)
     an indictment in the Northern District of Illinois charging two
     high-ranking Syrian officials under former President Bashar al-Assad
     with war crimes. The indictment charges the former Syrian
@@ -429,13 +429,13 @@ Political Prisoners</u>*
     technology for democracy, media freedom, countering the misuse of
     technology, and improving financial transparency, gender equity and
     equality, and rule of law. 
--   **Fought Anti-Corruption** **Globally.** The Biden-Harris
-    Administration established countering corruption as a “core U.S.
-    national security interest,” and issued the first-ever [United
-    States Strategy on Countering
+-   **Fought Anti-Corruption Globally.** The Biden-Harris Administration
+    established countering corruption as a “core U.S. national security
+    interest,” and issued the first-ever [United States Strategy on
+    Countering
     Corruption](https://www.whitehouse.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf).
     Since then, the United States has [taken
-    action](/Users/JFHuber/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/QJGLG3P7/U.S.%20progress%20on%20anti-corruption%20has%20produced%20concrete%20benefits%20for%20the%20American%20people%20and%20stakeholders%20around%20the%20world)
+    action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/)
     at home and around the world to curb illicit finance, hold corrupt
     actors accountable, forge multilateral partnerships, and equip
     frontline leaders to take on transnational corruption.
