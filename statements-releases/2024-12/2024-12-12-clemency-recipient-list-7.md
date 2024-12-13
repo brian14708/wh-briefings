@@ -1,5 +1,6 @@
 ---
 date: '2024-12-12'
+modified_time: 2024-12-13 09:15:37-05:00
 published_time: 2024-12-12 11:42:52-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/clemency-recipient-list-7/
 tags: statements-releases
@@ -231,7 +232,7 @@ her husband also started a program that feeds approximately 100
 families. Friends, work associates, and neighbors describe Ms. Parker as
 law-abiding, trustworthy, dependable, and dedicated person.
 
-MICHAEL GARY PELLETIER – Augusta, Maine  
+MICHAEL GARY PELLETIER – Englewood, Florida  
 Michael Gary Pelletier is a 67-year-old man who pleaded guilty to a
 non-violent offense. Mr. Pelletier served in the U.S. Coast Guard for 14
 years on active duty, where he participated in more than 790 search and
@@ -336,7 +337,7 @@ fundraisers, and annual autism-related charitable events. Friends and
 coworkers uniformly praise Ms. Villanueva and describe her as warm,
 reliable, and always eager to help.
 
-LASHAWN MARRVINIA WALKER – Minneapolis, Minnesota  
+LASHAWN MARRVINIA WALKER – Robbinsdale, Minnesota  
 Lashawn Marrvinia Walker is a 51-year-old woman who pleaded guilty to
 non-violent drug offenses in her 20s. Ms. Walker received early
 termination of her probationary sentence for her exemplary probation
@@ -396,7 +397,7 @@ community health fairs and raising funds for non-profit health
 organizations. Ms. Wilson has been praised for her work ethic,
 trustworthiness, and dependability by community members.
 
-LORA NICOLE WOOD – Maxwell, Nevada  
+LORA NICOLE WOOD – Maxwell, Nebraska  
 Lora Nicole Wood is a 39-year-old woman who pleaded guilty to a
 non-violent drug offense when she was 19 years old. Since her release,
 Ms. Wood has maintained steady employment and is an engaged parent. She
