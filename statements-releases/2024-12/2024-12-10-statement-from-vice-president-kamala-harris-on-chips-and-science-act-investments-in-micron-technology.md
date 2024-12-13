@@ -1,6 +1,6 @@
 ---
 date: '2024-12-10'
-modified_time: 2024-12-10 00:21:55-05:00
+modified_time: 2024-12-13 11:02:01-05:00
 published_time: 2024-12-10 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/10/statement-from-vice-president-kamala-harris-on-chips-and-science-act-investments-in-micron-technology/
 tags: statements-releases
@@ -20,9 +20,9 @@ the only U.S. based manufacturer of memory chips. This more than $6.1
 billion investment in Clay, NY and Boise, ID supports the construction
 of several state-of-the-art memory chips facilities as part of Micron’s
 total $125 billion investment over the next few decades, creating at
-least 20,000 jobs by the end of the decade. These investments will help
-the U.S. grow its share of advanced memory manufacturing from nearly 0%
-today to 10% over the next decade.  
+least 20,000 jobs. These investments will help the U.S. grow its share
+of advanced memory manufacturing from nearly 0% today to 10% over the
+next decade.  
   
 I am also proud to say that Micron is building these facilities by
 utilizing project labor agreements and registered apprenticeship
