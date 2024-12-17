@@ -1,6 +1,6 @@
 ---
 date: '2024-12-15'
-modified_time: 2024-12-15 10:49:58-05:00
+modified_time: 2024-12-16 21:52:47-05:00
 published_time: 2024-12-15 12:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/15/fact-sheet-progress-by-biden-harris-good-jobs-task-force/
 tags: statements-releases
@@ -55,12 +55,12 @@ job.
 more than 100 federal investments are in manufacturing and clean energy
 projects covered by collective bargaining agreements.**
 
-Nearly 100% of the announced total funding awarded through Domestic
-Manufacturing Conversion Grants, over 75% of total funding awarded
-through the Grid Resilience and Innovation Partnership (GRIP) Program,
-and 70% of total funding awarded through the Battery Materials
-Processing and Battery Manufacturing and Recycling grants are going to
-work places covered by Community Benefits Agreements.
+100% of the announced awards through Domestic Manufacturing Conversion
+Grants, over 75% of total funding awarded through the Grid Resilience
+and Innovation Partnership (GRIP) Program, and 70% of total funding
+awarded through the Battery Materials Processing and Battery
+Manufacturing and Recycling grants, are going to workplaces with
+Collective Bargaining Agreements
 
 By promoting these agreements, the Biden-Harris Administration has had a
 transformative impact on workers’ lives.
