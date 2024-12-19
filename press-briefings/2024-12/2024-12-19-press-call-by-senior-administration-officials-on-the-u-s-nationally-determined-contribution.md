@@ -1,6 +1,6 @@
 ---
 date: '2024-12-19'
-modified_time: 2024-12-18 17:09:18-05:00
+modified_time: 2024-12-19 11:02:26-05:00
 published_time: 2024-12-19 05:00:00-05:00
 source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/19/press-call-by-senior-administration-officials-on-the-u-s-nationally-determined-contribution/
 tags: press-briefings
@@ -223,9 +223,9 @@ to net zero, which is critical for 1.5 degrees.
 
 Our new commitment meet — meets that standard. 
 
-Some national leaders in the United States can continue to show the
-world that American climate leadership is determined by so much more
-than whoever sits in the Oval Office.
+Subnational leaders in the United States can continue to show the world
+that American climate leadership is determined by so much more than
+whoever sits in the Oval Office.
 
 It happens on the ground, in our cities and states, from Phoenix to
 Pittsburgh, from Boise to Baltimore.  And I believe that with this new
