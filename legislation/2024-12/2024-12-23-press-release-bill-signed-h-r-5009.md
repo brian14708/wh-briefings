@@ -1,6 +1,6 @@
 ---
 date: '2024-12-23'
-modified_time: 2024-12-23 20:44:02-05:00
+modified_time: 2024-12-24 15:17:47-05:00
 published_time: 2024-12-23 20:44:01-05:00
 source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/12/23/press-release-bill-signed-h-r-5009/
 tags: legislation
