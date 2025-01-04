@@ -1,5 +1,6 @@
 ---
 date: '2025-01-04'
+modified_time: 2025-01-04 09:48:58-05:00
 published_time: 2025-01-04 08:04:02-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/04/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-3/
 tags: statements-releases
