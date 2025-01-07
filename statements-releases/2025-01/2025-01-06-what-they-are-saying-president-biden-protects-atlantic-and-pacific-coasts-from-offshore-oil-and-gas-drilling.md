@@ -1,5 +1,6 @@
 ---
 date: '2025-01-06'
+modified_time: 2025-01-07 08:38:37-05:00
 published_time: 2025-01-06 20:13:43-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/what-they-are-saying-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/
 tags: statements-releases
@@ -16,9 +17,9 @@ and natural gas leasing. In protecting more than 625 million acres of
 the U.S. ocean from offshore drilling, President Biden has determined
 that the environmental and economic risks and harms that would result
 from drilling in these areas outweigh their limited fossil fuel resource
-potential. With these withdrawals, President *has now conserved over 670
-million acres of America’s lands and waters, more than any other
-president in history*.
+potential. With these withdrawals, President Biden has now conserved
+over 670 million acres of America’s lands and waters, more than any
+other president in history.
 
 Leaders across the country applauded today’s announcement:
 
