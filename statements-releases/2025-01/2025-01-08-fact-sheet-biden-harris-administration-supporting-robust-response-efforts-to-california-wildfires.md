@@ -1,6 +1,6 @@
 ---
 date: '2025-01-08'
-modified_time: 2025-01-08 14:50:37-05:00
+modified_time: 2025-01-08 15:34:57-05:00
 published_time: 2025-01-08 14:50:36-05:00
 source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/fact-sheet-biden-harris-administration-supporting-robust-response-efforts-to-california-wildfires/
 tags: statements-releases
@@ -23,10 +23,10 @@ to assess on-the-ground community needs like additional sheltering
 options and damage assessments.  
 
 **Today, President Biden has approved a Major Disaster declaration for
-California, allowing survivors to immediately access funds and resources
-to jumpstart their recovery.** Additionally, FEMA approved a Fire
-Management Assistance Grant to reimburse California for firefighting
-costs last night.
+California, allowing impacted communities and survivors to immediately
+access funds and resources to jumpstart their recovery. Additionally,
+FEMA has approved Fire Management Assistance Grants to reimburse
+California for firefighting costs last night.**
 
 The Biden-Harris Administration has been in constant communication with
 California Governor Gavin Newsom, Los Angeles Mayor Karen Bass, their
