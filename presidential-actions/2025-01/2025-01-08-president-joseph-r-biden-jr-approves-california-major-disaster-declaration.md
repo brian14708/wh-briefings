@@ -1,5 +1,6 @@
 ---
 date: '2025-01-08'
+modified_time: 2025-01-09 11:29:58-05:00
 published_time: 2025-01-08 20:10:32-05:00
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/08/president-joseph-r-biden-jr-approves-california-major-disaster-declaration/
 tags: presidential-actions
@@ -37,8 +38,8 @@ are fully completed.
 
 Residents and business owners who sustained losses in the designated
 areas can begin applying for assistance at
-[www.DisasterAssistance.gov](/Users/BMKodira/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TZBEZPWH/www.DisasterAssistance.gov),
-or by calling 800-621-FEMA (3362), or by using the [FEMA
+[www.DisasterAssistance.gov](https://www.disasterassistance.gov/), or by
+calling 800-621-FEMA (3362), or by using the [FEMA
 App](https://www.ready.gov/fema-app). Anyone using a relay service, such
 as video relay service (VRS), captioned telephone service or others, can
 give FEMA the number for that service. 
