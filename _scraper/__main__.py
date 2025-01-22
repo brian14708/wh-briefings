@@ -31,11 +31,11 @@ def parse_index(html: str) -> Tuple[List[Article], Optional[str]]:
         next_url = n['href']
     # find all articles
     articles = []
-    for a in soup.find_all('article'):
+    for a in soup.find_all('main'):
         title = a.find('h2')
         link = title.find('a')['href']
         *_, category = urllib.parse.urlparse(
-            a.find('a', rel='category tag')['href']
+            a.find('a', rel='tag')['href']
         ).path.rstrip('/').split('/')
         *_, slug = urllib.parse.urlparse(
             link
@@ -60,7 +60,7 @@ async def parse_article(html: str, article: Article) -> str:
     if mt:
         article.modified_time = datetime.fromisoformat(
             mt['content']).astimezone(article.published_time.tzinfo)
-    a = soup.find('article').find('section').encode()
+    a = b'\n'.join(map(lambda p: p.encode(), soup.find('main').find_all('p')))
     proc = await asyncio.create_subprocess_exec('pandoc', '-s', '-f', 'html', '-t', 'markdown_strict',
                                                 stdin=asyncio.subprocess.PIPE,
                                                 stdout=asyncio.subprocess.PIPE)
