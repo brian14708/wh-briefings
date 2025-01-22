@@ -180,6 +180,32 @@ Environmental Impact Statement,” 85 *Fed. Reg.* 38388 (June 26, 2020);
 \(xv\)     reinstate the following Public Land Orders in their original
 form:
 
+1.  Public Land Order No. 7899, signed by the Secretary of the Interior
+    on January 11, 2021;
+    1.    Public Land Order No. 7900, signed by the Secretary of the
+        Interior on January 16, 2021;
+
+    <!-- -->
+
+    1.    Public Land Order No. 7901, signed by the Secretary of the
+        Interior on January 16, 2021;
+
+    <!-- -->
+
+    1.    Public Land Order No. 7902, signed by the Secretary of the
+        Interior on January 15, 2021;
+
+    <!-- -->
+
+    1.    Public Land Order No. 7903, signed by the Secretary of the
+        Interior on January 16, 2021; and
+
+    <!-- -->
+
+    1.    any other such Public Land Order that the Secretary of the
+        Interior determines would further the policy interests described
+        in section 2 of this order.
+
 (xvi)    immediately review all Department of the Interior guidance
 regarding the taking of Alaska Native lands into trust and all Public
 Land Orders withdrawing lands for selection by Alaska Native

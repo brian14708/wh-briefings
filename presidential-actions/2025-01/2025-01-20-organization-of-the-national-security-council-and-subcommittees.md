@@ -80,10 +80,46 @@ of the Homeland Security Advisor. 
 (a)  *Membership. * The NSC membership consists of the statutory members
 set forth in section 101(c)(1) of the Act (50 U.S.C. 3021(c)(1)):
 
+1.  The President;
+
+-   The Vice President;
+-   The Secretary of State;
+
+<!-- -->
+
+-   The Secretary of the Treasury;
+
+<!-- -->
+
+-   The Secretary of Defense;
+
+<!-- -->
+
+-   The Secretary of Energy;
+
+<!-- -->
+
+-   The Director of the Office of Pandemic Preparedness and Response
+    Policy;
+
 and additional members hereby designated by the President pursuant to
 section 101(c)(1) of the Act:
 
+-   The Attorney General;
+
+<!-- -->
+
+-   The Secretary of the Interior;
+
+1.  Chief of Staff to the President (White House Chief of Staff); and
+
+<!-- -->
+
+1.  The National Security Advisor.
+
 When the NSC convenes as the HSC, members shall also include:
+
+1.  The Secretary of Homeland Security; and
 
 13\) The Homeland Security Advisor.
 
@@ -99,9 +135,38 @@ requirements, and other considerations.
 As regular practice, the National Security Advisor and Homeland Security
 Advisor shall include as additional non-voting attendees:
 
+1.  The Director of National Intelligence (non-voting advisor);
+
+-   The Assistant to the President and Principal Deputy National
+    Security Advisor (non-voting advisor and principal notetaker) or,
+    when convening as the HSC, the Deputy Homeland Security Advisor
+    (non-voting advisor and principal notetaker);
+
+<!-- -->
+
+-   The Chairman of the Joint Chiefs of Staff (non-voting advisor); and
+
+<!-- -->
+
+-   The Director of the Central Intelligence Agency (non-voting
+    advisor).
+
 \(c\)  *NSC Regular Invitees.*  Unless specifically restricted, these
 officials are invited to attend any NSC and HSC meeting as non-voting
 advisors:
+
+1.  The Assistant to the President and Counsel to the President;
+
+-   The Assistant to the President and Deputy Chief of Staff for Policy;
+
+<!-- -->
+
+-   The Assistant to the President for Policy; and
+
+<!-- -->
+
+-   The Deputy Counsel to the President for National Security Affairs
+    and Legal Counsel to the National Security Advisor.
 
 4.  *Right to Propose Agenda Items.*
 
@@ -283,6 +348,20 @@ Security Advisor shall include as additional non-voting attendees:
 \(ii\)   *PC Regular Invitees.*  Unless specifically restricted, these
 officials are invited to attend any PC meeting as non-voting advisors:
 
+1.   The Assistant to the President and Counselor to the President;
+
+-    The Assistant to the President and Deputy Chief of Staff for
+    Policy;
+
+<!-- -->
+
+-    The Assistant to the President for Policy; and
+
+<!-- -->
+
+-    The Deputy Counsel to the President for National Security Affairs
+    and Legal Counsel to the National Security Advisor.
+
 \(iii\)  *Staffing Invitees.  *At the discretion of the Chair, staff
 members of the NSC or other appropriate EOP policy councils may be
 invited to attend specific PC meetings to assist the Executive Secretary
@@ -363,6 +442,42 @@ considerations.
 As regular practice, the Principal Deputy National Security Advisor
 shall include as DC attendees:
 
+1.  The Deputy Secretary of State;
+
+-   The Deputy Secretary of the Treasury;
+
+<!-- -->
+
+-   The Deputy Secretary of Defense;
+
+<!-- -->
+
+-   The Deputy Attorney General;
+
+<!-- -->
+
+-   The Deputy Secretary of Energy;
+
+<!-- -->
+
+-   The Deputy Director of National Intelligence (non-voting advisor);
+
+<!-- -->
+
+-   The Vice Chairman of the Joint Chiefs of Staff (non-voting advisor);
+
+<!-- -->
+
+-   The Deputy Director of the Central Intelligence Agency (non-voting
+    advisor);
+
+<!-- -->
+
+-   The Executive Secretary of the NSC (non-voting advisor and principal
+    notetaker); and
+
+1.  The National Security Advisor to the Vice President.
+
 When homeland security issues are on the DC agenda, the DC’s regular
 attendees will also include:
 
@@ -372,6 +487,10 @@ attendees will also include:
 
 \(b\)  *DC Regular Invitees.*  These officials are invited to attend any
 DC meeting:
+
+1.  The Deputy Director of the Office of Management and Budget; and
+
+-   The Deputy Assistant to the President and Senior Policy Strategist.
 
 D.  Policy Coordination Committees
 
