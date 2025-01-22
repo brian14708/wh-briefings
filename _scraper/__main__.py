@@ -60,7 +60,10 @@ async def parse_article(html: str, article: Article) -> str:
     if mt:
         article.modified_time = datetime.fromisoformat(
             mt['content']).astimezone(article.published_time.tzinfo)
-    a = b'\n'.join(map(lambda p: p.encode(), soup.find('main').find_all('p')))
+    main = soup.find('main')
+    for topper in main.find_all(class_="wp-block-whitehouse-topper"):
+        topper.decompose()
+    a = main.encode()
     proc = await asyncio.create_subprocess_exec('pandoc', '-s', '-f', 'html', '-t', 'markdown_strict',
                                                 stdin=asyncio.subprocess.PIPE,
                                                 stdout=asyncio.subprocess.PIPE)
