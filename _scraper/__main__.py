@@ -31,7 +31,7 @@ def parse_index(html: str) -> Tuple[List[Article], Optional[str]]:
         next_url = n['href']
     # find all articles
     articles = []
-    for a in soup.find_all('main'):
+    for a in soup.find('main').find_all('li'):
         title = a.find('h2')
         link = title.find('a')['href']
         *_, category = urllib.parse.urlparse(
