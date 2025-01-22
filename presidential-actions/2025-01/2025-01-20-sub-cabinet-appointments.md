@@ -1,6 +1,6 @@
 ---
 date: '2025-01-20'
-modified_time: 2025-01-20 17:17:34-05:00
+modified_time: 2025-01-22 14:01:40-05:00
 published_time: 2025-01-20 14:35:00-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments/
 tags: presidential-actions
@@ -155,13 +155,6 @@ Control and Prevention. (New Position)
 
 Brandon Williams, of New York, to be Under Secretary for Nuclear
 Security, vice Jill Hruby, resigned.
-
-Dudley Hoskins, of the District of Columbia, to be Under Secretary of
-Agriculture for Marketing and Regulatory Programs, vice Jennifer Lester
-Moffitt, resigned.
-
-Luke Lindberg, of South Dakota, to be Under Secretary of Agriculture for
-Trade and Foreign Agricultural Affairs, vice Alexis Taylor, resigned.
 
 Keith Sonderling, of Florida, to be Deputy Secretary of Labor, vice
 Julie A. Su, resigned.
