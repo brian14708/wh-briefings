@@ -1,13 +1,14 @@
 ---
 date: '2025-01-23'
+modified_time: 2025-01-23 11:48:54-05:00
 published_time: 2025-01-23 11:25:09-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/readout-of-president-donald-j-trump-call-with-crown-prince-mohammad-bin-salman/
 tags: presidential-actions
-title: Readout of President Donald J. Trump Call with Crown Prince Mohammad Bin Salman
+title: Readout of President Donald J. Trump Call with Crown Prince Mohammed Bin Salman
 ---
  
 On Wednesday, President Donald J. Trump held his first foreign leader
-call with Crown Prince Mohammad Bin Salman of the Kingdom of Saudi
+call with Crown Prince Mohammed Bin Salman of the Kingdom of Saudi
 Arabia. The two leaders discussed efforts to bring stability to the
 Middle East, bolster regional security, and combat terrorism.
 Additionally, they discussed the Kingdom of Saudi Arabia’s international
