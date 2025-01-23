@@ -1,11 +1,11 @@
 ---
 date: '2025-01-22'
-modified_time: 2025-01-22 15:07:23-05:00
+modified_time: 2025-01-22 19:20:45-05:00
 published_time: 2025-01-22 14:41:52-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/fact-sheet-president-donald-j-trump-delivers-emergency-price-relief-for-american-families-to-defeat-the-cost-of-living-crisis-2/
 tags: presidential-actions
-title: 'Fact Sheet: President Donald J. Trump Delivers Emergency Price Relief for
-  American Families to Defeat the Cost-of-Living Crisis'
+title: 'Fact Sheet: President Donald J. Trump Declares a National Emergency at the
+  Southern Border'
 ---
  
 INVOKING A NATIONAL EMERGENCY: Today, President Donald J. Trump signed
