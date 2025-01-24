@@ -1,9 +1,10 @@
 ---
 date: '2025-01-23'
+modified_time: 2025-01-24 11:33:40-05:00
 published_time: 2025-01-23 13:41:29-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-at-the-world-economic-forum/
 tags: remarks
-title: REMARKS BY PRESIDENT TRUMP AT THE WORLD ECONOMIC FORUM
+title: Remarks By President Trump at the World Economic Forum
 ---
  
 REMARKS BY PRESIDENT TRUMP AT THE WORLD ECONOMIC FORUM
