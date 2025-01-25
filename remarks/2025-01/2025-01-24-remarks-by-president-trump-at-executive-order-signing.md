@@ -1,5 +1,6 @@
 ---
 date: '2025-01-24'
+modified_time: 2025-01-24 19:45:32-05:00
 published_time: 2025-01-24 17:42:57-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-at-executive-order-signing/
 tags: remarks
