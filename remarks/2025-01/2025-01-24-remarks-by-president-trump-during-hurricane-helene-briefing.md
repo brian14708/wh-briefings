@@ -1,13 +1,12 @@
 ---
 date: '2025-01-24'
+modified_time: 2025-01-27 10:20:22-05:00
 published_time: 2025-01-24 16:28:39-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-during-hurricane-helene-briefing/
 tags: remarks
 title: Remarks by President Trump During Hurricane Helene Briefing
 ---
  
-For Immediate Release                           January 24, 2025
-
 REMARKS BY PRESIDENT TRUMP  
 DURING HURRICANE HELENE BRIEFING  
    

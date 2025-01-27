@@ -1,5 +1,6 @@
 ---
 date: '2025-01-24'
+modified_time: 2025-01-27 10:47:58-05:00
 published_time: 2025-01-24 21:51:12-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/01/president-trump-announces-appointments-to-the-white-house-offices-of-communications-public-liaison-and-cabinet-affairs/
 tags: briefings-statements

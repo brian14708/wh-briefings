@@ -1,14 +1,12 @@
 ---
 date: '2025-01-24'
-modified_time: 2025-01-24 13:48:48-05:00
+modified_time: 2025-01-27 10:19:24-05:00
 published_time: 2025-01-24 13:48:13-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-after-air-force-one-arrival-fletcher-nc/
 tags: remarks
 title: Remarks by President Trump After Air Force One Arrival Fletcher, NC
 ---
  
-For Immediate Release                       January 24, 2025
-
 REMARKS BY PRESIDENT TRUMP
 
 AFTER AIR FORCE ONE ARRIVAL

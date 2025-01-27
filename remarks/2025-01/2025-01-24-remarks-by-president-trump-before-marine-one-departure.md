@@ -1,13 +1,12 @@
 ---
 date: '2025-01-24'
-modified_time: 2025-01-24 11:57:21-05:00
+modified_time: 2025-01-27 10:19:45-05:00
 published_time: 2025-01-24 11:57:20-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-before-marine-one-departure/
 tags: remarks
 title: Remarks by President Trump Before Marine One Departure
 ---
  
-For Immediate Release                          January 24, 2025  
  
 
 REMARKS BY PRESIDENT TRUMP  

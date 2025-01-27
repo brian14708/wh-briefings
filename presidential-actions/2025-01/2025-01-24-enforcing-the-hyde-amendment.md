@@ -1,9 +1,10 @@
 ---
 date: '2025-01-24'
+modified_time: 2025-01-27 11:07:36-05:00
 published_time: 2025-01-24 19:58:21-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/
 tags: presidential-actions
-title: ENFORCING THE HYDE AMENDMENT
+title: Enforcing the Hyde Amendment
 ---
  
 By the authority vested in me as President by the Constitution and the
