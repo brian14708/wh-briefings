@@ -1,6 +1,6 @@
 ---
 date: '2025-01-24'
-modified_time: 2025-01-24 12:14:38-05:00
+modified_time: 2025-01-28 10:09:33-05:00
 published_time: 2025-01-24 11:38:24-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/01/president-trump-announces-presidential-delegation-to-attend-the-commemoration-of-the-80th-anniversary-of-the-liberation-of-auschwitz-birkenau-in-oswiecim-poland/
 tags: briefings-statements
@@ -11,9 +11,6 @@ title: "President Trump Announces Presidential Delegation to attend the Commemor
  
 **FOR IMMEDIATE RELEASE**  
 01/24/25
-
-THE WHITE HOUSE  
-Office of Communications
 
 **President Trump Announces Presidential Delegation to attend the
 Commemoration of the 80<sup>th</sup> Anniversary of the Liberation of

@@ -1,6 +1,6 @@
 ---
 date: '2025-01-27'
-modified_time: 2025-01-27 14:21:43-05:00
+modified_time: 2025-01-27 17:31:16-05:00
 published_time: 2025-01-27 14:21:42-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/
 tags: briefings-statements
