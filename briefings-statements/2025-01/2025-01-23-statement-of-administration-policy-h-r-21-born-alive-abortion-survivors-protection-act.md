@@ -1,10 +1,10 @@
 ---
 date: '2025-01-23'
-modified_time: 2025-01-24 11:30:48-05:00
+modified_time: 2025-01-28 11:37:55-05:00
 published_time: 2025-01-23 15:54:10-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/01/statement-of-administration-policy-h-r-21-born-alive-abortion-survivors-protection-act/
 tags: briefings-statements
-title: "STATEMENT OF ADMINISTRATION POLICY H.R. 21 \u2013 Born-Alive Abortion Survivors\
+title: "Statement of Administration Policy H.R. 21 \u2013 Born-Alive Abortion Survivors\
   \ Protection Act"
 ---
  

@@ -1,6 +1,6 @@
 ---
 date: '2025-01-23'
-modified_time: 2025-01-24 12:27:56-05:00
+modified_time: 2025-01-28 12:00:34-05:00
 published_time: 2025-01-23 15:41:10-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-directs-administration-to-advance-lumbee-tribe-recognition/
 tags: fact-sheets
@@ -21,7 +21,7 @@ federal recognition of the Lumbee Tribe of North Carolina.
     legislation or other available mechanisms, including the right to
     receive full federal benefits.  
 
-FULL FEDERAL RECOGNITION IS LONG OVERDUE:The Lumbee have long been
+FULL FEDERAL RECOGNITION IS LONG OVERDUE: The Lumbee have long been
 recognized at the state and federal level, but further federal action is
 required for full federal recognition and the accompanying benefits and
 protections.
