@@ -1,6 +1,6 @@
 ---
 date: '2025-01-24'
-modified_time: 2025-01-28 11:33:42-05:00
+modified_time: 2025-01-28 14:47:08-05:00
 published_time: 2025-01-24 20:09:26-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-health-and-human-services-the-administrator-of-the-united-states-for-international-development/
 tags: presidential-actions

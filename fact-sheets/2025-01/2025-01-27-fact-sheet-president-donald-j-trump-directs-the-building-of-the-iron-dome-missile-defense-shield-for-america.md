@@ -1,6 +1,6 @@
 ---
 date: '2025-01-27'
-modified_time: 2025-01-28 08:29:32-05:00
+modified_time: 2025-01-28 14:43:52-05:00
 published_time: 2025-01-27 08:29:00-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-directs-the-building-of-the-iron-dome-missile-defense-shield-for-america/
 tags: fact-sheets

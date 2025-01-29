@@ -1,6 +1,6 @@
 ---
 date: '2025-01-27'
-modified_time: 2025-01-27 23:35:05-05:00
+modified_time: 2025-01-28 17:07:49-05:00
 published_time: 2025-01-27 23:35:04-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate/
 tags: presidential-actions

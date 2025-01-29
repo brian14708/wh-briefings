@@ -1,6 +1,6 @@
 ---
 date: '2025-01-25'
-modified_time: 2025-01-25 14:00:45-05:00
+modified_time: 2025-01-28 14:44:51-05:00
 published_time: 2025-01-25 13:47:52-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-enforces-overwhelmingly-popular-demand-to-stop-taxpayer-funding-of-abortion/
 tags: fact-sheets
